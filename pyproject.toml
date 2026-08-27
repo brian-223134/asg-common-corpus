@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "asg-common-corpus"
+version = "0.1.0"
+description = "Common paper corpus for Automated Survey Generation agents, built from the Science Data Lake (OpenAlex)."
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.1",
+    "pyarrow>=15",
+    "pydantic>=2",
+    "typer>=0.12",
+    "pyyaml",
+    "huggingface_hub>=0.25",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+common-corpus = "common_corpus.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,16 @@
+# Science Data Lake (HuggingFace) — upstream pin. Do NOT use "main" implicitly.
+repo_id: J0nasW/science-datalake
+revision: cd87dd095f86aa7306aef70024e250f4839b1f71   # lastModified 2026-04-11
+openalex_snapshot: "2026-02-03"
+license: CC0-1.0   # OpenAlex tables only
+
+# Selective mirror: only what CorpusBuilder reads (~160 GB). See docs/00-status-2026-08-27.md §8.
+mirror_dir: data/upstream/cd87dd0
+files:
+  - openalex/domains/domains.parquet
+  - openalex/fields/fields.parquet
+  - openalex/subfields/subfields.parquet
+  - openalex/topics/topics.parquet
+  - openalex/works_topics/works_topics.parquet        # 8.2 GB
+  - openalex/works_locations/works_locations.parquet  # 17.3 GB — arXiv id extraction
+  - openalex/works/works.parquet                      # 134.8 GB
