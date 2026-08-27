@@ -221,3 +221,9 @@ __marimo__/
 CLAUDE.md
 *.pdf
 papers/
+
+# asg-common-corpus: large or local-only
+data/
+logs/
+docs/
+
