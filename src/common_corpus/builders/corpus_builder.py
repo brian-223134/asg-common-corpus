@@ -148,6 +148,10 @@ def build(up: UpstreamConfig, cfg: CorpusConfig, sample: int | None = None, thre
         f"COPY ({_sql('build_papers.sql')}) TO '{papers_path}' (FORMAT PARQUET, COMPRESSION ZSTD)", params))
     con.execute(f"CREATE OR REPLACE TEMP TABLE selected AS SELECT paper_id FROM '{papers_path}'")
     audit["papers_final"] = con.sql("SELECT count(*) FROM selected").fetchone()[0]
+    pre_dedup = con.execute(
+        f"SELECT count(*) FROM ({_sql('build_papers.sql').split('QUALIFY')[0]})", params
+    ).fetchone()[0]
+    audit["arxiv_dedup_dropped"] = pre_dedup - audit["papers_final"]
 
     # 4) paper_topics.parquet
     topics_path = out / "paper_topics.parquet"
