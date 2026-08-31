@@ -12,3 +12,32 @@ views:
     month_precision_policy: strict   # month 정밀도 논문은 월말<=cutoff일 때만 포함 (누수 방지)
     exclude_arxiv_ids: []            # GT survey의 arXiv base id 목록 (version family 대용)
     exclude_paper_ids: []            # OpenAlex W-id 로 직접 제외
+
+  # 실제 평가용 view (2026-08-31 생성, 947,444편). CLI 플래그로만 만들어졌던 것을
+  # 재현 가능하도록 등록 — 값은 data/views/surveyeval-2512/view_manifest.json 과 일치.
+  # exclude 목록은 SurveyBench GT survey 20편의 arXiv base id.
+  surveyeval-2512:
+    cutoff: "2025-12-31"
+    month_precision_policy: strict
+    exclude_arxiv_ids:
+      - "2005.06249"
+      - "2006.00575"
+      - "2010.00389"
+      - "2102.12982"
+      - "2110.05006"
+      - "2112.08313"
+      - "2201.05337"
+      - "2202.13675"
+      - "2204.09269"
+      - "2206.15030"
+      - "2209.00099"
+      - "2209.01824"
+      - "2212.09660"
+      - "2305.02750"
+      - "2306.11646"
+      - "2309.00770"
+      - "2309.15402"
+      - "2311.08298"
+      - "2311.09008"
+      - "2312.00678"
+    exclude_paper_ids: []
