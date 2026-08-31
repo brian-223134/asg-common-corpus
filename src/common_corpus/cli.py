@@ -81,6 +81,23 @@ def create_view(
     _create(corpus_dir if corpus_dir.is_absolute() else PROJECT_ROOT / corpus_dir, cfg, materialize=materialize)
 
 
+@app.command("fetch-fulltext")
+def fetch_fulltext(
+    paper_id: str = typer.Option(None, help="corpus paper_id (W-id)"),
+    arxiv_id: str = typer.Option(None, help="arXiv base id (corpus 미조회 직접 지정)"),
+    corpus_dir: Path = typer.Option(Path("data/corpus/v0.1-poc")),
+):
+    """Phase B5 — 논문 1편의 full text를 lazy fetch/parse해 캐시에 freeze."""
+    from common_corpus.config import PROJECT_ROOT
+    from common_corpus.fulltext.resolver import FullTextResolver
+
+    setup_logging("fulltext")
+    r = FullTextResolver(corpus_dir=corpus_dir if corpus_dir.is_absolute() else PROJECT_ROOT / corpus_dir)
+    doc = r.resolve(paper_id=paper_id, arxiv_id=arxiv_id)
+    log.info("resolved %s %s%s format=%s chars=%d sha=%s",
+             doc.paper_id or "-", doc.source_id, doc.version, doc.source_format, len(doc.text), doc.sha256[:12])
+
+
 @app.command()
 def mirror(config: Path = typer.Option(None), no_verify: bool = typer.Option(False)):
     """Phase B0.5 — download the selective upstream mirror (resumable)."""
