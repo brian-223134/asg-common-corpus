@@ -1,0 +1,14 @@
+# Benchmark temporal policy (spec §12) — corpus 구현과 분리된 config. 코드에 hard-code 금지.
+# T_model < T_corpus < T_survey 를 권장.
+benchmark_policy:
+  model_safe_cutoff: null        # backbone knowledge cutoff (실험 확정 시 기입)
+  corpus_cutoff: "2025-12-31"    # 예시값 — 실험 설계 시 갱신
+  gt_first_public_after: null
+
+# view 정의 예시. `common-corpus create-view --name <key>` 로 생성.
+views:
+  example-2512:
+    cutoff: "2025-12-31"
+    month_precision_policy: strict   # month 정밀도 논문은 월말<=cutoff일 때만 포함 (누수 방지)
+    exclude_arxiv_ids: []            # GT survey의 arXiv base id 목록 (version family 대용)
+    exclude_paper_ids: []            # OpenAlex W-id 로 직접 제외
