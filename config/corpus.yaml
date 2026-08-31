@@ -11,3 +11,7 @@ scope:
 citation:
   source: openalex
   snapshot_date: "2026-02-03"
+temporal:
+  # arXiv v1 날짜 소스 (docs/decisions.md D2). 없으면 arxiv_id 연월 + openalex fallback만 사용.
+  arxiv_snapshot_duckdb: /data2/chanjoong/survey-agent/survey-search/data/papers.duckdb
+  arxiv_snapshot_label: arxiv-oai-2026-08

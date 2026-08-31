@@ -11,7 +11,7 @@ SELECT
     w.abstract                                          AS abstract,
     w.language                                          AS language,
     CAST(NULL AS DATE)                                  AS first_public_date,
-    w.publication_date                                  AS publication_date,
+    TRY_CAST(w.publication_date AS DATE)               AS publication_date,  -- parquet stores it as VARCHAR
     'unresolved'                                        AS date_source,
     'unknown'                                           AS date_precision,
     w.type                                              AS paper_type,

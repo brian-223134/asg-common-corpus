@@ -37,11 +37,17 @@ class CitationConfig(BaseModel):
     snapshot_date: str = ""
 
 
+class TemporalConfig(BaseModel):
+    arxiv_snapshot_duckdb: str | None = None
+    arxiv_snapshot_label: str | None = None
+
+
 class CorpusConfig(BaseModel):
     corpus_version: str
     output_dir: str
     scope: ScopeConfig
     citation: CitationConfig
+    temporal: TemporalConfig = TemporalConfig()
 
     @property
     def output_path(self) -> Path:
@@ -113,6 +119,17 @@ def build(up: UpstreamConfig, cfg: CorpusConfig, sample: int | None = None, thre
         "exclude_paratext": s.exclude_paratext,
         "require_arxiv": s.require_arxiv_id,
     }
+    # 3b) temporal resolution (D2): arXiv snapshot (day) -> id YYMM (month) -> openalex (day)
+    tconf = cfg.temporal
+    if tconf.arxiv_snapshot_duckdb and Path(tconf.arxiv_snapshot_duckdb).exists():
+        con.execute(f"ATTACH '{tconf.arxiv_snapshot_duckdb}' AS arxiv_snapshot (READ_ONLY)")
+        step("resolve_temporal", lambda: con.execute(_sql("resolve_temporal.sql")))
+    else:
+        log.warning("no arxiv snapshot source — falling back to id-month/openalex only")
+        con.execute("CREATE OR REPLACE TEMP TABLE arxiv_snapshot_papers_missing AS SELECT 1")
+        con.execute("""CREATE OR REPLACE TEMP TABLE arxiv_dates AS
+            SELECT paper_id, CAST(NULL AS DATE) id_month, CAST(NULL AS DATE) snap_date FROM candidates WHERE FALSE""")
+
     def _count(overrides: dict) -> int:
         p = {**params, **overrides}
         return con.execute(f"SELECT count(*) FROM ({_sql('build_papers.sql')})", p).fetchone()[0]
@@ -138,7 +155,18 @@ def build(up: UpstreamConfig, cfg: CorpusConfig, sample: int | None = None, thre
         f"COPY ({_sql('build_topics.sql')}) TO '{topics_path}' (FORMAT PARQUET, COMPRESSION ZSTD)"))
     audit["paper_topics_rows"] = con.sql(f"SELECT count(*) FROM '{topics_path}'").fetchone()[0]
 
-    # 5) coverage stats on the final set
+    # 5) temporal stats + violations (kept, not dropped — spec §18.2)
+    tstats = {r[0] + "/" + r[1]: r[2] for r in con.sql(f"""
+        SELECT date_source, date_precision, count(*) FROM '{papers_path}' GROUP BY 1,2 ORDER BY 3 DESC
+    """).fetchall()}
+    tviol = con.sql(f"""
+        SELECT count(*) FROM '{papers_path}'
+        WHERE first_public_date IS NOT NULL AND publication_date IS NOT NULL
+          AND first_public_date > publication_date
+    """).fetchone()[0]
+    audit["first_public_gt_publication"] = tviol
+
+    # 5b) coverage stats on the final set
     cov = con.sql(f"""
         SELECT count(*),
                count(doi), count(arxiv_id), count(abstract),
@@ -158,6 +186,11 @@ def build(up: UpstreamConfig, cfg: CorpusConfig, sample: int | None = None, thre
         "selection": cfg.scope.model_dump(),
         "citation": cfg.citation.model_dump(),
         "code_commit": _git_commit(),
+        "temporal": {
+            "arxiv_snapshot_source": tconf.arxiv_snapshot_duckdb,
+            "arxiv_snapshot_label": tconf.arxiv_snapshot_label,
+            "resolution": tstats,
+        },
         "audit": audit,
         "coverage": coverage,
         "timings_seconds": timings,
