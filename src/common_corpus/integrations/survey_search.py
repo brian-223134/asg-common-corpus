@@ -1,8 +1,8 @@
-"""B6 — CorpusView를 agent/survey-search가 소비하는 DB 포맷으로 내보내기.
+"""B6 — CorpusView를 agent가 소비하는 DB 포맷으로 내보내기.
 
-포맷 (docs/integration-guide.md §2, §5):
-- autosurvey  : TinyDB JSON {"_default": {"1": {id,title,url,date,abs,cat}}}
-- surveyforge : 위 + citation_count  (survey-search index/build_duckdb.py 입력으로도 사용)
+포맷 (docs/integration-guide.md §2, §5) — 두 agent 모두 TinyDB 테이블명 'cs_paper_info'를 읽는다:
+- autosurvey  : {"cs_paper_info": {"1": {id,title,url,date,abs,cat}}}
+- surveyforge : 위 + citation_count
 
 임베딩/FAISS 생성은 여기서 하지 않는다 — agent별 임베딩 모델이 통제 변수이므로
 각 agent의 빌드 스크립트(AutoSurvey scripts/build_index.py 등)에 위임한다.
@@ -48,7 +48,7 @@ def export_agent_db(view_dir: Path, corpus_dir: Path, fmt: str, out_path: Path,
     out_path.parent.mkdir(parents=True, exist_ok=True)
     h = hashlib.sha256()
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write('{"_default": {')
+        f.write('{"cs_paper_info": {')
         for i, (aid, title, abstract, fpd, cc, subfield) in enumerate(rows, start=1):
             rec = {
                 "id": aid,
