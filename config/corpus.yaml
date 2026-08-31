@@ -1,0 +1,13 @@
+# Common Corpus v0.1 PoC — arXiv-backed Computer Science (docs/00-status §8 결정)
+corpus_version: "0.1-poc"
+output_dir: data/corpus/v0.1-poc
+scope:
+  field: Computer Science          # OpenAlex field_display_name (302 topics)
+  language: en
+  require_valid_title_abstract: true
+  require_arxiv_id: true           # arXiv-backed PoC. false로 두면 broader CS(≈19.6M)
+  exclude_retracted: true
+  exclude_paratext: true
+citation:
+  source: openalex
+  snapshot_date: "2026-02-03"

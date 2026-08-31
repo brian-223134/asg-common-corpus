@@ -35,6 +35,20 @@ def doctor(config: Path = typer.Option(None, help="config/upstream.yaml")):
 
 
 @app.command()
+def build(
+    config: Path = typer.Option(None, help="config/corpus.yaml"),
+    upstream_config: Path = typer.Option(None, help="config/upstream.yaml"),
+    sample: int = typer.Option(None, help="limit the pool to N works (smoke test)"),
+    threads: int = typer.Option(32),
+):
+    """Phase B2 — materialize papers.parquet / paper_topics.parquet / manifest.json from the local mirror."""
+    from common_corpus.builders.corpus_builder import build as _build, load_corpus_config
+    path = setup_logging("build")
+    log.info("log file: %s", path)
+    _build(load_upstream(upstream_config), load_corpus_config(config), sample=sample, threads=threads)
+
+
+@app.command()
 def mirror(config: Path = typer.Option(None), no_verify: bool = typer.Option(False)):
     """Phase B0.5 — download the selective upstream mirror (resumable)."""
     from common_corpus.builders.mirror import mirror as _mirror
