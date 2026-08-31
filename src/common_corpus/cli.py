@@ -98,6 +98,24 @@ def fetch_fulltext(
              doc.paper_id or "-", doc.source_id, doc.version, doc.source_format, len(doc.text), doc.sha256[:12])
 
 
+@app.command("export-agent-db")
+def export_agent_db_cmd(
+    view: str = typer.Option(..., help="data/views/<name>"),
+    fmt: str = typer.Option(..., "--format", help="autosurvey | surveyforge"),
+    out: Path = typer.Option(None, help="기본: data/exports/<view>.<format>.json"),
+    corpus_dir: Path = typer.Option(Path("data/corpus/v0.1-poc")),
+    limit: int = typer.Option(None, help="스모크용 상한"),
+):
+    """Phase B6 — view를 agent DB 포맷(TinyDB JSON)으로 내보내기. 임베딩은 agent 측 책임."""
+    from common_corpus.config import PROJECT_ROOT
+    from common_corpus.integrations.survey_search import export_agent_db
+
+    setup_logging("export")
+    cdir = corpus_dir if corpus_dir.is_absolute() else PROJECT_ROOT / corpus_dir
+    out = out or PROJECT_ROOT / "data" / "exports" / f"{view}.{fmt}.json"
+    export_agent_db(PROJECT_ROOT / "data" / "views" / view, cdir, fmt, out, limit=limit)
+
+
 @app.command()
 def mirror(config: Path = typer.Option(None), no_verify: bool = typer.Option(False)):
     """Phase B0.5 — download the selective upstream mirror (resumable)."""
