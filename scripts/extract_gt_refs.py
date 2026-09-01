@@ -176,10 +176,13 @@ def main() -> None:
     try:
         out = extract_s2(key)
     except urllib.error.HTTPError as e:
-        if e.code != 404:
+        if e.code == 404:
+            log.warning("S2 404 (미색인) — fallback으로 진행")
+        elif e.code == 429 and (gt.get("arxiv_id") or gt.get("doi")):
+            log.warning("S2 429 지속 — fallback으로 진행")
+        else:
             raise
-        log.warning("S2 404 (미색인) — fallback으로 진행")
-        out = {"gt_s2": {"note": "s2-404"}, "refs": []}
+        out = {"gt_s2": {"note": f"s2-{e.code}"}, "refs": []}
     source = "semanticscholar-graph-api"
     if not out["refs"] and gt.get("arxiv_id"):
         log.warning("S2 references 미색인 — arXiv 소스 파싱으로 fallback")

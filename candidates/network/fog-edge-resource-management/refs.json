@@ -1,0 +1,1297 @@
+{
+  "candidate": {
+    "topic": "Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3797911",
+      "title": "Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing: State-of-the-Art and Future Directions",
+      "published": "2026-05-15"
+    },
+    "notes": "6차: network 보충 — CS-측 하위영역(edge/IoT). 무선-PHY 계열은 OpenAlex field 분류로 universe 밖 실측(D1 17.4%)"
+  },
+  "extracted_at": "2026-09-01T03:53:13+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 180,
+    "arxiv_resolvable": 16,
+    "doi_only": 160,
+    "unresolved": 4
+  },
+  "gt_s2": {
+    "paperId": "4ff2e6016ee9754e9914dedf85708fcc7c90dcac",
+    "externalIds": {
+      "DBLP": "journals/csur/ValiASB26",
+      "ArXiv": "2512.04093",
+      "DOI": "10.1145/3797911",
+      "CorpusId": 283557679
+    },
+    "title": "Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing: State-of-the-Art and Future Directions",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 180,
+    "publicationDate": "2025-11-18"
+  },
+  "refs": [
+    {
+      "title": "Swarm intelligence techniques and their applications in fog/edge computing: an in-depth review",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-025-11351-2",
+      "publicationDate": "2025-08-30",
+      "year": 2025
+    },
+    {
+      "title": "A Distributed Computing Perspective: Unveiling Cloud, Fog, and Edge Computing with Their Protocols and Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/IC2E365635.2025.11166804",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "GAS: DVFS-Driven Energy Efficiency Approach for Latency-Guaranteed Edge Computing Microservices",
+      "arxiv_id": null,
+      "doi": "10.1109/TGCN.2024.3420957",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Joint resource autoscaling and request scheduling for serverless edge computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04870-0",
+      "publicationDate": "2025-01-21",
+      "year": 2025
+    },
+    {
+      "title": "Joint Task Allocation and Computation Offloading in Mobile Edge Computing With Energy Harvesting",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3447159",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Joint Optimization of Microservice Deployment and Routing in Edge via Multi-Objective Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3443872",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Sustainable Virtual Network Function Placement and Traffic Routing for Green Mobile Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TGCN.2024.3392813",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Energy-efficient time and cost constraint scheduling algorithm using improved multi-objective differential evolution in fog computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-024-06550-7",
+      "publicationDate": "2024-11-03",
+      "year": 2024
+    },
+    {
+      "title": "Comprehensive survey on resource allocation for edge-computing-enabled metaverse",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cosrev.2024.100680",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Winning at the Starting Line: Unreliable Data Replica Selection for Edge Data Integrity Verification",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2024.3479909",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing edge server placement and allocation for enhanced energy efficiency: a multi-objective approach based on decision space and elitism",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04710-1",
+      "publicationDate": "2024-10-17",
+      "year": 2024
+    },
+    {
+      "title": "Minimizing Service Latency Through Image-Based Microservice Caching and Randomized Request Routing in Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3410546",
+      "publicationDate": "2024-09-15",
+      "year": 2024
+    },
+    {
+      "title": "EdgeBus: Co-Simulation based resource management for heterogeneous mobile edge computing environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2024.101368",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "MOHHO: multi-objective Harris hawks optimization algorithm for service placement in fog computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-024-06389-y",
+      "publicationDate": "2024-08-06",
+      "year": 2024
+    },
+    {
+      "title": "Containerized Microservices: A Survey of Resource Management Frameworks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3388633",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Auto-scaling mechanisms in serverless computing: A comprehensive review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cosrev.2024.100650",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Softwarized and containerized microservices-based network management analysis with MSN",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110750",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Auction-Based Microservice Placement in Fog Computing: Algorithms, Analysis, and Performance Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/APCIT62007.2024.10673474",
+      "publicationDate": "2024-07-26",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Grained Service Lifetime Optimization for Energy-Constrained Edge-Edge Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS60910.2024.00059",
+      "publicationDate": "2024-07-23",
+      "year": 2024
+    },
+    {
+      "title": "ENACT - A Framework for Adaptive Scheduling and Deployments of Data Intensive Workloads on Energy Efficient Edge to Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/ICE/ITMC61926.2024.10794207",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "MOTORS: multi-objective task offloading and resource scheduling algorithm for heterogeneous fog-cloud computing scenario",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-024-06315-2",
+      "publicationDate": "2024-06-23",
+      "year": 2024
+    },
+    {
+      "title": "Reliability and performance of resource efficiency in dynamic optimization scheduling using multi-agent microservice cloud-fog on IoT applications",
+      "arxiv_id": null,
+      "doi": "10.1007/s00607-024-01301-1",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "A DRL-Based Service Offloading Approach Using DAG for Edge Computational Orchestration",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSS.2022.3161627",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Service placement in fog–cloud computing environments: a comprehensive literature review",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-024-06151-4",
+      "publicationDate": "2024-05-02",
+      "year": 2024
+    },
+    {
+      "title": "Intent-driven orchestration of serverless applications in the computing continuum",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.12.032",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Cloud Computing: Trends and Challenges",
+      "arxiv_id": "2404.19612",
+      "doi": "10.1016/j.ject.2024.05.001",
+      "publicationDate": "2024-04-30",
+      "year": 2024
+    },
+    {
+      "title": "A greedy randomized adaptive search procedure for scheduling IoT tasks in virtualized fog–cloud computing",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.4980",
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic task offloading for resource allocation and privacy-preserving framework in Kubeedge-based edge computing using machine learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04420-8",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Resource allocation in Fog-Cloud Environments: State of the art",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2024.103891",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "LEASE: Leveraging Energy-Awareness in Serverless Edge for Latency-Sensitive IoT Services",
+      "arxiv_id": null,
+      "doi": "10.1109/PerComWorkshops59983.2024.10502788",
+      "publicationDate": "2024-03-11",
+      "year": 2024
+    },
+    {
+      "title": "A hybrid meta-heuristic algorithm for multi-objective IoT service placement in fog computing environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dajour.2023.100379",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Intelligent service placement algorithm based on DDQN and prioritized experience replay in IoT-Fog computing environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2024.101112",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Energy-aware Provisioning of Microservices for Serverless Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM54140.2023.10437798",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Energy-Efficient Resource Management for Real-Time Applications in FaaS Edge Computing Platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3603166.3632240",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "A bi-objective workflow scheduling in virtualized fog-cloud computing using NSGA-II with semi-greedy initialization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2023.111142",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "ECQ: An Energy-Efficient, Cost-Effective and Qos-Aware Method for Dynamic Service Migration in Mobile Edge Computing Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s11277-024-10883-0",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "A two-tier multi-objective service placement in container-based fog-cloud computing platforms",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-023-04183-8",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "Cloud-Native Based Task Scheduling and Resource Allocation for Internet of Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/CAC59555.2023.10451518",
+      "publicationDate": "2023-11-17",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic System Reconfiguration in Stable and Green Edge Service Provisioning",
+      "arxiv_id": null,
+      "doi": "10.1007/s11036-023-02269-6",
+      "publicationDate": "2023-11-17",
+      "year": 2023
+    },
+    {
+      "title": "SD-AETO: Service-Deployment-Enabled Adaptive Edge Task Offloading Scheme in MEC",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3281603",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Federated Scheduling of Fog-Native Applications Over Multi-Domain Edge-to-Cloud Ecosystem",
+      "arxiv_id": null,
+      "doi": "10.23919/CNSM59352.2023.10327839",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "EdgeAISim: A Toolkit for Simulation and Modelling of AI Models in Edge Computing Environments",
+      "arxiv_id": "2310.05605",
+      "doi": "10.1016/j.measen.2023.100939",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "Reinforcement learning-based multi-objective energy-efficient task scheduling in fog-cloud industrial IoT-based systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s00500-023-09159-9",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "Orchestration in the Cloud-to-Things compute continuum: taxonomy, survey and future directions",
+      "arxiv_id": "2309.02172",
+      "doi": "10.1186/s13677-023-00516-5",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "An optimal fog-cloud offloading framework for big data optimization in heterogeneous IoT networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dajour.2023.100295",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Adaptive Service Placement for Multi-Access Edge Computing: A Formal Methods Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS60048.2023.00014",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "A comprehensive review on Internet of Things application placement in Fog computing environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2023.100866",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "XAI-Enabled Fine Granular Vertical Resources Autoscaler",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft57336.2023.10175438",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Auto-scaling techniques in container-based cloud and edge/fog computing: Taxonomy and survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2023.06.010",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "An integrated approach of ML-metaheuristics for secure service placement in fog-cloud ecosystem",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2023.100817",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Energy-aware edge server placement using the improved butterfly optimization algorithm",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-023-05271-7",
+      "publicationDate": "2023-04-13",
+      "year": 2023
+    },
+    {
+      "title": "FedSDM: Federated learning based smart decision making module for ECG data in IoT integrated Edge-Fog-Cloud computing environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2023.100784",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Resource Management in Mobile Edge Computing: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3589639",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Imperialist competitive based approach for efficient deployment of IoT services in fog computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-023-03985-0",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Service Routing in Multi-Tier Edge Computing: A Matching Game Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2022.3229378",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Heterogeneous Computational Resource Allocation for NOMA: Toward Green Mobile Edge-Computing Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2022.3186099",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Collaborative AI-Enabled Intelligent Partial Service Provisioning in Green Industrial Fog Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3110910",
+      "publicationDate": "2023-02-15",
+      "year": 2023
+    },
+    {
+      "title": "Delay and energy aware task scheduling mechanism for fog-enabled IoT applications: A reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2023.109603",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "A systematic review on resource provisioning in fog computing",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.4731",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "EELAS: Energy Efficient and Latency Aware Scheduling of Cloud-Native ML Workloads",
+      "arxiv_id": null,
+      "doi": "10.1109/COMSNETS56262.2023.10041344",
+      "publicationDate": "2023-01-03",
+      "year": 2023
+    },
+    {
+      "title": "An effective Technique to Schedule priority aware tasks to offload data at edge and cloud servers",
+      "arxiv_id": null,
+      "doi": "10.1016/j.measen.2023.100670",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Toward intelligent resource management in dynamic Fog Computing‐based Internet of Things environment with Deep Reinforcement Learning: A survey",
+      "arxiv_id": null,
+      "doi": "10.1002/dac.5411",
+      "publicationDate": "2022-12-27",
+      "year": 2022
+    },
+    {
+      "title": "Best Replicas Selection using A priori Algorithm in Data Grid",
+      "arxiv_id": null,
+      "doi": "10.1109/IT-ELA57378.2022.10107926",
+      "publicationDate": "2022-12-27",
+      "year": 2022
+    },
+    {
+      "title": "AI-based Fog and Edge Computing: A Systematic Review, Taxonomy and Future Directions",
+      "arxiv_id": "2212.04645",
+      "doi": "10.1016/j.iot.2022.100674",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Optimal placement of applications in the fog environment: A systematic literature review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2022.12.001",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "A proactive energy-aware auto-scaling solution for edge-based infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1109/UCC56403.2022.00044",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Service-Oriented Resource Allocation for Blockchain-Empowered Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2022.3213343",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Intent-based Decentralized Orchestration for Green Energy-aware Provisioning of Fog-native Workflows",
+      "arxiv_id": null,
+      "doi": "10.23919/CNSM55787.2022.9964993",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "An energy-aware service placement strategy using hybrid meta-heuristic algorithm in iot environments",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-022-03751-8",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "Energy-efficient scheduling based on task prioritization in mobile fog computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s00607-022-01108-y",
+      "publicationDate": "2022-09-28",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Efficient Service Placement for Latency-Sensitive Applications in Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3162581",
+      "publicationDate": "2022-09-15",
+      "year": 2022
+    },
+    {
+      "title": "Mayfly Taylor Optimisation-Based Scheduling Algorithm with Deep Reinforcement Learning for Dynamic Scheduling in Fog-Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1155/2022/2131699",
+      "publicationDate": "2022-08-28",
+      "year": 2022
+    },
+    {
+      "title": "Container placement and migration strategies for cloud, fog, and edge data centers: A survey",
+      "arxiv_id": null,
+      "doi": "10.1002/nem.2212",
+      "publicationDate": "2022-08-19",
+      "year": 2022
+    },
+    {
+      "title": "A review of microservices autoscaling with formal verification perspective",
+      "arxiv_id": null,
+      "doi": "10.1002/spe.3135",
+      "publicationDate": "2022-08-09",
+      "year": 2022
+    },
+    {
+      "title": "Deep reinforcement learning-based microservice selection in mobile edge computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-022-03661-9",
+      "publicationDate": "2022-08-03",
+      "year": 2022
+    },
+    {
+      "title": "Deep Reinforcement Learning for energy-aware task offloading in join SDN-Blockchain 5G massive IoT edge network",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2022.07.024",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "A cost-efficient IoT service placement approach using whale optimization algorithm in fog computing environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2022.117012",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Optimizing deadline violation time and energy consumption of IoT jobs in fog–cloud computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s00521-022-07596-5",
+      "publicationDate": "2022-07-25",
+      "year": 2022
+    },
+    {
+      "title": "A Discrete Cuckoo Search Algorithm for Reliability-aware Energy-efficient IoT Applications Multi-service Deployment in Fog Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/ICECET55527.2022.9873056",
+      "publicationDate": "2022-07-20",
+      "year": 2022
+    },
+    {
+      "title": "Placement of Microservices-based IoT Applications in Fog Computing: A Taxonomy and Future Directions",
+      "arxiv_id": "2207.05399",
+      "doi": "10.1145/3592598",
+      "publicationDate": "2022-07-12",
+      "year": 2022
+    },
+    {
+      "title": "Energy-efficient fuzzy data offloading for IoMT",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109127",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "A joint function warm-up and request routing scheme for performing confident serverless computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.hcc.2022.100071",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "An Effective Edge-Intelligent Service Placement Technology for 5G-and-Beyond Industrial IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2021.3114300",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Virtual Reality Streaming in Blockchain-Enabled Fog Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3111115",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Energy Efficient UAV-Based Service Offloading Over Cloud-Fog Architectures",
+      "arxiv_id": "2205.07079",
+      "doi": "10.1109/ACCESS.2022.3201112",
+      "publicationDate": "2022-05-14",
+      "year": 2022
+    },
+    {
+      "title": "A self-learning approach for proactive resource and service provisioning in fog environment",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-022-04521-4",
+      "publicationDate": "2022-05-12",
+      "year": 2022
+    },
+    {
+      "title": "Federated Learning-Aware Multi-Objective Modeling and blockchain-enable system for IIoT applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2022.107839",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Aware Resource Scheduling for Serverless Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ccgrid54584.2022.00028",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Scheduling IoT Applications in Edge and Fog Computing Environments: A Taxonomy and Future Directions",
+      "arxiv_id": "2204.12580",
+      "doi": "10.1145/3544836",
+      "publicationDate": "2022-04-26",
+      "year": 2022
+    },
+    {
+      "title": "Meta-heuristic Based Hybrid Service Placement Strategies for Two-Level Fog Computing Architecture",
+      "arxiv_id": null,
+      "doi": "10.1007/s10922-022-09660-w",
+      "publicationDate": "2022-04-22",
+      "year": 2022
+    },
+    {
+      "title": "A survey on nature-inspired techniques for computation offloading and service placement in emerging edge technologies",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-022-01053-y",
+      "publicationDate": "2022-04-18",
+      "year": 2022
+    },
+    {
+      "title": "A QoS-Aware IoT Service Placement Mechanism in Fog Computing Based on Open-Source Development Model",
+      "arxiv_id": null,
+      "doi": "10.1007/s10723-022-09604-3",
+      "publicationDate": "2022-04-11",
+      "year": 2022
+    },
+    {
+      "title": "Where do all my smart home data go? Context-aware data generation and forwarding for edge-based microservices over shared IoT infrastructure",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2022.03.027",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "Evaluation of fog application placement algorithms: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s00607-021-01031-8",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "Resource Allocation and Task Scheduling in Fog Computing and Internet of Everything Environments: A Taxonomy, Review, and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1145/3513002",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "Solving the Multi-Objective Problem of IoT Service Placement in Fog Computing Using Cuckoo Search Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1007/s11063-021-10708-2",
+      "publicationDate": "2022-01-22",
+      "year": 2022
+    },
+    {
+      "title": "Deadline-aware and energy-efficient IoT task scheduling in fog computing systems: A semi-greedy approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2022.103333",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Optimized task scheduling for cost-latency trade-off in mobile fog computing using fuzzy analytical hierarchy process",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108752",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Resource provisioning in edge/fog computing: A Comprehensive and Systematic Review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2021.102362",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "FADE: FaaS-inspired application decomposition and Energy-aware function placement on the Edge",
+      "arxiv_id": null,
+      "doi": "10.1145/3493229.3493306",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Aware Task Offloading and Resource Allocation for Time-Sensitive Services in Mobile Edge Computing Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2021.3108508",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Reinforcement Learning for Service Function Chain Allocation in Fog Computing",
+      "arxiv_id": null,
+      "doi": "10.1002/9781119675525.ch7",
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Aware Metaheuristic Algorithm for Industrial-Internet-of-Things Task Scheduling Problems in Fog Computing Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3012617",
+      "publicationDate": "2021-08-15",
+      "year": 2021
+    },
+    {
+      "title": "IoT Application Modules Placement and Dynamic Task Processing in Edge-Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3007751",
+      "publicationDate": "2021-08-15",
+      "year": 2021
+    },
+    {
+      "title": "A Distributed Application Placement and Migration Management Techniques for Edge and Fog Computing Environments",
+      "arxiv_id": "2108.02328",
+      "doi": "10.15439/2021F005",
+      "publicationDate": "2021-08-05",
+      "year": 2021
+    },
+    {
+      "title": "A survey on computation resource allocation in IoT enabled vehicular edge computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s40747-021-00483-x",
+      "publicationDate": "2021-07-31",
+      "year": 2021
+    },
+    {
+      "title": "SLO-Aware Inference Scheduler for Heterogeneous Processors in Edge Platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3460352",
+      "publicationDate": "2021-07-16",
+      "year": 2021
+    },
+    {
+      "title": "Multi-Agent DRL for Task Offloading and Resource Allocation in Multi-UAV Enabled IoT Edge Network",
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2021.3096673",
+      "publicationDate": "2021-07-12",
+      "year": 2021
+    },
+    {
+      "title": "Service Provisioning for UAV-Enabled Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2021.3088660",
+      "publicationDate": "2021-07-09",
+      "year": 2021
+    },
+    {
+      "title": "Profit-Maximized Collaborative Computation Offloading and Resource Allocation in Distributed Cloud and Edge Computing Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/tase.2020.3000946",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Aware Marine Predators Algorithm for Task Scheduling in IoT-Based Fog Computing Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2020.3001067",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "A survey on computation offloading and service placement in fog computing-based IoT",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-021-03941-y",
+      "publicationDate": "2021-06-24",
+      "year": 2021
+    },
+    {
+      "title": "Large-Scale Many-Objective Deployment Optimization of Edge Servers",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2021.3059455",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Resource Provisioning in Fog Computing through Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2021-05-17",
+      "year": 2021
+    },
+    {
+      "title": "PGA: A Priority-aware Genetic Algorithm for Task Scheduling in Heterogeneous Fog-Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS51825.2021.9484436",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Computation offloading and service allocation in mobile edge computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-021-03749-w",
+      "publicationDate": "2021-05-05",
+      "year": 2021
+    },
+    {
+      "title": "A priority, power and traffic-aware virtual machine placement of IoT applications in cloud data centers",
+      "arxiv_id": null,
+      "doi": "10.1016/J.SYSARC.2021.101996",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "COSCO: Container Orchestration Using Co-Simulation and Gradient Based Optimization for Fog Computing Environments",
+      "arxiv_id": "2104.14392",
+      "doi": "10.1109/TPDS.2021.3087349",
+      "publicationDate": "2021-04-29",
+      "year": 2021
+    },
+    {
+      "title": "Resource Allocation and Service Provisioning in Multi-Agent Cloud Robotics: A Comprehensive Survey",
+      "arxiv_id": "2104.14270",
+      "doi": "10.1109/COMST.2021.3061435",
+      "publicationDate": "2021-04-29",
+      "year": 2021
+    },
+    {
+      "title": "Auto-scaling techniques for IoT-based cloud applications: a review",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-021-03265-9",
+      "publicationDate": "2021-04-03",
+      "year": 2021
+    },
+    {
+      "title": "Cloud/Edge Computing Resource Allocation and Pricing for Mobile Blockchain: An Iterative Greedy and Search Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSS.2021.3049152",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Towards the optimality of service instance selection in mobile edge computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.106831",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Dynamic Offloading and Resource Scheduling for Mobile-Edge Computing With Energy Harvesting Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3069993",
+      "publicationDate": "2021-03-31",
+      "year": 2021
+    },
+    {
+      "title": "Energy-makespan optimization of workflow scheduling in fog–cloud computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s00607-021-00930-0",
+      "publicationDate": "2021-03-22",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Aware Service Function Chain Embedding in Edge–Cloud Environments for IoT Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3064986",
+      "publicationDate": "2021-03-09",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Efficient Deep Reinforced Traffic Grooming in Elastic Optical Networks for Cloud–Fog Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3063471",
+      "publicationDate": "2021-03-03",
+      "year": 2021
+    },
+    {
+      "title": "Towards end-to-end resource provisioning in Fog Computing over Low Power Wide Area Networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2020.102915",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Optimization of Task Scheduling and Dynamic Service Strategy for Multi-UAV-Enabled Mobile-Edge Computing System",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2021.3051947",
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "Con-Pi: A Distributed Container-Based Edge and Fog Computing Framework",
+      "arxiv_id": "2101.03533",
+      "doi": "10.1109/JIOT.2021.3103053",
+      "publicationDate": "2021-01-10",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Latency Tradeoff for Dynamic Computation Offloading in Vehicular Fog Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2020.3040596",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Energy-Minimization Task Offloading and Resource Allocation for Mobile Edge Computing in NOMA Heterogeneous Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2020.3040645",
+      "publicationDate": "2020-11-27",
+      "year": 2020
+    },
+    {
+      "title": "Voilà: Tail-Latency-Aware Fog Application Replicas Autoscaler",
+      "arxiv_id": null,
+      "doi": "10.1109/MASCOTS50786.2020.9285953",
+      "publicationDate": "2020-11-17",
+      "year": 2020
+    },
+    {
+      "title": "Joint Computation Offloading and Scheduling Optimization of IoT Applications in Fog Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2020.3021792",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "QoS-aware service provisioning in fog computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2020.102674",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Orchestration from the Cloud to the Edge",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-41110-7_4",
+      "publicationDate": "2020-08-08",
+      "year": 2020
+    },
+    {
+      "title": "Multiple users replica selection in data grids for fair user satisfaction: A hybrid approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.csi.2020.103432",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Multi-objective resource allocation in mobile edge computing using PAES for Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1007/s11276-020-02409-w",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "Dyme: Dynamic Microservice Scheduling in Edge Computing Enabled IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2981958",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "An Overview of Service Placement Problem in Fog and Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3391196",
+      "publicationDate": "2020-06-12",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Resource Allocation and Computation Offloading for IoT Fog Computing System",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2020.2978946",
+      "publicationDate": "2020-06-05",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive computation offloading and resource allocation strategy in a mobile edge computing environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2020.05.057",
+      "publicationDate": "2020-06-04",
+      "year": 2020
+    },
+    {
+      "title": "Priority, network and energy-aware placement of IoT-based application services in fog-cloud environments",
+      "arxiv_id": null,
+      "doi": "10.1049/iet-com.2020.0007",
+      "publicationDate": "2020-04-30",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic resource provisioning for workflow scheduling under uncertainty in edge computing environment",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.5674",
+      "publicationDate": "2020-02-10",
+      "year": 2020
+    },
+    {
+      "title": "A Bandwidth and Latency Based Replica Selection Mechanism for Data-Intensive Workflow Applications in the Multi-Cloud Environment",
+      "arxiv_id": null,
+      "doi": "10.1145/3373017.3373030",
+      "publicationDate": "2020-01-29",
+      "year": 2020
+    },
+    {
+      "title": "Energy-Efficient UAV-Assisted Mobile Edge Computing: Resource Allocation and Trajectory Optimization",
+      "arxiv_id": "2007.15105",
+      "doi": "10.1109/TVT.2020.2968343",
+      "publicationDate": "2020-01-21",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Task Offloading and Resource Allocation for Mobile-Edge Computing in Dense Cloud RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2967502",
+      "publicationDate": "2020-01-17",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Resource Allocation in Vehicular Networks",
+      "arxiv_id": "1909.13587",
+      "doi": "10.1109/tits.2020.3019322",
+      "publicationDate": "2019-09-30",
+      "year": 2019
+    },
+    {
+      "title": "Energy and time efficient task offloading and resource allocation on the generic IoT-fog-cloud architecture",
+      "arxiv_id": null,
+      "doi": "10.1007/s12083-019-00783-7",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "Research on Auto-Scaling of Web Applications in Cloud: Survey, Trends and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.12694/SCPE.V20I2.1537",
+      "publicationDate": "2019-05-02",
+      "year": 2019
+    },
+    {
+      "title": "Resource Management in Fog/Edge Computing",
+      "arxiv_id": "1810.00305",
+      "doi": "10.1145/3326066",
+      "publicationDate": "2018-09-30",
+      "year": 2018
+    },
+    {
+      "title": "Fog orchestration for the Internet of Everything: state-of-the-art and research challenges",
+      "arxiv_id": null,
+      "doi": "10.1186/s13174-018-0086-3",
+      "publicationDate": "2018-07-18",
+      "year": 2018
+    },
+    {
+      "title": "Towards energy efficient service composition in green energy powered Cyber-Physical Fog Systems",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FUTURE.2018.01.060",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "A Taxonomy for Management and Optimization of Multiple Resources in Edge Computing",
+      "arxiv_id": "1801.05610",
+      "doi": "10.1155/2018/7476201",
+      "publicationDate": "2018-01-17",
+      "year": 2018
+    },
+    {
+      "title": "Auto-scaling Web Applications in Clouds: A Taxonomy and Survey",
+      "arxiv_id": "1609.09224",
+      "doi": null,
+      "publicationDate": "2016-09-29",
+      "year": 2016
+    },
+    {
+      "title": "Toward Secure, Trustworthy, and Sustainable Edge Computing for Smart Cities: Innovative Strategies and Future Prospects",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3602390",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "An Energy-Aware Task Offloading and Load Balancing for Latency-Sensitive IoT Applications in the Fog-Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3357122",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Artificial Intelligence Techniques for Securing Fog Computing Environments: Trends, Challenges, and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3463791",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Review of AI Techniques for Resource Management in Fog Computing: Trends, Challenges, and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3447097",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Efficient Microservice Deployment in the Edge-Cloud Networks With Policy-Gradient Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3461149",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "NeIL: Intelligent Replica Selection for Distributed Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/TMLCN.2024.3479109",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Energy- and Resource-Aware Graph-Based Microservices Placement in the Cloud-Fog-Edge Continuum",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-63749-0_17",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Secure and Distributed Placement for Quality of Service-Aware IoT Requests in Fog-Cloud of Things: A Novel Joint Algorithmic Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3390723",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AI-Empowered Fog/Edge Resource Management for IoT Applications: A Comprehensive Review, Research Challenges, and Future Perspectives",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2023.3338015",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SatEdge: Platform of Edge Cloud at Satellite and Scheduling Mechanism for Microservice Modules",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3330649",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Automated Application Deployment on Multi-Access Edge Computing: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3307023",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Model-Driven Dependability and Power Consumption Quantification of Kubernetes-Based Cloud-Fog Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3340195",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Resource Provisioning Using Meta-Heuristic Methods for IoT Microservices With Mobility Management",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3281348",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Dynamic Service Placement in Multi-access Edge Computing: a Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3160738",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "DECA: A Dynamic Energy Cost and Carbon Emission-Efficient Application Placement Method for Edge Clouds",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3075973",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Survey on Placement Methods in the Edge and Beyond",
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2021.3101460",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Adopting elitism-based Genetic Algorithm for minimizing multi-objective problems of IoT service placement in fog computing environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2020.102972",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Intelligent workload allocation in IoT-Fog-cloud architecture towards mobile edge computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2021.01.022",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Cost-aware automatic scaling and workload-aware replica management for edge-cloud environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2021.103017",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Temperature Matrix-Based Data Placement Using Improved Hungarian Algorithm in Edge Computing Environments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-96772-7_22",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Adaptive Replica Selection in Mobile Edge Environments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-94822-1_14",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Parallel and Distributed Computing, Applications and Technologies: 21st International Conference, PDCAT 2020, Shenzhen, China, December 28–30, 2020, Proceedings",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-69244-5",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Delay-Aware SFC Provisioning in Hybrid Fog-Cloud Computing Architectures",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3021354",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Machine learning methods for reliable resource provisioning in edge-cloud computing: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "2025. Harnessing Artificial Intelligence for Efficient Resource Management in Mobile Edge Computing: Insights from Real-World Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Ets-ddpg: an energy-efficient and QoS-guaranteed edge task scheduling approach based on deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

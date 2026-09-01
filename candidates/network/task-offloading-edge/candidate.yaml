@@ -1,0 +1,8 @@
+topic: Task Offloading for CAVs Edge Computing Environment
+domain: network
+gt:
+  arxiv_id: null
+  doi: "10.1145/3783984"
+  title: "Task Offloading for CAVs Edge Computing Environment: Taxonomy, Critical Review, and Future Road Map"
+  published: "2026-02-04"
+notes: "6차: network 보충 — CS-측 하위영역(edge/IoT). 무선-PHY 계열은 OpenAlex field 분류로 universe 밖 실측(D1 17.4%)"

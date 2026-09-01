@@ -1,4 +1,6 @@
-# Topic 선정표 초안 (5 domains × 5) — 2026-09-01, 57편 감사 기준
+# Topic 선정표 초안 (5 domains × 5) — 2026-09-01, 71편 감사 기준
+
+도메인 구성(D6): **ai · se · security · systems · network** (db는 선정 보류, 데이터 보존)
 
 기준(D5): 본선 coverage ≥50% ∧ eligible ≥60 (○), 한계 eligible ≥40 (△). cutoff 2025-12-31.
 수치: eligible/식별 (coverage). twin = corpus 내 preprint 쌍둥이 → **최종 view exclude 목록에 GT와 함께 등록**.
@@ -42,7 +44,25 @@
 | 4△ | llm-agents-se | 66/225 (29%, Crossref 하한) | twin 2409.02977 — **S2 색인 후 재추출로 상향 기대** |
 | 5△ | software-defect-datasets | 68/222 (31%) | |
 
-## db — **미충족 (○ 1편)** → 표적 보충 모집 1회 필요
+## network — 2 + 3 (D6 신설. △ 3편 포함 구성)
+| # | topic | 수치 | 비고 |
+|---|---|---|---|
+| 1 | edge-cloud-collaboration | 213/350 (61%) | COMST. twin 2505.01821 |
+| 2 | ai-wireless-reasoning | 89/163 (55%) | CSUR |
+| 3△ | ai-video-streaming | 64/243 (26%) | twin 2406.02302 |
+| 4△ | genai-for-iot | 51/139 (37%) | twin 2504.07635 |
+| 5△ | llm-wireless-management | 56/284 (20%) | COMST |
+| 예비 | ai-sfc-deployment (40/28%) | | |
+
+원인 구조: 타 도메인과 동일한 venue 축(IEEE 저널 정전 비-arXiv)이 지배적. 무선-PHY 계열은
+분류축(no_cs — OpenAlex가 Engineering으로 분류)이 부차적으로 겹침. CS-측 edge/fog 시도
+(task-offloading 8%, fog-edge 9%)도 IEEE venue 문제로 실패 — network는 △ 없이 5편 구성 불가.
+
+## db — 선정 보류 (D6). 기록용
+llm-data-preparation ○ (66/50%) · deep-entity-resolution △ (45/46%) · minimal-perfect-hashing △ (47/32%)
+— 재개 시 text-to-SQL·vector DB 계열 보충 모집부터.
+
+### (구) db 세부
 | # | topic | 수치 | 비고 |
 |---|---|---|---|
 | 1 | llm-data-preparation | 66/131 (50%) | |
@@ -51,7 +71,7 @@
 | — | (모집 대상) text-to-SQL·vector DB·RAG data management·LLM4DB 계열 2026 survey | | arXiv API 복구 후 |
 
 ## 미결
-- [ ] db 보충 모집 (2~3편) 후 재감사
+- [x] db → 보류, network 신설(D6) 완료. network는 △ 3편 포함 5편 구성
 - [ ] llm-agents-se·lm-compression: S2 색인 후 재추출 (Crossref 하한 해소)
-- [ ] embodied-ai-safety 추출 재시도
+- [ ] embodied-ai-safety 추출 재시도 (S2 429 + arXiv API 503 동시 장애로 대기)
 - [ ] 확정 시: 25편 GT id + twin arXiv id 전체 → `gt_exclude.txt` 생성 → `create-view --exclude-file`

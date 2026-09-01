@@ -8,7 +8,7 @@ candidates/<domain>/<slug>/
 └── refs.json        ← scripts/extract_gt_refs.py 가 생성 (수정 금지)
 ```
 
-domain ∈ {ai, se, security, systems, db}
+domain ∈ {ai, se, security, systems, network} (db는 D6로 선정 보류 — 데이터 보존)
 
 ## candidate.yaml 스키마
 

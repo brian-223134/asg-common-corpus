@@ -1,0 +1,1059 @@
+{
+  "candidate": {
+    "topic": "From 5G to 6G",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3785467",
+      "title": "From 5G to 6G: A Survey on Security, Privacy, and Standardization Pathways",
+      "published": "2026-02-02"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:50:46+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 146,
+    "arxiv_resolvable": 14,
+    "doi_only": 68,
+    "unresolved": 64
+  },
+  "gt_s2": {
+    "paperId": "dc3740d45f39d0e732479f95c9432afbc2fa5a65",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2410-21986",
+      "ArXiv": "2410.21986",
+      "DOI": "10.1145/3785467",
+      "CorpusId": 273662061
+    },
+    "title": "From 5G to 6G: A Survey on Security, Privacy, and Standardization Pathways",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 146,
+    "publicationDate": "2024-10-04"
+  },
+  "refs": [
+    {
+      "title": "Toward Intelligent and Adaptive Task Scheduling for 6G: An Intent-Driven Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2024.3391318",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted Class Activation Mapping",
+      "arxiv_id": null,
+      "doi": "10.1145/3589335.3651490",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Leverage Variational Graph Representation for Model Poisoning on Federated Learning",
+      "arxiv_id": "2404.15042",
+      "doi": "10.1109/TNNLS.2024.3394252",
+      "publicationDate": "2024-04-23",
+      "year": 2024
+    },
+    {
+      "title": "Empowering Reconfigurable Intelligent Surfaces with Artificial Intelligence to Secure Air-To-Ground Internet-of-Things",
+      "arxiv_id": null,
+      "doi": "10.1109/IOTM.001.2300129",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey",
+      "arxiv_id": "2312.08667",
+      "doi": "10.1109/COMST.2024.3361451",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "Detection and Mitigation of Position Spoofing Attacks on Cooperative UAV Swarm Formations",
+      "arxiv_id": "2312.03787",
+      "doi": "10.1109/TIFS.2023.3341398",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach",
+      "arxiv_id": "2311.18498",
+      "doi": "10.1109/TIFS.2024.3362147",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Federated learning for 6G-enabled secure communication systems: a comprehensive survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-023-10417-3",
+      "publicationDate": "2023-03-12",
+      "year": 2023
+    },
+    {
+      "title": "Can Open and AI-Enabled 6G RAN Be Secured?",
+      "arxiv_id": null,
+      "doi": "10.1109/MCE.2022.3205145",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "KRProtector: Detection and Files Protection for IoT Devices on Android Without ROOT Against Ransomware Based on Decoys",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3156571",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "When Internet of Things Meets Metaverse: Convergence of Physical and Cyber Worlds",
+      "arxiv_id": "2208.13501",
+      "doi": "10.1109/JIOT.2022.3232845",
+      "publicationDate": "2022-08-29",
+      "year": 2022
+    },
+    {
+      "title": "Security and Privacy vulnerabilities of 5G/6G and WiFi 6: Survey and Research Directions from a Coexistence Perspective",
+      "arxiv_id": "2206.14997",
+      "doi": "10.48550/arXiv.2206.14997",
+      "publicationDate": "2022-06-30",
+      "year": 2022
+    },
+    {
+      "title": "Security Requirements and Challenges of 6G Technologies and Applications",
+      "arxiv_id": null,
+      "doi": "10.3390/s22051969",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "On the security of 6G use cases: Threat Analysis of 'All-Senses Meeting'",
+      "arxiv_id": null,
+      "doi": "10.1109/CCNC49033.2022.9700673",
+      "publicationDate": "2022-01-08",
+      "year": 2022
+    },
+    {
+      "title": "A review on Privacy and Security in 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/FABS52071.2021.9702654",
+      "publicationDate": "2021-12-21",
+      "year": 2021
+    },
+    {
+      "title": "Membership Inference Attacks From First Principles",
+      "arxiv_id": "2112.03570",
+      "doi": "10.1109/sp46214.2022.9833649",
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "Integration of a non-3GPP satellite interface in a 5G multiple access configuration",
+      "arxiv_id": null,
+      "doi": "10.1109/ISAECT53699.2021.9668502",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "O-RAN: Disrupting the Virtualized RAN Ecosystem",
+      "arxiv_id": null,
+      "doi": "10.1109/mcomstd.101.2000014",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/EMBC46164.2021.9630592",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Information security breaches due to ransomware attacks - a systematic literature review",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JJIMEI.2021.100013",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "A survey on DoS/DDoS attacks mathematical modelling for traditional, SDN and virtual networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jestch.2021.09.011",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Toward 6G Security: Technology Trends, Threats, and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOMSTD.011.2000065",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Huawei, 5G and Security: Technological Limitations and Political Responses",
+      "arxiv_id": null,
+      "doi": "10.1111/dech.12680",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Security and Privacy for 6G: A Survey on Prospective Technologies and Challenges",
+      "arxiv_id": "2108.11861",
+      "doi": "10.1109/COMST.2021.3108618",
+      "publicationDate": "2021-08-26",
+      "year": 2021
+    },
+    {
+      "title": "6G Security Challenges and Potential Solutions",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit51104.2021.9482609",
+      "publicationDate": "2021-06-08",
+      "year": 2021
+    },
+    {
+      "title": "Anomaly Detection for Insider Threats Using Unsupervised Ensembles",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3071928",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Topology-Theoretic Approach To Address Attribute Linkage Attacks In Differential Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS51825.2021.9484499",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Wireless Environment as a Service Enabled by Reconfigurable Intelligent Surfaces: The RISE-6G Perspective",
+      "arxiv_id": "2104.06265",
+      "doi": "10.1109/EuCNC/6GSummit51104.2021.9482474",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "5G Radio Access Network Architecture: The Dark Side of 5G",
+      "arxiv_id": null,
+      "doi": "10.1002/9781119550921",
+      "publicationDate": "2021-02-23",
+      "year": 2021
+    },
+    {
+      "title": "From GSM to LTE‐Advanced Pro and 5G",
+      "arxiv_id": null,
+      "doi": "10.1002/9781119714712",
+      "publicationDate": "2021-01-22",
+      "year": 2021
+    },
+    {
+      "title": "Towards a Threat Model and Security Analysis of Video Conferencing Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/CCNC49032.2021.9369505",
+      "publicationDate": "2021-01-09",
+      "year": 2021
+    },
+    {
+      "title": "Spatio-Temporal Power Optimization for MIMO Joint Communication and Radio Sensing Systems With Training Overhead",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2020.3046438",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Credential stuffing: new tools and stolen data drive continued attacks",
+      "arxiv_id": null,
+      "doi": "10.1016/s1361-3723(20)30130-5",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Countermeasure Based on Smart Contracts and AI against DoS/DDoS Attack in 5G Circumstances",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.021.1900614",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "CRYSTALS-Dilithium",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-57682-0_2",
+      "publicationDate": "2020-10-28",
+      "year": 2020
+    },
+    {
+      "title": "6G Architecture to Connect the Worlds",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3025032",
+      "publicationDate": "2020-09-18",
+      "year": 2020
+    },
+    {
+      "title": "Blockchain based integrated security measure for reliable service delegation in 6G communication environment",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2020.07.020",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Security and privacy in 6G networks: New areas and new challenges",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcan.2020.07.003",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Security Risk Assessment for 5G Networks: National Perspective",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.001.1900524",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "FoNAC - An automated Fog Node Audit and Certification scheme",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cose.2020.101759",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "6G White paper: Research challenges for Trust, Security and Privacy",
+      "arxiv_id": "2004.11665",
+      "doi": null,
+      "publicationDate": "2020-04-24",
+      "year": 2020
+    },
+    {
+      "title": "Keystone: an open framework for architecting trusted execution environments",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3387532",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Communications in the 6G Era",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2981745",
+      "publicationDate": "2020-03-18",
+      "year": 2020
+    },
+    {
+      "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+      "arxiv_id": "2003.01690",
+      "doi": null,
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "ZSM Security: Threat Surface and Best Practices",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.001.1900273",
+      "publicationDate": "2020-02-12",
+      "year": 2020
+    },
+    {
+      "title": "The SPHINCS+ Signature Framework",
+      "arxiv_id": null,
+      "doi": "10.1145/3319535.3363229",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "A time-efficient data offloading method with privacy preservation for intelligent sensors in edge computing",
+      "arxiv_id": null,
+      "doi": "10.1186/s13638-019-1560-8",
+      "publicationDate": "2019-10-24",
+      "year": 2019
+    },
+    {
+      "title": "Research on SQL Injection Attack and Prevention Technology Based on Web",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCNEA.2019.00042",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3307650.3322251",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Investigating Brute Force Attack Patterns in IoT Network",
+      "arxiv_id": null,
+      "doi": "10.1155/2019/4568368",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "A Survey on Advanced Persistent Threats: Techniques, Solutions, Challenges, and Research Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2019.2891891",
+      "publicationDate": "2019-01-09",
+      "year": 2019
+    },
+    {
+      "title": "The European Union general data protection regulation: what it is and what it means*",
+      "arxiv_id": "2510.02861",
+      "doi": "10.1080/13600834.2019.1573501",
+      "publicationDate": "2019-01-02",
+      "year": 2019
+    },
+    {
+      "title": "Privacy of Things: Emerging Challenges and Opportunities in Wireless Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.2017.1800112",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "Decrypting SSL/TLS traffic for hidden threats detection",
+      "arxiv_id": "1904.08383",
+      "doi": "10.1109/DESSERT.2018.8409116",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "STRIDE-based threat modeling for cyber-physical systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ISGTEurope.2017.8260283",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Security for 4G and 5G Cellular Networks: A Survey of Existing Authentication and Privacy-preserving Schemes",
+      "arxiv_id": "1708.04027",
+      "doi": "10.1016/J.JNCA.2017.10.017",
+      "publicationDate": "2017-08-14",
+      "year": 2017
+    },
+    {
+      "title": "Security and Resilience in 5G: Current Challenges and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/Trustcom/BigDataSE/ICESS.2017.345",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Hierarchical anonymization algorithms against background knowledge attack in data releasing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2016.03.004",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "Security Resilience: Exploring Windows Domain-Level Defenses Against Post-Exploitation Authentication Attacks",
+      "arxiv_id": null,
+      "doi": "10.1145/2897795.2897800",
+      "publicationDate": "2016-04-05",
+      "year": 2016
+    },
+    {
+      "title": "Falcon",
+      "arxiv_id": null,
+      "doi": "10.1145/2842618",
+      "publicationDate": "2015-12-22",
+      "year": 2015
+    },
+    {
+      "title": "Remote Attestation for Embedded Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-40385-4_6",
+      "publicationDate": "2015-09-21",
+      "year": 2015
+    },
+    {
+      "title": "Short Paper: IP spoofing detection for preventing DDoS attack in Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIN.2015.7073820",
+      "publicationDate": "2015-04-02",
+      "year": 2015
+    },
+    {
+      "title": "Deep Packet Inspection as a Service",
+      "arxiv_id": null,
+      "doi": "10.1145/2674005.2674984",
+      "publicationDate": "2014-12-02",
+      "year": 2014
+    },
+    {
+      "title": "Identity-based attack detection in mobile wireless networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2011.5934990",
+      "publicationDate": "2011-04-10",
+      "year": 2011
+    },
+    {
+      "title": "Privilege Escalation Attacks on Android",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-18178-8_30",
+      "publicationDate": "2010-10-25",
+      "year": 2010
+    },
+    {
+      "title": "A survey on jamming attacks and countermeasures in WSNs",
+      "arxiv_id": null,
+      "doi": "10.1109/SURV.2009.090404",
+      "publicationDate": "2009-10-01",
+      "year": 2009
+    },
+    {
+      "title": "Worlds",
+      "arxiv_id": null,
+      "doi": "10.1086/599055",
+      "publicationDate": "2009-03-01",
+      "year": 2009
+    },
+    {
+      "title": "The birthday paradox",
+      "arxiv_id": null,
+      "doi": "10.1090/MBK/053/11",
+      "publicationDate": "2008-05-02",
+      "year": 2008
+    },
+    {
+      "title": "New technologies.",
+      "arxiv_id": null,
+      "doi": "10.1016/j.conb.2005.08.008",
+      "publicationDate": "2005-10-01",
+      "year": 2005
+    },
+    {
+      "title": "Finland",
+      "arxiv_id": null,
+      "doi": "10.1080/714000591",
+      "publicationDate": "2002-03-01",
+      "year": 2002
+    },
+    {
+      "title": "European Commission",
+      "arxiv_id": null,
+      "doi": "10.5334/ijic.40",
+      "publicationDate": "1992-12-01",
+      "year": 1992
+    },
+    {
+      "title": "2024. 6G Security:",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "2024. Security, Trust, and Privacy in 6G",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DOCOMO",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Security and Privacy on 6G Network Edge: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2023.3244674",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Reinforcement Learning-Based Physical Cross-Layer Security and Privacy in 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2022.3224279",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Adversarial Attacks and Defenses in Machine Learning-Empowered Communication Systems and Networks: A Contemporary Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2023.3319492",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "2023. The Smart Networks and Services Joint Undertaking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "CRYSTALS-Kyber",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Towards 6G-Enabled Internet of Vehicles: Security and Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/ojcoms.2022.3143098",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". European 6G Flagship Hexa-X update",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Why and what you need to know about 6G in 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Roadmap for the Realization of Beyond 5G",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". The Zeus Trojan – What It Is, and How to Remove and Prevent it",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Trust, Security, and Resilience for 6G Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Samsung Research Announces Creation of New 6G Research Group in the UK",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Advancing Singapore’s 6G future and talent",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "The Roadmap to 6G Security and Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2021.3078081",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Academy",
+      "arxiv_id": null,
+      "doi": "10.1093/nq/s7-x.241.105a",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Man-in-the-Middle Attack Prevention",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-75354-2_27",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Access control and authorization in smart homes: A survey",
+      "arxiv_id": null,
+      "doi": "10.26599/TST.2021.9010001",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Fact Sheet: U.S.-Japan Competitiveness and Resilience (CoRe) Partnership",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "IMT-2030 (6G) Promotion Group",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "IT SECURITY RISK MANAGEMENT METHODOLOGY V1.2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "New 6G Research Center Unites Industry Leaders and UT Wireless Experts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "National Strategy to Secure 5G Implementation Plan",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ENISA Interoperable EU Risk Management Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Evolution and 6G",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "A discretization attack",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "5G core network security issues and attack classification from network protocol perspective",
+      "arxiv_id": null,
+      "doi": "10.22667/JISIS.2020.05.31.001",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "The Next Hyper Connected Experience for All.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "EU toolbox for 5G security – A set of robust and comprehensive measures for an EU coordinated approach to secure 5G networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Beyond 5G Promotion Strategy Roundtable",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "SERIMA: A NEW RISK ANALYSIS PLATFORM FOR TELECOMMUNICATIONS OPERATORS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Advanced encryption standard (AES) algorithm to encrypt and decrypt data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "5G-ENSURE Deliverable D2.1 łUse Casesž",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "An Introduction to LTE, Second Edition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "The Joint Task Force Transformation Initiative",
+      "arxiv_id": null,
+      "doi": "10.1016/B978-1-59749-995-8.00004-1",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "AES-128 cipher: Minimum area, low cost FPGA implementation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "On the Cost of Factoring RSA-1024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Annual activity report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "Research",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4471-3519-7",
+      "publicationDate": null,
+      "year": 1985
+    },
+    {
+      "title": "2022. Open RAN Risk Analysis . Technical",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "POTENTIAL THREAT VECTORS TO 5G INFRASTRUCTURE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ieee Transactions on Dependable and Secure Computing (tdsc) Secure Data Aggregation Technique for Wireless Sensor Networks in the Presence of Collusion Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Develop Top-level Sub-terahertz 6G Device Capable of Ultra-high-speed 100 Gbps Transmission",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. 6G Flagship Programme",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. InterDigital Awarded Five Horizon Europe 6G Flagship Projects Targeting Revolutionary Technology Advancement and Experimental",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "india-report TSDSI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "More distributed networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "germany6g-report 6G.Next",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. UK/Republic of Korea Open RAN R&D collaboration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. UK to accelerate research on 5G and 6G technology as part of £110 million telecoms R and D package",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2021 Action Plan for Digital New Deal",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Statement on 5G/Open RAN Information Sharing and Telecommunications Resilience and Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. GSMA Network Equipment Security Assurance Scheme (NESAS)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Framework for Secure and Trustworthy Networks: Addressing 5G and Beyond",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "From 5G to 6G: A Survey on Security, Privacy, and Standardization Pathways",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. INtelligent Security and PervasIve tRust for 5G and Beyond (INSPIRE-5Gplus)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Directive on measures for a high common level of cybersecurity across the Union (NIS2 Directive)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Nokia to open new 5G and 6G research and development center in Portugal",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. New EU project DETERMINISTIC6G to develop critical parts of next generation 6G networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Using 5G’s Non-3GPP Inter-working Function to Support Heterogeneous Networking in Aeronautical Mobile Telemetry",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Industry safety",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. 6G - Connecting a Cyber-Physical World",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Ericsson in multi-million GBP 6G research program investment in the UK",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Nokia to lead the next phase of Europe’s 6G lagship project",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Diferentially Private Wireless Federated Learning With Integrated Sensing and Communication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Three New Projects for DoD’s Innovate Beyond 5G Program",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. What is a Zero-day Attack? - Definition and Explanation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Privacy-Preserving Multi-Agent Deep Reinforcement Learning for Efective Resource Auction in Multi-Access Edge Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Singapore to Launch the First 6G R&D Lab in Southeast Asia",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. US Congress approves Strengthening American Cybersecurity Act",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. FutureG: The Department of Defense 6G Strategy and Roadmap",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ofensive Defense: Using Deception Against Ransomware Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. 6G Market Development: A North American perspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

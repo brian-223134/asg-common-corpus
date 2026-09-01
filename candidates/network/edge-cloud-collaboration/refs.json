@@ -1,0 +1,2571 @@
+{
+  "candidate": {
+    "topic": "Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2026.3669216",
+      "title": "Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey",
+      "published": "2026-01-01"
+    },
+    "notes": "5차: network(D6). IEEE COMST 2026 — 네트워킹 분야의 CSUR 격 venue. OpenAlex API로 발굴"
+  },
+  "extracted_at": "2026-09-01T03:51:13+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 362,
+    "arxiv_resolvable": 230,
+    "doi_only": 120,
+    "unresolved": 12
+  },
+  "gt_s2": {
+    "paperId": "355b7d2f22fe75fb4c8fd648488cda3747f99ecc",
+    "externalIds": {
+      "DBLP": "journals/comsur/LiuDYWWHWLSBL26",
+      "ArXiv": "2505.01821",
+      "DOI": "10.1109/COMST.2026.3669216",
+      "CorpusId": 278327577
+    },
+    "title": "Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey",
+    "venue": "IEEE Communications Surveys and Tutorials",
+    "year": 2025,
+    "referenceCount": 362,
+    "publicationDate": "2025-05-03"
+  },
+  "refs": [
+    {
+      "title": "Efficient Deep Reinforcement Learning-Based Resource Allocation for Cloud Native Wireless Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TGCN.2025.3550599",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "Federated Split Learning With Improved Communication and Storage Efficiency",
+      "arxiv_id": "2507.15816",
+      "doi": "10.1109/TMC.2025.3591744",
+      "publicationDate": "2025-07-21",
+      "year": 2025
+    },
+    {
+      "title": "Cloud-Edge Collaborative Large Model Services: Challenges and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3442880",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "MADRL-Based Model Partitioning, Aggregation Control, and Resource Allocation for Cloud-Edge-Device Collaborative Split Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2025.3530482",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Toward 6G-Enabled URLLCs: Digital Twin, Open Ran, and Semantic Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOMSTD.0001.2300054",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Quantum-Enhanced DRL Optimization for DoA Estimation and Task Offloading in ISAC Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2024.3460061",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Edge-cloud collaboration for low-latency, low-carbon, and cost-efficient operations",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2024.109758",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Online Management for Edge-Cloud Collaborative Continuous Learning: A Two-Timescale Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3451715",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Exploring QUIC Security and Privacy: A Comprehensive Survey on QUIC Security and Privacy Vulnerabilities, Threats, Attacks, and Future Research Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3457858",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Accelerating Federated Learning via Parameter Selection and Pre-Synchronization in Mobile Edge-Cloud Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3376636",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Condition-Adaptive Dynamic Evolution Method for Digital Twin of Rolling Bearings Based on Continual Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/CAC63892.2024.10865632",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Growth-adaptive distillation compressed fusion model for network traffic identification based on IoT cloud-edge collaboration",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2024.103676",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "FedITA: A cloud-edge collaboration framework for domain generalization-based federated fault diagnosis of machine-level industrial motors",
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2024.102853",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Auto-Updating Intrusion Detection System for Vehicular Network: A Deep Learning Approach Based on Cloud-Edge-Vehicle Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2024.3399219",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Service Provisioning Based on Edge-Cloud Collaboration: A Two-Timescale Online Scheduling Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3421967",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Dependency-Aware Task Reconfiguration and Offloading in Multi-Access Edge Cloud Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3360978",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "SFETEC: Split-FEderated Learning Scheme Optimized for Thing-Edge-Cloud Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/e-Science62913.2024.10678725",
+      "publicationDate": "2024-09-16",
+      "year": 2024
+    },
+    {
+      "title": "Latency-aware scheduling for data-oriented service requests in collaborative IoT-edge-cloud networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.107538",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "An Efficient Algorithm for Microservice Placement in Cloud-Edge Collaborative Computing Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2024.3399650",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Multiagent Reinforcement Learning Based Distributed Channel Access for Industrial Edge-Cloud Web 3.0",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2024.3377441",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Two-timescale joint service caching and resource allocation for task offloading with edge-cloud cooperation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110771",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Vehicular edge cloud computing content caching optimization solution based on content prediction and deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2024.103643",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models",
+      "arxiv_id": "2408.09972",
+      "doi": "10.1109/ICCT62411.2024.10946488",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Data Sharing Scheme With Fine-Grained Access Control and Integrity Auditing in Terminal–Edge–Cloud Network",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3393639",
+      "publicationDate": "2024-08-15",
+      "year": 2024
+    },
+    {
+      "title": "Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models",
+      "arxiv_id": "2408.06646",
+      "doi": "10.48550/arXiv.2408.06646",
+      "publicationDate": "2024-08-13",
+      "year": 2024
+    },
+    {
+      "title": "Large Models for Aerial Edges: An Edge-Cloud Model Evolution and Communication Paradigm",
+      "arxiv_id": "2408.04927",
+      "doi": "10.1109/JSAC.2024.3460078",
+      "publicationDate": "2024-08-09",
+      "year": 2024
+    },
+    {
+      "title": "VNF Placement and Dynamic NUMA Node Selection Through Core Consolidation at the Edge and Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3387275",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Blockchain-Secured Task Offloading and Resource Allocation for Cloud-Edge-End Cooperative Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3342817",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Joint Participant and Learning Topology Selection for Federated Learning in Edge Clouds",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3413751",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Mobile Edge Intelligence for Large Language Models: A Contemporary Survey",
+      "arxiv_id": "2407.18921",
+      "doi": "10.1109/COMST.2025.3527641",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "A Framework for QoS of Integration Testing in Satellite Edge Clouds",
+      "arxiv_id": "2407.10402",
+      "doi": "10.1109/ICWS62655.2024.00132",
+      "publicationDate": "2024-07-07",
+      "year": 2024
+    },
+    {
+      "title": "A Group-Vehicles Oriented Reputation Assessment Scheme for Edge VANETs",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2024.3406509",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "A cloud-edge collaboration based quality-related hierarchical fault detection framework for large-scale manufacturing processes",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2024.124909",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "LsiA3CS: Deep-Reinforcement-Learning-Based Cloud–Edge Collaborative Task Scheduling in Large-Scale IIoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3386888",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Offloading DNN Tasks Based on Graph Reinforcement Learning in Client-Edge-Cloud Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN60899.2024.10650388",
+      "publicationDate": "2024-06-30",
+      "year": 2024
+    },
+    {
+      "title": "Web-Centric Federated Learning over the Cloud-Edge Continuum Leveraging ONNX and WASM",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCC61673.2024.10733614",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "VELO: A Vector Database-Assisted Cloud-Edge Collaborative LLM QoS Optimization Framework",
+      "arxiv_id": "2406.13399",
+      "doi": "10.1109/ICWS62655.2024.00105",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Two-Phase Split Computing Framework in Edge–Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3376977",
+      "publicationDate": "2024-06-15",
+      "year": 2024
+    },
+    {
+      "title": "The universal federator: A third-party authentication solution to federated cloud, edge, and fog",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2024.103922",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Microservice Deployment and Offloading for Things–Edge–Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3370170",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Reinforcement-Learning-Based Offloading for RIS-Aided Cloud–Edge Computing in IoT Networks: Modeling, Analysis, and Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3367791",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Efficient End–Edge–Cloud Task Offloading in 6G Networks Based on Multiagent Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3372614",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Expanding the cloud-to-edge continuum to the IoT in serverless federated learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.02.024",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Blockchain-Empowered Lifecycle Management for AI-Generated Content Products in Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.003.2300053",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Enhanced decision-making in healthcare cloud-edge networks using deep reinforcement and lion optimization algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/j.bspc.2024.105963",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Digital Twin-Enabled Service Provisioning in Edge Computing via Continual Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3332668",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment",
+      "arxiv_id": "2405.19635",
+      "doi": "10.48550/arXiv.2405.19635",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Network Slicing for Edge-Cloud Orchestrated Networks via Online Convex Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS61880.2024.10620821",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "An Edge-Cloud Approach for Dynamic Resource Allocation in Drone Communication Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS61880.2024.10620670",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "FedSL: Federated Split Learning for Collaborative Healthcare Analytics on Resource-Constrained Wearable IoMT Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3370985",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Quantum-Edge Cloud Computing: A Future Paradigm for IoT Applications",
+      "arxiv_id": "2405.04824",
+      "doi": "10.48550/arXiv.2405.04824",
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "Deep Reinforcement Learning techniques for dynamic task offloading in the 5G edge-cloud continuum",
+      "arxiv_id": null,
+      "doi": "10.1186/s13677-024-00658-0",
+      "publicationDate": "2024-05-03",
+      "year": 2024
+    },
+    {
+      "title": "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3314580",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Robust and Lightweight Data Aggregation With Histogram Estimation in Edge-Cloud Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2024.3352734",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Blockchained Dual-Asynchronous Federated Learning Services for Digital Twin Empowered Edge-Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2024.3382952",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "An Offline-Transfer-Online Framework for Cloud-Edge Collaborative Distributed Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3360438",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2023.3330419",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "A2C-DRL: Dynamic Scheduling for Stochastic Edge–Cloud Environments Using A2C and Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3366252",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Semantic Communication in Satellite-Borne Edge Cloud Network for Computation Offloading",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2024.3365879",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Beyond the Edge: An Advanced Exploration of Reinforcement Learning for Mobile Edge Computing, Its Applications, and Future Research Trajectories",
+      "arxiv_id": "2404.14238",
+      "doi": "10.1109/COMST.2024.3405075",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Game Theory for 5G Cloud- Edge-Terminal Distributed Networks under DoS Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC57260.2024.10571251",
+      "publicationDate": "2024-04-21",
+      "year": 2024
+    },
+    {
+      "title": "Mitigating Data Sharing in Public Cloud using Blockchain",
+      "arxiv_id": "2404.16872",
+      "doi": "10.48550/arXiv.2404.16872",
+      "publicationDate": "2024-04-21",
+      "year": 2024
+    },
+    {
+      "title": "Socialized Learning: A Survey of the Paradigm Shift for Edge Intelligence in Networked Systems",
+      "arxiv_id": "2404.13348",
+      "doi": "10.1109/COMST.2024.3482978",
+      "publicationDate": "2024-04-20",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Cloud Computing: A Review, Open Problems, and Future Directions",
+      "arxiv_id": "2404.11420",
+      "doi": "10.48550/arXiv.2404.11420",
+      "publicationDate": "2024-04-17",
+      "year": 2024
+    },
+    {
+      "title": "Cybersecurity in the Quantum Era: Assessing the Impact of Quantum Computing on Infrastructure",
+      "arxiv_id": "2404.10659",
+      "doi": "10.1016/j.cose.2026.104917",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "LAECIPS: Large vision model assisted adaptive edge-cloud collaboration for IoT-based embodied intelligence system",
+      "arxiv_id": "2404.10498",
+      "doi": "10.1016/j.jii.2025.100955",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Split Computing Framework in Distributed Serverless Edge Clouds",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3342438",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Collaborative human-AI trust (CHAI-T): A process framework for active management of trust in human-AI collaboration",
+      "arxiv_id": "2404.01615",
+      "doi": "10.48550/arXiv.2404.01615",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "FlexibleFL: Mitigating poisoning attacks with contributions in cloud-edge federated learning systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2024.120350",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Deep Meta Q-Learning Based Multi-Task Offloading in Edge-Cloud Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3264901",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "CoLLaRS : A cloud-edge-terminal collaborative lifelong learning framework for AIoT",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.04.046",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Scheduling of IoV Edge Cloud Service Functions Under NFV: A Multi-Agent Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2023.3333291",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Task Offloading in Edge Computing Based on Dependency-Aware Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2024.3381646",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Digital twin-driven secured edge-private cloud Industrial Internet of Things (IIoT) framework",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2024.103888",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Cloud-edge collaborative transfer fault diagnosis of rotating machinery via federated fine-tuning and target self-adaptation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2024.123859",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Continual Learning for Smart City: A Survey",
+      "arxiv_id": "2404.00983",
+      "doi": "10.1109/TKDE.2024.3447123",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing trust and privacy in distributed networks: a comprehensive survey on blockchain-based federated learning",
+      "arxiv_id": "2403.19178",
+      "doi": "10.1007/s10115-024-02117-3",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing the resilience of error-prone computing environments using a hybrid multi-objective optimization algorithm for edge-centric cloud computing systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s00521-024-09636-8",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "On the Impact of Black-box Deployment Strategies for Edge AI on Latency and Model Performance",
+      "arxiv_id": "2403.17154",
+      "doi": "10.48550/arXiv.2403.17154",
+      "publicationDate": "2024-03-25",
+      "year": 2024
+    },
+    {
+      "title": "Improved Methods of Task Assignment and Resource Allocation With Preemption in Edge Computing Systems",
+      "arxiv_id": "2403.15665",
+      "doi": "10.1109/TPDS.2025.3583966",
+      "publicationDate": "2024-03-23",
+      "year": 2024
+    },
+    {
+      "title": "Anomaly Detection of Service Function Chain Based on Distributed Knowledge Distillation Framework in Cloud–Edge Industrial Internet of Things Scenarios",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3327795",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "Federated deep reinforcement learning for dynamic job scheduling in cloud-edge collaborative manufacturing systems",
+      "arxiv_id": null,
+      "doi": "10.1080/00207543.2024.2328116",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "EdgeLeakage: Membership Information Leakage in Distributed Edge Intelligence Systems",
+      "arxiv_id": "2404.16851",
+      "doi": "10.48550/arXiv.2404.16851",
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging federated learning and edge computing for recommendation systems within cloud computing networks",
+      "arxiv_id": "2403.03165",
+      "doi": "10.1117/12.3034773",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "Fast multi-type resource allocation in local-edge-cloud computing for energy-efficient service provision",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2024.120502",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "MADRLOM: A Computation offloading mechanism for software-defined cloud-edge computing power network",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110352",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Integration of Edge–AI Into IoT–Cloud Architecture for Landslide Monitoring and Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2023.3319671",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Collaborative Computing Optimization in Train-Edge-Cloud-Based Smart Train Systems Using Risk-Sensitive Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2023.3325674",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Privacy-Preserving Mutual Authentication Protocol With Forward Secrecy for IoT–Edge–Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3318180",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "A survey on integrated computing, caching, and communication in the cloud-to-edge continuum",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2024.03.005",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Real-Time Offloading for Dependent and Parallel Tasks in Cloud-Edge Environments Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2023.3349177",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Improving Performance of Smart Education Systems by Integrating Machine Learning on Edge Devices and Cloud in Educational Institutions",
+      "arxiv_id": null,
+      "doi": "10.1007/s10723-024-09755-5",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "CCSFLF: Cloud‐edge‐terminal collaborative self‐adaptive federated learning framework",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.8042",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "AutoMMLab: Automatically Generating Deployable Models from Language Instructions for Computer Vision Tasks",
+      "arxiv_id": "2402.15351",
+      "doi": "10.48550/arXiv.2402.15351",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "The Fusion of Deep Reinforcement Learning and Edge Computing for Real-time Monitoring and Control Optimization in IoT Environments",
+      "arxiv_id": "2403.07923",
+      "doi": "10.1109/EPECE63428.2024.00042",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "From Cloud to Edge: Rethinking Generative AI for Low-Resource Design Challenges",
+      "arxiv_id": "2402.12702",
+      "doi": "10.48550/arXiv.2402.12702",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "Exploring Sustainable Alternatives for the Deployment of Microservices Architectures in the Cloud",
+      "arxiv_id": "2402.11238",
+      "doi": "10.1109/ICSA59870.2024.00012",
+      "publicationDate": "2024-02-17",
+      "year": 2024
+    },
+    {
+      "title": "Energy-Aware and Trust-Collaboration Cross-Domain Resource Allocation Algorithm for Edge-Cloud Workflows",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3315339",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Neuromorphic hardware for sustainable AI data centers",
+      "arxiv_id": "2402.02521",
+      "doi": "10.48550/arXiv.2402.02521",
+      "publicationDate": "2024-02-04",
+      "year": 2024
+    },
+    {
+      "title": "Transfer Learning for Real-Time Surface Defect Detection With Multi-Access Edge-Cloud Computing Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3301718",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "A Many-Objective Ensemble Optimization Algorithm for the Edge Cloud Resource Scheduling Problem",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3235064",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Primal-Dual-Based Computation Offloading Method for Energy-Aware Cloud-Edge Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3237938",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "End-Edge-Cloud Collaboration-Based False Data Injection Attack Detection in Distribution Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2023.3281664",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2024.111402",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing quality of service through federated learning in edge-cloud architecture",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2024.103430",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Next-Generation Consumer Electronics Data Auditing Scheme Toward Cloud–Edge Distributed and Resilient Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2024.3368206",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Heterogeneous Workload-Based Consumer Resource Recommendation Model for Smart Cities: eHealth Edge–Cloud Connectivity Using Federated Split Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2024.3374462",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Communication Multiplexing of Server with QUIC and SDN in Multihomed Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICOIN59985.2024.10572147",
+      "publicationDate": "2024-01-17",
+      "year": 2024
+    },
+    {
+      "title": "An Optimal Transport-Based Federated Reinforcement Learning Approach for Resource Allocation in Cloud–Edge Collaborative IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3292368",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "Reinforcement Learning for Optimizing Delay-Sensitive Task Offloading in Vehicular Edge–Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3292591",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "Towards Efficient Object Re-Identification with a Novel Cloud-Edge Collaborative Framework",
+      "arxiv_id": "2401.02041",
+      "doi": "10.1609/aaai.v39i7.32818",
+      "publicationDate": "2024-01-04",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Leak: Timing Side-Channel Attacks on Cloud-Based Quantum Services",
+      "arxiv_id": "2401.01521",
+      "doi": "10.48550/arXiv.2401.01521",
+      "publicationDate": "2024-01-03",
+      "year": 2024
+    },
+    {
+      "title": "Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach",
+      "arxiv_id": "2401.01140",
+      "doi": "10.1109/JSAC.2024.3365899",
+      "publicationDate": "2024-01-02",
+      "year": 2024
+    },
+    {
+      "title": "Differentially Private Federated Tensor Completion for Cloud–Edge Collaborative AIoT Data Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3314460",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "QuAsyncFL: Asynchronous Federated Learning With Quantization for Cloud–Edge–Terminal Collaboration Enabled AIoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3290818",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "An ECA Regret Learning Game for Cross-Tier Computation Offloading Against Swarm Attacks in Sensor Edge Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3287996",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Collaborative Service Placement, Task Scheduling, and Resource Allocation for Task Offloading With Edge-Cloud Cooperation",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2022.3219261",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Hybrid Edge-Cloud Collaborator Resource Scheduling Approach Based on Deep Reinforcement Learning and Multiobjective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2023.3326977",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Toward Secure and Lightweight Data Transmission for Cloud–Edge–Terminal Collaboration in Artificial Intelligence of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3295438",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "A Trusted Cloud–Edge Decision Architecture Based on Blockchain and MLP for AIoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3300845",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Cooperative End-Edge-Cloud Computing and Resource Allocation for Digital Twin Enabled 6G Industrial IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JSTSP.2023.3345154",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Integrated Computation Offloading, UAV Trajectory Control, Edge-Cloud and Radio Resource Allocation in SAGIN",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2023.3339394",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "An Intelligent Workflow Scheduling Scheme for Complex Network Robustness in Fuzzy Edge-Cloud Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2023.3321089",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Cross-FCL: Toward a Cross-Edge Federated Continual Learning Framework in Mobile Edge Computing Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2022.3223944",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "A DNN partitioning framework with controlled lossy mechanisms for edge-cloud collaborative intelligence",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.01.006",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Privacy-Preserving Data in IoT-based Cloud Systems: A Comprehensive Survey with AI Integration",
+      "arxiv_id": "2401.00794",
+      "doi": "10.48550/arXiv.2401.00794",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "A Systematic Point Cloud Edge Detection Framework for Automatic Aircraft Skin Milling",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2023.3268404",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Cloud-Device Collaborative Learning for Multimodal Large Language Models",
+      "arxiv_id": "2312.16279",
+      "doi": "10.1109/CVPR52733.2024.01202",
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge",
+      "arxiv_id": "2312.05693",
+      "doi": "10.48550/arXiv.2312.05693",
+      "publicationDate": "2023-12-09",
+      "year": 2023
+    },
+    {
+      "title": "Edge computing service deployment and task offloading based on multi-task high-dimensional multi-objective optimization",
+      "arxiv_id": "2312.04101",
+      "doi": "10.48550/arXiv.2312.04101",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Green Edge AI: A Contemporary Survey",
+      "arxiv_id": "2312.00333",
+      "doi": "10.1109/JPROC.2024.3437365",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration",
+      "arxiv_id": "2312.11489",
+      "doi": "10.1109/INFOCOM52122.2024.10621254",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Equilibrium in the Computing Continuum through Active Inference",
+      "arxiv_id": "2311.16769",
+      "doi": "10.1016/j.future.2024.05.056",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "OpenPerf: A Benchmarking Framework for the Sustainable Development of the Open-Source Ecosystem",
+      "arxiv_id": "2311.15212",
+      "doi": "10.48550/arXiv.2311.15212",
+      "publicationDate": "2023-11-26",
+      "year": 2023
+    },
+    {
+      "title": "Consensus-based Resource Scheduling for Collaborative Multi-Robot Tasks",
+      "arxiv_id": "2311.10194",
+      "doi": "10.1109/IRC59093.2023.00059",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "AutoML for Large Capacity Modeling of Meta's Ranking Systems",
+      "arxiv_id": "2311.07870",
+      "doi": "10.1145/3589335.3648336",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Aid Nexus : A Blockchain Based Financial Distribution System",
+      "arxiv_id": "2311.08372",
+      "doi": "10.48550/arXiv.2311.08372",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Network Resource Management For Cyber-Physical Production Systems Based On Quality of Experience",
+      "arxiv_id": "2311.06008",
+      "doi": "10.48550/arXiv.2311.06008",
+      "publicationDate": "2023-11-10",
+      "year": 2023
+    },
+    {
+      "title": "Multi-mobile vehicles task offloading for vehicle-edge-cloud collaboration: A dependency-aware and deep reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2023.11.013",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Trustworthy Edge Intelligence: From Security and Reliability to Transparency and Sustainability",
+      "arxiv_id": "2310.17944",
+      "doi": "10.1109/COMST.2024.3446585",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "Benchmarking Function Hook Latency in Cloud-Native Environments",
+      "arxiv_id": "2310.12702",
+      "doi": "10.48550/arXiv.2310.12702",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Scaling Performance of Serverless Edge Networking",
+      "arxiv_id": "2310.09137",
+      "doi": "10.48550/arXiv.2310.09137",
+      "publicationDate": "2023-10-13",
+      "year": 2023
+    },
+    {
+      "title": "Watt For What: Rethinking Deep Learning's Energy-Performance Relationship",
+      "arxiv_id": "2310.06522",
+      "doi": "10.48550/arXiv.2310.06522",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "EdgeAISim: A Toolkit for Simulation and Modelling of AI Models in Edge Computing Environments",
+      "arxiv_id": "2310.05605",
+      "doi": "10.1016/j.measen.2023.100939",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "ECAvg: An Edge-Cloud Collaborative Learning Approach using Averaged Weights",
+      "arxiv_id": "2310.03823",
+      "doi": "10.1109/ICCE59016.2024.10444369",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey",
+      "arxiv_id": "2309.16398",
+      "doi": "10.1145/3712000",
+      "publicationDate": "2023-09-28",
+      "year": 2023
+    },
+    {
+      "title": "Pushing Large Language Models to the 6G Edge: Vision, Challenges, and Opportunities",
+      "arxiv_id": "2309.16739",
+      "doi": "10.1109/MCOM.001.2400764",
+      "publicationDate": "2023-09-28",
+      "year": 2023
+    },
+    {
+      "title": "QoS-Aware Service Prediction and Orchestration in Cloud-Network Integrated Beyond 5G",
+      "arxiv_id": "2309.10185",
+      "doi": "10.1109/GLOBECOM54140.2023.10436905",
+      "publicationDate": "2023-09-18",
+      "year": 2023
+    },
+    {
+      "title": "Deep Reinforcement Learning-based scheduling for optimizing system load and response time in edge and fog computing environments",
+      "arxiv_id": "2309.07407",
+      "doi": "10.1016/j.future.2023.10.012",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Towards Characterization of Edge-Cloud Continuum",
+      "arxiv_id": "2309.05416",
+      "doi": "10.1007/978-3-031-36889-9_16",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "EdgeMoE: Empowering Sparse Large Language Models on Mobile Devices",
+      "arxiv_id": "2308.14352",
+      "doi": "10.1109/TMC.2025.3546466",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "Theory vs. Practice in Modeling Edge Storage Systems",
+      "arxiv_id": "2308.12115",
+      "doi": "10.48550/arXiv.2308.12115",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "Autonomous Choreography of WebAssembly Workloads in the Federated Cloud-Edge-IoT Continuum",
+      "arxiv_id": "2308.03119",
+      "doi": "10.1109/CloudNet59005.2023.10490045",
+      "publicationDate": "2023-08-06",
+      "year": 2023
+    },
+    {
+      "title": "FLight: A lightweight federated learning framework in edge and fog computing",
+      "arxiv_id": "2308.02834",
+      "doi": "10.1002/spe.3300",
+      "publicationDate": "2023-08-05",
+      "year": 2023
+    },
+    {
+      "title": "NetGPT: A Native-AI Network Architecture Beyond Provisioning Personalized Generative Services",
+      "arxiv_id": "2307.06148",
+      "doi": "10.48550/arXiv.2307.06148",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Search-time Efficient Device Constraints-Aware Neural Architecture Search",
+      "arxiv_id": "2307.04443",
+      "doi": "10.48550/arXiv.2307.04443",
+      "publicationDate": "2023-07-10",
+      "year": 2023
+    },
+    {
+      "title": "Collaborative Policy Learning for Dynamic Scheduling Tasks in Cloud–Edge–Terminal IoT Networks Using Federated Reinforcement Learning",
+      "arxiv_id": "2307.00541",
+      "doi": "10.1109/JIOT.2023.3327495",
+      "publicationDate": "2023-07-02",
+      "year": 2023
+    },
+    {
+      "title": "KheOps: Cost-effective Repeatability, Reproducibility, and Replicability of Edge-to-Cloud Experiments",
+      "arxiv_id": "2307.12796",
+      "doi": "10.1145/3589806.3600032",
+      "publicationDate": "2023-06-27",
+      "year": 2023
+    },
+    {
+      "title": "Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning",
+      "arxiv_id": "2306.15333",
+      "doi": "10.1109/DAC56929.2023.10247821",
+      "publicationDate": "2023-06-27",
+      "year": 2023
+    },
+    {
+      "title": "Split Learning in 6G Edge Networks",
+      "arxiv_id": "2306.12194",
+      "doi": "10.1109/MWC.014.2300319",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Confidential Computing in Edge-Cloud Hierarchy",
+      "arxiv_id": "2306.10834",
+      "doi": "10.48550/arXiv.2306.10834",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Leveraging The Edge-to-Cloud Continuum for Scalable Machine Learning on Decentralized Data",
+      "arxiv_id": "2306.10848",
+      "doi": "10.48550/arXiv.2306.10848",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI",
+      "arxiv_id": "2306.06603",
+      "doi": "10.1109/MNET.011.2300046",
+      "publicationDate": "2023-06-11",
+      "year": 2023
+    },
+    {
+      "title": "A design method for edge–cloud collaborative product service system: a dynamic event-state knowledge graph-based approach with real case study",
+      "arxiv_id": null,
+      "doi": "10.1080/00207543.2023.2219345",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference",
+      "arxiv_id": "2306.01811",
+      "doi": "10.1109/TMC.2024.3357218",
+      "publicationDate": "2023-06-02",
+      "year": 2023
+    },
+    {
+      "title": "Edge to Cloud Tools: A Multivocal Literature Review",
+      "arxiv_id": "2305.17464",
+      "doi": "10.48550/arXiv.2305.17464",
+      "publicationDate": "2023-05-27",
+      "year": 2023
+    },
+    {
+      "title": "Privacy Protectability: An Information-theoretical Approach",
+      "arxiv_id": "2305.15697",
+      "doi": "10.48550/arXiv.2305.15697",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought",
+      "arxiv_id": "2305.15021",
+      "doi": "10.48550/arXiv.2305.15021",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Scaling Serverless Functions in Edge Networks: A Reinforcement Learning Approach",
+      "arxiv_id": "2305.13130",
+      "doi": "10.1109/GLOBECOM54140.2023.10437794",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "PrivaScissors: Enhance the Privacy of Collaborative Inference through the Lens of Mutual Information",
+      "arxiv_id": "2306.07973",
+      "doi": "10.48550/arXiv.2306.07973",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Coded Multi-Party Computation at Edge Networks",
+      "arxiv_id": "2305.07142",
+      "doi": "10.1109/TIFS.2023.3326970",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "Cooperative Hierarchical Deep Reinforcement Learning-Based Joint Sleep and Power Control in RIS-Aided Energy-Efficient RAN",
+      "arxiv_id": "2304.13226",
+      "doi": "10.1109/TCCN.2024.3435850",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Scalable, Distributed AI Frameworks: Leveraging Cloud Computing for Enhanced Deep Learning Performance and Efficiency",
+      "arxiv_id": "2304.13738",
+      "doi": "10.48550/arXiv.2304.13738",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Sustainable edge computing: Challenges and future directions",
+      "arxiv_id": "2304.04450",
+      "doi": "10.1002/spe.3340",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Federated Learning for the Healthcare Metaverse: Concepts, Applications, Challenges, and Future Directions",
+      "arxiv_id": "2304.00524",
+      "doi": "10.48550/arXiv.2304.00524",
+      "publicationDate": "2023-04-02",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services",
+      "arxiv_id": "2303.16129",
+      "doi": "10.1109/COMST.2024.3353265",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments",
+      "arxiv_id": "2303.15729",
+      "doi": "10.1109/QSW59989.2023.00013",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Parallel Split Learning Over Resource-Constrained Wireless Edge Networks",
+      "arxiv_id": "2303.15991",
+      "doi": "10.1109/TMC.2024.3359040",
+      "publicationDate": "2023-03-26",
+      "year": 2023
+    },
+    {
+      "title": "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments",
+      "arxiv_id": "2303.07129",
+      "doi": "10.1145/3570361.3592529",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "KubeEdge-Sedna v0.3: Towards Next-Generation Automatically Customized AI Engineering Scheme",
+      "arxiv_id": "2304.05985",
+      "doi": "10.48550/arXiv.2304.05985",
+      "publicationDate": "2023-03-08",
+      "year": 2023
+    },
+    {
+      "title": "Redundancy Management for Fast Service (Rates) in Edge Computing Systems",
+      "arxiv_id": "2303.00486",
+      "doi": "10.1109/TNET.2024.3507372",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Omniforce: on human-centered, large model empowered and cloud-edge collaborative AutoML system",
+      "arxiv_id": "2303.00501",
+      "doi": "10.1038/s44387-025-00002-0",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "EdgeMatrix: A Resource-Redefined Scheduling Framework for SLA-Guaranteed Multi-Tier Edge-Cloud Computing Systems",
+      "arxiv_id": "2308.00481",
+      "doi": "10.1109/JSAC.2022.3229444",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "SMPC Task Decomposition: A Theory for Accelerating Secure Multi-party Computation Task",
+      "arxiv_id": "2303.00343",
+      "doi": "10.48550/arXiv.2303.00343",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Intelligent Model Update Strategy for Sequential Recommendation",
+      "arxiv_id": "2302.07335",
+      "doi": "10.1145/3589334.3645316",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "Edge Computing and Sensor-Cloud: Overview, Solutions, and Directions",
+      "arxiv_id": null,
+      "doi": "10.1145/3582270",
+      "publicationDate": "2023-02-13",
+      "year": 2023
+    },
+    {
+      "title": "Zero Touch Realization of Pervasive Artificial Intelligence as a Service in 6G Networks",
+      "arxiv_id": "2307.11468",
+      "doi": "10.1109/MCOM.001.2200508",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Remote patient monitoring using artificial intelligence: Current state, applications, and challenges",
+      "arxiv_id": "2301.10009",
+      "doi": "10.1002/widm.1485",
+      "publicationDate": "2023-01-05",
+      "year": 2023
+    },
+    {
+      "title": "Edge Computing Performance Amplification",
+      "arxiv_id": "2305.16175",
+      "doi": "10.48550/arXiv.2305.16175",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "StyleID: Identity Disentanglement for Anonymizing Faces",
+      "arxiv_id": "2212.13791",
+      "doi": "10.48550/arXiv.2212.13791",
+      "publicationDate": "2022-12-28",
+      "year": 2022
+    },
+    {
+      "title": "More is Different: Prototyping and Analyzing a New Form of Edge Server with Massive Mobile SoCs",
+      "arxiv_id": "2212.12842",
+      "doi": null,
+      "publicationDate": "2022-12-25",
+      "year": 2022
+    },
+    {
+      "title": "Privacy-preserving Security Inference Towards Cloud-Edge Collaborative Using Differential Privacy",
+      "arxiv_id": "2212.06428",
+      "doi": "10.48550/arXiv.2212.06428",
+      "publicationDate": "2022-12-13",
+      "year": 2022
+    },
+    {
+      "title": "Precise Energy Consumption Measurements of Heterogeneous Artificial Intelligence Workloads",
+      "arxiv_id": "2212.01698",
+      "doi": "10.48550/arXiv.2212.01698",
+      "publicationDate": "2022-12-03",
+      "year": 2022
+    },
+    {
+      "title": "DeepFT: Fault-Tolerant Edge Computing using a Self-Supervised Deep Surrogate Model",
+      "arxiv_id": "2212.01302",
+      "doi": "10.1109/INFOCOM53939.2023.10229049",
+      "publicationDate": "2022-12-02",
+      "year": 2022
+    },
+    {
+      "title": "A Privacy-Preserving Outsourced Data Model in Cloud Environment",
+      "arxiv_id": "2211.13542",
+      "doi": "10.48550/arXiv.2211.13542",
+      "publicationDate": "2022-11-24",
+      "year": 2022
+    },
+    {
+      "title": "Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning",
+      "arxiv_id": "2211.06324",
+      "doi": "10.48550/arXiv.2211.06324",
+      "publicationDate": "2022-11-10",
+      "year": 2022
+    },
+    {
+      "title": "Edge, Fog, and Cloud Computing : An Overview on Challenges and Applications",
+      "arxiv_id": "2211.01863",
+      "doi": "10.48550/arXiv.2211.01863",
+      "publicationDate": "2022-11-03",
+      "year": 2022
+    },
+    {
+      "title": "ENTS: An Edge-native Task Scheduling System for Collaborative Edge Computing",
+      "arxiv_id": "2210.07842",
+      "doi": "10.1109/SEC54971.2022.00019",
+      "publicationDate": "2022-10-14",
+      "year": 2022
+    },
+    {
+      "title": "Real-Time Dynamic Map With Crowdsourcing Vehicles in Edge Computing",
+      "arxiv_id": "2210.05034",
+      "doi": "10.1109/TIV.2022.3214119",
+      "publicationDate": "2022-10-10",
+      "year": 2022
+    },
+    {
+      "title": "FedStack: Personalized activity monitoring using stacked federated learning",
+      "arxiv_id": "2209.13080",
+      "doi": "10.1016/j.knosys.2022.109929",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "A Joint Framework to Privacy-Preserving Edge Intelligence in Vehicular Networks",
+      "arxiv_id": "2208.12755",
+      "doi": "10.48550/arXiv.2208.12755",
+      "publicationDate": "2022-08-18",
+      "year": 2022
+    },
+    {
+      "title": "Network Emulation in Large-Scale Virtual Edge Testbeds: A Note of Caution and the Way Forward",
+      "arxiv_id": "2208.05862",
+      "doi": "10.1109/IC2E55432.2022.00007",
+      "publicationDate": "2022-08-11",
+      "year": 2022
+    },
+    {
+      "title": "NeuCASL: From Logic Design to System Simulation of Neuromorphic Engines",
+      "arxiv_id": "2208.03500",
+      "doi": "10.48550/arXiv.2208.03500",
+      "publicationDate": "2022-08-06",
+      "year": 2022
+    },
+    {
+      "title": "Edge-centric Optimization of Multi-modal ML-driven eHealth Applications",
+      "arxiv_id": "2208.02597",
+      "doi": "10.48550/arXiv.2208.02597",
+      "publicationDate": "2022-08-04",
+      "year": 2022
+    },
+    {
+      "title": "AI Augmented Edge and Fog Computing: Trends and Challenges",
+      "arxiv_id": "2208.00761",
+      "doi": "10.48550/arXiv.2208.00761",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Distributed Intelligence in Wireless Networks",
+      "arxiv_id": "2208.00545",
+      "doi": "10.1109/OJCOMS.2023.3265425",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Edge Intelligence-Based Ultra-Reliable and Low-Latency Communications for Digital Twin-Enabled Metaverse",
+      "arxiv_id": null,
+      "doi": "10.1109/lwc.2022.3179207",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "The SPEC-RG Reference Architecture for The Compute Continuum",
+      "arxiv_id": "2207.04159",
+      "doi": "10.1109/CCGrid57682.2023.00051",
+      "publicationDate": "2022-07-09",
+      "year": 2022
+    },
+    {
+      "title": "Sustainable AI Processing at the Edge",
+      "arxiv_id": "2207.01209",
+      "doi": "10.1109/MM.2022.3220399",
+      "publicationDate": "2022-07-04",
+      "year": 2022
+    },
+    {
+      "title": "WebAssembly as a Common Layer for the Cloud-edge Continuum",
+      "arxiv_id": "2206.12888",
+      "doi": "10.1145/3526059.3533618",
+      "publicationDate": "2022-06-26",
+      "year": 2022
+    },
+    {
+      "title": "Never trust, always verify : a roadmap for Trustworthy AI?",
+      "arxiv_id": "2206.11981",
+      "doi": "10.48550/arXiv.2206.11981",
+      "publicationDate": "2022-06-23",
+      "year": 2022
+    },
+    {
+      "title": "Towards Trustworthy Edge Intelligence: Insights from Voice-Activated Services",
+      "arxiv_id": "2206.09523",
+      "doi": "10.1109/SCC55611.2022.00043",
+      "publicationDate": "2022-06-20",
+      "year": 2022
+    },
+    {
+      "title": "BenchFaaS: Benchmarking Serverless Functions in an Edge Computing Network Testbed",
+      "arxiv_id": "2206.02150",
+      "doi": "10.1109/MNET.125.2200294",
+      "publicationDate": "2022-06-05",
+      "year": 2022
+    },
+    {
+      "title": "Edge YOLO: Real-Time Intelligent Object Detection System Based on Edge-Cloud Cooperation in Autonomous Vehicles",
+      "arxiv_id": "2205.14942",
+      "doi": "10.1109/TITS.2022.3158253",
+      "publicationDate": "2022-05-30",
+      "year": 2022
+    },
+    {
+      "title": "Dynamic Control of Data-Intensive Services Over Edge Computing Networks",
+      "arxiv_id": "2205.14735",
+      "doi": "10.1109/GLOBECOM48099.2022.10001343",
+      "publicationDate": "2022-05-29",
+      "year": 2022
+    },
+    {
+      "title": "Automated machine learning: AI-driven decision making in business analytics",
+      "arxiv_id": "2205.10538",
+      "doi": "10.1016/j.iswa.2023.200188",
+      "publicationDate": "2022-05-21",
+      "year": 2022
+    },
+    {
+      "title": "Resilience Enhancement at Edge Cloud Systems",
+      "arxiv_id": "2205.08997",
+      "doi": "10.1109/ACCESS.2022.3165744",
+      "publicationDate": "2022-05-18",
+      "year": 2022
+    },
+    {
+      "title": "Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures",
+      "arxiv_id": "2205.04713",
+      "doi": "10.48550/arXiv.2205.04713",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration",
+      "arxiv_id": "2205.01423",
+      "doi": "10.48550/arXiv.2205.01423",
+      "publicationDate": "2022-05-03",
+      "year": 2022
+    },
+    {
+      "title": "Distributed intelligence on the Edge-to-Cloud Continuum: A systematic literature review",
+      "arxiv_id": "2205.01081",
+      "doi": "10.1016/j.jpdc.2022.04.004",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "EdgeMatrix: A Resources Redefined Edge-Cloud System for Prioritized Services",
+      "arxiv_id": "2203.10470",
+      "doi": "10.1109/INFOCOM48880.2022.9796939",
+      "publicationDate": "2022-03-20",
+      "year": 2022
+    },
+    {
+      "title": "CAROL: Confidence-Aware Resilience Model for Edge Federations",
+      "arxiv_id": "2203.07140",
+      "doi": "10.48550/arXiv.2203.07140",
+      "publicationDate": "2022-03-14",
+      "year": 2022
+    },
+    {
+      "title": "Adaptive Gap Entangled Polynomial Coding for Multi-Party Computation at the Edge",
+      "arxiv_id": "2203.06759",
+      "doi": "10.48550/arXiv.2203.06759",
+      "publicationDate": "2022-03-13",
+      "year": 2022
+    },
+    {
+      "title": "Blockchain-based RBAC Model with Separation of Duties constraint in Cloud Environment",
+      "arxiv_id": "2203.00351",
+      "doi": "10.48550/arXiv.2203.00351",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Online Learning for Orchestration of Inference in Multi-user End-edge-cloud Networks",
+      "arxiv_id": "2202.10541",
+      "doi": "10.1145/3520129",
+      "publicationDate": "2022-02-21",
+      "year": 2022
+    },
+    {
+      "title": "Mining Robust Default Configurations for Resource-constrained AutoML",
+      "arxiv_id": "2202.09927",
+      "doi": null,
+      "publicationDate": "2022-02-20",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Scheduling Techniques in the Edge Cloud: Issues, Challenges and Future Directions",
+      "arxiv_id": "2202.07799",
+      "doi": "10.21203/rs.3.rs-1360831/v1",
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Energy Efficiency and Delay Tradeoff in an MEC-Enabled Mobile IoT Network",
+      "arxiv_id": "2202.03648",
+      "doi": "10.1109/JIOT.2022.3153847",
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization",
+      "arxiv_id": "2202.01971",
+      "doi": "10.1109/TDSC.2022.3146448",
+      "publicationDate": "2022-02-04",
+      "year": 2022
+    },
+    {
+      "title": "Circuit and System Technologies for Energy-Efficient Edge Robotics: (Invited Paper)",
+      "arxiv_id": "2202.11237",
+      "doi": "10.1109/asp-dac52403.2022.9712531",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Toward Experience-Driven Traffic Management and Orchestration in Digital-Twin-Enabled 6G Networks",
+      "arxiv_id": "2201.04259",
+      "doi": null,
+      "publicationDate": "2022-01-12",
+      "year": 2022
+    },
+    {
+      "title": "Matching-based Service Offloading for Compute-less Driven IoT Networks",
+      "arxiv_id": "2201.04195",
+      "doi": "10.1109/GLOBECOM52923.2024.10901209",
+      "publicationDate": "2022-01-11",
+      "year": 2022
+    },
+    {
+      "title": "A Framework for Energy-aware Evaluation of Distributed Data Processing Platforms in Edge-Cloud Environment",
+      "arxiv_id": "2201.01972",
+      "doi": null,
+      "publicationDate": "2022-01-06",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors",
+      "arxiv_id": "2112.06872",
+      "doi": null,
+      "publicationDate": "2021-12-13",
+      "year": 2021
+    },
+    {
+      "title": "A Case for a Programmable Edge Storage Middleware",
+      "arxiv_id": "2111.14720",
+      "doi": null,
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "Edge Computing for Cyber-physical Systems: A Systematic Mapping Study Emphasizing Trustworthiness",
+      "arxiv_id": "2112.00619",
+      "doi": "10.1145/3539662",
+      "publicationDate": "2021-11-26",
+      "year": 2021
+    },
+    {
+      "title": "Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications",
+      "arxiv_id": "2111.12444",
+      "doi": "10.1109/jsac.2021.3126076",
+      "publicationDate": "2021-11-24",
+      "year": 2021
+    },
+    {
+      "title": "Hierarchical Federated Learning based Anomaly Detection using Digital Twins for Smart Healthcare",
+      "arxiv_id": "2111.12241",
+      "doi": "10.1109/CIC52973.2021.00013",
+      "publicationDate": "2021-11-24",
+      "year": 2021
+    },
+    {
+      "title": "Time-Energy-Constrained Closed-Loop FBL Communication for Dependable MEC",
+      "arxiv_id": "2111.12494",
+      "doi": "10.1109/CSCN53733.2021.9686111.",
+      "publicationDate": "2021-11-24",
+      "year": 2021
+    },
+    {
+      "title": "Armada: A Robust Latency-Sensitive Edge Cloud in Heterogeneous Edge-Dense Environments",
+      "arxiv_id": "2111.12002",
+      "doi": null,
+      "publicationDate": "2021-11-23",
+      "year": 2021
+    },
+    {
+      "title": "Edge Computing vs Centralized Cloud: Impact of Communication Latency on the Energy Consumption of LTE Terminal Nodes",
+      "arxiv_id": "2111.10076",
+      "doi": "10.1016/j.comcom.2022.07.026",
+      "publicationDate": "2021-11-19",
+      "year": 2021
+    },
+    {
+      "title": "Federated Learning for Smart Healthcare: A Survey",
+      "arxiv_id": "2111.08834",
+      "doi": "10.1145/3501296",
+      "publicationDate": "2021-11-16",
+      "year": 2021
+    },
+    {
+      "title": "Edge-Cloud Polarization and Collaboration: A Comprehensive Survey for AI",
+      "arxiv_id": "2111.06061",
+      "doi": "10.1109/TKDE.2022.3178211",
+      "publicationDate": "2021-11-11",
+      "year": 2021
+    },
+    {
+      "title": "At the Edge of a Seamless Cloud Experience",
+      "arxiv_id": "2111.06157",
+      "doi": null,
+      "publicationDate": "2021-11-11",
+      "year": 2021
+    },
+    {
+      "title": "Introducing a Framework to Enable Anonymous Secure Multi-Party Computation in Practice",
+      "arxiv_id": "2111.02269",
+      "doi": "10.1109/PST52912.2021.9647793",
+      "publicationDate": "2021-11-03",
+      "year": 2021
+    },
+    {
+      "title": "The Efficiency Misnomer",
+      "arxiv_id": "2110.12894",
+      "doi": null,
+      "publicationDate": "2021-10-25",
+      "year": 2021
+    },
+    {
+      "title": "A Distributed Deep Reinforcement Learning Technique for Application Placement in Edge and Fog Computing Environments",
+      "arxiv_id": "2110.12415",
+      "doi": "10.1109/TMC.2021.3123165",
+      "publicationDate": "2021-10-24",
+      "year": 2021
+    },
+    {
+      "title": "Trustworthy AI: From Principles to Practices",
+      "arxiv_id": "2110.01167",
+      "doi": "10.1145/3555803",
+      "publicationDate": "2021-10-04",
+      "year": 2021
+    },
+    {
+      "title": "AI Back-End as a Service for Learning Switching of Mobile Apps Between the Fog and the Cloud",
+      "arxiv_id": "2110.00836",
+      "doi": "10.1109/tsc.2021.3117927",
+      "publicationDate": "2021-10-02",
+      "year": 2021
+    },
+    {
+      "title": "Parsimonious Edge Computing to Reduce Microservice Resource Usage",
+      "arxiv_id": "2109.02514",
+      "doi": null,
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "Resource Scheduling in Edge Computing: A Survey",
+      "arxiv_id": "2108.08059",
+      "doi": "10.1109/comst.2021.3106401",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Auto-Split: A General Framework of Collaborative Edge-Cloud AI",
+      "arxiv_id": "2108.13041",
+      "doi": "10.1145/3447548.3467078",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Latency-Memory Optimized Splitting of Convolution Neural Networks for Resource Constrained Edge Devices",
+      "arxiv_id": "2107.09123",
+      "doi": "10.1109/COMSNETS53615.2022.9668356",
+      "publicationDate": "2021-07-19",
+      "year": 2021
+    },
+    {
+      "title": "Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning",
+      "arxiv_id": "2107.06946",
+      "doi": null,
+      "publicationDate": "2021-07-14",
+      "year": 2021
+    },
+    {
+      "title": "Decentralized Blockchain-based model for Edge Computing",
+      "arxiv_id": "2106.15050",
+      "doi": null,
+      "publicationDate": "2021-06-29",
+      "year": 2021
+    },
+    {
+      "title": "How Crucial is it for 6G Networks to be Autonomous?",
+      "arxiv_id": "2106.06949",
+      "doi": null,
+      "publicationDate": "2021-06-13",
+      "year": 2021
+    },
+    {
+      "title": "A Taxonomy and Survey of Edge Cloud Computing for Intelligent Transportation Systems and Connected Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2021.3084396",
+      "publicationDate": "2021-06-07",
+      "year": 2021
+    },
+    {
+      "title": "Differentially Private Empirical Risk Minimization under the Fairness Lens",
+      "arxiv_id": "2106.02674",
+      "doi": null,
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "Split-and-Bridge: Adaptable Class Incremental Learning within a Single Neural Network",
+      "arxiv_id": "2107.01349",
+      "doi": "10.1609/aaai.v35i9.16991",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "Slicing-Based AI Service Provisioning on Network Edge",
+      "arxiv_id": "2105.07052",
+      "doi": null,
+      "publicationDate": "2021-05-14",
+      "year": 2021
+    },
+    {
+      "title": "AppealNet: An Efficient and Highly-Accurate Edge/Cloud Collaborative Architecture for DNN Inference",
+      "arxiv_id": "2105.04104",
+      "doi": "10.1109/dac18074.2021.9586176",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "The synergy of complex event processing and tiny machine learning in industrial IoT",
+      "arxiv_id": "2105.03371",
+      "doi": "10.1145/3465480.3466928",
+      "publicationDate": "2021-05-04",
+      "year": 2021
+    },
+    {
+      "title": "The Hidden Cost of the Edge: A Performance Comparison of Edge and Cloud Latencies",
+      "arxiv_id": "2104.14050",
+      "doi": "10.1145/3458817.3476142",
+      "publicationDate": "2021-04-29",
+      "year": 2021
+    },
+    {
+      "title": "Neuromorphic Computing is Turing-Complete",
+      "arxiv_id": "2104.13983",
+      "doi": "10.1145/3546790.3546806",
+      "publicationDate": "2021-04-28",
+      "year": 2021
+    },
+    {
+      "title": "Performance and Energy-Aware Bi-objective Tasks Scheduling for Cloud Data Centers",
+      "arxiv_id": "2105.00843",
+      "doi": "10.1016/j.procs.2021.12.137",
+      "publicationDate": "2021-04-25",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Edge and Edge-Cloud Computing Assisted Cyber-Physical Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2021.3073066",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "Exploring Task Placement for Edge-to-Cloud Applications using Emulation",
+      "arxiv_id": "2104.03368",
+      "doi": "10.1109/ICFEC51620.2021.00019",
+      "publicationDate": "2021-04-07",
+      "year": 2021
+    },
+    {
+      "title": "A Comprehensive and Accurate Energy Model for Arm's Cortex-M0 Processor",
+      "arxiv_id": "2104.01055",
+      "doi": null,
+      "publicationDate": "2021-04-02",
+      "year": 2021
+    },
+    {
+      "title": "Enabling Design Methodologies and Future Trends for Edge AI: Specialization and Codesign",
+      "arxiv_id": "2103.15750",
+      "doi": "10.1109/MDAT.2021.3069952",
+      "publicationDate": "2021-03-25",
+      "year": 2021
+    },
+    {
+      "title": "STEC-IoT: A Security Tactic by Virtualizing Edge Computing on IoT",
+      "arxiv_id": "2202.04300",
+      "doi": "10.1109/JIOT.2020.3017742",
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "CaPC Learning: Confidential and Private Collaborative Learning",
+      "arxiv_id": "2102.05188",
+      "doi": null,
+      "publicationDate": "2021-02-09",
+      "year": 2021
+    },
+    {
+      "title": "Blockchain-Based Transparency Framework for Privacy Preserving Third-Party Services",
+      "arxiv_id": "2102.01249",
+      "doi": "10.1109/TDSC.2022.3179698",
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Collaborative Federated Learning for Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge",
+      "arxiv_id": "2101.07511",
+      "doi": "10.1109/OJCS.2022.3206407",
+      "publicationDate": "2021-01-19",
+      "year": 2021
+    },
+    {
+      "title": "Resource Provisioning in Edge Computing for Latency-Sensitive Applications",
+      "arxiv_id": "2201.11837",
+      "doi": "10.1109/JIOT.2021.3052082",
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Edge Performance Benchmarking",
+      "arxiv_id": null,
+      "doi": "10.1145/3444692",
+      "publicationDate": "2020-12-16",
+      "year": 2020
+    },
+    {
+      "title": "LiveMap: Real-Time Dynamic Map in Automotive Edge Computing",
+      "arxiv_id": "2012.10252",
+      "doi": "10.1109/INFOCOM42981.2021.9488872",
+      "publicationDate": "2020-12-16",
+      "year": 2020
+    },
+    {
+      "title": "Towards Communication-Efficient and Attack-Resistant Federated Edge Learning for Industrial Internet of Things",
+      "arxiv_id": "2012.04436",
+      "doi": "10.1145/3453169",
+      "publicationDate": "2020-12-08",
+      "year": 2020
+    },
+    {
+      "title": "Cost-effective Machine Learning Inference Offload for Edge Computing",
+      "arxiv_id": "2012.04063",
+      "doi": null,
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "CoEdge: Cooperative DNN Inference With Adaptive Workload Partitioning Over Heterogeneous Edge Devices",
+      "arxiv_id": "2012.03257",
+      "doi": "10.1109/TNET.2020.3042320",
+      "publicationDate": "2020-12-06",
+      "year": 2020
+    },
+    {
+      "title": "A Case for 3D Integrated System Design for Neuromorphic Computing and AI Applications",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X20500063",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Analysis of the Cost of Varying Levels of User Perceived Quality for Internet Access",
+      "arxiv_id": "2010.16160",
+      "doi": "10.20944/preprints202010.0637.v1",
+      "publicationDate": "2020-10-30",
+      "year": 2020
+    },
+    {
+      "title": "EdgeBench: A Workflow-based Benchmark for Edge Computing",
+      "arxiv_id": "2010.14027",
+      "doi": "10.1007/978-3-031-54053-0_12",
+      "publicationDate": "2020-10-27",
+      "year": 2020
+    },
+    {
+      "title": "Pareto-Optimal Bit Allocation for Collaborative Intelligence",
+      "arxiv_id": "2009.12430",
+      "doi": "10.1109/TIP.2021.3060875",
+      "publicationDate": "2020-09-25",
+      "year": 2020
+    },
+    {
+      "title": "On the Self-Repair Role of Astrocytes in STDP Enabled Unsupervised SNNs",
+      "arxiv_id": "2009.03473",
+      "doi": "10.3389/fnins.2020.603796",
+      "publicationDate": "2020-09-08",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Scheduling for Stochastic Edge-Cloud Computing Environments Using A3C Learning and Residual Recurrent Neural Networks",
+      "arxiv_id": "2009.02186",
+      "doi": "10.1109/TMC.2020.3017079",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Deep Learning for Data Caching in Edge Network",
+      "arxiv_id": "2008.07235",
+      "doi": "10.3390/informatics7040043",
+      "publicationDate": "2020-08-17",
+      "year": 2020
+    },
+    {
+      "title": "More Than Privacy: Applying Differential Privacy in Key Areas of Artificial Intelligence",
+      "arxiv_id": "2008.01916",
+      "doi": "10.1109/TKDE.2020.3014246",
+      "publicationDate": "2020-08-05",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Security and Privacy Issues in Edge-Computing-Assisted Internet of Things",
+      "arxiv_id": "2008.03252",
+      "doi": "10.1109/JIOT.2020.3015432",
+      "publicationDate": "2020-08-05",
+      "year": 2020
+    },
+    {
+      "title": "CLAN: Continuous Learning using Asynchronous Neuroevolution on Commodity Edge Devices",
+      "arxiv_id": "2008.11881",
+      "doi": "10.1109/ISPASS48437.2020.00019",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "MPC-enabled Privacy-Preserving Neural Network Training against Malicious Attack",
+      "arxiv_id": "2007.12557",
+      "doi": null,
+      "publicationDate": "2020-07-24",
+      "year": 2020
+    },
+    {
+      "title": "Energy-Efficient Resource Management for Federated Edge Learning With CPU-GPU Heterogeneous Computing",
+      "arxiv_id": "2007.07122",
+      "doi": "10.1109/TWC.2021.3088910",
+      "publicationDate": "2020-07-14",
+      "year": 2020
+    },
+    {
+      "title": "A Review on Computational Intelligence Techniques in Cloud and Edge Computing",
+      "arxiv_id": "2007.14215",
+      "doi": "10.1109/TETCI.2020.3007905",
+      "publicationDate": "2020-07-03",
+      "year": 2020
+    },
+    {
+      "title": "EdgeKV: Decentralized, scalable, and consistent storage for the edge",
+      "arxiv_id": "2006.15594",
+      "doi": "10.1016/j.jpdc.2020.05.009",
+      "publicationDate": "2020-06-28",
+      "year": 2020
+    },
+    {
+      "title": "Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation",
+      "arxiv_id": "2006.14284",
+      "doi": null,
+      "publicationDate": "2020-06-25",
+      "year": 2020
+    },
+    {
+      "title": "Blockchain for Mobile Edge Computing: Consensus Mechanisms and Scalability",
+      "arxiv_id": "2006.07578",
+      "doi": "10.1007/978-3-030-69893-5_14",
+      "publicationDate": "2020-06-13",
+      "year": 2020
+    },
+    {
+      "title": "Electrical Load Forecasting Using Edge Computing and Federated Learning",
+      "arxiv_id": "2201.11248",
+      "doi": "10.1109/ICC40277.2020.9148937",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "CDC: Classification Driven Compression for Bandwidth Efficient Edge-Cloud Collaborative Deep Learning",
+      "arxiv_id": "2005.02177",
+      "doi": "10.24963/ijcai.2020/467",
+      "publicationDate": "2020-05-04",
+      "year": 2020
+    },
+    {
+      "title": "Deep-Edge: An Efficient Framework for Deep Learning Model Update on Heterogeneous Edge",
+      "arxiv_id": "2004.05740",
+      "doi": "10.1109/ICFEC50348.2020.00016",
+      "publicationDate": "2020-04-13",
+      "year": 2020
+    },
+    {
+      "title": "Concentrated Differentially Private and Utility Preserving Federated Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-03-30",
+      "year": 2020
+    },
+    {
+      "title": "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things",
+      "arxiv_id": "2003.13376",
+      "doi": "10.1109/SRDS51746.2020.00017",
+      "publicationDate": "2020-03-30",
+      "year": 2020
+    },
+    {
+      "title": "Joint Parameter-and-Bandwidth Allocation for Improving the Efficiency of Partitioned Edge Learning",
+      "arxiv_id": "2003.04544",
+      "doi": "10.1109/TWC.2020.3021177",
+      "publicationDate": "2020-03-10",
+      "year": 2020
+    },
+    {
+      "title": "Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge Based Framework",
+      "arxiv_id": "2002.10671",
+      "doi": "10.1109/OJCS.2020.2993259",
+      "publicationDate": "2020-02-25",
+      "year": 2020
+    },
+    {
+      "title": "Communication-Efficient Edge AI: Algorithms and Systems",
+      "arxiv_id": "2002.09668",
+      "doi": "10.1109/COMST.2020.3007787",
+      "publicationDate": "2020-02-22",
+      "year": 2020
+    },
+    {
+      "title": "Engineering and Experimentally Benchmarking a Container-based Edge Computing System",
+      "arxiv_id": "2002.03805",
+      "doi": "10.1109/ICC40277.2020.9148636",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "IoT Content Object Security with OSCORE and NDN: A First Experimental Comparison",
+      "arxiv_id": "2001.08023",
+      "doi": null,
+      "publicationDate": "2020-01-22",
+      "year": 2020
+    },
+    {
+      "title": "Secure V2V and V2I Communication in Intelligent Transportation Using Cloudlets",
+      "arxiv_id": "2001.04041",
+      "doi": "10.1109/tsc.2020.3025993",
+      "publicationDate": "2020-01-13",
+      "year": 2020
+    },
+    {
+      "title": "Asynchronous Federated Learning with Differential Privacy for Edge Intelligence",
+      "arxiv_id": "1912.07902",
+      "doi": null,
+      "publicationDate": "2019-12-17",
+      "year": 2019
+    },
+    {
+      "title": "Edge Computing: A Comprehensive Survey of Current Initiatives and a Roadmap for a Sustainable Edge Computing Development",
+      "arxiv_id": "1912.08530",
+      "doi": "10.30844/wi_2020_g1-hamm",
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Using Cloud and Fog Computing for Large Scale IoT-based Urban Sound Classification",
+      "arxiv_id": "1910.07652",
+      "doi": "10.1016/j.simpat.2019.102013",
+      "publicationDate": "2019-10-16",
+      "year": 2019
+    },
+    {
+      "title": "ABEONA: An Architecture for Energy-Aware Task Migrations from the Edge to the Cloud",
+      "arxiv_id": "1910.03445",
+      "doi": "10.1109/SRDS47363.2019.00056",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Collaborative Computation Offloading in Wireless Powered Mobile-Edge Computing Systems",
+      "arxiv_id": "1908.09334",
+      "doi": "10.1109/GCWkshps45667.2019.9024424",
+      "publicationDate": "2019-08-25",
+      "year": 2019
+    },
+    {
+      "title": "Convergence of Edge Computing and Deep Learning: A Comprehensive Survey",
+      "arxiv_id": "1907.08349",
+      "doi": "10.1109/COMST.2020.2970550",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "A Pub/Sub SDN-Integrated Framework for IoT Traffic Orchestration",
+      "arxiv_id": "1907.12505",
+      "doi": "10.1145/3341325.3342001",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "A Survey on Edge Computing Systems and Tools",
+      "arxiv_id": "1911.02794",
+      "doi": "10.1109/JPROC.2019.2920341",
+      "publicationDate": "2019-06-26",
+      "year": 2019
+    },
+    {
+      "title": "Automated Machine Learning: State-of-The-Art and Open Challenges",
+      "arxiv_id": "1906.02287",
+      "doi": null,
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Using Metrics Suites to Improve the Measurement of Privacy in Graphs",
+      "arxiv_id": "1905.13264",
+      "doi": "10.1109/TDSC.2020.2980271",
+      "publicationDate": "2019-05-30",
+      "year": 2019
+    },
+    {
+      "title": "Efficient Neural Architecture Search via Proximal Iterations",
+      "arxiv_id": "1905.13577",
+      "doi": "10.1609/AAAI.V34I04.6143",
+      "publicationDate": "2019-05-30",
+      "year": 2019
+    },
+    {
+      "title": "Enhancing Block-Wise Transfer with Network Coding in CoAP",
+      "arxiv_id": "1905.11089",
+      "doi": "10.1007/978-3-030-48340-1_59",
+      "publicationDate": "2019-05-27",
+      "year": 2019
+    },
+    {
+      "title": "Helen: Maliciously Secure Coopetitive Learning for Linear Models",
+      "arxiv_id": "1907.07212",
+      "doi": "10.1109/SP.2019.00045",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "A Blockchain-based Decentralized Self-balancing Architecture for the Web of Things",
+      "arxiv_id": "1904.09595",
+      "doi": "10.1007/978-3-030-30278-8_34",
+      "publicationDate": "2019-04-21",
+      "year": 2019
+    },
+    {
+      "title": "Edge Federation: Towards an Integrated Service Provisioning Model",
+      "arxiv_id": "1902.09055",
+      "doi": "10.1109/TNET.2020.2979361",
+      "publicationDate": "2019-02-25",
+      "year": 2019
+    },
+    {
+      "title": "Joint Service Placement and Request Routing in Multi-cell Mobile Edge Computing Networks",
+      "arxiv_id": "1901.08946",
+      "doi": "10.1109/INFOCOM.2019.8737385",
+      "publicationDate": "2019-01-25",
+      "year": 2019
+    },
+    {
+      "title": "A Time-Driven Data Placement Strategy for a Scientific Workflow Combining Edge Computing and Cloud Computing",
+      "arxiv_id": "1901.07216",
+      "doi": "10.1109/TII.2019.2905659",
+      "publicationDate": "2019-01-22",
+      "year": 2019
+    },
+    {
+      "title": "Continuous evaluation of the performance of cloud infrastructure for scientific applications",
+      "arxiv_id": "1812.05257",
+      "doi": null,
+      "publicationDate": "2018-12-13",
+      "year": 2018
+    },
+    {
+      "title": "Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking",
+      "arxiv_id": "1908.01924",
+      "doi": "10.1007/978-3-030-32813-9_3",
+      "publicationDate": "2018-12-10",
+      "year": 2018
+    },
+    {
+      "title": "A Frequency Scaling based Performance Indicator Framework for Big Data Systems",
+      "arxiv_id": "1811.10835",
+      "doi": "10.1007/978-3-030-18576-3_2",
+      "publicationDate": "2018-11-27",
+      "year": 2018
+    },
+    {
+      "title": "Emerging Edge Computing Technologies for Distributed IoT Systems",
+      "arxiv_id": "1811.11268",
+      "doi": "10.1109/MNET.2019.1800543",
+      "publicationDate": "2018-10-26",
+      "year": 2018
+    },
+    {
+      "title": "A Scalable Model for Secure Multiparty Authentication",
+      "arxiv_id": "1901.03056",
+      "doi": "10.1109/SmartWorld.2018.00039",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "SPX: Preserving End-to-End Security for Edge Computing",
+      "arxiv_id": "1809.09038",
+      "doi": null,
+      "publicationDate": "2018-09-24",
+      "year": 2018
+    },
+    {
+      "title": "A Fog Robotic System for Dynamic Visual Servoing",
+      "arxiv_id": "1809.06716",
+      "doi": "10.1109/ICRA.2019.8793600",
+      "publicationDate": "2018-09-16",
+      "year": 2018
+    },
+    {
+      "title": "Confidential Inference via Ternary Model Partitioning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-07-03",
+      "year": 2018
+    },
+    {
+      "title": "Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain",
+      "arxiv_id": "1805.08932",
+      "doi": "10.3389/fnins.2018.00891",
+      "publicationDate": "2018-05-23",
+      "year": 2018
+    },
+    {
+      "title": "A management framework for secure multiparty computation in dynamic environments",
+      "arxiv_id": "1804.03918",
+      "doi": "10.1109/NOMS.2018.8406322",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "Towards Mission-Critical Control at the Edge and Over 5G",
+      "arxiv_id": "1803.02123",
+      "doi": "10.1109/EDGE.2018.00014",
+      "publicationDate": "2018-03-06",
+      "year": 2018
+    },
+    {
+      "title": "Mobile Edge Computing: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2017.2750180",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "A Taxonomy for Management and Optimization of Multiple Resources in Edge Computing",
+      "arxiv_id": "1801.05610",
+      "doi": "10.1155/2018/7476201",
+      "publicationDate": "2018-01-17",
+      "year": 2018
+    },
+    {
+      "title": "P-MOD: Secure Privilege-Based Multilevel Organizational Data-Sharing in Cloud Computing",
+      "arxiv_id": "1801.02685",
+      "doi": "10.1109/TBDATA.2019.2907133",
+      "publicationDate": "2018-01-08",
+      "year": 2018
+    },
+    {
+      "title": "End-Edge-Cloud Collaborative Computing for Deep Learning: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2024.3393230",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Efficient Microservice Deployment in the Edge-Cloud Networks With Policy-Gradient Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3461149",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Integration of Federated Learning and Edge-Cloud Platform for Precision Aquaculture",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3454057",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2404.10498",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "EdgeOptimizer: A programmable containerized scheduler of time-critical tasks in Kubernetes-based edge-cloud clusters",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.03.007",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AI-Enhanced Cloud-Edge-Terminal Collaborative Network: Survey, Applications, and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3338153",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "FedCAE: A New Federated Learning Framework for Edge-Cloud Collaboration Based Machine Fault Diagnosis",
+      "arxiv_id": null,
+      "doi": "10.1109/TIE.2023.3273272",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Cloud-Edge Collaborative Continual Adaptation for ITS Object Detection",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-97-2966-1_2",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Domain-Specific Fine-Grained Access Control for Cloud-Edge Collaborative IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/TIFS.2024.3419716",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Cloud-Edge-End Collaborative Multi-Service Resource Management for IoT-Based Distribution Grid",
+      "arxiv_id": null,
+      "doi": "10.1587/transfun.2024eap1011",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Efficient Cloud-edge Collaborative Inference for Object Re-identification",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2401.02041",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Energy-Efficient Resource Allocation for Heterogeneous Edge-Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2023.3293164",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Offloading Using Traditional Optimization and Machine Learning in Federated Cloud–Edge–Fog Systems: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2023.3239579",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "“Toward 6G TK µ extreme connectivity: Architecture, key technologies and experiments,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Remote patient monitoring using artificial intelligence",
+      "arxiv_id": null,
+      "doi": "10.1016/b978-0-12-818438-7.00009-5",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Edge Cloud",
+      "arxiv_id": null,
+      "doi": "10.4018/978-1-5225-9023-1.CH008",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "“Towards the decentralised cloud: Survey on approaches and challenges for mobile, ad hoc, and edge computing,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "“AI tax: The hidden cost of AI data center applications,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Energy-Efﬁcient Resource Allocation for Heterogeneous Edge–Cloud Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "XipingHuiswiththeAcademy of Artiﬁcial Intelligence, SMBU, Shenzhen, Guangdong 518115, China",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "applicable license agreement with IEEE. Restrictions apply",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "COMMUNICATIONS SURVEYS & TUTORIALS IEEE COMMUNICATIONS SURVEYS & TUTORIALS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“A mul-tivocal literature review on the benefits and limitations of automated machine learning tools,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ECCC ON DISTRIBUTE INTELLIGENCE AND MODEL OPTIMIZATION: A SURVEY",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Yan Wang is with the School of Data Science and Engineering, East China Normal University, Shanghai 200062, China",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

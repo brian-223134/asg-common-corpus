@@ -1,0 +1,8 @@
+topic: Anomaly Detection using Knowledge Graphs
+domain: network
+gt:
+  arxiv_id: null
+  doi: "10.1145/3830090"
+  title: "Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application"
+  published: "2026-08-24"
+notes: "5차: network 도메인 신설(D6). ACM CSUR 2026"

@@ -1,0 +1,953 @@
+{
+  "candidate": {
+    "topic": "Task Offloading for CAVs Edge Computing Environment",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3783984",
+      "title": "Task Offloading for CAVs Edge Computing Environment: Taxonomy, Critical Review, and Future Road Map",
+      "published": "2026-02-04"
+    },
+    "notes": "6차: network 보충 — CS-측 하위영역(edge/IoT). 무선-PHY 계열은 OpenAlex field 분류로 universe 밖 실측(D1 17.4%)"
+  },
+  "extracted_at": "2026-09-01T03:53:27+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 131,
+    "arxiv_resolvable": 1,
+    "doi_only": 86,
+    "unresolved": 44
+  },
+  "gt_s2": {
+    "paperId": "bd6477e8c923534d33352adfdebeb6fef1c184b0",
+    "externalIds": {
+      "DBLP": "journals/csur/KumarBS26",
+      "DOI": "10.1145/3783984",
+      "CorpusId": 283884650
+    },
+    "title": "Task Offloading for CAVs Edge Computing Environment: Taxonomy, Critical Review, and Future Road Map",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 132,
+    "publicationDate": "2025-12-15"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3030072",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/smartcities5010022",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jksuci.2022.05.016",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Road to efficiency: Mobility-driven joint task offloading and resource utilization protocol for connected vehicle networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.01.030",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A survey on collaborative learning for intelligent autonomous systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3625544",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Rapid Development of an Autonomous Vehicle for the SAE AutoDrive Challenge II Competition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2025.100880",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Deep Learning and Its Applications for Vehicle Networks",
+      "arxiv_id": null,
+      "doi": "10.1201/9781003190691-9",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Adversarial attacks and countermeasures on image classification-based deep learning models in autonomous driving systems: A systematic review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2014.05.004",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2020.3023263",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2018.2821664",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Reinforcement learning for optimizing delay-sensitive task offloading in vehicular edge-cloud computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Machine learning-based test selection for simulation-based testing of self-driving cars software",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-023-10286-y",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3217213",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Computation offloading and retrieval for vehicular edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tgcn.2022.3159034",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Latency-energy tradeoff in connected autonomous vehicles: A deep reinforcement learning scheme",
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2022.3215523",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3241737",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.artint.2023.103923",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tiv.2023.3332675",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adaptive Safety and Cyber Security for Connected and Automated Vehicle System",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2018.2815360",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3050804",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Research on task-offloading decision mechanism in mobile edge computing-based internet of vehicle",
+      "arxiv_id": null,
+      "doi": "10.1186/s13638-021-01984-6",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3001218",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Task offloading based on lyapunov optimization for mec-assisted vehicular platooning networks",
+      "arxiv_id": null,
+      "doi": "10.3390/s19224974",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Intelligent delay-aware partial computing task offloading for multi-user industrial Internet of Things through edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2024.108350",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deep reinforcement learning-based task offloading and resource allocation for industrial IoT in MEC federation system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "An algorithm to minimize energy consumption and elapsed time for iot workloads in a hybrid architecture",
+      "arxiv_id": null,
+      "doi": "10.3390/s21092914",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2024.103001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108228",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11276-021-02554-w",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccv48922.2021.00957",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Self-driving Cars: The New Way Forward",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Towards interactive and learnable cooperative driving automation: A large language model-driven decision-making framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Cooperative control model using reinforcement learning for connected and automated vehicles and traffic signal light at signalized intersections",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.002.2200266",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ppo2: Location privacy-oriented task offloading to edge computing using reinforcement learning for intelligent autonomous transport systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Com-DDPG: Task offloading based on multiagent reinforcement learning for information-communication-enhanced mobile edge computing in the internet of vehicles",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3098208.3098210",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Service-Oriented Computing: 18th International Conference, ICSOC 2020, Dubai, United Arab Emirates, December 14–17, 2020, Proceedings 18",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-65310-1_8",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Advances in autonomous vehicle testing: The state of the art and future outlook on driving datasets, simulators, and proving grounds",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2022.100551",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3321408.3321586",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3555802",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2020 IEEE International Conference on Edge Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3174548",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A review on reinforcement learning-based highway autonomous vehicle control",
+      "arxiv_id": null,
+      "doi": "10.1016/j.geits.2024.100156",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2021.3098022",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3659099",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Evaluation of toyota’s strategy for connected cars–based on the theory of dynamic managerial capabilities–",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Level-5 autonomous driving–are we there yet? a review of research literature",
+      "arxiv_id": null,
+      "doi": "10.1145/3485767",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the 2024 IEEE 3rd International Conference on Power Electronics, Intelligent Control and Energy Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.techfore.2022.122080",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.phycom.2021.101446",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A federated learning-based edge caching approach for mobile edge computing-enabled intelligent connected vehicles",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2020.3003036",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.126493",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/msp.2020.2975749",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2022.3158253",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Computation offloading strategy based on deep reinforcement learning for connected and autonomous vehicle in vehicular edge computing",
+      "arxiv_id": null,
+      "doi": "10.1186/s13677-021-00246-6",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2020.102781",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Self-driving cars vs. the world.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A collaborative computation and dependency-aware task offloading method for vehicular edge computing: A reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1186/s13677-022-00340-3",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2896000",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 IEEE/ACM Symposium on Edge Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Automated vehicle platooning: A two-stage approach based on vehicle-road cooperation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2897617",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deep reinforcement learning based computation offloading and trajectory planning for multi-UAV cooperative target search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Edge computing task offloading for environmental perception of autonomous vehicles in 6g networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3431231",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Intelligent resource allocation and task offloading model for IoT applications in fog networks: A game-theoretic approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11390-019-1947-3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Vehicular edge computing: Architecture, resource management, security, and challenges",
+      "arxiv_id": null,
+      "doi": "10.1145/3485129",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/machines11020168",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2403.05961",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.rineng.2023.100969",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s22249595",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey on computation resource allocation in IoT enabled vehicular edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cloudnet51028.2020.9335809",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3167641",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "National Highway Traffic Safety Administration (NHTSA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3594541",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1186/s40537-023-00701-y",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards optimal edge resource utilization: Predictive analytics and reinforcement learning for task offloading",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2024.101147",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Federated learning empowered computation offloading and resource management in 6G-V2X",
+      "arxiv_id": null,
+      "doi": "10.1109/tnse.2021.3103124",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2020.3029864",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2023.3256522",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey on vehicular edge computing: Architecture, applications, technical issues, and future directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Proceedings of the 2024 International Wireless Communications and Mobile Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108177",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2020 International Conference on Artificial Intelligence and Signal Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the IOP Conference Series: Materials Science and Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2022.11.012",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.03.038",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2019.100182",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2021.3135332",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.trpro.2020.08.101",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.tra.2020.03.024",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Differentiable optimization for orchestration: Resource offloading for vehicles in smart cities",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3363426",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RVEAPE: An approach to computation offloading for connected autonomous vehicles",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Deep deterministic policy gradient algorithm: A systematic review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2020.2965620",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2021.102639",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adaptive prioritization and task offloading in vehicular edge computing through deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2017.09.020",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2018 IEEE Globecom Workshops",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpds.2020.3014896",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deep reinforcement learning-based computation offloading and power allocation within dynamic platoon network",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2023 14th International Conference on Ubiquitous and Future Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2020.2981045",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.techfore.2021.120852",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DRL-based pricing-driven for task offloading and dynamic resource in vehicle edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2022.3227027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Intelligent task offloading for heterogeneous V2X communications",
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2020.3015210",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 2022 9th International Conference on Dependable Systems and Their Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Adaptive testing environment generation for connected and automated vehicles with dense reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Proceedings of the 2024 7th World Conference on Computing and Communication Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3558052",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Traffic efficiency applications over downtown roads: A new challenge for intelligent connected vehicles",
+      "arxiv_id": null,
+      "doi": "10.1145/3403952",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Reinforcement learning methods for computation offloading: A systematic review",
+      "arxiv_id": null,
+      "doi": "10.1145/3603703",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Task offloading delay minimization in vehicular edge computing based on vehicle trajectory prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Federated-reinforcement-learning-enabled joint communication, sensing, and computing resources allocation in connected automated vehicles networks",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3188434",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "A survey of computation offloading with task types",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Latency estimation and computational task offloading in vehicular mobile edge computing applications",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2023.3334192",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Crowdsourcing live high definition map via collaborative computation in automotive edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "China’s self-driving car legislation study",
+      "arxiv_id": null,
+      "doi": "10.1016/j.clsr.2021.105555",
+      "publicationDate": null,
+      "year": 2021
+    }
+  ]
+}

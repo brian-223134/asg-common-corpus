@@ -1,0 +1,1813 @@
+{
+  "candidate": {
+    "topic": "Anomaly Detection using Knowledge Graphs",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3830090",
+      "title": "Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application",
+      "published": "2026-08-24"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:51:17+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 254,
+    "arxiv_resolvable": 25,
+    "doi_only": 107,
+    "unresolved": 122
+  },
+  "gt_s2": {
+    "paperId": "a97cad67b67c4307f367aff546d2267265317b57",
+    "externalIds": {
+      "DOI": "10.1145/3830090",
+      "CorpusId": 289884964
+    },
+    "title": "Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 254,
+    "publicationDate": "2026-07-03"
+  },
+  "refs": [
+    {
+      "title": "Structuring Security: A Survey of Cybersecurity Ontologies, Semantic Log Processing, and LLMs Application",
+      "arxiv_id": "2510.16610",
+      "doi": "10.48550/arXiv.2510.16610",
+      "publicationDate": "2025-10-18",
+      "year": 2025
+    },
+    {
+      "title": "Unified representation and scoring framework for anomaly detection in attributed networks with emphasis on structural consistency and attribute integrity",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-19650-y",
+      "publicationDate": "2025-10-14",
+      "year": 2025
+    },
+    {
+      "title": "Temporal knowledge graph forecasting query based on global-local historical information",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.114476",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "From Genesis to Maturity: Managing Knowledge Graph Ecosystems Through Life Cycles",
+      "arxiv_id": null,
+      "doi": "10.14778/3718057.3718067",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Machine Learning in Information and Communications Technology: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/info16010008",
+      "publicationDate": "2024-12-27",
+      "year": 2024
+    },
+    {
+      "title": "A Comparative Analysis of Anomaly Detection Methods in IoT Networks: An Experimental Study",
+      "arxiv_id": null,
+      "doi": "10.3390/app142411545",
+      "publicationDate": "2024-12-11",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge-based anomaly detection: Survey, challenges, and future directions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2024.108996",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge Graphs and Semantic Web Tools in Cyber Threat Intelligence: A Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": "10.3390/jcp4030025",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "NORIA UI: Efficient Incident Management on Large-Scale ICT Systems Represented as Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3664476.3670438",
+      "publicationDate": "2024-07-30",
+      "year": 2024
+    },
+    {
+      "title": "Anomaly Detection in Dynamic Graphs: A Comprehensive Survey",
+      "arxiv_id": "2406.00134",
+      "doi": "10.1145/3669906",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3589335.3651447",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "The DYNABIC approach to resilience of critical infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1145/3600160.3605055",
+      "publicationDate": "2023-08-29",
+      "year": 2023
+    },
+    {
+      "title": "Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3600160.3604991",
+      "publicationDate": "2023-08-29",
+      "year": 2023
+    },
+    {
+      "title": "The Semantic Web: A New Form of Web Content that is Meaningful to Computers will Unleash a Revolution of New Possibilities",
+      "arxiv_id": null,
+      "doi": "10.1145/3591366.3591376",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement",
+      "arxiv_id": "2306.10857",
+      "doi": "10.1007/978-3-031-43427-3_5",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Inferring Threatening IoT Dependencies using Semantic Digital Twins Toward Collaborative IoT Device Management",
+      "arxiv_id": null,
+      "doi": "10.1145/3555776.3578573",
+      "publicationDate": "2023-03-27",
+      "year": 2023
+    },
+    {
+      "title": "Ontology-based approach to real-time risk management and cyber-situational awareness",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2022.12.006",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Tele-Knowledge Pre-training for Fault Analysis",
+      "arxiv_id": "2210.11298",
+      "doi": "10.1109/ICDE55515.2023.00265",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "IoT Anomaly Detection Methods and Applications: A Survey",
+      "arxiv_id": "2207.09092",
+      "doi": "10.1016/j.iot.2022.100568",
+      "publicationDate": "2022-07-19",
+      "year": 2022
+    },
+    {
+      "title": "LOT: An industrial oriented ontology engineering framework",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2022.104755",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Graph Neural Network based Root Cause Analysis Using Multivariate Time-series KPIs for Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/NOMS54207.2022.9789858",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "Walk this Way! Entity Walks and Property Walks for RDF2vec",
+      "arxiv_id": "2204.02777",
+      "doi": "10.48550/arXiv.2204.02777",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "A Simple Standard for Sharing Ontological Mappings (SSSOM)",
+      "arxiv_id": "2112.07051",
+      "doi": "10.1093/database/baac035",
+      "publicationDate": "2021-12-13",
+      "year": 2021
+    },
+    {
+      "title": "Security Information and Event Management (SIEM): Analysis, Trends, and Usage in Critical Infrastructures",
+      "arxiv_id": null,
+      "doi": "10.3390/s21144759",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges",
+      "arxiv_id": "2104.13478",
+      "doi": null,
+      "publicationDate": "2021-04-27",
+      "year": 2021
+    },
+    {
+      "title": "A System for Automated Open-Source Threat Intelligence Gathering and Management",
+      "arxiv_id": "2101.07769",
+      "doi": "10.1145/3448016.3452745",
+      "publicationDate": "2021-01-19",
+      "year": 2021
+    },
+    {
+      "title": "AugSplicing: Synchronized Behavior Detection in Streaming Tensors",
+      "arxiv_id": "2012.02006",
+      "doi": "10.1609/aaai.v35i5.16595",
+      "publicationDate": "2020-12-03",
+      "year": 2020
+    },
+    {
+      "title": "BOT: The building topology ontology of the W3C linked building data group",
+      "arxiv_id": null,
+      "doi": "10.3233/SW-200385",
+      "publicationDate": "2020-11-19",
+      "year": 2020
+    },
+    {
+      "title": "Process Mining Meets Causal Machine Learning: Discovering Causal Rules from Event Logs",
+      "arxiv_id": "2009.01561",
+      "doi": "10.1109/ICPM49681.2020.00028",
+      "publicationDate": "2020-09-03",
+      "year": 2020
+    },
+    {
+      "title": "ADSAGE: Anomaly Detection in Sequences of Attributed Graph Edges applied to insider threat detection at fine-grained level",
+      "arxiv_id": "2007.06985",
+      "doi": null,
+      "publicationDate": "2020-07-14",
+      "year": 2020
+    },
+    {
+      "title": "Anomaly Detection for Data Streams Based on Isolation Forest Using Scikit-Multiflow",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-58811-3_2",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Vers une ontologie des interactions HTTP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Fault management of programmable multi-tenant networks. (Gestion des fautes dans les réseaux multi-tenants et programmables)",
+      "arxiv_id": null,
+      "doi": "10.70675/6e5ef286z27faz477ezb063zcb06f12dcf8a",
+      "publicationDate": "2020-06-26",
+      "year": 2020
+    },
+    {
+      "title": "Logical Neural Networks",
+      "arxiv_id": "2006.13155",
+      "doi": null,
+      "publicationDate": "2020-06-23",
+      "year": 2020
+    },
+    {
+      "title": "MALOnt: An Ontology for Malware Threat Intelligence",
+      "arxiv_id": "2006.11446",
+      "doi": "10.13140/RG.2.2.16426.64962",
+      "publicationDate": "2020-06-20",
+      "year": 2020
+    },
+    {
+      "title": "A data engineer's guide to semantic modelling",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.3898519",
+      "publicationDate": "2020-06-17",
+      "year": 2020
+    },
+    {
+      "title": "A Simple Method for Inducing Class Taxonomies in Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-49461-2_4",
+      "publicationDate": "2020-05-07",
+      "year": 2020
+    },
+    {
+      "title": "Anomaly Detection in Smart Homes Using Bayesian Networks",
+      "arxiv_id": null,
+      "doi": "10.3837/tiis.2020.04.021",
+      "publicationDate": "2020-04-30",
+      "year": 2020
+    },
+    {
+      "title": "Knowledge Graphs",
+      "arxiv_id": "2003.02320",
+      "doi": "10.1145/3447772",
+      "publicationDate": "2020-03-04",
+      "year": 2020
+    },
+    {
+      "title": "Corporation",
+      "arxiv_id": null,
+      "doi": "10.2307/j.ctt1hfr0s3.28",
+      "publicationDate": "2020-02-07",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive Low-level Storage of Very Large Knowledge Graphs",
+      "arxiv_id": "2001.09078",
+      "doi": "10.1145/3366423.3380246",
+      "publicationDate": "2020-01-24",
+      "year": 2020
+    },
+    {
+      "title": "Security and Privacy Controls for Information Systems and Organizations",
+      "arxiv_id": null,
+      "doi": "10.6028/NIST.SP.800-53R5",
+      "publicationDate": "2020-01-22",
+      "year": 2020
+    },
+    {
+      "title": "MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams",
+      "arxiv_id": "1911.04464",
+      "doi": "10.1609/AAAI.V34I04.5724",
+      "publicationDate": "2019-11-11",
+      "year": 2019
+    },
+    {
+      "title": "BBO: BPMN 2.0 Based Ontology for Business Process Representation",
+      "arxiv_id": null,
+      "doi": "10.34190/km.19.113",
+      "publicationDate": "2019-09-05",
+      "year": 2019
+    },
+    {
+      "title": "SAKURA a Model Based Root Cause Analysis Framework for vIMS (poster)",
+      "arxiv_id": null,
+      "doi": "10.1145/3307334.3328642",
+      "publicationDate": "2019-06-12",
+      "year": 2019
+    },
+    {
+      "title": "ToCo: An Ontology for Representing Hybrid Telecommunication Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-21348-0_33",
+      "publicationDate": "2019-06-02",
+      "year": 2019
+    },
+    {
+      "title": "Towards a Forensic Event Ontology to Assist Video Surveillance-based Vandalism Detection",
+      "arxiv_id": "1903.09012",
+      "doi": null,
+      "publicationDate": "2019-03-21",
+      "year": 2019
+    },
+    {
+      "title": "Artificial Intelligence for Interstellar Travel",
+      "arxiv_id": "1811.06526",
+      "doi": null,
+      "publicationDate": "2018-11-15",
+      "year": 2018
+    },
+    {
+      "title": "Streaming MASSIF: Cascading Reasoning for Efficient Processing of IoT Data Streams",
+      "arxiv_id": null,
+      "doi": "10.3390/s18113832",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "HeLiS: An Ontology for Supporting Healthy Lifestyles",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-00668-6_4",
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Comunica: A Modular SPARQL Query Engine for the Web",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-00668-6_15",
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Early Detection of Cybersecurity Threats Using Collaborative Cognition",
+      "arxiv_id": null,
+      "doi": "10.1109/CIC.2018.00054",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Ontology-driven multilevel sequential pattern mining: mining for gold in event logs of photovoltaic plants",
+      "arxiv_id": null,
+      "doi": "10.1109/IS.2018.8710453",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Sequential Pattern Mining using FCA and Pattern Structures for Analyzing Visitor Trajectories in a Museum",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Task-Oriented Complex Ontology Alignment: Two Alignment Evaluation Sets",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-93417-4_42",
+      "publicationDate": "2018-06-03",
+      "year": 2018
+    },
+    {
+      "title": "SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators",
+      "arxiv_id": "1805.09979",
+      "doi": "10.1016/j.websem.2018.06.003",
+      "publicationDate": "2018-05-25",
+      "year": 2018
+    },
+    {
+      "title": "EventKG: A Multilingual Event-Centric Temporal Knowledge Graph",
+      "arxiv_id": "1804.04526",
+      "doi": "10.1007/978-3-319-93417-4_18",
+      "publicationDate": "2018-04-12",
+      "year": 2018
+    },
+    {
+      "title": "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation",
+      "arxiv_id": "1711.03902",
+      "doi": "10.3233/FAIA210348",
+      "publicationDate": "2017-11-10",
+      "year": 2017
+    },
+    {
+      "title": "Semantic Sensor Network Ontology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-10-19",
+      "year": 2017
+    },
+    {
+      "title": "Time Ontology in OWL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-10-19",
+      "year": 2017
+    },
+    {
+      "title": "A survey on provenance: What for? What form? What from?",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-017-0486-1",
+      "publicationDate": "2017-10-16",
+      "year": 2017
+    },
+    {
+      "title": "Planned ETSI SAREF Extensions based on the W3C&OGC SOSA/SSN-compatible SEAS Ontology Pattern",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-09-11",
+      "year": 2017
+    },
+    {
+      "title": "Advancing Coordinated Cyber-investigations and Tool Interoperability using a Community Developed Specification Language",
+      "arxiv_id": null,
+      "doi": "10.1016/J.DIIN.2017.08.002",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Linked data processing provenance: towards transparent and reusable linked data integration",
+      "arxiv_id": null,
+      "doi": "10.1145/3106426.3106495",
+      "publicationDate": "2017-08-23",
+      "year": 2017
+    },
+    {
+      "title": "Strider: An Adaptive, Inference-enabled Distributed RDF Stream Processing Engine",
+      "arxiv_id": null,
+      "doi": "10.14778/3137765.3137805",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Measuring network reliability and repairability against cascading failures",
+      "arxiv_id": null,
+      "doi": "10.1007/s10844-017-0477-0",
+      "publicationDate": "2017-07-13",
+      "year": 2017
+    },
+    {
+      "title": "Historical Graphs: Models, Storage, Processing",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-96655-7_4",
+      "publicationDate": "2017-07-02",
+      "year": 2017
+    },
+    {
+      "title": "Model-Based Probabilistic Reasoning for Self-Diagnosis of Telecommunication Networks: Application to a GPON-FTTH Access Network",
+      "arxiv_id": null,
+      "doi": "10.1007/s10922-016-9401-0",
+      "publicationDate": "2017-07-01",
+      "year": 2017
+    },
+    {
+      "title": "Modeling Relational Data with Graph Convolutional Networks",
+      "arxiv_id": "1703.06103",
+      "doi": "10.1007/978-3-319-93417-4_38",
+      "publicationDate": "2017-03-17",
+      "year": 2017
+    },
+    {
+      "title": "TerminAPTor: Highlighting Advanced Persistent Threats through Information Flow Tracking",
+      "arxiv_id": null,
+      "doi": "10.1109/NTMS.2016.7792480",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "A semantic-web-technology-based framework for supporting knowledge-driven digital forensics",
+      "arxiv_id": null,
+      "doi": "10.1145/3012071.3012099",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "A New Risk Assessment Framework Using Graph Theory for Complex ICT Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2995959.2995969",
+      "publicationDate": "2016-10-28",
+      "year": 2016
+    },
+    {
+      "title": "Ontology-Based High-Level Context Inference for Human Behavior Identification",
+      "arxiv_id": null,
+      "doi": "10.3390/s16101617",
+      "publicationDate": "2016-09-29",
+      "year": 2016
+    },
+    {
+      "title": "IoT-Lite: a lightweight semantic model for the internet of things and its use with dynamic semantics",
+      "arxiv_id": null,
+      "doi": "10.1007/s00779-017-1010-8",
+      "publicationDate": "2016-07-18",
+      "year": 2016
+    },
+    {
+      "title": "LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection",
+      "arxiv_id": "1607.00148",
+      "doi": null,
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "The YANG 1.1 Data Modeling Language",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC7950",
+      "publicationDate": "2016-06-17",
+      "year": 2016
+    },
+    {
+      "title": "What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets",
+      "arxiv_id": null,
+      "doi": "10.1177/2053951716631130",
+      "publicationDate": "2016-02-12",
+      "year": 2016
+    },
+    {
+      "title": "Towards a Semantic Administrative Shell for Industry 4.0 Components",
+      "arxiv_id": "1601.01556",
+      "doi": "10.1109/ICSC.2016.58",
+      "publicationDate": "2016-01-07",
+      "year": 2016
+    },
+    {
+      "title": "Construction, enrichment and semantic analysis of timelines : application to digital forensics",
+      "arxiv_id": null,
+      "doi": "10.70675/a2c7bd3dz593ez4f3bz82b7z1d19819122a3",
+      "publicationDate": "2015-11-30",
+      "year": 2015
+    },
+    {
+      "title": "Recent Trends and Some Lessons for Serious Network Failures in Japan",
+      "arxiv_id": null,
+      "doi": "10.1109/INCoS.2015.31",
+      "publicationDate": "2015-09-02",
+      "year": 2015
+    },
+    {
+      "title": "The Protégé Project: A Look Back and a Look Forward",
+      "arxiv_id": null,
+      "doi": "10.1145/2757001.2757003",
+      "publicationDate": "2015-06-01",
+      "year": 2015
+    },
+    {
+      "title": "Co-FQL: Anomaly detection using cooperative fuzzy Q-learning in network",
+      "arxiv_id": null,
+      "doi": "10.3233/IFS-141419",
+      "publicationDate": "2015-03-01",
+      "year": 2015
+    },
+    {
+      "title": "Fail-in-Place Network Design: Interaction Between Topology, Routing Algorithm and Failures",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2014.54",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "Behavioral resource-aware model inference",
+      "arxiv_id": null,
+      "doi": "10.1145/2642937.2642988",
+      "publicationDate": "2014-09-15",
+      "year": 2014
+    },
+    {
+      "title": "Towards Competency Question-Driven Ontology Authoring",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-07443-6_50",
+      "publicationDate": "2014-05-25",
+      "year": 2014
+    },
+    {
+      "title": "OOPS! (OntOlogy Pitfall Scanner!): An On-line Tool for Ontology Evaluation",
+      "arxiv_id": null,
+      "doi": "10.4018/IJSWIS.2014040102",
+      "publicationDate": "2014-04-01",
+      "year": 2014
+    },
+    {
+      "title": "Engineering General Intelligence, Part 1: A Path to Advanced AGI via Embodied Learning and Cognitive Synergy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-02-28",
+      "year": 2014
+    },
+    {
+      "title": "Emotion ontology for context awareness",
+      "arxiv_id": null,
+      "doi": "10.1109/COGINFOCOM.2013.6719313",
+      "publicationDate": "2013-12-01",
+      "year": 2013
+    },
+    {
+      "title": "Network Failure Detection and Diagnosis by Analyzing Syslog and SNS Data: Applying Big Data Analysis to Network Operations",
+      "arxiv_id": null,
+      "doi": "10.53829/ntr201311fa4",
+      "publicationDate": "2013-11-01",
+      "year": 2013
+    },
+    {
+      "title": "A semantic-web approach for modeling computing infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2013.08.011",
+      "publicationDate": "2013-11-01",
+      "year": 2013
+    },
+    {
+      "title": "DiTTO: Diagrams Transformation inTo OWL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-10-23",
+      "year": 2013
+    },
+    {
+      "title": "An Ontology-Based Forensic Analysis Tool",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-06-10",
+      "year": 2013
+    },
+    {
+      "title": "Vers des traces numériques comme objets informatiques de premier niveau : une approche par les traces modélisées",
+      "arxiv_id": null,
+      "doi": "10.3406/INTEL.2013.1090",
+      "publicationDate": "2013-06-01",
+      "year": 2013
+    },
+    {
+      "title": "Trace-Based Reasoning - Modeling Interaction Traces for Reasoning on Experiences",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-05-19",
+      "year": 2013
+    },
+    {
+      "title": "Towards Activity Recognition Using Probabilistic Description Logics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-07-15",
+      "year": 2012
+    },
+    {
+      "title": "BOnSAI: a smart building ontology for ambient intelligence",
+      "arxiv_id": null,
+      "doi": "10.1145/2254129.2254166",
+      "publicationDate": "2012-06-13",
+      "year": 2012
+    },
+    {
+      "title": "Drools: A Rule Engine for Complex Event Processing",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-34176-2_2",
+      "publicationDate": "2011-10-04",
+      "year": 2011
+    },
+    {
+      "title": "Management of the risk of wind damage in forestry: a graph-based Markov decision process approach",
+      "arxiv_id": null,
+      "doi": "10.1007/S10479-009-0522-7",
+      "publicationDate": "2011-10-01",
+      "year": 2011
+    },
+    {
+      "title": "Hypergraph Based Network Model and Architechture for Deep Space Exploration",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-25255-6_63",
+      "publicationDate": "2011-10-01",
+      "year": 2011
+    },
+    {
+      "title": "Terrorism Knowledge Base: A Eulogy (2004-2008)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-11-19",
+      "year": 2010
+    },
+    {
+      "title": "A Context Ontology for Mobile Environments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-10-01",
+      "year": 2010
+    },
+    {
+      "title": "UML Style Graphical Notation and Editor for OWL 2",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-16101-8_9",
+      "publicationDate": "2010-09-29",
+      "year": 2010
+    },
+    {
+      "title": "One Graph Is Worth a Thousand Logs: Uncovering Hidden Structures in Massive System Event Logs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-04180-8_32",
+      "publicationDate": "2009-08-30",
+      "year": 2009
+    },
+    {
+      "title": "C-SPARQL: SPARQL for continuous querying",
+      "arxiv_id": null,
+      "doi": "10.1145/1526709.1526856",
+      "publicationDate": "2009-04-20",
+      "year": 2009
+    },
+    {
+      "title": "Isolation Forest",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2008.17",
+      "publicationDate": "2008-12-15",
+      "year": 2008
+    },
+    {
+      "title": "Vigilante: End-to-end containment of Internet worm epidemics",
+      "arxiv_id": null,
+      "doi": "10.1145/1455258.1455259",
+      "publicationDate": "2008-12-01",
+      "year": 2008
+    },
+    {
+      "title": "DogOnt - Ontology Modeling for Intelligent Domotic Environments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-88564-1_51",
+      "publicationDate": "2008-10-26",
+      "year": 2008
+    },
+    {
+      "title": "Anomaly detection in data represented as graphs",
+      "arxiv_id": null,
+      "doi": "10.3233/IDA-2007-11606",
+      "publicationDate": "2007-11-01",
+      "year": 2007
+    },
+    {
+      "title": "Introducing OCTAVE Allegro: Improving the Information Security Risk Assessment Process",
+      "arxiv_id": null,
+      "doi": "10.21236/ada470450",
+      "publicationDate": "2007-05-01",
+      "year": 2007
+    },
+    {
+      "title": "Case-Based Approximate Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1007/1-4020-5695-8",
+      "publicationDate": "2007-03-05",
+      "year": 2007
+    },
+    {
+      "title": "Automatic Detection of SLS Violation Using Knowledge Based Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/11892960_130",
+      "publicationDate": "2006-10-09",
+      "year": 2006
+    },
+    {
+      "title": "Petri net ontology",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2005.12.003",
+      "publicationDate": "2006-08-01",
+      "year": 2006
+    },
+    {
+      "title": "Perracotta: mining temporal API rules from imperfect traces",
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134325",
+      "publicationDate": "2006-05-28",
+      "year": 2006
+    },
+    {
+      "title": "Modeling Software with Finite State Machines : A Practical Approach",
+      "arxiv_id": null,
+      "doi": "10.1201/9781420013641",
+      "publicationDate": "2006-05-15",
+      "year": 2006
+    },
+    {
+      "title": "Requirements for IP Flow Information Export (IPFIX)",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC3917",
+      "publicationDate": "2004-10-01",
+      "year": 2004
+    },
+    {
+      "title": "Using CLIPS to Detect Network Intrusions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-24580-3_40",
+      "publicationDate": "2003-12-04",
+      "year": 2003
+    },
+    {
+      "title": "DOE : une mise en oeuvre d'une méthode de structuration différentielle pour les ontologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2002-05-28",
+      "year": 2002
+    },
+    {
+      "title": "DAML-S: Semantic Markup for Web Services",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2001-07-30",
+      "year": 2001
+    },
+    {
+      "title": "Survivability analysis of network specifications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDSN.2000.857597",
+      "publicationDate": "2000-06-25",
+      "year": 2000
+    },
+    {
+      "title": "Les bond graphs et leur application en mécatronique",
+      "arxiv_id": null,
+      "doi": "10.51257/a-v1-s7222",
+      "publicationDate": "1999-09-10",
+      "year": 1999
+    },
+    {
+      "title": "Bro: a system for detecting network intruders in real-time",
+      "arxiv_id": null,
+      "doi": "10.1016/S1389-1286(99)00112-7",
+      "publicationDate": "1998-01-26",
+      "year": 1998
+    },
+    {
+      "title": "Simple Network Management Protocol (SNMP)",
+      "arxiv_id": null,
+      "doi": "10.1081/E-EIA-120046385",
+      "publicationDate": "1989-04-01",
+      "year": 1989
+    },
+    {
+      "title": "Reasoning from First Principles in Electronic Troubleshooting",
+      "arxiv_id": null,
+      "doi": "10.1016/S0020-7373(83)80063-7",
+      "publicationDate": "1983-11-01",
+      "year": 1983
+    },
+    {
+      "title": "Shifting Models Left: End-to-End Traceability as a Foundation for Knowledge Graphs as Data Products",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Miravi - a Linked Data Viewer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Trust and Accountability in Knowledge Graph-Based AI for Self Determination (Dagstuhl Seminar 25051)",
+      "arxiv_id": null,
+      "doi": "10.4230/DagRep.15.1.136",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". Beyond Correlation: Finding Root-Causes Using a Network Digital Twin Graph and Agentic AI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-60635-9_2",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Graphaméléon : apprentissage des relations et détection d'anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RDF2vec Embeddings for Updateable Knowledge Graphs - Reuse, Don't Retrain!",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-78952-6_30",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". TheICS-SECKG:AnIntegratedCybersecurityResource for Industrial Control Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Clustering of live network alarms using unsupervised statistical models",
+      "arxiv_id": null,
+      "doi": "10.1049/icp.2023.2517",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Graph Embeddings: Open Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.4230/TGDK.1.1.4",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Beyond Causality: Representing Event Relations in Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Information security, cybersecurity and privacy protection – Information security management systems – Requirements",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Directive on measures for a high common level of cybersecurity across the Union (NIS2 Directive)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Root Cause Analysis in the Industrial Domain using Knowledge Graphs: A Case Study on Power Transformers",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2022.01.292",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "The SLOGERT Framework for Automated Log Knowledge Graph Construction",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-77385-4_38",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Explainable Zero-Shot Topic Extraction Using a Common-Sense Knowledge Graph",
+      "arxiv_id": null,
+      "doi": "10.4230/OASIcs.LDK.2021.17",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Toward a Knowledge Graph of Cybersecurity Countermeasures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A High-Level Ontology Network for ICT Infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-88361-4_26",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Approche de traitement des logs pour la prédiction d'erreurs critiques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Threat modeling of cloud systems with ontological security pattern catalog",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Similarity-Measured Isolation Forest: Anomaly Detection Method for Machine Monitoring Data",
+      "arxiv_id": null,
+      "doi": "10.1109/TIM.2021.3062684",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Incident Management vs. Incident Response ś What’s the Diference?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A Picture Is Worth 1,000 Rows: Visualizing Security Data with Graph Algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Temps et verbe suivi de l’architectonique du temps dans les langues classiques: théorie des aspects, des modes et des temps (reproduction en fac-similé ed",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Global NWP 11.5 Architecture Diagram",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "2025. The Internet of Agents . White Paper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "G.7710: Common Equipment Management Function Requirements . Recommendation G.7710/Y.1701",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "The Virtual Knowledge Graph System Ontop",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Introduction aux auto-encodeurs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "AIOps Series V : RCA Based on Knowledge Graph",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "IBM Security I2 Enterprise Insight Analysis ś Overview",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "iCity Transportation Planning Suite of Ontologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "How Airbus Detects Anomalies in ISS Telemetry Data Using TFX",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Smart Applications REFerence Ontology (SAREF)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Causal Inference: What If",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Security Patterns Based Approach to Automatically Select Mitigations in Ontology-Driven Threat Modelling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Timeseries Anomaly Detection Using an Autoencoder",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Single Model Based Anomaly Detection for Multi-Item Datasets",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "On the Capabilities of Logic Tensor Networks for Deductive Reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Anomaly Detection and Root Cause Analysis with AppDynamics Cognition Engine",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Design Basis Threat (DBT)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Open Networking Foundation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Market Guide for IT Infrastructure Monitoring Tools . Technical Report G00450400",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Digital Twin in manufacturing: A categorical literature review and classification",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IFACOL.2018.08.474",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "European Cybersecurity Centres of Expertise Map - Definitions and Taxonomy",
+      "arxiv_id": null,
+      "doi": "10.2760/622400",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Towards Adaptive Anomaly Detection and Root Cause Analysis by Automated Extraction of Knowledge from Risk Analyses",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "How to exploit structural properties of dynamic networks to detect nodes with high temporal closeness",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "EBIOS Risk Manager . Technical Report ANSSI-PA-048",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Measuring Similarity between Cyber Security Incident Reports",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Deining Activity Speciications in OWL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "HTTP Vocabulary in RDF 1.0",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Application Performance Monitoring for Microservices-Based Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Method and pro Forma for Threat, Vulnerability, Risk Analysis (TVRA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Head First Design Patterns",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A Core Pattern for Events",
+      "arxiv_id": null,
+      "doi": "10.3233/978-1-61499-826-6-29",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Graph Theory",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-31940-7",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Case Based Approximate Reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "SEAS Knowledge Model . Deliverable 2.2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "UCO: A Uniied Cybersecurity Ontology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Exploring Temporal Data Using Relational Concept Analysis: An Application to Hydroecology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Ontology-based Adaptive Systems of Cyber Defense",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Anomaly Detection in Graph : Unsupervised Learning , Graph-based Features and Deep Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Enabling New Technologies for Cyber Security Defense with the ICAS Cyber Security Ontology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Layer 2 Network Connection Awareness Improves Root Cause Analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "CNSS Glossary Working Group",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Engineering General Intelligence, Part 1",
+      "arxiv_id": null,
+      "doi": "10.2991/978-94-6239-027-0",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Building an Ontology of Cyber Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "An ontology for the Business Process Modelling Notation",
+      "arxiv_id": null,
+      "doi": "10.3233/978-1-61499-438-1-133",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "RML: A Generic Language for Integrated RDF Mappings of Heterogeneous Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "La Cybernétique: Information et Régulation Dans Le Vivant et La Machine",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "A Formalised Ontology for Network Attack Classiication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "RDF 1.1 Concepts and Abstract Syntax",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "ZenOSS Logical Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Ontology of units of measure and related concepts",
+      "arxiv_id": null,
+      "doi": "10.3233/SW-2012-0069",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "AutomatedClassiicationofComputerNetworkAttacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Visual Ontology Modeler",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "The NeOn Methodology for Ontology Engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-24794-1_2",
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "SPARQL Protocol And RDF Query Language",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "How to Detect Causality Efects on Large Dynamical Communication Networks: A Case Study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Computer Security Incident Handling Guide: Recommendations of the National Institute of Standards and Technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "OWL 2 Web Ontology Language ś Structural Speciication and Functional-Style Syntax (Second Edition)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Magic Quadrant for Security Information and Event Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Ergonomie des interfaces : Guide pratique pour la conception des applications web, logicielles, mobiles et tactiles Ed. 5",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Cost-based conformance checking using the A* algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "SPIN ś Overview and Motivation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "ObservationetCalculśLesDonnéesTraitéesInformatiquementSont-EllesEncoreDesDonnéesd’observation ?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "QUDT: Quantities, Units, Dimensions and Data Types Ontologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Ontology-based Intelligent Network-Forensics Investigation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Term-Centric Semantic Web Vocabulary Annotations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Iso/iec",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-35973-1_660",
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Processus décisionnels de Markov en intelligence artificielle",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Gestion de la complexité dans les études quantitatives de sûreté de fonctionnement de systèmes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "An Introductory Overview of ITIL V3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "A Practical Application of SIM/SEM/SIEM Automating Threat Identiication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "IT Process Maps ś Incident Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "The Secure Shell (SSH) Connection Protocol",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC4254",
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "A High-level Petri Net Ontology Compatible with PNML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Text2Onto: a framework for ontology learning and data-driven change discovery",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "An Overview of OntoClean",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-92673-3_9",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "RICH EVENT REPRESENTATION FOR COMPUTER FORENSICS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Scenario graphs and attack graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Ontology Design with Formal Concept Analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Friend of a Friend (FOAF) Vocabulary Speciication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "2022. How News Evolves? Modeling News Text and Coverage Using Graphs and Hawkes Process. 87",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Cisco Systems",
+      "arxiv_id": null,
+      "doi": "10.1016/b978-1-85617-087-1.50024-1",
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "The Description Logic Handbook: Theory, Implementation, and Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "A Markov Chain Model of Temporal Behavior for Anomaly Detection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "Combining Narratives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "ITU-T Rec. X.733 (02/92) Information technology - Open Systems Interconnection - Systems Management: Alarm reporting function . Recommendation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "The Theory and Practice of Speciication Based Software Testing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "Implementing interoperability - Metadata Schema and Crosswalk Registry approach to FAIR metadata mappings",
+      "arxiv_id": null,
+      "doi": "10.29007/khls",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The HeFQUIN Approach to Extract and to Process Composite Values with RML and SPARQL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. KnowledgeGraphsforEnhancedCross-Operator Incident Management and Network Design",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Maltego Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Emonet",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. OGC GeoSPARQL ś A Geographic Query Language for RDF Data . OGC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Internet of Agents: Fundamentals, Applications, and Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MISP ś Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Advanced Threat Detection with User and Entity Behavior Analytics (UEBA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Introduction to STIX ś Structured Threat Information eXpression",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Digital Twin-Enhanced Incident Response for Cyber-Physical Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ontology Design Patterns . org (ODP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. StrategicReasoningoverGologProgramsintheNondeterministic Situation Calculus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "HappyFox Help Desk",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Designing a Temporal Graph Management System for IoT Application Domains",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "National Vulnerability Database (NVD)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Collaborative Cascading Failure Management on Internet of Things Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ITEMO. 2022. Standards for lightweight IT service management (FitSM)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application • 29",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

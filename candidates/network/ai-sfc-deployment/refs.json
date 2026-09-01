@@ -1,0 +1,1169 @@
+{
+  "candidate": {
+    "topic": "AI-Driven Reliable SFC Deployment",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3840282",
+      "title": "AI-Driven Reliable SFC Deployment: Challenges, Opportunities, and Perspectives",
+      "published": "2026-08-27"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:50:56+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 162,
+    "arxiv_resolvable": 44,
+    "doi_only": 101,
+    "unresolved": 17
+  },
+  "gt_s2": {
+    "paperId": "c87b00f3a94aaa051accb6f9a40ef7a2ec19809a",
+    "externalIds": {
+      "DOI": "10.1145/3840282",
+      "CorpusId": 291372322
+    },
+    "title": "AI-Driven Reliable SFC Deployment: Challenges, Opportunities, and Perspectives",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 162,
+    "publicationDate": "2026-08-27"
+  },
+  "refs": [
+    {
+      "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
+      "arxiv_id": "2603.22386",
+      "doi": "10.48550/arXiv.2603.22386",
+      "publicationDate": "2026-03-23",
+      "year": 2026
+    },
+    {
+      "title": "RL-PMO: A Reinforcement Learning-Based Optimization Algorithm for Parallel SFC Migration",
+      "arxiv_id": null,
+      "doi": "10.3390/s26010242",
+      "publicationDate": "2025-12-30",
+      "year": 2025
+    },
+    {
+      "title": "Efficient security service function chaining based on federated learning in edge networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2025.108285",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "ST-RDP: A deep spatio-temporal network model for VNF resource demand prediction of Service Function Chains",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2025.111260",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Achieving topology generalization without retraining in service function chaining through cooperative multi-agent reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2025.111211",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Lifecycle Management of Trustworthy AI Models in 6G Networks: the Reason Approach",
+      "arxiv_id": "2504.02406",
+      "doi": "10.1109/MWC.001.2400288",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "NFV-Enabled Service Recovery in Space–Air–Ground Integrated Networks: A Matching Game-Based Approach",
+      "arxiv_id": "2502.02141",
+      "doi": "10.1109/TNSE.2025.3538614",
+      "publicationDate": "2025-02-04",
+      "year": 2025
+    },
+    {
+      "title": "Towards cost optimization in security-aware service function chaining and embedding over multi-vendor edge networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.111002",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Provably efficient security-aware service function tree composing and embedding in multi-vendor networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110843",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Intent‐Based Network Configuration Using Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1002/nem.2313",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "SA-PSO Approach for Optimizing QoS Management in SDN Service Chains",
+      "arxiv_id": null,
+      "doi": "10.1109/CyberSciTech64112.2024.00071",
+      "publicationDate": "2024-11-05",
+      "year": 2024
+    },
+    {
+      "title": "NFV recovery strategies for critical services after massive failures in optical networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.osn.2024.100790",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Reliability-assured service function chain migration strategy in edge networks using deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2024.103999",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Network Traffic Prediction in an Edge–Cloud Continuum Network for Multiple Network Service Providers",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13173515",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "GCN-Based Multi-Agent Deep Reinforcement Learning for Dynamic Service Function Chain Deployment in IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2024.3426483",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "The Llama 3 Herd of Models",
+      "arxiv_id": "2407.21783",
+      "doi": null,
+      "publicationDate": "2024-07-31",
+      "year": 2024
+    },
+    {
+      "title": "AI Service Deployment and Resource Allocation Optimization Based on Human-Like Networking Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3384546",
+      "publicationDate": "2024-07-15",
+      "year": 2024
+    },
+    {
+      "title": "A DRL Approach with Network Service Deployment Transformer for Reliable SFC Deployment",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC51166.2024.10622220",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Big Data Oriented Multi-Objective SFC Placement in Dynamic MEC: A Distributed DRL Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC51166.2024.10622419",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Deploying Security-Aware Service Function Chains with Asymmetric Dedicated Protection",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC51166.2024.10622657",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Post-fault restoration of service function chains in fog networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110580",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Enabling AI-Generated Content Services in Wireless Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.004.2300015",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3314580",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Towards resources optimization in deploying service function chains with shared protection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110494",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Chain Segment Protection for Dependence-aware Service Function Chain in NFV",
+      "arxiv_id": null,
+      "doi": "10.1109/WCCCT60665.2024.10541465",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Service function chain network planning through offline, online and infeasibility restoration techniques",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110241",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Function traffic-aware VNF migration for service restoration in an NFV-enabled IoT system",
+      "arxiv_id": null,
+      "doi": "10.1016/j.icte.2023.11.004",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Digital twin-assisted service function chaining in multi-domain computing power networks with multi-agent reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.04.025",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Cost Optimization in Security-Aware Service Function Chain Deployment with Diverse Vendors",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM54140.2023.10436953",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "A Two-Stage GCN-Based Deep Reinforcement Learning Framework for SFC Embedding in Multi-Datacenter Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3284293",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+      "arxiv_id": "2312.00752",
+      "doi": null,
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Towards Attack-Resistant Service Function Chain Migration: A Model-Based Adaptive Proximal Policy Optimization Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TDSC.2023.3237604",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Deploying Disaster-Resilient Service Function Chains Using Adaptive Multi-Path Routing",
+      "arxiv_id": null,
+      "doi": "10.23919/CNSM59352.2023.10327915",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "RuleDRL: Reliability-Aware SFC Provisioning With Bounded Approximations in Dynamic Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2023.3281759",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Service Function Chaining and Embedding With Heterogeneous Faults Tolerance in Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3220667",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Multiobjective Genetic Algorithm for Fast Service Function Chain Reconfiguration",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3195820",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic SFC placement scheme with parallelized SFCs and reuse of initialized VNFs: An A3C-based DRL approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jksuci.2023.101577",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Heterogeneous-Agent Reinforcement Learning",
+      "arxiv_id": "2304.09870",
+      "doi": "10.48550/arXiv.2304.09870",
+      "publicationDate": "2023-04-19",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services",
+      "arxiv_id": "2303.16129",
+      "doi": "10.1109/COMST.2024.3353265",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Towards Service Function Chaining and Embedding for Multi-Security Guarantee Levels",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCC56324.2022.10065637",
+      "publicationDate": "2022-12-09",
+      "year": 2022
+    },
+    {
+      "title": "Off-site protection against service function forwarder failures in NFV",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4204757",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Securing Dynamic Service Function Chain Orchestration in EC-IoT Using Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.3390/s22239041",
+      "publicationDate": "2022-11-22",
+      "year": 2022
+    },
+    {
+      "title": "Multiagent Reinforcement-Learning-Aided Service Function Chain Deployment for Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3151134",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Service Function Chain Deployment Method Based on Traffic Prediction and Adaptive Virtual Network Function Scaling",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics11162625",
+      "publicationDate": "2022-08-22",
+      "year": 2022
+    },
+    {
+      "title": "Towards Deterministic Fault-Tolerant Service Function Slicing in Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCCN54977.2022.9868901",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "A security-aware service function chain deployment method for load balance and delay optimization",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-022-14494-2",
+      "publicationDate": "2022-06-21",
+      "year": 2022
+    },
+    {
+      "title": "Service Function Chain Survivability Provisioning in Fog Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2021.3138968",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "A reinforcement learning-based approach for availability-aware service function chain placement in large-scale networks",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4059086",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "A Column Generation Algorithm for Dedicated-Protection O-RAN VNF Deployment",
+      "arxiv_id": null,
+      "doi": "10.1109/iwcmc55113.2022.9825080",
+      "publicationDate": "2022-05-30",
+      "year": 2022
+    },
+    {
+      "title": "A survey on the placement of virtual network functions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2022.103361",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "6G-Enabled Ultra-Reliable Low-Latency Communication in Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOMSTD.0001.2100098",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Provider NFV Network Service Delegation via Average Reward Reinforcement Learning",
+      "arxiv_id": "2112.13093",
+      "doi": "10.2139/ssrn.4192649",
+      "publicationDate": "2021-12-24",
+      "year": 2021
+    },
+    {
+      "title": "Proposal and Investigation of a Convolutional and LSTM Neural Network for the Cost-Aware Resource Prediction in Softwarized Networks",
+      "arxiv_id": null,
+      "doi": "10.3390/fi13120316",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "Latency-aware VNF Protection for Network Function Virtualization in Elastic Optical Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685513",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Minimizing the Latency of Embedding Dependence-Aware SFCs into MEC Network via Graph Theory",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685945",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey",
+      "arxiv_id": "2110.13484",
+      "doi": "10.1109/COMST.2022.3160697",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Hierarchical Multi-Agent Deep Reinforcement Learning for SFC Placement on Multiple Domains",
+      "arxiv_id": null,
+      "doi": "10.1109/LCN52139.2021.9524980",
+      "publicationDate": "2021-10-04",
+      "year": 2021
+    },
+    {
+      "title": "A Combinatorial Reliability Analysis of Generic Service Function Chains in Data Center Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3477046",
+      "publicationDate": "2021-09-30",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Efficient Virtual Network Function Reconfiguration Strategy Based on Short-Term Resources Requirement Prediction",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics10182287",
+      "publicationDate": "2021-09-17",
+      "year": 2021
+    },
+    {
+      "title": "6G Internet of Things: A Comprehensive Survey",
+      "arxiv_id": "2108.04973",
+      "doi": "10.1109/JIOT.2021.3103320",
+      "publicationDate": "2021-08-11",
+      "year": 2021
+    },
+    {
+      "title": "A genetic algorithm approach for service function chain placement in 5G and beyond, virtualized edge networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108157",
+      "publicationDate": "2021-08-04",
+      "year": 2021
+    },
+    {
+      "title": "Cellular, Wide-Area, and Non-Terrestrial IoT: A Survey on 5G Advances and the Road Toward 6G",
+      "arxiv_id": "2107.03059",
+      "doi": "10.1109/comst.2022.3151028",
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Application of a Long Short Term Memory neural predictor with asymmetric loss function for the resource allocation in NFV network architectures",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMNET.2021.108104",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Security Service Function Chain Deployment Using a Viterbi-Based Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCSN52437.2021.9463659",
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "Unavailability-Aware Shared Virtual Backup Allocation for Middleboxes: A Queueing Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2020.3026218",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Resilient Resource Allocation Model in Service Function Chains with Diversity and Redundancy",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC42927.2021.9500867",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Robust Service Provisioning With Service Function Chain Requirements in Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3062650",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Reliability-aware Dynamic Service Chain Scheduling in 5G Networks based on Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM42981.2021.9488707",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Disaster-Resilient Service Function Chain Embedding Based on Multi-Path Routing",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS51825.2021.9484438",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Network Service Chaining and Embedding With Provable Bounds",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.3038617",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "A multi-stage graph based algorithm for survivable Service Function Chain orchestration with backup resource sharing",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMCOM.2021.04.008",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "Deep Reinforcement Learning for Internet of Things: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3073036",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "Security-SLA-guaranteed service function chain deployment in cloud-fog computing networks",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-021-03278-4",
+      "publicationDate": "2021-04-09",
+      "year": 2021
+    },
+    {
+      "title": "Centralized and Federated Learning for Predictive VNF Autoscaling in Multi-Domain 5G Networks and Beyond",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3050955",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Multiagent Deep-Reinforcement-Learning-Based Virtual Resource Allocation Through Network Function Virtualization in Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.3022572",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "DDQP: A Double Deep Q-Learning Approach to Online Fault-Tolerant SFC Placement",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3049298",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Reliable Placement of Service Function Chains and Virtual Monitoring Functions With Minimal Cost in Softwarized 5G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3056917",
+      "publicationDate": "2021-02-03",
+      "year": 2021
+    },
+    {
+      "title": "Proactive and AoI-Aware Failure Recovery for Stateful NFV-Enabled Zero-Touch 6G Networks: Model-Free DRL Approach",
+      "arxiv_id": "2103.03817",
+      "doi": "10.1109/TNSM.2021.3113054",
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Heuristic Based Algorithm for SFC Allocation in 5G Experience Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSPIS51611.2020.9349535",
+      "publicationDate": "2020-12-23",
+      "year": 2020
+    },
+    {
+      "title": "A Reliability-Aware, Delay Guaranteed, and Resource Efficient Placement of Service Function Chains in Softwarized 5G Networks",
+      "arxiv_id": "2012.07051",
+      "doi": "10.1109/TCC.2020.3020269",
+      "publicationDate": "2020-12-13",
+      "year": 2020
+    },
+    {
+      "title": "Shared backup resource assignment for middleboxes considering server protection capabilities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107734",
+      "publicationDate": "2020-12-13",
+      "year": 2020
+    },
+    {
+      "title": "Auto-3P: An autonomous VNF performance prediction & placement framework based on machine learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107433",
+      "publicationDate": "2020-11-09",
+      "year": 2020
+    },
+    {
+      "title": "Joint access and backhaul resource allocation for D2D-assisted dense mmWave cellular networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107602",
+      "publicationDate": "2020-10-17",
+      "year": 2020
+    },
+    {
+      "title": "The Greatest Teacher, Failure is: Using Reinforcement Learning for SFC Placement Based on Availability and Energy Consumption",
+      "arxiv_id": "2010.05711",
+      "doi": null,
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "Breaking Down Network Slicing: Hierarchical Orchestration of End-to-End Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2000406",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "Revisiting Parameter Sharing in Multi-Agent Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Graph Neural Network based Service Function Chaining for Automatic Network Control",
+      "arxiv_id": "2009.05240",
+      "doi": "10.23919/APNOMS50412.2020.9236954",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Fault Tolerant Service Function Chaining",
+      "arxiv_id": null,
+      "doi": "10.1145/3387514.3405863",
+      "publicationDate": "2020-07-30",
+      "year": 2020
+    },
+    {
+      "title": "Toward Optimal Hybrid Service Function Chain Embedding in Multiaccess Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2019.2957961",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Fault Management in Service Function Chaining",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC48688.2020.00-46",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Pre-provisioning Protection for Faster Failure Recovery in Service Function Chaining",
+      "arxiv_id": null,
+      "doi": "10.1109/CONECCT50063.2020.9198654",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Reducing the Service Function Chain Backup Cost Over the Edge and Cloud by a Self-Adapting Scheme",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2020.3048885",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Trusted Cloud-Edge Network Resource Management: DRL-Driven Service Function Chain Orchestration for IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2019.2951593",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Towards Latency Optimization in Hybrid Service Function Chain Composition and Embedding",
+      "arxiv_id": null,
+      "doi": "10.1109/infocom41043.2020.9155529",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Liquid Time-constant Networks",
+      "arxiv_id": "2006.04439",
+      "doi": "10.1609/aaai.v35i9.16936",
+      "publicationDate": "2020-06-08",
+      "year": 2020
+    },
+    {
+      "title": "White Paper on Critical and Massive Machine Type Communication Towards 6G",
+      "arxiv_id": "2004.14146",
+      "doi": null,
+      "publicationDate": "2020-04-29",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Service Function Chain Embedding for NFV-Enabled IoT: A Deep Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2019.2946797",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Reinforcement Learning for Dynamic Reliability Aware NFV-Based Service Provisioning",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM38437.2019.9013214",
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Fully Parameterized Quantile Function for Distributional Reinforcement Learning",
+      "arxiv_id": "1911.02140",
+      "doi": null,
+      "publicationDate": "2019-11-05",
+      "year": 2019
+    },
+    {
+      "title": "Soft Actor-Critic for Discrete Action Settings",
+      "arxiv_id": "1910.07207",
+      "doi": null,
+      "publicationDate": "2019-10-16",
+      "year": 2019
+    },
+    {
+      "title": "V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control",
+      "arxiv_id": "1909.12238",
+      "doi": null,
+      "publicationDate": "2019-09-26",
+      "year": 2019
+    },
+    {
+      "title": "Bi-level Actor-Critic for Multi-agent Coordination",
+      "arxiv_id": "1909.03510",
+      "doi": "10.1609/AAAI.V34I05.6226",
+      "publicationDate": "2019-09-08",
+      "year": 2019
+    },
+    {
+      "title": "Scaling Geo-Distributed Network Function Chains: A Prediction and Learning Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2019.2927068",
+      "publicationDate": "2019-07-08",
+      "year": 2019
+    },
+    {
+      "title": "Dependence-Aware Service Function Chain Embedding in Optical Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC.2019.8761774",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-domain non-cooperative VNF-FG embedding: A deep reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOMW.2019.8845184",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "A Near Optimal Reliable Composition Approach for Geo-Distributed Latency-Sensitive Service Chains",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2019.8737498",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "RABA: Resource-Aware Backup Allocation For A Chain of Virtual Network Functions",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2019.8737565",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Applications of Artificial Intelligence and Machine Learning in the Area of SDN and NFV: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/SSD.2019.8893244",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Modelling Bounded Rationality in Multi-Agent Interactions by Generalized Recursive Reasoning",
+      "arxiv_id": "1901.09216",
+      "doi": "10.24963/ijcai.2020/58",
+      "publicationDate": "2019-01-26",
+      "year": 2019
+    },
+    {
+      "title": "Applications of Deep Reinforcement Learning in Communications and Networking: A Survey",
+      "arxiv_id": "1810.07862",
+      "doi": "10.1109/COMST.2019.2916583",
+      "publicationDate": "2018-10-18",
+      "year": 2018
+    },
+    {
+      "title": "Embedding dependence-aware service function chains",
+      "arxiv_id": null,
+      "doi": "10.1364/JOCN.10.000C64",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Implicit Quantile Networks for Distributional Reinforcement Learning",
+      "arxiv_id": "1806.06923",
+      "doi": null,
+      "publicationDate": "2018-06-14",
+      "year": 2018
+    },
+    {
+      "title": "Reliability-Aware Service Chaining In Carrier-Grade Softwarized Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2018.2815338",
+      "publicationDate": "2018-03-12",
+      "year": 2018
+    },
+    {
+      "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+      "arxiv_id": "1802.09477",
+      "doi": null,
+      "publicationDate": "2018-02-26",
+      "year": 2018
+    },
+    {
+      "title": "Maximum a Posteriori Policy Optimisation",
+      "arxiv_id": "1806.06920",
+      "doi": null,
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
+      "arxiv_id": "1802.01561",
+      "doi": null,
+      "publicationDate": "2018-02-05",
+      "year": 2018
+    },
+    {
+      "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+      "arxiv_id": "1801.01290",
+      "doi": null,
+      "publicationDate": "2018-01-04",
+      "year": 2018
+    },
+    {
+      "title": "Dependence-Aware Service Function Chain Design and Mapping",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOCOM.2017.8254485",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "Distributional Reinforcement Learning with Quantile Regression",
+      "arxiv_id": "1710.10044",
+      "doi": "10.1609/aaai.v32i1.11791",
+      "publicationDate": "2017-10-27",
+      "year": 2017
+    },
+    {
+      "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+      "arxiv_id": "1710.02298",
+      "doi": "10.1609/aaai.v32i1.11796",
+      "publicationDate": "2017-10-06",
+      "year": 2017
+    },
+    {
+      "title": "NFP: Enabling Network Function Parallelism in NFV",
+      "arxiv_id": null,
+      "doi": "10.1145/3098822.3098826",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "A Distributional Perspective on Reinforcement Learning",
+      "arxiv_id": "1707.06887",
+      "doi": null,
+      "publicationDate": "2017-07-17",
+      "year": 2017
+    },
+    {
+      "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+      "arxiv_id": "1706.02275",
+      "doi": null,
+      "publicationDate": "2017-06-07",
+      "year": 2017
+    },
+    {
+      "title": "Counterfactual Multi-Agent Policy Gradients",
+      "arxiv_id": "1705.08926",
+      "doi": "10.1609/aaai.v32i1.11794",
+      "publicationDate": "2017-05-24",
+      "year": 2017
+    },
+    {
+      "title": "Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games",
+      "arxiv_id": "1703.10069",
+      "doi": null,
+      "publicationDate": "2017-03-29",
+      "year": 2017
+    },
+    {
+      "title": "Sample Efficient Actor-Critic with Experience Replay",
+      "arxiv_id": "1611.01224",
+      "doi": null,
+      "publicationDate": "2016-11-03",
+      "year": 2016
+    },
+    {
+      "title": "Asynchronous Methods for Deep Reinforcement Learning",
+      "arxiv_id": "1602.01783",
+      "doi": null,
+      "publicationDate": "2016-02-04",
+      "year": 2016
+    },
+    {
+      "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+      "arxiv_id": "1511.06581",
+      "doi": null,
+      "publicationDate": "2015-11-20",
+      "year": 2015
+    },
+    {
+      "title": "Deep Reinforcement Learning with Double Q-Learning",
+      "arxiv_id": "1509.06461",
+      "doi": "10.1609/aaai.v30i1.10295",
+      "publicationDate": "2015-09-22",
+      "year": 2015
+    },
+    {
+      "title": "Continuous control with deep reinforcement learning",
+      "arxiv_id": "1509.02971",
+      "doi": null,
+      "publicationDate": "2015-09-09",
+      "year": 2015
+    },
+    {
+      "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+      "arxiv_id": "1506.02438",
+      "doi": null,
+      "publicationDate": "2015-06-08",
+      "year": 2015
+    },
+    {
+      "title": "Human-level control through deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1038/nature14236",
+      "publicationDate": "2015-02-25",
+      "year": 2015
+    },
+    {
+      "title": "Trust Region Policy Optimization",
+      "arxiv_id": "1502.05477",
+      "doi": null,
+      "publicationDate": "2015-02-19",
+      "year": 2015
+    },
+    {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "arxiv_id": "1412.6980",
+      "doi": null,
+      "publicationDate": "2014-12-22",
+      "year": 2014
+    },
+    {
+      "title": "Playing Atari with Deep Reinforcement Learning",
+      "arxiv_id": "1312.5602",
+      "doi": null,
+      "publicationDate": "2013-12-19",
+      "year": 2013
+    },
+    {
+      "title": "California fault lines: understanding the causes and impact of network failures",
+      "arxiv_id": null,
+      "doi": "10.1145/1851182.1851220",
+      "publicationDate": "2010-08-16",
+      "year": 2010
+    },
+    {
+      "title": "Q-learning",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00992698",
+      "publicationDate": "1992-05-01",
+      "year": 1992
+    },
+    {
+      "title": "Learning to predict by the methods of temporal differences",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1022633531479",
+      "publicationDate": "1988-08-01",
+      "year": 1988
+    },
+    {
+      "title": "ChainPatrol: Balancing Attack Detection and Classification with Performance Overhead for Service Function Chains Using Virtual Trailers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Security-Aware Service Function Chaining and Embedding With Asymmetric Dedicated Protection",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3387083",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Deep Multi-Agent Reinforcement Learning With Minimal Cross-Agent Communication for SFC Partitioning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3269576",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Security Service Function Chain Based on Graph Neural Network",
+      "arxiv_id": null,
+      "doi": "10.3390/info13020078",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "On cross-domain Service Function Chain orchestration: An architectural framework",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.107806",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "On Credibility-Based Service Function Chain Deployment",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCS.2021.3064887",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Facebook’s outage cost the company nearly $100 million in revenue",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Summary of the AWS service event in the northern Virginia (US-EAST-1) region",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Crypto Exchanges Break (Again), Showing Fragile Market Not Fixed",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Rule Anomaly-Free Mechanism of Security Function Chaining in 5G",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2810834",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Deep Reinforcement Learning: A Brief Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1022672621406",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Multi Agent Reinforcement Learning Independent vs Cooperative Agents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "A Shared Protection Routing Algorithm for Optical Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "Eicient backprop",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "2023. On Jointly optimizing partial oloading and SFC mapping: a cooperative dual-agent deep reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Fault Tolerance Oriented SFC Optimization in SDN/NFV-Enabled Cloud Environment Based on Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. The surprising efectiveness of ppo in cooperative multi-agent games",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Optimizing mobile-edge AI-generated everything (AIGX) services by prompt engineering: Fundamental, framework, and case study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A survey on ChatGPT: AIśgenerated contents, challenges, and solutions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. 6G White Paper-MediaTek’s vision for the next-generation of cellular mobile technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "6G use",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Eicient Service Function Chaining in LEO Satellite Networks with Genetic Simulated Annealing-based Particle Swarm Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

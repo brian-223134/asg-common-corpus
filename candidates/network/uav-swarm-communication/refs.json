@@ -1,0 +1,1611 @@
+{
+  "candidate": {
+    "topic": "Large-Scale UAV Swarm Coordination for Sensing and Communication",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3817444",
+      "title": "Large-Scale UAV Swarm Coordination for Sensing and Communication: A Spatiotemporal Perspective",
+      "published": "2026-06-22"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:51:44+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 225,
+    "arxiv_resolvable": 5,
+    "doi_only": 175,
+    "unresolved": 45
+  },
+  "gt_s2": {
+    "paperId": "6548f9479a03c2cebe5b145a51ad5839d7ae67e7",
+    "externalIds": {
+      "DBLP": "journals/csur/ZhaRCYCLXXDTMWXC26",
+      "DOI": "10.1145/3817444",
+      "CorpusId": 289529446
+    },
+    "title": "Large-Scale UAV Swarm Coordination for Sensing and Communication: A Spatiotemporal Perspective",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 226,
+    "publicationDate": "2026-06-22"
+  },
+  "refs": [
+    {
+      "title": "An adaptive UAV network for increased user coverage and spectral efficiency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Software-defined UAV networks for 6G systems: Requirements, opportunities, emerging techniques, challenges, and research directions",
+      "arxiv_id": null,
+      "doi": "10.1109/ojcoms.2023.3323200",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1017/s0263574723000322",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Path planning techniques for multi-robot systems: A systematic review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A systematic survey: Security threats to UAV-aided IoT applications, taxonomy, current challenges and requirements with future research directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2019.10.014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Unregulated drones and an emerging threat to right to privacy: A critical overview",
+      "arxiv_id": null,
+      "doi": "10.69554/psso1225",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.32604/cmes.2023.022860",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2020 3rd International Conference on Advanced Communication Technologies and Networking (CommNet)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/drones7040260",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3564696",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Delay-aware cooperative task offloading for multi-UAV enabled edge-cloud computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108623",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Flexible open architecture for UASs integration into the airspace: Paparazzi autopilot system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Eyes in the sky: Drones applications in the built environment under climate change challenges",
+      "arxiv_id": null,
+      "doi": "10.3390/drones7100637",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multiobjective 3-D UAV movement planning in wireless sensor networks using bioinspired swarm intelligence",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3231302",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3649224",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2022 11th International Conference on System Modeling and Advancement in Research Trends (SMART)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Multi-agent path planning of robotic swarms in agricultural fields",
+      "arxiv_id": null,
+      "doi": "10.5194/isprs-annals-v-1-2020-361-2020",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC)",
+      "arxiv_id": null,
+      "doi": "10.1109/sec54971.2022.00013",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3560905.3568414",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3318216.3363306",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/rs14030620",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3395358",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Fueling glocal: Optimization-based path planning for indoor UAVs in AN autonomous exploration framework",
+      "arxiv_id": null,
+      "doi": "10.5194/isprs-archives-xlviii-1-w1-2023-85-2023",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2019.2900035",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1139/dsa-2023-0079",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2011 - MILCOM 2011 Military Communications Conference.",
+      "arxiv_id": null,
+      "doi": "10.1109/milcom.2011.6127613",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Multiple UAV path-planning for data collection in cluster-based wireless sensor network",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/rs15174312",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Achieving robust and efficient consensus for large-scale drone swarm",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2020.3036833",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "UAV network path planning and optimization using a vehicle routing model",
+      "arxiv_id": null,
+      "doi": "10.3390/rs15092227",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2809695.2809724",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "H-DrunkWalk: Collaborative and adaptive navigation for heterogeneous MAV swarm",
+      "arxiv_id": null,
+      "doi": "10.1145/3382094",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jstsp.2024.3427371",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3544793.3560412",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3389771",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 4th Workshop on International Science of Smart City Operations and Platforms Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.2968375",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2020.3034270",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3636534.3694724",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Cellular communication-based autonomous UAV navigation with obstacle avoidance for unknown indoor environments.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Chaos particle swarm optimization enhancement algorithm for UAV safe path planning",
+      "arxiv_id": null,
+      "doi": "10.3390/app12188977",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Hybrid orthogonal-nonorthogonal multiple access for CR-assisted cooperative UAV systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra48506.2021.9561550",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra.2019.8793943",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2023.3259394",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom48880.2022.9796732",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Distributed control for groups of unmanned aerial vehicles performing surveillance missions and providing relay communication network services",
+      "arxiv_id": null,
+      "doi": "10.1007/s10846-017-0726-z",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Proceedings of the 2015 IEEE International Conference on Autonomous Robot Systems and Competitions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Packet routing in dynamic multi-hop UAV relay network: A multi-agent learning approach",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2022.3182335",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2018.2881008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/app13084858",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Meta-analysis of unmanned aerial vehicle (UAV) imagery for agro-environmental monitoring using machine learning and statistical models",
+      "arxiv_id": null,
+      "doi": "10.3390/rs12213511",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom42981.2021.9488787",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s22051824",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s22031235",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2019.2906228",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Energy-efficient 3-D data collection formulti-UAV assisted mobile crowdsensing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2410.09604",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A UAV-assisted multi-task allocation method for mobile crowd sensing",
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2022.3147871",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2921269",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Bayesian optimization enhanced deep reinforcement learning for trajectory planning and network formation in multi-UAV networks",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2023.3262778",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Path planning for indoor contact inspection tasks with UAVS",
+      "arxiv_id": null,
+      "doi": "10.5194/isprs-archives-xliii-b4-2020-345-2020",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2025.3561569",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "UAV cluster obstacle avoidance method based on improved artificial potential field method",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2023.103607",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Analyzing swarm robotics approaches in natural disaster scenarios: A comparative study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Modeling and investigation on the performance enhancement of hovering UAV-based FSO relay optical wireless communication systems under pointing errors and atmospheric turbulence effects",
+      "arxiv_id": null,
+      "doi": "10.1007/s11082-023-04772-2",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2016.2560343",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Comprehensive survey of UAVs communication networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.csi.2020.103451",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/drones3030059",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2002.01419",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2020.3003662",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Connectivity guarantee within UAV cluster: A graph coalition formation game approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ojcoms.2022.3232600",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Optimization for UAV-assisted simultaneous transmission and reception communications in the existence of malicious jammers",
+      "arxiv_id": null,
+      "doi": "10.1051/sands/2023031",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/drones6050126",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2023.3248841",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3364230",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2017.02.008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Age-of-information minimization for UAV-based multi-view sensing and communication",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2023.3310516",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A survey of energy efficient methods for UAV communication",
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2023.100594",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Cooperative UAV resource allocation and task offloading in hierarchical aerial computing systems: A MAPPO-based approach",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2023.3240173",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10514-021-09995-4",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 14th International Conference on Information, Intelligence, Systems and Applications (IISA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/rob.22075",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2018.2796243",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1177/0278364912455954",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra48506.2021.9561310",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Balancing collective exploration and exploitation in multi-agent and multi-robot systems: A review",
+      "arxiv_id": null,
+      "doi": "10.3389/frobt.2021.771520",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Adaptivity: a path towards general swarm intelligence?",
+      "arxiv_id": null,
+      "doi": "10.3389/frobt.2023.1163185",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Deep reinforcement learning for dynamic sharding in UAV networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.2999083",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s22176381",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2020.2966715",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/su142114473",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom52122.2024.10621374",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)",
+      "arxiv_id": null,
+      "doi": "10.1109/itsc58415.2024.10919532",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2411.11342",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2022.3146938",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2018.2864373",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2018.2864373",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2019.2904353",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Multi-agent reinforcement learning-based coordinated dynamic task allocation for heterogenous UAVs",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2022.3228198",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2942095",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "An object-oriented uav 3d path planning method applied in cultural heritage documentation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2022.3140357",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Journal of Physics: Conference Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2022.3141799",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Operational evaluation of UAV swarm precision strikes with agent based modeling and simulation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Fine-grained trajectory optimization of multiple UAVs for efficient data gathering from WSNs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/drones8020051",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3560261",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2025.3555448",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/rs15133266",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2020 IEEE 6th International Conference on Computer and Communications (ICCC)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Cyber attacks on UAV networks: A comprehensive survey",
+      "arxiv_id": null,
+      "doi": "10.18488/76.v11i1.3636",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s21041108",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107451",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "UAV implementations in urban planning and related sectors of rapidly developing nations: A review and future perspectives for Malaysia",
+      "arxiv_id": null,
+      "doi": "10.3390/rs15112845",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s150714887",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra.2019.8794086",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcst.2011.2167331",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Comparative review of drone simulators",
+      "arxiv_id": null,
+      "doi": "10.20535/2786-8729.4.2024.300614",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Application of unmanned aerial vehicle (UAV) in terrain mapping: Systematic literature review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Density-aware reinforcement learning to optimise energy efficiency in UAV-assisted networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.14358/pers.81.4.281",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Energy-efficient initial deployment and ML-based postdeployment strategy for UAV network with guaranteed QoS",
+      "arxiv_id": null,
+      "doi": "10.1109/taes.2022.3167386",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/rs14164016",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11721-012-0072-5",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/3600270.3601361",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Statistical profile generation for traffic monitoring using real-time UAV based video data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2021.01.003",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2022 IEEE 18th International Conference on e-Science (e-Science)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Decentralized federated learning for UAV networks: Architecture, challenges, and opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Formation control of unmanned aerial vehicle swarms: A comprehensive review",
+      "arxiv_id": null,
+      "doi": "10.1002/asjc.2806",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Overview of path-planning and obstacle avoidance algorithms for UAVs: A comparative study",
+      "arxiv_id": null,
+      "doi": "10.1142/s2301385018400022",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Sampling-based path planning algorithm for a plug and produce environment",
+      "arxiv_id": null,
+      "doi": "10.3390/app132212114",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/rob.21756",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2023 ACM International Symposium on Wearable Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3303848",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "V-REP: A versatile and scalable robot simulation framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2022.102790",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra46639.2022.9812025",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Idrone: Robust drone identification through motion actuation feedback",
+      "arxiv_id": null,
+      "doi": "10.1145/3214283",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "UAV Path Planning Using Optimization Approaches: A Survey: AA Saadi et al.",
+      "arxiv_id": null,
+      "doi": "10.1007/s11831-022-09742-7",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Age of information aware trajectory planning of UAVs in intelligent transportation systems: A deep learning approach",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2020.3023861",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "2016 International Conference on Unmanned Aircraft Systems (ICUAS)",
+      "arxiv_id": null,
+      "doi": "10.1109/icuas.2016.7502669",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jstars.2021.3134948",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icuas.2016.7502591",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2018.2794608",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A novel energy-efficiency framework for UAV-assisted networks using adaptive deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-024-71621-x",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2020.113535",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2021 IEEE 2nd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ccdc.2019.8832890",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2022.05.004",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.robot.2022.104288",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2022.11.020",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dynamic task offloading edge-aware optimization framework for enhanced UAV operations on edge computing platform",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-024-67285-2",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A joint channel allocation and power control scheme for D2D communication in UAV-based networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "R-DFS: A coverage path planning approach based on region optimal decomposition",
+      "arxiv_id": null,
+      "doi": "10.3390/rs13081525",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-022-10281-7",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "UAV coverage path planning under varying power constraints using deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s20020515",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2015 IEEE International Conference on Industrial Technology (ICIT)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Completion time minimization for UAV-enabled surveillance over multiple restricted regions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "An evolutionary algorithm for online, resource-constrained, multivehicle sensing mission planning",
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2018.2794578",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Unmanned aerial vehicle in military operations",
+      "arxiv_id": null,
+      "doi": "10.19062/2247-3173.2016.18.1.26",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Deep reinforcement learning for interference management in UAV-based 3D networks: Potentials and challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2200973",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.2016.7470934",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s20010262",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2503.07278",
+      "doi": "10.2139/ssrn.5564274",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467070",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ensuring threshold AoI for UAV-assisted mobile crowdsensing by multi-agent deep reinforcement learning with transformer",
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2023.3289172",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "IEEE INFOCOM 2024-IEEE Conference on Computer Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/infocom52122.2024.10621375",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/sym13040680",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Development of UAV-based target tracking and recognition systems",
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2019.2927838",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "A survey on security of UAV swarm networks: Attacks and countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/3703625",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s43154-022-00091-8",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adaptive deployment for UAV-aided communication networks",
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2019.2926279",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2025.3591259",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom41043.2020.9155528",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom42981.2021.9488669",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "UAV-assisted data collection for Internet of Things: A survey",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3176903",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2021.3088681",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Joint optimization of beamforming and 3D array steering for multi-antenna UAV communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Heuristic path planning method for multistatic UAV-borne SAR imaging system",
+      "arxiv_id": null,
+      "doi": "10.1109/jstars.2021.3106449",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "iLOCuS: Incentivizing vehicle mobility to optimize sensing distribution in crowd sensing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Latency-aware MIoT service strategy in UAV-assisted dynamic MMEC environment",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3383151",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2026.3669346",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3636534.3694730",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2021.3062008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s23156795",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Energy-efficient UAV backscatter communication with joint trajectory design and resource optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2020.3029225",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.compag.2020.105817",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2017.2777820",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hurricane building damage assessment using post-disaster UAV data",
+      "arxiv_id": null,
+      "doi": "10.1109/igarss.2019.8900477",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Unmanned aerial vehicle path planning based on tlbo algorithm",
+      "arxiv_id": null,
+      "doi": "10.21307/ijssis-2017-707",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Cooperative target fencing control for unmanned aerial vehicle swarm with collision, obstacle avoidance, and connectivity maintenance",
+      "arxiv_id": null,
+      "doi": "10.3390/drones8070317",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icra.2019.8794150",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2019.2952892",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Proceedings of the 34th International Joint Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": null,
+      "arxiv_id": "2605.00946",
+      "doi": "10.1109/tmc.2026.3689715",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Tradeoff between age of information and operation time for UAV sensing over multi-cell cellular networks",
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2023.3267656",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A review of unmanned aerial vehicle low-altitude remote sensing (UAV-LARS) use in agricultural monitoring in China",
+      "arxiv_id": null,
+      "doi": "10.3390/rs13061221",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Three-dimensional path planning of UAVs imaging for complete photogrammetric reconstruction",
+      "arxiv_id": null,
+      "doi": "10.5194/isprs-annals-v-1-2020-325-2020",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/s20226585",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3746027.3755703",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Proceedings of the 2021 China Automation Congress (CAC)",
+      "arxiv_id": null,
+      "doi": "10.1109/cac53003.2021.9728066",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "AGV path planning based on improved artificial potential field method",
+      "arxiv_id": null,
+      "doi": "10.1109/icpeca51329.2021.9362519",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/rs15102632",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A uav photographic path planning method for high-quality reconstruction of cultural heritage",
+      "arxiv_id": null,
+      "doi": "10.5194/isprs-archives-xlviii-1-w1-2023-579-2023",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2026.3651903",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1126/scirobotics.abm5954",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Connectivity-maintenance UAV formation control in complex environment",
+      "arxiv_id": null,
+      "doi": "10.3390/drones7040229",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Using UAV multispectral remote sensing with appropriate spatial resolution and machine learning to monitor wheat scab",
+      "arxiv_id": null,
+      "doi": "10.3390/agriculture12111785",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lra.2022.3154026",
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

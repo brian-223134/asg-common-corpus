@@ -1,0 +1,8 @@
+topic: Generative Artificial Intelligence for Internet of Things Computing
+domain: network
+gt:
+  arxiv_id: null
+  doi: "10.1145/3830013"
+  title: "Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey"
+  published: "2026-08-08"
+notes: "6차: network 보충 — CS-측 하위영역(edge/IoT). 무선-PHY 계열은 OpenAlex field 분류로 universe 밖 실측(D1 17.4%)"

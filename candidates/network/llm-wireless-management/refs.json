@@ -1,0 +1,2066 @@
+{
+  "candidate": {
+    "topic": "Large Language Models for Optimization in Next-Generation Wireless Network Management",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2026.3682137",
+      "title": "Large Language Models for Optimization in Next-Generation Wireless Network Management",
+      "published": "2026-01-01"
+    },
+    "notes": "5차: network(D6). IEEE COMST 2026 — 네트워킹 분야의 CSUR 격 venue. OpenAlex API로 발굴"
+  },
+  "extracted_at": "2026-09-01T03:51:23+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 290,
+    "arxiv_resolvable": 76,
+    "doi_only": 208,
+    "unresolved": 6
+  },
+  "gt_s2": {
+    "paperId": "befea04f9b779fcde46567edd19e0505f68bd1e4",
+    "externalIds": {
+      "DBLP": "journals/comsur/WeiJZLNSLLMYRP26",
+      "DOI": "10.1109/COMST.2026.3682137",
+      "CorpusId": 287310111
+    },
+    "title": "Large Language Models for Optimization in Next-Generation Wireless Network Management: A Survey",
+    "venue": "IEEE Communications Surveys and Tutorials",
+    "year": 2026,
+    "referenceCount": 287,
+    "publicationDate": null
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2023.3274037",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2021.3061701",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3103320",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3521498",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2023.3282363",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/surv.2013.030713.00189",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2018.2867268",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2935098",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2018.2881191",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2023.3292599",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2016.2544751",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsp.2013.2293130",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2960506",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2017.2698366",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2021.3121282",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2024.3380891",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/49.914508",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2021.3128513",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2023.3295804",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2020.3003898",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2019.2936025",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2024.3509739",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2024.3492720",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3408090",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey of large AI models for future communications: Foundations, applications and challenges",
+      "arxiv_id": "2505.03556",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3465447",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3776745",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large language models-empowered wireless networks: Fundamentals, architecture, and challenges",
+      "arxiv_id": "2506.10651",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.23919/jcin.2024.10582827",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icccn65249.2025.11133874",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.001.2400384",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3564333",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3526606",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3527641",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.016.2300547",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Empowering near-field communications in low-altitude economy with LLM: Fundamentals, potentials, solutions, and future directions",
+      "arxiv_id": "2506.17067",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3300664",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large language models for combinatorial optimization: A systematic review",
+      "arxiv_id": "2507.03637",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2021.3079639",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey of linear, integer, and mixed-integer programming approaches for optimizing resource allocation in 5G and beyond networks",
+      "arxiv_id": "2502.15585",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3075563",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2020.3003156",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2025.3552052",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2021.3073036",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2023.3288050",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Foundational challenges in assuring alignment and safety of large language models",
+      "arxiv_id": "2404.09932",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3215919",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.101.2100141",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2025.3558992",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2023.3321538",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "OptiMUS: Scalable optimization modeling with (MI)LP solvers and large language models",
+      "arxiv_id": "2402.10172",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "LLM-OptiRA: LLM-driven optimization of resource allocation for non-convex problems in wireless communications",
+      "arxiv_id": "2505.02091",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Towards better chain-of-thought prompting strategies: A survey",
+      "arxiv_id": "2310.04959",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Automatic chain of thought prompting in large language models",
+      "arxiv_id": "2210.03493",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Chain-of-thought for large language model-empowered wireless communications",
+      "arxiv_id": "2505.22320",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "World models for cognitive agents: Transforming edge intelligence in future networks",
+      "arxiv_id": "2506.00417",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A survey on large language models with some insights on their capabilities and limitations",
+      "arxiv_id": "2501.04040",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3626314",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2020.3016962",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3505617",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Graph reinforcement learning for combinatorial optimization: A survey and unifying perspective",
+      "arxiv_id": "2404.06492",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2020.3024860",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2018.2871020",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2019.2933417",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3191697",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2021.3073570",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.106.2100578",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2021.3071439",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2022.3214075",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3560320",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s42254-024-00770-9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2023.3290748",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3513002",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.001.2300014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcad.2018.2857300",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2022.3216049",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3580859",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2025.3644284",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Wireless large AI model: Shaping the AI-native future of 6G and beyond",
+      "arxiv_id": "2504.14653",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Next-generation Wi-Fi networks with generative AI: Design and insights",
+      "arxiv_id": "2408.04835",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advancing transformer architecture in long-context large language models: A comprehensive survey",
+      "arxiv_id": "2311.12351",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.26615/978-954-452-092-2_069",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Language models are few-shot learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "LoRA: Low-rank adaptation of large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2025.3597815",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/vtc2024-fall63153.2024.10757657",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/068431-1800",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Retrieval-augmented generation for large language models: A survey",
+      "arxiv_id": "2312.10997",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Toward agentic AI: Generative information retrieval inspired intelligent communications and networking",
+      "arxiv_id": "2502.16866",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2025.3532212",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3418900",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2021.3137926",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3568637",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/wcnc61545.2025.10978505",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.103.2100587",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2020.2967882",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Agentic graph neural networks for wireless communications and networking towards edge general intelligence: A survey",
+      "arxiv_id": "2508.08620",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2400428",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2024.3442167",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3528955",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2020.2986024",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2020.2970550",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2025.3642851",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2025.3563892",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.006.2400131",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3603957",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hallucination-aware optimization for large language model-empowered communications",
+      "arxiv_id": "2412.06007",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3353265",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3496491",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-1381",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large language models as optimizers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.2025.3600951",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2025.3588550",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey on human-centric LLMs",
+      "arxiv_id": "2411.14491",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2022.3188013",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2015.2420686",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deep insights into automated optimization with large language models and evolutionary algorithms",
+      "arxiv_id": "2410.20848",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advancing reasoning in large language models: Promising methods and approaches",
+      "arxiv_id": "2502.03671",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2021.3129596",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey of large language models for financial applications: Progress, prospects and challenges",
+      "arxiv_id": "2406.11903",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1080/03155986.2024.2388452",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LLMOPT: Learning to define and solve general optimization problems from scratch",
+      "arxiv_id": "2410.13213",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Promptomatix: An automatic prompt optimization framework for large language models",
+      "arxiv_id": "2507.14241",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DSPy: Compiling declarative language model calls into state-of-the-art pipelines",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2022.3205415",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3773084",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "OptimAI: Optimization from natural language using LLM-powered AI agents",
+      "arxiv_id": "2504.16918",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-95976-9_4",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards foundation models for mixed integer linear programming",
+      "arxiv_id": "2410.08288",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-020-10139-6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.swevo.2019.04.008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-025-11266-y",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lwc.2026.3673381",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ARS: Automatic routing solver with large language models",
+      "arxiv_id": "2502.15359",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3731567",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2020.2994998",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3565287.3610258",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2023.3233988",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cvpr52733.2024.01393",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tlt.2023.3324714",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2026.3668214",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Meta prompting for AI systems",
+      "arxiv_id": "2311.11482",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2017.2769644",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey on human preference learning for large language models",
+      "arxiv_id": "2406.11191",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RLTHF: Targeted human feedback for LLM alignment",
+      "arxiv_id": "2502.13417",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3789261",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3233/faia250996",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2021.3060514",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Zero-shot verification-guided chain of thoughts",
+      "arxiv_id": "2501.13122",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Not all votes count! Programs as verifiers improve self-consistency of language models for math reasoning",
+      "arxiv_id": "2410.12608",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Wireless multi-agent generative AI: From connected intelligence to collective intelligence",
+      "arxiv_id": "2307.02757",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "OMAC: A broad optimization framework for LLM-based multi-agent collaboration",
+      "arxiv_id": "2505.11765",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Heterogeneous group-based reinforcement learning for LLM-based multi-agent systems",
+      "arxiv_id": "2506.02718",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.findings-acl.601",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Agentic satellite-augmented low-altitude economy and terrestrial networks: A survey on generative approaches",
+      "arxiv_id": "2507.14633",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2017.2696001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2021.3088662",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.45",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.findings-emnlp.167",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3190523",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s12532-024-00255-x",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2010.070710.090487",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom41043.2020.9155490",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infcom.2012.6195680",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsp.2011.2147784",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2024.3459037",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LAMeTA: Intent-aware agentic network optimization via a large AI model-empowered two-stage approach",
+      "arxiv_id": "2505.12247",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.emnlp-main.682",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "TPTU: Large language model-based AI agents for task planning and tool usage",
+      "arxiv_id": "2308.03427",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3565588",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Aerial active STAR-RIS-assisted satellite-terrestrial covert communications",
+      "arxiv_id": "2504.16146",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2023.3327596",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2015.2416982",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2959193",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2016.2541172",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2015.2450774",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2025.3612760",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Reinforced reasoning for embodied planning",
+      "arxiv_id": "2505.22050",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Exploring synaptic resonance in large language models: A novel approach to contextual memory integration",
+      "arxiv_id": "2502.10699",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2025.3528116",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.patter.2025.101260",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A systematic survey of prompt engineering in large language models: Techniques and applications",
+      "arxiv_id": "2402.07927",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Deep research agents: A systematic examination and roadmap",
+      "arxiv_id": "2506.18096",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Synergizing RAG and reasoning: A systematic review",
+      "arxiv_id": "2504.15909",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A comprehensive survey in LLM(-Agent) full stack safety: Data, training and deployment",
+      "arxiv_id": "2504.15585",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2400774",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3711896.3736923",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "TrajEvo: Designing trajectory prediction heuristics via LLM-driven evolution",
+      "arxiv_id": "2505.04480",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ACCORD: Autoregressive constraint-satisfying generation for combinatorial optimization with routing and dynamic attention",
+      "arxiv_id": "2506.11052",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "PARCO: Parallel AutoRegressive models for multi-agent combinatorial optimization",
+      "arxiv_id": "2409.03811",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iros58592.2024.10801914",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "RRNCO: Towards real-world routing with neural combinatorial optimization",
+      "arxiv_id": "2503.16159",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v40i39.40596",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization",
+      "arxiv_id": "2506.07972",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "RL4CO: An extensive reinforcement learning for combinatorial optimization benchmark",
+      "arxiv_id": "2306.17100",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2021.3072593",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2015.2441060",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3296160",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lwc.2024.3357971",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Wireless agentic ai with retrieval-augmented multimodal semantic perception",
+      "arxiv_id": "2505.23275",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/math13122014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2023.3324729",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2018.2793237",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2020.3028247",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3586183.3606763",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3401159",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpami.2025.3584698",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.008.00353",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Retrieval-augmented generation for knowledge-intensive NLP tasks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3391767",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.011.2200310",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Slot: Structuring the output of large language models",
+      "arxiv_id": "2505.04016",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3241539.3241570",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2025.3582864",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2019.2906622",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2020.3014939",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2400685",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infcom.2012.6195689",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3012835",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2024.3522153",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2023.3271411",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2025.3541078",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3471671",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LLM-Land: Large language models for context-aware drone landing",
+      "arxiv_id": "2505.06399",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2025.3647029",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large language model-enhanced reinforcement learning for low-altitude economy networking",
+      "arxiv_id": "2505.21045",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2017.2688328",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hierarchical and collaborative LLM-based control for multi-UAV motion and communication in integrated terrestrial and non-terrestrial networks",
+      "arxiv_id": "2506.06532",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-3986",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2020.3041750",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lwc.2025.3529082",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2022.3204438",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3191937",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2022.3205692",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2023.3331021",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2024.3465375",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2025.3642227",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2024.3397799",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3371172",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2025.3553843",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2024.3516479",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/lwc.2022.3196408",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocomwkshps54753.2022.9798257",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3579713",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Optimizing generative AI networking: A dual perspective with multi-agent systems and mixture of experts",
+      "arxiv_id": "2405.12472",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3572440",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3519664",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3575041",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2021.3118397",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2022.3178171",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2023.3253721",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3545254",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3446585",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3768165",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large-scale ai in telecom: Charting the roadmap for innovation, scalability, and enhanced digital experiences",
+      "arxiv_id": "2503.04184",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3589339",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey of hallucination mitigation techniques in large language models",
+      "arxiv_id": "2401.01313",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.findings-ijcnlp.3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/gcwkshp64532.2024.11101012",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ChatQA 2: Bridging the gap to proprietary LLMs in long context and rag capabilities",
+      "arxiv_id": "2407.14482",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Large language model agent: A survey on methodology, applications and challenges",
+      "arxiv_id": "2503.21460",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Large language model enabled multi-task physical layer network",
+      "arxiv_id": "2412.20772",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "From standalone LLMs to integrated intelligence: A survey of compound al systems",
+      "arxiv_id": "2506.04565",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DeLLMa: Decision making under uncertainty with large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Do LLMs estimate uncertainty well in instruction-following?",
+      "arxiv_id": "2410.14582",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3220504",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3578877",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-1319",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0950",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LLM pruning and distillation in practice: The minitron approach",
+      "arxiv_id": "2408.11796",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Efficient reasoning models: A survey",
+      "arxiv_id": "2504.10903",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Spinquant: LLM quantization with learned rotations",
+      "arxiv_id": "2405.16406",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3542490",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2922668",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.ait.2025.100004",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-3457",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2025.3647412",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The evolving role of large language models in scientific innovation: Evaluator, collaborator, and scientist",
+      "arxiv_id": "2507.11810",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2025.3569555",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more",
+      "arxiv_id": "2407.16216",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Co-CoT: A prompt-based framework for collaborative chain-of-thought reasoning",
+      "arxiv_id": "2504.17091",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/075280-1580",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cvpr52733.2024.01310",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Retrieval augmented generation (RAG) and beyond: A comprehensive survey on how to make your LLMs use external data more wisely",
+      "arxiv_id": "2409.14924",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3534617",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Generative AI in transportation planning: A survey",
+      "arxiv_id": "2503.07158",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnnls.2022.3190068",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2024.3453069",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LoRA-Pro: Are low-rank adapters properly optimized?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2022.3191746",
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+topic: Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing
+domain: network
+gt:
+  arxiv_id: null
+  doi: "10.1145/3797911"
+  title: "Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing: State-of-the-Art and Future Directions"
+  published: "2026-05-15"
+notes: "6차: network 보충 — CS-측 하위영역(edge/IoT). 무선-PHY 계열은 OpenAlex field 분류로 universe 밖 실측(D1 17.4%)"

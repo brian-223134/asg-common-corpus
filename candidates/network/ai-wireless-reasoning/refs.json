@@ -1,0 +1,1444 @@
+{
+  "candidate": {
+    "topic": "AI Reasoning for Wireless Communications and Networking",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3811822",
+      "title": "AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives",
+      "published": "2026-06-24"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:51:06+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 201,
+    "arxiv_resolvable": 111,
+    "doi_only": 52,
+    "unresolved": 38
+  },
+  "gt_s2": {
+    "paperId": "4b5c2f7a39f456e98c5dc8ae2f0a6910cc3273d5",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2509-09193",
+      "ArXiv": "2509.09193",
+      "DOI": "10.1145/3811822",
+      "CorpusId": 281252023
+    },
+    "title": "AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 201,
+    "publicationDate": "2025-09-11"
+  },
+  "refs": [
+    {
+      "title": "Adaptive Contextual Caching for Mobile-Edge Large Language Model Service: A Proposed Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/mvt.2025.3608414",
+      "publicationDate": "2026-06-01",
+      "year": 2026
+    },
+    {
+      "title": "Hallucination-Aware Optimization for Large Language Model-Empowered Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2400688",
+      "publicationDate": "2026-03-01",
+      "year": 2026
+    },
+    {
+      "title": "Ultra lightweight post-quantum resistant 5G-AKA protocol",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2025.111444",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Design Patterns for Large Language Model Based Neuro-Symbolic Systems",
+      "arxiv_id": null,
+      "doi": "10.1177/29498732251377499",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Toward Edge General Intelligence With Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration",
+      "arxiv_id": "2507.00672",
+      "doi": "10.1109/TCCN.2025.3612760",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "ChatModel: Automating Reference Model Design and Verification with LLMs",
+      "arxiv_id": "2506.15066",
+      "doi": "10.48550/arXiv.2506.15066",
+      "publicationDate": "2025-06-18",
+      "year": 2025
+    },
+    {
+      "title": "Hybrid Optimization and Case-Based Reasoning Framework for IoT Task Offloading in Cloud Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3546596",
+      "publicationDate": "2025-06-15",
+      "year": 2025
+    },
+    {
+      "title": "Beyond Classification: Towards Speech Emotion Reasoning with Multitask AudioLLMs",
+      "arxiv_id": "2506.06820",
+      "doi": "10.48550/arXiv.2506.06820",
+      "publicationDate": "2025-06-07",
+      "year": 2025
+    },
+    {
+      "title": "Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques",
+      "arxiv_id": "2506.06579",
+      "doi": "10.48550/arXiv.2506.06579",
+      "publicationDate": "2025-06-06",
+      "year": 2025
+    },
+    {
+      "title": "Joint User Association and Beamforming Design for ISAC Networks With Large Language Models",
+      "arxiv_id": "2506.05637",
+      "doi": "10.1109/OJCOMS.2025.3606812",
+      "publicationDate": "2025-06-05",
+      "year": 2025
+    },
+    {
+      "title": "ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing",
+      "arxiv_id": "2506.00576",
+      "doi": "10.48550/arXiv.2506.00576",
+      "publicationDate": "2025-05-31",
+      "year": 2025
+    },
+    {
+      "title": "Rationales Are Not Silver Bullets: Measuring the Impact of Rationales on Model Performance and Reliability",
+      "arxiv_id": "2505.24147",
+      "doi": "10.48550/arXiv.2505.24147",
+      "publicationDate": "2025-05-30",
+      "year": 2025
+    },
+    {
+      "title": "Chain-of-Thought for Large Language Model-empowered Wireless Communications",
+      "arxiv_id": "2505.22320",
+      "doi": "10.48550/arXiv.2505.22320",
+      "publicationDate": "2025-05-28",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Driven APT Detection for 6G Wireless Networks: A Systematic Review and Taxonomy",
+      "arxiv_id": "2505.18846",
+      "doi": "10.1109/ACCESS.2025.3595665",
+      "publicationDate": "2025-05-24",
+      "year": 2025
+    },
+    {
+      "title": "Maintainability and Scalability in Machine Learning: Challenges and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1145/3736751",
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "LAMeTA: Intent-Aware Agentic Network Optimization via a Large AI Model-Empowered Two-Stage Approach",
+      "arxiv_id": "2505.12247",
+      "doi": "10.1109/JSAC.2025.3642840",
+      "publicationDate": "2025-05-18",
+      "year": 2025
+    },
+    {
+      "title": "A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network",
+      "arxiv_id": "2505.05103",
+      "doi": "10.1109/TCCN.2025.3620286",
+      "publicationDate": "2025-05-08",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model-Driven Security Assistant for Internet of Things via Chain-of-Thought",
+      "arxiv_id": "2505.06307",
+      "doi": "10.1109/JIOT.2025.3577675",
+      "publicationDate": "2025-05-08",
+      "year": 2025
+    },
+    {
+      "title": "Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models",
+      "arxiv_id": "2505.04921",
+      "doi": "10.48550/arXiv.2505.04921",
+      "publicationDate": "2025-05-07",
+      "year": 2025
+    },
+    {
+      "title": "A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications, and Challenges",
+      "arxiv_id": "2505.03556",
+      "doi": "10.1109/COMST.2026.3660844",
+      "publicationDate": "2025-05-06",
+      "year": 2025
+    },
+    {
+      "title": "A Trustworthy Multi-LLM Network: Challenges,Solutions, and A Use Case",
+      "arxiv_id": "2505.03196",
+      "doi": "10.48550/arXiv.2505.03196",
+      "publicationDate": "2025-05-06",
+      "year": 2025
+    },
+    {
+      "title": "Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents",
+      "arxiv_id": "2505.03434",
+      "doi": "10.1145/3708319.3734172",
+      "publicationDate": "2025-05-06",
+      "year": 2025
+    },
+    {
+      "title": "UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces",
+      "arxiv_id": "2505.00472",
+      "doi": "10.48550/arXiv.2505.00472",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "KlonetAI: Automating (Com)2Nets Management With Human Language Intents",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3507801",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Using LLMs in Generating Design Rationale for Software Architecture Decisions",
+      "arxiv_id": "2504.20781",
+      "doi": "10.1145/3785010",
+      "publicationDate": "2025-04-29",
+      "year": 2025
+    },
+    {
+      "title": "From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review",
+      "arxiv_id": "2504.19678",
+      "doi": "10.1109/ACCESS.2026.3698694",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+      "arxiv_id": "2504.13837",
+      "doi": "10.48550/arXiv.2504.13837",
+      "publicationDate": "2025-04-18",
+      "year": 2025
+    },
+    {
+      "title": "A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook",
+      "arxiv_id": null,
+      "doi": "10.1145/3729218",
+      "publicationDate": "2025-04-11",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Enabled Data Transmission in End-to-End Semantic Communication",
+      "arxiv_id": "2504.07431",
+      "doi": "10.1109/ISCC65549.2025.11326061",
+      "publicationDate": "2025-04-10",
+      "year": 2025
+    },
+    {
+      "title": "Flexible WMMSE Beamforming for MU-MIMO Movable Antenna Communications",
+      "arxiv_id": "2503.17718",
+      "doi": "10.1109/TSP.2025.3625145",
+      "publicationDate": "2025-03-22",
+      "year": 2025
+    },
+    {
+      "title": "Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation",
+      "arxiv_id": "2503.16893",
+      "doi": "10.48550/arXiv.2503.16893",
+      "publicationDate": "2025-03-21",
+      "year": 2025
+    },
+    {
+      "title": "Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM",
+      "arxiv_id": "2503.10071",
+      "doi": "10.1109/SOSE67019.2025.00012",
+      "publicationDate": "2025-03-13",
+      "year": 2025
+    },
+    {
+      "title": "LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL",
+      "arxiv_id": "2503.07536",
+      "doi": "10.48550/arXiv.2503.07536",
+      "publicationDate": "2025-03-10",
+      "year": 2025
+    },
+    {
+      "title": "Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments",
+      "arxiv_id": "2503.07670",
+      "doi": "10.1109/ICCWorkshops67674.2025.11162457",
+      "publicationDate": "2025-03-09",
+      "year": 2025
+    },
+    {
+      "title": "Multi-agent reinforcement learning based dynamic self-coordinated topology optimization for wireless mesh networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2025.104177",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "ACCORD: Application Context-Aware Cross-Layer Optimization and Resource Design for 5G/Nextg Machine-Centric Applications",
+      "arxiv_id": "2502.20320",
+      "doi": "10.1109/ICC52391.2025.11162008",
+      "publicationDate": "2025-02-27",
+      "year": 2025
+    },
+    {
+      "title": "Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs",
+      "arxiv_id": "2502.19411",
+      "doi": "10.48550/arXiv.2502.19411",
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble",
+      "arxiv_id": "2502.18036",
+      "doi": "10.48550/arXiv.2502.18036",
+      "publicationDate": "2025-02-25",
+      "year": 2025
+    },
+    {
+      "title": "Combining Heuristic and Reinforcement Learning to Achieve the Low-latency and High-throughput Receiver-side Congestion Control",
+      "arxiv_id": "2502.16498",
+      "doi": "10.48550/arXiv.2502.16498",
+      "publicationDate": "2025-02-23",
+      "year": 2025
+    },
+    {
+      "title": "An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning",
+      "arxiv_id": "2502.16198",
+      "doi": "10.1109/MCOM.001.2400526",
+      "publicationDate": "2025-02-22",
+      "year": 2025
+    },
+    {
+      "title": "ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates",
+      "arxiv_id": "2502.06772",
+      "doi": "10.48550/arXiv.2502.06772",
+      "publicationDate": "2025-02-10",
+      "year": 2025
+    },
+    {
+      "title": "Adapting Network Information into Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis",
+      "arxiv_id": "2501.16842",
+      "doi": null,
+      "publicationDate": "2025-01-28",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model-Based Semantic Communication System for Image Transmission",
+      "arxiv_id": "2501.12988",
+      "doi": null,
+      "publicationDate": "2025-01-22",
+      "year": 2025
+    },
+    {
+      "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+      "arxiv_id": "2501.12948",
+      "doi": "10.1038/s41586-025-09422-z",
+      "publicationDate": "2025-01-22",
+      "year": 2025
+    },
+    {
+      "title": "Adaptive Contextual Caching for Mobile Edge Large Language Model Service",
+      "arxiv_id": "2501.09383",
+      "doi": "10.48550/arXiv.2501.09383",
+      "publicationDate": "2025-01-16",
+      "year": 2025
+    },
+    {
+      "title": "A cache-aware congestion control mechanism using deep reinforcement learning for wireless sensor networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2024.103678",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Overview of AI and communication for 6G network: fundamentals, challenges, and future research opportunities",
+      "arxiv_id": "2412.14538",
+      "doi": "10.1007/s11432-024-4337-1",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "PickLLM: Context-Aware RL-Assisted Large Language Model Routing",
+      "arxiv_id": "2412.12170",
+      "doi": "10.48550/arXiv.2412.12170",
+      "publicationDate": "2024-12-12",
+      "year": 2024
+    },
+    {
+      "title": "Theory Is All You Need: AI, Human Cognition, and Causal Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1287/stsc.2024.0189",
+      "publicationDate": "2024-12-03",
+      "year": 2024
+    },
+    {
+      "title": "A knowledge graph-based reinforcement learning approach for cooperative caching in MEC-enabled heterogeneous networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcan.2024.12.006",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Map-Driven mmWave Link Quality Prediction With Spatial-Temporal Mobility Awareness",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3406728",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "AI-Driven 5G Network Optimization: A Comprehensive Review of Resource Allocation, Traffic Management, and Dynamic Network Slicing",
+      "arxiv_id": null,
+      "doi": "10.11648/j.ajai.20240802.14",
+      "publicationDate": "2024-11-28",
+      "year": 2024
+    },
+    {
+      "title": "On-demand and Parallel Checkpoint/Restore for GPU Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698510",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Objective DAG Task Offloading in MEC Environment Based on Federated DQN With Automated Hyperparameter Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2024.3478841",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "CausAdv: A Causal-based Framework for Detecting Adversarial Examples",
+      "arxiv_id": "2411.00839",
+      "doi": "10.48550/arXiv.2411.00839",
+      "publicationDate": "2024-10-29",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models for Wireless Networks: An Overview from the Prompt Engineering Perspective",
+      "arxiv_id": "2411.04136",
+      "doi": "10.1109/MWC.001.2400384",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases",
+      "arxiv_id": "2410.14594",
+      "doi": "10.48550/arXiv.2410.14594",
+      "publicationDate": "2024-10-18",
+      "year": 2024
+    },
+    {
+      "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+      "arxiv_id": "2410.10813",
+      "doi": "10.48550/arXiv.2410.10813",
+      "publicationDate": "2024-10-14",
+      "year": 2024
+    },
+    {
+      "title": "ENWAR: A RAG-Empowered Multi-Modal LLM Framework for Wireless Environment Perception",
+      "arxiv_id": "2410.18104",
+      "doi": "10.1109/MCOM.001.2500261",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "A Review on Edge Large Language Models: Design, Execution, and Applications",
+      "arxiv_id": "2410.11845",
+      "doi": "10.1145/3719664",
+      "publicationDate": "2024-09-29",
+      "year": 2024
+    },
+    {
+      "title": "Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation",
+      "arxiv_id": "2409.07355",
+      "doi": "10.1145/3706598.3713181",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "iToT: An Interactive System for Customized Tree-of-Thought Generation",
+      "arxiv_id": "2409.00413",
+      "doi": "10.48550/arXiv.2409.00413",
+      "publicationDate": "2024-08-31",
+      "year": 2024
+    },
+    {
+      "title": "Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems",
+      "arxiv_id": "2508.12375",
+      "doi": "10.1145/3637528.3671610",
+      "publicationDate": "2024-08-24",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI Based Secure Wireless Sensing for ISAC Networks",
+      "arxiv_id": "2408.11398",
+      "doi": "10.1109/TIFS.2025.3570202",
+      "publicationDate": "2024-08-21",
+      "year": 2024
+    },
+    {
+      "title": "Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks",
+      "arxiv_id": "2408.05776",
+      "doi": "10.1109/MWC.001.2400245",
+      "publicationDate": "2024-08-11",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-Context Learning",
+      "arxiv_id": "2408.02549",
+      "doi": "10.1109/LWC.2024.3520995",
+      "publicationDate": "2024-08-05",
+      "year": 2024
+    },
+    {
+      "title": "GeNet: A Multimodal LLM-Based Co-Pilot for Network Topology and Configuration",
+      "arxiv_id": "2407.08249",
+      "doi": "10.1109/ICDCSW63273.2025.00026",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing network resource allocation with graph pointer neural network in large-scale AI systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcan.2024.07.007",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Think out Loud: Emotion Deducing Explanation in Dialogues",
+      "arxiv_id": "2406.04758",
+      "doi": "10.48550/arXiv.2406.04758",
+      "publicationDate": "2024-06-07",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks",
+      "arxiv_id": "2406.00408",
+      "doi": null,
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "BC4LLM: A perspective of trusted artificial intelligence when blockchain meets large language models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2024.128089",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Energy-minimizing workload splitting and frequency selection for guaranteed performance over heterogeneous cores",
+      "arxiv_id": null,
+      "doi": "10.1145/3632775.3661968",
+      "publicationDate": "2024-05-31",
+      "year": 2024
+    },
+    {
+      "title": "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence",
+      "arxiv_id": "2405.17053",
+      "doi": "10.48550/arXiv.2405.17053",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Artificial Intelligence in Point-of-Care Biosensing: Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.3390/diagnostics14111100",
+      "publicationDate": "2024-05-25",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities",
+      "arxiv_id": "2405.10825",
+      "doi": "10.1109/COMST.2024.3465447",
+      "publicationDate": "2024-05-17",
+      "year": 2024
+    },
+    {
+      "title": "MoDE-CoTD: Chain-of-Thought Distillation for Complex Reasoning Tasks with Mixture of Decoupled LoRA-Experts",
+      "arxiv_id": null,
+      "doi": "10.63317/2rxtcdyfrcxn",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation",
+      "arxiv_id": "2404.11858",
+      "doi": "10.1109/MWC.006.2400131",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on the Integration of Generative AI for Critical Thinking in Mobile Networks",
+      "arxiv_id": "2404.06946",
+      "doi": "10.48550/arXiv.2404.06946",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "Black-box Adversarial Transferability: An Empirical Study in Cybersecurity Perspective",
+      "arxiv_id": "2404.10796",
+      "doi": "10.1016/j.cose.2024.103853",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "NetConfEval: Can LLMs Facilitate Network Configuration?",
+      "arxiv_id": null,
+      "doi": "10.1145/3656296",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Closed-form congestion control via deep symbolic regression",
+      "arxiv_id": "2405.01435",
+      "doi": "10.48550/arXiv.2405.01435",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models meet Network Slicing Management and Orchestration",
+      "arxiv_id": "2403.13721",
+      "doi": "10.48550/arXiv.2403.13721",
+      "publicationDate": "2024-03-20",
+      "year": 2024
+    },
+    {
+      "title": "The Road to Next-Generation Multiple Access: A 50-Year Tutorial Review",
+      "arxiv_id": "2403.00189",
+      "doi": "10.1109/JPROC.2024.3476675",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?",
+      "arxiv_id": "2402.18272",
+      "doi": "10.48550/arXiv.2402.18272",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement",
+      "arxiv_id": "2402.11436",
+      "doi": "10.18653/v1/2024.acl-long.826",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks",
+      "arxiv_id": "2402.08115",
+      "doi": "10.48550/arXiv.2402.08115",
+      "publicationDate": "2024-02-12",
+      "year": 2024
+    },
+    {
+      "title": "Distilling mathematical reasoning capabilities into Small Language Models",
+      "arxiv_id": "2401.11864",
+      "doi": "10.1016/j.neunet.2024.106594",
+      "publicationDate": "2024-01-22",
+      "year": 2024
+    },
+    {
+      "title": "Interactive AI With Retrieval-Augmented Generation for Next Generation Networking",
+      "arxiv_id": "2401.11391",
+      "doi": "10.1109/MNET.2024.3401159",
+      "publicationDate": "2024-01-21",
+      "year": 2024
+    },
+    {
+      "title": "When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment",
+      "arxiv_id": "2401.07764",
+      "doi": "10.1109/MWC.005.2400019",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "Edge-enabled anomaly detection and information completion for social network knowledge graphs",
+      "arxiv_id": "2401.07022",
+      "doi": "10.1007/s11276-024-03671-y",
+      "publicationDate": "2024-01-13",
+      "year": 2024
+    },
+    {
+      "title": "Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning",
+      "arxiv_id": "2401.06805",
+      "doi": "10.48550/arXiv.2401.06805",
+      "publicationDate": "2024-01-10",
+      "year": 2024
+    },
+    {
+      "title": "Know Your Needs Better: Towards Structured Understanding of Marketer Demands with Analogical Reasoning Augmented LLMs",
+      "arxiv_id": "2401.04319",
+      "doi": "10.1145/3637528.3671583",
+      "publicationDate": "2024-01-09",
+      "year": 2024
+    },
+    {
+      "title": "ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent",
+      "arxiv_id": "2312.10003",
+      "doi": "10.48550/arXiv.2312.10003",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-Enabled Wireless Blockchain Consensus",
+      "arxiv_id": "2312.08899",
+      "doi": "10.1109/TNET.2024.3462539",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "Bandwidth abstraction and service rate instantiation for latency-bounded reliability provisioning in 5th generation wireless networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2023.12.017",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "LibPressio-Predict: Flexible and Fast Infrastructure For Inferring Compression Performance",
+      "arxiv_id": null,
+      "doi": "10.1145/3624062.3625124",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving",
+      "arxiv_id": "2310.05885",
+      "doi": "10.1109/ICRA57147.2024.10610550",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI for Integrated Sensing and Communication: Insights From the Physical Layer Perspective",
+      "arxiv_id": "2310.01036",
+      "doi": "10.1109/MWC.013.2300485",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Causal Reasoning: Charting a Revolutionary Course for Next-Generation AI-Native Wireless Networks",
+      "arxiv_id": "2309.13223",
+      "doi": "10.1109/MVT.2024.3359357",
+      "publicationDate": "2023-09-23",
+      "year": 2023
+    },
+    {
+      "title": "What do LLMs need to Synthesize Correct Router Configurations?",
+      "arxiv_id": "2307.04945",
+      "doi": "10.1145/3626111.3628194",
+      "publicationDate": "2023-07-11",
+      "year": 2023
+    },
+    {
+      "title": "CONFPILOT: A Pilot for Faster Configuration by Learning from Device Manuals",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS57875.2023.00077",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "AdaPlanner: Adaptive Planning from Feedback with Language Models",
+      "arxiv_id": "2305.16653",
+      "doi": "10.48550/arXiv.2305.16653",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning",
+      "arxiv_id": "2305.14045",
+      "doi": "10.48550/arXiv.2305.14045",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+      "arxiv_id": "2305.10601",
+      "doi": "10.48550/arXiv.2305.10601",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "PPO-ABR: Proximal Policy Optimization based Deep Reinforcement Learning for Adaptive BitRate streaming",
+      "arxiv_id": "2305.08114",
+      "doi": "10.1109/IWCMC58020.2023.10182379",
+      "publicationDate": "2023-05-14",
+      "year": 2023
+    },
+    {
+      "title": "Structured Chain-of-Thought Prompting for Code Generation",
+      "arxiv_id": "2305.06599",
+      "doi": "10.1145/3690635",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "HARQ Delay Minimization of 5G Wireless Network with Imperfect Feedback",
+      "arxiv_id": "2305.02948",
+      "doi": "10.1109/ICASSP49357.2023.10095827",
+      "publicationDate": "2023-05-04",
+      "year": 2023
+    },
+    {
+      "title": "Wireless Distributed Consensus for Connected Autonomous Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3229746",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "ESCM: An Efficient and Secure Communication Mechanism for UAV Networks",
+      "arxiv_id": "2304.13244",
+      "doi": "10.1109/TNSM.2024.3357824",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Performance Analysis and Comparison of Nonideal Wireless PBFT and RAFT Consensus Networks in 6G Communications",
+      "arxiv_id": "2304.08697",
+      "doi": "10.1109/JIOT.2023.3323492",
+      "publicationDate": "2023-04-18",
+      "year": 2023
+    },
+    {
+      "title": "Deep Reinforcement Learning with Importance Weighted A3C for QoE enhancement in Video Delivery Services",
+      "arxiv_id": "2304.04527",
+      "doi": "10.1109/WoWMoM57956.2023.00024",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+      "arxiv_id": "2303.17651",
+      "doi": "10.48550/arXiv.2303.17651",
+      "publicationDate": "2023-03-30",
+      "year": 2023
+    },
+    {
+      "title": "Natural Language Reasoning, A Survey",
+      "arxiv_id": "2303.14725",
+      "doi": "10.1145/3664194",
+      "publicationDate": "2023-03-26",
+      "year": 2023
+    },
+    {
+      "title": "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action",
+      "arxiv_id": "2303.11381",
+      "doi": "10.48550/arXiv.2303.11381",
+      "publicationDate": "2023-03-20",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Investigation on Multi-User Interference Effects in Vehicular Visible Light Communications",
+      "arxiv_id": null,
+      "doi": "10.3390/s23052553",
+      "publicationDate": "2023-02-24",
+      "year": 2023
+    },
+    {
+      "title": "Neurosymbolic AI for Reasoning Over Knowledge Graphs: A Survey",
+      "arxiv_id": "2302.07200",
+      "doi": "10.1109/TNNLS.2024.3420218",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey",
+      "arxiv_id": "2302.02515",
+      "doi": "10.1145/3649448",
+      "publicationDate": "2023-02-06",
+      "year": 2023
+    },
+    {
+      "title": "The Science of Detecting LLM-Generated Text",
+      "arxiv_id": "2303.07205",
+      "doi": "10.1145/3624725",
+      "publicationDate": "2023-02-04",
+      "year": 2023
+    },
+    {
+      "title": "Neuro-Symbolic Causal Reasoning Meets Signaling Game for Emergent Semantic Communications",
+      "arxiv_id": "2210.12040",
+      "doi": "10.1109/TWC.2023.3319981",
+      "publicationDate": "2022-10-21",
+      "year": 2022
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Resource allocation for network slicing in dynamic multi-tenant networks: A deep reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2022.09.015",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Large Language Models are Zero-Shot Reasoners",
+      "arxiv_id": "2205.11916",
+      "doi": "10.52202/068431-1613",
+      "publicationDate": "2022-05-24",
+      "year": 2022
+    },
+    {
+      "title": "Neuro-Symbolic Artificial Intelligence (AI) for Intent based Semantic Communication",
+      "arxiv_id": "2205.10768",
+      "doi": "10.1109/GLOBECOM48099.2022.10001097",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "Zero Day Threat Detection Using Graph and Flow Based Security Telemetry",
+      "arxiv_id": "2205.02298",
+      "doi": "10.1109/ICCCIS56430.2022.10037596",
+      "publicationDate": "2022-05-04",
+      "year": 2022
+    },
+    {
+      "title": "STaR: Bootstrapping Reasoning With Reasoning",
+      "arxiv_id": "2203.14465",
+      "doi": null,
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Graph Neural Networks for Wireless Communications: From Theory to Practice",
+      "arxiv_id": "2203.10800",
+      "doi": "10.1109/TWC.2022.3219840",
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "TCP-WBQ: a backlog-queue-based congestion control mechanism for heterogeneous wireless networks",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-022-07276-3",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Life-long Learning for Reasoning-based Semantic Communication",
+      "arxiv_id": "2202.01952",
+      "doi": "10.1109/iccworkshops53468.2022.9814575",
+      "publicationDate": "2022-02-04",
+      "year": 2022
+    },
+    {
+      "title": "Routing optimization meets Machine Intelligence: A perspective for the future network",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2021.06.093",
+      "publicationDate": "2021-10-07",
+      "year": 2021
+    },
+    {
+      "title": "Wireless edge caching based on content similarity in dynamic environments",
+      "arxiv_id": null,
+      "doi": "10.1016/J.SYSARC.2021.102000",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Decentralized Inference With Graph Neural Networks in Wireless Communication Systems",
+      "arxiv_id": "2104.09027",
+      "doi": "10.1109/TMC.2021.3125793",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Transfer Learning for Wireless Networks: A Comprehensive Survey",
+      "arxiv_id": "2102.07572",
+      "doi": "10.1109/JPROC.2022.3175942",
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Neural Network Interpretability",
+      "arxiv_id": "2012.14261",
+      "doi": "10.1109/TETCI.2021.3100641",
+      "publicationDate": "2020-12-28",
+      "year": 2020
+    },
+    {
+      "title": "Comparison between Automatic Repeat Request (ARQ) Protocols and solving the Buffer Problem",
+      "arxiv_id": null,
+      "doi": "10.1109/CSCI51800.2020.00040",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Cooperative Multi-Agent Reinforcement Learning with Hierarchical Relation Graph under Partial Observability",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTAI50040.2020.00011",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "arxiv_id": "2005.11401",
+      "doi": null,
+      "publicationDate": "2020-05-22",
+      "year": 2020
+    },
+    {
+      "title": "Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40000.2020.00031",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Self-organizing topology for energy-efficient ad-hoc communication networks of mobile devices",
+      "arxiv_id": null,
+      "doi": "10.21203/rs.3.rs-16912/v1",
+      "publicationDate": "2020-03-12",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks",
+      "arxiv_id": "2002.11045",
+      "doi": "10.1109/MNET.011.1900630",
+      "publicationDate": "2020-02-22",
+      "year": 2020
+    },
+    {
+      "title": "Combination of Ultra-Dense Networks and Other 5G Enabling Technologies: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2969980",
+      "publicationDate": "2020-01-28",
+      "year": 2020
+    },
+    {
+      "title": "Topology Aware Deep Learning for Wireless Network Optimization",
+      "arxiv_id": "1912.08336",
+      "doi": "10.1109/TWC.2022.3179352",
+      "publicationDate": "2019-12-18",
+      "year": 2019
+    },
+    {
+      "title": "Performance of Feature-Based Techniques for Automatic Digital Modulation Recognition and Classification—A Review",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics8121407",
+      "publicationDate": "2019-11-26",
+      "year": 2019
+    },
+    {
+      "title": "Scheduling for Multi-User Multi-Input Multi-Output Wireless Networks with Priorities and Deadlines",
+      "arxiv_id": null,
+      "doi": "10.3390/FI11080172",
+      "publicationDate": "2019-08-05",
+      "year": 2019
+    },
+    {
+      "title": "Look-Up Table Based Implementation of Ultra-Low Complexity Narrowband OFDM Transmitters",
+      "arxiv_id": null,
+      "doi": "10.1109/ISWCS.2019.8877309",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "A new efficient error control algorithm for wireless sensor networks in smart grid",
+      "arxiv_id": null,
+      "doi": "10.1016/J.CSI.2018.11.006",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning",
+      "arxiv_id": "1812.01628",
+      "doi": "10.18653/v1/N19-1358",
+      "publicationDate": "2018-12-04",
+      "year": 2018
+    },
+    {
+      "title": "A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective",
+      "arxiv_id": "1811.03402",
+      "doi": "10.1109/TKDE.2019.2946162",
+      "publicationDate": "2018-11-08",
+      "year": 2018
+    },
+    {
+      "title": "Link Adaptation Using Dynamically Allocated Thresholds and Power Control",
+      "arxiv_id": null,
+      "doi": "10.1007/s11277-018-5908-x",
+      "publicationDate": "2018-07-20",
+      "year": 2018
+    },
+    {
+      "title": "Deep Learning for Intelligent Wireless Networks: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2018.2846401",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Ultrareliable and Low-Latency Wireless Communication: Tail, Risk, and Scale",
+      "arxiv_id": "1801.01270",
+      "doi": "10.1109/JPROC.2018.2867029",
+      "publicationDate": "2018-01-04",
+      "year": 2018
+    },
+    {
+      "title": "An Overview on Resource Allocation Techniques for Multi-User MIMO Systems",
+      "arxiv_id": "1611.04645",
+      "doi": "10.1109/COMST.2016.2618870",
+      "publicationDate": "2016-11-14",
+      "year": 2016
+    },
+    {
+      "title": "Convolutional Radio Modulation Recognition Networks",
+      "arxiv_id": "1602.04105",
+      "doi": "10.1007/978-3-319-44188-7_16",
+      "publicationDate": "2016-02-12",
+      "year": 2016
+    },
+    {
+      "title": "Wireless Communications",
+      "arxiv_id": null,
+      "doi": "10.1017/CBO9780511841224",
+      "publicationDate": "2005-08-01",
+      "year": 2005
+    },
+    {
+      "title": "A comparison of mechanisms for improving TCP performance over wireless links",
+      "arxiv_id": null,
+      "doi": "10.1145/248156.248179",
+      "publicationDate": "1996-10-01",
+      "year": 1996
+    },
+    {
+      "title": "A Comprehensive Survey of Knowledge-Driven Deep Learning for Intelligent Wireless Network Optimization in 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2025.3574765",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and a Use Case",
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.2026.3666842",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Received 11 September 2025; revised 10 April 2026; accepted 19 April 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Toward Interpretable Hybrid AI: Integrating Knowledge Graphs and Symbolic Reasoning in Medicine",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3529133",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2505.10992",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2504.14653",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "The Interpretable Reasoning and Intelligent Decision-Making Based on Event Knowledge Graph With LLMs in Fault Diagnosis Scenarios",
+      "arxiv_id": null,
+      "doi": "10.1109/TIM.2025.3550999",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Klonet: an Easy-to-Use and Scalable Platform for Computer Networks Education",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2411.18212",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "GoT: Effective Graph-of-Thought Reasoning in Language Models",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-naacl.183",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Building a Plan Ontology to Represent and Exploit Planning Knowledge and Its Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "CQI Prediction via Hidden Markov Model for Link Adaptation in Ultra Reliable Low Latency Communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Dynamic and Channel Adaptive Error Control Scheme in Wireless Sensor Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Mode lookup tables for data transmission in wireless communication channels based on statistical parameters. (March 13",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "2025. A survey on large language models for communication, network, and service management: Application insights, challenges, and future directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MemReasoner: A Memory-augmented LLM Architecture for Multi-hop Reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025.Designpatternsfor largelanguagemodelbasedneuro-symbolicsystems. Neurosymbolic Artificial Intelligence 1 (2025), 29498732251377500",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Anomal-E: A self-supervised network intrusion detection system based on graph neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. A Hybrid Machine Learning Approach for Improvised QoE in Video Services over 5G Wireless Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Toward democratized generative AI in next-generation mobile edge networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Embodied AI-enhanced vehicular networks: An integrated vision language models and reinforcement learning method",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Load recognition with few-shot transfer learning based on meta-learning and relational network in non-intrusive load monitoring",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": ". 2023. Beyond chain-of-thought, effective graph-of-thought reasoning in language models. arXiv preprint arXiv:2305.16582 (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Advances in reasoning by prompting large language models: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Dynamic network slicing and resource allocation for 5G-and-beyond networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. GEC-RAG: Improving Generative Error Correction via Retrieval-Augmented Generation for Automatic Speech Recognition Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Advancing reasoning in large language models: Promising methods and approaches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Tutorial-cum-survey on semantic and goal-oriented communication: Research landscape, challenges, and future directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Semantic communications: Overview, open issues, and future research directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Big AI models for 6G wireless networks: Opportunities, challenges, and research directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Idea2img:Iterativeself-refinementwithgpt-4vforautomaticimagedesignandgeneration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Meta-reasoner: Dynamic guidance for optimized inference-time reasoning in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Eicient reasoning models: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024.Largelanguagemodelsinwirelessapplication design:In-contextlearning-enhancedautomaticnetworkintrusiondetection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Efficient driving behavior narration and reasoning on edge device using large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. SCALM: Towards semantic caching for automated chat services with large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Langcoop: Collaborative driving with language",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A survey on intent-driven end-to-end 6G mobile communication system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025.Multipletimescalecooperationoptimizationofregionalmultienergysystemsbasedondistributedmodelpredictivecontrol",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Generative AI for the optimization of next-generation wireless networks: Basics, state-of-the-art, and open challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Generativeai-enhancedneuro-symbolicquantumarchitecturesforsecurecommunications and networking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Generative AI-driven semantic communication networks: Architecture, technologies, and applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A survey on intelligent network operations and performance optimization based on large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Pal: Program-aided language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

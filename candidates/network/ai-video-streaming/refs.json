@@ -1,0 +1,2361 @@
+{
+  "candidate": {
+    "topic": "Towards AI-Assisted Sustainable Adaptive Video Streaming Systems",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3838182",
+      "title": "Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey",
+      "published": "2026-08-21"
+    },
+    "notes": "5차: network 도메인 신설(D6). ACM CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:51:00+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 332,
+    "arxiv_resolvable": 69,
+    "doi_only": 174,
+    "unresolved": 89
+  },
+  "gt_s2": {
+    "paperId": "f58760f459a727a33bcc76bf96b10534a38b5a6b",
+    "externalIds": {
+      "ArXiv": "2406.02302",
+      "DBLP": "journals/corr/abs-2406-02302",
+      "DOI": "10.1145/3838182",
+      "CorpusId": 270225987
+    },
+    "title": "Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 332,
+    "publicationDate": "2024-06-04"
+  },
+  "refs": [
+    {
+      "title": "Meta-Reinforcement Learning for Computation Offloading and Resource Allocation in MEC-Enabled Immersive Metaverse",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2026.3688757",
+      "publicationDate": "2026-09-01",
+      "year": 2026
+    },
+    {
+      "title": "Joint Bitrate and Resource Adaptation for Super-Resolution Video Streaming in Multi-Cluster Edge Networks: A New Online Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2026.3650821",
+      "publicationDate": "2026-06-01",
+      "year": 2026
+    },
+    {
+      "title": "Chnerv: Condition Enhanced Hybrid Neural Representation for Videos",
+      "arxiv_id": null,
+      "doi": "10.1109/icassp55912.2026.11462194",
+      "publicationDate": "2026-05-03",
+      "year": 2026
+    },
+    {
+      "title": "BINR: Live Video Broadcasting Quality Assessment",
+      "arxiv_id": null,
+      "doi": "10.1109/icassp55912.2026.11460679",
+      "publicationDate": "2026-05-03",
+      "year": 2026
+    },
+    {
+      "title": "Towards Edge Holography via Implicit Neural Representation and Compression",
+      "arxiv_id": null,
+      "doi": "10.1109/TVCG.2026.3679061",
+      "publicationDate": "2026-05-01",
+      "year": 2026
+    },
+    {
+      "title": "NILO: Nested Iterative Optimization for Video Bitrate Ladder Construction",
+      "arxiv_id": null,
+      "doi": "10.1145/3793853.3795763",
+      "publicationDate": "2026-04-04",
+      "year": 2026
+    },
+    {
+      "title": "NerVast: Compression-Efficient Scaling of Implicit Neural Video Representations via Scene-based Parameter-sharing",
+      "arxiv_id": null,
+      "doi": "10.1109/WACV61042.2026.00257",
+      "publicationDate": "2026-03-06",
+      "year": 2026
+    },
+    {
+      "title": "Serverless cloud-edge architecture for live 4K multi-resolution video streaming over DASH",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2026.108477",
+      "publicationDate": "2026-03-01",
+      "year": 2026
+    },
+    {
+      "title": "OTT-MNO Collaboration for a network-layer ML-based QoE prediction for video streaming over 5G O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2026.112152",
+      "publicationDate": "2026-02-01",
+      "year": 2026
+    },
+    {
+      "title": "ELLMPEG: An Edge-based Agentic LLM Video Processing Tool",
+      "arxiv_id": "2602.00028",
+      "doi": "10.1145/3793853.3795760",
+      "publicationDate": "2026-01-17",
+      "year": 2026
+    },
+    {
+      "title": "Secure Live Streaming: Implementing Security in Adaptive Video Streaming via Watermarking Techniques While Preserving Quality",
+      "arxiv_id": null,
+      "doi": "10.1155/ijdm/8826317",
+      "publicationDate": "2026-01-01",
+      "year": 2026
+    },
+    {
+      "title": "LiveStar: Live Streaming Assistant for Real-World Online Video Understanding",
+      "arxiv_id": "2511.05299",
+      "doi": "10.48550/arXiv.2511.05299",
+      "publicationDate": "2025-11-07",
+      "year": 2025
+    },
+    {
+      "title": "Energy-conscious bitrate selection and budget allocation for live video transcoding systems using deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2025.108223",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "Predicting Encoding Energy from Low-Pass Anchors for Green Video Streaming",
+      "arxiv_id": "2511.00707",
+      "doi": "10.48550/arXiv.2511.00707",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media",
+      "arxiv_id": null,
+      "doi": "10.1145/3746027.3758153",
+      "publicationDate": "2025-10-27",
+      "year": 2025
+    },
+    {
+      "title": "Machine Learning-Based Decoding Energy Modeling for VVC Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/icip55913.2025.11084324",
+      "publicationDate": "2025-09-14",
+      "year": 2025
+    },
+    {
+      "title": "An Agentic AI-based Radio Access Network for Efficient Video Delivery in Internet of Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCCWorkshops67136.2025.11148168",
+      "publicationDate": "2025-08-10",
+      "year": 2025
+    },
+    {
+      "title": "Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation",
+      "arxiv_id": "2508.06092",
+      "doi": "10.48550/arXiv.2508.06092",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "Video Streaming Over QUIC: A Comprehensive Study",
+      "arxiv_id": "2505.21769",
+      "doi": "10.1145/3793674",
+      "publicationDate": "2025-05-27",
+      "year": 2025
+    },
+    {
+      "title": "The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization",
+      "arxiv_id": "2505.06371",
+      "doi": "10.48550/arXiv.2505.06371",
+      "publicationDate": "2025-05-09",
+      "year": 2025
+    },
+    {
+      "title": "KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception",
+      "arxiv_id": "2503.10259",
+      "doi": "10.1109/CVPR52734.2025.00206",
+      "publicationDate": "2025-03-13",
+      "year": 2025
+    },
+    {
+      "title": "Adaptive Incentive and Resource Allocation for Blockchain-Supported Edge Video Streaming Systems: A Cooperative Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3437745",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse",
+      "arxiv_id": "2501.13528",
+      "doi": "10.1145/3761815",
+      "publicationDate": "2025-01-23",
+      "year": 2025
+    },
+    {
+      "title": "Towards GPU-enabled serverless cloud edge platforms for accelerating HEVC video coding",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04692-0",
+      "publicationDate": "2024-11-05",
+      "year": 2024
+    },
+    {
+      "title": "Energy Consumption and Carbon Emissions of Modern Software Video Encoders",
+      "arxiv_id": null,
+      "doi": "10.1109/MCE.2023.3347714",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Secure Video Quality Assessment Resisting Adversarial Attacks",
+      "arxiv_id": "2410.06866",
+      "doi": "10.1109/TBC.2025.3575339",
+      "publicationDate": "2024-10-09",
+      "year": 2024
+    },
+    {
+      "title": "Decoding Complexity-Aware Bitrate-Ladder Estimation for Adaptive VVC Streaming",
+      "arxiv_id": null,
+      "doi": "10.23919/eusipco63174.2024.10715338",
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "Model Pruning-enabled Federated Split Learning for Resource-constrained Devices in Artificial Intelligence Empowered Edge Computing Environment",
+      "arxiv_id": null,
+      "doi": "10.1145/3687478",
+      "publicationDate": "2024-08-10",
+      "year": 2024
+    },
+    {
+      "title": "CLIPVQA: Video Quality Assessment via CLIP",
+      "arxiv_id": "2407.04928",
+      "doi": "10.1109/TBC.2024.3511927",
+      "publicationDate": "2024-07-06",
+      "year": 2024
+    },
+    {
+      "title": "FRADIS: A Machine Learning-based Multipath Solution for Differentiated Services in a Network Slicing-enhanced Delivery Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/BMSB62888.2024.10608237",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "On the Security of Selectively Encrypted HEVC Video Bitstreams",
+      "arxiv_id": null,
+      "doi": "10.1145/3672568",
+      "publicationDate": "2024-06-12",
+      "year": 2024
+    },
+    {
+      "title": "Serverless Workflow Management on the Computing Continuum: A Mini-Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3629527.3652901",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "On Sample Selection for Continual Learning: A Video Streaming Case Study",
+      "arxiv_id": "2405.10290",
+      "doi": "10.1145/3687234.3687237",
+      "publicationDate": "2024-04-30",
+      "year": 2024
+    },
+    {
+      "title": "Blockchain-Driven Adaptive Streaming for IoT: Redefining Security in Video Delivery",
+      "arxiv_id": null,
+      "doi": "10.1109/PAIS62114.2024.10541235",
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "OASIS: Collaborative Neural-Enhanced Mobile Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3625468.3647610",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "VEEP: Video Encoding Energy and CO2 Emission Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3652104.3652528",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Super-resolution with perceptual quality for improved live streaming delivery on edge computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110463",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "ALIVE: A Latency- and Cost-Aware Hybrid P2P-CDN Framework for Live Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3335190",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Multi-agent DRL-based Multipath Scheduling for Video Streaming with QUIC",
+      "arxiv_id": null,
+      "doi": "10.1145/3649139",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "Cloud-based video streaming services: Trends, challenges, and opportunities",
+      "arxiv_id": null,
+      "doi": "10.1049/cit2.12299",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial",
+      "arxiv_id": "2403.05192",
+      "doi": "10.1145/3742472",
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "GreenABR+: Generalized Energy-Aware Adaptive Bitrate Streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3649898",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "Beyond explaining: XAI-based Adaptive Learning with SHAP Clustering for Energy Consumption Prediction",
+      "arxiv_id": "2402.04982",
+      "doi": "10.48550/arXiv.2402.04982",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "Video Super-Resolution for Optimized Bitrate and Green Online Streaming",
+      "arxiv_id": "2402.03513",
+      "doi": "10.1109/PCS60826.2024.10566336",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "NetLLM: Adapting Large Language Models for Networking",
+      "arxiv_id": "2402.02338",
+      "doi": "10.1145/3651890.3672268",
+      "publicationDate": "2024-02-04",
+      "year": 2024
+    },
+    {
+      "title": "EDITORS: Energy-aware Dynamic Task Offloading using Deep Reinforcement Transfer Learning in SDN-enabled Edge Nodes",
+      "arxiv_id": null,
+      "doi": "10.1016/j.iot.2024.101118",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming",
+      "arxiv_id": "2404.16038",
+      "doi": "10.48550/arXiv.2404.16038",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Encoding Time and Energy Model for SVT-AV1 Based on Video Complexity",
+      "arxiv_id": "2401.16067",
+      "doi": "10.1109/ICASSP48485.2024.10446602",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "Energy-efficient Adaptive Video Streaming with Latency-Aware Dynamic Resolution Encoding",
+      "arxiv_id": "2401.15346",
+      "doi": "10.1145/3638036.3640801",
+      "publicationDate": "2024-01-27",
+      "year": 2024
+    },
+    {
+      "title": "Optimal Quality and Efficiency in Adaptive Live Streaming with JND-Aware Low latency Encoding",
+      "arxiv_id": "2401.15343",
+      "doi": "10.1145/3638036.3640807",
+      "publicationDate": "2024-01-27",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Energy Consumption and Environmental Impact of Video Streaming",
+      "arxiv_id": "2401.09854",
+      "doi": "10.48550/arXiv.2401.09854",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "A systematic literature review on video transcoding acceleration: challenges, solutions, and trends",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-023-17862-w",
+      "publicationDate": "2024-01-12",
+      "year": 2024
+    },
+    {
+      "title": "NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement",
+      "arxiv_id": "2401.01163",
+      "doi": "10.1016/j.engappai.2025.110118",
+      "publicationDate": "2024-01-02",
+      "year": 2024
+    },
+    {
+      "title": "E2E-QoE based 6G Sustainability: Challenges and Designing Aspects",
+      "arxiv_id": null,
+      "doi": "10.1109/VTC2023-Fall60731.2023.10333641",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "iSAW: Intelligent Super-Resolution-Assisted Adaptive WebRTC Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3570361.3614072",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "MPAI-EEV: Standardization Efforts of Artificial Intelligence Based End-to-End Video Coding",
+      "arxiv_id": "2309.07589",
+      "doi": "10.1109/TCSVT.2023.3310188",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "A Greener Experience: Trade-Offs between QoE and CO2 Emissions in Today's and 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.006.2200490",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "arxiv_id": "2308.04079",
+      "doi": "10.1145/3592433",
+      "publicationDate": "2023-07-26",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Video Streaming for Sustainability and Quality: The Role of Preset Selection in Per-Title Encoding",
+      "arxiv_id": null,
+      "doi": "10.1109/ICME55011.2023.00289",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "PP8K: A New Dataset for 8K UHD Video Compression and Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/MMUL.2023.3269459",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Explainable Artificial Intelligence for Quality of Experience Modelling",
+      "arxiv_id": null,
+      "doi": "10.1145/3708899.3708903",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Are Quality and Sustainability Reconcilable? A Subjective Study on Video QoE, Luminance and Resolution",
+      "arxiv_id": null,
+      "doi": "10.1109/QoMEX58391.2023.10178513",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "Explainable Data-Driven QoE Modelling with XAI",
+      "arxiv_id": null,
+      "doi": "10.1109/QoMEX58391.2023.10178499",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "SARENA: SFC-Enabled Architecture for Adaptive Video Streaming Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC45041.2023.10279262",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Meta Reinforcement Learning for Rate Adaptation",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM53939.2023.10228951",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Energy-aware images: Quality of Experience vs Energy Reduction",
+      "arxiv_id": null,
+      "doi": "10.1145/3588444.3591003",
+      "publicationDate": "2023-05-07",
+      "year": 2023
+    },
+    {
+      "title": "Survey of Streaming Protocols for Video Transmission",
+      "arxiv_id": null,
+      "doi": "10.56286/ntujet.v2i1.391",
+      "publicationDate": "2023-04-02",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services",
+      "arxiv_id": "2303.16129",
+      "doi": "10.1109/COMST.2024.3353265",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "ARARAT: A Collaborative Edge-Assisted Framework for HTTP Adaptive Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3210595",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Video Quality Assessment with Texture Information Fusion for Streaming Applications",
+      "arxiv_id": "2302.14465",
+      "doi": "10.1145/3638036.3640798",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Interactive Face Video Coding: A Generative Compression Framework",
+      "arxiv_id": "2302.09919",
+      "doi": "10.1109/TIP.2025.3563762",
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "Improving UE Energy Efficiency Through Network-Aware Video Streaming Over 5G",
+      "arxiv_id": "2302.06004",
+      "doi": "10.1109/TNSM.2023.3250520",
+      "publicationDate": "2023-02-12",
+      "year": 2023
+    },
+    {
+      "title": "Blockchain-Based P2P Content Delivery With Monetary Incentivization and Fairness Guarantee",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2022.3217036",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Hybrid P2P-CDN Architecture for Live Video Streaming: An Online Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM48099.2022.10001091",
+      "publicationDate": "2022-12-04",
+      "year": 2022
+    },
+    {
+      "title": "Green streaming through utilization of AI-based content aware encoding",
+      "arxiv_id": null,
+      "doi": "10.1109/IoTaIS56727.2022.9975919",
+      "publicationDate": "2022-11-24",
+      "year": 2022
+    },
+    {
+      "title": "Bandwidth Prediction in 5G Mobile Networks Using Informer",
+      "arxiv_id": null,
+      "doi": "10.1109/NoF55974.2022.9942521",
+      "publicationDate": "2022-10-05",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Rate-Quality Tradeoffs of State-of-the-Art Video Codecs",
+      "arxiv_id": "2210.00618",
+      "doi": "10.1109/PCS56426.2022.10017999",
+      "publicationDate": "2022-10-02",
+      "year": 2022
+    },
+    {
+      "title": "Modeling of Energy Consumption and Streaming Video QoE using a Crowdsourcing Dataset",
+      "arxiv_id": "2210.05444",
+      "doi": "10.1109/QoMEX55416.2022.9900886",
+      "publicationDate": "2022-09-05",
+      "year": 2022
+    },
+    {
+      "title": "Video Coding using Learned Latent GAN Compression",
+      "arxiv_id": "2207.04324",
+      "doi": "10.1145/3503161.3548219",
+      "publicationDate": "2022-07-09",
+      "year": 2022
+    },
+    {
+      "title": "LiDeR: Lightweight Dense Residual Network for Video Super-Resolution on Mobile Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/ivmsp54334.2022.9816346",
+      "publicationDate": "2022-06-26",
+      "year": 2022
+    },
+    {
+      "title": "VCT: A Video Compression Transformer",
+      "arxiv_id": "2206.07307",
+      "doi": "10.48550/arXiv.2206.07307",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "GreenABR: energy-aware adaptive bitrate streaming with deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3524273.3528188",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Context-aware video encoding as a network-based media processing (NBMP) workflow",
+      "arxiv_id": null,
+      "doi": "10.1145/3524273.3533250",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "A Q-Learning Driven Energy-Aware Multipath Transmission Solution for 5G Media Services",
+      "arxiv_id": null,
+      "doi": "10.1109/tbc.2022.3147098",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Efficient Artificial Intelligence of Things With Intelligent Edge",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3143722",
+      "publicationDate": "2022-05-15",
+      "year": 2022
+    },
+    {
+      "title": "VSiM: Improving QoE Fairness for Video Streaming in Mobile Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM48880.2022.9796725",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Computation offloading in mobile edge computing networks: A survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2022.103366",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "Machine learning-based fast transcoding for low-power video communication in Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1007/s11760-022-02182-7",
+      "publicationDate": "2022-03-27",
+      "year": 2022
+    },
+    {
+      "title": "Reduced reference image and video quality assessments: review of methods",
+      "arxiv_id": null,
+      "doi": "10.1186/s13640-021-00578-y",
+      "publicationDate": "2022-01-12",
+      "year": 2022
+    },
+    {
+      "title": "SMSE: A serverless platform for multimedia cloud systems",
+      "arxiv_id": "2201.01940",
+      "doi": "10.1002/cpe.7922",
+      "publicationDate": "2022-01-06",
+      "year": 2022
+    },
+    {
+      "title": "Deep Q-learning enabled joint optimization of mobile edge computing multi-level task offloading",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2021.09.028",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Collaborative caching strategy based on optimization of latency and energy consumption in MEC",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.107523",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling",
+      "arxiv_id": "2111.00772",
+      "doi": "10.1109/TIP.2022.3227503",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "A dataset for mobile edge computing network topologies",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dib.2021.107557",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "NeRV: Neural Representations for Videos",
+      "arxiv_id": "2110.13903",
+      "doi": null,
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Overview of the Versatile Video Coding (VVC) Standard and its Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/tcsvt.2021.3101953",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "QoE Modeling on Split Features with Distributed Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.3390/network1020011",
+      "publicationDate": "2021-08-28",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Streaming Protocols for Video Transmission",
+      "arxiv_id": null,
+      "doi": "10.1145/3484824.3484892",
+      "publicationDate": "2021-08-09",
+      "year": 2021
+    },
+    {
+      "title": "A variegated look at 5G in the wild: performance, power, and QoE implications",
+      "arxiv_id": null,
+      "doi": "10.1145/3452296.3472923",
+      "publicationDate": "2021-08-09",
+      "year": 2021
+    },
+    {
+      "title": "Task offloading in Edge and Cloud Computing: A survey on mathematical, artificial intelligence and control theory solutions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2021.108177",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Tightrope walking in low-latency live streaming: optimal joint adaptation of video rate and playback speed",
+      "arxiv_id": null,
+      "doi": "10.1145/3458305.3463382",
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "Deep reinforced bitrate ladders for adaptive video streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3458306.3458873",
+      "publicationDate": "2021-07-02",
+      "year": 2021
+    },
+    {
+      "title": "High Frame Rate Video Quality Assessment using VMAF and Entropic Differences",
+      "arxiv_id": "2109.12785",
+      "doi": "10.1109/PCS50896.2021.9477462",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "EVSRNet: Efficient Video Super-Resolution with Neural Architecture Search",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPRW53098.2021.00281",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Anchor-based Plain Net for Mobile Image Super-Resolution",
+      "arxiv_id": "2105.09750",
+      "doi": "10.1109/CVPRW53098.2021.00283",
+      "publicationDate": "2021-05-20",
+      "year": 2021
+    },
+    {
+      "title": "Reinforcement Learning with Deep Deterministic Policy Gradient",
+      "arxiv_id": null,
+      "doi": "10.1109/CAIBDA53561.2021.00025",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "An Algorithm to Minimize Energy Consumption and Elapsed Time for IoT Workloads in a Hybrid Architecture",
+      "arxiv_id": null,
+      "doi": "10.3390/s21092914",
+      "publicationDate": "2021-04-21",
+      "year": 2021
+    },
+    {
+      "title": "CTU Depth Decision Algorithms for HEVC: A Survey",
+      "arxiv_id": "2104.08328",
+      "doi": "10.1016/j.image.2021.116442",
+      "publicationDate": "2021-04-16",
+      "year": 2021
+    },
+    {
+      "title": "Hybrid Policy Learning for Energy-Latency Tradeoff in MEC-Assisted VR Video Service",
+      "arxiv_id": "2104.01036",
+      "doi": "10.1109/TVT.2021.3099129",
+      "publicationDate": "2021-04-02",
+      "year": 2021
+    },
+    {
+      "title": "Applying machine learning techniques for caching in next-generation edge networks: A comprehensive survey",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JNCA.2021.103005",
+      "publicationDate": "2021-03-04",
+      "year": 2021
+    },
+    {
+      "title": "Predictive CDN Selection for Video Delivery Based on LSTM Network Performance Forecasts and Cost-Effective Trade-Offs",
+      "arxiv_id": null,
+      "doi": "10.1109/TBC.2020.3031724",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Bitrate Ladder Construction for Content-Optimized Adaptive Video Streaming",
+      "arxiv_id": "2102.04550",
+      "doi": "10.1109/OJSP.2021.3086691",
+      "publicationDate": "2021-02-08",
+      "year": 2021
+    },
+    {
+      "title": "Energy-Efficient Task Offloading and Resource Allocation via Deep Reinforcement Learning for Augmented Reality in Mobile Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3050804",
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "Explainable Machine Learning based Transform Coding for High Efficiency Intra Prediction",
+      "arxiv_id": "2012.11152",
+      "doi": null,
+      "publicationDate": "2020-12-21",
+      "year": 2020
+    },
+    {
+      "title": "Energy- and Quality-Aware Video Request Policy for Wireless Adaptive Streaming Clients",
+      "arxiv_id": "2402.06050",
+      "doi": "10.1109/TCE.2020.3034619",
+      "publicationDate": "2020-10-29",
+      "year": 2020
+    },
+    {
+      "title": "Lumos5G: Mapping and Predicting Commercial mmWave 5G Throughput",
+      "arxiv_id": null,
+      "doi": "10.1145/3419394.3423629",
+      "publicationDate": "2020-10-27",
+      "year": 2020
+    },
+    {
+      "title": "A QoE-Aware Service-Enhancement Strategy for Edge Artificial Intelligence Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2996422",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2020.3026003",
+      "publicationDate": "2020-09-23",
+      "year": 2020
+    },
+    {
+      "title": "A Comparative Analysis of the Time and Energy Demand of Versatile Video Coding and High Efficiency Video Coding Reference Decoders",
+      "arxiv_id": "2209.10283",
+      "doi": "10.1109/MMSP48831.2020.9287098",
+      "publicationDate": "2020-09-21",
+      "year": 2020
+    },
+    {
+      "title": "NEMO: enabling neural-enhanced video streaming on commodity mobile devices",
+      "arxiv_id": null,
+      "doi": "10.1145/3372224.3419185",
+      "publicationDate": "2020-09-18",
+      "year": 2020
+    },
+    {
+      "title": "Dynamically Adaptive Fast Motion Estimation Algorithm for HD Video",
+      "arxiv_id": null,
+      "doi": "10.1007/s11265-020-01574-7",
+      "publicationDate": "2020-08-22",
+      "year": 2020
+    },
+    {
+      "title": "The SVT-AV1 encoder: overview, features and speed-quality tradeoffs",
+      "arxiv_id": null,
+      "doi": "10.1117/12.2569270",
+      "publicationDate": "2020-08-21",
+      "year": 2020
+    },
+    {
+      "title": "Assessing the Quality-of-Experience of Adaptive Bitrate Video Streaming",
+      "arxiv_id": "2008.08804",
+      "doi": null,
+      "publicationDate": "2020-08-20",
+      "year": 2020
+    },
+    {
+      "title": "A Technical Overview of AV1",
+      "arxiv_id": "2008.06091",
+      "doi": "10.1109/JPROC.2021.3058584",
+      "publicationDate": "2020-08-13",
+      "year": 2020
+    },
+    {
+      "title": "Energy Minimization in D2D-Assisted Cache-Enabled Internet of Things: A Deep Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2019.2954127",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2020.3006999",
+      "publicationDate": "2020-07-03",
+      "year": 2020
+    },
+    {
+      "title": "OpenAirInterface: Democratizing innovation in the 5G Era",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107284",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Look ahead to improve QoE in DASH streaming",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-020-09214-9",
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "All you can stream: Investigating the role of user behavior for greenhouse gas intensity of video streaming",
+      "arxiv_id": "2006.11129",
+      "doi": "10.1145/3401335.3401709",
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "Real-Time Video Inference on Edge Devices via Adaptive Model Streaming",
+      "arxiv_id": "2006.06628",
+      "doi": "10.1109/ICCV48922.2021.00453",
+      "publicationDate": "2020-06-11",
+      "year": 2020
+    },
+    {
+      "title": "EnDASH - A Mobility Adapted Energy Efficient ABR Video Streaming for Cellular Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Stallion: video adaptation algorithm for low-latency video streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3339825.3397044",
+      "publicationDate": "2020-05-27",
+      "year": 2020
+    },
+    {
+      "title": "UVG dataset: 50/120fps 4K sequences for video codec analysis and development",
+      "arxiv_id": null,
+      "doi": "10.1145/3339825.3394937",
+      "publicationDate": "2020-05-27",
+      "year": 2020
+    },
+    {
+      "title": "Xpsnr: A Low-Complexity Extension of The Perceptually Weighted Peak Signal-To-Noise Ratio For High-Resolution Video Quality Assessment",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP40776.2020.9054089",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Edge QoE: Computation Offloading With Deep Reinforcement Learning for Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2981557",
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "TCP Extensions for Multipath Operation with Multiple Addresses",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC6824",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "FacebookVideoLive18: A Live Video Streaming Dataset for Streams Metadata and Online Viewers Locations",
+      "arxiv_id": "2003.10820",
+      "doi": "10.1109/ICIoT48696.2020.9089607",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Multi-View Clustering for Fast Intra Mode Decision in HEVC",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCE46568.2020.9043106",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Reinforcement Learning Approaches for Content Caching in Cache-Enabled D2D Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2019.2951509",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Machine learning based video coding optimizations: A survey",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INS.2019.07.096",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "QoE Management of Multimedia Streaming Services in Future Networks: A Tutorial and Survey",
+      "arxiv_id": "1912.12467",
+      "doi": "10.1109/COMST.2019.2958784",
+      "publicationDate": "2019-12-28",
+      "year": 2019
+    },
+    {
+      "title": "Zero Trust Architecture",
+      "arxiv_id": null,
+      "doi": "10.6028/nist.sp.800-207-draft",
+      "publicationDate": "2019-09-23",
+      "year": 2019
+    },
+    {
+      "title": "Artificially Intelligent Adaptive Search Fast Motion Estimation Algorithm for HD Video",
+      "arxiv_id": null,
+      "doi": "10.1007/s11265-019-01466-5",
+      "publicationDate": "2019-09-04",
+      "year": 2019
+    },
+    {
+      "title": "QoE Evaluation for Live Broadcasting Video",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIP.2019.8802978",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Once for All: Train One Network and Specialize it for Efficient Deployment",
+      "arxiv_id": "1908.09791",
+      "doi": null,
+      "publicationDate": "2019-08-26",
+      "year": 2019
+    },
+    {
+      "title": "End-to-end transport for video QoE fairness",
+      "arxiv_id": null,
+      "doi": "10.1145/3341302.3342077",
+      "publicationDate": "2019-08-19",
+      "year": 2019
+    },
+    {
+      "title": "Understanding artificial intelligence ethics and safety",
+      "arxiv_id": "1906.05684",
+      "doi": "10.5281/zenodo.3240529",
+      "publicationDate": "2019-06-11",
+      "year": 2019
+    },
+    {
+      "title": "Energy and Policy Considerations for Deep Learning in NLP",
+      "arxiv_id": "1906.02243",
+      "doi": "10.18653/v1/P19-1355",
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Learning in situ: a randomized experiment in video streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-06-03",
+      "year": 2019
+    },
+    {
+      "title": "No-Reference Video Quality Estimation Based on Machine Learning for Passive Gaming Video Streaming Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2920477",
+      "publicationDate": "2019-06-03",
+      "year": 2019
+    },
+    {
+      "title": "NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPRW.2019.00251",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Energy-Aware QoE and Backhaul Traffic Optimization in Green Edge Adaptive Mobile Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/TGCN.2019.2918847",
+      "publicationDate": "2019-05-24",
+      "year": 2019
+    },
+    {
+      "title": "Unsupervised Deep Contrast Enhancement With Power Constraint for OLED Displays",
+      "arxiv_id": "1905.05916",
+      "doi": "10.1109/TIP.2019.2953352",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "VMAF Oriented Perceptual Optimization for Video Coding",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCAS.2019.8702513",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Park: An Open Platform for Learning-Augmented Computer Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Image and Video Compression With Neural Networks: A Review",
+      "arxiv_id": "1904.03567",
+      "doi": "10.1109/TCSVT.2019.2910119",
+      "publicationDate": "2019-04-07",
+      "year": 2019
+    },
+    {
+      "title": "Features that Matter: Feature Selection for On-line Stalling Prediction in Encrypted Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOMW.2019.8845109",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Quality and Energy-Aware HEVC Transrating Based on Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSI.2019.2903978",
+      "publicationDate": "2019-03-28",
+      "year": 2019
+    },
+    {
+      "title": "A machine learning approach for fast mode decision in HEVC intra prediction based on statistical features",
+      "arxiv_id": null,
+      "doi": "10.3233/JIFS-169921",
+      "publicationDate": "2019-03-26",
+      "year": 2019
+    },
+    {
+      "title": "A Survey and Evaluation of the Potentials of Distributed Ledger Technology for Peer-to-Peer Transactive Energy Exchanges in Local Energy Markets",
+      "arxiv_id": null,
+      "doi": "10.1109/JSYST.2019.2903172",
+      "publicationDate": "2019-03-20",
+      "year": 2019
+    },
+    {
+      "title": "QoE Modeling for HTTP Adaptive Video Streaming–A Survey and Open Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2901778",
+      "publicationDate": "2019-03-13",
+      "year": 2019
+    },
+    {
+      "title": "MAMUT: Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-User Video Transcoding",
+      "arxiv_id": null,
+      "doi": "10.23919/DATE.2019.8715256",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Edge Caching for D2D Enabled Hierarchical Wireless Networks with Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1155/2019/2561069",
+      "publicationDate": "2019-02-27",
+      "year": 2019
+    },
+    {
+      "title": "Pensieve",
+      "arxiv_id": null,
+      "doi": "10.1145/3287324.3287483",
+      "publicationDate": "2019-02-22",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for Image Super-Resolution: A Survey",
+      "arxiv_id": "1902.06068",
+      "doi": "10.1109/TPAMI.2020.2982166",
+      "publicationDate": "2019-02-16",
+      "year": 2019
+    },
+    {
+      "title": "Deep reinforcement learning-based joint task offloading and bandwidth allocation for multi-user mobile edge computing",
+      "arxiv_id": null,
+      "doi": "10.1016/J.DCAN.2018.10.003",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff",
+      "arxiv_id": "1901.07821",
+      "doi": null,
+      "publicationDate": "2019-01-23",
+      "year": 2019
+    },
+    {
+      "title": "Decoding-Energy-Rate-Distortion Optimization for Video Coding",
+      "arxiv_id": "2203.01099",
+      "doi": "10.1109/TCSVT.2017.2771819",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+      "arxiv_id": "1812.04948",
+      "doi": "10.1109/CVPR.2019.00453",
+      "publicationDate": "2018-12-12",
+      "year": 2018
+    },
+    {
+      "title": "Deep Reinforcement Learning (DRL)-Based Transcoder Selection for Blockchain-Enabled Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOCOMW.2018.8644290",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "DVC: An End-To-End Deep Video Compression Framework",
+      "arxiv_id": "1812.00101",
+      "doi": "10.1109/CVPR.2019.01126",
+      "publicationDate": "2018-11-30",
+      "year": 2018
+    },
+    {
+      "title": "Effective Data Driven Coding Unit Size Decision Approaches for HEVC INTRA Coding",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSVT.2017.2747659",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Video Quality Assessment through PSNR Estimation for Different Compression Standards",
+      "arxiv_id": null,
+      "doi": "10.11591/ijeecs.v11.i3.pp918-924",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "HTTP adaptive streaming QoE estimation with ITU-T rec. P. 1203: open databases and software",
+      "arxiv_id": null,
+      "doi": "10.1145/3204949.3208124",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Machine Learning Based Choice of Characteristics for the One-Shot Determination of the HEVC Intra Coding Tree",
+      "arxiv_id": null,
+      "doi": "10.1109/PCS.2018.8456261",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "GamingVideoSET: A Dataset for Gaming Video Streaming Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/NetGames.2018.8463362",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "A Quality-of-Experience Database for Adaptive Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/TBC.2018.2822870",
+      "publicationDate": "2018-04-30",
+      "year": 2018
+    },
+    {
+      "title": "Fast, Accurate, and, Lightweight Super-Resolution with Cascading Residual Network",
+      "arxiv_id": "1803.08664",
+      "doi": "10.1007/978-3-030-01249-6_16",
+      "publicationDate": "2018-03-23",
+      "year": 2018
+    },
+    {
+      "title": "QoE Assessment of Encrypted YouTube Adaptive Streaming for Energy Saving in Smart Cities",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2811416",
+      "publicationDate": "2018-03-09",
+      "year": 2018
+    },
+    {
+      "title": "CUBIC for Fast Long-Distance Networks",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC8312",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+      "arxiv_id": "1801.03924",
+      "doi": "10.1109/CVPR.2018.00068",
+      "publicationDate": "2018-01-11",
+      "year": 2018
+    },
+    {
+      "title": "ECF: An MPTCP Path Scheduler to Manage Heterogeneous Paths",
+      "arxiv_id": null,
+      "doi": "10.1145/3143361.3143376",
+      "publicationDate": "2017-11-28",
+      "year": 2017
+    },
+    {
+      "title": "Video Enhancement with Task-Oriented Flow",
+      "arxiv_id": "1711.09078",
+      "doi": "10.1007/s11263-018-01144-2",
+      "publicationDate": "2017-11-24",
+      "year": 2017
+    },
+    {
+      "title": "Neural Adaptive Video Streaming with Pensieve",
+      "arxiv_id": null,
+      "doi": "10.1145/3098822.3098843",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "Comparison of objective quality models for adaptive bit-streaming services",
+      "arxiv_id": null,
+      "doi": "10.1109/IISA.2017.8316385",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "CatBoost: unbiased boosting with categorical features",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-06-28",
+      "year": 2017
+    },
+    {
+      "title": "On Multi-Access Edge Computing: A Survey of the Emerging 5G Network Edge Cloud Architecture and Orchestration",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2017.2705720",
+      "publicationDate": "2017-05-18",
+      "year": 2017
+    },
+    {
+      "title": "Adaptive Scheme for Caching YouTube Content in a Cellular Network: Machine Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2017.2678990",
+      "publicationDate": "2017-03-07",
+      "year": 2017
+    },
+    {
+      "title": "Adaptive Bitrate Selection: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2017.2725241",
+      "publicationDate": "2017-01-24",
+      "year": 2017
+    },
+    {
+      "title": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+      "arxiv_id": "1609.04802",
+      "doi": "10.1109/CVPR.2017.19",
+      "publicationDate": "2016-09-15",
+      "year": 2016
+    },
+    {
+      "title": "Complexity-based consistent-quality encoding in the cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIP.2016.7532605",
+      "publicationDate": "2016-08-19",
+      "year": 2016
+    },
+    {
+      "title": "HTTP/2-Based Adaptive Streaming of HEVC Video Over 4G/LTE Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2016.2601087",
+      "publicationDate": "2016-08-17",
+      "year": 2016
+    },
+    {
+      "title": "Accelerating the Super-Resolution Convolutional Neural Network",
+      "arxiv_id": "1608.00367",
+      "doi": "10.1007/978-3-319-46475-6_25",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network",
+      "arxiv_id": "1609.05158",
+      "doi": "10.1109/CVPR.2016.207",
+      "publicationDate": "2016-06-27",
+      "year": 2016
+    },
+    {
+      "title": "BOLA: Near-optimal bitrate adaptation for online videos",
+      "arxiv_id": "1601.06748",
+      "doi": "10.1109/INFOCOM.2016.7524428",
+      "publicationDate": "2016-01-25",
+      "year": 2016
+    },
+    {
+      "title": "A Control-Theoretic Approach for Dynamic Adaptive Video Streaming over HTTP",
+      "arxiv_id": null,
+      "doi": "10.1145/2785956.2787486",
+      "publicationDate": "2015-08-17",
+      "year": 2015
+    },
+    {
+      "title": "Kvazaar HEVC encoder for efficient intra coding",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCAS.2015.7168970",
+      "publicationDate": "2015-05-24",
+      "year": 2015
+    },
+    {
+      "title": "Estimating the HEVC decoding energy using the decoder processing time",
+      "arxiv_id": "2203.01767",
+      "doi": "10.1109/ISCAS.2015.7168683",
+      "publicationDate": "2015-05-24",
+      "year": 2015
+    },
+    {
+      "title": "Machine Learning-Based Coding Unit Depth Decisions for Flexible Complexity Allocation in High Efficiency Video Coding",
+      "arxiv_id": null,
+      "doi": "10.1109/TIP.2015.2417498",
+      "publicationDate": "2015-03-27",
+      "year": 2015
+    },
+    {
+      "title": "Pedestrian Attribute Recognition At Far Distance",
+      "arxiv_id": null,
+      "doi": "10.1145/2647868.2654966",
+      "publicationDate": "2014-11-03",
+      "year": 2014
+    },
+    {
+      "title": "Toward a Principled Framework to Design Dynamic Adaptive Streaming Algorithms over HTTP",
+      "arxiv_id": null,
+      "doi": "10.1145/2670518.2673877",
+      "publicationDate": "2014-10-27",
+      "year": 2014
+    },
+    {
+      "title": "Experimental evaluation of multipath TCP schedulers",
+      "arxiv_id": null,
+      "doi": "10.1145/2630088.2631977",
+      "publicationDate": "2014-08-18",
+      "year": 2014
+    },
+    {
+      "title": "Global Energy Forecasting Competition 2012",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IJFORECAST.2013.07.001",
+      "publicationDate": "2014-04-01",
+      "year": 2014
+    },
+    {
+      "title": "Runtime power estimation of mobile AMOLED displays",
+      "arxiv_id": null,
+      "doi": "10.7873/DATE.2013.027",
+      "publicationDate": "2013-03-18",
+      "year": 2013
+    },
+    {
+      "title": "Commute path bandwidth traces from 3G networks: analysis and applications",
+      "arxiv_id": null,
+      "doi": "10.1145/2483977.2483991",
+      "publicationDate": "2013-02-28",
+      "year": 2013
+    },
+    {
+      "title": "Aggregate power consumption modeling of live video streaming systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2483977.2483983",
+      "publicationDate": "2013-02-28",
+      "year": 2013
+    },
+    {
+      "title": "Making a “Completely Blind” Image Quality Analyzer",
+      "arxiv_id": null,
+      "doi": "10.1109/LSP.2012.2227726",
+      "publicationDate": "2013-02-11",
+      "year": 2013
+    },
+    {
+      "title": "Overview of the High Efficiency Video Coding (HEVC) Standard",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSVT.2012.2221191",
+      "publicationDate": "2012-12-01",
+      "year": 2012
+    },
+    {
+      "title": "A close examination of performance and power characteristics of 4G LTE networks",
+      "arxiv_id": null,
+      "doi": "10.1145/2307636.2307658",
+      "publicationDate": "2012-06-25",
+      "year": 2012
+    },
+    {
+      "title": "Dynamic Adaptive Streaming over HTTP",
+      "arxiv_id": null,
+      "doi": "10.25103/JESTR.052.06",
+      "publicationDate": "2012-06-01",
+      "year": 2012
+    },
+    {
+      "title": "Dynamic adaptive streaming over HTTP dataset",
+      "arxiv_id": null,
+      "doi": "10.1145/2155555.2155570",
+      "publicationDate": "2012-02-22",
+      "year": 2012
+    },
+    {
+      "title": "Face recognition in unconstrained videos with matched background similarity",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2011.5995566",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "Contour Detection and Hierarchical Image Segmentation",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2010.161",
+      "publicationDate": "2011-05-01",
+      "year": 2011
+    },
+    {
+      "title": "Perceptual visual quality metrics: A survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jvcir.2011.01.005",
+      "publicationDate": "2011-05-01",
+      "year": 2011
+    },
+    {
+      "title": "Self-Organizing Maps",
+      "arxiv_id": null,
+      "doi": "10.1201/B10604-21",
+      "publicationDate": "2011-02-28",
+      "year": 2011
+    },
+    {
+      "title": "Image Quality Metrics: PSNR vs. SSIM",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPR.2010.579",
+      "publicationDate": "2010-08-23",
+      "year": 2010
+    },
+    {
+      "title": "The Akamai network: a platform for high-performance internet applications",
+      "arxiv_id": null,
+      "doi": "10.1145/1842733.1842736",
+      "publicationDate": "2010-08-17",
+      "year": 2010
+    },
+    {
+      "title": "A Two-Step Framework for Constructing Blind Image Quality Indices",
+      "arxiv_id": null,
+      "doi": "10.1109/LSP.2010.2043888",
+      "publicationDate": "2010-03-18",
+      "year": 2010
+    },
+    {
+      "title": "Content Clustering Based Video Quality Prediction Model for MPEG4 Video Streaming over Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC.2009.5198850",
+      "publicationDate": "2009-06-14",
+      "year": 2009
+    },
+    {
+      "title": "Performing systematic literature reviews in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134500",
+      "publicationDate": "2006-05-28",
+      "year": 2006
+    },
+    {
+      "title": "Extremely randomized trees",
+      "arxiv_id": null,
+      "doi": "10.1007/s10994-006-6226-1",
+      "publicationDate": "2006-04-01",
+      "year": 2006
+    },
+    {
+      "title": "Image quality assessment: from error visibility to structural similarity",
+      "arxiv_id": null,
+      "doi": "10.1109/TIP.2003.819861",
+      "publicationDate": "2004-04-01",
+      "year": 2004
+    },
+    {
+      "title": "Overview of the H.264/AVC video coding standard",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSVT.2003.815165",
+      "publicationDate": "2003-07-01",
+      "year": 2003
+    },
+    {
+      "title": "An LP/NLP based branch and bound algorithm for convex MINLP optimization problems",
+      "arxiv_id": null,
+      "doi": "10.1016/0098-1354(92)80028-8",
+      "publicationDate": "1992-10-01",
+      "year": 1992
+    },
+    {
+      "title": "Toward QoE-Fairness for Video Streaming Over Heterogeneous Networks: An Innovative Bandwidth Allocation Mechanism",
+      "arxiv_id": null,
+      "doi": "10.1109/TON.2025.3638882",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "FAESR: Fine-Grained Rate Adaptation for Energy-Aware Super Resolution in Mobile Panoramic Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2025.3612685",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Mortise: Auto-tuning Congestion Control to Optimize QoE via Network-Aware Parameter Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Custom Market Insights",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "QoE-Driven Adaptive Video Streaming: Architectures, Techniques, and Future Research Challenges Toward 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3597058",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "The 9th Annual Bitmovin Video Developer Report: Insights Shaping the Future of Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "QoE Prediction for Gaming Video Streaming in O-RAN Using Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3362275",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Deep Q-Learning Aided Energy-Efficient Caching and Transmission for Adaptive Bitrate Video Streaming Over Dynamic Cellular Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3365578",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Robust and secure file transmission through video streaming using steganography and blockchain",
+      "arxiv_id": null,
+      "doi": "10.1504/ijics.2024.10064757",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Survey on QoE Management Schemes for HTTP Adaptive Video Streaming: Challenges, Solutions, and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3491613",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Innovative Insights: A Review of Deep Learning Methods for Enhanced Video Compression",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3450814",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Intelligent Sustainability: The Role of AI in Energy Consumption, Management and New Revenues",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Entropy coding addresses statistical redundancies by encoding symbols with higher probabilities using fewer bits and symbols with lower probabilities with more bits",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Embedded Systems with Jetson",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". The Global Internet Phenamena Report. https://www.sandvine.com/phenomena. Retrieved: 2024-06-01.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "BoB: Bandwidth Prediction for Real-Time Communications Using Heuristic and Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2022.3216456",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "EESRNet: A Network for Energy Efficient Super-Resolution",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-25063-7_38",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Convolutional Two-Stream Generative Adversarial Network-Based Hyperspectral Feature Extraction",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2021.3073924",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "AI-based quality of service optimization for multimedia transmission on Internet of Vehicles (IoV) systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.seta.2022.102055",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "RCBSR: Re-parameterization Convolution Block for Super-Resolution",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-25063-7_33",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Towards Sustainable Serverless Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Neural Network Architectures for Real-Time Image and Video Processing Applications",
+      "arxiv_id": null,
+      "doi": "10.18034/ei.v10i2.735",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Robust QUIC: Integrating Practical Coding in a Low Latency Transport Protocol",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3118112",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Artiicial Intelligence Act",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "VVenC:AnOpenandOptimizedVVCEncoder Implementation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Carbon Impact of Video Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Beyond Throughput: The Next Generation a 5G Dataset with Channel and Context Metrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "P.800.1 : Mean Opinion Score (MOS) Terminology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "COVID-19 Social & Streaming Report: Streaming in the Time of Coronavirus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "A Comprehensive Video Codec Comparison",
+      "arxiv_id": null,
+      "doi": "10.1017/ATSIP.2019.23",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "A Collection of 100 4K Video Sequences",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Video Distribution Networks: Architectures and System Requirements",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-71718-0_1",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Instant Per-Title Encoding and What’s Wrong with Static Bitrate Ladders",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Red Dead Redemption 2: Oicial Gameplay Video",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Echo State Network",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4899-7687-1_100130",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "ndnSIM 2 : An updated NDN simulator for NS-3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Deep learning-based intra prediction mode decision for HEVC",
+      "arxiv_id": null,
+      "doi": "10.1109/PCS.2016.7906399",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Toward A Practical Perceptual Video Quality Metric",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "VMAF - Video Multi-Method Assessment Fusion",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Online Video Characteristics and Transcoding Time Dataset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Per-Title Encode Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Introducing CloudLab: Scientific Infrastructure for Advancing Cloud Architectures and Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "LINEAR INTEGER PROGRAMMING METHODS AND APPROACHES-A SURVEY",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Real-Time Communication for the Web",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Advanced video coding for generic audiovisual services",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Common test conditions and software reference configurations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "The Ultimate Speed Test Tool for TCP, UDP and SCTP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "A Taxonomy and Survey of Content Delivery Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Federal Communications Commission",
+      "arxiv_id": null,
+      "doi": "10.4135/9781452240107.n80",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "2024. Towards ML-Driven Video Encoding Parameter Selection for Quality and Energy Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Go with the Flow: Analyzing the Carbon Footprint of Green Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "On Sample Selection for Continual Learning: a Video Streaming Case Study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "x264. 2024. The Best and Fastest H.264 Encoder",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Personalized and Diferential Privacy-aware Video Stream Oloading in Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Sweet Streams Are Made of This: The System Engineer’s View on Energy Eiciency in Video Communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Training Compute-optimal Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Energy Efficient Technique and Algorithm Based on Artificial Intelligence in Content Delivery Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "CDN content distributor manages content distribution across the CDN and defines important policies for improving the network performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Privacy-preserving Viewport Prediction using Federated Learning for 360° Live Video Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. The Growing Energy Footprint of Artiicial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "1: Research question formulation . We formulated seven research questions (Q) by delineating primary areas of the video streaming lifecycle",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 7) Generative AI: What are the sustainability implications and opportunities of Generative AI and semantic streaming for future energy-eicient video delivery systems?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Bjøntegaard Delta (BD): A Tutorial Overview of the Metric, Evolution, Challenges, and Recommendations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Learning Tailored Adaptive Bitrate Algorithms to Heterogeneous Network Conditions: A Domain-Speciic Priors and Meta-Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Video playback: How can client-based AI technologies, such as super-resolution and denoising, optimize video playback while balancing quality enhancement with energy efficiency?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. A Survey on Mobile Edge Computing for Video Streaming: Opportunities and Challenges. IEEE Access 10 (",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Xiph.org",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards AI-Assisted Sustainable",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. The Fraunhofer Versatile Video Encoder",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Generative Latent Coding for Ultra-low Bitrate Image and Video Compression",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Towards an Energy-Eicient Video Processing Tool with LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 4) Video playback: How can client-based AI technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Immersive video streaming. Augmented Reality (AR) or Virtual Reality (VR) applications necessitate real-time processing and rendering of content to reduce latency and enhance performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Making streaming more sustainable and energy eicient.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. PatchVSR: Breaking Video Difusion Resolution Limits with Patch-wise Video Super-Resolution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. Content-Driven Frame-Level Bit Prediction for Rate Control in Versatile Video Coding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. A QoE-based Energy-aware Resource Allocation Solution for 5G Heterogeneous Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 3) ABR algorithm: How can AI enhance ABR algorithms by integrating content-aware",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Difbir: Toward Blind Image Restoration with Generative Difusion Prior",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NS3. 2024. The Network Simulator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. One-step Difusion For Detail-rich and Temporally Consistent Video Super-resolution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 1) Video encoding: How can AI techniques actively contribute to developing content-aware provisioning, considering both energy and QoE?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 2) Video delivery: How can AI techniques optimize content delivery services through decision-making policies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. QoE Estimation Across Diferent Cloud Gaming Services Using Transfer Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q 6) Challenges: How can AI-assisted video streaming systems overcome ethical, deployment, scalability, and energy-quality trade-ofs?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Towards Low-latency and Energy-eicient Hybrid P2P-CDN Live Video Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Promptus: Can Prompts Streaming Replace Video Streaming with Stable Difusion",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Towards Green Metaverse Networking: Technologies, Advancements and Future Directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Live streaming. Caching, transcoding, and processing content closer to the user who generates and consumes the data reduces latency and improves",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Optimizing Quality and Energy Eiciency in WebRTC with ML-Powered Adaptive FEC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Insight to Action on Digital Carbon Impacts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. One Step Difusion-based Super-resolution with Time-aware Distillation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CTA Speciication Web Application Video Ecosystem - Common Media Client Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Machine Learning for Energy-Resource Allocation, Workflow Scheduling and Live Migration in Cloud Computing: State-of-the-Art Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. VCD: Video Complexity Dataset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Reference Software for VVC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. An Eicient Accelerator Based on Lightweight Deformable 3D-CNN for Video Super-Resolution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A Real-Time Blind Quality-of-Experience Assessment Metric for HTTP Adaptive Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Extreme Video Compression with Pre-trained Difusion Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Managing Energy Consumption of Devices with Multiconnectivity by Deep Learning and Software-Deined Networking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Video Test Media [",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Space: Segment Prefetching and Caching at the Edge for Adaptive Video Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Transform coding shifts residuals to a spectral domain",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MulticoreWare. 2024. x265 HEVC Encoder / H.265 Video Codec",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. JumpDASH: LLM-Based Content Perception for Intelligent Jumping DASH in Mobile Adaptive Video Streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}
