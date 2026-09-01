@@ -1,0 +1,1037 @@
+{
+  "candidate": {
+    "topic": "DNN Partitioning for Cooperative Inference in Edge Intelligence",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3786145",
+      "title": "DNN Partitioning for Cooperative Inference in Edge Intelligence: Modeling, Solutions, Toolchains",
+      "published": "2026-02-04"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:11:14+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 143,
+    "arxiv_resolvable": 46,
+    "doi_only": 82,
+    "unresolved": 15
+  },
+  "gt_s2": {
+    "paperId": "32ad92458dce659d50b0a4b1ea3e8cfe0c43730d",
+    "externalIds": {
+      "DBLP": "journals/csur/HaoDXGX26",
+      "DOI": "10.1145/3786145",
+      "CorpusId": 284339697
+    },
+    "title": "DNN Partitioning for Cooperative Inference in Edge Intelligence: Modeling, Solutions, Toolchains",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 143,
+    "publicationDate": "2025-12-30"
+  },
+  "refs": [
+    {
+      "title": "EdgeShard: Efficient LLM Inference via Collaborative Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3524255",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "Co-Designing Transformer Architectures for Distributed Inference With Low Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3521582",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "A survey on Deep Learning in Edge-Cloud Collaboration: Model partitioning, privacy preservation, and prospects",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.112965",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Joint Optimization of Device Placement and Model Partitioning for Cooperative DNN Inference in Heterogeneous Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3457793",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "When the Edge Meets Transformers: Distributed Inference with Transformer Models",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS60910.2024.00017",
+      "publicationDate": "2024-07-23",
+      "year": 2024
+    },
+    {
+      "title": "An Autonomous Parallelization of Transformer Model Inference on Heterogeneous Edge Devices",
+      "arxiv_id": null,
+      "doi": "10.1145/3650200.3656628",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Energy-efficient offloading for DNN-based applications in edge-cloud computing: A hybrid chaotic evolutionary approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2024.104850",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Game-Based Adaptive FLOPs and Partition Point Decision Mechanism With Latency and Energy-Efficient Tradeoff for Edge Intelligence",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2024.3354033",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive Device-Edge Collaboration on DNN Inference in AIoT: A Digital-Twin-Assisted Approach",
+      "arxiv_id": "2405.17664",
+      "doi": "10.1109/JIOT.2023.3336600",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Job Offloading Schedule for Collaborative DNN Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3276937",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "PDD: Partitioning DAG-Topology DNNs for Streaming Tasks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3323520",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "Learning-Based Edge-Device Collaborative DNN Inference in IoVT Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3317785",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "RobustDiCE: Robust and Distributed CNN Inference at the Edge",
+      "arxiv_id": null,
+      "doi": "10.1109/ASP-DAC58780.2024.10473970",
+      "publicationDate": "2024-01-22",
+      "year": 2024
+    },
+    {
+      "title": "HSMS-ADP: Adaptive DNNs Partitioning for End-Edge Collaborative Inference in High-Speed Mobile Scenarios",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS60453.2023.00150",
+      "publicationDate": "2023-12-17",
+      "year": 2023
+    },
+    {
+      "title": "PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS60453.2023.00330",
+      "publicationDate": "2023-12-17",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Compression Scale DNN Inference Acceleration based on Cloud-Edge-End Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1145/3634704",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "AdaMEC: Towards a Context-adaptive and Dynamically Combinable DNN Deployment Framework for Mobile Edge Computing",
+      "arxiv_id": "2310.16547",
+      "doi": "10.1145/3630098",
+      "publicationDate": "2023-10-25",
+      "year": 2023
+    },
+    {
+      "title": "Stochastic Cumulative DNN Inference With RL-Aided Adaptive IoT Device-Edge Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3280746",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "Two-Level Scheduling Algorithms for Deep Neural Network Inference in Vehicular Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2023.3266795",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "A Coalition Formation Approach for Privacy and Energy-Aware Split Deep Learning Inference in Edge Camera Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3220521",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Exit DNN Inference Acceleration Based on Multi-Dimensional Optimization for Edge Intelligence",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2022.3172402",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "PMP: A partition-match parallel mechanism for DNN inference acceleration in cloud-edge collaborative environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2023.103720",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Cloud–Edge Collaborative Inference with Network Pruning",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics12173598",
+      "publicationDate": "2023-08-25",
+      "year": 2023
+    },
+    {
+      "title": "Joint DNN partitioning and task offloading in mobile edge computing via deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1186/s13677-023-00493-9",
+      "publicationDate": "2023-08-03",
+      "year": 2023
+    },
+    {
+      "title": "On the impact of deep neural network calibration on adaptive edge offloading for image classification",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2023.103679",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Multi-UAV Maritime Search and Rescue with DNN Inference Acceleration",
+      "arxiv_id": null,
+      "doi": "10.1109/Ucom59132.2023.10257649",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "The State of the Art of Natural Language Processing—A Systematic Automated Review of NLP Literature Using NLP Techniques",
+      "arxiv_id": null,
+      "doi": "10.1162/dint_a_00213",
+      "publicationDate": "2023-07-03",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Distributed Inference of Deep Neural Networks via Restructuring and Pruning",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i6.25815",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand Edge Resource",
+      "arxiv_id": "2306.12185",
+      "doi": "10.48550/arXiv.2306.12185",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Joint DNN Partition and Resource Allocation for Task Offloading in Edge–Cloud-Assisted IoT Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3237361",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Partition Placement and Resource Allocation for Multiple DNN-Based Applications in Heterogeneous IoT Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3235993",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Accelerate Multi-view Inference with End-edge Collaborative Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/CSCWD57460.2023.10152842",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Throughput Maximization of Delay-Aware DNN Inference in Edge Computing by Exploring DNN Model Partitioning and Inference Parallelism",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2021.3125949",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "MJOA-MU: End-to-edge collaborative computation for DNN inference based on model uploading",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2023.109801",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Deep Neural Network Partition over Cloud, Edge and End Devices",
+      "arxiv_id": "2304.10020",
+      "doi": "10.48550/arXiv.2304.10020",
+      "publicationDate": "2023-04-20",
+      "year": 2023
+    },
+    {
+      "title": "Joint DNN Partition and Resource Allocation Optimization for Energy-Constrained Hierarchical Edge-Cloud Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2022.3219058",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Horizontally Distributed Inference of Deep Neural Networks for AI-Enabled IoT",
+      "arxiv_id": null,
+      "doi": "10.3390/s23041911",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "DNN Deployment, Task Offloading, and Resource Allocation for Joint Task Inference in IIoT",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2022.3192882",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Acceleration of Deep Learning Inference on Resource-Constrained Edge Devices: A Review",
+      "arxiv_id": null,
+      "doi": "10.1109/JPROC.2022.3226481",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "UCL: Unit Competition of Layers for Streaming Tasks in Heterogeneous Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM48099.2022.10000741",
+      "publicationDate": "2022-12-04",
+      "year": 2022
+    },
+    {
+      "title": "A Review Paper on Real-Time Video Analysis in Dense Environment for Surveillance System",
+      "arxiv_id": null,
+      "doi": "10.1109/ICFIRTP56122.2022.10059434",
+      "publicationDate": "2022-11-23",
+      "year": 2022
+    },
+    {
+      "title": "Efficiently Scaling Transformer Inference",
+      "arxiv_id": "2211.05102",
+      "doi": "10.48550/arXiv.2211.05102",
+      "publicationDate": "2022-11-09",
+      "year": 2022
+    },
+    {
+      "title": "Partitioning DNNs for Optimizing Distributed Inference Performance on Cooperative Edge Devices: A Genetic Algorithm Approach",
+      "arxiv_id": null,
+      "doi": "10.3390/app122010619",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/DSD57027.2022.00048",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Collaborative DNN Inference for Edge Intelligence",
+      "arxiv_id": "2207.07812",
+      "doi": "10.1007/s11633-022-1391-7",
+      "publicationDate": "2022-07-16",
+      "year": 2022
+    },
+    {
+      "title": "LoADPart: Load-Aware Dynamic Partition of Deep Neural Networks for Edge Offloading",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS54860.2022.00053",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Reliable DNN Partitioning for UAV Swarm",
+      "arxiv_id": null,
+      "doi": "10.1109/iwcmc55113.2022.9824945",
+      "publicationDate": "2022-05-30",
+      "year": 2022
+    },
+    {
+      "title": "Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM48880.2022.9796896",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "CONTINUER: Maintaining Distributed DNN Services During Edge Failures",
+      "arxiv_id": "2206.05267",
+      "doi": "10.1109/EDGE55608.2022.00029",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "AI on the edge: a comprehensive review",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-022-10141-4",
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "Sequential Offloading for Distributed DNN Computation in Multiuser MEC Systems",
+      "arxiv_id": "2203.01005",
+      "doi": "10.1109/JIOT.2023.3279271",
+      "publicationDate": "2022-03-02",
+      "year": 2022
+    },
+    {
+      "title": "EosDNN: An Efficient Offloading Scheme for DNN Inference Acceleration in Local-Edge-Cloud Collaborative Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/tgcn.2021.3111731",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Transformer for Graphs: An Overview from Architecture Perspective",
+      "arxiv_id": "2202.08455",
+      "doi": null,
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "An Adaptive Task Migration Scheduling Approach for Edge-Cloud Collaborative Inference",
+      "arxiv_id": null,
+      "doi": "10.1155/2022/8804530",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Design possibilities and challenges of DNN models: a review on the perspective of end devices",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-022-10138-z",
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Differential Privacy for Unstructured Data Content",
+      "arxiv_id": null,
+      "doi": "10.1145/3490237",
+      "publicationDate": "2022-01-06",
+      "year": 2022
+    },
+    {
+      "title": "OCDST: Offloading Chained DNNs for Streaming Tasks",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685971",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Joint Optimization With DNN Partitioning and Resource Allocation in Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2021.3116665",
+      "publicationDate": "2021-09-30",
+      "year": 2021
+    },
+    {
+      "title": "Edge Computing and Networking Resource Management for Decomposable Deep Learning: An Auction-Based Approach",
+      "arxiv_id": null,
+      "doi": "10.23919/APNOMS52696.2021.9562657",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "DDPQN: An Efficient DNN Offloading Strategy in Local-Edge-Cloud Collaborative Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/tsc.2021.3116597",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "NEUKONFIG: Reducing Edge Service Downtime When Repartitioning DNNs",
+      "arxiv_id": "2106.15689",
+      "doi": "10.1109/ic2e52221.2021.00026",
+      "publicationDate": "2021-06-29",
+      "year": 2021
+    },
+    {
+      "title": "A White Paper on Neural Network Quantization",
+      "arxiv_id": "2106.08295",
+      "doi": null,
+      "publicationDate": "2021-06-15",
+      "year": 2021
+    },
+    {
+      "title": "Enable Pipeline Processing of DNN Co-inference Tasks In the Mobile-Edge Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCCS52626.2021.9449178",
+      "publicationDate": "2021-04-23",
+      "year": 2021
+    },
+    {
+      "title": "A Review of Artificial Intelligence (AI) in Education from 2010 to 2020",
+      "arxiv_id": null,
+      "doi": "10.1155/2021/8812542",
+      "publicationDate": "2021-04-20",
+      "year": 2021
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "arxiv_id": null,
+      "doi": "10.4236/JDAIP.2021.92006",
+      "publicationDate": "2021-03-18",
+      "year": 2021
+    },
+    {
+      "title": "Dynamic DNN Decomposition for Lossless Synergistic Inference",
+      "arxiv_id": "2101.05952",
+      "doi": "10.1109/icdcsw53096.2021.00010",
+      "publicationDate": "2021-01-15",
+      "year": 2021
+    },
+    {
+      "title": "Mobility-Included DNN Partition Offloading from Mobile Devices to Edge Clouds",
+      "arxiv_id": null,
+      "doi": "10.3390/s21010229",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "CoEdge: Cooperative DNN Inference With Adaptive Workload Partitioning Over Heterogeneous Edge Devices",
+      "arxiv_id": "2012.03257",
+      "doi": "10.1109/TNET.2020.3042320",
+      "publicationDate": "2020-12-06",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive DNN Partition in Edge Computing Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS51040.2020.00097",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Model Partition Defense against GAN Attacks on Collaborative Learning via Mobile Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM42002.2020.9322591",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Reinforcement learning for intelligent healthcare applications: A survey",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ARTMED.2020.101964",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "A Case For Adaptive Deep Neural Networks in Edge Computing",
+      "arxiv_id": "2008.01814",
+      "doi": null,
+      "publicationDate": "2020-08-04",
+      "year": 2020
+    },
+    {
+      "title": "Joint Multiuser DNN Partitioning and Computational Resource Allocation for Collaborative Edge Intelligence",
+      "arxiv_id": "2007.09072",
+      "doi": "10.1109/JIOT.2020.3010258",
+      "publicationDate": "2020-07-15",
+      "year": 2020
+    },
+    {
+      "title": "Distributed Inference Acceleration with Adaptive DNN Partitioning and Offloading",
+      "arxiv_id": null,
+      "doi": "10.1109/infocom41043.2020.9155237",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Knowledge Distillation: A Survey",
+      "arxiv_id": "2006.05525",
+      "doi": "10.1007/s11263-021-01453-z",
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Data Integrity and Security in Distributed Cloud Computing—A Review",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-15-7234-0_73",
+      "publicationDate": "2020-03-22",
+      "year": 2020
+    },
+    {
+      "title": "Joint DNN Partition Deployment and Resource Allocation for Delay-Sensitive Deep Learning Inference in IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2981338",
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "Neurosurgeon",
+      "arxiv_id": null,
+      "doi": "10.32388/yokiea",
+      "publicationDate": "2020-02-02",
+      "year": 2020
+    },
+    {
+      "title": "Secure Multi-Party Computation on Blockchain: An Overview",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-15-2767-8_40",
+      "publicationDate": "2019-12-12",
+      "year": 2019
+    },
+    {
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "arxiv_id": "1912.01703",
+      "doi": null,
+      "publicationDate": "2019-12-03",
+      "year": 2019
+    },
+    {
+      "title": "Adaptive parallel execution of deep neural networks on heterogeneous edge devices",
+      "arxiv_id": null,
+      "doi": "10.1145/3318216.3363312",
+      "publicationDate": "2019-11-07",
+      "year": 2019
+    },
+    {
+      "title": "Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing",
+      "arxiv_id": "1910.05316",
+      "doi": "10.1109/TWC.2019.2946140",
+      "publicationDate": "2019-10-04",
+      "year": 2019
+    },
+    {
+      "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+      "arxiv_id": "1909.08053",
+      "doi": null,
+      "publicationDate": "2019-09-17",
+      "year": 2019
+    },
+    {
+      "title": "Edge-Computing-Enabled Smart Cities: A Comprehensive Survey",
+      "arxiv_id": "1909.08747",
+      "doi": "10.1109/JIOT.2020.2987070",
+      "publicationDate": "2019-09-11",
+      "year": 2019
+    },
+    {
+      "title": "Convergence of Edge Computing and Deep Learning: A Comprehensive Survey",
+      "arxiv_id": "1907.08349",
+      "doi": "10.1109/COMST.2020.2970550",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning With Edge Computing: A Review",
+      "arxiv_id": null,
+      "doi": "10.1109/JPROC.2019.2921977",
+      "publicationDate": "2019-07-15",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Autonomous Driving: Common Practices and Emerging Technologies",
+      "arxiv_id": "1906.05113",
+      "doi": "10.1109/ACCESS.2020.2983149",
+      "publicationDate": "2019-06-12",
+      "year": 2019
+    },
+    {
+      "title": "Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing",
+      "arxiv_id": "1905.10083",
+      "doi": "10.1109/JPROC.2019.2918951",
+      "publicationDate": "2019-05-24",
+      "year": 2019
+    },
+    {
+      "title": "Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2019.8737614",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "JALAD: Joint Accuracy-And Latency-Aware Deep Structure Decoupling for Edge-Cloud Execution",
+      "arxiv_id": "1812.10027",
+      "doi": "10.1109/PADSW.2018.8645013",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "DeepThings: Distributed Adaptive Deep Learning Inference on Resource-Constrained IoT Edge Clusters",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2018.2858384",
+      "publicationDate": "2018-10-16",
+      "year": 2018
+    },
+    {
+      "title": "Robust Physical-World Attacks on Deep Learning Visual Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2018.00175",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Toolflows for Mapping Convolutional Neural Networks on FPGAs",
+      "arxiv_id": "1803.05900",
+      "doi": "10.1145/3186332",
+      "publicationDate": "2018-03-15",
+      "year": 2018
+    },
+    {
+      "title": "JointDNN: An Efficient Training and Inference Engine for Intelligent Mobile Cloud Computing Services",
+      "arxiv_id": "1801.08618",
+      "doi": "10.1109/TMC.2019.2947893",
+      "publicationDate": "2018-01-25",
+      "year": 2018
+    },
+    {
+      "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+      "arxiv_id": "1712.05877",
+      "doi": "10.1109/CVPR.2018.00286",
+      "publicationDate": "2017-12-15",
+      "year": 2017
+    },
+    {
+      "title": "Learning Sparse Neural Networks through L0 Regularization",
+      "arxiv_id": "1712.01312",
+      "doi": null,
+      "publicationDate": "2017-12-04",
+      "year": 2017
+    },
+    {
+      "title": "Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs",
+      "arxiv_id": "1711.05979",
+      "doi": "10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.000-4",
+      "publicationDate": "2017-11-16",
+      "year": 2017
+    },
+    {
+      "title": "MeDNN: A distributed mobile system with enhanced partition and deployment for large-scale DNNs",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCAD.2017.8203852",
+      "publicationDate": "2017-11-13",
+      "year": 2017
+    },
+    {
+      "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",
+      "arxiv_id": "1704.04861",
+      "doi": null,
+      "publicationDate": "2017-04-17",
+      "year": 2017
+    },
+    {
+      "title": "In-datacenter performance analysis of a tensor processing unit",
+      "arxiv_id": "1704.04760",
+      "doi": "10.1145/3079856.3080246",
+      "publicationDate": "2017-04-16",
+      "year": 2017
+    },
+    {
+      "title": "A Survey on Homomorphic Encryption Schemes",
+      "arxiv_id": "1704.03578",
+      "doi": "10.1145/3214303",
+      "publicationDate": "2017-04-12",
+      "year": 2017
+    },
+    {
+      "title": "Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge",
+      "arxiv_id": null,
+      "doi": "10.1145/3037697.3037698",
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "MoDNN: Local distributed mobile computing system for Deep Neural Network",
+      "arxiv_id": null,
+      "doi": "10.23919/DATE.2017.7927211",
+      "publicationDate": "2017-03-27",
+      "year": 2017
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "arxiv_id": null,
+      "doi": "10.1145/3013520",
+      "publicationDate": "2016-12-07",
+      "year": 2016
+    },
+    {
+      "title": "BranchyNet: Fast inference via early exiting from deep neural networks",
+      "arxiv_id": "1709.01686",
+      "doi": "10.1109/ICPR.2016.7900006",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "Pruning Filters for Efficient ConvNets",
+      "arxiv_id": "1608.08710",
+      "doi": null,
+      "publicationDate": "2016-08-31",
+      "year": 2016
+    },
+    {
+      "title": "EIE: Efficient Inference Engine on Compressed Deep Neural Network",
+      "arxiv_id": "1602.01528",
+      "doi": "10.1145/3007787.3001163",
+      "publicationDate": "2016-02-04",
+      "year": 2016
+    },
+    {
+      "title": "Deep Residual Learning for Image Recognition",
+      "arxiv_id": "1512.03385",
+      "doi": "10.1109/cvpr.2016.90",
+      "publicationDate": "2015-12-10",
+      "year": 2015
+    },
+    {
+      "title": "Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/2810103.2813677",
+      "publicationDate": "2015-10-12",
+      "year": 2015
+    },
+    {
+      "title": "Learning both Weights and Connections for Efficient Neural Network",
+      "arxiv_id": "1506.02626",
+      "doi": null,
+      "publicationDate": "2015-06-08",
+      "year": 2015
+    },
+    {
+      "title": "Distilling the Knowledge in a Neural Network",
+      "arxiv_id": "1503.02531",
+      "doi": null,
+      "publicationDate": "2015-03-09",
+      "year": 2015
+    },
+    {
+      "title": "Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/2684746.2689060",
+      "publicationDate": "2015-02-22",
+      "year": 2015
+    },
+    {
+      "title": "Deep Learning with Limited Numerical Precision",
+      "arxiv_id": "1502.02551",
+      "doi": null,
+      "publicationDate": "2015-02-09",
+      "year": 2015
+    },
+    {
+      "title": "FitNets: Hints for Thin Deep Nets",
+      "arxiv_id": "1412.6550",
+      "doi": null,
+      "publicationDate": "2014-12-19",
+      "year": 2014
+    },
+    {
+      "title": "Going deeper with convolutions",
+      "arxiv_id": "1409.4842",
+      "doi": "10.1109/CVPR.2015.7298594",
+      "publicationDate": "2014-09-16",
+      "year": 2014
+    },
+    {
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+      "arxiv_id": "1409.1556",
+      "doi": null,
+      "publicationDate": "2014-09-04",
+      "year": 2014
+    },
+    {
+      "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+      "arxiv_id": "1408.5093",
+      "doi": "10.1145/2647868.2654889",
+      "publicationDate": "2014-06-20",
+      "year": 2014
+    },
+    {
+      "title": "DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning",
+      "arxiv_id": null,
+      "doi": "10.1145/2541940.2541967",
+      "publicationDate": "2014-02-24",
+      "year": 2014
+    },
+    {
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3065386",
+      "publicationDate": "2012-12-03",
+      "year": 2012
+    },
+    {
+      "title": "Received 27 March 2025; revised 20 July 2025; accepted 7 November 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.19407",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "End-Edge-Cloud Collaborative Computing for Deep Learning: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2024.3393230",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Clothes-Changing Person Re-Identification via Universal Framework With Association and Forgetting Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2023.3321498",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "DNNSplit: Latency and Cost-Efficient Split Point Identification for Multi-Tier DNN Partitioning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3409057",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "HPipe: Large Language Model Pipeline Parallelism for Long Context on Heterogeneous Cost-effective Devices",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.naacl-industry.1",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "DNN Partitioning for Inference Throughput Acceleration at the Edge",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3244497",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A commentary of GPT-3 in MIT Technology Review 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Should I leave this layer? A theoretical and practical perspective on early-exit strategies for deep neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "MitM attacks on federated learning: Challenges and research opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "What is a blockchain",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Efficient Deep Learning Inference on Edge Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Chainer : a Next-Generation Open Source Framework for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "TensorFlow: Large-scale machine learning on heterogeneous systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Scalable parallel programming with CUDA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "2023. ASPM: Reliability-oriented DNN inference partition and offloading in vehicular edge computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Adaptive layer splitting for wireless LLM inference in edge computing: A model-based reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. DNN partitioning, task offloading, and resource allocation in dynamic vehicular networks: A Lyapunov-guided diffusion-based reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Distributed Computation of DNN via DRL With Spatio-Temporal State Embedding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Distributed artificial intelligence empowered by end-edge-cloud computing: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

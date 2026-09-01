@@ -1,0 +1,1696 @@
+{
+  "candidate": {
+    "topic": "Visual Adversarial Attacks and Defenses in the Physical World",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3793659",
+      "title": "Visual Adversarial Attacks and Defenses in the Physical World: A Survey",
+      "published": "2026-04-01"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:18+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 237,
+    "arxiv_resolvable": 166,
+    "doi_only": 54,
+    "unresolved": 17
+  },
+  "gt_s2": {
+    "paperId": "16bded3768bf78c194c7f0b503b3c517283cab36",
+    "externalIds": {
+      "DBLP": "journals/csur/WeiPZLW26",
+      "ArXiv": "2211.01671",
+      "DOI": "10.1145/3793659",
+      "CorpusId": 257353863
+    },
+    "title": "Visual Adversarial Attacks and Defenses in the Physical World: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2022,
+    "referenceCount": 237,
+    "publicationDate": "2022-11-03"
+  },
+  "refs": [
+    {
+      "title": "PADetBench: Towards benchmarking texture- and patch-based physical attacks against object detection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.114395",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Real-World Adversarial Defense Against Patch Attacks Based on Diffusion Model",
+      "arxiv_id": "2409.09406",
+      "doi": "10.1109/TPAMI.2025.3596462",
+      "publicationDate": "2024-09-14",
+      "year": 2024
+    },
+    {
+      "title": "PADetBench: Towards Benchmarking Physical Attacks against Object Detection",
+      "arxiv_id": "2408.09181",
+      "doi": "10.48550/arXiv.2408.09181",
+      "publicationDate": "2024-08-17",
+      "year": 2024
+    },
+    {
+      "title": "NAPGuard: Towards Detecting Naturalistic Adversarial Patches",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52733.2024.02300",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "PAD: Patch-Agnostic Defense against Adversarial Patch Attacks",
+      "arxiv_id": "2404.16452",
+      "doi": "10.1109/CVPR52733.2024.02310",
+      "publicationDate": "2024-04-25",
+      "year": 2024
+    },
+    {
+      "title": "Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving",
+      "arxiv_id": "2403.17301",
+      "doi": "10.1109/CVPR52733.2024.02308",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception",
+      "arxiv_id": "2401.03582",
+      "doi": "10.14722/ndss.2024.231053",
+      "publicationDate": "2024-01-07",
+      "year": 2024
+    },
+    {
+      "title": "TPatch: A Triggered Physical Adversarial Patch",
+      "arxiv_id": "2401.00148",
+      "doi": "10.48550/arXiv.2401.00148",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Towards Transferable Targeted 3D Adversarial Attack in the Physical World",
+      "arxiv_id": "2312.09558",
+      "doi": "10.1109/CVPR52733.2024.02314",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses",
+      "arxiv_id": "2310.13076",
+      "doi": "10.48550/arXiv.2310.13076",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Towards few-call model stealing via active self-paced knowledge distillation and diffusion-based image generation",
+      "arxiv_id": "2310.00096",
+      "doi": "10.1007/s10462-025-11184-z",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Defending Against Physical Adversarial Patch Attacks on Infrared Human Detection",
+      "arxiv_id": "2309.15519",
+      "doi": "10.48550/arXiv.2309.15519",
+      "publicationDate": "2023-09-27",
+      "year": 2023
+    },
+    {
+      "title": "ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion",
+      "arxiv_id": "2308.07009",
+      "doi": "10.1109/ICCV51070.2023.00397",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Unified Adversarial Patch for Cross-modal Attacks in the Physical World",
+      "arxiv_id": "2307.07859",
+      "doi": "10.1109/ICCV51070.2023.00410",
+      "publicationDate": "2023-07-15",
+      "year": 2023
+    },
+    {
+      "title": "RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World",
+      "arxiv_id": "2307.07653",
+      "doi": "10.1109/ICCV51070.2023.00411",
+      "publicationDate": "2023-07-14",
+      "year": 2023
+    },
+    {
+      "title": "Distributional Modeling for Location-Aware Adversarial Patches",
+      "arxiv_id": "2306.16131",
+      "doi": "10.48550/arXiv.2306.16131",
+      "publicationDate": "2023-06-28",
+      "year": 2023
+    },
+    {
+      "title": "DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World",
+      "arxiv_id": "2306.09124",
+      "doi": "10.48550/arXiv.2306.09124",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Revisiting the Trade-Off Between Accuracy and Robustness via Weight Distribution of Filters",
+      "arxiv_id": "2306.03430",
+      "doi": "10.1109/TPAMI.2024.3411035",
+      "publicationDate": "2023-06-06",
+      "year": 2023
+    },
+    {
+      "title": "Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling",
+      "arxiv_id": "2307.01778",
+      "doi": "10.1109/CVPR52729.2023.01628",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Towards Benchmarking and Assessing Visual Naturalness of Physical World Adversarial Attacks",
+      "arxiv_id": "2305.12863",
+      "doi": "10.1109/CVPR52729.2023.01186",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "DAP: A Dynamic Adversarial Patch for Evading Person Detectors",
+      "arxiv_id": "2305.11618",
+      "doi": "10.1109/CVPR52733.2024.02322",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle",
+      "arxiv_id": null,
+      "doi": "10.1109/SP46215.2023.10179458",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Jedi: Entropy-Based Localization and Removal of Adversarial Patches",
+      "arxiv_id": "2304.10029",
+      "doi": "10.1109/CVPR52729.2023.00398",
+      "publicationDate": "2023-04-20",
+      "year": 2023
+    },
+    {
+      "title": "Physically Adversarial Infrared Patches with Learnable Shapes and Locations",
+      "arxiv_id": "2303.13868",
+      "doi": "10.1109/CVPR52729.2023.01187",
+      "publicationDate": "2023-03-24",
+      "year": 2023
+    },
+    {
+      "title": "APARATE: Adaptive Adversarial Patch for CNN-based Monocular Depth Estimation for Autonomous Navigation",
+      "arxiv_id": "2303.01351",
+      "doi": "10.48550/arXiv.2303.01351",
+      "publicationDate": "2023-03-02",
+      "year": 2023
+    },
+    {
+      "title": "ShrewdAttack: Low Cost High Accuracy Model Extraction",
+      "arxiv_id": null,
+      "doi": "10.3390/e25020282",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Robustness Assessment via Adversarial Spatial-Temporal Focus on Videos",
+      "arxiv_id": "2301.00896",
+      "doi": "10.1109/TPAMI.2023.3262592",
+      "publicationDate": "2023-01-03",
+      "year": 2023
+    },
+    {
+      "title": "Simultaneously Optimizing Perturbations and Positions for Black-Box Adversarial Patch Attacks",
+      "arxiv_id": "2212.12995",
+      "doi": "10.1109/TPAMI.2022.3231886",
+      "publicationDate": "2022-12-26",
+      "year": 2022
+    },
+    {
+      "title": "REAP: A Large-Scale Realistic Adversarial Patch Benchmark",
+      "arxiv_id": "2212.05680",
+      "doi": "10.1109/ICCV51070.2023.00428",
+      "publicationDate": "2022-12-12",
+      "year": 2022
+    },
+    {
+      "title": "T-SEA: Transfer-Based Self-Ensemble Attack on Object Detection",
+      "arxiv_id": "2211.09773",
+      "doi": "10.1109/CVPR52729.2023.01965",
+      "publicationDate": "2022-11-16",
+      "year": 2022
+    },
+    {
+      "title": "Assessing the Impact of Transformations on Physical Adversarial Attacks",
+      "arxiv_id": null,
+      "doi": "10.1145/3560830.3563733",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Poster: Towards Large-Scale Measurement Study on LiDAR Spoofing Attacks against Object Detection",
+      "arxiv_id": null,
+      "doi": "10.1145/3548606.3563537",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks",
+      "arxiv_id": "2210.09482",
+      "doi": "10.48550/arXiv.2210.09482",
+      "publicationDate": "2022-10-18",
+      "year": 2022
+    },
+    {
+      "title": "Defending Physical Adversarial Attack on Object Detection via Adversarial Patch-Feature Energy",
+      "arxiv_id": null,
+      "doi": "10.1145/3503161.3548362",
+      "publicationDate": "2022-10-10",
+      "year": 2022
+    },
+    {
+      "title": "Physical Adversarial Attack Meets Computer Vision: A Decade Survey",
+      "arxiv_id": "2209.15179",
+      "doi": "10.1109/TPAMI.2024.3430860",
+      "publicationDate": "2022-09-30",
+      "year": 2022
+    },
+    {
+      "title": "Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation",
+      "arxiv_id": "2209.05980",
+      "doi": "10.48550/arXiv.2209.05980",
+      "publicationDate": "2022-09-13",
+      "year": 2022
+    },
+    {
+      "title": "SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness",
+      "arxiv_id": "2207.12391",
+      "doi": "10.48550/arXiv.2207.12391",
+      "publicationDate": "2022-07-25",
+      "year": 2022
+    },
+    {
+      "title": "Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches",
+      "arxiv_id": "2207.04718",
+      "doi": "10.48550/arXiv.2207.04718",
+      "publicationDate": "2022-07-11",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Models for Adversarial Purification",
+      "arxiv_id": "2205.07460",
+      "doi": "10.48550/arXiv.2205.07460",
+      "publicationDate": "2022-05-16",
+      "year": 2022
+    },
+    {
+      "title": "Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World",
+      "arxiv_id": "2205.05909",
+      "doi": "10.1109/CVPR52688.2022.01296",
+      "publicationDate": "2022-05-12",
+      "year": 2022
+    },
+    {
+      "title": "DDDM: a Brain-Inspired Framework for Robust Classification",
+      "arxiv_id": "2205.10117",
+      "doi": "10.48550/arXiv.2205.10117",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "DTA: Physical Camouflage Attacks using Differentiable Transformation Network",
+      "arxiv_id": "2203.09831",
+      "doi": "10.1109/CVPR52688.2022.01487",
+      "publicationDate": "2022-03-18",
+      "year": 2022
+    },
+    {
+      "title": "Towards Practical Certifiable Patch Defense with Vision Transformer",
+      "arxiv_id": "2203.08519",
+      "doi": "10.1109/CVPR52688.2022.01472",
+      "publicationDate": "2022-03-16",
+      "year": 2022
+    },
+    {
+      "title": "Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon",
+      "arxiv_id": "2203.03818",
+      "doi": "10.1109/CVPR52688.2022.01491",
+      "publicationDate": "2022-03-08",
+      "year": 2022
+    },
+    {
+      "title": "Adversarial Texture for Fooling Person Detectors in the Physical World",
+      "arxiv_id": "2203.03373",
+      "doi": "10.1109/CVPR52688.2022.01295",
+      "publicationDate": "2022-03-07",
+      "year": 2022
+    },
+    {
+      "title": "Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding",
+      "arxiv_id": "2203.00867",
+      "doi": "10.1109/CVPR52688.2022.01107",
+      "publicationDate": "2022-03-02",
+      "year": 2022
+    },
+    {
+      "title": "Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection",
+      "arxiv_id": "2112.04532",
+      "doi": "10.1109/CVPR52688.2022.01455",
+      "publicationDate": "2021-12-08",
+      "year": 2021
+    },
+    {
+      "title": "PatchCensor: Patch Robustness Certification for Transformers via Exhaustive Testing",
+      "arxiv_id": "2111.10481",
+      "doi": "10.1145/3591870",
+      "publicationDate": "2021-11-19",
+      "year": 2021
+    },
+    {
+      "title": "Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?",
+      "arxiv_id": null,
+      "doi": "10.1145/3460120.3485377",
+      "publicationDate": "2021-11-12",
+      "year": 2021
+    },
+    {
+      "title": "ScaleCert: Scalable Certified Defense against Adversarial Patches with Sparse Superficial Layers",
+      "arxiv_id": "2110.14120",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "Certified Patch Robustness via Smoothed Vision Transformers",
+      "arxiv_id": "2110.07719",
+      "doi": "10.1109/CVPR52688.2022.01471",
+      "publicationDate": "2021-10-11",
+      "year": 2021
+    },
+    {
+      "title": "Meta-Attack: Class-agnostic and Model-agnostic Physical Adversarial Attack",
+      "arxiv_id": null,
+      "doi": "10.1109/iccv48922.2021.00769",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Naturalistic Physical Adversarial Patch for Object Detectors",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV48922.2021.00775",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Parallel Rectangle Flip Attack: A Query-based Black-box Attack against Object Detection",
+      "arxiv_id": "2201.08970",
+      "doi": "10.1109/iccv48922.2021.00760",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Defending against Universal Adversarial Patches by Clipping Feature Norms",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV48922.2021.01612",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Example Detection Using Latent Neighborhood Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV48922.2021.00759",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack",
+      "arxiv_id": "2109.07193",
+      "doi": "10.1609/aaai.v36i2.20141",
+      "publicationDate": "2021-09-15",
+      "year": 2021
+    },
+    {
+      "title": "On Brightness Agnostic Adversarial Examples Against Face Recognition Systems",
+      "arxiv_id": "2109.14205",
+      "doi": "10.1109/BIOSIG52210.2021.9548291",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Physical Adversarial Attacks on an Aerial Imagery Object Detector",
+      "arxiv_id": "2108.11765",
+      "doi": "10.1109/WACV51458.2022.00385",
+      "publicationDate": "2021-08-26",
+      "year": 2021
+    },
+    {
+      "title": "Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better",
+      "arxiv_id": "2108.07969",
+      "doi": "10.1109/ICCV48922.2021.01613",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Optical Adversarial Attack",
+      "arxiv_id": "2108.06247",
+      "doi": "10.1109/ICCVW54120.2021.00016",
+      "publicationDate": "2021-08-13",
+      "year": 2021
+    },
+    {
+      "title": "Advances in adversarial attacks and defenses in computer vision: A survey",
+      "arxiv_id": "2108.00401",
+      "doi": "10.1109/ACCESS.2021.3127960",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Inconspicuous Adversarial Patches for Fooling Image-Recognition Systems on Mobile Devices",
+      "arxiv_id": "2106.15202",
+      "doi": "10.1109/JIOT.2021.3124815 10.1109/JIOT.2021.3124815",
+      "publicationDate": "2021-06-29",
+      "year": 2021
+    },
+    {
+      "title": "Knowledge Enhanced Machine Learning Pipeline against Diverse Adversarial Attacks",
+      "arxiv_id": "2106.06235",
+      "doi": null,
+      "publicationDate": "2021-06-11",
+      "year": 2021
+    },
+    {
+      "title": "Reliable Adversarial Distillation with Unreliable Teachers",
+      "arxiv_id": "2106.04928",
+      "doi": null,
+      "publicationDate": "2021-06-09",
+      "year": 2021
+    },
+    {
+      "title": "Improving Transferability of Adversarial Patches on Face Recognition with Generative Models",
+      "arxiv_id": "2106.15058",
+      "doi": "10.1109/CVPR46437.2021.01167",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Towards Universal Physical Attacks on Single Object Tracking",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i2.16211",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition",
+      "arxiv_id": "2105.03162",
+      "doi": "10.24963/ijcai.2021/173",
+      "publicationDate": "2021-05-07",
+      "year": 2021
+    },
+    {
+      "title": "Demo: Security of Deep Learning based Automated Lane Centering under Physical-World Attack",
+      "arxiv_id": null,
+      "doi": "10.1109/SPW53761.2021.00041",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Sticker: A Stealthy Attack Method in the Physical World",
+      "arxiv_id": "2104.06728",
+      "doi": "10.1109/TPAMI.2022.3176760",
+      "publicationDate": "2021-04-14",
+      "year": 2021
+    },
+    {
+      "title": "Fooling LiDAR Perception via Adversarial Trajectory Perturbation",
+      "arxiv_id": "2103.15326",
+      "doi": "10.1109/ICCV48922.2021.00780",
+      "publicationDate": "2021-03-29",
+      "year": 2021
+    },
+    {
+      "title": "LiBRe: A Practical Bayesian Approach to Adversarial Detection",
+      "arxiv_id": "2103.14835",
+      "doi": "10.1109/CVPR46437.2021.00103",
+      "publicationDate": "2021-03-27",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial YOLO: Defense Human Detection Patch Attacks via Detecting Adversarial Patches",
+      "arxiv_id": "2103.08860",
+      "doi": null,
+      "publicationDate": "2021-03-16",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink",
+      "arxiv_id": "2103.06504",
+      "doi": "10.1109/CVPR46437.2021.01580",
+      "publicationDate": "2021-03-11",
+      "year": 2021
+    },
+    {
+      "title": "Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World",
+      "arxiv_id": "2103.01050",
+      "doi": "10.1109/CVPR46437.2021.00846",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Detecting Localized Adversarial Examples: A Generic Approach using Critical Region Analysis",
+      "arxiv_id": "2102.05241",
+      "doi": "10.1109/INFOCOM42981.2021.9488754",
+      "publicationDate": "2021-02-10",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Certified Defenses Against Patch Attacks on Image Classifiers",
+      "arxiv_id": "2102.04154",
+      "doi": null,
+      "publicationDate": "2021-02-08",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Imaging Pipelines",
+      "arxiv_id": "2102.03728",
+      "doi": "10.1109/CVPR46437.2021.01579",
+      "publicationDate": "2021-02-07",
+      "year": 2021
+    },
+    {
+      "title": "Meta Adversarial Training against Universal Patches",
+      "arxiv_id": "2101.11453",
+      "doi": null,
+      "publicationDate": "2021-01-27",
+      "year": 2021
+    },
+    {
+      "title": "Towards Universal Physical Attacks On Cascaded Camera-Lidar 3d Object Detection Models",
+      "arxiv_id": "2101.10747",
+      "doi": "10.1109/ICIP42928.2021.9506016",
+      "publicationDate": "2021-01-26",
+      "year": 2021
+    },
+    {
+      "title": "Fooling thermal infrared pedestrian detectors in real world using small bulbs",
+      "arxiv_id": "2101.08154",
+      "doi": "10.1609/aaai.v35i4.16477",
+      "publicationDate": "2021-01-20",
+      "year": 2021
+    },
+    {
+      "title": "The Translucent Patch: A Physical and Universal Attack on Object Detectors",
+      "arxiv_id": "2012.12528",
+      "doi": "10.1109/CVPR46437.2021.01498",
+      "publicationDate": "2020-12-23",
+      "year": 2020
+    },
+    {
+      "title": "Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect",
+      "arxiv_id": "2011.13375",
+      "doi": "10.1109/CVPR46437.2021.01443",
+      "publicationDate": "2020-11-26",
+      "year": 2020
+    },
+    {
+      "title": "Bait and Switch: Online Training Data Poisoning of Autonomous Driving Systems",
+      "arxiv_id": "2011.04065",
+      "doi": null,
+      "publicationDate": "2020-11-08",
+      "year": 2020
+    },
+    {
+      "title": "Deep learning and medical image processing for coronavirus (COVID-19) pandemic: A survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.scs.2020.102589",
+      "publicationDate": "2020-11-05",
+      "year": 2020
+    },
+    {
+      "title": "Human detection techniques for real time surveillance: a comprehensive survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-020-10103-4",
+      "publicationDate": "2020-11-05",
+      "year": 2020
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Double Targeted Universal Adversarial Perturbations",
+      "arxiv_id": "2010.03288",
+      "doi": "10.1007/978-3-030-69538-5_18",
+      "publicationDate": "2020-10-07",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Patch Attacks on Monocular Depth Estimation Networks",
+      "arxiv_id": "2010.03072",
+      "doi": "10.1109/ACCESS.2020.3027372",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack",
+      "arxiv_id": "2009.06701",
+      "doi": null,
+      "publicationDate": "2020-09-14",
+      "year": 2020
+    },
+    {
+      "title": "Defending Against Multiple and Unforeseen Adversarial Videos",
+      "arxiv_id": "2009.05244",
+      "doi": "10.1109/TIP.2021.3137648",
+      "publicationDate": "2020-09-11",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective",
+      "arxiv_id": "2009.03728",
+      "doi": "10.1145/3485133",
+      "publicationDate": "2020-09-08",
+      "year": 2020
+    },
+    {
+      "title": "A Brief Survey on Semantic Segmentation with Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2019.11.118",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Patch Camouflage against Aerial Detection",
+      "arxiv_id": "2008.13671",
+      "doi": "10.1117/12.2575907",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "Physical Adversarial Attack on Vehicle Detector in the Carla Simulator",
+      "arxiv_id": "2007.16118",
+      "doi": null,
+      "publicationDate": "2020-07-31",
+      "year": 2020
+    },
+    {
+      "title": "SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations",
+      "arxiv_id": "2007.04137",
+      "doi": null,
+      "publicationDate": "2020-07-08",
+      "year": 2020
+    },
+    {
+      "title": "Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures",
+      "arxiv_id": "2006.16974",
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Examples on Object Recognition",
+      "arxiv_id": "2008.04094",
+      "doi": "10.1145/3398394",
+      "publicationDate": "2020-06-12",
+      "year": 2020
+    },
+    {
+      "title": "One-Shot Adversarial Attacks on Visual Tracking With Dual Attention",
+      "arxiv_id": null,
+      "doi": "10.1109/cvpr42600.2020.01019",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Spatiotemporal Attacks for Embodied Agents",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-58520-4_8",
+      "publicationDate": "2020-05-19",
+      "year": 2020
+    },
+    {
+      "title": "PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-05-17",
+      "year": 2020
+    },
+    {
+      "title": "LGSVL Simulator: A High Fidelity Simulator for Autonomous Driving",
+      "arxiv_id": "2005.03778",
+      "doi": "10.1109/ITSC45102.2020.9294422",
+      "publicationDate": "2020-05-07",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Training against Location-Optimized Adversarial Patches",
+      "arxiv_id": "2005.02313",
+      "doi": "10.1007/978-3-030-68238-5_32",
+      "publicationDate": "2020-05-05",
+      "year": 2020
+    },
+    {
+      "title": "Hijacking Tracker: A Powerful Adversarial Attack on Visual Tracking",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP40776.2020.9053574",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Clipped BagNet: Defending Against Sticker Attacks with Clipped Bag-of-features",
+      "arxiv_id": null,
+      "doi": "10.1109/SPW50608.2020.00026",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Minority Reports Defense: Defending Against Adversarial Patches",
+      "arxiv_id": "2004.13799",
+      "doi": "10.1007/978-3-030-61638-0_31",
+      "publicationDate": "2020-04-28",
+      "year": 2020
+    },
+    {
+      "title": "Robust Adversarial Objects against Deep Learning Models",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5443",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Beyond Digital Domain: Fooling Deep Learning Based Recognition System in Physical World",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5459",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Physically Realizable Adversarial Examples for LiDAR Object Detection",
+      "arxiv_id": "2004.00543",
+      "doi": "10.1109/cvpr42600.2020.01373",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study",
+      "arxiv_id": "2003.11145",
+      "doi": "10.1109/CVPRW50498.2020.00415",
+      "publicationDate": "2020-03-24",
+      "year": 2020
+    },
+    {
+      "title": "Certified Defenses for Adversarial Patches",
+      "arxiv_id": "2003.06693",
+      "doi": null,
+      "publicationDate": "2020-03-14",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles",
+      "arxiv_id": "2003.08757",
+      "doi": "10.1109/cvpr42600.2020.00108",
+      "publicationDate": "2020-03-08",
+      "year": 2020
+    },
+    {
+      "title": "(De)Randomized Smoothing for Certifiable Defense against Patch Attacks",
+      "arxiv_id": "2002.10733",
+      "doi": null,
+      "publicationDate": "2020-02-25",
+      "year": 2020
+    },
+    {
+      "title": "Over-the-Air Adversarial Flickering Attacks against Video Recognition Networks",
+      "arxiv_id": "2002.05123",
+      "doi": "10.1109/CVPR46437.2021.00058",
+      "publicationDate": "2020-02-12",
+      "year": 2020
+    },
+    {
+      "title": "Sparse Black-Box Video Attack with Reinforcement Learning",
+      "arxiv_id": "2001.03754",
+      "doi": "10.1007/s11263-022-01604-w",
+      "publicationDate": "2020-01-11",
+      "year": 2020
+    },
+    {
+      "title": "Geometry-Aware Generation of Adversarial Point Clouds",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2020.3044712",
+      "publicationDate": "2019-12-24",
+      "year": 2019
+    },
+    {
+      "title": "APRICOT: A Dataset of Physical Adversarial Attacks on Object Detection",
+      "arxiv_id": "1912.08166",
+      "doi": "10.1007/978-3-030-58589-1_3",
+      "publicationDate": "2019-12-17",
+      "year": 2019
+    },
+    {
+      "title": "Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors",
+      "arxiv_id": "1910.14667",
+      "doi": "10.1007/978-3-030-58548-8_1",
+      "publicationDate": "2019-10-31",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial T-Shirt! Evading Person Detectors in a Physical World",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-58558-7_39",
+      "publicationDate": "2019-10-18",
+      "year": 2019
+    },
+    {
+      "title": "ZO-AdaMM: Zeroth-Order Adaptive Momentum Method for Black-Box Optimization",
+      "arxiv_id": "1910.06513",
+      "doi": null,
+      "publicationDate": "2019-10-15",
+      "year": 2019
+    },
+    {
+      "title": "Attacking Vision-based Perception in End-to-End Autonomous Driving Models",
+      "arxiv_id": "1910.01907",
+      "doi": "10.1016/j.sysarc.2020.101766",
+      "publicationDate": "2019-10-02",
+      "year": 2019
+    },
+    {
+      "title": "On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System",
+      "arxiv_id": "1910.07067",
+      "doi": "10.1109/SIBIRCON48586.2019.8958134",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Scalable Verified Training for Provably Robust Image Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV.2019.00494",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Defending Against Physically Realizable Attacks on Image Classification",
+      "arxiv_id": "1909.09552",
+      "doi": null,
+      "publicationDate": "2019-09-20",
+      "year": 2019
+    },
+    {
+      "title": "Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors",
+      "arxiv_id": "1909.06872",
+      "doi": "10.1109/cvpr42600.2020.01446",
+      "publicationDate": "2019-09-15",
+      "year": 2019
+    },
+    {
+      "title": "Universal Physical Camouflage Attacks on Object Detectors",
+      "arxiv_id": "1909.04326",
+      "doi": "10.1109/CVPR42600.2020.00080",
+      "publicationDate": "2019-09-10",
+      "year": 2019
+    },
+    {
+      "title": "STA: Adversarial Attacks on Siamese Trackers",
+      "arxiv_id": "1909.03413",
+      "doi": null,
+      "publicationDate": "2019-09-08",
+      "year": 2019
+    },
+    {
+      "title": "advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns",
+      "arxiv_id": "1908.09327",
+      "doi": "10.1109/ICCV.2019.00843",
+      "publicationDate": "2019-08-25",
+      "year": 2019
+    },
+    {
+      "title": "AdvHat: Real-World Adversarial Attack on ArcFace Face ID System",
+      "arxiv_id": "1908.08705",
+      "doi": "10.1109/ICPR48806.2021.9412236",
+      "publicationDate": "2019-08-23",
+      "year": 2019
+    },
+    {
+      "title": "BlurNet: Defense by Filtering the Feature Maps",
+      "arxiv_id": "1908.02256",
+      "doi": "10.1109/DSN-W50199.2020.00016",
+      "publicationDate": "2019-08-06",
+      "year": 2019
+    },
+    {
+      "title": "From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation",
+      "arxiv_id": "1907.10326",
+      "doi": null,
+      "publicationDate": "2019-07-24",
+      "year": 2019
+    },
+    {
+      "title": "Deep learning in video multi-object tracking: A survey",
+      "arxiv_id": "1907.12740",
+      "doi": "10.1016/j.neucom.2019.11.023",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V33I01.3301962",
+      "publicationDate": "2019-07-17",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving",
+      "arxiv_id": "1907.06826",
+      "doi": "10.1145/3319535.3339815",
+      "publicationDate": "2019-07-16",
+      "year": 2019
+    },
+    {
+      "title": "PhysGAN: Generating Physical-World-Resilient Adversarial Examples for Autonomous Driving",
+      "arxiv_id": "1907.04449",
+      "doi": "10.1109/cvpr42600.2020.01426",
+      "publicationDate": "2019-07-09",
+      "year": 2019
+    },
+    {
+      "title": "Adversarially Robust Distillation",
+      "arxiv_id": "1905.09747",
+      "doi": "10.1609/AAAI.V34I04.5816",
+      "publicationDate": "2019-05-23",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial Examples Are Not Bugs, They Are Features",
+      "arxiv_id": "1905.02175",
+      "doi": null,
+      "publicationDate": "2019-05-06",
+      "year": 2019
+    },
+    {
+      "title": "Physical Adversarial Textures That Fool Visual Object Tracking",
+      "arxiv_id": "1904.11042",
+      "doi": "10.1109/ICCV.2019.00492",
+      "publicationDate": "2019-04-24",
+      "year": 2019
+    },
+    {
+      "title": "Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection",
+      "arxiv_id": "1904.08653",
+      "doi": "10.1109/CVPRW.2019.00012",
+      "publicationDate": "2019-04-18",
+      "year": 2019
+    },
+    {
+      "title": "Embodied Visual Recognition",
+      "arxiv_id": "1904.04404",
+      "doi": null,
+      "publicationDate": "2019-04-09",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial camera stickers: A physical camera-based attack on deep learning systems",
+      "arxiv_id": "1904.00759",
+      "doi": null,
+      "publicationDate": "2019-03-21",
+      "year": 2019
+    },
+    {
+      "title": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet",
+      "arxiv_id": "1904.00760",
+      "doi": null,
+      "publicationDate": "2019-03-20",
+      "year": 2019
+    },
+    {
+      "title": "Review of Artificial Intelligence Adversarial Attack and Defense Technologies",
+      "arxiv_id": null,
+      "doi": "10.3390/APP9050909",
+      "publicationDate": "2019-03-04",
+      "year": 2019
+    },
+    {
+      "title": "Certified Adversarial Robustness via Randomized Smoothing",
+      "arxiv_id": "1902.02918",
+      "doi": null,
+      "publicationDate": "2019-02-08",
+      "year": 2019
+    },
+    {
+      "title": "Self-Driving Cars: A Survey",
+      "arxiv_id": "1901.04407",
+      "doi": "10.1016/j.eswa.2020.113816",
+      "publicationDate": "2019-01-14",
+      "year": 2019
+    },
+    {
+      "title": "SiamRPN++: Evolution of Siamese Visual Tracking With Very Deep Networks",
+      "arxiv_id": "1812.11703",
+      "doi": "10.1109/CVPR.2019.00441",
+      "publicationDate": "2018-12-31",
+      "year": 2018
+    },
+    {
+      "title": "Detecting Adversarial Perturbations with Salieny",
+      "arxiv_id": null,
+      "doi": "10.1145/3301551.3301588",
+      "publicationDate": "2018-12-29",
+      "year": 2018
+    },
+    {
+      "title": "A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cosrev.2020.100270",
+      "publicationDate": "2018-12-18",
+      "year": 2018
+    },
+    {
+      "title": "Fast Online Object Tracking and Segmentation: A Unifying Approach",
+      "arxiv_id": "1812.05050",
+      "doi": "10.1109/CVPR.2019.00142",
+      "publicationDate": "2018-12-12",
+      "year": 2018
+    },
+    {
+      "title": "SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems",
+      "arxiv_id": "1812.00292",
+      "doi": "10.1109/SPW50608.2020.00025",
+      "publicationDate": "2018-12-02",
+      "year": 2018
+    },
+    {
+      "title": "ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples",
+      "arxiv_id": "1811.12673",
+      "doi": "10.1109/CVPR.2019.00624",
+      "publicationDate": "2018-11-30",
+      "year": 2018
+    },
+    {
+      "title": "Neural Modular Control for Embodied Question Answering",
+      "arxiv_id": "1810.11181",
+      "doi": null,
+      "publicationDate": "2018-10-23",
+      "year": 2018
+    },
+    {
+      "title": "MeshAdv: Adversarial Meshes for Visual Recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2019.00706",
+      "publicationDate": "2018-10-11",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial Attacks and Defences: A Survey",
+      "arxiv_id": "1810.00069",
+      "doi": null,
+      "publicationDate": "2018-09-28",
+      "year": 2018
+    },
+    {
+      "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+      "arxiv_id": "1809.11096",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial Examples Detection in Features Distance Spaces",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-11012-3_26",
+      "publicationDate": "2018-09-08",
+      "year": 2018
+    },
+    {
+      "title": "Learning Monocular Depth by Distilling Cross-domain Stereo Networks",
+      "arxiv_id": "1808.06586",
+      "doi": "10.1007/978-3-030-01252-6_30",
+      "publicationDate": "2018-08-20",
+      "year": 2018
+    },
+    {
+      "title": "Physical Adversarial Examples for Object Detectors",
+      "arxiv_id": "1807.07769",
+      "doi": null,
+      "publicationDate": "2018-07-20",
+      "year": 2018
+    },
+    {
+      "title": "Mobile payment recognition technology based on face detection algorithm",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.4655",
+      "publicationDate": "2018-07-13",
+      "year": 2018
+    },
+    {
+      "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+      "arxiv_id": "1807.03888",
+      "doi": null,
+      "publicationDate": "2018-07-10",
+      "year": 2018
+    },
+    {
+      "title": "Local Gradients Smoothing: Defense Against Localized Adversarial Attacks",
+      "arxiv_id": "1807.01216",
+      "doi": "10.1109/WACV.2019.00143",
+      "publicationDate": "2018-07-03",
+      "year": 2018
+    },
+    {
+      "title": "DPATCH: An Adversarial Patch Attack on Object Detectors",
+      "arxiv_id": "1806.02299",
+      "doi": null,
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "On Visible Adversarial Perturbations & Digital Watermarking",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPRW.2018.00210",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "High Performance Visual Tracking with Siamese Region Proposal Network",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2018.00935",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Robust Physical-World Attacks on Deep Learning Visual Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2018.00175",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial examples in remote sensing",
+      "arxiv_id": "1805.10997",
+      "doi": "10.1145/3274895.3274904",
+      "publicationDate": "2018-05-28",
+      "year": 2018
+    },
+    {
+      "title": "ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector",
+      "arxiv_id": "1804.05810",
+      "doi": "10.1007/978-3-030-10925-7_4",
+      "publicationDate": "2018-04-16",
+      "year": 2018
+    },
+    {
+      "title": "Improving Transferability of Adversarial Examples With Input Diversity",
+      "arxiv_id": "1803.06978",
+      "doi": "10.1109/CVPR.2019.00284",
+      "publicationDate": "2018-03-19",
+      "year": 2018
+    },
+    {
+      "title": "Invisible Mask: Practical Attacks on Face Recognition with Infrared",
+      "arxiv_id": "1803.04683",
+      "doi": null,
+      "publicationDate": "2018-03-13",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial Examples that Fool both Computer Vision and Time-Limited Humans",
+      "arxiv_id": "1802.08195",
+      "doi": null,
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "CosFace: Large Margin Cosine Loss for Deep Face Recognition",
+      "arxiv_id": "1801.09414",
+      "doi": "10.1109/CVPR.2018.00552",
+      "publicationDate": "2018-01-29",
+      "year": 2018
+    },
+    {
+      "title": "ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2019.00482",
+      "publicationDate": "2018-01-23",
+      "year": 2018
+    },
+    {
+      "title": "Rogue Signs: Deceiving Traffic Sign Recognition with Malicious Ads and Logos",
+      "arxiv_id": "1801.02780",
+      "doi": null,
+      "publicationDate": "2018-01-09",
+      "year": 2018
+    },
+    {
+      "title": "LaVAN: Localized and Visible Adversarial Noise",
+      "arxiv_id": "1801.02608",
+      "doi": null,
+      "publicationDate": "2018-01-08",
+      "year": 2018
+    },
+    {
+      "title": "Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality",
+      "arxiv_id": "1801.02613",
+      "doi": null,
+      "publicationDate": "2018-01-08",
+      "year": 2018
+    },
+    {
+      "title": "Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey",
+      "arxiv_id": "1801.00553",
+      "doi": "10.1109/ACCESS.2018.2807385",
+      "publicationDate": "2018-01-02",
+      "year": 2018
+    },
+    {
+      "title": "A General Framework for Adversarial Examples with Objectives",
+      "arxiv_id": "1801.00349",
+      "doi": "10.1145/3317611",
+      "publicationDate": "2017-12-31",
+      "year": 2017
+    },
+    {
+      "title": "Adversarial Patch",
+      "arxiv_id": "1712.09665",
+      "doi": null,
+      "publicationDate": "2017-12-27",
+      "year": 2017
+    },
+    {
+      "title": "Adversarial Examples that Fool Detectors",
+      "arxiv_id": "1712.02494",
+      "doi": null,
+      "publicationDate": "2017-12-07",
+      "year": 2017
+    },
+    {
+      "title": "Embodied Question Answering",
+      "arxiv_id": "1711.11543",
+      "doi": "10.1109/CVPR.2018.00008",
+      "publicationDate": "2017-11-30",
+      "year": 2017
+    },
+    {
+      "title": "Adversarial Attacks Beyond the Image Space",
+      "arxiv_id": "1711.07183",
+      "doi": "10.1109/CVPR.2019.00443",
+      "publicationDate": "2017-11-20",
+      "year": 2017
+    },
+    {
+      "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+      "arxiv_id": "1711.00851",
+      "doi": null,
+      "publicationDate": "2017-11-02",
+      "year": 2017
+    },
+    {
+      "title": "CARLA: An Open Urban Driving Simulator",
+      "arxiv_id": "1711.03938",
+      "doi": null,
+      "publicationDate": "2017-10-18",
+      "year": 2017
+    },
+    {
+      "title": "Boosting Adversarial Attacks with Momentum",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2018.00957",
+      "publicationDate": "2017-10-17",
+      "year": 2017
+    },
+    {
+      "title": "Illusion and Dazzle: Adversarial Optical Channel Exploits Against Lidars for Automotive Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-66787-4_22",
+      "publicationDate": "2017-09-25",
+      "year": 2017
+    },
+    {
+      "title": "ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models",
+      "arxiv_id": "1708.03999",
+      "doi": "10.1145/3128572.3140448",
+      "publicationDate": "2017-08-14",
+      "year": 2017
+    },
+    {
+      "title": "Robust Physical-World Attacks on Machine Learning Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-27",
+      "year": 2017
+    },
+    {
+      "title": "Synthesizing Robust Adversarial Examples",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-24",
+      "year": 2017
+    },
+    {
+      "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+      "arxiv_id": "1706.06083",
+      "doi": null,
+      "publicationDate": "2017-06-19",
+      "year": 2017
+    },
+    {
+      "title": "Towards Robust Detection of Adversarial Examples",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-06-02",
+      "year": 2017
+    },
+    {
+      "title": "AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles",
+      "arxiv_id": "1705.05065",
+      "doi": "10.1007/978-3-319-67361-5_40",
+      "publicationDate": "2017-05-15",
+      "year": 2017
+    },
+    {
+      "title": "Survey of Model-Based Reinforcement Learning: Applications on Robotics",
+      "arxiv_id": null,
+      "doi": "10.1007/s10846-017-0468-y",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Adversarial and Clean Data Are Not Twins",
+      "arxiv_id": "1704.04960",
+      "doi": "10.1145/3593078.3593935",
+      "publicationDate": "2017-04-17",
+      "year": 2017
+    },
+    {
+      "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+      "arxiv_id": "1704.01155",
+      "doi": "10.14722/ndss.2018.23198",
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "Detecting Adversarial Samples from Artifacts",
+      "arxiv_id": "1703.00410",
+      "doi": null,
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "YOLO9000: Better, Faster, Stronger",
+      "arxiv_id": "1612.08242",
+      "doi": "10.1109/CVPR.2017.690",
+      "publicationDate": "2016-12-25",
+      "year": 2016
+    },
+    {
+      "title": "A Point Set Generation Network for 3D Object Reconstruction from a Single Image",
+      "arxiv_id": "1612.00603",
+      "doi": "10.1109/CVPR.2017.264",
+      "publicationDate": "2016-12-02",
+      "year": 2016
+    },
+    {
+      "title": "Evolutionary algorithms: A critical review and its future prospects",
+      "arxiv_id": null,
+      "doi": "10.1109/ICGTSPICC.2016.7955308",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "Delving into Transferable Adversarial Examples and Black-box Attacks",
+      "arxiv_id": "1611.02770",
+      "doi": null,
+      "publicationDate": "2016-11-04",
+      "year": 2016
+    },
+    {
+      "title": "Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition",
+      "arxiv_id": null,
+      "doi": "10.1145/2976749.2978392",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "Large-Scale Training of Shadow Detectors with Noisily-Annotated Shadow Examples",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-46466-4_49",
+      "publicationDate": "2016-10-08",
+      "year": 2016
+    },
+    {
+      "title": "Towards Evaluating the Robustness of Neural Networks",
+      "arxiv_id": "1608.04644",
+      "doi": "10.1109/SP.2017.49",
+      "publicationDate": "2016-08-16",
+      "year": 2016
+    },
+    {
+      "title": "A study of the effect of JPG compression on adversarial images",
+      "arxiv_id": "1608.00853",
+      "doi": null,
+      "publicationDate": "2016-08-02",
+      "year": 2016
+    },
+    {
+      "title": "Adversarial examples in the physical world",
+      "arxiv_id": "1607.02533",
+      "doi": "10.1201/9781351251389-8",
+      "publicationDate": "2016-07-08",
+      "year": 2016
+    },
+    {
+      "title": "Fully-Convolutional Siamese Networks for Object Tracking",
+      "arxiv_id": "1606.09549",
+      "doi": "10.1007/978-3-319-48881-3_56",
+      "publicationDate": "2016-06-30",
+      "year": 2016
+    },
+    {
+      "title": "Image Style Transfer Using Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2016.265",
+      "publicationDate": "2016-06-27",
+      "year": 2016
+    },
+    {
+      "title": "Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks",
+      "arxiv_id": "1511.04508",
+      "doi": "10.1109/SP.2016.41",
+      "publicationDate": "2015-11-14",
+      "year": 2015
+    },
+    {
+      "title": "DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks",
+      "arxiv_id": "1511.04599",
+      "doi": "10.1109/CVPR.2016.282",
+      "publicationDate": "2015-11-14",
+      "year": 2015
+    },
+    {
+      "title": "You Only Look Once: Unified, Real-Time Object Detection",
+      "arxiv_id": "1506.02640",
+      "doi": "10.1109/CVPR.2016.91",
+      "publicationDate": "2015-06-08",
+      "year": 2015
+    },
+    {
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "arxiv_id": "1506.01497",
+      "doi": "10.1109/TPAMI.2016.2577031",
+      "publicationDate": "2015-06-04",
+      "year": 2015
+    },
+    {
+      "title": "FaceNet: A unified embedding for face recognition and clustering",
+      "arxiv_id": "1503.03832",
+      "doi": "10.1109/CVPR.2015.7298682",
+      "publicationDate": "2015-03-12",
+      "year": 2015
+    },
+    {
+      "title": "Explaining and Harnessing Adversarial Examples",
+      "arxiv_id": "1412.6572",
+      "doi": null,
+      "publicationDate": "2014-12-19",
+      "year": 2014
+    },
+    {
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "arxiv_id": "1207.0580",
+      "doi": null,
+      "publicationDate": "2012-07-02",
+      "year": 2012
+    },
+    {
+      "title": "A survey of image classification methods and techniques for improving classification performance",
+      "arxiv_id": null,
+      "doi": "10.1080/01431160600746456",
+      "publicationDate": "2007-02-15",
+      "year": 2007
+    },
+    {
+      "title": "Edge-preserving and scale-dependent properties of total variation regularization",
+      "arxiv_id": null,
+      "doi": "10.1088/0266-5611/19/6/059",
+      "publicationDate": "2003-12-01",
+      "year": 2003
+    },
+    {
+      "title": "Response of Neurons in the Lateral Intraparietal Area during a Combined Visual Discrimination Reaction Time Task",
+      "arxiv_id": null,
+      "doi": "10.1523/JNEUROSCI.22-21-09475.2002",
+      "publicationDate": "2002-11-01",
+      "year": 2002
+    },
+    {
+      "title": "Fast, minimum storage ray/triangle intersection",
+      "arxiv_id": null,
+      "doi": "10.1080/10867651.1997.10487468",
+      "publicationDate": "1997-10-01",
+      "year": 1997
+    },
+    {
+      "title": "Thin-plate spline approximation for image registration",
+      "arxiv_id": null,
+      "doi": "10.1109/IEMBS.1996.652767",
+      "publicationDate": "1996-10-31",
+      "year": 1996
+    },
+    {
+      "title": "On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2025.230628",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Adversary is on the Road: Attacks on Visual SLAM using Unnoticeable Adversarial Patch",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". ITPatch: An invisible and triggered physical adversarial patch against traffic sign recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "EVAA—Exchange Vanishing Adversarial Attack on LiDAR Point Clouds in Autonomous Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2023.3292372",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Defending Against Person Hiding Adversarial Patch Attack with a Universal White Frame",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2204.13004",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Enhanced Accuracy and Robustness via Multi-teacher Adversarial Distillation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-19772-7_34",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Visual adversarial attacks and defenses",
+      "arxiv_id": null,
+      "doi": "10.1016/b978-0-12-822109-9.00024-2",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Generating Transferable Adversarial Patch by Simultaneously Optimizing its Position and Perturbations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Defending against Adversarial Patches with Robust Self-Attention",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Zero-Shot Certified Defense against Adversarial Patches with Vision Transformers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Deep Learning in Video Multi-Object Tracking: A Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Experimental security research of Tesla autopilot",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Countering Adversarial Images using Input Transformations",
+      "arxiv_id": "1711.00117",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "GENERATIVE ADVERSARIAL NETS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "[ Received 20 February 2007; revised 12 March 2009; accepted 5 June 2009",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A Survey on Human Motion Detection and Surveillance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Remote Attacks on Automated Vehicles Sensors : Experiments on Camera and LiDAR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "2023. Benchmarking robustness of 3d object detection to common corruptions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Efficient and effective model extraction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

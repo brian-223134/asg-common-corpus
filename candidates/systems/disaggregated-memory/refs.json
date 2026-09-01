@@ -1,0 +1,1220 @@
+{
+  "candidate": {
+    "topic": "Survey of Disaggregated Memory",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3807443",
+      "title": "Survey of Disaggregated Memory: Cross-Layer Technique Insights for Next-Generation Datacenters",
+      "published": "2026-05-15"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:11:00+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 169,
+    "arxiv_resolvable": 29,
+    "doi_only": 89,
+    "unresolved": 51
+  },
+  "gt_s2": {
+    "paperId": "18a5860ae7589af8216ce6c03c5ce52cf2469a8f",
+    "externalIds": {
+      "ArXiv": "2503.20275",
+      "DBLP": "journals/corr/abs-2503-20275",
+      "DOI": "10.1145/3807443",
+      "CorpusId": 277321510
+    },
+    "title": "Survey of Disaggregated Memory: Cross-Layer Technique Insights for Next-Generation Datacenters",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 169,
+    "publicationDate": "2025-03-26"
+  },
+  "refs": [
+    {
+      "title": "Oasis: Pooling PCIe Devices Over CXL to Boost Utilization",
+      "arxiv_id": null,
+      "doi": "10.1145/3731569.3764812",
+      "publicationDate": "2025-10-12",
+      "year": 2025
+    },
+    {
+      "title": "Deft: A Scalable Tree Index for Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": "10.1145/3689031.3696062",
+      "publicationDate": "2025-03-30",
+      "year": 2025
+    },
+    {
+      "title": "Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3710848.3710854",
+      "publicationDate": "2025-02-28",
+      "year": 2025
+    },
+    {
+      "title": "Boosting Data Center Performance via Intelligently Managed Multi-backend Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41406.2024.00043",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA59077.2024.00036",
+      "publicationDate": "2024-06-29",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing LSM-based indexes for disaggregated memory",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-024-00863-y",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "DEX: Scalable Range Indexing on Disaggregated Memory [Extended Version]",
+      "arxiv_id": "2405.14502",
+      "doi": "10.48550/arXiv.2405.14502",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "GMT: GPU Orchestrated Memory Tiering for the Big Data Era",
+      "arxiv_id": null,
+      "doi": "10.1145/3620666.3651353",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework",
+      "arxiv_id": "2404.08364",
+      "doi": "10.48550/arXiv.2404.08364",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture",
+      "arxiv_id": null,
+      "doi": "10.1145/3620678.3624650",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "G10: Enabling An Efficient Unified GPU Memory and Storage Architecture with Smart Tensor Migrations",
+      "arxiv_id": "2310.09443",
+      "doi": "10.1145/3613424.3614309",
+      "publicationDate": "2023-10-13",
+      "year": 2023
+    },
+    {
+      "title": "Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale Graphs with In-memory Performance",
+      "arxiv_id": "2310.00837",
+      "doi": "10.48550/arXiv.2310.00837",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses",
+      "arxiv_id": "2306.16384",
+      "doi": "10.14778/3648160.3648166",
+      "publicationDate": "2023-06-28",
+      "year": 2023
+    },
+    {
+      "title": "Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers",
+      "arxiv_id": null,
+      "doi": "10.1145/3593856.3595897",
+      "publicationDate": "2023-06-22",
+      "year": 2023
+    },
+    {
+      "title": "Āpta: Fault-tolerant object-granular CXL disaggregated memory for accelerating FaaS",
+      "arxiv_id": null,
+      "doi": "10.1109/DSN58367.2023.00030",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "dLSM: An LSM-Based Index for Memory Disaggregation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE55515.2023.00217",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent",
+      "arxiv_id": "2303.02868",
+      "doi": "10.48550/arXiv.2303.02868",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "Fargraph+: Excavating the parallelism of graph processing workload on RDMA-based far memory system",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2023.02.015",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "HoPP: Hardware-Software Co-Designed Page Prefetching for Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA56546.2023.10070986",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Characterizing Off-path SmartNIC for Accelerating Distributed Systems",
+      "arxiv_id": "2212.07868",
+      "doi": null,
+      "publicationDate": "2022-12-15",
+      "year": 2022
+    },
+    {
+      "title": "BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memory Pool with the CXL Support",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO56248.2022.00057",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "HyFarM: Task Orchestration on Hybrid Far Memory for High Performance Per Bit",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD56317.2022.00016",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory",
+      "arxiv_id": "2209.08743",
+      "doi": "10.14778/3565838.3565854",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation",
+      "arxiv_id": "2207.03027",
+      "doi": "10.48550/arXiv.2207.03027",
+      "publicationDate": "2022-07-07",
+      "year": 2022
+    },
+    {
+      "title": "Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT",
+      "arxiv_id": null,
+      "doi": "10.1145/3514221.3517856",
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "Excavating the Potential of Graph Workload on RDMA-based Far Memory Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ipdps53621.2022.00104",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "FAM-Graph: Graph Analytics on Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/ipdps53621.2022.00017",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Oversubscribing GPU Unified Virtual Memory: Implications and Suggestions",
+      "arxiv_id": null,
+      "doi": "10.1145/3489525.3511691",
+      "publicationDate": "2022-04-09",
+      "year": 2022
+    },
+    {
+      "title": "Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00018",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "RM-SSD: In-Storage Computing for Large-Scale Recommendation Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00081",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00093",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "Jiffy: elastic far-memory for stateful serverless analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/3492321.3527539",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Memory deduplication for serverless computing with Medes",
+      "arxiv_id": null,
+      "doi": "10.1145/3492321.3524272",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing",
+      "arxiv_id": "2203.10225",
+      "doi": null,
+      "publicationDate": "2022-03-19",
+      "year": 2022
+    },
+    {
+      "title": "Canvas: Isolated and Adaptive Swapping for Multi-Applications on Remote Memory",
+      "arxiv_id": "2203.09615",
+      "doi": "10.48550/arXiv.2203.09615",
+      "publicationDate": "2022-03-17",
+      "year": 2022
+    },
+    {
+      "title": "GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture",
+      "arxiv_id": "2203.04910",
+      "doi": "10.1145/3575693.3575748",
+      "publicationDate": "2022-03-09",
+      "year": 2022
+    },
+    {
+      "title": "TMO: transparent memory offloading in datacenters",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507731",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "KRCORE: a microsecond-scale RDMA control plane for elastic computing",
+      "arxiv_id": "2201.11578",
+      "doi": null,
+      "publicationDate": "2021-12-29",
+      "year": 2021
+    },
+    {
+      "title": "Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory",
+      "arxiv_id": "2112.07320",
+      "doi": "10.1145/3514221.3517824",
+      "publicationDate": "2021-12-14",
+      "year": 2021
+    },
+    {
+      "title": "HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework",
+      "arxiv_id": "2112.07221",
+      "doi": "10.14778/3489496.3489511",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Skywalker: Efficient Alias-Method-Based Graph Sampling and Random Walk on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/PACT52795.2021.00029",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Memtrade: A Disaggregated-Memory Marketplace for Public Clouds",
+      "arxiv_id": "2108.06893",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "Clio: a hardware-software co-designed disaggregated memory system",
+      "arxiv_id": "2108.03492",
+      "doi": "10.1145/3503222.3507762",
+      "publicationDate": "2021-08-07",
+      "year": 2021
+    },
+    {
+      "title": "MIND: In-Network Memory Management for Disaggregated Data Centers",
+      "arxiv_id": "2107.00164",
+      "doi": "10.1145/3477132.3483561",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "A Holistic System Software Integration of Disaggregated Memory for Next-Generation Cloud Infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid51090.2021.00067",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Rethinking software runtimes for disaggregated memory",
+      "arxiv_id": null,
+      "doi": "10.1145/3445814.3446713",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep learning",
+      "arxiv_id": "2104.07857",
+      "doi": "10.1145/3458817.3476205",
+      "publicationDate": "2021-04-16",
+      "year": 2021
+    },
+    {
+      "title": "Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA51647.2021.00057",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Resource abstraction and data placement for distributed hybrid memory pool",
+      "arxiv_id": null,
+      "doi": "10.1007/s11704-020-9448-7",
+      "publicationDate": "2021-01-16",
+      "year": 2021
+    },
+    {
+      "title": "ThymesisFlow: A Software-Defined, HW/SW co-Designed Interconnect Stack for Rack-Scale Memory Disaggregation",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO50266.2020.00075",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "The Machine",
+      "arxiv_id": null,
+      "doi": "10.1201/9781420014815.ch10",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "Optically Connected Memory for Disaggregated Data Centers",
+      "arxiv_id": "2008.10802",
+      "doi": "10.1109/SBAC-PAD49847.2020.00017",
+      "publicationDate": "2020-08-25",
+      "year": 2020
+    },
+    {
+      "title": "Hierarchical Orchestration of Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2020.2968525",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Exploiting inter- and intra-memory asymmetries for data mapping in hybrid tiered-memories",
+      "arxiv_id": "2005.04750",
+      "doi": "10.1145/3381898.3397215",
+      "publicationDate": "2020-05-10",
+      "year": 2020
+    },
+    {
+      "title": "Can far memory improve job throughput?",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3387522",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Improving resource utilization by timely fine-grained scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3387551",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Co-Optimizing Performance and Memory Footprint Via Integrated CPU/GPU Memory Management, an Implementation on Autonomous Driving Platform",
+      "arxiv_id": "2003.07945",
+      "doi": "10.1109/RTAS48715.2020.00007",
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping",
+      "arxiv_id": null,
+      "doi": "10.1145/3373376.3378530",
+      "publicationDate": "2020-03-09",
+      "year": 2020
+    },
+    {
+      "title": "Hybrid2: Combining Caching and Migration in Hybrid Memory Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA47549.2020.00059",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Griffin: Hardware-Software Support for Efficient Page Migration in Multi-GPU Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA47549.2020.00055",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Effectively Prefetching Remote Memory with Leap",
+      "arxiv_id": "1911.09829",
+      "doi": null,
+      "publicationDate": "2019-11-22",
+      "year": 2019
+    },
+    {
+      "title": "Optimizing ordered graph algorithms with GraphIt",
+      "arxiv_id": "1911.07260",
+      "doi": "10.1145/3368826.3377909",
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "An Early Evaluation of Intel's Optane DC Persistent Memory Module and its Impact on High-Performance Scientific Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3295500.3356159",
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "Hydra : Resilient and Highly Available Remote Memory",
+      "arxiv_id": "1910.09727",
+      "doi": null,
+      "publicationDate": "2019-10-22",
+      "year": 2019
+    },
+    {
+      "title": "Mitigating the Performance-Efficiency Tradeoff in Resilient Memory Disaggregation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-10-22",
+      "year": 2019
+    },
+    {
+      "title": "Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2019.2908175",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Toward a Production-ready General-purpose RDMA-enabled RPC",
+      "arxiv_id": null,
+      "doi": "10.1145/3342280.3342296",
+      "publicationDate": "2019-08-19",
+      "year": 2019
+    },
+    {
+      "title": "Memory Disaggregation: Research Problems and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS.2019.00165",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3299869.3300081",
+      "publicationDate": "2019-06-25",
+      "year": 2019
+    },
+    {
+      "title": "Kleio: A Hybrid Memory Page Scheduler with Machine Intelligence",
+      "arxiv_id": null,
+      "doi": "10.1145/3307681.3325398",
+      "publicationDate": "2019-06-17",
+      "year": 2019
+    },
+    {
+      "title": "Panthera: holistic memory management for big data processing over hybrid memories",
+      "arxiv_id": null,
+      "doi": "10.1145/3314221.3314650",
+      "publicationDate": "2019-06-08",
+      "year": 2019
+    },
+    {
+      "title": "Designing Far Memory Data Structures: Think Outside the Box",
+      "arxiv_id": null,
+      "doi": "10.1145/3317550.3321433",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Software-Defined Far Memory in Warehouse-Scale Computers",
+      "arxiv_id": null,
+      "doi": "10.1145/3297858.3304053",
+      "publicationDate": "2019-04-04",
+      "year": 2019
+    },
+    {
+      "title": "Buddy Compression: Enabling Larger Memory for Deep Learning and HPC Workloads on GPUs",
+      "arxiv_id": "1903.02596",
+      "doi": "10.1109/ISCA45697.2020.00080",
+      "publicationDate": "2019-03-06",
+      "year": 2019
+    },
+    {
+      "title": "Flexible Resource Allocation using Photonic Switched Interconnects for Disaggregated System Architectures",
+      "arxiv_id": null,
+      "doi": "10.1364/OFC.2019.M3F.3",
+      "publicationDate": "2019-03-03",
+      "year": 2019
+    },
+    {
+      "title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-02-25",
+      "year": 2019
+    },
+    {
+      "title": "String Figure: A Scalable and Elastic Memory Network Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2019.00016",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "PowerLyra: Differentiated Graph Computation and Partitioning on Skewed Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3298989",
+      "publicationDate": "2019-01-23",
+      "year": 2019
+    },
+    {
+      "title": "Accelerating TensorFlow with Adaptive RDMA-Based gRPC",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC.2018.00010",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "DRAGON: Breaking GPU Memory Capacity Limits with Direct NVM Access",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2018.00035",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Beyond the Memory Wall: A Case for Memory-Centric HPC System for Deep Learning",
+      "arxiv_id": "1902.06468",
+      "doi": "10.1109/MICRO.2018.00021",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "DR DRAM: Accelerating Memory-Read-Intensive Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD.2018.00053",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Two-dimensional multibit optoelectronic memory with broadband spectrum distinction",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-018-05397-w",
+      "publicationDate": "2018-07-27",
+      "year": 2018
+    },
+    {
+      "title": "Remote regions: a simple abstraction for remote memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-07-11",
+      "year": 2018
+    },
+    {
+      "title": "Hermes: a heterogeneous-aware multi-tiered distributed I/O buffering system",
+      "arxiv_id": null,
+      "doi": "10.1145/3208040.3208059",
+      "publicationDate": "2018-06-11",
+      "year": 2018
+    },
+    {
+      "title": "Software-Defined “Hardware” Infrastructures: A Survey on Enabling Technologies and Open Research Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2018.2834731",
+      "publicationDate": "2018-05-09",
+      "year": 2018
+    },
+    {
+      "title": "Welcome to zombieland: practical and energy-efficient memory disaggregation in a datacenter",
+      "arxiv_id": null,
+      "doi": "10.1145/3190508.3190537",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System",
+      "arxiv_id": null,
+      "doi": "10.1145/3173162.3173208",
+      "publicationDate": "2018-03-19",
+      "year": 2018
+    },
+    {
+      "title": "Superneurons: dynamic GPU memory management for training deep neural networks",
+      "arxiv_id": "1801.04380",
+      "doi": "10.1145/3178487.3178491",
+      "publicationDate": "2018-01-13",
+      "year": 2018
+    },
+    {
+      "title": "LITE Kernel RDMA Support for Datacenter Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3132747.3132762",
+      "publicationDate": "2017-10-14",
+      "year": 2017
+    },
+    {
+      "title": "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3132747.3132772",
+      "publicationDate": "2017-10-14",
+      "year": 2017
+    },
+    {
+      "title": "Distributed shared persistent memory",
+      "arxiv_id": null,
+      "doi": "10.1145/3127479.3128610",
+      "publicationDate": "2017-09-24",
+      "year": 2017
+    },
+    {
+      "title": "Utility-Based Hybrid Memory Management",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER.2017.130",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Octopus: an RDMA-enabled Distributed Persistent Memory File System",
+      "arxiv_id": null,
+      "doi": "10.1145/3448418",
+      "publicationDate": "2017-07-12",
+      "year": 2017
+    },
+    {
+      "title": "There and back again: Optimizing the interconnect in networks of memory cubes",
+      "arxiv_id": null,
+      "doi": "10.1145/3079856.3080251",
+      "publicationDate": "2017-06-24",
+      "year": 2017
+    },
+    {
+      "title": "Hybrid TLB coalescing: Improving TLB translation coverage under diverse fragmented memory allocations",
+      "arxiv_id": null,
+      "doi": "10.1145/3079856.3080217",
+      "publicationDate": "2017-06-24",
+      "year": 2017
+    },
+    {
+      "title": "Mosaic: Processing a Trillion-Edge Graph on a Single Machine",
+      "arxiv_id": null,
+      "doi": "10.1145/3064176.3064191",
+      "publicationDate": "2017-04-23",
+      "year": 2017
+    },
+    {
+      "title": "Efficient Memory Disaggregation with Infiniswap",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-03-27",
+      "year": 2017
+    },
+    {
+      "title": "A unified memory network architecture for in-memory computing in commodity servers",
+      "arxiv_id": null,
+      "doi": "10.5555/3195638.3195673",
+      "publicationDate": "2016-10-15",
+      "year": 2016
+    },
+    {
+      "title": "High bandwidth memory(HBM) with TSV technique",
+      "arxiv_id": null,
+      "doi": "10.1109/ISOCC.2016.7799847",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "GRAPHENE: Packing and Dependency-Aware Scheduling for Data-Parallel Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-08-08",
+      "year": 2016
+    },
+    {
+      "title": "Making caches work for graph analytics",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData.2017.8257937",
+      "publicationDate": "2016-08-03",
+      "year": 2016
+    },
+    {
+      "title": "Survey on Memory and Devices Disaggregation Solutions for HPC Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/CSE-EUC-DCABES.2016.185",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "Chaos: scale-out graph processing from secondary storage",
+      "arxiv_id": null,
+      "doi": "10.1145/2815400.2815408",
+      "publicationDate": "2015-10-04",
+      "year": 2015
+    },
+    {
+      "title": "HybridSwap: A scalable and synthetic framework for guest swapping on virtualization platform",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2015.7218457",
+      "publicationDate": "2015-08-24",
+      "year": 2015
+    },
+    {
+      "title": "GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-08",
+      "year": 2015
+    },
+    {
+      "title": "Survey on Network Virtualization Hypervisors for Software Defined Networking",
+      "arxiv_id": "1506.07275",
+      "doi": "10.1109/COMST.2015.2489183",
+      "publicationDate": "2015-06-24",
+      "year": 2015
+    },
+    {
+      "title": "SDStorage: A Software Defined Storage Experimental Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/IC2E.2015.60",
+      "publicationDate": "2015-03-09",
+      "year": 2015
+    },
+    {
+      "title": "NUMA-aware graph-structured analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/2688500.2688507",
+      "publicationDate": "2015-01-24",
+      "year": 2015
+    },
+    {
+      "title": "Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-10-06",
+      "year": 2014
+    },
+    {
+      "title": "Software defined infrastructures",
+      "arxiv_id": null,
+      "doi": "10.1147/JRD.2014.2298133",
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "VSwapper: a memory swapper for virtualized environments",
+      "arxiv_id": null,
+      "doi": "10.1145/2541940.2541969",
+      "publicationDate": "2014-02-24",
+      "year": 2014
+    },
+    {
+      "title": "Omega: flexible, scalable schedulers for large compute clusters",
+      "arxiv_id": null,
+      "doi": "10.1145/2465351.2465386",
+      "publicationDate": "2013-04-15",
+      "year": 2013
+    },
+    {
+      "title": "Ligra: a lightweight graph processing framework for shared memory",
+      "arxiv_id": null,
+      "doi": "10.1145/2442516.2442530",
+      "publicationDate": "2013-02-23",
+      "year": 2013
+    },
+    {
+      "title": "Efficient Autoscaling in the Cloud Using Predictive Models for Workload Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD.2011.42",
+      "publicationDate": "2011-07-01",
+      "year": 2011
+    },
+    {
+      "title": "Disaggregated memory for expansion and sharing in blade servers",
+      "arxiv_id": null,
+      "doi": "10.1145/1555754.1555789",
+      "publicationDate": "2009-06-15",
+      "year": 2009
+    },
+    {
+      "title": "Memory Systems: Cache, DRAM, Disk",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-09-10",
+      "year": 2007
+    },
+    {
+      "title": "Swapping to Remote Memory over InfiniBand: An Approach using a High Performance Network Block Device",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTR.2005.347050",
+      "publicationDate": "2005-09-01",
+      "year": 2005
+    },
+    {
+      "title": "Memory coherence in shared virtual memory systems",
+      "arxiv_id": null,
+      "doi": "10.1145/10590.10610",
+      "publicationDate": "1986-11-01",
+      "year": 1986
+    },
+    {
+      "title": "Forum",
+      "arxiv_id": null,
+      "doi": "10.1111/j.1365-2044.1981.tb08681.x",
+      "publicationDate": "1981-11-01",
+      "year": 1981
+    },
+    {
+      "title": "2025. Magnum",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Received 5 August 2024; revised 30 January 2026; accepted 24 March 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "2025. Instruction-Based Sampling: A New Performance Analysis Technique for AMD Family 10h Processors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": ". Intel Performance Counter Monitor, A Better Way to Measure CPU Utilization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". IBM Power 9 CPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "UniMem: Redesigning Disaggregated Memory within A Unified Local-Remote Memory Hierarchy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Overcoming the Memory Wall with CXL-Enabled SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Disaggregated Memory in the Datacenter: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3250407",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "MemLiner: Lining up Tracing and Application for a Far-Memory-Friendly Runtime",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Direct Access, High-Performance Memory Disaggregation with DirectCXL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated Access to Storage",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2203.04910",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Grus: Toward unified-memory-efficient high-performance graph processing on gpu",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Improving Performance of Flash Based Key-Value Stores Using Storage Class Memory as a Volatile Memory Extension",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "AIFM: High-Performance, Application-Integrated Far Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Disaggregating Persistent Memory and Controlling Them Remotely: An Exploration of Passive Disaggregated Key-Value Stores",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Assise: Performance and Availability via Client-local NVM in a Distributed File System",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Fault-tolerant and transactional stateful serverless worklows",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Semeru: A memory-disaggregated managed runtime",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "What is the Open Compute Project?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Edge-oriented computing paradigms: A survey on architecture design and system management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Network requirements for resource disaggregation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Memory-centric system interconnect design with Hybrid Memory Cubes",
+      "arxiv_id": null,
+      "doi": "10.1109/pact.2013.6618812",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "A complete, cross-platform solution to record, convert and stream audio and video",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Storage",
+      "arxiv_id": null,
+      "doi": "10.3362/9781780444321",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Linux",
+      "arxiv_id": null,
+      "doi": "10.1016/b0-12-227240-4/00105-2",
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "Working Sets Past and Present",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.1980.230464",
+      "publicationDate": null,
+      "year": 1980
+    },
+    {
+      "title": "This Paper Is Included in the Proceedings of the 11th Usenix Symposium on Networked Systems Design and Implementation (nsdi '14). Farm: Fast Remote Memory Farm: Fast Remote Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. CXL-ANNS: Software-Hardware Collaborative Memory Disaggregation and Computation for Billion-Scale Approximate Nearest Neighbor Search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVIDIA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "This paper is included in the Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Flavors of Memory supported by Linux, Their Use and Benefit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Cloud databases: new techniques, challenges, and opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Mellanox",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. PCIe 6.0 is coming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Sumsung Solid State Drives (SSD)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Data Dog. 2023.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. NVM-Express (NVMe) Technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Trusted Heterogeneous Disaggregated Architectures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Carbink: { Fault-Tolerant } Far Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Model-specific registers (MSRs)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. OFED from OpenFabrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. KVM (for Kernel-based Virtual Machine)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Control Group v2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Taming Memory With Disaggregation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Cache Coherent Interconnect for Accelerators",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "candidate": {
+    "topic": "A Comprehensive Survey on Database Management System Fuzzing",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3799227",
+      "title": "A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Evaluation",
+      "published": "2026-04-18"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:08:51+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 115,
+    "arxiv_resolvable": 22,
+    "doi_only": 64,
+    "unresolved": 29
+  },
+  "gt_s2": {
+    "paperId": "de2dbf2b041d2deaef7756f69ef5b3bdc5e599cc",
+    "externalIds": {
+      "DBLP": "journals/csur/GaoLCLZWZ26",
+      "DOI": "10.1145/3799227",
+      "CorpusId": 286327202
+    },
+    "title": "A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Evaluation",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 115,
+    "publicationDate": "2026-03-06"
+  },
+  "refs": [
+    {
+      "title": "Testing Graph Databases with Synthesized Queries",
+      "arxiv_id": null,
+      "doi": "10.1145/3749186",
+      "publicationDate": "2025-09-22",
+      "year": 2025
+    },
+    {
+      "title": "SQLaw: Detecting Bugs in GPU Database Management Systems via Rule-Based Differential Execution",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2025.3574328",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "QTRAN: Extending Metamorphic-Oracle Based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support",
+      "arxiv_id": null,
+      "doi": "10.1145/3728908",
+      "publicationDate": "2025-06-22",
+      "year": 2025
+    },
+    {
+      "title": "Finding Logic Bugs in Graph-processing Systems via Graph-cutting",
+      "arxiv_id": null,
+      "doi": "10.1145/3725300",
+      "publicationDate": "2025-06-17",
+      "year": 2025
+    },
+    {
+      "title": "LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection",
+      "arxiv_id": "2506.11870",
+      "doi": "10.1109/ASE63991.2025.00322",
+      "publicationDate": "2025-06-13",
+      "year": 2025
+    },
+    {
+      "title": "Automated Database Testing via LLM-Synthesized SQL Features",
+      "arxiv_id": "2505.02012",
+      "doi": null,
+      "publicationDate": "2025-05-04",
+      "year": 2025
+    },
+    {
+      "title": "Improving Multitasking DBMS Fuzzing With More Accurate Coverage and Testcase Trimming",
+      "arxiv_id": null,
+      "doi": "10.1109/TDSC.2024.3521591",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE55347.2025.00045",
+      "publicationDate": "2025-04-26",
+      "year": 2025
+    },
+    {
+      "title": "Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems",
+      "arxiv_id": null,
+      "doi": "10.14778/3742728.3742747",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3689031.3696064",
+      "publicationDate": "2025-03-30",
+      "year": 2025
+    },
+    {
+      "title": "Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction",
+      "arxiv_id": null,
+      "doi": "10.14778/3734839.3734861",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving",
+      "arxiv_id": null,
+      "doi": "10.14778/3725688.3725713",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Constant Optimization Driven Database System Testing",
+      "arxiv_id": "2501.11252",
+      "doi": "10.1145/3709674",
+      "publicationDate": "2025-01-20",
+      "year": 2025
+    },
+    {
+      "title": "Enhanced Differential Testing in Emerging Database Systems",
+      "arxiv_id": "2501.01236",
+      "doi": "10.48550/arXiv.2501.01236",
+      "publicationDate": "2025-01-02",
+      "year": 2025
+    },
+    {
+      "title": "Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs",
+      "arxiv_id": "2410.12496",
+      "doi": "10.1145/3698810",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Testing Graph Database Systems with Graph-State Persistence Oracle",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680311",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "Testing Gremlin-Based Graph Database Systems via Query Disassembling",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680392",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "Keep It Simple: Testing Databases via Differential Query Plans",
+      "arxiv_id": null,
+      "doi": "10.1145/3654991",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639112",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Testing Graph Database Systems via Equivalent Query Rewriting",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639200",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction",
+      "arxiv_id": null,
+      "doi": "10.14778/3659437.3659445",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Query Transformation",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3623307",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Detecting DBMS Bugs with Context-Sensitive Instantiation and Multi-Plan Execution",
+      "arxiv_id": "2312.04941",
+      "doi": "10.48550/arXiv.2312.04941",
+      "publicationDate": "2023-12-08",
+      "year": 2023
+    },
+    {
+      "title": "Testing Graph Database Systems via Graph-Aware Metamorphic Relations",
+      "arxiv_id": null,
+      "doi": "10.14778/3636218.3636236",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison",
+      "arxiv_id": "2311.06728",
+      "doi": "10.48550/arXiv.2311.06728",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "Testing Graph Database Engines via Query Partitioning",
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598044",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "GDsmith: Detecting Bugs in Cypher Graph Database Engines",
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598046",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation",
+      "arxiv_id": "2306.00355",
+      "doi": "10.1145/3597503.3639076",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Detecting Logic Bugs of Join Optimizations in DBMS",
+      "arxiv_id": "2602.21955",
+      "doi": "10.1145/3588909",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Detecting Isolation Bugs via Transaction Oracle Construction",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00101",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Testing Database Systems via Differential Query Execution",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00175",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Testing Database Engines via Query Plan Guidance",
+      "arxiv_id": "2312.17510",
+      "doi": "10.1109/ICSE48619.2023.00174",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Randomized Differential Testing of RDF Stores",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-Companion58688.2023.00041",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Squill: Testing DBMS with Correctness Feedback and Accurate Instantiation",
+      "arxiv_id": null,
+      "doi": "10.3390/app13042519",
+      "publicationDate": "2023-02-15",
+      "year": 2023
+    },
+    {
+      "title": "Intramorphic Testing: A New Approach to the Test Oracle Problem",
+      "arxiv_id": "2210.11228",
+      "doi": "10.1145/3563835.3567662",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "Finding bugs in Gremlin-based graph database systems via Randomized differential testing",
+      "arxiv_id": null,
+      "doi": "10.1145/3533767.3534409",
+      "publicationDate": "2022-07-18",
+      "year": 2022
+    },
+    {
+      "title": "Unicorn: detect runtime errors in time-series databases with hybrid input synthesis",
+      "arxiv_id": null,
+      "doi": "10.1145/3533767.3534364",
+      "publicationDate": "2022-07-18",
+      "year": 2022
+    },
+    {
+      "title": "GDsmith: Detecting Bugs in Graph Database Engines",
+      "arxiv_id": "2206.08530",
+      "doi": "10.48550/arXiv.2206.08530",
+      "publicationDate": "2022-06-17",
+      "year": 2022
+    },
+    {
+      "title": "Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510093",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Duplicate-sensitivity Guided Transformation Synthesis for DBMS Correctness Bug Detection",
+      "arxiv_id": "2107.03660",
+      "doi": "10.14711/thesis-991012980220103412",
+      "publicationDate": "2021-07-08",
+      "year": 2021
+    },
+    {
+      "title": "Follow-up Test Cases are Better Than Source Test Cases in Metamorphic Testing: A Preliminary Study",
+      "arxiv_id": null,
+      "doi": "10.1109/MET52542.2021.00018",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Industry Practice of Coverage-Guided Enterprise-Level DBMS Fuzzing",
+      "arxiv_id": "2103.00804",
+      "doi": "10.1109/ICSE-SEIP52600.2021.00042",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Finding bugs in database systems via query partitioning",
+      "arxiv_id": null,
+      "doi": "10.1145/3428279",
+      "publicationDate": "2020-11-13",
+      "year": 2020
+    },
+    {
+      "title": "Detecting optimization bugs in database engines via non-optimizing reference engine construction",
+      "arxiv_id": "2007.08292",
+      "doi": "10.1145/3368089.3409710",
+      "publicationDate": "2020-07-16",
+      "year": 2020
+    },
+    {
+      "title": "SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback",
+      "arxiv_id": "2006.02398",
+      "doi": "10.1145/3372297.3417260",
+      "publicationDate": "2020-06-03",
+      "year": 2020
+    },
+    {
+      "title": "Testing query execution engines with mutations",
+      "arxiv_id": null,
+      "doi": "10.1145/3395032.3395322",
+      "publicationDate": "2020-05-22",
+      "year": 2020
+    },
+    {
+      "title": "Metamorphic Testing: A New Approach for Generating Next Test Cases",
+      "arxiv_id": "2002.12543",
+      "doi": null,
+      "publicationDate": "2020-02-28",
+      "year": 2020
+    },
+    {
+      "title": "Testing Database Engines via Pivoted Query Synthesis",
+      "arxiv_id": "2001.04174",
+      "doi": null,
+      "publicationDate": "2020-01-13",
+      "year": 2020
+    },
+    {
+      "title": "APOLLO: Automatic Detection and Diagnosis of Performance Regressions in Database Systems",
+      "arxiv_id": null,
+      "doi": "10.14778/3357377.3357382",
+      "publicationDate": "2019-09-15",
+      "year": 2019
+    },
+    {
+      "title": "Superion: Grammar-Aware Greybox Fuzzing",
+      "arxiv_id": "1812.01197",
+      "doi": "10.1109/ICSE.2019.00081",
+      "publicationDate": "2018-12-04",
+      "year": 2018
+    },
+    {
+      "title": "Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing",
+      "arxiv_id": "1810.02904",
+      "doi": null,
+      "publicationDate": "2018-10-05",
+      "year": 2018
+    },
+    {
+      "title": "Snowtrail: Testing with Production Queries on a Cloud Database",
+      "arxiv_id": null,
+      "doi": "10.1145/3209950.3209958",
+      "publicationDate": "2018-06-15",
+      "year": 2018
+    },
+    {
+      "title": "Directed Greybox Fuzzing",
+      "arxiv_id": null,
+      "doi": "10.1145/3133956.3134020",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage",
+      "arxiv_id": "1709.07101",
+      "doi": "10.1145/3238147.3238176",
+      "publicationDate": "2017-09-20",
+      "year": 2017
+    },
+    {
+      "title": "Coverage-Based Greybox Fuzzing as Markov Chain",
+      "arxiv_id": null,
+      "doi": "10.1145/2976749.2978428",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "OptMark: A Toolkit for Benchmarking Query Optimizers",
+      "arxiv_id": "1608.02611",
+      "doi": "10.1145/2983323.2983658",
+      "publicationDate": "2016-08-08",
+      "year": 2016
+    },
+    {
+      "title": "The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints",
+      "arxiv_id": null,
+      "doi": "10.1145/2818639",
+      "publicationDate": "2015-12-02",
+      "year": 2015
+    },
+    {
+      "title": "How Good Are Query Optimizers, Really?",
+      "arxiv_id": null,
+      "doi": "10.14778/2850583.2850594",
+      "publicationDate": "2015-11-01",
+      "year": 2015
+    },
+    {
+      "title": "A Performance Anomaly Detection and Analysis Framework for DBMS Development",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2011.88",
+      "publicationDate": "2012-08-01",
+      "year": 2012
+    },
+    {
+      "title": "Testing the accuracy of query optimizers",
+      "arxiv_id": null,
+      "doi": "10.1145/2304510.2304525",
+      "publicationDate": "2012-05-21",
+      "year": 2012
+    },
+    {
+      "title": "Generating test data for killing SQL mutants: A constraint-based approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2011.5767876",
+      "publicationDate": "2011-04-11",
+      "year": 2011
+    },
+    {
+      "title": "Automated SQL query generation for systematic testing of database engines",
+      "arxiv_id": null,
+      "doi": "10.1145/1858996.1859063",
+      "publicationDate": "2010-09-20",
+      "year": 2010
+    },
+    {
+      "title": "Session details: Technical session 8: concurrency and differential testing",
+      "arxiv_id": null,
+      "doi": "10.1145/3254363",
+      "publicationDate": "2010-07-12",
+      "year": 2010
+    },
+    {
+      "title": "A framework for testing DBMS features",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-009-0157-y",
+      "publicationDate": "2010-04-01",
+      "year": 2010
+    },
+    {
+      "title": "Query-Aware Test Generation Using a Relational Constraint Solver",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2008.34",
+      "publicationDate": "2008-09-15",
+      "year": 2008
+    },
+    {
+      "title": "Generating targeted queries for database testing",
+      "arxiv_id": null,
+      "doi": "10.1145/1376616.1376668",
+      "publicationDate": "2008-06-09",
+      "year": 2008
+    },
+    {
+      "title": "Grammar-based whitebox fuzzing",
+      "arxiv_id": null,
+      "doi": "10.1145/1375581.1375607",
+      "publicationDate": "2008-06-07",
+      "year": 2008
+    },
+    {
+      "title": "A genetic approach for random testing of database systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-09-23",
+      "year": 2007
+    },
+    {
+      "title": "Feedback-Directed Random Test Generation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2007.37",
+      "publicationDate": "2007-05-24",
+      "year": 2007
+    },
+    {
+      "title": "Generating Queries with Cardinality Constraints for DBMS Testing",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2006.190",
+      "publicationDate": "2006-12-01",
+      "year": 2006
+    },
+    {
+      "title": "Simple and realistic data generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2006-09-01",
+      "year": 2006
+    },
+    {
+      "title": "Performance",
+      "arxiv_id": null,
+      "doi": "10.1021/cen-09210-ad07",
+      "publicationDate": "2005-12-31",
+      "year": 2005
+    },
+    {
+      "title": "Flexible Database Generators",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-08-30",
+      "year": 2005
+    },
+    {
+      "title": "Too Darned Big to Test",
+      "arxiv_id": null,
+      "doi": "10.1145/1046931.1046944",
+      "publicationDate": "2005-02-01",
+      "year": 2005
+    },
+    {
+      "title": "TestEra: Specification-Based Testing of Java Programs Using SAT",
+      "arxiv_id": null,
+      "doi": "10.1023/B:AUSE.0000038938.10589.b9",
+      "publicationDate": "2004-10-01",
+      "year": 2004
+    },
+    {
+      "title": "Generating Thousand Benchmark Queries in Seconds",
+      "arxiv_id": null,
+      "doi": "10.1016/B978-012088469-8.50091-7",
+      "publicationDate": "2004-08-31",
+      "year": 2004
+    },
+    {
+      "title": "Query processing for SQL updates",
+      "arxiv_id": null,
+      "doi": "10.1145/1007568.1007665",
+      "publicationDate": "2004-06-13",
+      "year": 2004
+    },
+    {
+      "title": "Alloy: a lightweight object modelling notation",
+      "arxiv_id": null,
+      "doi": "10.1145/505145.505149",
+      "publicationDate": "2002-04-01",
+      "year": 2002
+    },
+    {
+      "title": "BerkMin: A fast and robust SAT-solver",
+      "arxiv_id": null,
+      "doi": "10.1109/DATE.2002.998262",
+      "publicationDate": "2002-03-04",
+      "year": 2002
+    },
+    {
+      "title": "Massive Stochastic Testing of SQL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1998-08-24",
+      "year": 1998
+    },
+    {
+      "title": "Quickly generating billion-record synthetic databases",
+      "arxiv_id": null,
+      "doi": "10.1145/191839.191886",
+      "publicationDate": "1994-05-24",
+      "year": 1994
+    },
+    {
+      "title": "Query evaluation techniques for large databases",
+      "arxiv_id": null,
+      "doi": "10.1145/152610.152611",
+      "publicationDate": "1993-06-01",
+      "year": 1993
+    },
+    {
+      "title": "Generating consistent test data: Restricting the search space by a generator formula",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01232186",
+      "publicationDate": "1993-04-01",
+      "year": 1993
+    },
+    {
+      "title": "Functional SOL (FSOL), an SQL upward-compatible database programming language",
+      "arxiv_id": null,
+      "doi": "10.1016/0020-0255(92)90015-Z",
+      "publicationDate": "1992-08-01",
+      "year": 1992
+    },
+    {
+      "title": "An empirical study of the reliability of UNIX utilities",
+      "arxiv_id": null,
+      "doi": "10.1145/96267.96279",
+      "publicationDate": "1990-12-01",
+      "year": 1990
+    },
+    {
+      "title": "Bandit Problems, Sequential Allocation of Experiments",
+      "arxiv_id": null,
+      "doi": "10.1057/JORS.1987.129",
+      "publicationDate": "1987-08-01",
+      "year": 1987
+    },
+    {
+      "title": "On the optimal nesting order for computing N-relational joins",
+      "arxiv_id": null,
+      "doi": "10.1145/1270.1498",
+      "publicationDate": "1984-09-01",
+      "year": 1984
+    },
+    {
+      "title": "Theoretical and Empirical Studies of Program Testing",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.1978.231514",
+      "publicationDate": "1978-05-10",
+      "year": 1978
+    },
+    {
+      "title": "PingCap",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "We classify existing DBMS fuzzing methods based on testing components, encompassing various components in DBMSs, and provide detailed descriptions of representative works",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "2023. Regression Tests",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Received 17 November 2023; revised 20 December 2025; accepted 10 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Towards Generic Database Management System Fuzzing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". How SQLite Is Tested",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". The MySQL Test Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Detecting Logical Bugs of DBMS with Coverage-based Guidance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Artemis: An Automatic Test Suite Generator for Large Scale OLAP Database",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-71058-3_5",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "GRIMOIRE: Synthesizing Structure while Fuzzing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Cosette: An Automated Prover for SQL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "LibFuzzer - A Library For Coverage-guided Fuzz Testing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Data science revealed: A data-driven glimpse into the burgeoning new field",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Testing SQL Server's Query Optimizer: Challenges, Techniques and Experiences",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Software Testing Techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Differential Testing for Software",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "The Cascades Framework for Query Optimization.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1995
+    },
+    {
+      "title": "Bandit problems: Sequential Allocation of Experiments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-94-015-3711-7",
+      "publicationDate": null,
+      "year": 1984
+    },
+    {
+      "title": "2022. Differentially Testing Database Transactions for Fun and Profit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Sequence-oriented DBMS fuzzing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. When fuzzing meets llms: Challenges and opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. CONI: Detecting database connector bugs via state-aware test case generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. DepState: Detecting synchronization failure bugs in distributed database management systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

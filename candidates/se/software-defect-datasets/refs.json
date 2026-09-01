@@ -1,0 +1,1717 @@
+{
+  "candidate": {
+    "topic": "From Bugs to Benchmarks",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3797033",
+      "title": "From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets",
+      "published": "2026-03-09"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:44+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 240,
+    "arxiv_resolvable": 72,
+    "doi_only": 150,
+    "unresolved": 18
+  },
+  "gt_s2": {
+    "paperId": "affc9f3efaa067668f923fcbf1d2945a866d7762",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2504-17977",
+      "ArXiv": "2504.17977",
+      "DOI": "10.1145/3797033",
+      "CorpusId": 278129629
+    },
+    "title": "From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 240,
+    "publicationDate": "2025-04-24"
+  },
+  "refs": [
+    {
+      "title": "LLMs and Stack Overflow discussions: Reliability, impact, and challenges",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2025.112541",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Large language models in software engineering",
+      "arxiv_id": null,
+      "doi": "10.56916/jesi.v2i2.968",
+      "publicationDate": "2024-12-08",
+      "year": 2024
+    },
+    {
+      "title": "Taxonomy of Security-related Issues in Android Apps: An Empirical Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3695750.3695824",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "SWE-Bench+: Enhanced Coding Benchmark for LLMs",
+      "arxiv_id": "2410.06992",
+      "doi": "10.48550/arXiv.2410.06992",
+      "publicationDate": "2024-10-09",
+      "year": 2024
+    },
+    {
+      "title": "When Your Infrastructure Is a Buggy Program: Understanding Faults in Infrastructure as Code Ecosystems",
+      "arxiv_id": null,
+      "doi": "10.1145/3689799",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Testing and Analysis of Quantum Software",
+      "arxiv_id": "2410.00650",
+      "doi": "10.48550/arXiv.2410.00650",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Bugs in Pods: Understanding Bugs in Container Runtime Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680366",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Study on Kubernetes Operator Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680396",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3652140",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "Privbench: A Benchmark Capturing Privilege Escalation Vulnerabilities in Android",
+      "arxiv_id": null,
+      "doi": "10.1109/PST62714.2024.10788068",
+      "publicationDate": "2024-08-28",
+      "year": 2024
+    },
+    {
+      "title": "Benchmarking and Categorizing the Performance of Neural Program Repair Systems for Java",
+      "arxiv_id": null,
+      "doi": "10.1145/3688834",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "Can LLMs Replace Manual Annotation of Software Engineering Artifacts?",
+      "arxiv_id": "2408.05534",
+      "doi": "10.1109/MSR66628.2025.00086",
+      "publicationDate": "2024-08-10",
+      "year": 2024
+    },
+    {
+      "title": "ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3663529.3663815",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Study on Bugs in Rust Programming Language",
+      "arxiv_id": null,
+      "doi": "10.1109/QRS62785.2024.00037",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "VulZoo: A Comprehensive Vulnerability Intelligence Dataset",
+      "arxiv_id": "2406.16347",
+      "doi": "10.1145/3691620.3695345",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "Understanding Vulnerability Inducing Commits of the Linux Kernel",
+      "arxiv_id": null,
+      "doi": "10.1145/3672452",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Study on the Characteristics of Database Access Bugs in Java Applications",
+      "arxiv_id": "2405.15008",
+      "doi": "10.1145/3672449",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "BOSS: A Dataset to Train ML-Based Systems to Repair Programs with Out-of-Bounds Write Flaws",
+      "arxiv_id": null,
+      "doi": "10.1145/3643788.3648013",
+      "publicationDate": "2024-04-20",
+      "year": 2024
+    },
+    {
+      "title": "TrickyBugs: A Dataset of Corner-case Bugs in Plausible Programs",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644870",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "CrashJS: A NodeJS Benchmark for Automated Crash Reproduction",
+      "arxiv_id": "2405.05541",
+      "doi": "10.1145/3643991.3644912",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representations",
+      "arxiv_id": "2406.12415",
+      "doi": "10.1145/3643991.3644886",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "P3: A Dataset of Partial Program Patches",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644889",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Understanding Transaction Bugs in Database Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639207",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "BugHub: A Large Scale Issue Report Dataset",
+      "arxiv_id": null,
+      "doi": "10.1109/EDCC61798.2024.00016",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "AutoCodeRover: Autonomous Program Improvement",
+      "arxiv_id": "2404.05427",
+      "doi": "10.1145/3650212.3680384",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving Coding Benchmarks via LLM",
+      "arxiv_id": "2403.19114",
+      "doi": "10.48550/arXiv.2403.19114",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Vulnerability Detection with Code Language Models: How Far are We?",
+      "arxiv_id": "2403.18624",
+      "doi": "10.1109/ICSE55347.2025.00038",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "ROBUST: 221 bugs in the Robot Operating System",
+      "arxiv_id": "2404.03629",
+      "doi": "10.1007/s10664-024-10440-0",
+      "publicationDate": "2024-03-23",
+      "year": 2024
+    },
+    {
+      "title": "Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2023.111919",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "GitBug-Java: A Reproducible Benchmark of Recent Java Bugs",
+      "arxiv_id": "2402.02961",
+      "doi": "10.1145/3643991.3644884",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "ReposVul: A Repository-Level High-Quality Vulnerability Dataset",
+      "arxiv_id": "2401.13169",
+      "doi": "10.1145/3639478.3647634",
+      "publicationDate": "2024-01-24",
+      "year": 2024
+    },
+    {
+      "title": "BUMP: A Benchmark of Reproducible Breaking Dependency Updates",
+      "arxiv_id": "2401.09906",
+      "doi": "10.1109/SANER60148.2024.00024",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "BugsPHP: A dataset for Automated Program Repair in PHP",
+      "arxiv_id": "2401.07356",
+      "doi": "10.1145/3643991.3644878",
+      "publicationDate": "2024-01-14",
+      "year": 2024
+    },
+    {
+      "title": "Empirical Analysis of Vulnerabilities Life Cycle in Golang Ecosystem",
+      "arxiv_id": "2401.00515",
+      "doi": "10.1145/3597503.3639230",
+      "publicationDate": "2023-12-31",
+      "year": 2023
+    },
+    {
+      "title": "LLM4SecHW: Leveraging Domain-Specific Large Language Model for Hardware Debugging",
+      "arxiv_id": "2401.16448",
+      "doi": "10.1109/AsianHOST59942.2023.10409307",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "Issues and Their Causes in WebAssembly Applications: An Empirical Study",
+      "arxiv_id": "2311.00646",
+      "doi": "10.1145/3661167.3661227",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions",
+      "arxiv_id": "2310.15642",
+      "doi": "10.1145/3639478.3640023",
+      "publicationDate": "2023-10-24",
+      "year": 2023
+    },
+    {
+      "title": "The GitHub Recent Bugs Dataset for Evaluating LLM-Based Debugging Applications",
+      "arxiv_id": "2310.13229",
+      "doi": "10.1109/ICST60714.2024.00049",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "arxiv_id": "2310.06770",
+      "doi": "10.48550/arXiv.2310.06770",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "ContextAug: model-domain failing test augmentation with contextual information",
+      "arxiv_id": null,
+      "doi": "10.1007/s11704-023-2521-2",
+      "publicationDate": "2023-09-13",
+      "year": 2023
+    },
+    {
+      "title": "BugMiner: Automating Precise Bug Dataset Construction by Code Evolution History Mining",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE56229.2023.00201",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "An Automated and Flexible Multilingual Bug-Fix Dataset Construction System",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE56229.2023.00176",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Minecraft: Automated Mining of Software Bug Fixes with Precise Code Context",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE56229.2023.00116",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "BUGSC++: A Highly Usable Real World Defect Benchmark for C/C++",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE56229.2023.00208",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "PreciseBugCollector: Extensible, Executable and Precise Bug-Fix Collection: Solution for Challenge 8: Automating Precise Data Collection for Code Snippets with Bugs, Fixes, Locations, and Types",
+      "arxiv_id": "2309.06229",
+      "doi": "10.1109/ASE56229.2023.00163",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Test Case Prioritization Based on Neural Network Classification with Artifacts Traceability",
+      "arxiv_id": null,
+      "doi": "10.1109/ASEW60602.2023.00015",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "JMLKelinci+: Detecting Semantic Bugs and Covering Branches with Valid Inputs Using Coverage-guided Fuzzing and Runtime Assertion Checking",
+      "arxiv_id": null,
+      "doi": "10.1145/3607538",
+      "publicationDate": "2023-08-05",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study on Bugs Inside PyTorch: A Replication Study",
+      "arxiv_id": "2307.13777",
+      "doi": "10.1109/ICSME58846.2023.00031",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study of Functional Bugs in Android Apps",
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598138",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "RaceBench: A Triggerable and Observable Concurrency Bug Benchmark",
+      "arxiv_id": null,
+      "doi": "10.1145/3579856.3595787",
+      "publicationDate": "2023-07-10",
+      "year": 2023
+    },
+    {
+      "title": "Bugs4Q: A benchmark of existing bugs to enable controlled testing and debugging studies for quantum programs",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2023.111805",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study of Bugs in Quantum Machine Learning Frameworks",
+      "arxiv_id": "2306.06369",
+      "doi": "10.1109/QSW59989.2023.00018",
+      "publicationDate": "2023-06-10",
+      "year": 2023
+    },
+    {
+      "title": "How Effective Are Neural Networks for Fixing Security Vulnerabilities",
+      "arxiv_id": "2305.18607",
+      "doi": "10.1145/3597926.3598135",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "Compsuite: A Dataset of Java Library Upgrade Incompatibility Issues",
+      "arxiv_id": "2305.08671",
+      "doi": "10.1109/ASE56229.2023.00127",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study of High Performance Computing (HPC) Performance Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR59073.2023.00037",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00096",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00024",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "On the Reproducibility of Software Defect Datasets",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00195",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Is ChatGPT the Ultimate Programming Assistant - How far is it?",
+      "arxiv_id": "2304.11938",
+      "doi": "10.48550/arXiv.2304.11938",
+      "publicationDate": "2023-04-24",
+      "year": 2023
+    },
+    {
+      "title": "Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT",
+      "arxiv_id": "2304.00385",
+      "doi": "10.1145/3650212.3680323",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "BugBuilder: An Automated Approach to Building Bug Repository",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2022.3177713",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Poster: BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST57152.2023.00053",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection",
+      "arxiv_id": "2304.00409",
+      "doi": "10.1145/3607199.3607242",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Automated Program Repair Techniques",
+      "arxiv_id": "2303.18184",
+      "doi": "10.48550/arXiv.2303.18184",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "On subsumption relationships in data flow testing",
+      "arxiv_id": null,
+      "doi": "10.1002/stvr.1843",
+      "publicationDate": "2023-03-21",
+      "year": 2023
+    },
+    {
+      "title": "Defectors: A Large, Diverse Python Dataset for Defect Prediction",
+      "arxiv_id": "2303.04738",
+      "doi": "10.1109/MSR59073.2023.00085",
+      "publicationDate": "2023-03-08",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Study of WebAssembly Runtime Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER56733.2023.00041",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Characterizing and Detecting WebAssembly Runtime Bugs",
+      "arxiv_id": "2301.12102",
+      "doi": "10.1145/3624743",
+      "publicationDate": "2023-01-28",
+      "year": 2023
+    },
+    {
+      "title": "Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering",
+      "arxiv_id": "2301.11129",
+      "doi": "10.1109/ICSE48619.2023.00169",
+      "publicationDate": "2023-01-26",
+      "year": 2023
+    },
+    {
+      "title": "An empirical study on bugs in JavaScript engines",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2022.107105",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "A Software Vulnerability Dataset of Large Open Source C/C++ Projects",
+      "arxiv_id": null,
+      "doi": "10.1109/PRDC55274.2022.00029",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Exploring Better Black-Box Test Case Prioritization via Log Analysis",
+      "arxiv_id": null,
+      "doi": "10.1145/3569932",
+      "publicationDate": "2022-10-28",
+      "year": 2022
+    },
+    {
+      "title": "An empirical study on real bug fixes from solidity smart contract projects",
+      "arxiv_id": "2210.11990",
+      "doi": "10.1016/j.jss.2023.111787",
+      "publicationDate": "2022-10-21",
+      "year": 2022
+    },
+    {
+      "title": "Bug Analysis in Jupyter Notebook Projects: An Empirical Study",
+      "arxiv_id": "2210.06893",
+      "doi": "10.1145/3641539",
+      "publicationDate": "2022-10-13",
+      "year": 2022
+    },
+    {
+      "title": "An Empirical Study on Numerical Bugs in Deep Learning Programs",
+      "arxiv_id": null,
+      "doi": "10.1145/3551349.3559561",
+      "publicationDate": "2022-10-10",
+      "year": 2022
+    },
+    {
+      "title": "Taxonomy of Aging-related Bugs in Deep Learning Libraries",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSRE55969.2022.00048",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Bugs in machine learning-based systems: a faultload benchmark",
+      "arxiv_id": "2206.12311",
+      "doi": "10.1007/s10664-023-10291-1",
+      "publicationDate": "2022-06-24",
+      "year": 2022
+    },
+    {
+      "title": "Can Deep Learning Models Learn the Vulnerable Patterns for Vulnerability Detection?",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC54236.2022.00142",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "SDPTool : A tool for creating datasets and software defect predictions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.softx.2022.101036",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "A systematic literature review on benchmarks for evaluating debugging approaches",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2022.111423",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "ECench: An Energy Bug Benchmark of Ethereum Client Software",
+      "arxiv_id": null,
+      "doi": "10.1145/3524842.3528028",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques",
+      "arxiv_id": null,
+      "doi": "10.1145/3524842.3528482",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "gDefects4DL: A Dataset of General Real-World Deep Learning Program Defects",
+      "arxiv_id": null,
+      "doi": "10.1145/3510454.3516826",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "FixJS: A Dataset of Bug-fixing JavaScript Commits",
+      "arxiv_id": null,
+      "doi": "10.1145/3524842.3528480",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Fault Localization via Efficient Probabilistic Modeling of Program Semantics",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510073",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Testing Software in Production Environments with Data from the Field",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST53961.2022.00017",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "New Ranking Formulas to Improve Spectrum Based Fault Localization Via Systematic Search",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSTW55395.2022.00059",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches",
+      "arxiv_id": "2203.08912",
+      "doi": "10.1145/3576039",
+      "publicationDate": "2022-03-16",
+      "year": 2022
+    },
+    {
+      "title": "ExcePy: A Python Benchmark for Bugs with Python Built-in Types",
+      "arxiv_id": null,
+      "doi": "10.1109/saner53432.2022.00104",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "FUM - A Framework for API Usage constraint and Misuse Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/saner53432.2022.00085",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction",
+      "arxiv_id": "2203.00101",
+      "doi": "10.1145/3524842.3527996",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "Silent bugs in deep learning frameworks: an empirical study of Keras and TensorFlow",
+      "arxiv_id": "2112.13314",
+      "doi": "10.1007/s10664-023-10389-6",
+      "publicationDate": "2021-12-26",
+      "year": 2021
+    },
+    {
+      "title": "ROMEO: A binary vulnerability detection dataset for exploring Juliet through the lens of assembly language",
+      "arxiv_id": "2112.06623",
+      "doi": "10.1016/j.cose.2023.103165",
+      "publicationDate": "2021-12-13",
+      "year": 2021
+    },
+    {
+      "title": "Evaluation of Static Vulnerability Detection Tools With Java Cryptographic API Benchmarks",
+      "arxiv_id": "2112.04037",
+      "doi": "10.1109/TSE.2022.3154717",
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "PyTraceBugs: A Large Python Code Dataset for Supervised Machine Learning in Software Defect Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/APSEC53868.2021.00022",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study of Bugs in WebAssembly Compilers",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE51524.2021.9678776",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Explaining Regressions via Alignment Slicing and Mending",
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2019.2949568",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Bugs in Quantum computing platforms: an empirical study",
+      "arxiv_id": "2110.14560",
+      "doi": "10.1145/3527330",
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study on Common Bugs in Deep Learning Compilers",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSRE52982.2021.00030",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "RegMiner: towards constructing a large regression dataset from code evolution history",
+      "arxiv_id": "2109.12389",
+      "doi": "10.1145/3533767.3534224",
+      "publicationDate": "2021-09-25",
+      "year": 2021
+    },
+    {
+      "title": "A regression test case prioritization technique targeting ‘hard to detect’ faults",
+      "arxiv_id": null,
+      "doi": "10.1007/s13198-021-01385-4",
+      "publicationDate": "2021-09-18",
+      "year": 2021
+    },
+    {
+      "title": "Method Calls Frequency-Based Tie-Breaking Strategy For Software Fault Localization",
+      "arxiv_id": "2108.11031",
+      "doi": "10.26226/morressier.613b54401459512fce6a7ce2",
+      "publicationDate": "2021-08-25",
+      "year": 2021
+    },
+    {
+      "title": "A comprehensive study of deep learning compiler bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3468264.3468591",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "CrossVul: a cross-language vulnerability dataset with commit data",
+      "arxiv_id": null,
+      "doi": "10.1145/3468264.3473122",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "An exploratory study of autopilot software bugs in unmanned aerial vehicles",
+      "arxiv_id": null,
+      "doi": "10.1145/3468264.3468559",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Variability fault localization: a benchmark",
+      "arxiv_id": "2107.04741",
+      "doi": "10.1145/3461001.3473058",
+      "publicationDate": "2021-07-10",
+      "year": 2021
+    },
+    {
+      "title": "Automatic Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1109/MS.2021.3071567",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Automatic Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1109/MS.2021.3072577",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Denchmark: A Bug Benchmark of Deep Learning-related Software",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR52588.2021.00070",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "IoT Bugs and Development Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE43902.2021.00051",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "A Dataset of Vulnerable Code Changes of the Chromium OS Project",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-Companion52605.2021.00113",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR52588.2021.00066",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Andror2: A Dataset of Manually-Reproduced Bug Reports for Android apps",
+      "arxiv_id": "2106.08403",
+      "doi": "10.1109/MSR52588.2021.00082",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Demystifying regular expression bugs",
+      "arxiv_id": "2104.09693",
+      "doi": "10.1007/s10664-021-10033-1",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "FDG: a precise measurement of fault diagnosability gain of test cases",
+      "arxiv_id": "2104.06641",
+      "doi": "10.1145/3533767.3534370",
+      "publicationDate": "2021-04-14",
+      "year": 2021
+    },
+    {
+      "title": "GoBench: A Benchmark Suite of Real-World Go Concurrency Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/CGO51591.2021.9370317",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "Extracting Concise Bug-Fixing Patches from Human-Written Patches in Version Control Systems",
+      "arxiv_id": "2103.00156",
+      "doi": "10.1109/ICSE43902.2021.00069",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "D2A: A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis",
+      "arxiv_id": "2102.07995",
+      "doi": "10.1109/ICSE-SEIP52600.2021.00020",
+      "publicationDate": "2021-02-16",
+      "year": 2021
+    },
+    {
+      "title": "Learning how to search: generating effective test cases through adaptive fitness function selection",
+      "arxiv_id": "2102.04822",
+      "doi": "10.1007/s10664-021-10048-8",
+      "publicationDate": "2021-02-09",
+      "year": 2021
+    },
+    {
+      "title": "A Theoretical and Empirical Analysis of Program Spectra Diagnosability",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2019.2895640",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications",
+      "arxiv_id": "2101.04930",
+      "doi": "10.1109/ICSE43902.2021.00068",
+      "publicationDate": "2021-01-13",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Deep Learning for Software Engineering",
+      "arxiv_id": "2011.14597",
+      "doi": "10.1145/3505243",
+      "publicationDate": "2020-11-30",
+      "year": 2020
+    },
+    {
+      "title": "Actor concurrency bugs: a comprehensive study on symptoms, root causes, API usages, and differences",
+      "arxiv_id": null,
+      "doi": "10.1145/3428282",
+      "publicationDate": "2020-11-13",
+      "year": 2020
+    },
+    {
+      "title": "BugsInPy: a database of existing bugs in Python programs to enable controlled testing and debugging studies",
+      "arxiv_id": "2401.15481",
+      "doi": "10.1145/3368089.3417943",
+      "publicationDate": "2020-11-07",
+      "year": 2020
+    },
+    {
+      "title": "BUGSJS: a benchmark and taxonomy of JavaScript bugs",
+      "arxiv_id": null,
+      "doi": "10.1002/stvr.1751",
+      "publicationDate": "2020-10-08",
+      "year": 2020
+    },
+    {
+      "title": "A Framework and DataSet for Bugs in Ethereum Smart Contracts",
+      "arxiv_id": "2009.02066",
+      "doi": "10.1109/ICSME46990.2020.00023",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "No Strings Attached: An Empirical Study of String-related Software Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3324884.3416576",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "How Do Users Revise Answers on Technical Q&A Websites? A Case Study on Stack Overflow",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2018.2874470",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "A curated dataset of security defects in scientific software projects",
+      "arxiv_id": null,
+      "doi": "10.1145/3384217.3384218",
+      "publicationDate": "2020-08-25",
+      "year": 2020
+    },
+    {
+      "title": "An Empirical Study on Critical Blocking Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3387904.3389267",
+      "publicationDate": "2020-07-13",
+      "year": 2020
+    },
+    {
+      "title": "A Comprehensive Study of Autonomous Vehicle Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3377811.3380397",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "An Automatically Created Novel Bug Dataset and its Validation in Bug Prediction",
+      "arxiv_id": "2006.10158",
+      "doi": "10.1016/j.jss.2020.110691",
+      "publicationDate": "2020-06-07",
+      "year": 2020
+    },
+    {
+      "title": "Software Vulnerability Detection Using Deep Neural Networks: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/JPROC.2020.2993293",
+      "publicationDate": "2020-06-04",
+      "year": 2020
+    },
+    {
+      "title": "An Empirical Study on Regular Expression Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3379597.3387464",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries",
+      "arxiv_id": null,
+      "doi": "10.1145/3379597.3387501",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Compiler Testing",
+      "arxiv_id": null,
+      "doi": "10.1145/3363562",
+      "publicationDate": "2020-02-05",
+      "year": 2020
+    },
+    {
+      "title": "CVE-assisted large-scale security bug report dataset construction method",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2019.110456",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Open-source Defect Injection Benchmark Testbed for the Evaluation of Testing",
+      "arxiv_id": "2001.09342",
+      "doi": "10.1109/ICST46399.2020.00059",
+      "publicationDate": "2020-01-25",
+      "year": 2020
+    },
+    {
+      "title": "A GitHub-Based Data Collection Method for Software Defect Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/DSA.2019.00020",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning-Based Vulnerable Function Detection: A Benchmark",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-41579-2_13",
+      "publicationDate": "2019-12-15",
+      "year": 2019
+    },
+    {
+      "title": "Automated program repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3318162",
+      "publicationDate": "2019-11-21",
+      "year": 2019
+    },
+    {
+      "title": "Taxonomy of Real Faults in Deep Learning Systems",
+      "arxiv_id": "1910.11015",
+      "doi": "10.1145/3377811.3380395",
+      "publicationDate": "2019-10-24",
+      "year": 2019
+    },
+    {
+      "title": "Historical Spectrum Based Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2019.2948158",
+      "publicationDate": "2019-10-17",
+      "year": 2019
+    },
+    {
+      "title": "From Reports to Bug-Fix Commits: A 10 Years Dataset of Bug-Fixing Activity from 55 Apache's Open Source Projects",
+      "arxiv_id": null,
+      "doi": "10.1145/3345629.3345639",
+      "publicationDate": "2019-09-18",
+      "year": 2019
+    },
+    {
+      "title": "A large-scale empirical study of compiler errors in continuous integration",
+      "arxiv_id": null,
+      "doi": "10.1145/3338906.3338917",
+      "publicationDate": "2019-08-12",
+      "year": 2019
+    },
+    {
+      "title": "An Empirical Study on API-Misuse Bugs in Open-Source C Programs",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2019.00012",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset",
+      "arxiv_id": "1905.13334",
+      "doi": "10.1145/3379597.3387491",
+      "publicationDate": "2019-05-30",
+      "year": 2019
+    },
+    {
+      "title": "Empirical review of Java program repair tools: a large-scale experiment on 2,141 bugs and 23,551 repair attempts",
+      "arxiv_id": "1905.11973",
+      "doi": "10.1145/3338906.3338911",
+      "publicationDate": "2019-05-28",
+      "year": 2019
+    },
+    {
+      "title": "DroidLeaks: a comprehensive database of resource leaks in Android apps",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-019-09715-8",
+      "publicationDate": "2019-05-16",
+      "year": 2019
+    },
+    {
+      "title": "Defining Smart Contract Defects on Ethereum",
+      "arxiv_id": "1905.01467",
+      "doi": "10.1109/TSE.2020.2989002",
+      "publicationDate": "2019-05-04",
+      "year": 2019
+    },
+    {
+      "title": "Defexts: A Curated Dataset of Reproducible Real-World Bugs for Modern JVM Languages",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-Companion.2019.00035",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "A Dataset of Non-Functional Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2019.00066",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "A Benchmark of Data Loss Bugs for Android Apps",
+      "arxiv_id": "1905.11040",
+      "doi": "10.1109/MSR.2019.00087",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes",
+      "arxiv_id": "1903.06725",
+      "doi": "10.1109/ICSE.2019.00048",
+      "publicationDate": "2019-03-15",
+      "year": 2019
+    },
+    {
+      "title": "Ahead of Time Mutation Based Fault Localisation using Statistical Inference",
+      "arxiv_id": "1902.09729",
+      "doi": "10.1109/ISSRE52982.2021.00036",
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+      "arxiv_id": "1902.02595",
+      "doi": "10.1109/MSR.2019.00064",
+      "publicationDate": "2019-02-07",
+      "year": 2019
+    },
+    {
+      "title": "BEARS: An Extensible Java Bug Benchmark for Automatic Program Repair Studies",
+      "arxiv_id": "1901.06024",
+      "doi": "10.1109/SANER.2019.8667991",
+      "publicationDate": "2019-01-17",
+      "year": 2019
+    },
+    {
+      "title": "An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation",
+      "arxiv_id": "1812.08693",
+      "doi": "10.1145/3340544",
+      "publicationDate": "2018-12-20",
+      "year": 2018
+    },
+    {
+      "title": "An empirical study on crash recovery bugs in large-scale distributed systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3236024.3236030",
+      "publicationDate": "2018-10-26",
+      "year": 2018
+    },
+    {
+      "title": "A Public Unified Bug Dataset for Java",
+      "arxiv_id": null,
+      "doi": "10.1145/3273934.3273936",
+      "publicationDate": "2018-10-10",
+      "year": 2018
+    },
+    {
+      "title": "CODIT: Code Editing With Tree-Based Neural Models",
+      "arxiv_id": "1810.00314",
+      "doi": "10.1109/TSE.2020.3020502",
+      "publicationDate": "2018-09-30",
+      "year": 2018
+    },
+    {
+      "title": "How Many of All Bugs Do We Find? A Study of Static Bug Detectors",
+      "arxiv_id": null,
+      "doi": "10.1145/3238147.3238213",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "An empirical study on TensorFlow program bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3213846.3213866",
+      "publicationDate": "2018-07-12",
+      "year": 2018
+    },
+    {
+      "title": "Bugs.jar: A Large-Scale, Diverse Dataset of Real-World Java Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3196398.3196473",
+      "publicationDate": "2018-05-28",
+      "year": 2018
+    },
+    {
+      "title": "VulinOSS: A Dataset of Security Vulnerabilities in Open-Source Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3196398.3196454",
+      "publicationDate": "2018-05-28",
+      "year": 2018
+    },
+    {
+      "title": "JBench: A Dataset of Data Races for Concurrency Testing",
+      "arxiv_id": null,
+      "doi": "10.1145/3196398.3196451",
+      "publicationDate": "2018-05-28",
+      "year": 2018
+    },
+    {
+      "title": "Repairing Crashes in Android Apps",
+      "arxiv_id": null,
+      "doi": "10.1145/3180155.3180243",
+      "publicationDate": "2018-05-27",
+      "year": 2018
+    },
+    {
+      "title": "The impact of refactoring changes on the SZZ algorithm: An empirical study",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER.2018.8330225",
+      "publicationDate": "2018-03-01",
+      "year": 2018
+    },
+    {
+      "title": "Dissection of a bug dataset: Anatomy of 395 patches from Defects4J",
+      "arxiv_id": "1801.06393",
+      "doi": "10.1109/SANER.2018.8330203",
+      "publicationDate": "2018-01-19",
+      "year": 2018
+    },
+    {
+      "title": "A comprehensive study on real world concurrency bugs in Node.js",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2017.8115663",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "A comprehensive study of real-world numerical bug characteristics",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2017.8115662",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge",
+      "arxiv_id": null,
+      "doi": "10.1145/3135932.3135941",
+      "publicationDate": "2017-10-22",
+      "year": 2017
+    },
+    {
+      "title": "A Survey of Dynamic Analysis and Test Generation for JavaScript",
+      "arxiv_id": null,
+      "doi": "10.1145/3106739",
+      "publicationDate": "2017-09-26",
+      "year": 2017
+    },
+    {
+      "title": "Ghera: A Repository of Android App Vulnerability Benchmarks",
+      "arxiv_id": "1708.02380",
+      "doi": "10.1145/3127005.3127010",
+      "publicationDate": "2017-08-08",
+      "year": 2017
+    },
+    {
+      "title": "An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends",
+      "arxiv_id": null,
+      "doi": "10.1109/BIGDATACONGRESS.2017.85",
+      "publicationDate": "2017-06-25",
+      "year": 2017
+    },
+    {
+      "title": "Codeflaws: A Programming Competition Benchmark for Evaluating Automated Program Repair Tools",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-C.2017.76",
+      "publicationDate": "2017-05-20",
+      "year": 2017
+    },
+    {
+      "title": "Continuous Defect Prediction: The Idea and a Related Dataset",
+      "arxiv_id": "1703.04142",
+      "doi": "10.1109/MSR.2017.46",
+      "publicationDate": "2017-03-12",
+      "year": 2017
+    },
+    {
+      "title": "Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset",
+      "arxiv_id": "1811.02429",
+      "doi": "10.1007/s10664-016-9470-4",
+      "publicationDate": "2016-10-25",
+      "year": 2016
+    },
+    {
+      "title": "A Survey on Software Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2016.2521368",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "LAVA: Large-Scale Automated Vulnerability Addition",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2016.15",
+      "publicationDate": "2016-05-22",
+      "year": 2016
+    },
+    {
+      "title": "Performance Issues and Optimizations in JavaScript: An Empirical Study",
+      "arxiv_id": null,
+      "doi": "10.1145/2884781.2884829",
+      "publicationDate": "2016-05-14",
+      "year": 2016
+    },
+    {
+      "title": "MUBench: A Benchmark for API-Misuse Detectors",
+      "arxiv_id": null,
+      "doi": "10.1145/2901739.2903506",
+      "publicationDate": "2016-05-14",
+      "year": 2016
+    },
+    {
+      "title": "The ManyBugs and IntroClass Benchmarks for Automated Repair of C Programs",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2015.2454513",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "JaConTeBe: A Benchmark Suite of Real-World Java Concurrency Bugs (T)",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2015.87",
+      "publicationDate": "2015-11-09",
+      "year": 2015
+    },
+    {
+      "title": "A Dataset of High Impact Bugs: Manually-Classified Issue Reports",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2015.78",
+      "publicationDate": "2015-05-16",
+      "year": 2015
+    },
+    {
+      "title": "Quality Questions Need Quality Code: Classifying Code Fragments on Stack Overflow",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2015.51",
+      "publicationDate": "2015-05-16",
+      "year": 2015
+    },
+    {
+      "title": "A survey on bug-report analysis",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-014-5241-2",
+      "publicationDate": "2015-01-04",
+      "year": 2015
+    },
+    {
+      "title": "What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2670979.2670986",
+      "publicationDate": "2014-11-03",
+      "year": 2014
+    },
+    {
+      "title": "Understanding and Classifying the Quality of Technical Forum Questions",
+      "arxiv_id": null,
+      "doi": "10.1109/QSIC.2014.27",
+      "publicationDate": "2014-10-02",
+      "year": 2014
+    },
+    {
+      "title": "Defects4J: a database of existing faults to enable controlled testing studies for Java programs",
+      "arxiv_id": null,
+      "doi": "10.1145/2610384.2628055",
+      "publicationDate": "2014-07-21",
+      "year": 2014
+    },
+    {
+      "title": "A Comparative Study of Bug Classification Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1142/S0218194014500053",
+      "publicationDate": "2014-06-10",
+      "year": 2014
+    },
+    {
+      "title": "The Eclipse and Mozilla defect tracking dataset: A genuine dataset for mining bug information",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2013.6624028",
+      "publicationDate": "2013-05-18",
+      "year": 2013
+    },
+    {
+      "title": "It's not a bug, it's a feature: How misclassification impacts bug prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2013.6606585",
+      "publicationDate": "2013-05-18",
+      "year": 2013
+    },
+    {
+      "title": "Understanding and detecting real-world performance bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/2254064.2254075",
+      "publicationDate": "2012-06-11",
+      "year": 2012
+    },
+    {
+      "title": "A qualitative study on performance bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2012.6224281",
+      "publicationDate": "2012-06-02",
+      "year": 2012
+    },
+    {
+      "title": "Identifying Linux bug fixing patches",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2012.6227176",
+      "publicationDate": "2012-06-02",
+      "year": 2012
+    },
+    {
+      "title": "Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2012.6227210",
+      "publicationDate": "2012-06-01",
+      "year": 2012
+    },
+    {
+      "title": "Evaluating defect prediction approaches: a benchmark and an extensive comparison",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-011-9173-9",
+      "publicationDate": "2011-08-17",
+      "year": 2011
+    },
+    {
+      "title": "RADBench: A Concurrency Bug Benchmark Suite",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-05-26",
+      "year": 2011
+    },
+    {
+      "title": "BegBunch: benchmarking for C bug detection tools",
+      "arxiv_id": null,
+      "doi": "10.1145/1555860.1555866",
+      "publicationDate": "2009-06-19",
+      "year": 2009
+    },
+    {
+      "title": "What Makes a Good Bug Report?",
+      "arxiv_id": null,
+      "doi": "10.1145/1453101.1453146",
+      "publicationDate": "2008-11-09",
+      "year": 2008
+    },
+    {
+      "title": "Using Static Analysis to Find Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/MS.2008.130",
+      "publicationDate": "2008-09-01",
+      "year": 2008
+    },
+    {
+      "title": "SZZ revisited: verifying when changes induce fixes",
+      "arxiv_id": null,
+      "doi": "10.1145/1390817.1390826",
+      "publicationDate": "2008-07-20",
+      "year": 2008
+    },
+    {
+      "title": "A buffer overflow benchmark for software model checkers",
+      "arxiv_id": null,
+      "doi": "10.1145/1321631.1321691",
+      "publicationDate": "2007-11-05",
+      "year": 2007
+    },
+    {
+      "title": "Have things changed now?: an empirical study of bug characteristics in modern open source software",
+      "arxiv_id": null,
+      "doi": "10.1145/1181309.1181314",
+      "publicationDate": "2006-10-21",
+      "year": 2006
+    },
+    {
+      "title": "Automatic Identification of Bug-Introducing Changes",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2006.23",
+      "publicationDate": "2006-09-18",
+      "year": 2006
+    },
+    {
+      "title": "Automatic test generation: a use case driven approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2006.22",
+      "publicationDate": "2006-03-01",
+      "year": 2006
+    },
+    {
+      "title": "When do changes induce fixes?",
+      "arxiv_id": null,
+      "doi": "10.1145/1082983.1083147",
+      "publicationDate": "2005-05-17",
+      "year": 2005
+    },
+    {
+      "title": "Test Case Prioritization: A Family of Empirical Studies",
+      "arxiv_id": null,
+      "doi": "10.1109/32.988497",
+      "publicationDate": "2002-02-01",
+      "year": 2002
+    },
+    {
+      "title": "An empirical study of operating systems errors",
+      "arxiv_id": null,
+      "doi": "10.1145/502034.502042",
+      "publicationDate": "2001-10-21",
+      "year": 2001
+    },
+    {
+      "title": "Quantitative Analysis of Faults and Failures in a Complex Software System",
+      "arxiv_id": null,
+      "doi": "10.1109/32.879815",
+      "publicationDate": "2000-08-01",
+      "year": 2000
+    },
+    {
+      "title": "The concept of dynamic analysis",
+      "arxiv_id": null,
+      "doi": "10.1145/318774.318944",
+      "publicationDate": "1999-10-01",
+      "year": 1999
+    },
+    {
+      "title": "A taxonomy of computer program security flaws",
+      "arxiv_id": null,
+      "doi": "10.1145/185403.185412",
+      "publicationDate": "1993-11-19",
+      "year": 1993
+    },
+    {
+      "title": "Software defects and their impact on system availability-a study of field failures in operating systems",
+      "arxiv_id": null,
+      "doi": "10.1109/FTCS.1991.146625",
+      "publicationDate": "1991-06-25",
+      "year": 1991
+    },
+    {
+      "title": "A Coefficient of Agreement for Nominal Scales",
+      "arxiv_id": null,
+      "doi": "10.1177/001316446002000104",
+      "publicationDate": "1960-04-01",
+      "year": 1960
+    },
+    {
+      "title": "PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3449106",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-1601",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Labelled Vulnerability Dataset on Android Source Code (LVDAndro) to Develop AI-Based Code Vulnerability Detection Models",
+      "arxiv_id": null,
+      "doi": "10.5220/0012060400003555",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "CVEjoin: An Information Security Vulnerability and Threat Intelligence Dataset",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-29056-5_34",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Review of Open Software Bug Datasets",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-45648-0_1",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Identifying Metamorphic Relations: A Data Mutation Directed Approach",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4040492",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "CSFL: Fault Localization on Real Software Bugs Based on the Combination of Context and Spectrum",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-91265-9_12",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "TANDEM: A Taxonomy and a Dataset of Real-World Performance Bugs",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3000928",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Automatic Software Repair: A Bibliography",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "OSS-Fuzz - Google's continuous fuzzing service for open source software",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Latent Dirichlet Allocation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "BugBench: Benchmarks for Evaluating Bug Detection Tools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "2023. HasBugs - handpicked haskell bugs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. GitHut",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. ActionsRemaker: Reproducing GitHub Actions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Analysis of Software Vulnerabilities Introduced in Programming Submissions Across Curriculum at Two Higher Education Institutions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. DebugBench: Evaluating Debugging Capability of Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Manuscript submitted to",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Investigating Execution Trace Embedding for Test Case Prioritization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Automated Repair of Programs from Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. APPT: Boosting Automated Patch Correctness Prediction via Fine-Tuning Pre-Trained Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CodeAgentsareStateoftheArtSoftwareTesters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "From Bugs to Benchmarks: A Comprehensive Survey of Software Defect",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

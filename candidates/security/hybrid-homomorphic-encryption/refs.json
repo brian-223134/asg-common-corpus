@@ -1,0 +1,1086 @@
+{
+  "candidate": {
+    "topic": "The HHE Land",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3807507",
+      "title": "The HHE Land: Exploring the Landscape of Hybrid Homomorphic Encryption",
+      "published": "2026-05-15"
+    },
+    "notes": "probe: 암호(IACR ePrint)/HPC(SC·IPDPS) 문헌 생태가 arXiv-backed corpus에서 어느 정도 커버되는지 실측용. 사전 필터의 'arXiv 친화성' prior 검증"
+  },
+  "extracted_at": "2026-09-01T02:09:52+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 150,
+    "arxiv_resolvable": 3,
+    "doi_only": 106,
+    "unresolved": 41
+  },
+  "gt_s2": {
+    "paperId": "ae3318b1bf46e3dbe5723b39bf6ee342d6744603",
+    "externalIds": {
+      "DBLP": "journals/iacr/AbdinasibfarNM25",
+      "DOI": "10.1145/3807507",
+      "CorpusId": 275589961
+    },
+    "title": "The HHE Land: Exploring the Landscape of Hybrid Homomorphic Encryption",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2026,
+    "referenceCount": 150,
+    "publicationDate": "2026-04-08"
+  },
+  "refs": [
+    {
+      "title": "IND-CPA-D of Relaxed Functional Bootstrapping: A New Attack, A General Fix, and A Stronger Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3719027.3765170",
+      "publicationDate": "2025-11-19",
+      "year": 2025
+    },
+    {
+      "title": "Differential Fault Attack on HE-Friendly Stream Ciphers: Masta, Pasta, and Elisabeth",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2025.3558036",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Security Guidelines for Implementing Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.62056/anxra69p1",
+      "publicationDate": "2025-01-13",
+      "year": 2025
+    },
+    {
+      "title": "Attacks Against the IND-CPAD Security of Exact FHE Schemes",
+      "arxiv_id": null,
+      "doi": "10.1145/3658644.3690341",
+      "publicationDate": "2024-12-02",
+      "year": 2024
+    },
+    {
+      "title": "A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption",
+      "arxiv_id": "2409.06422",
+      "doi": "10.1109/DASC64200.2024.00013",
+      "publicationDate": "2024-09-10",
+      "year": 2024
+    },
+    {
+      "title": "A Privacy-Preserving Decision Tree Evaluation Scheme for Multiple Wearable Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/CSCWD61410.2024.10580704",
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "GuardML: Efficient Privacy-Preserving Machine Learning Services Through Hybrid Homomorphic Encryption",
+      "arxiv_id": "2401.14840",
+      "doi": "10.1145/3605098.3635983",
+      "publicationDate": "2024-01-26",
+      "year": 2024
+    },
+    {
+      "title": "Theoretical differential fault attacks on FLIP and FiLIP",
+      "arxiv_id": null,
+      "doi": "10.1007/s12095-024-00698-y",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE",
+      "arxiv_id": null,
+      "doi": "10.1145/3605759.3625260",
+      "publicationDate": "2023-11-26",
+      "year": 2023
+    },
+    {
+      "title": "SoK: New Insights into Fully Homomorphic Encryption Libraries via Standardized Benchmarks",
+      "arxiv_id": null,
+      "doi": "10.56553/popets-2023-0075",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Pasta: A Case for Hybrid Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.46586/tches.v2023.i3.30-73",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "New cryptanalysis of LowMC with algebraic techniques",
+      "arxiv_id": null,
+      "doi": "10.1007/s10623-022-01178-1",
+      "publicationDate": "2023-02-17",
+      "year": 2023
+    },
+    {
+      "title": "OpenFHE: Open-Source Fully Homomorphic Encryption Library",
+      "arxiv_id": null,
+      "doi": "10.1145/3560827.3563379",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Chaghri - A FHE-friendly Block Cipher",
+      "arxiv_id": null,
+      "doi": "10.1145/3548606.3559364",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication",
+      "arxiv_id": null,
+      "doi": "10.1145/3460120.3484760",
+      "publicationDate": "2021-11-12",
+      "year": 2021
+    },
+    {
+      "title": "A detailed analysis of primal attack and its variants",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-020-2958-9",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "Cryptanalysis of LowMC instances using single plaintext/ciphertext pair",
+      "arxiv_id": null,
+      "doi": "10.46586/tosc.v2020.i4.130-146",
+      "publicationDate": "2020-12-10",
+      "year": 2020
+    },
+    {
+      "title": "Dasta - Alternative Linear Layer for Rasta",
+      "arxiv_id": null,
+      "doi": "10.13154/tosc.v2020.i3.46-86",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Design of Symmetric-Key Primitives for Advanced Cryptographic Protocols",
+      "arxiv_id": null,
+      "doi": "10.13154/tosc.v2020.i3.1-45",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Improved Filter Permutators for Efficient FHE: Better Instances and Implementations",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-35423-7_4",
+      "publicationDate": "2019-12-15",
+      "year": 2019
+    },
+    {
+      "title": "TFHE: Fast Fully Homomorphic Encryption Over the Torus",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-019-09319-x",
+      "publicationDate": "2019-04-25",
+      "year": 2019
+    },
+    {
+      "title": "Labeled PSI from Fully Homomorphic Encryption with Malicious Security",
+      "arxiv_id": null,
+      "doi": "10.1145/3243734.3243836",
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Rasta: A cipher with low ANDdepth and few ANDs per bit",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-96884-1_22",
+      "publicationDate": "2018-08-19",
+      "year": 2018
+    },
+    {
+      "title": "PIR with Compressed Queries and Amortized Query Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2018.00062",
+      "publicationDate": "2018-05-20",
+      "year": 2018
+    },
+    {
+      "title": "Homomorphic Encryption for Arithmetic of Approximate Numbers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-70694-8_15",
+      "publicationDate": "2017-12-03",
+      "year": 2017
+    },
+    {
+      "title": "Faster Packed Homomorphic Operations and Efficient Circuit Bootstrapping for TFHE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-70694-8_14",
+      "publicationDate": "2017-12-03",
+      "year": 2017
+    },
+    {
+      "title": "Fast Private Set Intersection from Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.1145/3133956.3134061",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Data-Driven Performance",
+      "arxiv_id": null,
+      "doi": "10.4324/9781351228428-1",
+      "publicationDate": "2017-10-05",
+      "year": 2017
+    },
+    {
+      "title": "Subspace Trail Cryptanalysis and its Applications to AES",
+      "arxiv_id": null,
+      "doi": "10.13154/tosc.v2016.i2.192-225",
+      "publicationDate": "2017-02-03",
+      "year": 2017
+    },
+    {
+      "title": "Faster Fully Homomorphic Encryption: Bootstrapping in Less Than 0.1 Seconds",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-53887-6_1",
+      "publicationDate": "2016-12-04",
+      "year": 2016
+    },
+    {
+      "title": "Cryptanalysis of the FLIP Family of Stream Ciphers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-53018-4_17",
+      "publicationDate": "2016-08-14",
+      "year": 2016
+    },
+    {
+      "title": "Towards Stream Ciphers for Efficient FHE with Low-Noise Ciphertexts",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-49890-3_13",
+      "publicationDate": "2016-05-08",
+      "year": 2016
+    },
+    {
+      "title": "Stream Ciphers: A Practical Solution for Efficient Homomorphic-Ciphertext Compression",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-017-9273-9",
+      "publicationDate": "2016-03-20",
+      "year": 2016
+    },
+    {
+      "title": "Optimized Interpolation Attacks on LowMC",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-48800-3_22",
+      "publicationDate": "2015-11-29",
+      "year": 2015
+    },
+    {
+      "title": "On the concrete hardness of Learning with Errors",
+      "arxiv_id": null,
+      "doi": "10.1515/jmc-2015-0016",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions",
+      "arxiv_id": null,
+      "doi": "10.6028/NIST.FIPS.202",
+      "publicationDate": "2015-08-04",
+      "year": 2015
+    },
+    {
+      "title": "Ciphers for MPC and FHE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-46800-5_17",
+      "publicationDate": "2015-04-26",
+      "year": 2015
+    },
+    {
+      "title": "A Generic Approach to Invariant Subspace Attacks: Cryptanalysis of Robin, iSCREAM and Zorro",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-46800-5_11",
+      "publicationDate": "2015-04-26",
+      "year": 2015
+    },
+    {
+      "title": "FHEW: Bootstrapping Homomorphic Encryption in Less Than a Second",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-46800-5_24",
+      "publicationDate": "2015-04-26",
+      "year": 2015
+    },
+    {
+      "title": "Faster Bootstrapping with Polynomial Error",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-44371-2_17",
+      "publicationDate": "2014-08-17",
+      "year": 2014
+    },
+    {
+      "title": "Lattice Decoding Attacks on Binary LWE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-08344-5_21",
+      "publicationDate": "2014-07-07",
+      "year": 2014
+    },
+    {
+      "title": "(Leveled) Fully Homomorphic Encryption without Bootstrapping",
+      "arxiv_id": null,
+      "doi": "10.1145/2633600",
+      "publicationDate": "2014-07-01",
+      "year": 2014
+    },
+    {
+      "title": "Scale-Invariant Fully Homomorphic Encryption over the Integers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-54631-0_18",
+      "publicationDate": "2014-03-26",
+      "year": 2014
+    },
+    {
+      "title": "Toward Practical Homomorphic Evaluation of Block Ciphers Using Prince",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-44774-1_17",
+      "publicationDate": "2014-03-03",
+      "year": 2014
+    },
+    {
+      "title": "Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-40041-4_5",
+      "publicationDate": "2013-08-18",
+      "year": 2013
+    },
+    {
+      "title": "Batch Fully Homomorphic Encryption over the Integers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-38348-9_20",
+      "publicationDate": "2013-05-26",
+      "year": 2013
+    },
+    {
+      "title": "Efficient Garbling from a Fixed-Key Blockcipher",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2013.39",
+      "publicationDate": "2013-05-19",
+      "year": 2013
+    },
+    {
+      "title": "PRINCE - A Low-Latency Block Cipher for Pervasive Computing Applications - Extended Abstract",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-34961-4_14",
+      "publicationDate": "2012-12-02",
+      "year": 2012
+    },
+    {
+      "title": "Homomorphic Evaluation of the AES Circuit",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-32009-5_49",
+      "publicationDate": "2012-08-19",
+      "year": 2012
+    },
+    {
+      "title": "Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-32009-5_50",
+      "publicationDate": "2012-08-19",
+      "year": 2012
+    },
+    {
+      "title": "BKZ 2.0: Better Lattice Security Estimates",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-25385-0_1",
+      "publicationDate": "2011-12-04",
+      "year": 2011
+    },
+    {
+      "title": "Can homomorphic encryption be practical?",
+      "arxiv_id": null,
+      "doi": "10.1145/2046660.2046682",
+      "publicationDate": "2011-10-21",
+      "year": 2011
+    },
+    {
+      "title": "A Cryptanalysis of PRINTcipher: The Invariant Subspace Attack",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-22792-9_12",
+      "publicationDate": "2011-08-14",
+      "year": 2011
+    },
+    {
+      "title": "New Algorithms for Learning in Presence of Errors",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-22006-7_34",
+      "publicationDate": "2011-07-04",
+      "year": 2011
+    },
+    {
+      "title": "Differential Fault Analysis of the Advanced Encryption Standard Using a Single Fault",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-21040-2_15",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "Better Key Sizes (and Attacks) for LWE-Based Encryption",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-19074-2_21",
+      "publicationDate": "2011-02-14",
+      "year": 2011
+    },
+    {
+      "title": "On Ideal Lattices and Learning with Errors over Rings",
+      "arxiv_id": null,
+      "doi": "10.1145/2535925",
+      "publicationDate": "2010-05-30",
+      "year": 2010
+    },
+    {
+      "title": "Fully homomorphic encryption using ideal lattices",
+      "arxiv_id": null,
+      "doi": "10.1145/1536414.1536440",
+      "publicationDate": "2009-05-31",
+      "year": 2009
+    },
+    {
+      "title": "Cube Attacks on Tweakable Black Box Polynomials",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-01001-9_16",
+      "publicationDate": "2009-04-16",
+      "year": 2009
+    },
+    {
+      "title": "The eSTREAM Project",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-68351-3_1",
+      "publicationDate": "2008-04-01",
+      "year": 2008
+    },
+    {
+      "title": "Algebraic Immunity of S-Boxes and Augmented Functions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-74619-5_23",
+      "publicationDate": "2007-03-26",
+      "year": 2007
+    },
+    {
+      "title": "New Applications of Time Memory Data Tradeoffs",
+      "arxiv_id": null,
+      "doi": "10.1007/11593447_19",
+      "publicationDate": "2005-12-04",
+      "year": 2005
+    },
+    {
+      "title": "On lattices, learning with errors, random linear codes, and cryptography",
+      "arxiv_id": null,
+      "doi": "10.1145/1060590.1060603",
+      "publicationDate": "2005-05-22",
+      "year": 2005
+    },
+    {
+      "title": "A New Simple Technique to Attack Filter Generators and Related Ciphers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-30564-4_3",
+      "publicationDate": "2004-08-09",
+      "year": 2004
+    },
+    {
+      "title": "Algebraic Attacks on Stream Ciphers with Linear Feedback",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-39200-9_21",
+      "publicationDate": "2003-05-04",
+      "year": 2003
+    },
+    {
+      "title": "Forward-Security in Private-Key Cryptography",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-36563-X_1",
+      "publicationDate": "2003-04-13",
+      "year": 2003
+    },
+    {
+      "title": "Higher Order Correlation Attacks, XL Algorithm and Cryptanalysis of Toyocrypt",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-36552-4_13",
+      "publicationDate": "2002-11-28",
+      "year": 2002
+    },
+    {
+      "title": "A new efficient algorithm for computing Gröbner bases without reduction to zero (F5)",
+      "arxiv_id": null,
+      "doi": "10.1145/780506.780516",
+      "publicationDate": "2002-07-10",
+      "year": 2002
+    },
+    {
+      "title": "The Design of Rijndael: AES - The Advanced Encryption Standard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2002-02-14",
+      "year": 2002
+    },
+    {
+      "title": "Integral Cryptanalysis",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-45661-9_9",
+      "publicationDate": "2002-02-04",
+      "year": 2002
+    },
+    {
+      "title": "Noise-tolerant learning, the parity problem, and the statistical query model",
+      "arxiv_id": "cs/0010022",
+      "doi": "10.1145/335305.335355",
+      "publicationDate": "2000-05-01",
+      "year": 2000
+    },
+    {
+      "title": "A Simple Algorithm for Fast Correlation Attacks on Stream Ciphers",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-44706-7_13",
+      "publicationDate": "2000-04-10",
+      "year": 2000
+    },
+    {
+      "title": "A new efficient algorithm for computing Gröbner bases (F4)",
+      "arxiv_id": null,
+      "doi": "10.1016/S0022-4049(99)00005-5",
+      "publicationDate": "1999-06-01",
+      "year": 1999
+    },
+    {
+      "title": "The Boomerang Attack",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-48519-8_12",
+      "publicationDate": "1999-03-24",
+      "year": 1999
+    },
+    {
+      "title": "The Interpolation Attack on Block Ciphers",
+      "arxiv_id": null,
+      "doi": "10.1007/BFb0052332",
+      "publicationDate": "1997-01-20",
+      "year": 1997
+    },
+    {
+      "title": "Truncated Differentials of SAFER",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-60865-6_38",
+      "publicationDate": "1996-02-21",
+      "year": 1996
+    },
+    {
+      "title": "Truncated and Higher Order Differentials",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-60590-8_16",
+      "publicationDate": "1994-12-14",
+      "year": 1994
+    },
+    {
+      "title": "Linear Cryptanalysis Method for DES Cipher",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-48285-7_33",
+      "publicationDate": "1994-01-02",
+      "year": 1994
+    },
+    {
+      "title": "Lattice basis reduction: Improved practical algorithms and solving subset sum problems",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-54458-5_51",
+      "publicationDate": "1991-09-09",
+      "year": 1991
+    },
+    {
+      "title": "Differential cryptanalysis of DES-like cryptosystems",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00630563",
+      "publicationDate": "1990-08-11",
+      "year": 1990
+    },
+    {
+      "title": "Correlation-immunity of nonlinear combining functions for cryptographic applications",
+      "arxiv_id": null,
+      "doi": "10.1109/TIT.1984.1056949",
+      "publicationDate": "1984-09-01",
+      "year": 1984
+    },
+    {
+      "title": "A public key cryptosystem and a signature scheme based on discrete logarithms",
+      "arxiv_id": null,
+      "doi": "10.1109/TIT.1985.1057074",
+      "publicationDate": "1984-08-19",
+      "year": 1984
+    },
+    {
+      "title": "Probabilistic encryption & how to play mental poker keeping secret all partial information",
+      "arxiv_id": null,
+      "doi": "10.1145/800070.802212",
+      "publicationDate": "1982-05-05",
+      "year": 1982
+    },
+    {
+      "title": "A method for obtaining digital signatures and public-key cryptosystems",
+      "arxiv_id": null,
+      "doi": "10.1145/359340.359342",
+      "publicationDate": "1978-02-01",
+      "year": 1978
+    },
+    {
+      "title": "Cryptography and Computer Privacy",
+      "arxiv_id": null,
+      "doi": "10.1038/SCIENTIFICAMERICAN0573-15",
+      "publicationDate": "1973-05-01",
+      "year": 1973
+    },
+    {
+      "title": "The Art of Computer Programming, Volume II: Seminumerical Algorithms",
+      "arxiv_id": null,
+      "doi": "10.2307/2004500",
+      "publicationDate": "1970-04-01",
+      "year": 1970
+    },
+    {
+      "title": "Communication theory of secrecy systems",
+      "arxiv_id": null,
+      "doi": "10.1002/J.1538-7305.1949.TB00928.X",
+      "publicationDate": "1949-10-01",
+      "year": 1949
+    },
+    {
+      "title": "2022. A detailed analysis of Science",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "SASTA: Ambushing Hybrid Homomorphic Encryption Schemes with a Single Fault",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Extreme Algebraic Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Differential Fault Attacks on Privacy Protocols Friendly Symmetric-Key Primitives: RAIN and HERA",
+      "arxiv_id": null,
+      "doi": "10.1049/2024/7457517",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Demystifying Bootstrapping in Fully Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Cryptanalysis of Symmetric Primitives over Rings and a Key Recovery Attack on Rubato",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-38548-3_11",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "The Patching Landscape of Elisabeth-4 and the Mixed Filter Permutator Paradigm",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-56232-7_7",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Fregata: Faster Homomorphic Evaluation of AES via TFHE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-49187-0_20",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Provable Dual Attacks on Learning with Errors",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-58754-2_10",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "HE is all you need: Compressing FHE Ciphertexts using Additive HE",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2303.09043",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "HERMES: Efficient Ring Packing Using MLWE Ciphertexts and Application to Transciphering",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-38551-3_2",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "E2E near-standard and practical authenticated transciphering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Case-Optimized Hybrid Homomorphic Encryption - Featuring the Elisabeth Stream Cipher",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-22969-5_2",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Algebraic Meet-in-the-Middle Attack on LowMC",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-22963-3_8",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Coefficient Grouping: Breaking Chaghri and More",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-30634-1_10",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Symmetrical Disguise: Realizing Homomorphic Encryption Services from Symmetric Primitives (extended version)",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-25538-0_19",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Rubato: Noisy Ciphers for Approximate Homomorphic Encryption (Full Version)",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-06944-4_20",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "FASTA - A Stream Cipher for Fast FHE Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-95312-6_19",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Efficient Go: Data-driven Performance Optimizations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". TFHE-rs: A Pure Rust Implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Algebraic Attacks on Rasta and Dasta Using Low-Degree Equations",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-92062-3_8",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Programmable Bootstrapping Enables Efficient Homomorphic Inference of Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-78086-9_1",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "SoK: Gröbner Basis Algorithms for Arithmetization Oriented Ciphers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "New Attacks on LowMC instances with a Single Plaintext/Ciphertext pair",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-92062-3_11",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Transciphering Framework for Approximate Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-92078-4_22",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "On the Security of Homomorphic Encryption on Approximate Numbers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-77870-5_23",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Masta: An HE-Friendly Cipher Using Modular Arithmetic",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3033564",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Homomorphic Encryption Standard",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-77287-1_2",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Efficient Logistic Regression on Large Encrypted Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Somewhat Practical Fully Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Trivium",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-68351-3_18",
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Linear Cryptanalysis of Non Binary Ciphers (with an application to SAFER)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Fast Algebraic Attacks on Stream Ciphers with Linear Feedback",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "The Design of Rijndael",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-04722-4",
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "A Method for Obtaining Digital Signatures and Public-Key",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "A new class of substitution-permutation networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": "Higher Order Derivatives and Differential Cryptanalysis",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4615-2694-0_23",
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "ON DATA BANKS AND PRIVACY HOMOMORPHISMS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1978
+    },
+    {
+      "title": "KeySwitch ( sk ′ , c ) takes as input a new secret key sk ′ and a GLWE ciphertext c = ( a ,𝑏) . Define the key-switching key K ∈ ℤ 𝑞,𝑁 [𝑋] 𝑑⋅𝑘×(𝑘+1) as the first 𝑑 ⋅ 𝑘 rows of GGSW sk ′ (1)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Cryptanalysis of Elisabeth-4",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "T2. The HHE schemes have been developed to reduce the computation and communication overheads for clients with limited resources",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Relinearize ( evk ,𝑐) takes as input the evaluation key evk = (𝑏 ′ ,𝑎) and 𝑐 = (𝑐 1 ,𝑐 2 ,𝑐 3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Utilizing the B/FV scheme, PASTA variations perform faster and need less memory than HERA and Rubato variations for both KeyGen and Encap",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "We lay the basic theoretical foundation, allowing researchers to comprehend current HE and HHE schemes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "C4. We analyze various implementation aspects, including processing power, memory allocation, security, and ease of running a scheme",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "D3. Two primary schemes of our study – HERA and Rubato – were already implemented in Lattigo (not in a client-server setting)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. lattice-estimator: Estimation of lattice attack complexities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "T4. Many encoding and packing techniques have been utilized in HE schemes. One of the drawbacks of PASTA was the exact problem due to the underlying HE scheme",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "takes as input a GGSW ciphertext G and a GLWE ciphertext c",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Go supports multi-platform deployment and execution due to its building capabilities. Developers can readily deploy Go and Lattigo-based applications using Docker",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "evk , c K , c m",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Enc ( pk , m ) takes as input the public key pk and a message m ∈ Z q,N [ X ]",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Martin Albrecht and contributors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Encap ( pk , 1 µ ) takes as input the public key pk , a security parameter µ and computes the symmetric key K ← SKE . Gen (1 µ ) and its homomorphic encryption c K ← HE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dec (cid:0)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "CMux ( B , c 0 , c 1 ) takes as input two GLWE ciphertexts c 0 , c 1 of plaintexts 𝑚 0 ,𝑚 1 and a GGSW ciphertext B of a bit 𝑏",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Decode (𝑤,Δ) takes a plaintext ring element 𝑤 ∈ ℛ , and computes z ← 𝜋(Δ −1 ⋅ 𝑤)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Decomp",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Rtf transciphering framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "F3. The R&R KeyGen function appears to be more memory-intensive and time-consuming in HERA and Rubato than in PASTA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EvalMult",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "using HHE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

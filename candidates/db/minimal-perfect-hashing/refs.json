@@ -1,0 +1,1241 @@
+{
+  "candidate": {
+    "topic": "Modern Minimal Perfect Hashing",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3797036",
+      "title": "Modern Minimal Perfect Hashing: A Survey",
+      "published": "2026-03-11"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:13+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 172,
+    "arxiv_resolvable": 49,
+    "doi_only": 99,
+    "unresolved": 24
+  },
+  "gt_s2": {
+    "paperId": "b2519ac967ce0ee0393f43a43e39d125e8473434",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2506-06536",
+      "ArXiv": "2506.06536",
+      "DOI": "10.1145/3797036",
+      "CorpusId": 279250745
+    },
+    "title": "Modern Minimal Perfect Hashing: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 172,
+    "publicationDate": "2025-06-06"
+  },
+  "refs": [
+    {
+      "title": "PHast - Perfect Hashing made fast",
+      "arxiv_id": "2504.17918",
+      "doi": "10.1137/1.9781611978957.1",
+      "publicationDate": "2025-04-24",
+      "year": 2025
+    },
+    {
+      "title": "MorphisHash: Improving Space Efficiency of ShockHash for Minimal Perfect Hashing",
+      "arxiv_id": "2503.10161",
+      "doi": "10.48550/arXiv.2503.10161",
+      "publicationDate": "2025-03-13",
+      "year": 2025
+    },
+    {
+      "title": "PtrHash: Minimal Perfect Hashing at RAM Throughput",
+      "arxiv_id": "2502.15539",
+      "doi": "10.4230/LIPIcs.SEA.2025.21",
+      "publicationDate": "2025-02-21",
+      "year": 2025
+    },
+    {
+      "title": "Combined Search and Encoding for Seeds, with an Application to Minimal Perfect Hashing",
+      "arxiv_id": "2502.05613",
+      "doi": "10.48550/arXiv.2502.05613",
+      "publicationDate": "2025-02-08",
+      "year": 2025
+    },
+    {
+      "title": "Tight Bounds and Phase Transitions for Incremental and Dynamic Retrieval",
+      "arxiv_id": "2410.10002",
+      "doi": "10.48550/arXiv.2410.10002",
+      "publicationDate": "2024-10-13",
+      "year": 2024
+    },
+    {
+      "title": "Space Lower Bounds for Dynamic Filters and Value-Dynamic Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3618260.3649649",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "PHOBIC: Perfect Hashing with Optimized Bucket Sizes and Interleaved Coding",
+      "arxiv_id": "2404.18497",
+      "doi": "10.48550/arXiv.2404.18497",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Aleph Filter: To Infinity in Constant Time",
+      "arxiv_id": "2404.04703",
+      "doi": "10.14778/3681954.3682027",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "Simplified Tight Bounds for Monotone Minimal Perfect Hashing",
+      "arxiv_id": "2403.07760",
+      "doi": "10.48550/arXiv.2403.07760",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "ShockHash: Near Optimal-Space Minimal Perfect Hashing Beyond Brute-Force",
+      "arxiv_id": "2310.14959",
+      "doi": "10.1007/s00453-025-01321-z",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "Locally Uniform Hashing",
+      "arxiv_id": "2308.14134",
+      "doi": "10.1109/FOCS57990.2023.00089",
+      "publicationDate": "2023-08-27",
+      "year": 2023
+    },
+    {
+      "title": "ShockHash: Towards Optimal-Space Minimal Perfect Hashing Beyond Brute-Force",
+      "arxiv_id": "2308.09561",
+      "doi": "10.48550/arXiv.2308.09561",
+      "publicationDate": "2023-08-18",
+      "year": 2023
+    },
+    {
+      "title": "Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries",
+      "arxiv_id": "2306.02253",
+      "doi": "10.1109/FOCS57990.2023.00112",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store Compaction Policy",
+      "arxiv_id": null,
+      "doi": "10.1145/3588726",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Fingerprinting-based Minimal Perfect Hashing Revisited",
+      "arxiv_id": null,
+      "doi": "10.1145/3596453",
+      "publicationDate": "2023-05-13",
+      "year": 2023
+    },
+    {
+      "title": "Learned Monotone Minimal Perfect Hashing",
+      "arxiv_id": "2304.11012",
+      "doi": "10.48550/arXiv.2304.11012",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "SNIPS: Succinct Proof of Storage for Efficient Data Synchronization in Decentralized Storage Systems",
+      "arxiv_id": "2304.04891",
+      "doi": "10.48550/arXiv.2304.04891",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "High Performance Construction of RecSplit Based Minimal Perfect Hash Functions",
+      "arxiv_id": "2212.09562",
+      "doi": "10.48550/arXiv.2212.09562",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Locality-preserving minimal perfect hashing of k-mers",
+      "arxiv_id": "2210.13097",
+      "doi": "10.1093/bioinformatics/btad219",
+      "publicationDate": "2022-10-24",
+      "year": 2022
+    },
+    {
+      "title": "SicHash - Small Irregular Cuckoo Tables for Perfect Hashing",
+      "arxiv_id": "2210.01560",
+      "doi": "10.48550/arXiv.2210.01560",
+      "publicationDate": "2022-10-04",
+      "year": 2022
+    },
+    {
+      "title": "Tight Bounds for Monotone Minimal Perfect Hashing",
+      "arxiv_id": "2207.10556",
+      "doi": "10.1145/3677608",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "PaCHash: Packed and Compressed Hash Tables",
+      "arxiv_id": "2205.04745",
+      "doi": "10.48550/arXiv.2205.04745",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "Sparse and skew hashing of K-mers",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btac245",
+      "publicationDate": "2022-01-18",
+      "year": 2022
+    },
+    {
+      "title": "Matchtigs: minimum plain text representation of k-mer sets",
+      "arxiv_id": null,
+      "doi": "10.1186/s13059-023-02968-z",
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "Scalable, ultra-fast, and low-memory construction of compacted de Bruijn graphs with Cuttlefish 2",
+      "arxiv_id": null,
+      "doi": "10.1101/2021.12.14.472718",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "On the optimal time/space tradeoff for hash tables",
+      "arxiv_id": "2111.00602",
+      "doi": "10.1145/3519935.3519969",
+      "publicationDate": "2021-10-31",
+      "year": 2021
+    },
+    {
+      "title": "Fast Succinct Retrieval and Approximate Membership using Ribbon",
+      "arxiv_id": "2109.01892",
+      "doi": "10.4230/LIPIcs.SEA.2022.4",
+      "publicationDate": "2021-09-04",
+      "year": 2021
+    },
+    {
+      "title": "Parallel and External-Memory Construction of Minimal Perfect Hash Functions With PTHash",
+      "arxiv_id": "2106.02350",
+      "doi": "10.1109/TKDE.2023.3303341",
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "PTHash: Revisiting FCH Minimal Perfect Hashing",
+      "arxiv_id": "2104.10402",
+      "doi": "10.1145/3404835.3462849",
+      "publicationDate": "2021-04-21",
+      "year": 2021
+    },
+    {
+      "title": "BLight: efficient exact associative structure for k-mers",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btab217",
+      "publicationDate": "2021-04-03",
+      "year": 2021
+    },
+    {
+      "title": "Rescore in a Flash: Compact, Cache Efficient Hashing Data Structures for n-Gram Language Models",
+      "arxiv_id": null,
+      "doi": "10.21437/interspeech.2020-1939",
+      "publicationDate": "2020-10-25",
+      "year": 2020
+    },
+    {
+      "title": "Peeling Close to the Orientability Threshold Spatial Coupling in Hashing-Based Data Structures",
+      "arxiv_id": "2001.10500",
+      "doi": "10.1145/3711822",
+      "publicationDate": "2020-01-28",
+      "year": 2020
+    },
+    {
+      "title": "Xor Filters",
+      "arxiv_id": "1912.08258",
+      "doi": "10.1145/3376122",
+      "publicationDate": "2019-12-17",
+      "year": 2019
+    },
+    {
+      "title": "Constructing Minimal Perfect Hash Functions Using SAT Technology",
+      "arxiv_id": "1911.10099",
+      "doi": "10.1609/AAAI.V34I02.5529",
+      "publicationDate": "2019-11-22",
+      "year": 2019
+    },
+    {
+      "title": "RecSplit: Minimal Perfect Hashing via Recursive Splitting",
+      "arxiv_id": "1910.06416",
+      "doi": "10.1137/1.9781611976007.14",
+      "publicationDate": "2019-10-14",
+      "year": 2019
+    },
+    {
+      "title": "Current challenges and solutions of de novo assembly",
+      "arxiv_id": null,
+      "doi": "10.1007/s40484-019-0166-9",
+      "publicationDate": "2019-05-30",
+      "year": 2019
+    },
+    {
+      "title": "Fast hashing with strong concentration bounds",
+      "arxiv_id": "1905.00369",
+      "doi": "10.1145/3357713.3384259",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Constant-Time Retrieval with O(log m) Extra Bits",
+      "arxiv_id": null,
+      "doi": "10.4230/LIPIcs.STACS.2019.24",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Fully Functional Suffix Trees and Optimal Text Searching in BWT-Runs Bounded Space",
+      "arxiv_id": "1809.02792",
+      "doi": "10.1145/3375890",
+      "publicationDate": "2018-09-08",
+      "year": 2018
+    },
+    {
+      "title": "Handling Massive N-Gram Datasets Efficiently",
+      "arxiv_id": "1806.09447",
+      "doi": "10.1145/3302913",
+      "publicationDate": "2018-06-25",
+      "year": 2018
+    },
+    {
+      "title": "The Spatial Complexity of Oblivious k-Probe Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1137/0219054",
+      "publicationDate": "2018-02-09",
+      "year": 2018
+    },
+    {
+      "title": "Bloom Filters, Adaptivity, and the Dictionary Problem",
+      "arxiv_id": "1711.01616",
+      "doi": "10.1109/FOCS.2018.00026",
+      "publicationDate": "2017-11-05",
+      "year": 2017
+    },
+    {
+      "title": "A space and time-efficient index for the compacted colored de Bruijn graph",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/bty292",
+      "publicationDate": "2017-09-21",
+      "year": 2017
+    },
+    {
+      "title": "Efficient Data Structures for Massive N-Gram Datasets",
+      "arxiv_id": null,
+      "doi": "10.1145/3077136.3080798",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "A resource-frugal probabilistic dictionary and applications in bioinformatics",
+      "arxiv_id": "1703.00667",
+      "doi": "10.1016/J.DAM.2018.03.035",
+      "publicationDate": "2017-03-02",
+      "year": 2017
+    },
+    {
+      "title": "Fast and scalable minimal perfect hashing for massive key sets",
+      "arxiv_id": "1702.03154",
+      "doi": "10.4230/LIPIcs.SEA.2017.25",
+      "publicationDate": "2017-02-10",
+      "year": 2017
+    },
+    {
+      "title": "Linear-time String Indexing and Analysis in Small Space",
+      "arxiv_id": "1609.06378",
+      "doi": "10.1145/3381417",
+      "publicationDate": "2016-09-20",
+      "year": 2016
+    },
+    {
+      "title": "Compacting de Bruijn graphs from sequencing data quickly and in low memory",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btw279",
+      "publicationDate": "2016-06-11",
+      "year": 2016
+    },
+    {
+      "title": "Fast Scalable Construction of (Minimal Perfect Hash) Functions",
+      "arxiv_id": "1603.04330",
+      "doi": "10.1007/978-3-319-38851-9_23",
+      "publicationDate": "2016-03-14",
+      "year": 2016
+    },
+    {
+      "title": "Fast and powerful hashing using tabulation",
+      "arxiv_id": "1505.01523",
+      "doi": "10.1145/3068772",
+      "publicationDate": "2015-05-06",
+      "year": 2015
+    },
+    {
+      "title": "Cuckoo Filter: Practically Better Than Bloom",
+      "arxiv_id": null,
+      "doi": "10.1145/2674005.2674994",
+      "publicationDate": "2014-12-02",
+      "year": 2014
+    },
+    {
+      "title": "Retrieval and Perfect Hashing Using Fingerprinting",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-07959-2_12",
+      "publicationDate": "2014-06-29",
+      "year": 2014
+    },
+    {
+      "title": "Hypergraph Acyclicity Revisited",
+      "arxiv_id": "1403.7076",
+      "doi": "10.1145/2983573",
+      "publicationDate": "2014-03-27",
+      "year": 2014
+    },
+    {
+      "title": "Cache-Oblivious Peeling of Random Hypergraphs",
+      "arxiv_id": "1312.0526",
+      "doi": "10.1109/DCC.2014.48",
+      "publicationDate": "2013-12-02",
+      "year": 2013
+    },
+    {
+      "title": "Spaces, Trees, and Colors",
+      "arxiv_id": "1304.6023",
+      "doi": "10.1145/2535933",
+      "publicationDate": "2013-04-22",
+      "year": 2013
+    },
+    {
+      "title": "Practical perfect hashing in nearly optimal space",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2012.06.002",
+      "publicationDate": "2013-03-01",
+      "year": 2013
+    },
+    {
+      "title": "The Satisfiability Threshold for k-XORSAT",
+      "arxiv_id": "1212.1905",
+      "doi": "10.1017/S0963548315000097",
+      "publicationDate": "2012-12-09",
+      "year": 2012
+    },
+    {
+      "title": "De novo assembly and genotyping of variants using colored de Bruijn graphs",
+      "arxiv_id": null,
+      "doi": "10.1038/ng.1028",
+      "publicationDate": "2012-01-08",
+      "year": 2012
+    },
+    {
+      "title": "Satisfiability Thresholds beyond k -XORSAT",
+      "arxiv_id": "1112.2118",
+      "doi": "10.1007/978-3-642-30642-6_15",
+      "publicationDate": "2011-12-09",
+      "year": 2011
+    },
+    {
+      "title": "SILT: a memory-efficient, high-performance key-value store",
+      "arxiv_id": null,
+      "doi": "10.1145/2043556.2043558",
+      "publicationDate": "2011-10-23",
+      "year": 2011
+    },
+    {
+      "title": "Improved Compressed Indexes for Full-Text Document Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-24583-1_38",
+      "publicationDate": "2011-10-17",
+      "year": 2011
+    },
+    {
+      "title": "Alphabet-Independent Compressed Text Indexing",
+      "arxiv_id": null,
+      "doi": "10.1145/2635816",
+      "publicationDate": "2011-09-05",
+      "year": 2011
+    },
+    {
+      "title": "Meraculous: De Novo Genome Assembly with Short Paired-End Reads",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0023501",
+      "publicationDate": "2011-08-18",
+      "year": 2011
+    },
+    {
+      "title": "Order-Preserving Encryption Revisited: Improved Security Analysis and Alternative Solutions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-22792-9_33",
+      "publicationDate": "2011-08-14",
+      "year": 2011
+    },
+    {
+      "title": "Trinity: reconstructing a full-length transcriptome without a genome from RNA-Seq data",
+      "arxiv_id": null,
+      "doi": "10.1038/nbt.1883",
+      "publicationDate": "2011-05-15",
+      "year": 2011
+    },
+    {
+      "title": "Theory and practice of monotone minimal perfect hashing",
+      "arxiv_id": null,
+      "doi": "10.1145/1963190.2025378",
+      "publicationDate": "2011-05-01",
+      "year": 2011
+    },
+    {
+      "title": "Cuckoo Hashing with Pages",
+      "arxiv_id": "1104.5111",
+      "doi": "10.1007/978-3-642-23719-5_52",
+      "publicationDate": "2011-04-27",
+      "year": 2011
+    },
+    {
+      "title": "The Art of Computer Programming: Combinatorial Algorithms, Part 1",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-01-22",
+      "year": 2011
+    },
+    {
+      "title": "Fast Prefix Search in Little Space, with Applications",
+      "arxiv_id": "1804.04720",
+      "doi": "10.1007/978-3-642-15775-2_37",
+      "publicationDate": "2010-09-06",
+      "year": 2010
+    },
+    {
+      "title": "Optimal Trade-Offs for Succinct String Indexes",
+      "arxiv_id": "1006.5354",
+      "doi": "10.1007/978-3-642-14165-2_57",
+      "publicationDate": "2010-06-28",
+      "year": 2010
+    },
+    {
+      "title": "Tight Thresholds for Cuckoo Hashing via XORSAT",
+      "arxiv_id": "0912.0287",
+      "doi": "10.1007/978-3-642-14165-2_19",
+      "publicationDate": "2009-12-01",
+      "year": 2009
+    },
+    {
+      "title": "Hash, Displace, and Compress",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-04128-0_61",
+      "publicationDate": "2009-09-07",
+      "year": 2009
+    },
+    {
+      "title": "Applications of a Splitting Trick",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-02927-1_30",
+      "publicationDate": "2009-07-06",
+      "year": 2009
+    },
+    {
+      "title": "Monotone minimal perfect hashing: searching a sorted table with O(1) accesses",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9781611973068.86",
+      "publicationDate": "2009-01-04",
+      "year": 2009
+    },
+    {
+      "title": "Indexing Internal Memory with Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2008-10-13",
+      "year": 2008
+    },
+    {
+      "title": "Semi-external LTL Model Checking",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-70545-1_50",
+      "publicationDate": "2008-07-07",
+      "year": 2008
+    },
+    {
+      "title": "Succinct Data Structures for Retrieval and Approximate Membership",
+      "arxiv_id": "0803.3693",
+      "doi": "10.1007/978-3-540-70575-8_32",
+      "publicationDate": "2008-03-26",
+      "year": 2008
+    },
+    {
+      "title": "Uniform Hashing in Constant Time and Optimal Space",
+      "arxiv_id": null,
+      "doi": "10.1137/060658400",
+      "publicationDate": "2008-01-01",
+      "year": 2008
+    },
+    {
+      "title": "External perfect hashing for very large key sets",
+      "arxiv_id": null,
+      "doi": "10.1145/1321440.1321532",
+      "publicationDate": "2007-11-06",
+      "year": 2007
+    },
+    {
+      "title": "Simple and Space-Efficient Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-73951-7_13",
+      "publicationDate": "2007-08-15",
+      "year": 2007
+    },
+    {
+      "title": "Simple Compression Code Supporting Random Access and Fast String Matching",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-72845-0_16",
+      "publicationDate": "2007-06-06",
+      "year": 2007
+    },
+    {
+      "title": "Perfect Hashing for Data Management Applications",
+      "arxiv_id": "cs/0702159",
+      "doi": null,
+      "publicationDate": "2007-02-27",
+      "year": 2007
+    },
+    {
+      "title": "Linear probing with constant independence",
+      "arxiv_id": "cs/0612055",
+      "doi": "10.1145/1250790.1250839",
+      "publicationDate": "2006-12-08",
+      "year": 2006
+    },
+    {
+      "title": "Perfect Hashing for Network Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ISIT.2006.261567",
+      "publicationDate": "2006-07-09",
+      "year": 2006
+    },
+    {
+      "title": "De Dictionariis Dynamicis Pauco Spatio Utentibus (lat. On Dynamic Dictionaries Using Little Space)",
+      "arxiv_id": null,
+      "doi": "10.1007/11682462_34",
+      "publicationDate": "2005-12-20",
+      "year": 2005
+    },
+    {
+      "title": "Cores in random hypergraphs and Boolean formulas",
+      "arxiv_id": null,
+      "doi": "10.1002/rsa.20061",
+      "publicationDate": "2005-08-01",
+      "year": 2005
+    },
+    {
+      "title": "Perfect Hashing Schemes for Mining Association Rules",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/bxh074",
+      "publicationDate": "2005-03-01",
+      "year": 2005
+    },
+    {
+      "title": "On dynamic range reporting in one dimension",
+      "arxiv_id": "cs/0502032",
+      "doi": "10.1145/1060590.1060606",
+      "publicationDate": "2005-02-05",
+      "year": 2005
+    },
+    {
+      "title": "The Bloomier filter: an efficient data structure for static support lookup tables",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-01-11",
+      "year": 2004
+    },
+    {
+      "title": "Network Applications of Bloom Filters: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1080/15427951.2004.10129096",
+      "publicationDate": "2004-01-01",
+      "year": 2004
+    },
+    {
+      "title": "The Power of Two Choices in Randomized Load Balancing",
+      "arxiv_id": null,
+      "doi": "10.1109/71.963420",
+      "publicationDate": "2001-10-01",
+      "year": 2001
+    },
+    {
+      "title": "Cuckoo Hashing",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-30162-4_97",
+      "publicationDate": "2001-08-28",
+      "year": 2001
+    },
+    {
+      "title": "An Eulerian path approach to DNA fragment assembly",
+      "arxiv_id": null,
+      "doi": "10.1073/pnas.171285098",
+      "publicationDate": "2001-08-14",
+      "year": 2001
+    },
+    {
+      "title": "Managing Gigabytes—Compressing and Indexing Documents and Images (Second Edition)",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1011472308196",
+      "publicationDate": "2001-04-01",
+      "year": 2001
+    },
+    {
+      "title": "Foundations of Statistical Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1011424425034",
+      "publicationDate": "2001-04-01",
+      "year": 2001
+    },
+    {
+      "title": "Efficient Minimal Perfect Hashing in Nearly Minimal Space",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-44693-1_28",
+      "publicationDate": "2001-02-15",
+      "year": 2001
+    },
+    {
+      "title": "Hash and Displace: Efficient Evaluation of Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-48447-7_5",
+      "publicationDate": "1999-01-13",
+      "year": 1999
+    },
+    {
+      "title": "The Art of Computer Programming: Volume 3: Sorting and Searching",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1998-04-24",
+      "year": 1998
+    },
+    {
+      "title": "Perfect Hashing",
+      "arxiv_id": null,
+      "doi": "10.1016/S0304-3975(96)00146-6",
+      "publicationDate": "1997-08-15",
+      "year": 1997
+    },
+    {
+      "title": "Dynamic Perfect Hashing: Upper and Lower Bounds",
+      "arxiv_id": null,
+      "doi": "10.1137/S0097539791194094",
+      "publicationDate": "1994-08-01",
+      "year": 1994
+    },
+    {
+      "title": "Using Tries to Eliminate Pattern Collisions in Perfect Hashing",
+      "arxiv_id": null,
+      "doi": "10.1109/69.277768",
+      "publicationDate": "1994-04-01",
+      "year": 1994
+    },
+    {
+      "title": "Graphs, Hypergraphs and Hashing",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-57899-4_49",
+      "publicationDate": "1993-06-16",
+      "year": 1993
+    },
+    {
+      "title": "Mining association rules between sets of items in large databases",
+      "arxiv_id": null,
+      "doi": "10.1145/170035.170072",
+      "publicationDate": "1993-06-01",
+      "year": 1993
+    },
+    {
+      "title": "An Optimal Algorithm for Generating Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1016/0020-0190(92)90220-P",
+      "publicationDate": "1992-10-05",
+      "year": 1992
+    },
+    {
+      "title": "An undergraduate project to compute minimal perfect hashing functions",
+      "arxiv_id": null,
+      "doi": "10.1145/142040.142077",
+      "publicationDate": "1992-09-01",
+      "year": 1992
+    },
+    {
+      "title": "Polynomial Hash Functions Are Reliable (Extended Abstract)",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-55719-9_77",
+      "publicationDate": "1992-07-13",
+      "year": 1992
+    },
+    {
+      "title": "A faster algorithm for constructing minimal perfect hash functions",
+      "arxiv_id": null,
+      "doi": "10.1145/133160.133209",
+      "publicationDate": "1992-06-01",
+      "year": 1992
+    },
+    {
+      "title": "Practical minimal perfect hash functions for large databases",
+      "arxiv_id": null,
+      "doi": "10.1145/129617.129623",
+      "publicationDate": "1992-01-02",
+      "year": 1992
+    },
+    {
+      "title": "On the Design of a Machine-Independent Perfect Hashing Scheme",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/34.5.469",
+      "publicationDate": "1991-10-01",
+      "year": 1991
+    },
+    {
+      "title": "Minimal Perfect Hashing For Large Sets of Data",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-53504-7_85",
+      "publicationDate": "1991-02-01",
+      "year": 1991
+    },
+    {
+      "title": "A letter‐oriented perfect hashing scheme based upon sparse table compression",
+      "arxiv_id": null,
+      "doi": "10.1002/spe.4380210104",
+      "publicationDate": "1990-12-01",
+      "year": 1990
+    },
+    {
+      "title": "A New Universal Class of Hash Functions and Dynamic Hashing in Real Time",
+      "arxiv_id": null,
+      "doi": "10.1007/BFb0032018",
+      "publicationDate": "1990-07-16",
+      "year": 1990
+    },
+    {
+      "title": "Minimal perfect hashing in polynomial time",
+      "arxiv_id": null,
+      "doi": "10.1007/BF02017345",
+      "publicationDate": "1990-06-01",
+      "year": 1990
+    },
+    {
+      "title": "Perfect hashing using sparse matrix packing",
+      "arxiv_id": null,
+      "doi": "10.1016/0306-4379(90)90001-6",
+      "publicationDate": "1990-06-01",
+      "year": 1990
+    },
+    {
+      "title": "Fast hashing of variable-length text strings",
+      "arxiv_id": null,
+      "doi": "10.1145/78973.78978",
+      "publicationDate": "1990-06-01",
+      "year": 1990
+    },
+    {
+      "title": "Order-preserving minimal perfect hash functions and information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/125187.125200",
+      "publicationDate": "1989-12-01",
+      "year": 1989
+    },
+    {
+      "title": "Space-efficient static trees and graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1989.63533",
+      "publicationDate": "1989-10-30",
+      "year": 1989
+    },
+    {
+      "title": "File organization using composite perfect hashing",
+      "arxiv_id": null,
+      "doi": "10.1145/63500.63521",
+      "publicationDate": "1989-06-01",
+      "year": 1989
+    },
+    {
+      "title": "An algebraic approach to Cichelli's perfect hashing",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01932700",
+      "publicationDate": "1989-01-03",
+      "year": 1989
+    },
+    {
+      "title": "Hashing for dynamic and static internal tables",
+      "arxiv_id": null,
+      "doi": "10.1109/2.7056",
+      "publicationDate": "1988-10-01",
+      "year": 1988
+    },
+    {
+      "title": "An Ordered Minimal Perfect Hashing Scheme with Single Parameter",
+      "arxiv_id": null,
+      "doi": "10.1016/0020-0190(88)90096-8",
+      "publicationDate": "1988-02-29",
+      "year": 1988
+    },
+    {
+      "title": "Finding minimal perfect hash functions",
+      "arxiv_id": null,
+      "doi": "10.1145/5600.5899",
+      "publicationDate": "1986-02-01",
+      "year": 1986
+    },
+    {
+      "title": "Two Results on Tables",
+      "arxiv_id": null,
+      "doi": "10.1016/0020-0190(86)90041-4",
+      "publicationDate": "1986-01-02",
+      "year": 1986
+    },
+    {
+      "title": "A backtracking method for constructing perfect hash functions from a set of mapping functions",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01934995",
+      "publicationDate": "1985-06-01",
+      "year": 1985
+    },
+    {
+      "title": "A polynomial time generator for minimal perfect hash functions",
+      "arxiv_id": null,
+      "doi": "10.1145/3532.3538",
+      "publicationDate": "1985-05-01",
+      "year": 1985
+    },
+    {
+      "title": "On tape versus core an application of space efficient perfect hash functions to the invariance of space",
+      "arxiv_id": null,
+      "doi": "10.1145/800057.808705",
+      "publicationDate": "1984-12-01",
+      "year": 1984
+    },
+    {
+      "title": "An ordered minimal perfect hashing scheme based upon Euler's theorem",
+      "arxiv_id": null,
+      "doi": "10.1016/0020-0255(84)90032-X",
+      "publicationDate": "1984-06-30",
+      "year": 1984
+    },
+    {
+      "title": "The study of an ordered minimal perfect hashing scheme",
+      "arxiv_id": null,
+      "doi": "10.1145/358027.358051",
+      "publicationDate": "1984-04-01",
+      "year": 1984
+    },
+    {
+      "title": "On the Size of Separating Systems and Families of Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1137/0605009",
+      "publicationDate": "1984-03-01",
+      "year": 1984
+    },
+    {
+      "title": "The Study of a New Perfect Hash Scheme",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.1983.236866",
+      "publicationDate": "1983-05-01",
+      "year": 1983
+    },
+    {
+      "title": "On the program size of perfect and universal hash functions",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1982.80",
+      "publicationDate": "1982-11-03",
+      "year": 1982
+    },
+    {
+      "title": "Storing a sparse table with O(1) worst case access time",
+      "arxiv_id": null,
+      "doi": "10.1145/828.1884",
+      "publicationDate": "1982-11-03",
+      "year": 1982
+    },
+    {
+      "title": "A letter oriented minimal perfect hashing function",
+      "arxiv_id": null,
+      "doi": "10.1145/947955.947957",
+      "publicationDate": "1982-09-01",
+      "year": 1982
+    },
+    {
+      "title": "Reciprocal hashing: a method for generating minimal perfect hashing functions",
+      "arxiv_id": null,
+      "doi": "10.1145/358800.358806",
+      "publicationDate": "1981-12-01",
+      "year": 1981
+    },
+    {
+      "title": "Storing a sparse table",
+      "arxiv_id": null,
+      "doi": "10.1145/359168.359175",
+      "publicationDate": "1979-11-01",
+      "year": 1979
+    },
+    {
+      "title": "Some practical universal noiseless coding techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1979-03-15",
+      "year": 1979
+    },
+    {
+      "title": "Comments on perfect hashing functions: a single probe retrieving method for static sets",
+      "arxiv_id": null,
+      "doi": "10.1145/359060.359071",
+      "publicationDate": "1979-02-01",
+      "year": 1979
+    },
+    {
+      "title": "Exact and approximate membership testers",
+      "arxiv_id": null,
+      "doi": "10.1145/800133.804332",
+      "publicationDate": "1978-05-01",
+      "year": 1978
+    },
+    {
+      "title": "Perfect hashing functions",
+      "arxiv_id": null,
+      "doi": "10.1145/359863.359887",
+      "publicationDate": "1977-11-01",
+      "year": 1977
+    },
+    {
+      "title": "Efficient Storage and Retrieval by Content and Address of Static Files",
+      "arxiv_id": null,
+      "doi": "10.1145/321812.321820",
+      "publicationDate": "1974-04-01",
+      "year": 1974
+    },
+    {
+      "title": "Linear Pattern Matching Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1109/SWAT.1973.13",
+      "publicationDate": "1973-10-15",
+      "year": 1973
+    },
+    {
+      "title": "Space/time trade-offs in hash coding with allowable errors",
+      "arxiv_id": null,
+      "doi": "10.1145/362686.362692",
+      "publicationDate": "1970-07-01",
+      "year": 1970
+    },
+    {
+      "title": "Run-length encodings.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1966-07-01",
+      "year": 1966
+    },
+    {
+      "title": "The external language KLIPA for the URAL-2 digital computer",
+      "arxiv_id": null,
+      "doi": "10.1145/366604.366654",
+      "publicationDate": "1963-06-01",
+      "year": 1963
+    },
+    {
+      "title": "Normal Recurring Decimals",
+      "arxiv_id": null,
+      "doi": "10.1112/JLMS/S1-21.3.167",
+      "publicationDate": "1946-07-01",
+      "year": 1946
+    },
+    {
+      "title": "Received 6 June 2025; revised 18 January 2026; accepted 4 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Fast and Space-Efficient Perfect Hashing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Is Perfect Hashing Practical for OLAP Systems?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Indeed MPH: Fast and Compact Immutable Key-Value Stores",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Compact Data Structures - A Practical Approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Modern",
+      "arxiv_id": null,
+      "doi": "10.4324/9781315865355-22",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A simple solution to the k-core problem",
+      "arxiv_id": null,
+      "doi": "10.1002/RSA.V30:1/2",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "A New Algorithm for Constructing Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "A Minimal Perfect Hashing Approach for Mining Association Rules form Very large Databases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "A Family of Perfect Hashing Methods",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/39.6.547",
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": "A Block-sorting Lossless Data Compression Algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "Graph-theoretic obstacles to perfect hashing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1993
+    },
+    {
+      "title": "A Linear Time Algorithm for Finding Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/36.6.579",
+      "publicationDate": null,
+      "year": 1993
+    },
+    {
+      "title": "GPERF: A Perfect Hash Function Generator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1990
+    },
+    {
+      "title": "An O(n log n) Algorithm for Finding Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1989
+    },
+    {
+      "title": "Practical Perfect Hashing",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/28.1.54",
+      "publicationDate": null,
+      "year": 1985
+    },
+    {
+      "title": "Data structures and algorithms. Volume 1 : Sorting and searching",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1984
+    },
+    {
+      "title": "A New Method for Generating Minimal Perfect Hash Functions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1984
+    },
+    {
+      "title": "The program complexity of searching a table",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1983.76",
+      "publicationDate": null,
+      "year": 1983
+    },
+    {
+      "title": "Technical Response to: On Cichelli's Minimal Perfect Hash Functions Method",
+      "arxiv_id": null,
+      "doi": "10.1145/359038.3084011",
+      "publicationDate": null,
+      "year": 1980
+    },
+    {
+      "title": "Minimal perfect hash functions made simple",
+      "arxiv_id": null,
+      "doi": "10.1145/358808.358813",
+      "publicationDate": null,
+      "year": 1980
+    },
+    {
+      "title": "On the number of bits required to implement an associative memory . Technical Report. MIT, Computer Structures Group. Project MAC, Memorandum 61",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1971
+    },
+    {
+      "title": "A combinatorial problem",
+      "arxiv_id": null,
+      "doi": "10.1007/springerreference_6486",
+      "publicationDate": null,
+      "year": 1946
+    },
+    {
+      "title": "2023. InfiniFilter: Expanding Filters to Infinity and Beyond",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. COPR – Efficient, large-scale log storage and retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. On weighted k-mer dictionaries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Brief announcement: Parallel construction of bumped ribbon retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

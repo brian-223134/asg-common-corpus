@@ -1,0 +1,688 @@
+{
+  "candidate": {
+    "topic": "A Survey of Algorithm Debt in Machine and Deep Learning Systems",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3806391",
+      "title": "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work",
+      "published": "2026-04-27"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:41+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 93,
+    "arxiv_resolvable": 24,
+    "doi_only": 54,
+    "unresolved": 15
+  },
+  "gt_s2": {
+    "paperId": "25db58c7337e4a7fc68140b2a05d6c0b6c6e38bd",
+    "externalIds": {
+      "DBLP": "journals/csur/SimonHFPS26",
+      "ArXiv": "2604.06363",
+      "DOI": "10.1145/3806391",
+      "CorpusId": 287026814
+    },
+    "title": "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 93,
+    "publicationDate": "2026-04-02"
+  },
+  "refs": [
+    {
+      "title": "Characterising Algorithm Debt in Machine and Deep Learning Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-Companion66252.2025.00066",
+      "publicationDate": "2025-04-27",
+      "year": 2025
+    },
+    {
+      "title": "AI-Powered Code Reviews: Leveraging Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/SPARC61891.2024.10829223",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "Automated detection of algorithm debt in deep learning frameworks: an empirical study",
+      "arxiv_id": "2408.10529",
+      "doi": "10.1007/s10664-026-10807-5",
+      "publicationDate": "2024-08-20",
+      "year": 2024
+    },
+    {
+      "title": "Technical debt in AI-enabled systems: On the prevalence, severity, impact, and management strategies for code and architecture",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112151",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Systematic literature review on forecasting and prediction of technical debt evolution",
+      "arxiv_id": "2406.12026",
+      "doi": "10.48550/arXiv.2406.12026",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "AI in Finance Disruptive Technologies and Emerging Opportunities",
+      "arxiv_id": null,
+      "doi": "10.60087/jaigs.v3i1.76",
+      "publicationDate": "2024-03-06",
+      "year": 2024
+    },
+    {
+      "title": "Different Debt: An Addition to the Technical Debt Dataset and a Demonstration Using Developer Personality",
+      "arxiv_id": "2403.01157",
+      "doi": "10.1145/3644384.3644475",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Understanding the implementation issues when using deep learning frameworks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2023.107367",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Requirements and software engineering for automotive perception systems: an interview study",
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-023-00410-1",
+      "publicationDate": "2024-01-24",
+      "year": 2024
+    },
+    {
+      "title": "Familiarity, Common Causes and Effects of Technical Debt: A Replicated Study in the Saudi Software Industry",
+      "arxiv_id": null,
+      "doi": "10.1007/s13369-023-08596-w",
+      "publicationDate": "2023-12-27",
+      "year": 2023
+    },
+    {
+      "title": "Technical Debt Management Automation: State of the Art and Future Perspectives",
+      "arxiv_id": "2311.18449",
+      "doi": "10.1016/j.infsof.2023.107375",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software",
+      "arxiv_id": "2311.12019",
+      "doi": "10.1145/3785001",
+      "publicationDate": "2023-11-20",
+      "year": 2023
+    },
+    {
+      "title": "Architecting ML-enabled systems: Challenges, best practices, and design decisions",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4382946",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "Identifying Concerns When Specifying Machine Learning-Enabled Systems: A Perspective-Based Approach",
+      "arxiv_id": "2309.07980",
+      "doi": "10.1145/3701625.3701696",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Model-based security testing in IoT systems: A Rapid Review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2023.107326",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Technical Debt Management in Industrial ML - State of Practice and Management Model Proposal",
+      "arxiv_id": null,
+      "doi": "10.1109/INDIN51400.2023.10217843",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "The Social life of AI in Education",
+      "arxiv_id": null,
+      "doi": "10.1007/s40593-023-00342-5",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Algorithm Debt: Challenges and Future Paths",
+      "arxiv_id": null,
+      "doi": "10.1109/CAIN58948.2023.00020",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Assessing TD Macro-Management: A Nested Modeling Statistical Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2023.3237460",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Prevalence of Code Smells in Reinforcement Learning Projects",
+      "arxiv_id": "2303.10236",
+      "doi": "10.1109/CAIN58948.2023.00013",
+      "publicationDate": "2023-03-17",
+      "year": 2023
+    },
+    {
+      "title": "Challenges and practices of deep learning model reengineering: A case study on computer vision",
+      "arxiv_id": "2303.07476",
+      "doi": "10.1007/s10664-024-10521-0",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "How Should Software Engineering Secondary Studies Include Grey Material?",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2022.3165938",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "A Systematic Literature Review of User Trust in AI-Enabled Systems: An HCI Perspective",
+      "arxiv_id": "2304.08795",
+      "doi": "10.1080/10447318.2022.2138826",
+      "publicationDate": "2022-11-10",
+      "year": 2022
+    },
+    {
+      "title": "23 shades of self-admitted technical debt: an empirical study on machine learning software",
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549088",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Self-admitted technical debt in R: detection and causes",
+      "arxiv_id": null,
+      "doi": "10.1007/s10515-022-00358-6",
+      "publicationDate": "2022-08-25",
+      "year": 2022
+    },
+    {
+      "title": "Quality issues in machine learning software systems",
+      "arxiv_id": "2208.08982",
+      "doi": "10.1007/s10664-024-10536-7",
+      "publicationDate": "2022-08-18",
+      "year": 2022
+    },
+    {
+      "title": "Bugs in machine learning-based systems: a faultload benchmark",
+      "arxiv_id": "2206.12311",
+      "doi": "10.1007/s10664-023-10291-1",
+      "publicationDate": "2022-06-24",
+      "year": 2022
+    },
+    {
+      "title": "Comprehending the Use of Intelligent Techniques to Support Technical Debt Management",
+      "arxiv_id": null,
+      "doi": "10.1145/3524843.3528097",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Code Smells for Machine Learning Applications",
+      "arxiv_id": "2203.13746",
+      "doi": "10.1145/3522664.3528620",
+      "publicationDate": "2022-03-25",
+      "year": 2022
+    },
+    {
+      "title": "Understanding Roxygen package documentation in R",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2022.111265",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "An empirical study on self-admitted technical debt in Dockerfiles",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-021-10081-7",
+      "publicationDate": "2022-01-31",
+      "year": 2022
+    },
+    {
+      "title": "Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study",
+      "arxiv_id": "2201.09953",
+      "doi": "10.1145/3524842.3528455",
+      "publicationDate": "2022-01-24",
+      "year": 2022
+    },
+    {
+      "title": "Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process",
+      "arxiv_id": "2110.10234",
+      "doi": "10.1145/3510003.3510209",
+      "publicationDate": "2021-10-19",
+      "year": 2021
+    },
+    {
+      "title": "Design Smells in Deep Learning Programs: An Empirical Study",
+      "arxiv_id": "2107.02279",
+      "doi": "10.26226/morressier.613b5418842293c031b5b61d",
+      "publicationDate": "2021-07-05",
+      "year": 2021
+    },
+    {
+      "title": "The symptoms, causes, and repairs of bugs inside a deep learning library",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2021.110935",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Self-Admitted Technical Debt in R Packages: An Exploratory Study",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR52588.2021.00030",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study of Refactorings and Technical Debt in Machine Learning Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE43902.2021.00033",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study",
+      "arxiv_id": "2103.09783",
+      "doi": "10.1109/TechDebt52882.2021.00016",
+      "publicationDate": "2021-03-17",
+      "year": 2021
+    },
+    {
+      "title": "The Prevalence of Code Smells in Machine Learning projects",
+      "arxiv_id": "2103.04146",
+      "doi": "10.1109/WAIN52551.2021.00011",
+      "publicationDate": "2021-03-06",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Unit Testing Practices in R Packages",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE43902.2021.00136",
+      "publicationDate": "2021-02-24",
+      "year": 2021
+    },
+    {
+      "title": "An exploratory study on the introduction and removal of different types of technical debt in deep learning frameworks",
+      "arxiv_id": "2101.03730",
+      "doi": "10.1007/s10664-020-09917-5",
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "A systematic literature review on Technical Debt prioritization: Strategies, processes, factors, and tools",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2020.110827",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "A Software Engineering Perspective on Engineering Machine Learning Systems: State of the Art and Challenges",
+      "arxiv_id": "2012.07919",
+      "doi": "10.1016/j.jss.2021.111031",
+      "publicationDate": "2020-12-14",
+      "year": 2020
+    },
+    {
+      "title": "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks",
+      "arxiv_id": null,
+      "doi": "10.1145/3377815.3381377",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "Do the machine learning models on a crowd sourced platform exhibit bias? an empirical study on model fairness",
+      "arxiv_id": "2005.12379",
+      "doi": "10.1145/3368089.3409704",
+      "publicationDate": "2020-05-21",
+      "year": 2020
+    },
+    {
+      "title": "On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering",
+      "arxiv_id": "2004.09741",
+      "doi": "10.1016/j.infsof.2020.106294",
+      "publicationDate": "2020-04-21",
+      "year": 2020
+    },
+    {
+      "title": "Rapid Reviews in Software Engineering",
+      "arxiv_id": "2003.10006",
+      "doi": "10.1007/978-3-030-32489-6_13",
+      "publicationDate": "2020-03-22",
+      "year": 2020
+    },
+    {
+      "title": "Taxonomy of Real Faults in Deep Learning Systems",
+      "arxiv_id": "1910.11015",
+      "doi": "10.1145/3377811.3380395",
+      "publicationDate": "2019-10-24",
+      "year": 2019
+    },
+    {
+      "title": "Data Management Challenges for Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/SEAA.2019.00030",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Overcoming barriers towards Sustainable Product-Service Systems in Small and Medium-sized enterprises: State of the art and a novel Decision Matrix",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JCLEPRO.2019.01.152",
+      "publicationDate": "2019-06-10",
+      "year": 2019
+    },
+    {
+      "title": "Investigate, Identify and Estimate the Technical Debt: A Systematic Mapping Study",
+      "arxiv_id": null,
+      "doi": "10.5121/IJSEA.2018.9501",
+      "publicationDate": "2018-09-30",
+      "year": 2018
+    },
+    {
+      "title": "A Review on Hidden Debts in Machine Learning Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ICGCIOT.2018.8753081",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift",
+      "arxiv_id": "1801.05134",
+      "doi": "10.1109/CVPR.2019.00279",
+      "publicationDate": "2018-01-16",
+      "year": 2018
+    },
+    {
+      "title": "The ML test score: A rubric for ML production readiness and technical debt reduction",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData.2017.8258038",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "An Empirical Study on Real Bugs for Machine Learning Programs",
+      "arxiv_id": null,
+      "doi": "10.1109/APSEC.2017.41",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "Investigating the Use of a Hybrid Search Strategy for Systematic Reviews",
+      "arxiv_id": null,
+      "doi": "10.1109/ESEM.2017.30",
+      "publicationDate": "2017-11-09",
+      "year": 2017
+    },
+    {
+      "title": "On the diffuseness and the impact on maintainability of code smells: a large scale empirical investigation",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-017-9535-z",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "Identification and management of technical debt: A systematic mapping study",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INFSOF.2015.10.008",
+      "publicationDate": "2016-02-01",
+      "year": 2016
+    },
+    {
+      "title": "All in the Family: systematic reviews, rapid reviews, scoping reviews, realist reviews, and more",
+      "arxiv_id": null,
+      "doi": "10.1186/s13643-015-0163-7",
+      "publicationDate": "2015-12-22",
+      "year": 2015
+    },
+    {
+      "title": "Hidden Technical Debt in Machine Learning Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-12-07",
+      "year": 2015
+    },
+    {
+      "title": "Towards an Ontology of Terms on Technical Debt",
+      "arxiv_id": null,
+      "doi": "10.1109/MTD.2014.9",
+      "publicationDate": "2014-09-30",
+      "year": 2014
+    },
+    {
+      "title": "An Exploratory Study on Self-Admitted Technical Debt",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME.2014.31",
+      "publicationDate": "2014-09-29",
+      "year": 2014
+    },
+    {
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/2601248.2601268",
+      "publicationDate": "2014-05-13",
+      "year": 2014
+    },
+    {
+      "title": "Qualitative Content Analysis",
+      "arxiv_id": null,
+      "doi": "10.1177/2158244014522633",
+      "publicationDate": "2014-02-05",
+      "year": 2014
+    },
+    {
+      "title": "A systematic review of systematic review process research in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2013.07.010",
+      "publicationDate": "2013-12-01",
+      "year": 2013
+    },
+    {
+      "title": "Investigating the impact of code smells debt on quality code evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/MTD.2012.6225993",
+      "publicationDate": "2012-06-05",
+      "year": 2012
+    },
+    {
+      "title": "Guidelines for conducting and reporting case study research in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-008-9102-8",
+      "publicationDate": "2009-04-01",
+      "year": 2009
+    },
+    {
+      "title": "Lessons from applying the systematic literature review process within the software engineering domain",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2006.07.009",
+      "publicationDate": "2007-04-01",
+      "year": 2007
+    },
+    {
+      "title": "Evidence-based software engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2004.1317449",
+      "publicationDate": "2004-05-23",
+      "year": 2004
+    },
+    {
+      "title": "STANDARD QUALITY ASSESSMENT CRITERIA FOR EVALUATING PRIMARY RESEARCH PAPERS FROM A VARIETY OF FIELDS",
+      "arxiv_id": null,
+      "doi": "10.7939/R37M04F16",
+      "publicationDate": "2004-02-01",
+      "year": 2004
+    },
+    {
+      "title": "The WyCash portfolio management system",
+      "arxiv_id": null,
+      "doi": "10.1145/157709.157715",
+      "publicationDate": "1992-12-01",
+      "year": 1992
+    },
+    {
+      "title": "A Coefficient of Agreement for Nominal Scales",
+      "arxiv_id": null,
+      "doi": "10.1177/001316446002000104",
+      "publicationDate": "1960-04-01",
+      "year": 1960
+    },
+    {
+      "title": "A Multivocal Literature Review on Non-Technical Debt in Software Development: An Insight into Process, Social, People, Organizational, and Culture Debt",
+      "arxiv_id": null,
+      "doi": "10.37190/e-inf240101",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Identifying technical debt and tools for technical debt management in software development",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Acquiring Maintainable AI-Enabled Systems . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "The ultimate guide to model retraining",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Managing architectural technical debt: A unified model and systematic literature review",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2017.09.025",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Case Study Research and Applications: Design and Methods (6",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A Map of Threats to Validity of Systematic Literature Reviews in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/APSEC.2016.031",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X16500045",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Perspectives on Managing Technical Debt: A Transition Point and Roadmap from Dagstuhl",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Managing Technical Debt in Software Engineering (Dagstuhl Seminar 16162)",
+      "arxiv_id": null,
+      "doi": "10.4230/DagRep.6.4.110",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Guidelines for Performing Systematic Literature Reviews in Software Engineering (ebse Technical Report Version 2.3, ebse-2007-01)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Guidance on the conduct of narrative synthesis in sytematic reviews",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Using thematic analysis in psychology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Measuring nominal scale agreement among many raters.",
+      "arxiv_id": null,
+      "doi": "10.1037/H0031619",
+      "publicationDate": null,
+      "year": 1971
+    },
+    {
+      "title": "2024. A taxonomy ofself-admittedtechnicaldebtindeeplearningsystems,In40thIEEEInternationalConferenceonSoftwareMaintenanceandEvolution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ISSUES THAT LEAD TO CODE TECHNICAL DEBT IN MACHINE LEARNING SYSTEMS",
+      "arxiv_id": null,
+      "doi": "10.17771/pucrio.acad.67941",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 8 May 2025; revised 6 January 2026; accepted 24 March 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Technical Debt in Microservices: A Mixed-Method Case Study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Challenges in deploying ML: a survey of case studies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. An analysis of the challenges in the adoption of MLOps",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Onboard processing of hyperspectral imagery: Deep learning advancements, methodologies, challenges, and emerging trends",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

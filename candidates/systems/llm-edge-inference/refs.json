@@ -1,0 +1,1430 @@
+{
+  "candidate": {
+    "topic": "Network Edge Inference for Large Language Models",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3809166",
+      "title": "Network Edge Inference for Large Language Models: Principles, Techniques, and Opportunities",
+      "published": "2026-05-19"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:11:30+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 199,
+    "arxiv_resolvable": 126,
+    "doi_only": 38,
+    "unresolved": 35
+  },
+  "gt_s2": {
+    "paperId": "e86224cd8c028122c57edb705fb0e841530a8d59",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2604-22906",
+      "ArXiv": "2604.22906",
+      "DOI": "10.1145/3809166",
+      "CorpusId": 287702960
+    },
+    "title": "Network Edge Inference for Large Language Models: Principles, Techniques, and Opportunities",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 199,
+    "publicationDate": "2026-04-24"
+  },
+  "refs": [
+    {
+      "title": "Joint Inference Offloading and Model Caching for Small and Large Language Model Collaboration",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2025.3608303",
+      "publicationDate": "2026-02-01",
+      "year": 2026
+    },
+    {
+      "title": "Collaborative Inference in RIS-Assisted MEC Networks Under Computing Backlog Constraints",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2025.3564727",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "Efficient LLM Inference Over Heterogeneous Edge Networks With Speculative Decoding",
+      "arxiv_id": "2510.11331",
+      "doi": "10.1109/TCOMM.2026.3712530",
+      "publicationDate": "2025-10-13",
+      "year": 2025
+    },
+    {
+      "title": "Conformal Sparsification for Bandwidth-Efficient Edge-Cloud Speculative Decoding",
+      "arxiv_id": "2510.09942",
+      "doi": "10.48550/arXiv.2510.09942",
+      "publicationDate": "2025-10-11",
+      "year": 2025
+    },
+    {
+      "title": "Securing AI Agents: Implementing Role-Based Access Control for Industrial Applications",
+      "arxiv_id": "2509.11431",
+      "doi": "10.48550/arXiv.2509.11431",
+      "publicationDate": "2025-09-14",
+      "year": 2025
+    },
+    {
+      "title": "Communication-Efficient Collaborative LLM Inference via Distributed Speculative Decoding",
+      "arxiv_id": "2509.04576",
+      "doi": "10.1109/WCSP68525.2025.1010651",
+      "publicationDate": "2025-09-04",
+      "year": 2025
+    },
+    {
+      "title": "Adaptoserve: An Efficient System for Supporting Adaptive Chunked-Prefills in LLM Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCC67675.2025.00051",
+      "publicationDate": "2025-08-13",
+      "year": 2025
+    },
+    {
+      "title": "Dynamic Quality-Latency Aware Routing for LLM Inference in Wireless Edge-Device Networks",
+      "arxiv_id": "2508.11291",
+      "doi": "10.1109/ICCCWorkshops67136.2025.11147210",
+      "publicationDate": "2025-08-10",
+      "year": 2025
+    },
+    {
+      "title": "Quality-of-Service Aware LLM Routing for Edge Computing With Multiple Experts",
+      "arxiv_id": "2508.00234",
+      "doi": "10.1109/TMC.2025.3590969",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "CLAF-IoT: Context-Aware LLMs-Enhanced Authentication Framework for Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3567634",
+      "publicationDate": "2025-07-15",
+      "year": 2025
+    },
+    {
+      "title": "TightLLM: Maximizing Throughput for LLM Inference via Adaptive Offloading Policy",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2025.3558009",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "WindServe: Efficient Phase-Disaggregated LLM Serving with Stream-based Dynamic Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3695053.3730999",
+      "publicationDate": "2025-06-20",
+      "year": 2025
+    },
+    {
+      "title": "Joint Caching and Inference for Large Language Models in Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC52391.2025.11161094",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "Distributed Inference Optimization for Large Language Model in Edge-Cloud Collaborative Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC52391.2025.11160773",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "Pre3: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation",
+      "arxiv_id": "2506.03887",
+      "doi": "10.18653/v1/2025.acl-long.551",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference",
+      "arxiv_id": "2505.11329",
+      "doi": "10.48550/arXiv.2505.11329",
+      "publicationDate": "2025-05-16",
+      "year": 2025
+    },
+    {
+      "title": "EdgeShard: Efficient LLM Inference via Collaborative Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3524255",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model Partitioning for Low-Latency Inference at the Edge",
+      "arxiv_id": "2505.02533",
+      "doi": "10.23919/WiOpt66569.2025.11123401",
+      "publicationDate": "2025-05-05",
+      "year": 2025
+    },
+    {
+      "title": "A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency",
+      "arxiv_id": "2505.01658",
+      "doi": "10.48550/arXiv.2505.01658",
+      "publicationDate": "2025-05-03",
+      "year": 2025
+    },
+    {
+      "title": "semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage",
+      "arxiv_id": "2504.19867",
+      "doi": "10.48550/arXiv.2504.19867",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "Splitwiser: Efficient LM inference with constrained resources",
+      "arxiv_id": "2505.03763",
+      "doi": "10.48550/arXiv.2505.03763",
+      "publicationDate": "2025-04-21",
+      "year": 2025
+    },
+    {
+      "title": "Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices",
+      "arxiv_id": "2504.08242",
+      "doi": "10.1109/INFOCOM55648.2025.11044734",
+      "publicationDate": "2025-04-11",
+      "year": 2025
+    },
+    {
+      "title": "Computation-Aware Offloading for DNN Inference Tasks in Semantic Communication Assisted MEC Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2024.3523517",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function",
+      "arxiv_id": "2504.00819",
+      "doi": "10.1109/ICCWorkshops67674.2025.11162260",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3513457",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Beyond Test-Time Compute Strategies: Advocating Energy-per-Token in LLM Inference",
+      "arxiv_id": "2603.20224",
+      "doi": "10.1145/3721146.3721953",
+      "publicationDate": "2025-03-30",
+      "year": 2025
+    },
+    {
+      "title": "Adaptive layer splitting for wireless large language model inference in edge computing: a model-based reinforcement learning approach",
+      "arxiv_id": null,
+      "doi": "10.1631/FITEE.2400468",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Qwen2.5-1M Technical Report",
+      "arxiv_id": "2501.15383",
+      "doi": "10.48550/arXiv.2501.15383",
+      "publicationDate": "2025-01-26",
+      "year": 2025
+    },
+    {
+      "title": "FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving",
+      "arxiv_id": "2501.01005",
+      "doi": "10.48550/arXiv.2501.01005",
+      "publicationDate": "2025-01-02",
+      "year": 2025
+    },
+    {
+      "title": "Beyond the Cloud: Edge Inference for Generative Large Language Models in Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2024.3497923",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "A Survey on Large Language Model Acceleration based on KV Cache Management",
+      "arxiv_id": "2412.19442",
+      "doi": "10.48550/arXiv.2412.19442",
+      "publicationDate": "2024-12-27",
+      "year": 2024
+    },
+    {
+      "title": "DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs",
+      "arxiv_id": "2412.14838",
+      "doi": "10.48550/arXiv.2412.14838",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "Phi-4 Technical Report",
+      "arxiv_id": "2412.08905",
+      "doi": null,
+      "publicationDate": "2024-12-12",
+      "year": 2024
+    },
+    {
+      "title": "Federated and edge learning for large language models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2024.102840",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models (LLMs) Inference Offloading and Resource Allocation in Cloud-Edge Computing: An Active Inference Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3415661",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection",
+      "arxiv_id": "2411.02886",
+      "doi": "10.48550/arXiv.2411.02886",
+      "publicationDate": "2024-11-05",
+      "year": 2024
+    },
+    {
+      "title": "NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference",
+      "arxiv_id": "2411.01142",
+      "doi": "10.48550/arXiv.2411.01142",
+      "publicationDate": "2024-11-02",
+      "year": 2024
+    },
+    {
+      "title": "SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization",
+      "arxiv_id": "2410.10759",
+      "doi": "10.48550/arXiv.2410.10759",
+      "publicationDate": "2024-10-14",
+      "year": 2024
+    },
+    {
+      "title": "A Review on Edge Large Language Models: Design, Execution, and Applications",
+      "arxiv_id": "2410.11845",
+      "doi": "10.1145/3719664",
+      "publicationDate": "2024-09-29",
+      "year": 2024
+    },
+    {
+      "title": "Qwen2.5-Coder Technical Report",
+      "arxiv_id": "2409.12186",
+      "doi": null,
+      "publicationDate": "2024-09-18",
+      "year": 2024
+    },
+    {
+      "title": "On-Device Language Models: A Comprehensive Review",
+      "arxiv_id": "2409.00088",
+      "doi": "10.48550/arXiv.2409.00088",
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference",
+      "arxiv_id": "2408.07802",
+      "doi": "10.48550/arXiv.2408.07802",
+      "publicationDate": "2024-08-14",
+      "year": 2024
+    },
+    {
+      "title": "DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency",
+      "arxiv_id": "2408.00741",
+      "doi": "10.1109/HPCA61900.2025.00102",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Mobile Edge Intelligence for Large Language Models: A Contemporary Survey",
+      "arxiv_id": "2407.18921",
+      "doi": "10.1109/COMST.2025.3527641",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence",
+      "arxiv_id": "2407.07061",
+      "doi": "10.48550/arXiv.2407.07061",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "Resolving Discrepancies in Compute-Optimal Scaling of Language Models",
+      "arxiv_id": "2406.19146",
+      "doi": "10.48550/arXiv.2406.19146",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Batching and Early-Exiting for Accurate and Timely Edge Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/VTC2024-Spring62846.2024.10682995",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+      "arxiv_id": "2406.04692",
+      "doi": "10.48550/arXiv.2406.04692",
+      "publicationDate": "2024-06-07",
+      "year": 2024
+    },
+    {
+      "title": "Helix: Serving Large Language Models over Heterogeneous GPUs and Network via Max-Flow",
+      "arxiv_id": "2406.01566",
+      "doi": "10.1145/3669940.3707215",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Hybrid SLM and LLM for Edge-Cloud Collaborative Inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3662006.3662067",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices",
+      "arxiv_id": "2408.08015",
+      "doi": "10.1145/3636534.3649363",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "EdgeShard: Efficient LLM Inference via Collaborative Edge Computing",
+      "arxiv_id": "2405.14371",
+      "doi": "10.48550/arXiv.2405.14371",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models",
+      "arxiv_id": "2405.13019",
+      "doi": "10.48550/arXiv.2405.13019",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "PrimePar: Efficient Spatial-temporal Tensor Partitioning for Large Transformer Model Training",
+      "arxiv_id": null,
+      "doi": "10.1145/3620666.3651357",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+      "arxiv_id": "2404.16710",
+      "doi": "10.18653/v1/2024.acl-long.681",
+      "publicationDate": "2024-04-25",
+      "year": 2024
+    },
+    {
+      "title": "Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing",
+      "arxiv_id": "2404.14618",
+      "doi": "10.48550/arXiv.2404.14618",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "RULER: What's the Real Context Size of Your Long-Context Language Models?",
+      "arxiv_id": "2404.06654",
+      "doi": "10.48550/arXiv.2404.06654",
+      "publicationDate": "2024-04-09",
+      "year": 2024
+    },
+    {
+      "title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+      "arxiv_id": "2403.02310",
+      "doi": "10.48550/arXiv.2403.02310",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "POSTER: LLM-PQ:Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization",
+      "arxiv_id": null,
+      "doi": "10.1145/3627535.3638480",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+      "arxiv_id": "2401.18079",
+      "doi": "10.48550/arXiv.2401.18079",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence",
+      "arxiv_id": "2401.14196",
+      "doi": "10.48550/arXiv.2401.14196",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving",
+      "arxiv_id": "2401.09670",
+      "doi": "10.48550/arXiv.2401.09670",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+      "arxiv_id": "2401.07851",
+      "doi": "10.48550/arXiv.2401.07851",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference",
+      "arxiv_id": "2401.08671",
+      "doi": "10.48550/arXiv.2401.08671",
+      "publicationDate": "2024-01-09",
+      "year": 2024
+    },
+    {
+      "title": "Mixtral of Experts",
+      "arxiv_id": "2401.04088",
+      "doi": "10.48550/arXiv.2401.04088",
+      "publicationDate": "2024-01-08",
+      "year": 2024
+    },
+    {
+      "title": "TinyLlama: An Open-Source Small Language Model",
+      "arxiv_id": "2401.02385",
+      "doi": "10.48550/arXiv.2401.02385",
+      "publicationDate": "2024-01-04",
+      "year": 2024
+    },
+    {
+      "title": "BatOpt: Optimizing GPU-Based Deep Learning Inference Using Dynamic Batch Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2024.3350561",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
+      "arxiv_id": "2401.00625",
+      "doi": "10.48550/arXiv.2401.00625",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems",
+      "arxiv_id": "2312.15234",
+      "doi": "10.1145/3754448",
+      "publicationDate": "2023-12-23",
+      "year": 2023
+    },
+    {
+      "title": "The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction",
+      "arxiv_id": "2312.13558",
+      "doi": "10.48550/arXiv.2312.13558",
+      "publicationDate": "2023-12-21",
+      "year": 2023
+    },
+    {
+      "title": "DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization",
+      "arxiv_id": "2312.13211",
+      "doi": "10.48550/arXiv.2312.13211",
+      "publicationDate": "2023-12-20",
+      "year": 2023
+    },
+    {
+      "title": "ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference",
+      "arxiv_id": "2312.11882",
+      "doi": "10.48550/arXiv.2312.11882",
+      "publicationDate": "2023-12-19",
+      "year": 2023
+    },
+    {
+      "title": "Distributed Inference and Fine-tuning of Large Language Models Over The Internet",
+      "arxiv_id": "2312.08361",
+      "doi": "10.48550/arXiv.2312.08361",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "Splitwise: Efficient Generative LLM Inference Using Phase Splitting",
+      "arxiv_id": "2311.18677",
+      "doi": "10.1109/ISCA59077.2024.00019",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "HexGen: Generative Inference of Large Language Model over Heterogeneous Environment",
+      "arxiv_id": "2311.11514",
+      "doi": null,
+      "publicationDate": "2023-11-20",
+      "year": 2023
+    },
+    {
+      "title": "PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation",
+      "arxiv_id": "2310.14192",
+      "doi": "10.48550/arXiv.2310.14192",
+      "publicationDate": "2023-10-22",
+      "year": 2023
+    },
+    {
+      "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+      "arxiv_id": "2310.06694",
+      "doi": "10.48550/arXiv.2310.06694",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity",
+      "arxiv_id": "2310.05175",
+      "doi": "10.48550/arXiv.2310.05175",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Improved Baselines with Visual Instruction Tuning",
+      "arxiv_id": "2310.03744",
+      "doi": "10.1109/CVPR52733.2024.02484",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "arxiv_id": "2309.06180",
+      "doi": "10.1145/3600006.3613165",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",
+      "arxiv_id": "2308.14508",
+      "doi": "10.48550/arXiv.2308.14508",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference",
+      "arxiv_id": "2307.02628",
+      "doi": "10.48550/arXiv.2307.02628",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression",
+      "arxiv_id": "2306.03078",
+      "doi": "10.48550/arXiv.2306.03078",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+      "arxiv_id": "2306.00978",
+      "doi": "10.1145/3714983.3714987",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification",
+      "arxiv_id": "2305.09781",
+      "doi": "10.1145/3620666.3651335",
+      "publicationDate": "2023-05-16",
+      "year": 2023
+    },
+    {
+      "title": "OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization",
+      "arxiv_id": "2304.07493",
+      "doi": "10.1145/3579371.3589038",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services",
+      "arxiv_id": "2303.16129",
+      "doi": "10.1109/COMST.2024.3353265",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "High-throughput Generative Inference of Large Language Models with a Single GPU",
+      "arxiv_id": "2303.06865",
+      "doi": "10.48550/arXiv.2303.06865",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers",
+      "arxiv_id": "2302.14705",
+      "doi": "10.1109/TCAD.2023.3273992",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "ZipLM: Inference-Aware Structured Pruning of Language Models",
+      "arxiv_id": "2302.04089",
+      "doi": "10.52202/075280-2863",
+      "publicationDate": "2023-02-07",
+      "year": 2023
+    },
+    {
+      "title": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning",
+      "arxiv_id": "2301.13688",
+      "doi": "10.48550/arXiv.2301.13688",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+      "arxiv_id": "2301.00774",
+      "doi": "10.48550/arXiv.2301.00774",
+      "publicationDate": "2023-01-02",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on In-context Learning",
+      "arxiv_id": "2301.00234",
+      "doi": "10.18653/v1/2024.emnlp-main.64",
+      "publicationDate": "2022-12-31",
+      "year": 2022
+    },
+    {
+      "title": "Large Language Models Are Reasoning Teachers",
+      "arxiv_id": "2212.10071",
+      "doi": "10.48550/arXiv.2212.10071",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "arxiv_id": "2211.10438",
+      "doi": "10.48550/arXiv.2211.10438",
+      "publicationDate": "2022-11-18",
+      "year": 2022
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Less is More: Task-aware Layer-wise Distillation for Language Model Compression",
+      "arxiv_id": "2210.01351",
+      "doi": "10.48550/arXiv.2210.01351",
+      "publicationDate": "2022-10-04",
+      "year": 2022
+    },
+    {
+      "title": "Knowledge-Aided Federated Learning for Energy-Limited Wireless Networks",
+      "arxiv_id": "2209.12277",
+      "doi": "10.1109/TCOMM.2023.3261383",
+      "publicationDate": "2022-09-25",
+      "year": 2022
+    },
+    {
+      "title": "PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/DSD57027.2022.00048",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers",
+      "arxiv_id": "2206.01861",
+      "doi": "10.48550/arXiv.2206.01861",
+      "publicationDate": "2022-06-04",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space",
+      "arxiv_id": "2203.14680",
+      "doi": "10.48550/arXiv.2203.14680",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Pipeline Parallelism for Inference on Heterogeneous Edge Computing",
+      "arxiv_id": "2110.14895",
+      "doi": null,
+      "publicationDate": "2021-10-28",
+      "year": 2021
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+      "arxiv_id": "2109.07958",
+      "doi": "10.18653/v1/2022.acl-long.229",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "Finetuned Language Models Are Zero-Shot Learners",
+      "arxiv_id": "2109.01652",
+      "doi": null,
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "Program Synthesis with Large Language Models",
+      "arxiv_id": "2108.07732",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "FedFog: Network-Aware Optimization of Federated Learning over Wireless Fog-Cloud Systems",
+      "arxiv_id": "2107.02755",
+      "doi": "10.1109/TWC.2022.3167263",
+      "publicationDate": "2021-07-04",
+      "year": 2021
+    },
+    {
+      "title": "Survey on Multi-Access Edge Computing Security and Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3062546",
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade",
+      "arxiv_id": "2012.15833",
+      "doi": "10.18653/v1/2021.findings-acl.11",
+      "publicationDate": "2020-12-31",
+      "year": 2020
+    },
+    {
+      "title": "BinaryBERT: Pushing the Limit of BERT Quantization",
+      "arxiv_id": "2012.15701",
+      "doi": "10.18653/v1/2021.acl-long.334",
+      "publicationDate": "2020-12-31",
+      "year": 2020
+    },
+    {
+      "title": "CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade",
+      "arxiv_id": "2012.14682",
+      "doi": "10.18653/v1/2021.findings-emnlp.43",
+      "publicationDate": "2020-12-29",
+      "year": 2020
+    },
+    {
+      "title": "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+      "arxiv_id": "2010.11934",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.41",
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "TernaryBERT: Distillation-aware Ultra-low Bit BERT",
+      "arxiv_id": "2009.12812",
+      "doi": "10.18653/v1/2020.emnlp-main.37",
+      "publicationDate": "2020-09-27",
+      "year": 2020
+    },
+    {
+      "title": "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models",
+      "arxiv_id": "2009.11462",
+      "doi": "10.18653/v1/2020.findings-emnlp.301",
+      "publicationDate": "2020-09-24",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "DAPPLE: a pipelined data parallel approach for training large models",
+      "arxiv_id": "2007.01045",
+      "doi": "10.1145/3437801.3441593",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Fluid Antenna Systems",
+      "arxiv_id": "2005.11561",
+      "doi": "10.1109/TWC.2020.3037595",
+      "publicationDate": "2020-05-23",
+      "year": 2020
+    },
+    {
+      "title": "DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference",
+      "arxiv_id": "2004.12993",
+      "doi": "10.18653/v1/2020.acl-main.204",
+      "publicationDate": "2020-04-27",
+      "year": 2020
+    },
+    {
+      "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+      "arxiv_id": "2004.09456",
+      "doi": "10.18653/v1/2021.acl-long.416",
+      "publicationDate": "2020-04-20",
+      "year": 2020
+    },
+    {
+      "title": "MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2020.2974843",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers",
+      "arxiv_id": "2002.10957",
+      "doi": null,
+      "publicationDate": "2020-02-25",
+      "year": 2020
+    },
+    {
+      "title": "Scaling Laws for Neural Language Models",
+      "arxiv_id": "2001.08361",
+      "doi": null,
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface for Green Edge Inference",
+      "arxiv_id": "1912.00820",
+      "doi": "10.1109/TGCN.2021.3058657",
+      "publicationDate": "2019-12-02",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "Q8BERT: Quantized 8Bit BERT",
+      "arxiv_id": "1910.06188",
+      "doi": "10.1109/EMC2-NIPS53020.2019.00016",
+      "publicationDate": "2019-10-14",
+      "year": 2019
+    },
+    {
+      "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+      "arxiv_id": "1910.02054",
+      "doi": "10.1109/SC41405.2020.00024",
+      "publicationDate": "2019-10-04",
+      "year": 2019
+    },
+    {
+      "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+      "arxiv_id": "1909.11942",
+      "doi": null,
+      "publicationDate": "2019-09-26",
+      "year": 2019
+    },
+    {
+      "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+      "arxiv_id": "1909.08053",
+      "doi": null,
+      "publicationDate": "2019-09-17",
+      "year": 2019
+    },
+    {
+      "title": "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT",
+      "arxiv_id": "1909.05840",
+      "doi": "10.1609/AAAI.V34I05.6409",
+      "publicationDate": "2019-09-12",
+      "year": 2019
+    },
+    {
+      "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+      "arxiv_id": "1907.11692",
+      "doi": null,
+      "publicationDate": "2019-07-26",
+      "year": 2019
+    },
+    {
+      "title": "MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms",
+      "arxiv_id": "1905.13319",
+      "doi": "10.18653/v1/N19-1245",
+      "publicationDate": "2019-05-30",
+      "year": 2019
+    },
+    {
+      "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+      "arxiv_id": "1905.07830",
+      "doi": "10.18653/v1/P19-1472",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Mask-Predict: Parallel Decoding of Conditional Masked Language Models",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D19-1633",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Timeloop: A Systematic Approach to DNN Accelerator Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/ISPASS.2019.00042",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Learned Step Size Quantization",
+      "arxiv_id": "1902.08153",
+      "doi": null,
+      "publicationDate": "2019-02-21",
+      "year": 2019
+    },
+    {
+      "title": "Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input",
+      "arxiv_id": "1812.09664",
+      "doi": "10.1609/aaai.v33i01.33013723",
+      "publicationDate": "2018-12-23",
+      "year": 2018
+    },
+    {
+      "title": "Reconfigurable Intelligent Surfaces for Energy Efficiency in Wireless Communication",
+      "arxiv_id": "1810.06934",
+      "doi": "10.1109/TWC.2019.2922609.",
+      "publicationDate": "2018-10-16",
+      "year": 2018
+    },
+    {
+      "title": "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization",
+      "arxiv_id": "1808.08745",
+      "doi": "10.18653/v1/D18-1206",
+      "publicationDate": "2018-08-27",
+      "year": 2018
+    },
+    {
+      "title": "Quantizing deep convolutional networks for efficient inference: A whitepaper",
+      "arxiv_id": "1806.08342",
+      "doi": null,
+      "publicationDate": "2018-06-21",
+      "year": 2018
+    },
+    {
+      "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+      "arxiv_id": "1803.05457",
+      "doi": null,
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement",
+      "arxiv_id": "1802.06901",
+      "doi": "10.18653/v1/D18-1149",
+      "publicationDate": "2018-02-19",
+      "year": 2018
+    },
+    {
+      "title": "PACT: Parameterized Clipping Activation for Quantized Neural Networks",
+      "arxiv_id": "1805.06085",
+      "doi": null,
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+      "arxiv_id": "1712.05877",
+      "doi": "10.1109/CVPR.2018.00286",
+      "publicationDate": "2017-12-15",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Teaching Machines to Read and Comprehend",
+      "arxiv_id": "1506.03340",
+      "doi": null,
+      "publicationDate": "2015-06-10",
+      "year": 2015
+    },
+    {
+      "title": "An Overview of Massive MIMO: Benefits and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/JSTSP.2014.2317671",
+      "publicationDate": "2014-04-15",
+      "year": 2014
+    },
+    {
+      "title": "Massive MIMO for next generation wireless systems",
+      "arxiv_id": "1304.6690",
+      "doi": "10.1109/MCOM.2014.6736761",
+      "publicationDate": "2013-04-24",
+      "year": 2013
+    },
+    {
+      "title": "NVSim: A Circuit-Level Performance, Energy, and Area Model for Emerging Nonvolatile Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2012.2185930",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "The gem5 simulator",
+      "arxiv_id": null,
+      "doi": "10.1145/2024716.2024718",
+      "publicationDate": "2011-05-31",
+      "year": 2011
+    },
+    {
+      "title": "A network in a laptop: rapid prototyping for software-defined networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1868447.1868466",
+      "publicationDate": "2010-10-20",
+      "year": 2010
+    },
+    {
+      "title": "Wireless Communications",
+      "arxiv_id": null,
+      "doi": "10.1017/CBO9780511841224",
+      "publicationDate": "2005-08-01",
+      "year": 2005
+    },
+    {
+      "title": "Multi-Stage Semantic Communication for Low-Latency Edge Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2025.3558066",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "A Matching Game for LLM Layer Deployment in Heterogeneous Edge Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2025.3561605",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ONNX Runtime",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". Qualcomm Enables Meta Llama 3 to Run on Devices Powered by Snapdragon",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "LinguaLinked: Distributed Large Language Model Inference on Mobile Devices",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-demos.16",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Sprout: Green Generative AI with Carbon-Efficient LLM Inference",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-main.1215",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". The AI Gold Rush: Can Utilities Keep Up with the Energy Demand?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2304.09145",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Optimal Caching and Model Selection for Large Model Inference",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-2577",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "SkipBERT: Efficient Inference with Shallow Layer Skipping",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.acl-long.503",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "How Many Layers and Why? An Analysis of the Model Depth in Transformers",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2021.acl-srw.23",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "NVIDIA Corporation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Hugging Face",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "FastSpeech: Fast,Robustand Controllable Text to Speech",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Formerly Data Protection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Mobile Edge Computing; Market Acceleration; MEC Metrics Best Practice and Guidelines",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Core ML Tools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Network Simulations with the ns-3 Simulator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "2025. Distributedon-devicellminferencewithover-the-aircomputation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. SpecTr: Fast speculative decoding via optimal transport In",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Network Edge Inference for LLMs: Principles, Techniques, and Opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Revisiting slo and goodput metrics in llm serving",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 16 November 2025; revised 16 March 2026; accepted 8 April 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. QAI AppBuilder: Quick AI Application Builder",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Mistral 7B",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Conident Adaptive Language Modeling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Gemma: Open models based on gemini research and technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A Novel Hat-Shaped Device-Cloud Collaborative Inference Framework for Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Debates on the nature of artiﬁcialgeneral intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Flash-llm: Enabling cost-eﬀective and highly-eﬃcient large generative model inference with unstructured sparsity",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. WDMoE: Wireless distributed mixture of experts for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Private Cloud Compute: A new frontier for AI privacy in the cloud",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Structured Pruning for Eicient Generative Pre-trained Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Orca:ADistributedServingSystemforTransformer-Based Generative Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Asvd: Activation-awaresingularvalue decomposition for compressing large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. LLM Inference Serving: Survey of Recent Advances and Opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Alpa: Automating Inter-and Intra-Operator Parallelism for Distributed Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A New Foundation for AI on Android",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Towards Expert Models Deployment Cost Optimization in Edge Computing Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. SplitComputingand EarlyExiting forDeepLearningApplications:Survey and Research Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "candidate": {
+    "topic": "Detecting Training Data For Large Language Models",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3779430",
+      "title": "Detecting Training Data For Large Language Models: A Survey",
+      "published": "2026-02-12"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:58+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 132,
+    "arxiv_resolvable": 79,
+    "doi_only": 30,
+    "unresolved": 23
+  },
+  "gt_s2": {
+    "paperId": "bb8043b278701e94627df11fae2646c5cbe546ab",
+    "externalIds": {
+      "DBLP": "journals/csur/YangLLWDGYNZ26",
+      "DOI": "10.1145/3779430",
+      "CorpusId": 284547246
+    },
+    "title": "Detecting Training Data For Large Language Models: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 132,
+    "publicationDate": "2026-01-07"
+  },
+  "refs": [
+    {
+      "title": "Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models",
+      "arxiv_id": "2503.12072",
+      "doi": "10.48550/arXiv.2503.12072",
+      "publicationDate": "2025-03-15",
+      "year": 2025
+    },
+    {
+      "title": "Detecting Training Data of Large Language Models via Expectation Maximization",
+      "arxiv_id": "2410.07582",
+      "doi": "10.48550/arXiv.2410.07582",
+      "publicationDate": "2024-10-10",
+      "year": 2024
+    },
+    {
+      "title": "Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method",
+      "arxiv_id": "2409.14781",
+      "doi": "10.48550/arXiv.2409.14781",
+      "publicationDate": "2024-09-23",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Detection of Toxic Prompts in Large Language Models",
+      "arxiv_id": "2408.11727",
+      "doi": "10.1145/3691620.3695018",
+      "publicationDate": "2024-08-21",
+      "year": 2024
+    },
+    {
+      "title": "Targeted Training Data Extraction—Neighborhood Comparison-Based Membership Inference Attacks in Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.3390/app14167118",
+      "publicationDate": "2024-08-14",
+      "year": 2024
+    },
+    {
+      "title": "Semantic Membership Inference Attack against Large Language Models",
+      "arxiv_id": "2406.10218",
+      "doi": null,
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "LLM Dataset Inference: Did you train on my dataset?",
+      "arxiv_id": "2406.06443",
+      "doi": "10.48550/arXiv.2406.06443",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "Probing Language Models for Pre-training Data Detection",
+      "arxiv_id": "2406.01333",
+      "doi": "10.48550/arXiv.2406.01333",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Sampling-based Pseudo-Likelihood for Membership Inference Attacks",
+      "arxiv_id": "2404.11262",
+      "doi": "10.48550/arXiv.2404.11262",
+      "publicationDate": "2024-04-17",
+      "year": 2024
+    },
+    {
+      "title": "Generalization or Memorization: Data Contamination and Trustworthy Evaluation for Large Language Models",
+      "arxiv_id": "2402.15938",
+      "doi": "10.48550/arXiv.2402.15938",
+      "publicationDate": "2024-02-24",
+      "year": 2024
+    },
+    {
+      "title": "DE-COP: Detecting Copyrighted Content in Language Models Training Data",
+      "arxiv_id": "2402.09910",
+      "doi": "10.48550/arXiv.2402.09910",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "How to Train Data-Efficient LLMs",
+      "arxiv_id": "2402.09668",
+      "doi": "10.48550/arXiv.2402.09668",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+      "arxiv_id": "2402.00159",
+      "doi": "10.48550/arXiv.2402.00159",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering",
+      "arxiv_id": null,
+      "doi": "10.1101/2023.12.21.23300380",
+      "publicationDate": "2023-12-24",
+      "year": 2023
+    },
+    {
+      "title": "Scalable Extraction of Training Data from (Production) Language Models",
+      "arxiv_id": "2311.17035",
+      "doi": "10.48550/arXiv.2311.17035",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "The Falcon Series of Open Language Models",
+      "arxiv_id": "2311.16867",
+      "doi": "10.48550/arXiv.2311.16867",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "SoK: Memorization in General-Purpose Large Language Models",
+      "arxiv_id": "2310.18362",
+      "doi": "10.48550/arXiv.2310.18362",
+      "publicationDate": "2023-10-24",
+      "year": 2023
+    },
+    {
+      "title": "Copyright Violations and Large Language Models",
+      "arxiv_id": "2310.13771",
+      "doi": "10.48550/arXiv.2310.13771",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "Baichuan 2: Open Large-scale Language Models",
+      "arxiv_id": "2309.10305",
+      "doi": "10.48550/arXiv.2309.10305",
+      "publicationDate": "2023-09-19",
+      "year": 2023
+    },
+    {
+      "title": "Defenses to Membership Inference Attacks: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3620667",
+      "publicationDate": "2023-09-18",
+      "year": 2023
+    },
+    {
+      "title": "Textbooks Are All You Need II: phi-1.5 technical report",
+      "arxiv_id": "2309.05463",
+      "doi": "10.48550/arXiv.2309.05463",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models to generate meaningful feature model instances",
+      "arxiv_id": null,
+      "doi": "10.1145/3579027.3608973",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore",
+      "arxiv_id": "2308.04430",
+      "doi": "10.48550/arXiv.2308.04430",
+      "publicationDate": "2023-08-08",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Jailbroken: How Does LLM Safety Training Fail?",
+      "arxiv_id": "2307.02483",
+      "doi": "10.48550/arXiv.2307.02483",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Machine Unlearning: A Survey",
+      "arxiv_id": "2306.03558",
+      "doi": "10.1145/3603620",
+      "publicationDate": "2023-06-06",
+      "year": 2023
+    },
+    {
+      "title": "The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only",
+      "arxiv_id": "2306.01116",
+      "doi": "10.48550/arXiv.2306.01116",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Membership Inference Attacks against Language Models via Neighbourhood Comparison",
+      "arxiv_id": "2305.18462",
+      "doi": "10.48550/arXiv.2305.18462",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "Training Data Extraction From Pre-trained Language Models: A Survey",
+      "arxiv_id": "2305.16157",
+      "doi": "10.48550/arXiv.2305.16157",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "Can Copyright be Reduced to Privacy?",
+      "arxiv_id": "2305.14822",
+      "doi": "10.48550/arXiv.2305.14822",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study",
+      "arxiv_id": "2305.13860",
+      "doi": "10.48550/arXiv.2305.13860",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning",
+      "arxiv_id": "2305.11759",
+      "doi": "10.48550/arXiv.2305.11759",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+      "arxiv_id": "2305.07759",
+      "doi": null,
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "A Brief Overview of ChatGPT: The History, Status Quo and Potential Future Development",
+      "arxiv_id": null,
+      "doi": "10.1109/JAS.2023.123618",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4",
+      "arxiv_id": "2305.00118",
+      "doi": "10.48550/arXiv.2305.00118",
+      "publicationDate": "2023-04-28",
+      "year": 2023
+    },
+    {
+      "title": "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
+      "arxiv_id": "2304.01373",
+      "doi": "10.48550/arXiv.2304.01373",
+      "publicationDate": "2023-04-03",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models Are State-of-the-Art Evaluators of Translation Quality",
+      "arxiv_id": "2302.14520",
+      "doi": "10.48550/arXiv.2302.14520",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "On Provable Copyright Protection for Generative Models",
+      "arxiv_id": "2302.10870",
+      "doi": null,
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "Benchmarking Large Language Models for News Summarization",
+      "arxiv_id": "2301.13848",
+      "doi": "10.1162/tacl_a_00632",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature",
+      "arxiv_id": "2301.11305",
+      "doi": "10.48550/arXiv.2301.11305",
+      "publicationDate": "2023-01-26",
+      "year": 2023
+    },
+    {
+      "title": "Galactica: A Large Language Model for Science",
+      "arxiv_id": "2211.09085",
+      "doi": null,
+      "publicationDate": "2022-11-16",
+      "year": 2022
+    },
+    {
+      "title": "Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy",
+      "arxiv_id": "2210.17546",
+      "doi": "10.18653/v1/2023.inlg-main.3",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "The Privacy Onion Effect: Memorization is Relative",
+      "arxiv_id": "2206.10469",
+      "doi": "10.48550/arXiv.2206.10469",
+      "publicationDate": "2022-06-21",
+      "year": 2022
+    },
+    {
+      "title": "Are Large Pre-Trained Language Models Leaking Your Personal Information?",
+      "arxiv_id": "2205.12628",
+      "doi": "10.48550/arXiv.2205.12628",
+      "publicationDate": "2022-05-25",
+      "year": 2022
+    },
+    {
+      "title": "Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models",
+      "arxiv_id": "2205.10770",
+      "doi": "10.48550/arXiv.2205.10770",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "Provably Confidential Language Modelling",
+      "arxiv_id": "2205.01863",
+      "doi": "10.48550/arXiv.2205.01863",
+      "publicationDate": "2022-05-04",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis",
+      "arxiv_id": "2203.13474",
+      "doi": null,
+      "publicationDate": "2022-03-25",
+      "year": 2022
+    },
+    {
+      "title": "Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks",
+      "arxiv_id": "2203.03929",
+      "doi": "10.48550/arXiv.2203.03929",
+      "publicationDate": "2022-03-08",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Deduplicating Training Data Mitigates Privacy Risks in Language Models",
+      "arxiv_id": "2202.06539",
+      "doi": null,
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "Counterfactual Memorization in Neural Language Models",
+      "arxiv_id": "2112.12938",
+      "doi": "10.52202/075280-1708",
+      "publicationDate": "2021-12-24",
+      "year": 2021
+    },
+    {
+      "title": "Membership Inference Attacks From First Principles",
+      "arxiv_id": "2112.03570",
+      "doi": "10.1109/sp46214.2022.9833649",
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "Artificial Intelligence Security: Threats and Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/3487890",
+      "publicationDate": "2021-11-23",
+      "year": 2021
+    },
+    {
+      "title": "How Much Do Language Models Copy From Their Training Data? Evaluating Linguistic Novelty in Text Generation Using RAVEN",
+      "arxiv_id": "2111.09509",
+      "doi": "10.1162/tacl_a_00567",
+      "publicationDate": "2021-11-18",
+      "year": 2021
+    },
+    {
+      "title": "On the Importance of Difficulty Calibration in Membership Inference Attacks",
+      "arxiv_id": "2111.08440",
+      "doi": null,
+      "publicationDate": "2021-11-15",
+      "year": 2021
+    },
+    {
+      "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization",
+      "arxiv_id": "2110.08207",
+      "doi": null,
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Finetuned Language Models Are Zero-Shot Learners",
+      "arxiv_id": "2109.01652",
+      "doi": null,
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "On the Opportunities and Risks of Foundation Models",
+      "arxiv_id": "2108.07258",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "Deduplicating Training Data Makes Language Models Better",
+      "arxiv_id": "2107.06499",
+      "doi": "10.18653/v1/2022.acl-long.577",
+      "publicationDate": "2021-07-14",
+      "year": 2021
+    },
+    {
+      "title": "Membership Inference on Word Embedding and Beyond",
+      "arxiv_id": "2106.11384",
+      "doi": null,
+      "publicationDate": "2021-06-21",
+      "year": 2021
+    },
+    {
+      "title": "GPT-Neo: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.5297715",
+      "publicationDate": "2021-03-21",
+      "year": 2021
+    },
+    {
+      "title": "Membership Inference Attacks on Machine Learning: A Survey",
+      "arxiv_id": "2103.07853",
+      "doi": "10.1145/3523273",
+      "publicationDate": "2021-03-14",
+      "year": 2021
+    },
+    {
+      "title": "Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning",
+      "arxiv_id": "2101.04535",
+      "doi": "10.1109/SP40001.2021.00069",
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "Extracting Training Data from Large Language Models",
+      "arxiv_id": "2012.07805",
+      "doi": null,
+      "publicationDate": "2020-12-14",
+      "year": 2020
+    },
+    {
+      "title": "On the Role of Data Anonymization in Machine Learning Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/TrustCom50675.2020.00093",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Measurement of Text Similarity: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/info11090421",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "Auditing Differentially Private Machine Learning: How Private is Private SGD?",
+      "arxiv_id": "2006.07709",
+      "doi": null,
+      "publicationDate": "2020-06-13",
+      "year": 2020
+    },
+    {
+      "title": "Knowledge Distillation: A Survey",
+      "arxiv_id": "2006.05525",
+      "doi": "10.1007/s11263-021-01453-z",
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Deduplication of Scholarly Documents using Locality Sensitive Hashing and Word Embeddings",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-05-11",
+      "year": 2020
+    },
+    {
+      "title": "Membership Inference Attacks and Defenses in Classification Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3422337.3447836",
+      "publicationDate": "2020-02-27",
+      "year": 2020
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+      "arxiv_id": "1907.11692",
+      "doi": null,
+      "publicationDate": "2019-07-26",
+      "year": 2019
+    },
+    {
+      "title": "Does learning require memorization? a short tale about a long tail",
+      "arxiv_id": "1906.05271",
+      "doi": "10.1145/3357713.3384290",
+      "publicationDate": "2019-06-12",
+      "year": 2019
+    },
+    {
+      "title": "Defending Against Neural Fake News",
+      "arxiv_id": "1905.12616",
+      "doi": null,
+      "publicationDate": "2019-05-29",
+      "year": 2019
+    },
+    {
+      "title": "The Curious Case of Neural Text Degeneration",
+      "arxiv_id": "1904.09751",
+      "doi": null,
+      "publicationDate": "2019-04-22",
+      "year": 2019
+    },
+    {
+      "title": "Demystifying Membership Inference Attacks in Machine Learning as a Service",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2019.2897554",
+      "publicationDate": "2019-02-05",
+      "year": 2019
+    },
+    {
+      "title": "Auditing Data Provenance in Text-Generation Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330885",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Identifying and characterizing highly similar notes in big clinical note datasets",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jbi.2018.04.009",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Hierarchical Neural Story Generation",
+      "arxiv_id": "1805.04833",
+      "doi": "10.18653/v1/P18-1082",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Adafactor: Adaptive Learning Rates with Sublinear Memory Cost",
+      "arxiv_id": "1804.04235",
+      "doi": null,
+      "publicationDate": "2018-04-11",
+      "year": 2018
+    },
+    {
+      "title": "The performance of text similarity algorithms",
+      "arxiv_id": null,
+      "doi": "10.26555/IJAIN.V4I1.152",
+      "publicationDate": "2018-03-31",
+      "year": 2018
+    },
+    {
+      "title": "The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks",
+      "arxiv_id": "1802.08232",
+      "doi": null,
+      "publicationDate": "2018-02-22",
+      "year": 2018
+    },
+    {
+      "title": "Understanding Membership Inferences on Well-Generalized Learning Models",
+      "arxiv_id": "1802.04889",
+      "doi": null,
+      "publicationDate": "2018-02-13",
+      "year": 2018
+    },
+    {
+      "title": "Machine Learning with Membership Privacy using Adversarial Regularization",
+      "arxiv_id": "1807.05852",
+      "doi": "10.1145/3243734.3243855",
+      "publicationDate": "2018-01-15",
+      "year": 2018
+    },
+    {
+      "title": "Fixing Weight Decay Regularization in Adam",
+      "arxiv_id": "1711.05101",
+      "doi": null,
+      "publicationDate": "2017-11-14",
+      "year": 2017
+    },
+    {
+      "title": "Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting",
+      "arxiv_id": null,
+      "doi": "10.1109/CSF.2018.00027",
+      "publicationDate": "2017-09-05",
+      "year": 2017
+    },
+    {
+      "title": "Deep Reinforcement Learning from Human Preferences",
+      "arxiv_id": "1706.03741",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Membership Inference Attacks Against Machine Learning Models",
+      "arxiv_id": "1610.05820",
+      "doi": "10.1109/SP.2017.41",
+      "publicationDate": "2016-10-18",
+      "year": 2016
+    },
+    {
+      "title": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+      "arxiv_id": "1510.03055",
+      "doi": "10.18653/v1/N16-1014",
+      "publicationDate": "2015-10-11",
+      "year": 2015
+    },
+    {
+      "title": "Towards Making Systems Forget with Machine Unlearning",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2015.35",
+      "publicationDate": "2015-05-17",
+      "year": 2015
+    },
+    {
+      "title": "Transfer of Learning",
+      "arxiv_id": null,
+      "doi": "10.4135/9781483346229.n335",
+      "publicationDate": "2015-01-11",
+      "year": 2015
+    },
+    {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "arxiv_id": "1412.6980",
+      "doi": null,
+      "publicationDate": "2014-12-22",
+      "year": 2014
+    },
+    {
+      "title": "A Survey of Text Similarity Approaches",
+      "arxiv_id": null,
+      "doi": "10.5120/11638-7118",
+      "publicationDate": "2013-04-18",
+      "year": 2013
+    },
+    {
+      "title": "zlib compression library",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-06-22",
+      "year": 2012
+    },
+    {
+      "title": "On the resemblance and containment of documents",
+      "arxiv_id": null,
+      "doi": "10.1109/SEQUEN.1997.666900",
+      "publicationDate": "1997-06-11",
+      "year": 1997
+    },
+    {
+      "title": "Jiang",
+      "arxiv_id": null,
+      "doi": "10.1179/mst.1993.9.8.665",
+      "publicationDate": "1993-08-01",
+      "year": 1993
+    },
+    {
+      "title": "THE DISTRIBUTION OF THE FLORA IN THE ALPINE ZONE.1",
+      "arxiv_id": null,
+      "doi": "10.1111/J.1469-8137.1912.TB05611.X",
+      "publicationDate": "1912-02-01",
+      "year": 1912
+    },
+    {
+      "title": "Multidimensional Text Feature Analysis: Unveiling the Veil of Automatically Generated Text",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Comprehensive Assessment of Jailbreak Attacks Against LLMs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.05668",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Wikipedia contributors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Low-Cost High-Power Membership Inference by Boosting Relativity",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.03262",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Common Crawl",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2210.17546",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "An empirical analysis of compute-optimal large language model training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Research Progress and Challenges of Membership Inference Attacks in Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.12677/orf.2022.121001",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Right to Be Forgotten in the Age of Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-71782-7_35",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Paraphrase Generation: A Survey of the State of the Art",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2021.emnlp-main.414",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "The pile: An 800 GB dataset of diverse text for language modeling 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Ethicalandsocialrisksofharmfromlanguagemodels",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Introduction to Common Crawl Datasets",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-6576-5_6",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "A Meta-Analysis of Overfitting in Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Improving Language Understanding by Generative Pre-Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Statistical language model adaptation: review and perspectives",
+      "arxiv_id": null,
+      "doi": "10.1016/j.specom.2003.08.002",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "State of the Art",
+      "arxiv_id": null,
+      "doi": "10.1203/00006450-199704001-00009",
+      "publicationDate": null,
+      "year": 1997
+    },
+    {
+      "title": "2023. Data contamination quiz: A tool to detect and estimate contamination in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AG Recommends Clause in Publishing and Distribution Agreements Prohibiting AI Training Uses",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Albert Q. Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lucile Saulnier, et al. 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MosaicML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Artists take new shot at stability, midjourney",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Panel: Privacy challenges and opportunities in { LLM-Based } chatbot applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. The times sues openai and microsoft over ai use of copyrighted work",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Anthropic",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "identify three core elements of training data detection: prior knowledge, detection approach, and membership determination metrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. From images to textual prompts: Zero-shot visual question answering with frozen large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+{
+  "candidate": {
+    "topic": "Alignment of Diffusion Models",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3796982",
+      "title": "Alignment of Diffusion Models: Fundamentals, Challenges, and Future",
+      "published": "2026-03-10"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T01:51:33+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 273,
+    "arxiv_resolvable": 214,
+    "doi_only": 16,
+    "unresolved": 43
+  },
+  "gt_s2": {
+    "paperId": "038244c4951bd658ff5dc827129dfec8fe4a441f",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2409-07253",
+      "ArXiv": "2409.07253",
+      "DOI": "10.1145/3796982",
+      "CorpusId": 272593310
+    },
+    "title": "Alignment of Diffusion Models: Fundamentals, Challenges, and Future",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 273,
+    "publicationDate": "2024-09-11"
+  },
+  "refs": [
+    {
+      "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+      "arxiv_id": "2507.06261",
+      "doi": null,
+      "publicationDate": "2025-07-07",
+      "year": 2025
+    },
+    {
+      "title": "BadReward: Clean-Label Poisoning of Reward Models in Text-to-Image RLHF",
+      "arxiv_id": "2506.03234",
+      "doi": "10.48550/arXiv.2506.03234",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences",
+      "arxiv_id": "2506.02698",
+      "doi": "10.48550/arXiv.2506.02698",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples",
+      "arxiv_id": "2505.22002",
+      "doi": "10.48550/arXiv.2505.22002",
+      "publicationDate": "2025-05-28",
+      "year": 2025
+    },
+    {
+      "title": "Qwen3 Technical Report",
+      "arxiv_id": "2505.09388",
+      "doi": null,
+      "publicationDate": "2025-05-14",
+      "year": 2025
+    },
+    {
+      "title": "ADT: Tuning Diffusion Models with Adversarial Supervision",
+      "arxiv_id": "2504.11423",
+      "doi": "10.48550/arXiv.2504.11423",
+      "publicationDate": "2025-04-15",
+      "year": 2025
+    },
+    {
+      "title": "Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards",
+      "arxiv_id": "2503.11240",
+      "doi": "10.1109/CVPR52734.2025.02198",
+      "publicationDate": "2025-03-14",
+      "year": 2025
+    },
+    {
+      "title": "Direct Distributional Optimization for Provable Alignment of Diffusion Models",
+      "arxiv_id": "2502.02954",
+      "doi": "10.48550/arXiv.2502.02954",
+      "publicationDate": "2025-02-05",
+      "year": 2025
+    },
+    {
+      "title": "DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization",
+      "arxiv_id": "2502.04370",
+      "doi": "10.48550/arXiv.2502.04370",
+      "publicationDate": "2025-02-05",
+      "year": 2025
+    },
+    {
+      "title": "Calibrated Multi-Preference Optimization for Aligning Diffusion Models",
+      "arxiv_id": "2502.02588",
+      "doi": "10.1109/CVPR52734.2025.01721",
+      "publicationDate": "2025-02-04",
+      "year": 2025
+    },
+    {
+      "title": "HuViDPO:Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment",
+      "arxiv_id": "2502.01690",
+      "doi": "10.48550/arXiv.2502.01690",
+      "publicationDate": "2025-02-02",
+      "year": 2025
+    },
+    {
+      "title": "Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking",
+      "arxiv_id": "2502.01667",
+      "doi": "10.48550/arXiv.2502.01667",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search",
+      "arxiv_id": "2501.19252",
+      "doi": "10.48550/arXiv.2501.19252",
+      "publicationDate": "2025-01-31",
+      "year": 2025
+    },
+    {
+      "title": "Improving Video Generation with Human Feedback",
+      "arxiv_id": "2501.13918",
+      "doi": "10.48550/arXiv.2501.13918",
+      "publicationDate": "2025-01-23",
+      "year": 2025
+    },
+    {
+      "title": "Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step",
+      "arxiv_id": "2501.13926",
+      "doi": "10.48550/arXiv.2501.13926",
+      "publicationDate": "2025-01-23",
+      "year": 2025
+    },
+    {
+      "title": "Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback",
+      "arxiv_id": "2501.12895",
+      "doi": "10.48550/arXiv.2501.12895",
+      "publicationDate": "2025-01-22",
+      "year": 2025
+    },
+    {
+      "title": "Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps",
+      "arxiv_id": "2501.09732",
+      "doi": "10.48550/arXiv.2501.09732",
+      "publicationDate": "2025-01-16",
+      "year": 2025
+    },
+    {
+      "title": "Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review",
+      "arxiv_id": "2501.09685",
+      "doi": "10.48550/arXiv.2501.09685",
+      "publicationDate": "2025-01-16",
+      "year": 2025
+    },
+    {
+      "title": "A General Framework for Inference-time Scaling and Steering of Diffusion Models",
+      "arxiv_id": "2501.06848",
+      "doi": "10.48550/arXiv.2501.06848",
+      "publicationDate": "2025-01-12",
+      "year": 2025
+    },
+    {
+      "title": "Test-time Alignment of Diffusion Models without Reward Over-optimization",
+      "arxiv_id": "2501.05803",
+      "doi": null,
+      "publicationDate": "2025-01-10",
+      "year": 2025
+    },
+    {
+      "title": "VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation",
+      "arxiv_id": "2412.21059",
+      "doi": "10.48550/arXiv.2412.21059",
+      "publicationDate": "2024-12-30",
+      "year": 2024
+    },
+    {
+      "title": "ReNeg: Learning Negative Embedding with Reward Guidance",
+      "arxiv_id": "2412.19637",
+      "doi": "10.1109/CVPR52734.2025.02201",
+      "publicationDate": "2024-12-27",
+      "year": 2024
+    },
+    {
+      "title": "Align Video Diffusion Model with Online Video-Centric Preference Optimization",
+      "arxiv_id": "2412.15159",
+      "doi": "10.1109/WACV61042.2026.00594",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "VideoDPO: Omni-Preference Alignment for Video Diffusion Generation",
+      "arxiv_id": "2412.14167",
+      "doi": "10.1109/CVPR52734.2025.00750",
+      "publicationDate": "2024-12-18",
+      "year": 2024
+    },
+    {
+      "title": "Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model",
+      "arxiv_id": "2412.13862",
+      "doi": "10.48550/arXiv.2412.13862",
+      "publicationDate": "2024-12-18",
+      "year": 2024
+    },
+    {
+      "title": "A Simple and Efficient Baseline for Zero-Shot Generative Classification",
+      "arxiv_id": "2412.12594",
+      "doi": "10.48550/arXiv.2412.12594",
+      "publicationDate": "2024-12-17",
+      "year": 2024
+    },
+    {
+      "title": "Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection",
+      "arxiv_id": "2412.10891",
+      "doi": "10.48550/arXiv.2412.10891",
+      "publicationDate": "2024-12-14",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets",
+      "arxiv_id": "2412.07775",
+      "doi": "10.48550/arXiv.2412.07775",
+      "publicationDate": "2024-12-10",
+      "year": 2024
+    },
+    {
+      "title": "Does RLHF Scale? Exploring the Impacts From Data, Model, and Method",
+      "arxiv_id": "2412.06000",
+      "doi": "10.48550/arXiv.2412.06000",
+      "publicationDate": "2024-12-08",
+      "year": 2024
+    },
+    {
+      "title": "SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization",
+      "arxiv_id": "2412.05095",
+      "doi": "10.48550/arXiv.2412.05095",
+      "publicationDate": "2024-12-06",
+      "year": 2024
+    },
+    {
+      "title": "LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment",
+      "arxiv_id": "2412.04814",
+      "doi": "10.48550/arXiv.2412.04814",
+      "publicationDate": "2024-12-06",
+      "year": 2024
+    },
+    {
+      "title": "DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling",
+      "arxiv_id": "2412.00759",
+      "doi": "10.1109/CVPR52734.2025.01234",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement",
+      "arxiv_id": "2411.15115",
+      "doi": "10.18653/v1/2026.findings-acl.1817",
+      "publicationDate": "2024-11-22",
+      "year": 2024
+    },
+    {
+      "title": "Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward",
+      "arxiv_id": "2411.15247",
+      "doi": "10.1109/CVPR52734.2025.01205",
+      "publicationDate": "2024-11-22",
+      "year": 2024
+    },
+    {
+      "title": "Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation",
+      "arxiv_id": "2411.14871",
+      "doi": null,
+      "publicationDate": "2024-11-22",
+      "year": 2024
+    },
+    {
+      "title": "Aligning Few-Step Diffusion Models With Dense Reward Difference Learning",
+      "arxiv_id": "2411.11727",
+      "doi": "10.1109/TPAMI.2026.3665753",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "Golden Noise for Diffusion Models: A Learning Framework",
+      "arxiv_id": "2411.09502",
+      "doi": "10.1109/ICCV51701.2025.01643",
+      "publicationDate": "2024-11-14",
+      "year": 2024
+    },
+    {
+      "title": "A Note on Shumailov et al. (2024): 'AI Models Collapse When Trained on Recursively Generated Data'",
+      "arxiv_id": "2410.12954",
+      "doi": "10.48550/arXiv.2410.12954",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Training-free Diffusion Model Alignment with Sampling Demons",
+      "arxiv_id": "2410.05760",
+      "doi": "10.48550/arXiv.2410.05760",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding",
+      "arxiv_id": "2408.08252",
+      "doi": "10.48550/arXiv.2408.08252",
+      "publicationDate": "2024-08-15",
+      "year": 2024
+    },
+    {
+      "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+      "arxiv_id": "2408.03314",
+      "doi": "10.48550/arXiv.2408.03314",
+      "publicationDate": "2024-08-06",
+      "year": 2024
+    },
+    {
+      "title": "The Llama 3 Herd of Models",
+      "arxiv_id": "2407.21783",
+      "doi": null,
+      "publicationDate": "2024-07-31",
+      "year": 2024
+    },
+    {
+      "title": "BOND: Aligning LLMs with Best-of-N Distillation",
+      "arxiv_id": "2407.14622",
+      "doi": "10.48550/arXiv.2407.14622",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization",
+      "arxiv_id": "2407.14041",
+      "doi": "10.48550/arXiv.2407.14041",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review",
+      "arxiv_id": "2407.13734",
+      "doi": "10.48550/arXiv.2407.13734",
+      "publicationDate": "2024-07-18",
+      "year": 2024
+    },
+    {
+      "title": "Video Diffusion Alignment via Reward Gradients",
+      "arxiv_id": "2407.08737",
+      "doi": "10.48550/arXiv.2407.08737",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "Position: Measure Dataset Diversity, Don't Just Claim It",
+      "arxiv_id": "2407.08188",
+      "doi": "10.48550/arXiv.2407.08188",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization",
+      "arxiv_id": "2407.01648",
+      "doi": "10.48550/arXiv.2407.01648",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "AI models collapse when trained on recursively generated data",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-024-07566-y",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation",
+      "arxiv_id": "2406.16855",
+      "doi": "10.48550/arXiv.2406.16855",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "A3D: Does Diffusion Dream about 3D Alignment?",
+      "arxiv_id": "2406.15020",
+      "doi": "10.48550/arXiv.2406.15020",
+      "publicationDate": "2024-06-21",
+      "year": 2024
+    },
+    {
+      "title": "Margin-aware Preference Optimization for Aligning Diffusion Models without Reference",
+      "arxiv_id": "2406.06424",
+      "doi": "10.48550/arXiv.2406.06424",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization",
+      "arxiv_id": "2406.04312",
+      "doi": "10.48550/arXiv.2406.04312",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "Information Theoretic Text-to-Image Alignment",
+      "arxiv_id": "2405.20759",
+      "doi": "10.48550/arXiv.2405.20759",
+      "publicationDate": "2024-05-31",
+      "year": 2024
+    },
+    {
+      "title": "Inference-Time Alignment of Diffusion Models with Direct Noise Optimization",
+      "arxiv_id": "2405.18881",
+      "doi": null,
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "Offline Regularised Reinforcement Learning for Large Language Models Alignment",
+      "arxiv_id": "2405.19107",
+      "doi": "10.48550/arXiv.2405.19107",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "AI Alignment with Changing and Influenceable Reward Functions",
+      "arxiv_id": "2405.17713",
+      "doi": "10.48550/arXiv.2405.17713",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+      "arxiv_id": "2405.14734",
+      "doi": "10.48550/arXiv.2405.14734",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Curriculum Direct Preference Optimization for Diffusion and Consistency Models",
+      "arxiv_id": "2405.13637",
+      "doi": "10.1109/CVPR52734.2025.00269",
+      "publicationDate": "2024-05-22",
+      "year": 2024
+    },
+    {
+      "title": "Understanding the performance gap between online and offline alignment algorithms",
+      "arxiv_id": "2405.08448",
+      "doi": "10.48550/arXiv.2405.08448",
+      "publicationDate": "2024-05-14",
+      "year": 2024
+    },
+    {
+      "title": "RLHF Workflow: From Reward Modeling to Online RLHF",
+      "arxiv_id": "2405.07863",
+      "doi": "10.48550/arXiv.2405.07863",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Self-Play Preference Optimization for Language Model Alignment",
+      "arxiv_id": "2405.00675",
+      "doi": "10.48550/arXiv.2405.00675",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data",
+      "arxiv_id": "2404.14367",
+      "doi": "10.48550/arXiv.2404.14367",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Towards Better Text-to-Image Generation Alignment via Attention Modulation",
+      "arxiv_id": "2404.13899",
+      "doi": "10.48550/arXiv.2404.13899",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback",
+      "arxiv_id": "2404.10271",
+      "doi": null,
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+      "arxiv_id": "2404.10719",
+      "doi": "10.48550/arXiv.2404.10719",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Initno: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization",
+      "arxiv_id": "2404.04650",
+      "doi": "10.1109/CVPR52733.2024.00896",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "Aligning Diffusion Models by Optimizing Human Utility",
+      "arxiv_id": "2404.04465",
+      "doi": "10.48550/arXiv.2404.04465",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching",
+      "arxiv_id": "2404.03653",
+      "doi": "10.48550/arXiv.2404.03653",
+      "publicationDate": "2024-04-04",
+      "year": 2024
+    },
+    {
+      "title": "Model-Agnostic Human Preference Inversion in Diffusion Models",
+      "arxiv_id": "2404.00879",
+      "doi": "10.48550/arXiv.2404.00879",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Measuring Style Similarity in Diffusion Models",
+      "arxiv_id": "2404.01292",
+      "doi": "10.48550/arXiv.2404.01292",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Evaluating Text-to-Visual Generation with Image-to-Text Generation",
+      "arxiv_id": "2404.01291",
+      "doi": "10.48550/arXiv.2404.01291",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Understanding the Learning Dynamics of Alignment with Human Feedback",
+      "arxiv_id": "2403.18742",
+      "doi": "10.48550/arXiv.2403.18742",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "Improving Text-to-Image Consistency via Automatic Prompt Optimization",
+      "arxiv_id": "2403.17804",
+      "doi": "10.48550/arXiv.2403.17804",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "DreamReward: Text-to-3D Generation with Human Preference",
+      "arxiv_id": "2403.14613",
+      "doi": "10.48550/arXiv.2403.14613",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation",
+      "arxiv_id": "2403.12015",
+      "doi": "10.1145/3680528.3687625",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Human Alignment of Large Language Models through Online Preference Optimisation",
+      "arxiv_id": "2403.08635",
+      "doi": "10.48550/arXiv.2403.08635",
+      "publicationDate": "2024-03-13",
+      "year": 2024
+    },
+    {
+      "title": "ORPO: Monolithic Preference Optimization without Reference Model",
+      "arxiv_id": "2403.07691",
+      "doi": "10.48550/arXiv.2403.07691",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "Controllable Generation With Text-to-Image Diffusion Models: A Survey",
+      "arxiv_id": "2403.04279",
+      "doi": "10.1109/TPAMI.2025.3646548",
+      "publicationDate": "2024-03-07",
+      "year": 2024
+    },
+    {
+      "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+      "arxiv_id": "2403.03206",
+      "doi": "10.48550/arXiv.2403.03206",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences",
+      "arxiv_id": "2403.01857",
+      "doi": "10.48550/arXiv.2403.01857",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "Provably Robust DPO: Aligning Language Models with Noisy Feedback",
+      "arxiv_id": "2403.00409",
+      "doi": "10.48550/arXiv.2403.00409",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models",
+      "arxiv_id": "2402.16359",
+      "doi": "10.48550/arXiv.2402.16359",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control",
+      "arxiv_id": "2402.15194",
+      "doi": "10.48550/arXiv.2402.15194",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "RLVF: Learning from Verbal Feedback without Overgeneralization",
+      "arxiv_id": "2402.10893",
+      "doi": "10.48550/arXiv.2402.10893",
+      "publicationDate": "2024-02-16",
+      "year": 2024
+    },
+    {
+      "title": "Aligning Crowd Feedback via Distributional Preference Reward Modeling",
+      "arxiv_id": "2402.09764",
+      "doi": "10.48550/arXiv.2402.09764",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community",
+      "arxiv_id": "2402.09872",
+      "doi": "10.48550/arXiv.2402.09872",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment",
+      "arxiv_id": "2402.10207",
+      "doi": "10.48550/arXiv.2402.10207",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "MaxMin-RLHF: Alignment with Diverse Human Preferences",
+      "arxiv_id": "2402.08925",
+      "doi": null,
+      "publicationDate": "2024-02-14",
+      "year": 2024
+    },
+    {
+      "title": "A Dense Reward View on Aligning Text-to-Image Diffusion with Preference",
+      "arxiv_id": "2402.08265",
+      "doi": "10.48550/arXiv.2402.08265",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases",
+      "arxiv_id": "2402.08552",
+      "doi": "10.48550/arXiv.2402.08552",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models",
+      "arxiv_id": "2402.08714",
+      "doi": "10.1109/CVPR52733.2024.00709",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "Generalized Preference Optimization: A Unified Approach to Offline Alignment",
+      "arxiv_id": "2402.05749",
+      "doi": "10.48550/arXiv.2402.05749",
+      "publicationDate": "2024-02-08",
+      "year": 2024
+    },
+    {
+      "title": "Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation",
+      "arxiv_id": "2402.05699",
+      "doi": "10.48550/arXiv.2402.05699",
+      "publicationDate": "2024-02-08",
+      "year": 2024
+    },
+    {
+      "title": "Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications",
+      "arxiv_id": "2402.05162",
+      "doi": "10.48550/arXiv.2402.05162",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "Direct Language Model Alignment from Online AI Feedback",
+      "arxiv_id": "2402.04792",
+      "doi": "10.48550/arXiv.2402.04792",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "LiPO: Listwise Preference Optimization through Learning-to-Rank",
+      "arxiv_id": "2402.01878",
+      "doi": "10.48550/arXiv.2402.01878",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "Towards Efficient Exact Optimization of Language Model Alignment",
+      "arxiv_id": "2402.00856",
+      "doi": null,
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Dense Reward for Free in Reinforcement Learning from Human Feedback",
+      "arxiv_id": "2402.00782",
+      "doi": "10.48550/arXiv.2402.00782",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs",
+      "arxiv_id": "2401.11708",
+      "doi": "10.48550/arXiv.2401.11708",
+      "publicationDate": "2024-01-22",
+      "year": 2024
+    },
+    {
+      "title": "Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback",
+      "arxiv_id": "2401.11458",
+      "doi": "10.48550/arXiv.2401.11458",
+      "publicationDate": "2024-01-21",
+      "year": 2024
+    },
+    {
+      "title": "Self-Rewarding Language Models",
+      "arxiv_id": "2401.10020",
+      "doi": "10.48550/arXiv.2401.10020",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity",
+      "arxiv_id": "2401.01967",
+      "doi": "10.48550/arXiv.2401.01967",
+      "publicationDate": "2024-01-03",
+      "year": 2024
+    },
+    {
+      "title": "What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning",
+      "arxiv_id": "2312.15685",
+      "doi": "10.48550/arXiv.2312.15685",
+      "publicationDate": "2023-12-25",
+      "year": 2023
+    },
+    {
+      "title": "InstructVideo: Instructing Video Diffusion Models with Human Feedback",
+      "arxiv_id": "2312.12490",
+      "doi": "10.1109/CVPR52733.2024.00618",
+      "publicationDate": "2023-12-19",
+      "year": 2023
+    },
+    {
+      "title": "Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint",
+      "arxiv_id": "2312.11456",
+      "doi": null,
+      "publicationDate": "2023-12-18",
+      "year": 2023
+    },
+    {
+      "title": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+      "arxiv_id": "2312.09390",
+      "doi": "10.48550/arXiv.2312.09390",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-Grained Correctional Human Feedback",
+      "arxiv_id": "2312.00849",
+      "doi": "10.1109/CVPR52733.2024.01310",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Nash Learning from Human Feedback",
+      "arxiv_id": "2312.00886",
+      "doi": "10.48550/arXiv.2312.00886",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model",
+      "arxiv_id": "2311.13231",
+      "doi": "10.1109/CVPR52733.2024.00854",
+      "publicationDate": "2023-11-22",
+      "year": 2023
+    },
+    {
+      "title": "DRESS : Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback",
+      "arxiv_id": "2311.10081",
+      "doi": "10.1109/CVPR52733.2024.01350",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "Finetuning Text-to-Image Diffusion Models for Fairness",
+      "arxiv_id": "2311.07604",
+      "doi": "10.48550/arXiv.2311.07604",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution",
+      "arxiv_id": "2310.16834",
+      "doi": null,
+      "publicationDate": "2023-10-25",
+      "year": 2023
+    },
+    {
+      "title": "A General Theoretical Paradigm to Understand Learning from Human Preferences",
+      "arxiv_id": "2310.12036",
+      "doi": "10.48550/arXiv.2310.12036",
+      "publicationDate": "2023-10-18",
+      "year": 2023
+    },
+    {
+      "title": "GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment",
+      "arxiv_id": "2310.11513",
+      "doi": "10.48550/arXiv.2310.11513",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+      "arxiv_id": "2310.03693",
+      "doi": "10.48550/arXiv.2310.03693",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Aligning Text-to-Image Diffusion Models with Reward Backpropagation",
+      "arxiv_id": "2310.03739",
+      "doi": "10.48550/arXiv.2310.03739",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model",
+      "arxiv_id": "2310.02054",
+      "doi": "10.48550/arXiv.2310.02054",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback",
+      "arxiv_id": "2310.01377",
+      "doi": null,
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Directly Fine-Tuning Diffusion Models on Differentiable Rewards",
+      "arxiv_id": "2309.17400",
+      "doi": "10.48550/arXiv.2309.17400",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints",
+      "arxiv_id": "2309.16240",
+      "doi": "10.48550/arXiv.2309.16240",
+      "publicationDate": "2023-09-28",
+      "year": 2023
+    },
+    {
+      "title": "Statistical Rejection Sampling Improves Preference Optimization",
+      "arxiv_id": "2309.06657",
+      "doi": "10.48550/arXiv.2309.06657",
+      "publicationDate": "2023-09-13",
+      "year": 2023
+    },
+    {
+      "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+      "arxiv_id": "2309.00267",
+      "doi": null,
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Divide & Bind Your Attention for Improved Generative Semantic Nursing",
+      "arxiv_id": "2307.10864",
+      "doi": "10.48550/arXiv.2307.10864",
+      "publicationDate": "2023-07-20",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+      "arxiv_id": "2307.01952",
+      "doi": null,
+      "publicationDate": "2023-07-04",
+      "year": 2023
+    },
+    {
+      "title": "Preference Ranking Optimization for Human Alignment",
+      "arxiv_id": "2306.17492",
+      "doi": "10.48550/arXiv.2306.17492",
+      "publicationDate": "2023-06-30",
+      "year": 2023
+    },
+    {
+      "title": "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment",
+      "arxiv_id": "2306.08877",
+      "doi": "10.48550/arXiv.2306.08877",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards",
+      "arxiv_id": "2306.04488",
+      "doi": "10.48550/arXiv.2306.04488",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+      "arxiv_id": "2305.18290",
+      "doi": "10.52202/075280-2338",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "Robust Classification via a Single Diffusion Model",
+      "arxiv_id": "2305.15241",
+      "doi": "10.48550/arXiv.2305.15241",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Training Diffusion Models with Reinforcement Learning",
+      "arxiv_id": "2305.13301",
+      "doi": "10.48550/arXiv.2305.13301",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback",
+      "arxiv_id": "2305.14387",
+      "doi": "10.48550/arXiv.2305.14387",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "LIMA: Less Is More for Alignment",
+      "arxiv_id": "2305.11206",
+      "doi": "10.52202/075280-2400",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation",
+      "arxiv_id": "2305.11116",
+      "doi": "10.48550/arXiv.2305.11116",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Common Diffusion Noise Schedules and Sample Steps are Flawed",
+      "arxiv_id": "2305.08891",
+      "doi": "10.1109/WACV57701.2024.00532",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision",
+      "arxiv_id": "2305.03047",
+      "doi": "10.48550/arXiv.2305.03047",
+      "publicationDate": "2023-05-04",
+      "year": 2023
+    },
+    {
+      "title": "Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation",
+      "arxiv_id": "2305.01569",
+      "doi": "10.48550/arXiv.2305.01569",
+      "publicationDate": "2023-05-02",
+      "year": 2023
+    },
+    {
+      "title": "Generating Images of Rare Concepts Using Pre-trained Diffusion Models",
+      "arxiv_id": "2304.14530",
+      "doi": "10.1609/aaai.v38i5.28270",
+      "publicationDate": "2023-04-27",
+      "year": 2023
+    },
+    {
+      "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
+      "arxiv_id": "2304.06767",
+      "doi": "10.48550/arXiv.2304.06767",
+      "publicationDate": "2023-04-13",
+      "year": 2023
+    },
+    {
+      "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation",
+      "arxiv_id": "2304.05977",
+      "doi": "10.48550/arXiv.2304.05977",
+      "publicationDate": "2023-04-12",
+      "year": 2023
+    },
+    {
+      "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+      "arxiv_id": "2304.05302",
+      "doi": "10.48550/arXiv.2304.05302",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "LayoutDiffusion: Controllable Diffusion Model for Layout-to-Image Generation",
+      "arxiv_id": "2303.17189",
+      "doi": "10.1109/CVPR52729.2023.02154",
+      "publicationDate": "2023-03-30",
+      "year": 2023
+    },
+    {
+      "title": "Your Diffusion Model is Secretly a Zero-Shot Classifier",
+      "arxiv_id": "2303.16203",
+      "doi": "10.1109/ICCV51070.2023.00210",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Text-to-Image Diffusion Models are Zero-Shot Classifiers",
+      "arxiv_id": "2303.15233",
+      "doi": "10.48550/arXiv.2303.15233",
+      "publicationDate": "2023-03-27",
+      "year": 2023
+    },
+    {
+      "title": "Human Preference Score: Better Aligning Text-to-image Models with Human Preference",
+      "arxiv_id": "2303.14420",
+      "doi": "10.1109/ICCV51070.2023.00200",
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "HIVE: Harnessing Human Feedback for Instructional Visual Editing",
+      "arxiv_id": "2303.09618",
+      "doi": "10.1109/CVPR52733.2024.00862",
+      "publicationDate": "2023-03-16",
+      "year": 2023
+    },
+    {
+      "title": "Aligning Text-to-Image Models using Human Feedback",
+      "arxiv_id": "2302.12192",
+      "doi": "10.48550/arXiv.2302.12192",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions",
+      "arxiv_id": "2302.09466",
+      "doi": "10.1145/3544548.3581402",
+      "publicationDate": "2023-02-19",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application",
+      "arxiv_id": "2302.00487",
+      "doi": "10.1109/TPAMI.2024.3367329",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models",
+      "arxiv_id": "2301.13826",
+      "doi": "10.1145/3592116",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models",
+      "arxiv_id": "2301.12661",
+      "doi": "10.48550/arXiv.2301.12661",
+      "publicationDate": "2023-01-30",
+      "year": 2023
+    },
+    {
+      "title": "Human Image Generation: A Comprehensive Survey",
+      "arxiv_id": "2212.08896",
+      "doi": "10.1145/3665869",
+      "publicationDate": "2022-12-17",
+      "year": 2022
+    },
+    {
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "arxiv_id": "2212.08073",
+      "doi": "10.48550/arXiv.2212.08073",
+      "publicationDate": "2022-12-15",
+      "year": 2022
+    },
+    {
+      "title": "Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark",
+      "arxiv_id": "2211.12112",
+      "doi": "10.48550/arXiv.2211.12112",
+      "publicationDate": "2022-11-22",
+      "year": 2022
+    },
+    {
+      "title": "Large Language Models Are Human-Level Prompt Engineers",
+      "arxiv_id": "2211.01910",
+      "doi": "10.48550/arXiv.2211.01910",
+      "publicationDate": "2022-11-03",
+      "year": 2022
+    },
+    {
+      "title": "DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models",
+      "arxiv_id": "2210.14896",
+      "doi": "10.48550/arXiv.2210.14896",
+      "publicationDate": "2022-10-26",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Deep Generative 3D-aware Image Synthesis",
+      "arxiv_id": "2210.14267",
+      "doi": "10.1145/3626193",
+      "publicationDate": "2022-10-25",
+      "year": 2022
+    },
+    {
+      "title": "Scaling Laws for Reward Model Overoptimization",
+      "arxiv_id": "2210.10760",
+      "doi": null,
+      "publicationDate": "2022-10-19",
+      "year": 2022
+    },
+    {
+      "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+      "arxiv_id": "2210.08402",
+      "doi": "10.48550/arXiv.2210.08402",
+      "publicationDate": "2022-10-16",
+      "year": 2022
+    },
+    {
+      "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+      "arxiv_id": "2210.02303",
+      "doi": "10.48550/arXiv.2210.02303",
+      "publicationDate": "2022-10-05",
+      "year": 2022
+    },
+    {
+      "title": "Improving Sample Quality of Diffusion Models Using Self-Attention Guidance",
+      "arxiv_id": "2210.00939",
+      "doi": "10.1109/ICCV51070.2023.00686",
+      "publicationDate": "2022-10-03",
+      "year": 2022
+    },
+    {
+      "title": "PaLI: A Jointly-Scaled Multilingual Language-Image Model",
+      "arxiv_id": "2209.06794",
+      "doi": "10.48550/arXiv.2209.06794",
+      "publicationDate": "2022-09-14",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Generative Diffusion Models",
+      "arxiv_id": "2209.02646",
+      "doi": "10.1109/TKDE.2024.3361474",
+      "publicationDate": "2022-09-06",
+      "year": 2022
+    },
+    {
+      "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+      "arxiv_id": "2208.01626",
+      "doi": "10.48550/arXiv.2208.01626",
+      "publicationDate": "2022-08-02",
+      "year": 2022
+    },
+    {
+      "title": "Controllable Data Generation by Deep Learning: A Review",
+      "arxiv_id": "2207.09542",
+      "doi": "10.1145/3648609",
+      "publicationDate": "2022-07-19",
+      "year": 2022
+    },
+    {
+      "title": "Offline RL for Natural Language Generation with Implicit Language Q Learning",
+      "arxiv_id": "2206.11871",
+      "doi": "10.48550/arXiv.2206.11871",
+      "publicationDate": "2022-06-05",
+      "year": 2022
+    },
+    {
+      "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+      "arxiv_id": "2205.11487",
+      "doi": "10.48550/arXiv.2205.11487",
+      "publicationDate": "2022-05-23",
+      "year": 2022
+    },
+    {
+      "title": "Dataset Pruning: Reducing Training Data by Examining Generalization Influence",
+      "arxiv_id": "2205.09329",
+      "doi": "10.48550/arXiv.2205.09329",
+      "publicationDate": "2022-05-19",
+      "year": 2022
+    },
+    {
+      "title": "GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation",
+      "arxiv_id": "2203.02923",
+      "doi": "10.48550/arXiv.2203.02923",
+      "publicationDate": "2022-03-06",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "DALL-EVAL: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models",
+      "arxiv_id": "2202.04053",
+      "doi": "10.1109/ICCV51070.2023.00283",
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+      "arxiv_id": "2112.10741",
+      "doi": null,
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "WebGPT: Browser-assisted question-answering with human feedback",
+      "arxiv_id": "2112.09332",
+      "doi": null,
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "A General Language Assistant as a Laboratory for Alignment",
+      "arxiv_id": "2112.00861",
+      "doi": null,
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "Design Guidelines for Prompt Engineering Text-to-Image Generative Models",
+      "arxiv_id": "2109.06977",
+      "doi": "10.1145/3491102.3501825",
+      "publicationDate": "2021-09-14",
+      "year": 2021
+    },
+    {
+      "title": "Generative Adversarial Networks",
+      "arxiv_id": "2203.00667",
+      "doi": "10.1109/ICCCNT56998.2023.10306417",
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "Towards Out-Of-Distribution Generalization: A Survey",
+      "arxiv_id": "2108.13624",
+      "doi": null,
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Efficient (Soft) Q-Learning for Text Generation with Limited Good Data",
+      "arxiv_id": "2106.07704",
+      "doi": "10.18653/v1/2022.findings-emnlp.518",
+      "publicationDate": "2021-06-14",
+      "year": 2021
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis",
+      "arxiv_id": "2105.05233",
+      "doi": null,
+      "publicationDate": "2021-05-11",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Improved Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2102.09672",
+      "doi": null,
+      "publicationDate": "2021-02-18",
+      "year": 2021
+    },
+    {
+      "title": "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm",
+      "arxiv_id": "2102.07350",
+      "doi": "10.1145/3411763.3451760",
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+      "arxiv_id": "2011.13456",
+      "doi": null,
+      "publicationDate": "2020-11-26",
+      "year": 2020
+    },
+    {
+      "title": "Video Generative Adversarial Networks: A Review",
+      "arxiv_id": "2011.02250",
+      "doi": "10.1145/3487891",
+      "publicationDate": "2020-11-04",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Implicit Models",
+      "arxiv_id": "2010.02502",
+      "doi": null,
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+      "arxiv_id": "2009.09761",
+      "doi": null,
+      "publicationDate": "2020-09-21",
+      "year": 2020
+    },
+    {
+      "title": "Learning to summarize from human feedback",
+      "arxiv_id": "2009.01325",
+      "doi": null,
+      "publicationDate": "2020-09-02",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2006.11239",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "Accelerating Online Reinforcement Learning with Offline Datasets",
+      "arxiv_id": "2006.09359",
+      "doi": null,
+      "publicationDate": "2020-06-16",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Generative Adversarial Networks: Variants, Applications, and Training",
+      "arxiv_id": "2006.05132",
+      "doi": "10.1145/3463475",
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model",
+      "arxiv_id": "2006.05067",
+      "doi": null,
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO",
+      "arxiv_id": "2005.12729",
+      "doi": null,
+      "publicationDate": "2020-05-25",
+      "year": 2020
+    },
+    {
+      "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+      "arxiv_id": "2005.01643",
+      "doi": null,
+      "publicationDate": "2020-05-04",
+      "year": 2020
+    },
+    {
+      "title": "Distributionally Robust Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-04-30",
+      "year": 2020
+    },
+    {
+      "title": "Implementation Matters in Deep RL: A Case Study on PPO and TRPO",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-04-30",
+      "year": 2020
+    },
+    {
+      "title": "Decision-Making with Auto-Encoding Variational Bayes",
+      "arxiv_id": "2002.07217",
+      "doi": null,
+      "publicationDate": "2020-02-17",
+      "year": 2020
+    },
+    {
+      "title": "A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-02-10",
+      "year": 2020
+    },
+    {
+      "title": "On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Stochastic Gradient and Langevin Processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-07-07",
+      "year": 2019
+    },
+    {
+      "title": "Invariant Risk Minimization",
+      "arxiv_id": "1907.02893",
+      "doi": null,
+      "publicationDate": "2019-07-05",
+      "year": 2019
+    },
+    {
+      "title": "Monte Carlo Gradient Estimation in Machine Learning",
+      "arxiv_id": "1906.10652",
+      "doi": null,
+      "publicationDate": "2019-06-25",
+      "year": 2019
+    },
+    {
+      "title": "Deep Reinforcement Learning for Multiobjective Optimization",
+      "arxiv_id": "1906.02386",
+      "doi": "10.1109/TCYB.2020.2977661",
+      "publicationDate": "2019-06-06",
+      "year": 2019
+    },
+    {
+      "title": "Certifying Some Distributional Robustness with Principled Adversarial Training",
+      "arxiv_id": "1710.10571",
+      "doi": null,
+      "publicationDate": "2017-10-29",
+      "year": 2017
+    },
+    {
+      "title": "Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization",
+      "arxiv_id": "1707.06618",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-06-26",
+      "year": 2017
+    },
+    {
+      "title": "Deep Reinforcement Learning from Human Preferences",
+      "arxiv_id": "1706.03741",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+      "arxiv_id": "1703.04977",
+      "doi": null,
+      "publicationDate": "2017-03-15",
+      "year": 2017
+    },
+    {
+      "title": "Understanding Black-box Predictions via Influence Functions",
+      "arxiv_id": "1703.04730",
+      "doi": null,
+      "publicationDate": "2017-03-14",
+      "year": 2017
+    },
+    {
+      "title": "Improved Techniques for Training GANs",
+      "arxiv_id": "1606.03498",
+      "doi": null,
+      "publicationDate": "2016-06-10",
+      "year": 2016
+    },
+    {
+      "title": "Training Deep Nets with Sublinear Memory Cost",
+      "arxiv_id": "1604.06174",
+      "doi": null,
+      "publicationDate": "2016-04-21",
+      "year": 2016
+    },
+    {
+      "title": "What Do Different Evaluation Metrics Tell Us About Saliency Models?",
+      "arxiv_id": "1604.03605",
+      "doi": "10.1109/TPAMI.2018.2815601",
+      "publicationDate": "2016-04-12",
+      "year": 2016
+    },
+    {
+      "title": "Rethinking the Inception Architecture for Computer Vision",
+      "arxiv_id": "1512.00567",
+      "doi": "10.1109/CVPR.2016.308",
+      "publicationDate": "2015-12-02",
+      "year": 2015
+    },
+    {
+      "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+      "arxiv_id": "1506.02142",
+      "doi": null,
+      "publicationDate": "2015-06-06",
+      "year": 2015
+    },
+    {
+      "title": "Microsoft COCO Captions: Data Collection and Evaluation Server",
+      "arxiv_id": "1504.00325",
+      "doi": null,
+      "publicationDate": "2015-04-01",
+      "year": 2015
+    },
+    {
+      "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+      "arxiv_id": "1503.03585",
+      "doi": null,
+      "publicationDate": "2015-03-11",
+      "year": 2015
+    },
+    {
+      "title": "Generative Adversarial Nets",
+      "arxiv_id": "1406.2661",
+      "doi": null,
+      "publicationDate": "2014-06-10",
+      "year": 2014
+    },
+    {
+      "title": "Microsoft COCO: Common Objects in Context",
+      "arxiv_id": "1405.0312",
+      "doi": "10.1007/978-3-319-10602-1_48",
+      "publicationDate": "2014-05-01",
+      "year": 2014
+    },
+    {
+      "title": "Listwise approach to learning to rank: theory and algorithm",
+      "arxiv_id": null,
+      "doi": "10.1145/1390156.1390306",
+      "publicationDate": "2008-07-05",
+      "year": 2008
+    },
+    {
+      "title": "Variational Inference for Diffusion Processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-12-03",
+      "year": 2007
+    },
+    {
+      "title": "The chemical Langevin equation",
+      "arxiv_id": null,
+      "doi": "10.1063/1.481811",
+      "publicationDate": "2000-06-21",
+      "year": 2000
+    },
+    {
+      "title": "Advances in prospect theory: Cumulative representation of uncertainty",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00122574",
+      "publicationDate": "1992-10-01",
+      "year": 1992
+    },
+    {
+      "title": "The Analysis of Permutations",
+      "arxiv_id": null,
+      "doi": "10.2307/2346567",
+      "publicationDate": "1975-06-01",
+      "year": 1975
+    },
+    {
+      "title": "RANK ANALYSIS OF INCOMPLETE BLOCK DESIGNS THE METHOD OF PAIRED COMPARISONS",
+      "arxiv_id": null,
+      "doi": "10.1093/BIOMET/39.3-4.324",
+      "publicationDate": "1952-12-01",
+      "year": 1952
+    },
+    {
+      "title": "Diffusion Equation and Stochastic Processes.",
+      "arxiv_id": null,
+      "doi": "10.1073/PNAS.35.7.368",
+      "publicationDate": "1949-07-01",
+      "year": 1949
+    },
+    {
+      "title": "PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DSPO: Direct Score Preference Optimization for Diffusion Model Alignment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Model Alignment as Prospect Theoretic Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Multimodal Large Language Models Make Text-to-Image Generative Models Align Better",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-2584",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Evaluating Text-to-Image Synthesis: Survey and Taxonomy of Image Quality Metrics",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2403.11821",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Aligning Large Language Models with Human: A Survey",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2307.12966",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Visual Programming for Step-by-Step Text-to-Image Generation and Evaluation",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0265",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Defining and Characterizing Reward Gaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Autoprompt: Eliciting knowledge from language models with automatically generated prompts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Asurveyoflabel-noiserepresentation learning: Past, present and future",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "A brief introduction to weakly supervised learning",
+      "arxiv_id": null,
+      "doi": "10.1093/NSR/NWX106",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1022672621406",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Langevin Equation and Thermodynamics",
+      "arxiv_id": null,
+      "doi": "10.1143/PTPS.130.17",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "Reinforcement Learning: An Introduction",
+      "arxiv_id": null,
+      "doi": "10.1109/TNN.1998.712192",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "The rating of chessplayers, past and present",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1978
+    },
+    {
+      "title": "Individual Choice Behavior",
+      "arxiv_id": null,
+      "doi": "10.2307/1911299",
+      "publicationDate": null,
+      "year": 1959
+    },
+    {
+      "title": "Improving Image Generation with Better Captions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Chain-of-thought prompting elicits reasoning in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Classifier-free diffusion guidance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Elucidating the design space of diffusion-based generative models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. AI-based affective music generation systems: A review of methods and challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Machine learning from weak supervision: An empirical risk minimization approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feed-back",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Synthetic Shifts to Initial Seed Vector Exposes the Brittle Nature of Latent-Based Diffusion Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": ") Security Vulnerabilities: The reliance on a reward model introduces a new attack surface. Recent work has demonstrated a “clean-label” poisoning attack, termed BadReward, where",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. CHATS: Combining human-aligned optimization and test-time sampling for text-to-image generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Semantic-Driven Initial Image Construction for Guided Image Synthesis in Diffusion Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Safety alignment backfires: Preventing the re-emergence of suppressed concepts in fine-tuned text-to-image diffusion models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Channel-wise Influence: Estimating Data Influence for Multivariate Time Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "[ Received 15 September 2024; revised 18 January 2026; accepted 4 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Creativity and machine learning: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Training-free structured diffusion guidance for compositional text-to-image synthesis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. TheAlignmentProblemfromaDeepLearningPerspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Alignment of Diffusion Models: Fundamentals, Challenges, and Future • 27",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Good seed makes a good crop: Discovering secret seeds in text-to-image diffusion models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Visual instruction tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Self-alignment with instruction backtranslation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Blip:Bootstrappinglanguage-imagepre-trainingforunifiedvision-language understanding and generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Diffusion models: A comprehensive survey of methods and applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,1051 @@
+{
+  "candidate": {
+    "topic": "Survey on Learning-based Dynamic Fault Localization",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3787202",
+      "title": "Survey on Learning-based Dynamic Fault Localization: From Traditional Machine Learning to Large Language Models",
+      "published": "2026-02-12"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:34+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 145,
+    "arxiv_resolvable": 27,
+    "doi_only": 99,
+    "unresolved": 19
+  },
+  "gt_s2": {
+    "paperId": "a6365e44dde6758374fbd9b3b86953e98aec0206",
+    "externalIds": {
+      "DBLP": "journals/csur/LiuLXWYL26",
+      "DOI": "10.1145/3787202",
+      "CorpusId": 284977115
+    },
+    "title": "Survey on Learning-based Dynamic Fault Localization: From Traditional Machine Learning to Large Language Models",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 145,
+    "publicationDate": "2026-01-24"
+  },
+  "refs": [
+    {
+      "title": "MetaMFL: Metamorphic Multiple Fault Localization Without Test Oracles",
+      "arxiv_id": null,
+      "doi": "10.1109/TR.2024.3504400",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Improving the performance of software fault localization with effective coverage data reduction techniques",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2025.112388",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Test Case Generation Techniques for Fault Root Cause Localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3712335.3712357",
+      "publicationDate": "2024-12-22",
+      "year": 2024
+    },
+    {
+      "title": "Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar",
+      "arxiv_id": "2412.08109",
+      "doi": "10.48550/arXiv.2412.08109",
+      "publicationDate": "2024-12-11",
+      "year": 2024
+    },
+    {
+      "title": "Towards More Precise Coincidental Correctness Detection With Deep Semantic Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3481893",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Context-based Transfer Learning for Structuring Fault Localization and Program Repair Automation",
+      "arxiv_id": null,
+      "doi": "10.1145/3705302",
+      "publicationDate": "2024-11-21",
+      "year": 2024
+    },
+    {
+      "title": "HetFL: Heterogeneous Graph-Based Software Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3454605",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection",
+      "arxiv_id": null,
+      "doi": "10.1145/3691620.3695542",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "ZigZagFuzz: Interleaved Fuzzing of Program Options and Files",
+      "arxiv_id": null,
+      "doi": "10.1145/3697014",
+      "publicationDate": "2024-09-26",
+      "year": 2024
+    },
+    {
+      "title": "DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3",
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3652116",
+      "publicationDate": "2024-09-11",
+      "year": 2024
+    },
+    {
+      "title": "Impact of Large Language Models of Code on Fault Localization",
+      "arxiv_id": "2408.09657",
+      "doi": "10.1109/ICST62969.2025.10989036",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "GBSR: Graph-based suspiciousness refinement for improving fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112189",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Neural-MBFL: Improving Mutation-Based Fault Localization by Neural Mutation",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC61105.2024.00168",
+      "publicationDate": "2024-07-02",
+      "year": 2024
+    },
+    {
+      "title": "FusionFL: A Statement-Level Feature Fusion Based Fault Localization Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST60714.2024.00013",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation",
+      "arxiv_id": "2404.04496",
+      "doi": "10.1145/3660793",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead",
+      "arxiv_id": "2404.02525",
+      "doi": "10.1145/3708522",
+      "publicationDate": "2024-04-03",
+      "year": 2024
+    },
+    {
+      "title": "A deep semantics-aware data augmentation method for fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2024.107409",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "MTL-TRANSFER: Leveraging Multi-task Learning and Transferred Knowledge for Improving Fault Localization and Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3654441",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "AgentFL: Scaling LLM-based Fault Localization to Project-Level Context",
+      "arxiv_id": "2403.16362",
+      "doi": "10.48550/arXiv.2403.16362",
+      "publicationDate": "2024-03-25",
+      "year": 2024
+    },
+    {
+      "title": "Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization",
+      "arxiv_id": "2403.10507",
+      "doi": "10.48550/arXiv.2403.10507",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "On the Stability and Applicability of Deep Learning in Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER60148.2024.00062",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?",
+      "arxiv_id": "2310.09810",
+      "doi": "10.1109/APSEC60848.2023.00085",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "Improving fault localization via weighted execution graph and graph attention network",
+      "arxiv_id": null,
+      "doi": "10.1002/smr.2619",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "GMBFL: Optimizing Mutation-Based Fault Localization via Graph Representation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME58846.2023.00033",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization",
+      "arxiv_id": "2308.05487",
+      "doi": "10.1145/3660771",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues",
+      "arxiv_id": "2307.12596",
+      "doi": "10.1145/3643674",
+      "publicationDate": "2023-07-24",
+      "year": 2023
+    },
+    {
+      "title": "An effective fault localization approach based on PageRank and mutation analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2023.111799",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Learning Test-Mutant Relationship for Accurate Fault Localisation",
+      "arxiv_id": "2306.02319",
+      "doi": "10.48550/arXiv.2306.02319",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "Investigating Code Generation Performance of ChatGPT with Crowdsourcing Social Data",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC57700.2023.00117",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "GNet4FL: effective fault localization via graph convolutional neural network",
+      "arxiv_id": null,
+      "doi": "10.1007/s10515-023-00383-z",
+      "publicationDate": "2023-04-24",
+      "year": 2023
+    },
+    {
+      "title": "NeuralCCD: Integrating Multiple Features for Neural Coincidental Correctness Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER56733.2023.00018",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "MetaFL: Metamorphic fault localisation using weakly supervised deep learning",
+      "arxiv_id": null,
+      "doi": "10.1049/sfw2.12102",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "A light-weight data augmentation method for fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2023.107148",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "A coincidental correctness test case identification framework with fuzzy C-means clustering",
+      "arxiv_id": null,
+      "doi": "10.1007/s00530-022-01039-w",
+      "publicationDate": "2022-12-24",
+      "year": 2022
+    },
+    {
+      "title": "Fault localization to detect co-change fixing locations",
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549137",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "FFL: Fine-grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME55016.2022.00022",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Automatically Recommend Code Updates: Are We There Yet?",
+      "arxiv_id": "2209.07048",
+      "doi": "10.1145/3678167",
+      "publicationDate": "2022-09-15",
+      "year": 2022
+    },
+    {
+      "title": "Factuality Enhanced Language Models for Open-Ended Text Generation",
+      "arxiv_id": "2206.04624",
+      "doi": "10.48550/arXiv.2206.04624",
+      "publicationDate": "2022-06-09",
+      "year": 2022
+    },
+    {
+      "title": "Context-based Cluster Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3524610.3527891",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "A Universal Data Augmentation Approach for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510136",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "DEAR: A Novel Deep Learning-based Approach for Automated Program Repair",
+      "arxiv_id": "2205.01859",
+      "doi": "10.1145/3510003.3510177",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Improving Fault Localization and Program Repair with Deep Semantic Features and Transferred Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510147",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "BCL-FL: A Data Augmentation Approach with Between-Class Learning for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/saner53432.2022.00045",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models",
+      "arxiv_id": "2201.05337",
+      "doi": "10.1145/3617680",
+      "publicationDate": "2022-01-14",
+      "year": 2022
+    },
+    {
+      "title": "AGFL: A Graph Convolutional Neural Network-Based Method for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/QRS54544.2021.00077",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "ALBFL: A novel neural ranking model for software fault localization via combining static and dynamic features",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INFSOF.2021.106653",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Boosting coverage-based fault localization via graph-based representation learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3468264.3468580",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study of Boosting Spectrum-Based Fault Localization via PageRank",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2019.2911283",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Spectrum-based multi-fault localization using Chaotic Genetic Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2021.106512",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering",
+      "arxiv_id": "2104.06378",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.45",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "A study of effectiveness of deep learning in locating real faults",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2020.106486",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Fault Localization with Code Coverage Representation Learning",
+      "arxiv_id": "2103.00270",
+      "doi": "10.1109/ICSE43902.2021.00067",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "Improving Fault Localization by Integrating Value and Predicate Based Causal Inference Techniques",
+      "arxiv_id": "2102.06292",
+      "doi": "10.1109/ICSE43902.2021.00066",
+      "publicationDate": "2021-02-11",
+      "year": 2021
+    },
+    {
+      "title": "A Test Restoration Method based on Genetic Algorithm for effective fault localization in multiple-fault programs",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2020.110861",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "A Lightweight Fault Localization Approach based on XGBoost",
+      "arxiv_id": null,
+      "doi": "10.1109/QRS51102.2020.00033",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "ALBFL: A Novel Neural Ranking Model for Software Fault Localization via Combining Static and Dynamic Features",
+      "arxiv_id": null,
+      "doi": "10.1109/TrustCom50675.2020.00107",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "CounterFault: Value-Based Fault Localization by Modeling and Predicting Counterfactual Outcomes",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME46990.2020.00044",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Improving deep‐learning‐based fault localization with resampling",
+      "arxiv_id": null,
+      "doi": "10.1002/smr.2312",
+      "publicationDate": "2020-08-26",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for NLP and Speech Recognition",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-14596-5",
+      "publicationDate": "2020-08-14",
+      "year": 2020
+    },
+    {
+      "title": "Multiple fault localization of software programs: A systematic literature review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2020.106312",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Ensemble Random Forests Classifier for Detecting Coincidentally Correct Test Cases",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC48688.2020.00-72",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Detection of Coincidentally Correct Test Cases through Random Forests",
+      "arxiv_id": "2006.08605",
+      "doi": null,
+      "publicationDate": "2020-06-14",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",
+      "arxiv_id": "2002.00388",
+      "doi": "10.1109/TNNLS.2021.3070843",
+      "publicationDate": "2020-02-02",
+      "year": 2020
+    },
+    {
+      "title": "ABFL: An autoencoder based practical approach for software fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2019.08.077",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Historical Spectrum Based Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2019.2948158",
+      "publicationDate": "2019-10-17",
+      "year": 2019
+    },
+    {
+      "title": "Precise Learn-to-Rank Fault Localization Using Dynamic and Static Features of Target Programs",
+      "arxiv_id": null,
+      "doi": "10.1145/3345628",
+      "publicationDate": "2019-10-09",
+      "year": 2019
+    },
+    {
+      "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+      "arxiv_id": "1912.02164",
+      "doi": null,
+      "publicationDate": "2019-09-25",
+      "year": 2019
+    },
+    {
+      "title": "Empirical Evaluation of Fault Localisation Using Code and Change Metrics",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2019.2930977",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3293882.3330574",
+      "publicationDate": "2019-07-10",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for Hyperspectral Image Classification: An Overview",
+      "arxiv_id": "1910.12861",
+      "doi": "10.1109/TGRS.2019.2907932",
+      "publicationDate": "2019-04-23",
+      "year": 2019
+    },
+    {
+      "title": "Text Classification Algorithms: A Survey",
+      "arxiv_id": "1904.08067",
+      "doi": "10.3390/info10040150",
+      "publicationDate": "2019-04-17",
+      "year": 2019
+    },
+    {
+      "title": "CNN-FL: An Effective Approach for Localizing Faults using Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER.2019.8668002",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Data augmentation for improving deep learning in image classification problem",
+      "arxiv_id": null,
+      "doi": "10.1109/IIPHDW.2018.8388338",
+      "publicationDate": "2018-05-09",
+      "year": 2018
+    },
+    {
+      "title": "Localizing multiple software faults based on evolution algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2018.02.001",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Exploring the usefulness of unlabelled test cases in software fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2017.07.027",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "The Bayesian Network based program dependence graph and its application to fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2017.08.025",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "Test Oracle Prediction for Mutation Based Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-15-0310-8_2",
+      "publicationDate": "2017-11-04",
+      "year": 2017
+    },
+    {
+      "title": "Transforming programs and tests in tandem for fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3133916",
+      "publicationDate": "2017-10-12",
+      "year": 2017
+    },
+    {
+      "title": "Satellite Image Classification with Deep Learning",
+      "arxiv_id": "2010.06497",
+      "doi": "10.1109/AIPR.2017.8457969",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "The Software Bug",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-28",
+      "year": 2017
+    },
+    {
+      "title": "Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities",
+      "arxiv_id": "1707.04742",
+      "doi": "10.1109/SANER.2019.8668043",
+      "publicationDate": "2017-07-15",
+      "year": 2017
+    },
+    {
+      "title": "Boosting spectrum-based fault localization using PageRank",
+      "arxiv_id": null,
+      "doi": "10.1145/3092703.3092731",
+      "publicationDate": "2017-07-10",
+      "year": 2017
+    },
+    {
+      "title": "FLUCCS: using code and change metrics to improve fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/3092703.3092717",
+      "publicationDate": "2017-07-10",
+      "year": 2017
+    },
+    {
+      "title": "Deep Learning for Environmentally Robust Speech Recognition",
+      "arxiv_id": "1705.10874",
+      "doi": "10.1145/3178115",
+      "publicationDate": "2017-05-30",
+      "year": 2017
+    },
+    {
+      "title": "Evaluating and Improving Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2017.62",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Deep Learning applied to NLP",
+      "arxiv_id": "1703.03091",
+      "doi": null,
+      "publicationDate": "2017-03-09",
+      "year": 2017
+    },
+    {
+      "title": "DeepFix: Fixing Common C Language Errors by Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v31i1.10742",
+      "publicationDate": "2017-02-12",
+      "year": 2017
+    },
+    {
+      "title": "Identify Coincidental Correct Test Cases Based on Fuzzy Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/SATE.2016.19",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "Prutor: A System for Tutoring CS1 and Collecting Student Programs for Analysis",
+      "arxiv_id": "1608.03828",
+      "doi": null,
+      "publicationDate": "2016-08-12",
+      "year": 2016
+    },
+    {
+      "title": "A Survey on Software Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2016.2521368",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "Practitioners' expectations on automated fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/2931037.2931051",
+      "publicationDate": "2016-07-18",
+      "year": 2016
+    },
+    {
+      "title": "A learning-to-rank based fault localization approach using likely invariants",
+      "arxiv_id": null,
+      "doi": "10.1145/2931037.2931049",
+      "publicationDate": "2016-07-18",
+      "year": 2016
+    },
+    {
+      "title": "Metallaxis‐FL: mutation‐based fault localization",
+      "arxiv_id": null,
+      "doi": "10.1002/stvr.1509",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "Regression Identification of Coincidental Correctness via Weighted Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2015.33",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Sentiment Analysis: Mining Opinions, Sentiments, and Emotions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "The Oracle Problem in Software Testing: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2014.2372785",
+      "publicationDate": "2015-05-01",
+      "year": 2015
+    },
+    {
+      "title": "Learning to Combine Multiple Ranking Metrics for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME.2014.41",
+      "publicationDate": "2014-09-29",
+      "year": 2014
+    },
+    {
+      "title": "Ensemble deep learning for speech recognition",
+      "arxiv_id": null,
+      "doi": "10.21437/Interspeech.2014-433",
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Alleviating the Impact of Coincidental Correctness on the Effectiveness of SFL by Clustering Test Cases",
+      "arxiv_id": null,
+      "doi": "10.1109/TASE.2014.16",
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Ask the Mutants: Mutating Faulty Programs for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST.2014.28",
+      "publicationDate": "2014-03-31",
+      "year": 2014
+    },
+    {
+      "title": "Concurrency bug localization using shared memory access pairs",
+      "arxiv_id": null,
+      "doi": "10.1145/2555243.2555276",
+      "publicationDate": "2014-02-06",
+      "year": 2014
+    },
+    {
+      "title": "Prevalence of coincidental correctness and mitigation of its impact on fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/2559932",
+      "publicationDate": "2014-02-01",
+      "year": 2014
+    },
+    {
+      "title": "Translating Embeddings for Modeling Multi-relational Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "Spectrum-Based Fault Localization for Diagnosing Concurrency Faults",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-41707-8_16",
+      "publicationDate": "2013-11-13",
+      "year": 2013
+    },
+    {
+      "title": "An empirical study on clustering for isolating bugs in fault localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSREW.2013.6688893",
+      "publicationDate": "2013-11-01",
+      "year": 2013
+    },
+    {
+      "title": "Threats to the validity and value of empirical assessments of the accuracy of coverage-based fault locators",
+      "arxiv_id": null,
+      "doi": "10.1145/2483760.2483767",
+      "publicationDate": "2013-07-15",
+      "year": 2013
+    },
+    {
+      "title": "Deep Learning for NLP (without Magic)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-06-01",
+      "year": 2013
+    },
+    {
+      "title": "Effective Software Fault Localization Using an RBF Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TR.2011.2172031",
+      "publicationDate": "2012-03-01",
+      "year": 2012
+    },
+    {
+      "title": "A model for spectra-based software diagnosis",
+      "arxiv_id": null,
+      "doi": "10.1145/2000791.2000795",
+      "publicationDate": "2011-08-01",
+      "year": 2011
+    },
+    {
+      "title": "Directed test generation for effective fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/1831708.1831715",
+      "publicationDate": "2010-07-12",
+      "year": 2010
+    },
+    {
+      "title": "Fault localization based on information flow coverage",
+      "arxiv_id": null,
+      "doi": "10.1002/stvr.409",
+      "publicationDate": "2010-06-01",
+      "year": 2010
+    },
+    {
+      "title": "Fault localization through evaluation sequences",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2009.09.041",
+      "publicationDate": "2010-02-01",
+      "year": 2010
+    },
+    {
+      "title": "A practical evaluation of spectrum-based fault localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2009.06.035",
+      "publicationDate": "2009-11-01",
+      "year": 2009
+    },
+    {
+      "title": "Spectrum-Based Multiple Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2009.25",
+      "publicationDate": "2009-11-01",
+      "year": 2009
+    },
+    {
+      "title": "Meta-analysis for Atomicity Violations under Nested Locking",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-02658-4_21",
+      "publicationDate": "2009-06-23",
+      "year": 2009
+    },
+    {
+      "title": "An empirical study of the factors that reduce the effectiveness of coverage-based fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/1555860.1555862",
+      "publicationDate": "2009-06-19",
+      "year": 2009
+    },
+    {
+      "title": "Bp Neural Network-Based Effective Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1142/S021819400900426X",
+      "publicationDate": "2009-06-01",
+      "year": 2009
+    },
+    {
+      "title": "CTrigger: exposing atomicity violation bugs from their hiding places",
+      "arxiv_id": null,
+      "doi": "10.1145/1508244.1508249",
+      "publicationDate": "2009-03-01",
+      "year": 2009
+    },
+    {
+      "title": "The Probabilistic Program Dependence Graph and Its Application to Fault Diagnosis",
+      "arxiv_id": null,
+      "doi": "10.1145/1390630.1390654",
+      "publicationDate": "2008-07-20",
+      "year": 2008
+    },
+    {
+      "title": "Velodrome: a sound and complete dynamic atomicity checker for multithreaded programs",
+      "arxiv_id": null,
+      "doi": "10.1145/1375581.1375618",
+      "publicationDate": "2008-06-07",
+      "year": 2008
+    },
+    {
+      "title": "Effective Fault Localization using BP Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-12-01",
+      "year": 2007
+    },
+    {
+      "title": "On the Accuracy of Spectrum-based Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/TAIC.PART.2007.13",
+      "publicationDate": "2007-09-10",
+      "year": 2007
+    },
+    {
+      "title": "An Evaluation of Similarity Coefficients for Software Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/PRDC.2006.18",
+      "publicationDate": "2006-12-18",
+      "year": 2006
+    },
+    {
+      "title": "Empirical evaluation of the tarantula automatic fault-localization technique",
+      "arxiv_id": null,
+      "doi": "10.1145/1101908.1101949",
+      "publicationDate": "2005-11-07",
+      "year": 2005
+    },
+    {
+      "title": "Scaling model checking of dataraces using dynamic information",
+      "arxiv_id": null,
+      "doi": "10.1145/1065944.1065958",
+      "publicationDate": "2005-06-15",
+      "year": 2005
+    },
+    {
+      "title": "Exploiting purity for atomicity",
+      "arxiv_id": null,
+      "doi": "10.1145/1007512.1007543",
+      "publicationDate": "2004-07-11",
+      "year": 2004
+    },
+    {
+      "title": "Atomizer: a dynamic atomicity checker for multithreaded programs",
+      "arxiv_id": null,
+      "doi": "10.1145/964001.964023",
+      "publicationDate": "2004-01-01",
+      "year": 2004
+    },
+    {
+      "title": "Visualization of test information to assist fault localization",
+      "arxiv_id": null,
+      "doi": "10.1145/581396.581397",
+      "publicationDate": "2002-05-19",
+      "year": 2002
+    },
+    {
+      "title": "Two notions of correctness and their relation to testing",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00625279",
+      "publicationDate": "1982-03-01",
+      "year": 1982
+    },
+    {
+      "title": "Boeing 737 MAX",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A Light-Weight Data Augmentation Method for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4182106",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "An empirical localization families and their combinations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Bayesian Network Based Program Dependence Graph for Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSREW.2016.35",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A Survey on Fault Localization Techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Identifyingrelevantstudiesinsoftwareengineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "2023. Mitigating the effect of class imbalance in fault localization using context-aware generative adversarial network",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "study of fault –347",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Towards expert-level medical question answering with large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Survey on LDFL: from Traditional ML to Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. FlexFL: Flexible and effective fault localization with open-source large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Codeforces: The only programming contests web 2.0 platform",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Enhancing fault localization in industrial software systems via contrastive learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Automated program repair in the era of large pre-trained language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. XAI4FL: Enhancing spectrum-based fault localization with explainable artificial intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Software fault localization: An overview of research, techniques, and tools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

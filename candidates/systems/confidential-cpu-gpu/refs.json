@@ -1,0 +1,1381 @@
+{
+  "candidate": {
+    "topic": "Confidential Computing on Heterogeneous CPU-GPU Systems",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3793532",
+      "title": "Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions",
+      "published": "2026-02-25"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:57+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 192,
+    "arxiv_resolvable": 45,
+    "doi_only": 103,
+    "unresolved": 44
+  },
+  "gt_s2": {
+    "paperId": "2ef499db0c7599c1851b1f6fb9596bf1065da507",
+    "externalIds": {
+      "DBLP": "journals/csur/WangO26",
+      "ArXiv": "2408.11601",
+      "DOI": "10.1145/3793532",
+      "CorpusId": 272885103
+    },
+    "title": "Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 192,
+    "publicationDate": "2024-08-21"
+  },
+  "refs": [
+    {
+      "title": "Generic and Automated Drive-by GPU Cache Attacks from the Browser",
+      "arxiv_id": null,
+      "doi": "10.1145/3634737.3656283",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes",
+      "arxiv_id": null,
+      "doi": "10.1109/SP54263.2024.00090",
+      "publicationDate": "2024-05-19",
+      "year": 2024
+    },
+    {
+      "title": "GPU.zip: On the Side-Channel Implications of Hardware-Based Graphical Data Compression",
+      "arxiv_id": null,
+      "doi": "10.1109/SP54263.2024.00084",
+      "publicationDate": "2024-05-19",
+      "year": 2024
+    },
+    {
+      "title": "Orca: FSS-based Secure Training and Inference with GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/SP54263.2024.00063",
+      "publicationDate": "2024-05-19",
+      "year": 2024
+    },
+    {
+      "title": "WeSee: Using Malicious #VC Interrupts to Break AMD SEV-SNP",
+      "arxiv_id": "2404.03526",
+      "doi": "10.1109/SP54263.2024.00262",
+      "publicationDate": "2024-04-04",
+      "year": 2024
+    },
+    {
+      "title": "Heckler: Breaking Confidential VMs with Malicious Interrupts",
+      "arxiv_id": "2404.03387",
+      "doi": "10.48550/arXiv.2404.03387",
+      "publicationDate": "2024-04-04",
+      "year": 2024
+    },
+    {
+      "title": "TunneLs for Bootlegging: Fully Reverse-Engineering GPU TLBs for Challenging Isolation Guarantees of NVIDIA MIG",
+      "arxiv_id": null,
+      "doi": "10.1145/3576915.3616672",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "Lightning: Leveraging DVFS-induced Transient Fault Injection to Attack Deep Learning Accelerator of GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3617893",
+      "publicationDate": "2023-09-20",
+      "year": 2023
+    },
+    {
+      "title": "SEV-Step: A Single-Stepping Framework for AMD-SEV",
+      "arxiv_id": "2307.14757",
+      "doi": "10.48550/arXiv.2307.14757",
+      "publicationDate": "2023-07-27",
+      "year": 2023
+    },
+    {
+      "title": "Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2023.3274619",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and ARM SoCs",
+      "arxiv_id": "2305.12784",
+      "doi": "10.48550/arXiv.2305.12784",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "PMFault: Faulting and Bricking Server CPUs through Management Interfaces",
+      "arxiv_id": "2301.05538",
+      "doi": "10.48550/arXiv.2301.05538",
+      "publicationDate": "2023-01-13",
+      "year": 2023
+    },
+    {
+      "title": "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU",
+      "arxiv_id": "2212.14191",
+      "doi": "10.1109/HPCA56546.2023.10071017",
+      "publicationDate": "2022-12-29",
+      "year": 2022
+    },
+    {
+      "title": "StrongBox: A GPU TEE on Arm Endpoints",
+      "arxiv_id": null,
+      "doi": "10.1145/3548606.3560627",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "SAGE: Software-based Attestation for GPU Execution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "SoK: Confidential Quartet - Comparison of Platforms for Virtualization-Based Confidential Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/SEED55351.2022.00017",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Survey on Architectural Attacks: A Unified Classification and Attack Model",
+      "arxiv_id": "2208.14194",
+      "doi": "10.1145/3604803",
+      "publicationDate": "2022-08-30",
+      "year": 2022
+    },
+    {
+      "title": "LITE: a low-cost practical inter-operable GPU TEE",
+      "arxiv_id": null,
+      "doi": "10.1145/3524059.3532361",
+      "publicationDate": "2022-06-28",
+      "year": 2022
+    },
+    {
+      "title": "Microarchitectural Attacks in Heterogeneous Systems: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3544102",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "Clairvoyance: Exploiting Far-field EM Emanations of GPU to \"See\" Your DNN Models through Obstacles at a Distance",
+      "arxiv_id": null,
+      "doi": "10.1109/spw54247.2022.9833894",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors",
+      "arxiv_id": null,
+      "doi": "10.1109/sp46214.2022.9833773",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00025",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "Spy in the GPU-box: Covert and Side Channel Attacks on Multi-GPU Systems",
+      "arxiv_id": "2203.15981",
+      "doi": "10.1145/3579371.3589080",
+      "publicationDate": "2022-03-30",
+      "year": 2022
+    },
+    {
+      "title": "EnclaveTree: Privacy-preserving Data Stream Training and Inference Using TEE",
+      "arxiv_id": "2203.01438",
+      "doi": "10.1145/3488932.3517391",
+      "publicationDate": "2022-03-02",
+      "year": 2022
+    },
+    {
+      "title": "Eavesdropping user credentials via GPU side channels on smartphones",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507757",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "Electrical-Level Attacks on CPUs, FPGAs, and GPUs: Survey and Implications in the Heterogeneous Era",
+      "arxiv_id": null,
+      "doi": "10.1145/3498337",
+      "publicationDate": "2022-02-03",
+      "year": 2022
+    },
+    {
+      "title": "TLB-pilot: Mitigating TLB Contention Attack on GPUs with Microarchitecture-Aware Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3491218",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "TLB Poisoning Attacks on AMD Secure Encrypted Virtualization",
+      "arxiv_id": null,
+      "doi": "10.1145/3485832.3485876",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "An Exploration of ARM System-Level Cache and GPU Side Channels",
+      "arxiv_id": null,
+      "doi": "10.1145/3485832.3485902",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "Towards a Secure Integrated Heterogeneous Platform via Cooperative CPU/GPU Encryption",
+      "arxiv_id": null,
+      "doi": "10.1109/ATS52891.2021.00032",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "GPU Overdrive Fault Attacks on Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCAD51958.2021.9643486",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Network-on-Chip Microarchitecture-based Covert Channel in GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3466752.3480093",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures",
+      "arxiv_id": "2110.08139",
+      "doi": "10.14722/ndss.2022.23110",
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel",
+      "arxiv_id": "2109.07395",
+      "doi": null,
+      "publicationDate": "2021-09-15",
+      "year": 2021
+    },
+    {
+      "title": "One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization",
+      "arxiv_id": "2108.04575",
+      "doi": "10.1145/3460120.3484779",
+      "publicationDate": "2021-08-10",
+      "year": 2021
+    },
+    {
+      "title": "Security Vulnerabilities of SGX and Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/3456631",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "VoltJockey: A New Dynamic Voltage Scaling-Based Fault Injection Attack on Intel SGX",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2020.3024853",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Revealing GPUs Vulnerabilities by Combining Register-Transfer and Software-Level Fault Injection",
+      "arxiv_id": null,
+      "doi": "10.1109/DSN48987.2021.00042",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Glitching Demystified: Analyzing Control-flow-based Glitching Attacks and Defenses",
+      "arxiv_id": null,
+      "doi": "10.1109/DSN48987.2021.00051",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "(Mis)managed: A Novel TLB-based Covert Channel on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3433210.3453077",
+      "publicationDate": "2021-05-24",
+      "year": 2021
+    },
+    {
+      "title": "Survey of Transient Execution Attacks and Their Mitigations",
+      "arxiv_id": null,
+      "doi": "10.1145/3442479",
+      "publicationDate": "2021-05-08",
+      "year": 2021
+    },
+    {
+      "title": "SEVerity: Code Injection Attacks against Encrypted Virtual Machines",
+      "arxiv_id": "2105.13824",
+      "doi": "10.1109/SPW53761.2021.00063",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "CrossTalk: Speculative Data Leaks Across Cores Are Real",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40001.2021.00020",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "PLATYPUS: Software-based Power Side-Channel Attacks on x86",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40001.2021.00063",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU",
+      "arxiv_id": "2104.10949",
+      "doi": "10.1109/SP40001.2021.00098",
+      "publicationDate": "2021-04-22",
+      "year": 2021
+    },
+    {
+      "title": "Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA51647.2021.00036",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Faulty Point Unit: ABI Poisoning Attacks on Intel SGX",
+      "arxiv_id": null,
+      "doi": "10.1145/3427228.3427270",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems",
+      "arxiv_id": "2011.09642",
+      "doi": "10.1109/ISCA52012.2021.00080",
+      "publicationDate": "2020-11-19",
+      "year": 2020
+    },
+    {
+      "title": "Delphi: A Cryptographic Inference Service for Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3411501.3419418",
+      "publicationDate": "2020-11-09",
+      "year": 2020
+    },
+    {
+      "title": "Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection",
+      "arxiv_id": null,
+      "doi": "10.1109/TDSC.2018.2840709",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "CrossLine: Breaking \"Security-by-Crash\" based Memory Isolation in AMD SEV",
+      "arxiv_id": "2008.00146",
+      "doi": "10.1145/3460120.3485253",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "TeeRex: Discovery and Exploitation of Memory Corruption Vulnerabilities in SGX Enclaves",
+      "arxiv_id": "2007.07586",
+      "doi": null,
+      "publicationDate": "2020-07-15",
+      "year": 2020
+    },
+    {
+      "title": "A Novel GPU Overdrive Fault Attack",
+      "arxiv_id": null,
+      "doi": "10.1109/DAC18072.2020.9218690",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Hermes Attack: Steal DNN Models with Lossless Inference Accuracy",
+      "arxiv_id": "2006.12784",
+      "doi": null,
+      "publicationDate": "2020-06-23",
+      "year": 2020
+    },
+    {
+      "title": "Leaky DNN: Stealing Deep-Learning Model Secret with GPU Context-Switching Side-Channel",
+      "arxiv_id": null,
+      "doi": "10.1109/DSN48063.2020.00031",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Meltdown",
+      "arxiv_id": null,
+      "doi": "10.1145/3357033",
+      "publicationDate": "2020-05-21",
+      "year": 2020
+    },
+    {
+      "title": "Visor: Privacy-Preserving Video Analytics as a Cloud Service",
+      "arxiv_id": "2006.09628",
+      "doi": null,
+      "publicationDate": "2020-05-19",
+      "year": 2020
+    },
+    {
+      "title": "Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40000.2020.00054",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Plundervolt: Software-based Fault Injection Attacks against Intel SGX",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40000.2020.00057",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/SP40000.2020.00061",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "SEVurity: No Security Without Integrity : Breaking Integrity-Free Memory Encryption with Minimal Assumptions",
+      "arxiv_id": "2004.11071",
+      "doi": "10.1109/SP40000.2020.00080",
+      "publicationDate": "2020-04-23",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Published Attacks on Intel SGX",
+      "arxiv_id": "2006.13598",
+      "doi": null,
+      "publicationDate": "2020-03-25",
+      "year": 2020
+    },
+    {
+      "title": "DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints",
+      "arxiv_id": null,
+      "doi": "10.1145/3373376.3378460",
+      "publicationDate": "2020-03-09",
+      "year": 2020
+    },
+    {
+      "title": "COIN Attacks: On Insecurity of Enclave Untrusted Interfaces in SGX",
+      "arxiv_id": null,
+      "doi": "10.1145/3373376.3378486",
+      "publicationDate": "2020-03-09",
+      "year": 2020
+    },
+    {
+      "title": "BCoal: Bucketing-Based Memory Coalescing for Efficient and Secure GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA47549.2020.00053",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "iGPU Leak: An Information Leakage Vulnerability on Intel Integrated GPU",
+      "arxiv_id": null,
+      "doi": "10.1109/ASP-DAC47756.2020.9045745",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "V0LTpwn: Attacking x86 Processor Integrity from Software",
+      "arxiv_id": "1912.04870",
+      "doi": null,
+      "publicationDate": "2019-12-10",
+      "year": 2019
+    },
+    {
+      "title": "An Off-Chip Attack on Hardware Enclaves via the Memory Bus",
+      "arxiv_id": "1912.01701",
+      "doi": null,
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX",
+      "arxiv_id": null,
+      "doi": "10.13154/tches.v2020.i1.321-347",
+      "publicationDate": "2019-11-19",
+      "year": 2019
+    },
+    {
+      "title": "Hardware-Backed Heist: Extracting ECDSA Keys from Qualcomm's TrustZone",
+      "arxiv_id": null,
+      "doi": "10.1145/3319535.3354197",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes",
+      "arxiv_id": null,
+      "doi": "10.1145/3319535.3363206",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "Fallout: Leaking Data on Meltdown-resistant CPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3319535.3363219",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "Towards Memory Safe Enclave Programming with Rust-SGX",
+      "arxiv_id": null,
+      "doi": "10.1145/3319535.3354241",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "Side-channel Timing Attack of RSA on a GPU",
+      "arxiv_id": null,
+      "doi": "10.1145/3341729",
+      "publicationDate": "2019-08-13",
+      "year": 2019
+    },
+    {
+      "title": "ZombieLoad: Cross-Privilege-Boundary Data Sampling",
+      "arxiv_id": "1905.05726",
+      "doi": "10.1145/3319535.3354252",
+      "publicationDate": "2019-05-14",
+      "year": 2019
+    },
+    {
+      "title": "SGX-LEGO: Fine-grained SGX controlled-channel attack and its countermeasure",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COSE.2018.12.001",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "RIDL: Rogue In-Flight Data Load",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2019.00087",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Scatter-and-Gather Revisited: High-Performance Side-Channel-Resistant AES on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3300053.3319415",
+      "publicationDate": "2019-04-13",
+      "year": 2019
+    },
+    {
+      "title": "Heterogeneous Isolated Execution for Commodity GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3297858.3304021",
+      "publicationDate": "2019-04-04",
+      "year": 2019
+    },
+    {
+      "title": "SANCTUARY: ARMing TrustZone with User-space Enclaves",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2019.23448",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Demystifying Arm TrustZone",
+      "arxiv_id": null,
+      "doi": "10.1145/3291047",
+      "publicationDate": "2019-01-28",
+      "year": 2019
+    },
+    {
+      "title": "Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone",
+      "arxiv_id": null,
+      "doi": "10.1145/3274694.3274704",
+      "publicationDate": "2018-12-03",
+      "year": 2018
+    },
+    {
+      "title": "Graviton: Trusted Execution Environments on GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Rendered Insecure: GPU Side Channel Attacks are Practical",
+      "arxiv_id": null,
+      "doi": "10.1145/3243734.3243831",
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-08-15",
+      "year": 2018
+    },
+    {
+      "title": "Meltdown: Reading Kernel Memory from User Space",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-08-15",
+      "year": 2018
+    },
+    {
+      "title": "Spectre Returns! Speculation Attacks Using the Return Stack Buffer",
+      "arxiv_id": "1807.07940",
+      "doi": "10.1109/MDAT.2024.3352537",
+      "publicationDate": "2018-07-20",
+      "year": 2018
+    },
+    {
+      "title": "Off-Limits: Abusing Legacy x86 Memory Segmentation to Spy on Enclaved Execution",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-94496-8_4",
+      "publicationDate": "2018-06-26",
+      "year": 2018
+    },
+    {
+      "title": "SeCloak: ARM Trustzone-based Mobile Peripheral Control",
+      "arxiv_id": "2001.08840",
+      "doi": "10.1145/3210240.3210334",
+      "publicationDate": "2018-06-10",
+      "year": 2018
+    },
+    {
+      "title": "Electro-Magnetic Analysis of GPU-based AES Implementation",
+      "arxiv_id": null,
+      "doi": "10.1145/3195970.3196042",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "CacheQuote: Efficiently Recovering Long-term Secrets of SGX EPID via Cache Attacks",
+      "arxiv_id": null,
+      "doi": "10.13154/tches.v2018.i2.171-191",
+      "publicationDate": "2018-05-08",
+      "year": 2018
+    },
+    {
+      "title": "Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2018.00022",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "SEVered: Subverting AMD's Virtual Machine Encryption",
+      "arxiv_id": "1805.09604",
+      "doi": "10.1145/3193111.3193112",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "RCoal: Mitigating GPU Timing Attack via Subwarp-Based Randomized Coalescing Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2018.00023",
+      "publicationDate": "2018-03-27",
+      "year": 2018
+    },
+    {
+      "title": "BranchScope: A New Side-Channel Attack on Directional Branch Predictor",
+      "arxiv_id": null,
+      "doi": "10.1145/3173162.3173204",
+      "publicationDate": "2018-03-19",
+      "year": 2018
+    },
+    {
+      "title": "SgxPectre: Stealing Intel Secrets from SGX Enclaves Via Speculative Execution",
+      "arxiv_id": "1802.09085",
+      "doi": "10.1109/EuroSP.2019.00020",
+      "publicationDate": "2018-02-25",
+      "year": 2018
+    },
+    {
+      "title": "Mitigating Branch-Shadowing Attacks on Intel SGX using Control Flow Randomization",
+      "arxiv_id": "1808.06478",
+      "doi": "10.1145/3268935.3268940",
+      "publicationDate": "2018-01-15",
+      "year": 2018
+    },
+    {
+      "title": "Spectre Attacks: Exploiting Speculative Execution",
+      "arxiv_id": "1801.01203",
+      "doi": "10.1145/3399742",
+      "publicationDate": "2018-01-03",
+      "year": 2018
+    },
+    {
+      "title": "Secure Encrypted Virtualization is Unsecure",
+      "arxiv_id": "1712.05090",
+      "doi": null,
+      "publicationDate": "2017-12-14",
+      "year": 2017
+    },
+    {
+      "title": "MemJam: A False Dependency Attack Against Constant-Time Crypto Implementations",
+      "arxiv_id": "1711.08002",
+      "doi": "10.1007/s10766-018-0611-9",
+      "publicationDate": "2017-11-21",
+      "year": 2017
+    },
+    {
+      "title": "SGX-Bomb: Locking Down the Processor via Rowhammer Attack",
+      "arxiv_id": null,
+      "doi": "10.1145/3152701.3152709",
+      "publicationDate": "2017-10-28",
+      "year": 2017
+    },
+    {
+      "title": "SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control",
+      "arxiv_id": null,
+      "doi": "10.1145/3152701.3152706",
+      "publicationDate": "2017-10-28",
+      "year": 2017
+    },
+    {
+      "title": "Constructing and Characterizing Covert Channels on GPGPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3123939.3124538",
+      "publicationDate": "2017-10-14",
+      "year": 2017
+    },
+    {
+      "title": "Komodo: Using verification to disentangle secure-enclave hardware from software",
+      "arxiv_id": null,
+      "doi": "10.1145/3132747.3132782",
+      "publicationDate": "2017-10-14",
+      "year": 2017
+    },
+    {
+      "title": "DR.SGX: automated and adjustable side-channel protection for SGX using data location randomization",
+      "arxiv_id": "1709.09917",
+      "doi": "10.1145/3359789.3359809",
+      "publicationDate": "2017-09-28",
+      "year": 2017
+    },
+    {
+      "title": "Telling Your Secrets without Page Faults: Stealthy Page Table-Based Attacks on Enclaved Execution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-08-16",
+      "year": 2017
+    },
+    {
+      "title": "Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-08-16",
+      "year": 2017
+    },
+    {
+      "title": "CAn't Touch This: Software-only Mitigation against Rowhammer Attacks targeting Kernel Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs",
+      "arxiv_id": null,
+      "doi": "10.14722/NDSS.2017.23193",
+      "publicationDate": "2017-06-21",
+      "year": 2017
+    },
+    {
+      "title": "Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX",
+      "arxiv_id": "1705.07289",
+      "doi": "10.1145/3133956.3134038",
+      "publicationDate": "2017-05-20",
+      "year": 2017
+    },
+    {
+      "title": "A Novel Side-Channel Timing Attack on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3060403.3060462",
+      "publicationDate": "2017-05-10",
+      "year": 2017
+    },
+    {
+      "title": "Cache Attacks on Intel SGX",
+      "arxiv_id": null,
+      "doi": "10.1145/3065913.3065915",
+      "publicationDate": "2017-04-23",
+      "year": 2017
+    },
+    {
+      "title": "Detecting Privileged Side-Channel Attacks in Shielded Execution with Déjà Vu",
+      "arxiv_id": null,
+      "doi": "10.1145/3052973.3053007",
+      "publicationDate": "2017-04-02",
+      "year": 2017
+    },
+    {
+      "title": "CacheZoom: How SGX Amplifies The Power of Cache Attacks",
+      "arxiv_id": "1703.06986",
+      "doi": "10.1007/978-3-319-66787-4_4",
+      "publicationDate": "2017-03-20",
+      "year": 2017
+    },
+    {
+      "title": "Malware Guard Extension: Using SGX to Conceal Cache Attacks",
+      "arxiv_id": "1702.08719",
+      "doi": "10.1007/978-3-319-60876-1_1",
+      "publicationDate": "2017-02-28",
+      "year": 2017
+    },
+    {
+      "title": "Software Grand Exposure: SGX Cache Attacks Are Practical",
+      "arxiv_id": "1702.07521",
+      "doi": null,
+      "publicationDate": "2017-02-24",
+      "year": 2017
+    },
+    {
+      "title": "Fault Attacks on Encrypted General Purpose Compute Platforms",
+      "arxiv_id": "1612.03744",
+      "doi": "10.1145/3029806.3029836",
+      "publicationDate": "2016-12-12",
+      "year": 2016
+    },
+    {
+      "title": "Security Analysis of Encrypted Virtual Machines",
+      "arxiv_id": "1612.01119",
+      "doi": "10.1145/3050748.3050763",
+      "publicationDate": "2016-12-04",
+      "year": 2016
+    },
+    {
+      "title": "Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing",
+      "arxiv_id": "1611.06952",
+      "doi": null,
+      "publicationDate": "2016-11-21",
+      "year": 2016
+    },
+    {
+      "title": "Jump over ASLR: Attacking branch predictors to bypass ASLR",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO.2016.7783743",
+      "publicationDate": "2016-10-15",
+      "year": 2016
+    },
+    {
+      "title": "Benchmarking State-of-the-Art Deep Learning Software Tools",
+      "arxiv_id": "1608.07249",
+      "doi": "10.1109/CCBD.2016.029",
+      "publicationDate": "2016-08-25",
+      "year": 2016
+    },
+    {
+      "title": "Oblivious Multi-Party Machine Learning on Trusted Processors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-08-10",
+      "year": 2016
+    },
+    {
+      "title": "Preventing Page Faults from Telling Your Secrets",
+      "arxiv_id": null,
+      "doi": "10.1145/2897845.2897885",
+      "publicationDate": "2016-05-30",
+      "year": 2016
+    },
+    {
+      "title": "Cache Storage Channels: Alias-Driven Attacks and Verified Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2016.11",
+      "publicationDate": "2016-05-22",
+      "year": 2016
+    },
+    {
+      "title": "CaSE: Cache-Assisted Secure Execution on ARM Processors",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2016.13",
+      "publicationDate": "2016-05-22",
+      "year": 2016
+    },
+    {
+      "title": "Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU",
+      "arxiv_id": "1605.06610",
+      "doi": "10.1515/popets-2017-0016",
+      "publicationDate": "2016-05-21",
+      "year": 2016
+    },
+    {
+      "title": "CacheKit: Evading Memory Introspection Using Cache Incoherence",
+      "arxiv_id": null,
+      "doi": "10.1109/EuroSP.2016.34",
+      "publicationDate": "2016-03-21",
+      "year": 2016
+    },
+    {
+      "title": "A complete key recovery timing attack on a GPU",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2016.7446081",
+      "publicationDate": "2016-03-12",
+      "year": 2016
+    },
+    {
+      "title": "CATalyst: Defeating last-level cache side channel attacks in cloud computing",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2016.7446082",
+      "publicationDate": "2016-03-12",
+      "year": 2016
+    },
+    {
+      "title": "Understanding and Mitigating Covert Channels Through Branch Predictors",
+      "arxiv_id": null,
+      "doi": "10.1145/2870636",
+      "publicationDate": "2016-03-07",
+      "year": 2016
+    },
+    {
+      "title": "Avoiding information leakage in the memory controller with fixed service policies",
+      "arxiv_id": null,
+      "doi": "10.1145/2830772.2830795",
+      "publicationDate": "2015-12-05",
+      "year": 2015
+    },
+    {
+      "title": "ARMageddon: Cache Attacks on Mobile Devices",
+      "arxiv_id": "1511.04897",
+      "doi": null,
+      "publicationDate": "2015-11-16",
+      "year": 2015
+    },
+    {
+      "title": "Flush+Flush: A Fast and Stealthy Cache Attack",
+      "arxiv_id": "1511.04594",
+      "doi": "10.1007/978-3-319-40667-1_14",
+      "publicationDate": "2015-11-14",
+      "year": 2015
+    },
+    {
+      "title": "Side-channel power analysis of a GPU AES implementation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD.2015.7357115",
+      "publicationDate": "2015-10-18",
+      "year": 2015
+    },
+    {
+      "title": "Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-08-12",
+      "year": 2015
+    },
+    {
+      "title": "A Survey of CPU-GPU Heterogeneous Computing Techniques",
+      "arxiv_id": null,
+      "doi": "10.1145/2788396",
+      "publicationDate": "2015-07-21",
+      "year": 2015
+    },
+    {
+      "title": "TrustICE: Hardware-Assisted Isolated Computing Environments on Mobile Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/DSN.2015.11",
+      "publicationDate": "2015-06-22",
+      "year": 2015
+    },
+    {
+      "title": "Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2015.45",
+      "publicationDate": "2015-05-17",
+      "year": 2015
+    },
+    {
+      "title": "Last-Level Cache Side-Channel Attacks are Practical",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2015.43",
+      "publicationDate": "2015-05-17",
+      "year": 2015
+    },
+    {
+      "title": "SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution Environment",
+      "arxiv_id": null,
+      "doi": "10.14722/NDSS.2015.23189",
+      "publicationDate": "2015-02-08",
+      "year": 2015
+    },
+    {
+      "title": "FLUSH+RELOAD: A High Resolution, Low Noise, L3 Cache Side-Channel Attack",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-08-20",
+      "year": 2014
+    },
+    {
+      "title": "Lattice priority scheduling: Low-overhead timing-channel protection for a shared memory controller",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2016.7446080",
+      "publicationDate": "2014-06-19",
+      "year": 2014
+    },
+    {
+      "title": "Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2014.9",
+      "publicationDate": "2014-05-18",
+      "year": 2014
+    },
+    {
+      "title": "CUDA Leaks",
+      "arxiv_id": "1305.7383",
+      "doi": "10.1145/2801153",
+      "publicationDate": "2013-05-31",
+      "year": 2013
+    },
+    {
+      "title": "Reporting Insider Threats via Covert Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/SPW.2013.30",
+      "publicationDate": "2013-05-23",
+      "year": 2013
+    },
+    {
+      "title": "Whispers in the Hyper-space: High-speed Covert Channel Attacks in the Cloud",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-08-08",
+      "year": 2012
+    },
+    {
+      "title": "Efficient Cache Attacks on AES, and Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-009-9049-y",
+      "publicationDate": "2010-01-05",
+      "year": 2010
+    },
+    {
+      "title": "Hardware-software integrated approaches to defend against software cache-based side channel attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2009.4798277",
+      "publicationDate": "2009-03-06",
+      "year": 2009
+    },
+    {
+      "title": "Lest we remember: cold-boot attacks on encryption keys",
+      "arxiv_id": null,
+      "doi": "10.1145/1506409.1506429",
+      "publicationDate": "2008-07-28",
+      "year": 2008
+    },
+    {
+      "title": "New cache designs for thwarting software cache-based side channel attacks",
+      "arxiv_id": null,
+      "doi": "10.1145/1250662.1250723",
+      "publicationDate": "2007-06-09",
+      "year": 2007
+    },
+    {
+      "title": "Power analysis attacks - revealing the secrets of smart cards",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-02-01",
+      "year": 2007
+    },
+    {
+      "title": "Cache Attacks and Countermeasures: The Case of AES",
+      "arxiv_id": null,
+      "doi": "10.1007/11605805_1",
+      "publicationDate": "2006-02-13",
+      "year": 2006
+    },
+    {
+      "title": "Heterogeneous computing: challenges and opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/2.214439",
+      "publicationDate": "1993-06-01",
+      "year": 1993
+    },
+    {
+      "title": "CAGE: Complementing Arm CCA with GPU Extensions",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2024.24763",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "CacheWarp: Software-based Fault Injection using Selective State Reset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Honeycomb: Secure and Efficient GPU Executions via Static Validation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Non-Invasive Fault Injection Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "BarraCUDA: Bringing Electromagnetic Side Channel Into Play to Steal the Weights of Neural Networks from NVIDIA GPUs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.07783",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Orca: FSS-based Secure Training with GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Piranha: A GPU Platform for Secure Computation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "CIPHERLEAKS: Breaking Constant-time Cryptography on AMD SEV via the Ciphertext Side Channel",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "On Reverse Engineering Neural Network Implementation on GPU",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-81645-2_7",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "SGAxe: How SGX Fails in Practice",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Telekine: Secure Computing with Cloud GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Strengthening VM Isolation with Integrity Protection and More",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2019.23513",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Ginseng: Keeping Secrets in Registers When You Distrust the Operating System",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2019.23327",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Unbox Your Phone",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs",
+      "arxiv_id": null,
+      "doi": "10.14722/NDSS.2017.23037",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management",
+      "arxiv_id": null,
+      "doi": "10.7916/d8-0ytv-3a53",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Protecting VM register state with SEV-ES",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Attack TrustZone using Rowhammer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "TruSpy: Cache Side-Channel Information Leakage from the Secure World on ARM Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Intel SGX Explained",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "TrustZone Kernel Privilege Escalation (CVE-2016-2431)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Arm. 2023. Arm Confidential Compute Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "2023. Arm Realm Management Extension (RME) System Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Intel R © Software Guard Extensions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Tory Peterschild Professor Patrick Cousot Principles of Software Security Fall 2015 Summary: Confidentiality Issues on a GPU in a Virtualized Environment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Exploiting trustzone on android",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "ARM Security Technology: Building a Secure System using TrustZone Technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "2024. SoK: Understanding Designs Choices and Pitfalls of Trusted Execution Environments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVIDIA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Frequency Throttling Side-Channel Attack",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Intel. 2024.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 3 September 2024; revised 11 June 2025; accepted 19 January 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. CRONUS: Fault-isolated, secure and high-performance heterogeneous computing for trusted execution environment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. NVIDIA H100 Tensor Core GPU Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Qifan Wang",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Confidential Computing on Heterogeneous CPU-GPU Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

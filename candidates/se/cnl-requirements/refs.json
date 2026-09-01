@@ -1,0 +1,1163 @@
+{
+  "candidate": {
+    "topic": "Controlled Natural Language for Requirements Specification",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3778169",
+      "title": "Controlled Natural Language for Requirements Specification: A Systematic Literature Review",
+      "published": "2026-01-08"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:29+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 161,
+    "arxiv_resolvable": 0,
+    "doi_only": 123,
+    "unresolved": 38
+  },
+  "gt_s2": {
+    "paperId": "eb2f7c3fa0bb625bcd4b8dcc6e0070ea85bb6577",
+    "externalIds": {
+      "DBLP": "journals/csur/DarifEKP26",
+      "DOI": "10.1145/3778169",
+      "CorpusId": 283266402
+    },
+    "title": "Controlled Natural Language for Requirements Specification: A Systematic Literature Review",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 164,
+    "publicationDate": "2025-11-25"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccais48893.2020.9096732",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ase.1997.632822",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-61467-6_16",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3374549.3374561",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sst.2015.12",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A tool for requirements engineering using ontologies and boilerplates",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mysec.2015.7475203",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.14569/ijacsa.2018.091256",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2015.2428709",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/esem.2013.13",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2491411.2494591",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2014.6894837",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2015.2398877",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3641399.3641412",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1186/s40411-017-0038-9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.csi.2017.12.001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2554850.2554921",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ares.2013.61",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Evaluation of a systematic approach to requirements reuse",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-45416-0_18",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Software Engineering and Applications (SEA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-05416-2_3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/s0164-1212(01)00137-6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "International Conference on Software Engineering and Formal Methods",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/1181775.1181801",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3147704.3147728",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Linguistic patterns and linguistic styles for requirements specification: Focus on data entities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2012.6359973",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5281/zenodo.17664985",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/models58315.2023.00018",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/issrew55968.2022.00073",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/modre.2012.6360073",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/modre.2013.6597262",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2013.6602667",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/dasc.2015.7311638",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A requirement specification language for AADL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/swste.2003.1245428",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-84800-044-5_11",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/rew.2016.057",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2016.24",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "DODT: Increasing requirements formalism using domain ontologies for improved embedded systems development",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-21064-8_15",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2017.29",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/1363686.1363843",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The projectit-studio/requirements CASE tool—a practical requirements specification case study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/compsac.2016.140",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2014.6912296",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5220/0007726600920103",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icst49551.2021.00047",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/modre.2014.6890827",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2015.7320438",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/2486788.2487054",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-14192-8_10",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icitm.2019.8710732",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccsn.2017.8230353",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-44429-7_2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2021.106590",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/edm58354.2023.10225047",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A study on mobile requirements elicitation by boilerplate requirements specification language",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re57278.2023.00014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SECRET: A New Security Requirements Specification Template",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icstw.2011.17",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mysec.2014.6985983",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icsess.2016.7883097",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iecon.2019.8926665",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-10-7796-8_6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-13188-2_24",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/compsac.2011.82",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icre.2002.1211541",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2005.29",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "27th International Conference on Software Engineering, 2005. ICSE 2005.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-35333-9_11",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "An empirical study on catalog of non-functional requirement templates: Usefulness and maintenance issues",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2014.6894844",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2015.7407736",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Requirement patterns: A tertiary study and a research agenda",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3350768.3351300",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1162/coli_a_00168",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2017.85",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112005",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icsc.2008.14",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-57288-8_31",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-40922-6_6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Patterns in the requirements engineering: A survey and analysis study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sies.2015.7185035",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/compsac.2012.47",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.23919/cisti.2019.8760631",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ms.2012.36",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Tutorial sessions at Requirement Engineering Conference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "International Requirements Engineering Conference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2009.9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2016.38",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ten years of EARS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Patterns-based assistance for temporal requirement specification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccbss.2008.34",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/336512.336523",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2023.3287882",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ubmk55850.2022.9919599",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.4018/ijismd.297046",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-05843-6_22",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2011.6051666",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2013.6636741",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-016-9485-x",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2012.6359969",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2480362.2480598",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-011-0116-1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam - Foundation Level - IREB Compliant",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-011-0145-9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-19858-8_17",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18665/sr.314247",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2008.38",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Frontiers in Artificial Intelligence and Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Software Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/rcis.2009.5089271",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A pattern-based method for building requirements documents in call-for-tender processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/rew.2016.025",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-016-9481-1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hidden in plain sight: Automatically identifying security requirements from natural language artifacts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2652524.2652532",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2012.6359977",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2013.6602665",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.58346/jisis.2022.i4.009",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ssiri.2009.58",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/repa.2014.6894838",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2021.3120004",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re48521.2020.00027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse.2002.1007952",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re.2014.6912293",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ict4m.2016.066",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ears.2018.00006",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ictai.2012.136",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/somet.2013.6645650",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re54965.2022.00035",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cit.2006.103",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "How good are my search strings? Reflections on using an existing review as a quasi-gold standard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/relaw.2011.6050274",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5753/jserd.2020.473",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-021-09956-6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "CAiSE Short Paper Proceedings",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/euromicro.2006.8",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2022.107100",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "International Society for Air Breathing Engines (ISABE)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sere-c.2013.44",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3361149.3361159",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/1407535",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2601248.2601268",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Requirement patterns: An approach for streamlining requirements engineering in software product families",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.24191/mjoc.v3i2.4181",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ict4m.2016.047",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ict4m.2018.00042",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Software Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    }
+  ]
+}

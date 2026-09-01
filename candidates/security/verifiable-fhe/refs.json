@@ -1,0 +1,512 @@
+{
+  "candidate": {
+    "topic": "Systematic Review on Verifiable Fully Homomorphic Encryption",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3797902",
+      "title": "Systematic Review on Verifiable Fully Homomorphic Encryption: Integrity, Proofs and Open Problems",
+      "published": "2026-04-21"
+    },
+    "notes": "probe: 암호(IACR ePrint)/HPC(SC·IPDPS) 문헌 생태가 arXiv-backed corpus에서 어느 정도 커버되는지 실측용. 사전 필터의 'arXiv 친화성' prior 검증"
+  },
+  "extracted_at": "2026-09-01T02:10:30+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 68,
+    "arxiv_resolvable": 4,
+    "doi_only": 52,
+    "unresolved": 12
+  },
+  "gt_s2": {
+    "paperId": "68ce418b701ab93e1c632e662c8c7a96a49e1a9f",
+    "externalIds": {
+      "DBLP": "journals/csur/BernabeRodriguezSAT26",
+      "DOI": "10.1145/3797902",
+      "CorpusId": 285789433
+    },
+    "title": "Systematic Review on Verifiable Fully Homomorphic Encryption: Integrity, Proofs and Open Problems",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 68,
+    "publicationDate": "2026-02-20"
+  },
+  "refs": [
+    {
+      "title": "Towards Verifiable FHE in Practice: Proving Correct Execution of TFHE's Bootstrapping using plonky2",
+      "arxiv_id": null,
+      "doi": "10.1145/3719027.3765097",
+      "publicationDate": "2025-11-19",
+      "year": 2025
+    },
+    {
+      "title": "Security Guidelines for Implementing Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.62056/anxra69p1",
+      "publicationDate": "2025-01-13",
+      "year": 2025
+    },
+    {
+      "title": "Verifiable computation over encrypted data via MPC-in-the-head zero-knowledge proofs",
+      "arxiv_id": null,
+      "doi": "10.1007/s10207-024-00941-w",
+      "publicationDate": "2024-11-26",
+      "year": 2024
+    },
+    {
+      "title": "ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3650088",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Secure Federated Learning With Fully Homomorphic Encryption for IoT Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2023.3302065",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Poster: Verifiable Encodings for Maliciously-Secure Homomorphic Encryption Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1145/3576915.3624403",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "Rinocchio: SNARKs for Ring Arithmetic",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-023-09481-3",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "OpenFHE: Open-Source Fully Homomorphic Encryption Library",
+      "arxiv_id": null,
+      "doi": "10.1145/3560827.3563379",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Citation tracking for systematic literature searching: A scoping review",
+      "arxiv_id": null,
+      "doi": "10.1002/jrsm.1635",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data",
+      "arxiv_id": null,
+      "doi": "10.1145/3470496.3527393",
+      "publicationDate": "2022-06-18",
+      "year": 2022
+    },
+    {
+      "title": "On the IND-CCA1 Security of FHE Schemes",
+      "arxiv_id": null,
+      "doi": "10.3390/cryptography6010013",
+      "publicationDate": "2022-03-17",
+      "year": 2022
+    },
+    {
+      "title": "BTS: an accelerator for bootstrappable fully homomorphic encryption",
+      "arxiv_id": "2112.15479",
+      "doi": "10.1145/3470496.3527415",
+      "publicationDate": "2021-12-31",
+      "year": 2021
+    },
+    {
+      "title": "Labrador: towards fair and auditable data sharing in cloud computing with long-term privacy",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-020-2940-8",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "TFHE-rs: A library for safe and secure remote computing using fully homomorphic encryption and trusted execution environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.array.2021.100118",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption",
+      "arxiv_id": "2109.05371",
+      "doi": "10.1145/3466752.3480070",
+      "publicationDate": "2021-09-11",
+      "year": 2021
+    },
+    {
+      "title": "SoK: Fully Homomorphic Encryption Compilers",
+      "arxiv_id": "2101.07078",
+      "doi": "10.1109/SP40001.2021.00068",
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "Fast secure matrix multiplications over ring-based homomorphic encryption",
+      "arxiv_id": null,
+      "doi": "10.1080/19393555.2020.1836288",
+      "publicationDate": "2020-10-28",
+      "year": 2020
+    },
+    {
+      "title": "Practical Product Proofs for Lattice Commitments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-56880-1_17",
+      "publicationDate": "2020-08-17",
+      "year": 2020
+    },
+    {
+      "title": "Boosting Verifiable Computation on Encrypted Data",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-45388-6_5",
+      "publicationDate": "2020-05-04",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Post-quantum SNARKs for RSIS and RLWE and Their Applications to Privacy",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-44223-1_14",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Algebraic Techniques for Short(er) Exact Lattice-Based Zero-Knowledge Proofs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-26948-7_7",
+      "publicationDate": "2019-08-18",
+      "year": 2019
+    },
+    {
+      "title": "TFHE: Fast Fully Homomorphic Encryption Over the Torus",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-019-09319-x",
+      "publicationDate": "2019-04-25",
+      "year": 2019
+    },
+    {
+      "title": "Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-17253-4_12",
+      "publicationDate": "2019-04-14",
+      "year": 2019
+    },
+    {
+      "title": "Verifiable Decryption for Fully Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-99136-8_19",
+      "publicationDate": "2018-09-09",
+      "year": 2018
+    },
+    {
+      "title": "More Efficient Commitments from Structured Lattice Assumptions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-98113-0_20",
+      "publicationDate": "2018-09-05",
+      "year": 2018
+    },
+    {
+      "title": "Floppy-Sized Group Signatures from Lattices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-93387-0_9",
+      "publicationDate": "2018-07-02",
+      "year": 2018
+    },
+    {
+      "title": "Homomorphic Encryption for Arithmetic of Approximate Numbers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-70694-8_15",
+      "publicationDate": "2017-12-03",
+      "year": 2017
+    },
+    {
+      "title": "On the Size of Pairing-Based Non-interactive Arguments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-49896-5_11",
+      "publicationDate": "2016-05-08",
+      "year": 2016
+    },
+    {
+      "title": "FHEW: Bootstrapping Homomorphic Encryption in Less Than a Second",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-46800-5_24",
+      "publicationDate": "2015-04-26",
+      "year": 2015
+    },
+    {
+      "title": "Better Zero-Knowledge Proofs for Lattice Encryption and Their Application to Group Signatures",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-45611-8_29",
+      "publicationDate": "2014-12-07",
+      "year": 2014
+    },
+    {
+      "title": "Efficiently Verifiable Computation on Encrypted Data",
+      "arxiv_id": null,
+      "doi": "10.1145/2660267.2660366",
+      "publicationDate": "2014-11-03",
+      "year": 2014
+    },
+    {
+      "title": "(Leveled) Fully Homomorphic Encryption without Bootstrapping",
+      "arxiv_id": null,
+      "doi": "10.1145/2633600",
+      "publicationDate": "2014-07-01",
+      "year": 2014
+    },
+    {
+      "title": "Pinocchio: Nearly Practical Verifiable Computation",
+      "arxiv_id": null,
+      "doi": "10.1145/2856449",
+      "publicationDate": "2013-05-19",
+      "year": 2013
+    },
+    {
+      "title": "Non-interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-14623-7_25",
+      "publicationDate": "2010-08-15",
+      "year": 2010
+    },
+    {
+      "title": "On lattices, learning with errors, random linear codes, and cryptography",
+      "arxiv_id": "2401.03703",
+      "doi": "10.1145/1568318.1568324",
+      "publicationDate": "2009-09-01",
+      "year": 2009
+    },
+    {
+      "title": "Fully homomorphic encryption using ideal lattices",
+      "arxiv_id": null,
+      "doi": "10.1145/1536414.1536440",
+      "publicationDate": "2009-05-31",
+      "year": 2009
+    },
+    {
+      "title": "Proof of Plaintext Knowledge for the Ajtai-Dwork Cryptosystem",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-30576-7_29",
+      "publicationDate": "2005-02-10",
+      "year": 2005
+    },
+    {
+      "title": "Worst-case to average-case reductions based on Gaussian measures",
+      "arxiv_id": null,
+      "doi": "10.1109/FOCS.2004.72",
+      "publicationDate": "2004-10-17",
+      "year": 2004
+    },
+    {
+      "title": "Generating hard instances of lattice problems (extended abstract)",
+      "arxiv_id": null,
+      "doi": "10.1145/237814.237838",
+      "publicationDate": "1996-07-01",
+      "year": 1996
+    },
+    {
+      "title": "Non-Interactive and Information-Theoretic Secure Verifiable Secret Sharing",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-46766-1_9",
+      "publicationDate": "1991-08-11",
+      "year": 1991
+    },
+    {
+      "title": "Proceedings of the 49th Annual International Symposium on Computer Architecture",
+      "arxiv_id": null,
+      "doi": "10.1145/3470496",
+      "publicationDate": "1988-06-01",
+      "year": 1988
+    },
+    {
+      "title": "How to generate and exchange secrets",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1986.25",
+      "publicationDate": "1986-10-27",
+      "year": 1986
+    },
+    {
+      "title": "PEEV: Parse Encrypt Execute Verify—A Verifiable FHE Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3424420",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Basic Lattice Cryptography: The concepts behind Kyber (ML-KEM) and Dilithium (ML-DSA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-96-0935-2_10",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-38554-4_18",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-15979-4_3",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Short Paper: Verifiable Decryption for BGV",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-32415-4_26",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Lattice-Based Proof of Shuffle and Applications to Electronic Voting",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-75539-3_10",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-92078-4_23",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Guide to Fully Homomorphic Encryption over the [Discretized] Torus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Flexible and Efficient Verifiable Computation on Encrypted Data",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-75248-4_19",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Lattigo: a Multiparty Homomorphic Encryption Library in Go",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Practical Exact Proofs from Lattices: New Techniques to Exploit Fully-Splitting Rings",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-64834-3_9",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Shorter Lattice-Based Zero-Knowledge Proofs via One-Time Commitments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-75245-3_9",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Design and implementation of HElib: a homomorphic encryption library",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Homomorphic Encryption Standard",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-77287-1_2",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "One-Shot Verifiable Encryption from Lattices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-56620-7_11",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Somewhat Practical Fully Homomorphic Encryption",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Verifiable Encryption",
+      "arxiv_id": null,
+      "doi": "10.1007/0-387-23483-7_451",
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "Research",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4471-3519-7",
+      "publicationDate": null,
+      "year": 1985
+    },
+    {
+      "title": "Towards Verifiable FHE in Practice Proving Correct Execution of TFHE’s Bootstrapping using plonky2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. How to Prove Statements Obliviously? 449ś487",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "using the BDLOP commitment scheme",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 8 April 2025; revised 21 January 2026; accepted 4 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Systematic Review on Verifiable Fully Homomorphic Encryption: Integrity, Proofs and Open Problems • 25",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Bootstrapping bits with CKKS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Optimizedprivacy-preservingcnninferencewithfullyhomomorphicencryption",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

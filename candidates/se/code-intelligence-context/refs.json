@@ -1,0 +1,1724 @@
+{
+  "candidate": {
+    "topic": "Towards an Understanding of Context Utilization in Code Intelligence",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3797261",
+      "title": "Towards an Understanding of Context Utilization in Code Intelligence",
+      "published": "2026-04-17"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:36+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 241,
+    "arxiv_resolvable": 106,
+    "doi_only": 117,
+    "unresolved": 18
+  },
+  "gt_s2": {
+    "paperId": "762ae06fae58bf73b3d16b11ba621a97b336014f",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2504-08734",
+      "ArXiv": "2504.08734",
+      "DOI": "10.1145/3797261",
+      "CorpusId": 277741201
+    },
+    "title": "Towards an Understanding of Context Utilization in Code Intelligence",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 241,
+    "publicationDate": "2025-04-11"
+  },
+  "refs": [
+    {
+      "title": "Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark",
+      "arxiv_id": "2412.18573",
+      "doi": null,
+      "publicationDate": "2024-12-24",
+      "year": 2024
+    },
+    {
+      "title": "RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation",
+      "arxiv_id": "2412.17744",
+      "doi": "10.1109/TSE.2025.3645056",
+      "publicationDate": "2024-12-23",
+      "year": 2024
+    },
+    {
+      "title": "<inline-formula><tex-math notation=\"LaTeX\">$\\mathbf{A^{3}}$</tex-math><alternatives><mml:math display=\"inline\"><mml:mrow><mml:msup><mml:mi mathvariant=\"bold\">A</mml:mi><mml:mrow><mml:mn mathvariant=\"bold\">3</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href=\"huang-ieq1-34",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3486195",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph",
+      "arxiv_id": null,
+      "doi": "10.1145/3691620.3695054",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "Learning to Generate Structured Code Summaries From Hybrid Code Context",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3439562",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Agents in software engineering: survey, landscape, and vision",
+      "arxiv_id": "2409.09030",
+      "doi": "10.1007/s10515-025-00544-2",
+      "publicationDate": "2024-09-13",
+      "year": 2024
+    },
+    {
+      "title": "RepoMasterEval: Evaluating Code Completion via Real-World Repositories",
+      "arxiv_id": "2408.03519",
+      "doi": "10.1109/ASE63991.2025.00304",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Context Conquers Parameters: Outperforming Proprietary Llm in Commit Message Generation",
+      "arxiv_id": "2408.02502",
+      "doi": "10.1109/ICSE55347.2025.00048",
+      "publicationDate": "2024-08-05",
+      "year": 2024
+    },
+    {
+      "title": "Vulnerability Detection via Multiple-Graph-Based Code Representation",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3427815",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention",
+      "arxiv_id": "2407.20042",
+      "doi": "10.1145/3650212.3680343",
+      "publicationDate": "2024-07-29",
+      "year": 2024
+    },
+    {
+      "title": "RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening",
+      "arxiv_id": null,
+      "doi": "10.1145/3671016.3674819",
+      "publicationDate": "2024-07-24",
+      "year": 2024
+    },
+    {
+      "title": "Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3643760",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models",
+      "arxiv_id": "2407.00456",
+      "doi": "10.1145/3715749",
+      "publicationDate": "2024-06-29",
+      "year": 2024
+    },
+    {
+      "title": "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions",
+      "arxiv_id": "2406.15877",
+      "doi": "10.48550/arXiv.2406.15877",
+      "publicationDate": "2024-06-22",
+      "year": 2024
+    },
+    {
+      "title": "CodeRAG-Bench: Can Retrieval Augment Code Generation?",
+      "arxiv_id": "2406.14497",
+      "doi": "10.48550/arXiv.2406.14497",
+      "publicationDate": "2024-06-20",
+      "year": 2024
+    },
+    {
+      "title": "Citadel: Context Similarity Based Deep Learning Framework Bug Finding",
+      "arxiv_id": "2406.12196",
+      "doi": "10.1145/3773993",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents",
+      "arxiv_id": "2406.11589",
+      "doi": "10.1109/TSE.2025.3631886",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "On the Impacts of Contexts on Repository-Level Code Generation",
+      "arxiv_id": "2406.11927",
+      "doi": "10.18653/v1/2025.findings-naacl.82",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis",
+      "arxiv_id": "2406.10018",
+      "doi": "10.48550/arXiv.2406.10018",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation",
+      "arxiv_id": "2406.06918",
+      "doi": "10.1109/ICSE55347.2025.00228",
+      "publicationDate": "2024-06-11",
+      "year": 2024
+    },
+    {
+      "title": "GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model",
+      "arxiv_id": "2406.07003",
+      "doi": "10.48550/arXiv.2406.07003",
+      "publicationDate": "2024-06-11",
+      "year": 2024
+    },
+    {
+      "title": "Cross-project defect prediction via semantic and syntactic encoding",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-024-10495-z",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "Hybrid Automated Program Repair by Combining Large Language Models and Program Analysis",
+      "arxiv_id": "2406.00992",
+      "doi": "10.1145/3715004",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Software Defect Prediction Based on Deep Representation Learning of Source Code From Contextual Syntax and Semantic Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/TR.2024.3354965",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion",
+      "arxiv_id": "2405.19782",
+      "doi": "10.48550/arXiv.2405.19782",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Programmer Visual Attention During Context-Aware Code Summarization",
+      "arxiv_id": "2405.18573",
+      "doi": "10.1109/TSE.2025.3554990",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Contextual API Completion for Unseen Repositories Using LLMs",
+      "arxiv_id": "2405.04600",
+      "doi": "10.48550/arXiv.2405.04600",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "VulEval: Towards Repository-Level Evaluation of Software Vulnerability Detection",
+      "arxiv_id": "2404.15596",
+      "doi": "10.48550/arXiv.2404.15596",
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "Exploring and Improving Code Completion for Test Code",
+      "arxiv_id": null,
+      "doi": "10.1145/3643916.3644421",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Grained Bug Localization Based on Rich Context using Attention Tree-GRU",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCEA62105.2024.10603974",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Prism: Decomposing Program Semantics for Code Clone Detection Through Compilation",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639129",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Analyzing the Performance of Large Language Models on Code Summarization",
+      "arxiv_id": "2404.08018",
+      "doi": "10.48550/arXiv.2404.08018",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "Automatic Commit Message Generation: A Critical Review and Directions for Future Work",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2024.3364675",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Context-aware code generation with synchronous bidirectional decoder",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112066",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "CodeBenchGen: Creating Scalable Execution-based Code Generation Benchmarks",
+      "arxiv_id": "2404.00566",
+      "doi": "10.48550/arXiv.2404.00566",
+      "publicationDate": "2024-03-31",
+      "year": 2024
+    },
+    {
+      "title": "EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories",
+      "arxiv_id": "2404.00599",
+      "doi": "10.48550/arXiv.2404.00599",
+      "publicationDate": "2024-03-31",
+      "year": 2024
+    },
+    {
+      "title": "Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback",
+      "arxiv_id": "2403.16792",
+      "doi": "10.48550/arXiv.2403.16792",
+      "publicationDate": "2024-03-25",
+      "year": 2024
+    },
+    {
+      "title": "Repoformer: Selective Retrieval for Repository-Level Code Completion",
+      "arxiv_id": "2403.10059",
+      "doi": "10.48550/arXiv.2403.10059",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level Code Completion",
+      "arxiv_id": "2403.06095",
+      "doi": "10.1109/Forge66646.2025.00009",
+      "publicationDate": "2024-03-10",
+      "year": 2024
+    },
+    {
+      "title": "When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?",
+      "arxiv_id": "2403.00448",
+      "doi": "10.1145/3639478.3647633",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Compositional API Recommendation for Library-Oriented Code Generation",
+      "arxiv_id": "2402.19431",
+      "doi": "10.1145/3643916.3644403",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "REPOFUSE: Repository-Level Code Completion with Fused Dual Context",
+      "arxiv_id": "2402.14323",
+      "doi": "10.48550/arXiv.2402.14323",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "Context and Multi-Features-Based Vulnerability Detection: A Vulnerability Detection Frame Based on Context Slicing and Multi-Features",
+      "arxiv_id": null,
+      "doi": "10.3390/s24051351",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Source Code Representations for Deep Learning with Static Analysis",
+      "arxiv_id": "2402.09557",
+      "doi": "10.1145/3643916.3644396",
+      "publicationDate": "2024-02-14",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context",
+      "arxiv_id": "2402.03630",
+      "doi": "10.1145/3643795.3648392",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "COMET: Generating Commit Messages using Delta Graph Context Representation",
+      "arxiv_id": "2402.01841",
+      "doi": "10.48550/arXiv.2402.01841",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "SparseCoder: Identifier-Aware Sparse Transformer for File- Level Code Summarization",
+      "arxiv_id": "2401.14727",
+      "doi": "10.1109/SANER60148.2024.00068",
+      "publicationDate": "2024-01-26",
+      "year": 2024
+    },
+    {
+      "title": "ReposVul: A Repository-Level High-Quality Vulnerability Dataset",
+      "arxiv_id": "2401.13169",
+      "doi": "10.1145/3639478.3647634",
+      "publicationDate": "2024-01-24",
+      "year": 2024
+    },
+    {
+      "title": "KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation",
+      "arxiv_id": "2401.08376",
+      "doi": "10.1145/3643675",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+      "arxiv_id": "2401.07339",
+      "doi": "10.48550/arXiv.2401.07339",
+      "publicationDate": "2024-01-14",
+      "year": 2024
+    },
+    {
+      "title": "Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation",
+      "arxiv_id": "2401.06391",
+      "doi": "10.1145/3714462",
+      "publicationDate": "2024-01-12",
+      "year": 2024
+    },
+    {
+      "title": "Deep Learning for Code Intelligence: Survey, Benchmark and Toolkit",
+      "arxiv_id": "2401.00288",
+      "doi": "10.1145/3664597",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Out of Context: How Important is Local Context in Neural Program Repair?",
+      "arxiv_id": "2312.04986",
+      "doi": "10.1145/3597503.3639086",
+      "publicationDate": "2023-12-08",
+      "year": 2023
+    },
+    {
+      "title": "Multi-grained contextual code representation learning for commit message generation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2023.107393",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "A Naive Approach for Automatic Line-level Code Completion",
+      "arxiv_id": "2402.19120",
+      "doi": "10.1109/WIECON-ECE60392.2023.10456476",
+      "publicationDate": "2023-11-25",
+      "year": 2023
+    },
+    {
+      "title": "Context‐based transfer learning for low resource code summarization",
+      "arxiv_id": null,
+      "doi": "10.1002/spe.3288",
+      "publicationDate": "2023-11-20",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends",
+      "arxiv_id": "2311.10372",
+      "doi": "10.48550/arXiv.2311.10372",
+      "publicationDate": "2023-11-17",
+      "year": 2023
+    },
+    {
+      "title": "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion",
+      "arxiv_id": "2310.11248",
+      "doi": "10.48550/arXiv.2310.11248",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "arxiv_id": "2310.06770",
+      "doi": "10.48550/arXiv.2310.06770",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "COPS: An improved information retrieval-based bug localization technique using context-aware program simplification",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4374255",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "Semantic feature learning for software defect prediction from source code and external knowledge",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2023.111753",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "ContextAug: model-domain failing test augmentation with contextual information",
+      "arxiv_id": null,
+      "doi": "10.1007/s11704-023-2521-2",
+      "publicationDate": "2023-09-13",
+      "year": 2023
+    },
+    {
+      "title": "CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE56229.2023.00159",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Revisiting file context for source code summarization",
+      "arxiv_id": "2309.02326",
+      "doi": "10.1007/s10515-024-00460-x",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "Function Call Graph Context Encoding for Neural Source Code Summarization",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2023.3279774",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Towards an understanding of large language models in software engineering tasks",
+      "arxiv_id": "2308.11396",
+      "doi": "10.1007/s10664-024-10602-0",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "From Commit Message Generation to History-Aware Commit Message Completion",
+      "arxiv_id": "2308.07655",
+      "doi": "10.1109/ASE56229.2023.00078",
+      "publicationDate": "2023-08-15",
+      "year": 2023
+    },
+    {
+      "title": "Snippet Comment Generation Based on Code Context Expansion",
+      "arxiv_id": null,
+      "doi": "10.1145/3611664",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Statement-based Memory for Neural Source Code Summarization",
+      "arxiv_id": "2307.11709",
+      "doi": "10.48550/arXiv.2307.11709",
+      "publicationDate": "2023-07-21",
+      "year": 2023
+    },
+    {
+      "title": "Detecting Condition-Related Bugs with Control Flow Graph Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598142",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Context-Encoded Code Change Representation for Automated Commit Message Generation",
+      "arxiv_id": "2306.14418",
+      "doi": "10.48550/arXiv.2306.14418",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "LongCoder: A Long-Range Pre-trained Language Model for Code Completion",
+      "arxiv_id": "2306.14893",
+      "doi": "10.48550/arXiv.2306.14893",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "RepoFusion: Training Code Models to Understand Your Repository",
+      "arxiv_id": "2306.10998",
+      "doi": "10.48550/arXiv.2306.10998",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+      "arxiv_id": "2306.03091",
+      "doi": "10.48550/arXiv.2306.03091",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Better Context Makes Better Code Language Models: A Case Study on Function Call Argument Completion",
+      "arxiv_id": "2306.00381",
+      "doi": "10.48550/arXiv.2306.00381",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "ToolCoder: Teach Code Generation Models to use API search tools",
+      "arxiv_id": "2305.04032",
+      "doi": "10.48550/arXiv.2305.04032",
+      "publicationDate": "2023-05-06",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating Code Comment Generation With Summarized API Docs",
+      "arxiv_id": null,
+      "doi": "10.1109/NLBSE59153.2023.00019",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "A Brief Overview of ChatGPT: The History, Status Quo and Potential Future Development",
+      "arxiv_id": null,
+      "doi": "10.1109/JAS.2023.123618",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond",
+      "arxiv_id": "2304.05216",
+      "doi": "10.1145/3597926.3598036",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "Embedding Context as Code Dependencies for Neural Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST57152.2023.00018",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation",
+      "arxiv_id": "2303.12570",
+      "doi": "10.48550/arXiv.2303.12570",
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "An empirical evaluation of defect prediction approaches in within-project and cross-project context",
+      "arxiv_id": null,
+      "doi": "10.1007/s11219-023-09615-7",
+      "publicationDate": "2023-03-04",
+      "year": 2023
+    },
+    {
+      "title": "APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation",
+      "arxiv_id": "2303.01645",
+      "doi": "10.1109/ICPC58990.2023.00012",
+      "publicationDate": "2023-03-03",
+      "year": 2023
+    },
+    {
+      "title": "Learning-based Widget Matching for Migrating GUI Test Cases",
+      "arxiv_id": "2302.00288",
+      "doi": "10.1145/3597503.3623322",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Context-Aware Machine Learning for Intelligent Transportation Systems: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2022.3216462",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "CoCoMIC: Code Completion by Jointly Modeling In-file and Cross-file Context",
+      "arxiv_id": "2212.10007",
+      "doi": "10.48550/arXiv.2212.10007",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Pretrained Language Models for Neural Code Intelligence",
+      "arxiv_id": "2212.10079",
+      "doi": "10.48550/arXiv.2212.10079",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "Graph-based code semantics learning for efficient semantic code clone detection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2022.107130",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "CPGBERT: An Effective Model for Defect Detection by Learning Program Semantics via Code Property Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/TrustCom56396.2022.00046",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "The Stack: 3 TB of permissively licensed source code",
+      "arxiv_id": "2211.15533",
+      "doi": "10.48550/arXiv.2211.15533",
+      "publicationDate": "2022-11-20",
+      "year": 2022
+    },
+    {
+      "title": "When Language Model Meets Private Library",
+      "arxiv_id": "2210.17236",
+      "doi": "10.48550/arXiv.2210.17236",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "Multi-lingual Evaluation of Code Generation Models",
+      "arxiv_id": "2210.14868",
+      "doi": "10.48550/arXiv.2210.14868",
+      "publicationDate": "2022-10-27",
+      "year": 2022
+    },
+    {
+      "title": "A Systematic Survey of Just-in-Time Software Defect Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3567550",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "TransRepair: Context-aware Program Repair for Compilation Errors",
+      "arxiv_id": "2210.03986",
+      "doi": "10.1145/3551349.3560422",
+      "publicationDate": "2022-10-08",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Training of Language Models to Fill in the Middle",
+      "arxiv_id": "2207.14255",
+      "doi": "10.48550/arXiv.2207.14255",
+      "publicationDate": "2022-07-28",
+      "year": 2022
+    },
+    {
+      "title": "DocPrompting: Generating Code by Retrieving the Docs",
+      "arxiv_id": "2207.05987",
+      "doi": null,
+      "publicationDate": "2022-07-13",
+      "year": 2022
+    },
+    {
+      "title": "Repository-Level Prompt Generation for Large Language Models of Code",
+      "arxiv_id": "2206.12839",
+      "doi": "10.48550/arXiv.2206.12839",
+      "publicationDate": "2022-06-26",
+      "year": 2022
+    },
+    {
+      "title": "CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation",
+      "arxiv_id": "2206.06888",
+      "doi": "10.48550/arXiv.2206.06888",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Combining Code Context and Fine-grained Code Difference for Commit Message Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3545258.3545274",
+      "publicationDate": "2022-06-11",
+      "year": 2022
+    },
+    {
+      "title": "All you need is logs: improving code completion by learning from anonymous IDE usage logs",
+      "arxiv_id": "2205.10692",
+      "doi": "10.1145/3540250.3558968",
+      "publicationDate": "2022-05-21",
+      "year": 2022
+    },
+    {
+      "title": "Context-Aware Code Change Embedding for Better Patch Correctness Assessment",
+      "arxiv_id": null,
+      "doi": "10.1145/3505247",
+      "publicationDate": "2022-05-18",
+      "year": 2022
+    },
+    {
+      "title": "ReACC: A Retrieval-Augmented Code Completion Framework",
+      "arxiv_id": "2203.07722",
+      "doi": "10.48550/arXiv.2203.07722",
+      "publicationDate": "2022-03-15",
+      "year": 2022
+    },
+    {
+      "title": "Compilable Neural Code Generation with Compiler Feedback",
+      "arxiv_id": "2203.05132",
+      "doi": "10.48550/arXiv.2203.05132",
+      "publicationDate": "2022-03-10",
+      "year": 2022
+    },
+    {
+      "title": "A Survey of Automatic Source Code Summarization",
+      "arxiv_id": null,
+      "doi": "10.3390/sym14030471",
+      "publicationDate": "2022-02-25",
+      "year": 2022
+    },
+    {
+      "title": "Code Generation for Unknown Libraries via Reading API Documentations",
+      "arxiv_id": "2202.07806",
+      "doi": null,
+      "publicationDate": "2022-02-16",
+      "year": 2022
+    },
+    {
+      "title": "What Makes a Good Commit Message?",
+      "arxiv_id": "2202.02974",
+      "doi": "10.1145/3510003.3510205",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "VDSimilar: Vulnerability detection based on code similarity of vulnerabilities and patches",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COSE.2021.102417",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees",
+      "arxiv_id": "2108.12987",
+      "doi": "10.18653/v1/2021.emnlp-main.332",
+      "publicationDate": "2021-08-30",
+      "year": 2021
+    },
+    {
+      "title": "Retrieval Augmented Code Generation and Summarization",
+      "arxiv_id": "2108.11601",
+      "doi": "10.18653/v1/2021.findings-emnlp.232",
+      "publicationDate": "2021-08-26",
+      "year": 2021
+    },
+    {
+      "title": "On the Evaluation of Neural Code Summarization",
+      "arxiv_id": "2107.07112",
+      "doi": "10.1145/3510003.3510060",
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "On the Evaluation of Commit Message Generation Models: An Experimental Study",
+      "arxiv_id": "2107.05373",
+      "doi": "10.26226/morressier.613b5419842293c031b5b634",
+      "publicationDate": "2021-07-12",
+      "year": 2021
+    },
+    {
+      "title": "CoCoSum: Contextual Code Summarization with Multi-Relational Graph Neural Network",
+      "arxiv_id": "2107.01933",
+      "doi": null,
+      "publicationDate": "2021-07-05",
+      "year": 2021
+    },
+    {
+      "title": "Context-aware Retrieval-based Deep Commit Message Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3464689",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Code Structure–Guided Transformer for Source Code Summarization",
+      "arxiv_id": "2104.09340",
+      "doi": "10.1145/3522674",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Embedding API dependency graph for neural code generation",
+      "arxiv_id": "2103.15361",
+      "doi": "10.1007/s10664-021-09968-2",
+      "publicationDate": "2021-03-29",
+      "year": 2021
+    },
+    {
+      "title": "Learning to Generate Code Comments from Class Hierarchies",
+      "arxiv_id": "2103.13426",
+      "doi": null,
+      "publicationDate": "2021-03-24",
+      "year": 2021
+    },
+    {
+      "title": "Project-Level Encoding for Neural Source Code Summarization of Subroutines",
+      "arxiv_id": "2103.11599",
+      "doi": "10.1109/ICPC52881.2021.00032",
+      "publicationDate": "2021-03-22",
+      "year": 2021
+    },
+    {
+      "title": "Language-Agnostic Representation Learning of Source Code from Structure and Context",
+      "arxiv_id": "2103.11318",
+      "doi": null,
+      "publicationDate": "2021-03-21",
+      "year": 2021
+    },
+    {
+      "title": "API2Com: On the Improvement of Automatically Generated Code Comments Using API Documentations",
+      "arxiv_id": "2103.10668",
+      "doi": "10.1109/ICPC52881.2021.00049",
+      "publicationDate": "2021-03-19",
+      "year": 2021
+    },
+    {
+      "title": "Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting",
+      "arxiv_id": "2103.07845",
+      "doi": "10.1109/ICPC52881.2021.00026",
+      "publicationDate": "2021-03-14",
+      "year": 2021
+    },
+    {
+      "title": "Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer",
+      "arxiv_id": "2102.06360",
+      "doi": "10.1109/APSEC53868.2021.00029",
+      "publicationDate": "2021-02-12",
+      "year": 2021
+    },
+    {
+      "title": "Defect Prediction With Semantics and Context Features of Codes Based on Graph Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TR.2020.3040191",
+      "publicationDate": "2020-12-10",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Deep Learning for Software Engineering",
+      "arxiv_id": "2011.14597",
+      "doi": "10.1145/3505243",
+      "publicationDate": "2020-11-30",
+      "year": 2020
+    },
+    {
+      "title": "Better Automatic Program Repair by Using Bug Reports and Tests Together",
+      "arxiv_id": "2011.08340",
+      "doi": "10.1109/ICSE48619.2023.00109",
+      "publicationDate": "2020-11-16",
+      "year": 2020
+    },
+    {
+      "title": "Towards Context-Aware Code Comment Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.findings-emnlp.350",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "CodeBLEU: a Method for Automatic Evaluation of Code Synthesis",
+      "arxiv_id": "2009.10297",
+      "doi": null,
+      "publicationDate": "2020-09-22",
+      "year": 2020
+    },
+    {
+      "title": "CCGraph: a PDG-based code clone detector with approximate graph matching",
+      "arxiv_id": null,
+      "doi": "10.1145/3324884.3416541",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "VGRAPH: A Robust Vulnerable Code Clone Detection System Using Code Property Triplets",
+      "arxiv_id": null,
+      "doi": "10.1109/EuroSP48549.2020.00012",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Contextualized Code Representation Learning for Commit Message Generation",
+      "arxiv_id": "2007.06934",
+      "doi": "10.1016/J.NEUCOM.2021.05.039",
+      "publicationDate": "2020-07-14",
+      "year": 2020
+    },
+    {
+      "title": "CoCoNuT: combining context-aware neural translation models using ensemble for program repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3395363.3397369",
+      "publicationDate": "2020-07-13",
+      "year": 2020
+    },
+    {
+      "title": "Maintenance-related concerns for post-deployed Ethereum smart contract development: issues, techniques, and future challenges",
+      "arxiv_id": "2007.00286",
+      "doi": "10.1007/s10664-021-10018-0",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "DLFix: Context-based Code Transformation Learning for Automated Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3377811.3380345",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "Improving Bug Detection and Fixing via Code Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3377812.3382172",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN",
+      "arxiv_id": "2006.05405",
+      "doi": null,
+      "publicationDate": "2020-06-10",
+      "year": 2020
+    },
+    {
+      "title": "A Transformer-based Approach for Source Code Summarization",
+      "arxiv_id": "2005.00653",
+      "doi": "10.18653/v1/2020.acl-main.449",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Improved Automatic Summarization of Subroutines via Attention to File Context",
+      "arxiv_id": "2004.04881",
+      "doi": "10.1145/3379597.3387449",
+      "publicationDate": "2020-04-10",
+      "year": 2020
+    },
+    {
+      "title": "A GitHub-Based Data Collection Method for Software Defect Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/DSA.2019.00020",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "From Local to Global Semantic Clone Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/DSA.2019.00012",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2019.00099",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation",
+      "arxiv_id": "1910.02216",
+      "doi": "10.18653/v1/D19-1546",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "CodeSearchNet Challenge: Evaluating the State of Semantic Code Search",
+      "arxiv_id": "1909.09436",
+      "doi": null,
+      "publicationDate": "2019-09-20",
+      "year": 2019
+    },
+    {
+      "title": "The effectiveness of context-based change application on automatic program repair",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-019-09770-1",
+      "publicationDate": "2019-09-02",
+      "year": 2019
+    },
+    {
+      "title": "Source Code Retrieval for Bug Localization using Bug Report",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCP48234.2019.8959535",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Commit Message Generation for Source Code Changes",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/552",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Augmenting Java method comments generation with context information based on neural networks",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2019.07.087",
+      "publicationDate": "2019-07-24",
+      "year": 2019
+    },
+    {
+      "title": "Automatic patch generation with context-based change application",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-019-09742-5",
+      "publicationDate": "2019-07-15",
+      "year": 2019
+    },
+    {
+      "title": "iFixR: bug report driven program repair",
+      "arxiv_id": "1907.05620",
+      "doi": "10.1145/3338906.3338935",
+      "publicationDate": "2019-07-12",
+      "year": 2019
+    },
+    {
+      "title": "Generating Commit Messages from Diffs using Pointer-Generator Network",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2019.00056",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Progress in context-aware recommender systems - An overview",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COSREV.2019.01.001",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Automatic Code Generation From UML State Chart Diagrams",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2890791",
+      "publicationDate": "2019-01-03",
+      "year": 2019
+    },
+    {
+      "title": "SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair",
+      "arxiv_id": "1901.01808",
+      "doi": "10.1109/TSE.2019.2940179",
+      "publicationDate": "2018-12-24",
+      "year": 2018
+    },
+    {
+      "title": "Content Aware Source Code Change Description Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/W18-6513",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "MemFix: static analysis-based repair of memory deallocation errors for C",
+      "arxiv_id": null,
+      "doi": "10.1145/3236024.3236079",
+      "publicationDate": "2018-10-26",
+      "year": 2018
+    },
+    {
+      "title": "Semantic Clone Detection: Can Source Code Comments Help?",
+      "arxiv_id": null,
+      "doi": "10.1109/VLHCC.2018.8506550",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "[Research Paper] CroLSim: Cross Language Software Similarity Detector Using API Documentation",
+      "arxiv_id": null,
+      "doi": "10.1109/SCAM.2018.00023",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Retrieval-Based Neural Code Generation",
+      "arxiv_id": "1808.10025",
+      "doi": "10.18653/v1/D18-1111",
+      "publicationDate": "2018-08-29",
+      "year": 2018
+    },
+    {
+      "title": "Shaping program repair space with existing patches and similar code",
+      "arxiv_id": null,
+      "doi": "10.1145/3213846.3213871",
+      "publicationDate": "2018-07-12",
+      "year": 2018
+    },
+    {
+      "title": "Search-Based Efficient Automated Program Repair Using Mutation and Fault Localization",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2018.00030",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Context-Aware Patch Generation for Better Automated Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3180155.3180233",
+      "publicationDate": "2018-05-27",
+      "year": 2018
+    },
+    {
+      "title": "ReGuard: Finding Reentrancy Bugs in Smart Contracts",
+      "arxiv_id": null,
+      "doi": "10.1145/3183440.3183495",
+      "publicationDate": "2018-05-27",
+      "year": 2018
+    },
+    {
+      "title": "Mining stackoverflow for program repair",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER.2018.8330202",
+      "publicationDate": "2018-03-20",
+      "year": 2018
+    },
+    {
+      "title": "Characterizing context-aware recommender systems: A systematic literature review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2017.11.003",
+      "publicationDate": "2018-01-15",
+      "year": 2018
+    },
+    {
+      "title": "Mining Version Control System for Automatically Generating Commit Comment",
+      "arxiv_id": null,
+      "doi": "10.1109/ESEM.2017.56",
+      "publicationDate": "2017-11-09",
+      "year": 2017
+    },
+    {
+      "title": "A Survey of Machine Learning for Big Code and Naturalness",
+      "arxiv_id": "1709.06182",
+      "doi": "10.1145/3212695",
+      "publicationDate": "2017-09-18",
+      "year": 2017
+    },
+    {
+      "title": "Automatically diagnosing and repairing error handling bugs in C",
+      "arxiv_id": null,
+      "doi": "10.1145/3106237.3106300",
+      "publicationDate": "2017-08-21",
+      "year": 2017
+    },
+    {
+      "title": "CatBoost: unbiased boosting with categorical features",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-06-28",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes",
+      "arxiv_id": "1704.04856",
+      "doi": "10.18653/v1/P17-2045",
+      "publicationDate": "2017-04-17",
+      "year": 2017
+    },
+    {
+      "title": "Abstract Syntax Networks for Code Generation and Semantic Parsing",
+      "arxiv_id": "1704.07535",
+      "doi": "10.18653/v1/p17-1105",
+      "publicationDate": "2017-04-01",
+      "year": 2017
+    },
+    {
+      "title": "Improved bug localization based on code change histories and bug reports",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INFSOF.2016.11.002",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "Probabilistic model for code with decision trees",
+      "arxiv_id": null,
+      "doi": "10.1145/2983990.2984041",
+      "publicationDate": "2016-10-19",
+      "year": 2016
+    },
+    {
+      "title": "Locus: Locating bugs from software changes",
+      "arxiv_id": null,
+      "doi": "10.1145/2970276.2970359",
+      "publicationDate": "2016-08-25",
+      "year": 2016
+    },
+    {
+      "title": "Summarizing Source Code using a Neural Attention Model",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-1195",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "A Simple, Efficient, Context‐sensitive Approach for Code Completion",
+      "arxiv_id": null,
+      "doi": "10.1002/smr.1791",
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "On Automatic Summarization of What and Why Information in Source Code Changes",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2016.162",
+      "publicationDate": "2016-06-10",
+      "year": 2016
+    },
+    {
+      "title": "Mobile Context-Aware Systems: Technologies, Resources and Applications",
+      "arxiv_id": null,
+      "doi": "10.3991/ijim.v10i2.5367",
+      "publicationDate": "2016-04-28",
+      "year": 2016
+    },
+    {
+      "title": "Latent Predictor Networks for Code Generation",
+      "arxiv_id": "1603.06744",
+      "doi": "10.18653/v1/P16-1057",
+      "publicationDate": "2016-03-22",
+      "year": 2016
+    },
+    {
+      "title": "A Convolutional Attention Network for Extreme Summarization of Source Code",
+      "arxiv_id": "1602.03001",
+      "doi": null,
+      "publicationDate": "2016-02-09",
+      "year": 2016
+    },
+    {
+      "title": "Automatic Source Code Summarization of Context for Java Methods",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2015.2465386",
+      "publicationDate": "2016-02-01",
+      "year": 2016
+    },
+    {
+      "title": "Bug Localization Based on Code Change Histories and Bug Reports",
+      "arxiv_id": null,
+      "doi": "10.1109/APSEC.2015.23",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "Using stereotypes in the automatic generation of natural language summaries for C++ methods",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSM.2015.7332514",
+      "publicationDate": "2015-09-29",
+      "year": 2015
+    },
+    {
+      "title": "DirectFix: Looking for Simple Program Repairs",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2015.63",
+      "publicationDate": "2015-05-16",
+      "year": 2015
+    },
+    {
+      "title": "An execution-semantic and content-and-context-based code-clone detection and analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/IWSC.2015.7069882",
+      "publicationDate": "2015-03-06",
+      "year": 2015
+    },
+    {
+      "title": "CloCom: Mining existing source code for automatic comment generation",
+      "arxiv_id": null,
+      "doi": "10.1109/SANER.2015.7081848",
+      "publicationDate": "2015-03-02",
+      "year": 2015
+    },
+    {
+      "title": "CIDEr: Consensus-based image description evaluation",
+      "arxiv_id": "1411.5726",
+      "doi": "10.1109/CVPR.2015.7299087",
+      "publicationDate": "2014-11-20",
+      "year": 2014
+    },
+    {
+      "title": "CSCC: Simple, Efficient, Context Sensitive Code Completion",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSME.2014.29",
+      "publicationDate": "2014-09-29",
+      "year": 2014
+    },
+    {
+      "title": "On Automatically Generating Commit Messages via Summarization of Source Code Changes",
+      "arxiv_id": null,
+      "doi": "10.1109/SCAM.2014.14",
+      "publicationDate": "2014-09-28",
+      "year": 2014
+    },
+    {
+      "title": "Convolutional Neural Networks over Tree Structures for Programming Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v30i1.10139",
+      "publicationDate": "2014-09-18",
+      "year": 2014
+    },
+    {
+      "title": "Version history, similar report, and structure: putting them together for improved bug localization",
+      "arxiv_id": null,
+      "doi": "10.1145/2597008.2597148",
+      "publicationDate": "2014-06-02",
+      "year": 2014
+    },
+    {
+      "title": "The strength of random search on automated program repair",
+      "arxiv_id": null,
+      "doi": "10.1145/2568225.2568254",
+      "publicationDate": "2014-05-31",
+      "year": 2014
+    },
+    {
+      "title": "Towards contextual and on-demand code clone management by continuous monitoring",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2013.6693107",
+      "publicationDate": "2013-11-11",
+      "year": 2013
+    },
+    {
+      "title": "Improving bug localization using structured information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/ASE.2013.6693093",
+      "publicationDate": "2013-11-11",
+      "year": 2013
+    },
+    {
+      "title": "Context Aware Computing for The Internet of Things: A Survey",
+      "arxiv_id": "1305.0982",
+      "doi": "10.1109/SURV.2013.042313.00197",
+      "publicationDate": "2013-05-04",
+      "year": 2013
+    },
+    {
+      "title": "R2Fix: Automatically Generating Bug Fixes from Bug Reports",
+      "arxiv_id": null,
+      "doi": "10.1109/ICST.2013.24",
+      "publicationDate": "2013-03-18",
+      "year": 2013
+    },
+    {
+      "title": "Locating Source Code to Be Fixed Based on Initial Bug Reports - A Case Study on the Eclipse Project",
+      "arxiv_id": null,
+      "doi": "10.1109/IWESEP.2012.14",
+      "publicationDate": "2012-10-26",
+      "year": 2012
+    },
+    {
+      "title": "Making automatic repair for large-scale programs more efficient using weak recompilation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSM.2012.6405280",
+      "publicationDate": "2012-09-23",
+      "year": 2012
+    },
+    {
+      "title": "Graph-based pattern-oriented, context-sensitive source code completion",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2012.6227205",
+      "publicationDate": "2012-06-02",
+      "year": 2012
+    },
+    {
+      "title": "Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2012.6227210",
+      "publicationDate": "2012-06-01",
+      "year": 2012
+    },
+    {
+      "title": "Context-Sensitive Interprocedural Defect Detection Based on a Unified Symbolic Procedure Summary Model",
+      "arxiv_id": null,
+      "doi": "10.1109/QSIC.2011.15",
+      "publicationDate": "2011-07-13",
+      "year": 2011
+    },
+    {
+      "title": "Biocoder: A programming language for standardizing and automating biology protocols",
+      "arxiv_id": null,
+      "doi": "10.1186/1754-1611-4-13",
+      "publicationDate": "2010-11-08",
+      "year": 2010
+    },
+    {
+      "title": "Code generation for receding horizon control",
+      "arxiv_id": null,
+      "doi": "10.1109/CACSD.2010.5612665",
+      "publicationDate": "2010-10-28",
+      "year": 2010
+    },
+    {
+      "title": "Automatically documenting program changes",
+      "arxiv_id": null,
+      "doi": "10.1145/1858996.1859005",
+      "publicationDate": "2010-09-20",
+      "year": 2010
+    },
+    {
+      "title": "A hybrid approach (syntactic and textual) to clone detection",
+      "arxiv_id": null,
+      "doi": "10.1145/1808901.1808914",
+      "publicationDate": "2010-05-08",
+      "year": 2010
+    },
+    {
+      "title": "Toward optimized code generation through model-based optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/DATE.2010.5457010",
+      "publicationDate": "2010-03-08",
+      "year": 2010
+    },
+    {
+      "title": "Modeling and Processing Information for Context-Aware Computing: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s00354-009-0060-5",
+      "publicationDate": "2009-08-07",
+      "year": 2009
+    },
+    {
+      "title": "Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2009.5070507",
+      "publicationDate": "2009-05-16",
+      "year": 2009
+    },
+    {
+      "title": "Empirical evaluation of clone detection using syntax suffix trees",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-008-9073-9",
+      "publicationDate": "2008-12-01",
+      "year": 2008
+    },
+    {
+      "title": "Context-based detection of clone-related bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/1287624.1287634",
+      "publicationDate": "2007-09-07",
+      "year": 2007
+    },
+    {
+      "title": "Clone Detection Using Abstract Syntax Suffix Trees",
+      "arxiv_id": null,
+      "doi": "10.1109/WCRE.2006.18",
+      "publicationDate": "2006-10-23",
+      "year": 2006
+    },
+    {
+      "title": "METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-06-01",
+      "year": 2005
+    },
+    {
+      "title": "Simple BM25 extension to multiple weighted fields",
+      "arxiv_id": null,
+      "doi": "10.1145/1031171.1031181",
+      "publicationDate": "2004-11-13",
+      "year": 2004
+    },
+    {
+      "title": "Contextual Coherence in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-44958-2_22",
+      "publicationDate": "2003-06-23",
+      "year": 2003
+    },
+    {
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+      "arxiv_id": null,
+      "doi": "10.3115/1073083.1073135",
+      "publicationDate": "2002-07-06",
+      "year": 2002
+    },
+    {
+      "title": "A new algorithm for data compression",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1994-02-01",
+      "year": 1994
+    },
+    {
+      "title": "Most of the papers focus on proposing new techniques, followed by creating benchmarks and conducting empirical studies. The distribution of papers across the seven CI tasks is relatively balanced",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "How to Understand Whole Software Repository?",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.01422",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RLCoder: Reinforcement Learning for Repository-Level Code Completion",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2407.19487",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2412.17744",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "An Intra-Class Relation Guided Approach for Code Comment Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.findings-eacl.97",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Syntax-Aware Retrieval Augmented Code Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.findings-emnlp.90",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2308.16458",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-1401",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.02530",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "StarCoder",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Code Structure Guided Transformer for Source Code Summarization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "RepairNet: Contextual Sequence-to-Sequence Network for Automated Program Repair",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-78292-4_1",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "VulDetector: Detecting Vulnerabilities Using Weighted Feature Graph Comparison",
+      "arxiv_id": null,
+      "doi": "10.1109/TIFS.2020.3047756",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "AI-based mobile context-aware recommender systems from an information management perspective: Progress and directions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.106740",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Survey on software defect prediction techniques",
+      "arxiv_id": null,
+      "doi": "10.6703/IJASE.202012_17(4).331",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Context-AwareTrustandReputationModelforFog-BasedIoT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Combining Deep Learning with Information Retrieval to Localize Buggy Files for Bug Reports",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "2024. A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. On Context Utilization in Summarization with Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "We summarize the data preprocessing steps discussed in the reviewed papers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. R2C2-Coder: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Software Engineering (Tallinn, Estonia)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Deep Learning Based Code Generation Methods: Literature Review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 9 April 2025; revised 17 December 2025; accepted 1 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Code intelligence tasks cover a wide range of evaluation benchmarks and metrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "We observe an uneven use of context across different CI tasks, often linked to gaps in datasets that lack certain types of context",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

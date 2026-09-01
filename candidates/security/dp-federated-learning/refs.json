@@ -1,0 +1,428 @@
+{
+  "candidate": {
+    "topic": "Differentially Private Federated Learning",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3801079",
+      "title": "Differentially Private Federated Learning: A Systematic Review",
+      "published": "2026-04-18"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:45+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 56,
+    "arxiv_resolvable": 31,
+    "doi_only": 24,
+    "unresolved": 1
+  },
+  "gt_s2": {
+    "paperId": "d332b00d61dca30759892cd8ad55fd0439b347ea",
+    "externalIds": {
+      "DBLP": "journals/csur/FuHLWRSWCC26",
+      "DOI": "10.1145/3801079",
+      "CorpusId": 269762061
+    },
+    "title": "Differentially Private Federated Learning: A Systematic Review",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 56,
+    "publicationDate": "2026-03-16"
+  },
+  "refs": [
+    {
+      "title": "Private Over-the-Air Federated Learning at Band-Limited Edge",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3411295",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Differentially Private Federated Learning on Non-iid Data: Convergence Analysis and Adaptive Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2024.3379001",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Belt and Braces: When Federated Learning Meets Differential Privacy",
+      "arxiv_id": "2404.18814",
+      "doi": "10.1145/3650028",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning",
+      "arxiv_id": "2312.17493",
+      "doi": "10.1145/3682068",
+      "publicationDate": "2023-12-29",
+      "year": 2023
+    },
+    {
+      "title": "DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release",
+      "arxiv_id": "2311.14056",
+      "doi": "10.14778/3648160.3648164",
+      "publicationDate": "2023-11-23",
+      "year": 2023
+    },
+    {
+      "title": "Multimodal Federated Learning: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/s23156986",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Differentially private knowledge transfer for federated learning",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-023-38794-x",
+      "publicationDate": "2023-06-24",
+      "year": 2023
+    },
+    {
+      "title": "Can Public Large Language Models Help Private Cross-device Federated Learning?",
+      "arxiv_id": "2305.12132",
+      "doi": "10.48550/arXiv.2305.12132",
+      "publicationDate": "2023-05-20",
+      "year": 2023
+    },
+    {
+      "title": "Practical Differentially Private and Byzantine-resilient Federated Learning",
+      "arxiv_id": "2304.09762",
+      "doi": "10.1145/3589264",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Privacy-Enhanced Federated Learning: A Restrictively Self-Sampled and Data-Perturbed Local Differential Privacy Method",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics11234007",
+      "publicationDate": "2022-12-02",
+      "year": 2022
+    },
+    {
+      "title": "Stochastic distributed learning with gradient quantization and double-variance reduction",
+      "arxiv_id": null,
+      "doi": "10.1080/10556788.2022.2117355",
+      "publicationDate": "2022-09-27",
+      "year": 2022
+    },
+    {
+      "title": "Edge Resource Prediction and Auction for Distributed Spatial Crowdsourcing With Differential Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3183006",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "SoteriaFL: A Unified Framework for Private Federated Learning with Communication Compression",
+      "arxiv_id": "2206.09888",
+      "doi": "10.48550/arXiv.2206.09888",
+      "publicationDate": "2022-06-20",
+      "year": 2022
+    },
+    {
+      "title": "SignDS-FL: Local Differentially Private Federated Learning with Sign-based Dimension Selection",
+      "arxiv_id": null,
+      "doi": "10.1145/3517820",
+      "publicationDate": "2022-03-22",
+      "year": 2022
+    },
+    {
+      "title": "Olive: Oblivious Federated Learning on Trusted Execution Environment Against the Risk of Sparsification",
+      "arxiv_id": "2202.07165",
+      "doi": "10.14778/3603581.3603583",
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Towards Private Learning on Decentralized Graphs With Local Differential Privacy",
+      "arxiv_id": "2201.09398",
+      "doi": "10.1109/TIFS.2022.3198283",
+      "publicationDate": "2022-01-23",
+      "year": 2022
+    },
+    {
+      "title": "Projected Federated Averaging with Heterogeneous Differential Privacy",
+      "arxiv_id": null,
+      "doi": "10.14778/3503585.3503592",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Safeguarding cross-silo federated learning with local differential privacy",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcan.2021.11.006",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Differentially Private Federated Bayesian Optimization with Distributed Exploration",
+      "arxiv_id": "2110.14153",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "The Skellam Mechanism for Differentially Private Federated Learning",
+      "arxiv_id": "2110.04995",
+      "doi": null,
+      "publicationDate": "2021-10-11",
+      "year": 2021
+    },
+    {
+      "title": "Differential Privacy in Personalized Pricing with Nonparametric Demand Models",
+      "arxiv_id": "2109.04615",
+      "doi": "10.2139/ssrn.3919807",
+      "publicationDate": "2021-09-10",
+      "year": 2021
+    },
+    {
+      "title": "Joint Protection of Energy Security and Information Privacy for Energy Harvesting: An Incentive Federated Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2021.3105492",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Privacy-Preserving Federated Learning Framework with General Aggregation and Multiparty Entity Matching",
+      "arxiv_id": null,
+      "doi": "10.1155/2021/6692061",
+      "publicationDate": "2021-06-26",
+      "year": 2021
+    },
+    {
+      "title": "Learning with User-Level Privacy",
+      "arxiv_id": "2102.11845",
+      "doi": null,
+      "publicationDate": "2021-02-23",
+      "year": 2021
+    },
+    {
+      "title": "User-Level Privacy-Preserving Federated Learning: Analysis and Performance Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2021.3056991",
+      "publicationDate": "2021-02-04",
+      "year": 2021
+    },
+    {
+      "title": "Incentivizing Differentially Private Federated Learning: A Multidimensional Contract Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3050163",
+      "publicationDate": "2021-01-08",
+      "year": 2021
+    },
+    {
+      "title": "Federated Model Distillation with Noise-Free Differential Privacy",
+      "arxiv_id": "2009.05537",
+      "doi": "10.24963/ijcai.2021/216",
+      "publicationDate": "2020-09-11",
+      "year": 2020
+    },
+    {
+      "title": "Learning discrete distributions: user vs item-level privacy",
+      "arxiv_id": "2007.13660",
+      "doi": null,
+      "publicationDate": "2020-07-27",
+      "year": 2020
+    },
+    {
+      "title": "A Secure Federated Transfer Learning Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/MIS.2020.2988525",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "DP-FL: a novel differentially private federated learning framework for the unbalanced data",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-020-00780-4",
+      "publicationDate": "2020-04-30",
+      "year": 2020
+    },
+    {
+      "title": "Local Differential Privacy-Based Federated Learning for Internet of Things",
+      "arxiv_id": "2004.08856",
+      "doi": "10.1109/JIOT.2020.3037194",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "The Discrete Gaussian for Differential Privacy",
+      "arxiv_id": "2004.00010",
+      "doi": "10.29012/jpc.784",
+      "publicationDate": "2020-03-31",
+      "year": 2020
+    },
+    {
+      "title": "Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach",
+      "arxiv_id": "2003.08725",
+      "doi": "10.1109/JIOT.2020.2991401",
+      "publicationDate": "2020-03-19",
+      "year": 2020
+    },
+    {
+      "title": "Differentially Private Asynchronous Federated Learning for Mobile Edge Computing in Urban Informatics",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2019.2942179",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "Federated Learning With Differential Privacy: Algorithms and Performance Analysis",
+      "arxiv_id": "1911.00222",
+      "doi": "10.1109/TIFS.2020.2988575",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Generalized Linear Models in Non-interactive Local Differential Privacy with Public Data",
+      "arxiv_id": "1910.00482",
+      "doi": null,
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "ARA: Aggregated RAPPOR and Analysis for Centralized Differential Privacy",
+      "arxiv_id": "2001.01618",
+      "doi": "10.1007/s42979-019-0023-y",
+      "publicationDate": "2019-09-16",
+      "year": 2019
+    },
+    {
+      "title": "A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection",
+      "arxiv_id": "1907.09693",
+      "doi": "10.1109/TKDE.2021.3124599",
+      "publicationDate": "2019-07-23",
+      "year": 2019
+    },
+    {
+      "title": "Secure and Utility-Aware Data Collection with Condensed Local Differential Privacy",
+      "arxiv_id": "1905.06361",
+      "doi": "10.1109/tdsc.2019.2949041",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "Differentially Private Learning with Adaptive Clipping",
+      "arxiv_id": "1905.03871",
+      "doi": null,
+      "publicationDate": "2019-05-09",
+      "year": 2019
+    },
+    {
+      "title": "Federated Machine Learning",
+      "arxiv_id": "1902.04885",
+      "doi": "10.1145/3298981",
+      "publicationDate": "2019-01-28",
+      "year": 2019
+    },
+    {
+      "title": "An overview of deep learning in medical imaging focusing on MRI",
+      "arxiv_id": "1811.10052",
+      "doi": "10.1016/j.zemedi.2018.11.002",
+      "publicationDate": "2018-11-25",
+      "year": 2018
+    },
+    {
+      "title": "Private Continual Release of Real-Valued Data Streams",
+      "arxiv_id": "1811.03197",
+      "doi": "10.14722/NDSS.2019.23535",
+      "publicationDate": "2018-11-08",
+      "year": 2018
+    },
+    {
+      "title": "Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2018.2805356",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "DP-ADMM: ADMM-Based Distributed Learning With Differential Privacy",
+      "arxiv_id": "1808.10101",
+      "doi": "10.1109/TIFS.2019.2931068",
+      "publicationDate": "2018-08-30",
+      "year": 2018
+    },
+    {
+      "title": "Machine Learning Models that Remember Too Much",
+      "arxiv_id": "1709.07886",
+      "doi": "10.1145/3133956.3134077",
+      "publicationDate": "2017-09-22",
+      "year": 2017
+    },
+    {
+      "title": "A differential privacy framework for matrix factorization recommender systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s11257-016-9177-7",
+      "publicationDate": "2016-08-16",
+      "year": 2016
+    },
+    {
+      "title": "Minimax Optimal Procedures for Locally Private Estimation",
+      "arxiv_id": "1604.02390",
+      "doi": "10.1080/01621459.2017.1389735",
+      "publicationDate": "2016-04-08",
+      "year": 2016
+    },
+    {
+      "title": "Rényi Divergence and Kullback-Leibler Divergence",
+      "arxiv_id": "1206.2459",
+      "doi": "10.1109/TIT.2014.2320500",
+      "publicationDate": "2012-06-12",
+      "year": 2012
+    },
+    {
+      "title": "Private and Continual Release of Statistics",
+      "arxiv_id": null,
+      "doi": "10.1145/2043621.2043626",
+      "publicationDate": "2010-07-06",
+      "year": 2010
+    },
+    {
+      "title": "On lattices, learning with errors, random linear codes, and cryptography",
+      "arxiv_id": "2401.03703",
+      "doi": "10.1145/1568318.1568324",
+      "publicationDate": "2009-09-01",
+      "year": 2009
+    },
+    {
+      "title": "Randomized response: a survey technique for eliminating evasive answer bias.",
+      "arxiv_id": null,
+      "doi": "10.1080/01621459.1965.10480775",
+      "publicationDate": "1965-03-01",
+      "year": 1965
+    },
+    {
+      "title": "A Systematic Survey for Differential Privacy Techniques in Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.4236/jis.2023.142008",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SeqPATE: Differentially Private Text Generation via Knowledge Distillation",
+      "arxiv_id": null,
+      "doi": "10.52202/068431-0808",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Smoothly Bounding User Contributions in Differential Privacy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "The frequency distribution of the difference between two Poisson variates belonging to different populations.",
+      "arxiv_id": null,
+      "doi": "10.2307/2981372",
+      "publicationDate": null,
+      "year": 1946
+    }
+  ]
+}

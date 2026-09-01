@@ -1,0 +1,806 @@
+{
+  "candidate": {
+    "topic": "BBR Congestion Control Algorithms",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3793537",
+      "title": "BBR Congestion Control Algorithms: Evolution, Challenges and Future Directions",
+      "published": "2026-02-25"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:51+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 110,
+    "arxiv_resolvable": 18,
+    "doi_only": 79,
+    "unresolved": 13
+  },
+  "gt_s2": {
+    "paperId": "4613821c60065fc3d9ed6a8bba837f35e531bba0",
+    "externalIds": {
+      "DBLP": "journals/csur/AbrolMHG26",
+      "DOI": "10.1145/3793537",
+      "CorpusId": 284982701
+    },
+    "title": "BBR Congestion Control Algorithms: Evolution, Challenges and Future Directions",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 110,
+    "publicationDate": "2026-01-26"
+  },
+  "refs": [
+    {
+      "title": "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite",
+      "arxiv_id": "2411.09895",
+      "doi": "10.1145/3689819",
+      "publicationDate": "2024-11-15",
+      "year": 2024
+    },
+    {
+      "title": "Troubleshooting solution for traffic congestion control",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2024.103923",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM52122.2024.10621288",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Evaluating TCP BBRv3 performance in wired broadband networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2024.04.037",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "FaiRTT: An Empirical Approach for Enhanced RTT Fairness and Bottleneck Throughput in BBR",
+      "arxiv_id": "2403.19973",
+      "doi": "10.1109/ICCWorkshops59551.2024.10615947",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in Next-Gen Networks",
+      "arxiv_id": "2402.04515",
+      "doi": "10.1109/ICC51166.2024.10622726",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "TCP BBR-n: Increased throughput for wireless-AC networks",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0295576",
+      "publicationDate": "2023-12-11",
+      "year": 2023
+    },
+    {
+      "title": "Making TCP BBR Pacing Adaptive With Domain Knowledge Assisted Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2023.3244864",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Optimization of BBR Congestion Control Algorithm Based on Pacing Gain Model",
+      "arxiv_id": null,
+      "doi": "10.3390/s23094431",
+      "publicationDate": "2023-04-30",
+      "year": 2023
+    },
+    {
+      "title": "On the Road to 6G: Visions, Requirements, Key Technologies, and Testbeds",
+      "arxiv_id": "2302.14536",
+      "doi": "10.1109/comst.2023.3249835",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "A Deep Reinforcement Learning Framework for Optimizing Congestion Control in Data Centers",
+      "arxiv_id": "2301.12558",
+      "doi": "10.1109/NOMS56928.2023.10154411",
+      "publicationDate": "2023-01-29",
+      "year": 2023
+    },
+    {
+      "title": "Yinker: A flexible BBR to achieve the high-throughput and low-latency data transmission over Wi-Fi and 5G networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109530",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Model-based insights on the performance, fairness, and stability of BBR",
+      "arxiv_id": "2208.10103",
+      "doi": "10.1145/3517745.3561420",
+      "publicationDate": "2022-08-22",
+      "year": 2022
+    },
+    {
+      "title": "Improving Inter-Protocol Fairness Based on Estimated Behavior of Competing Flows",
+      "arxiv_id": null,
+      "doi": "10.23919/ifipnetworking55013.2022.9829780",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "Improvement of BBRv2 Congestion Control Algorithm Based on Flow-aware ECN",
+      "arxiv_id": null,
+      "doi": "10.1155/2022/1218245",
+      "publicationDate": "2022-05-07",
+      "year": 2022
+    },
+    {
+      "title": "A survey on TCP enhancements using P4-programmable devices",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109030",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "On the Performance Evaluation of Congestion Control Algorithms against DDoS Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/DSA52907.2021.00043",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "BBRv2+: Towards Balancing Aggressiveness and Fairness with Delay-based Bandwidth Probing",
+      "arxiv_id": "2107.03057",
+      "doi": "10.1016/j.comnet.2022.108789",
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "RAN Information-assisted TCP Congestion Control via DRL with Reward Redistribution",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCWorkshops50388.2021.9473523",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Improved RTT Fairness of BBR Congestion Control Algorithm Based on Adaptive Congestion Window",
+      "arxiv_id": null,
+      "doi": "10.3390/ELECTRONICS10050615",
+      "publicationDate": "2021-03-06",
+      "year": 2021
+    },
+    {
+      "title": "Seven Defining Features of Terahertz (THz) Wireless Systems: A Fellowship of Communication and Sensing",
+      "arxiv_id": "2102.07668",
+      "doi": "10.1109/comst.2022.3143454",
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "Measurements Comparing TCP Cubic and TCP BBR over a Satellite Network",
+      "arxiv_id": null,
+      "doi": "10.1109/CCNC49032.2021.9369602",
+      "publicationDate": "2021-01-09",
+      "year": 2021
+    },
+    {
+      "title": "BBR-Based Congestion Control and Packet Scheduling for Bottleneck Fairness Considered Multipath TCP in Heterogeneous Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2020.3047877",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "TCP Congestion Control Performance on a Highway in a Live LTE Network",
+      "arxiv_id": null,
+      "doi": "10.1109/VTC2020-Fall49728.2020.9348515",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "When Machine Learning Meets Congestion Control: A Survey and Comparison",
+      "arxiv_id": "2010.11397",
+      "doi": "10.1016/J.COMNET.2021.108033",
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Intra-protocol Convergence Problem in BBRv2’s Bandwidth Probing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTC49870.2020.9289384",
+      "publicationDate": "2020-10-21",
+      "year": 2020
+    },
+    {
+      "title": "Congestion control model for securing internet of things data flow",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2020.102160",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "An emulation-based evaluation of TCP BBRv2 Alpha for wired broadband",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2020.07.018",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "RFBBR: A Rtt Faireness Awared Algorithm Based on BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/SmartIoT49966.2020.00027",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Classic Meets Modern: a Pragmatic Learning-Based Congestion Control for the Internet",
+      "arxiv_id": null,
+      "doi": "10.1145/3387514.3405892",
+      "publicationDate": "2020-07-30",
+      "year": 2020
+    },
+    {
+      "title": "BBRvl vs BBRv2: Examining Performance Differences through Experimental Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/LANMAN49260.2020.9153268",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Eagle: Refining Congestion Control by Learning from the Experts",
+      "arxiv_id": null,
+      "doi": "10.1109/infocom41043.2020.9155250",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "A Performance Evaluation of TCP BBRv2 Alpha",
+      "arxiv_id": null,
+      "doi": "10.1109/TSP49548.2020.9163512",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Challenges Associated with Implementing 5G in Manufacturing",
+      "arxiv_id": null,
+      "doi": "10.3390/telecom1010005",
+      "publicationDate": "2020-06-12",
+      "year": 2020
+    },
+    {
+      "title": "Congestion Control in the Wild—Investigating Content Provider Fairness",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2019.2962607",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "BBR-CWS: Improving the Inter-Protocol Fairness of BBR",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics9050862",
+      "publicationDate": "2020-05-22",
+      "year": 2020
+    },
+    {
+      "title": "BBRp: Improving TCP BBR Performance Over WLAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2977834",
+      "publicationDate": "2020-03-02",
+      "year": 2020
+    },
+    {
+      "title": "Improvement of inter-protocol fairness for BBR congestion control using machine learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAIIC48513.2020.9065259",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "TCP Behavior on Multi-Gigabit IEEE 802.11ad Link",
+      "arxiv_id": null,
+      "doi": "10.1109/ICGHIT49656.2020.00022",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "BBR-ACD: BBR with Advanced Congestion Detection",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics9010136",
+      "publicationDate": "2020-01-10",
+      "year": 2020
+    },
+    {
+      "title": "Congestion Window Scaling Method for Inter-protocol Fairness of BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/CCNC46108.2020.9045307",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "SDN-based Wireless Access Networks Utilising BBR TCP Congestion Control",
+      "arxiv_id": null,
+      "doi": "10.1109/ITNAC46935.2019.9078015",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Improvement of Cyclic Performance Variation between TCP BBR and CUBIC",
+      "arxiv_id": null,
+      "doi": "10.1109/APCC47188.2019.9026471",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "When to use and when not to use BBR: An empirical analysis and evaluation study",
+      "arxiv_id": null,
+      "doi": "10.1145/3355369.3355579",
+      "publicationDate": "2019-10-21",
+      "year": 2019
+    },
+    {
+      "title": "Modeling BBR's Interactions with Loss-Based Congestion Control",
+      "arxiv_id": null,
+      "doi": "10.1145/3355369.3355604",
+      "publicationDate": "2019-10-21",
+      "year": 2019
+    },
+    {
+      "title": "Enhanced Loss-Recovery Mechanism for BBR to Improve Inter-protocol Fairness",
+      "arxiv_id": null,
+      "doi": "10.1109/ictc46691.2019.8939768",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "An Evaluation of BBR and its variants",
+      "arxiv_id": "1909.03673",
+      "doi": null,
+      "publicationDate": "2019-09-09",
+      "year": 2019
+    },
+    {
+      "title": "Performance Analysis of BBR Congestion Control Protocol Based on NS3",
+      "arxiv_id": null,
+      "doi": "10.1109/CBD.2019.00071",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Reproducible measurements of TCP BBR congestion control",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMCOM.2019.05.011",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Enhanced BBR Congestion Control Algorithm for Improving RTT Fairness",
+      "arxiv_id": null,
+      "doi": "10.1109/ICUFN.2019.8806064",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "TCP BBR for Ultra-Low Latency Networking: Challenges, Analysis, and Solutions",
+      "arxiv_id": null,
+      "doi": "10.23919/IFIPNetworking.2019.8816856",
+      "publicationDate": "2019-05-20",
+      "year": 2019
+    },
+    {
+      "title": "Adaptive-BBR: Fine-Grained Congestion Control with Improved Fairness and Low Latency",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC.2019.8885527",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Delay-Based and Hybrid TCP Congestion Control Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2019.2904994",
+      "publicationDate": "2019-03-18",
+      "year": 2019
+    },
+    {
+      "title": "Dynamic TCP Initial Windows and Congestion Control Schemes Through Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2019.2904350",
+      "publicationDate": "2019-03-18",
+      "year": 2019
+    },
+    {
+      "title": "An Evaluation of Multipath TCP in Lossy Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/PERCOMW.2019.8730695",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Fairness Improvement of BBR Congestion Control Algorithm for Different RTT Flows",
+      "arxiv_id": null,
+      "doi": "10.23919/ELINFOCOM.2019.8706412",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "Unraveling the RTT-fairness Problem for BBR: A Queueing Model",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOCOM.2018.8647260",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "Performance Evaluation of QUIC with BBR in Satellite Internet",
+      "arxiv_id": null,
+      "doi": "10.1109/WiSEE.2018.8637347",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "Applications of Deep Reinforcement Learning in Communications and Networking: A Survey",
+      "arxiv_id": "1810.07862",
+      "doi": "10.1109/COMST.2019.2916583",
+      "publicationDate": "2018-10-18",
+      "year": 2018
+    },
+    {
+      "title": "A Survey on Recent Advances in Transport Layer Protocols",
+      "arxiv_id": "1810.03884",
+      "doi": "10.1109/COMST.2019.2932905",
+      "publicationDate": "2018-10-09",
+      "year": 2018
+    },
+    {
+      "title": "TCP Fairness Among Modern TCP Congestion Control Algorithms Including TCP BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/CloudNet.2018.8549505",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Cycle and Divergence of Performance on TCP BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/CloudNet.2018.8549411",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Impact of TCP BBR on CUBIC Traffic: A Mixed Workload Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/ITC30.2018.00040",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "wBBR: A Bottleneck Estimation-Based Congestion Control for Multipath TCP",
+      "arxiv_id": null,
+      "doi": "10.1109/VTCFall.2018.8690919",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach",
+      "arxiv_id": null,
+      "doi": "10.1145/3232755.3232769",
+      "publicationDate": "2018-07-16",
+      "year": 2018
+    },
+    {
+      "title": "Cyclic Performance Fluctuation of TCP BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2018.00132",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Impact of Segment Size and Parallel Streams on TCP BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/TSP.2018.8441250",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Will TCP Work in mmWave 5G Cellular Networks?",
+      "arxiv_id": "1806.05783",
+      "doi": "10.1109/MCOM.2018.1701370",
+      "publicationDate": "2018-06-15",
+      "year": 2018
+    },
+    {
+      "title": "Design and implementation of TCP BBR in ns-3",
+      "arxiv_id": null,
+      "doi": "10.1145/3199902.3199911",
+      "publicationDate": "2018-06-13",
+      "year": 2018
+    },
+    {
+      "title": "Measurement Analysis of TCP Congestion Control Algorithms in LTE Uplink",
+      "arxiv_id": null,
+      "doi": "10.23919/TMA.2018.8506522",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Modest BBR: Enabling Better Fairness for BBR Congestion Control",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCC.2018.8538521",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Towards a Deeper Understanding of TCP BBR Congestion Control",
+      "arxiv_id": null,
+      "doi": "10.23919/IFIPNetworking.2018.8696830",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Poster abstract: Analysis and experimental investigation of BBR",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOMW.2018.8406998",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "On the Use of TCP BBR in Cellular Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.2018.1700725",
+      "publicationDate": "2018-03-15",
+      "year": 2018
+    },
+    {
+      "title": "Congestion-Control Throwdown",
+      "arxiv_id": null,
+      "doi": "10.1145/3152434.3152446",
+      "publicationDate": "2017-11-30",
+      "year": 2017
+    },
+    {
+      "title": "Experimental evaluation of BBR congestion control",
+      "arxiv_id": null,
+      "doi": "10.1109/ICNP.2017.8117540",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "BBR Congestion Control",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-03",
+      "year": 2017
+    },
+    {
+      "title": "Fairness of Congestion-Based Congestion Control: Experimental Evaluation and Analysis",
+      "arxiv_id": "1706.09115",
+      "doi": null,
+      "publicationDate": "2017-06-28",
+      "year": 2017
+    },
+    {
+      "title": "BBR: Congestion-Based Congestion Control",
+      "arxiv_id": null,
+      "doi": "10.1145/3012426.3022184",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Adaptive Path Isolation for Elephant and Mice Flows by Exploiting Path Diversity in Datacenters",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2016.2517087",
+      "publicationDate": "2016-01-12",
+      "year": 2016
+    },
+    {
+      "title": "Network Function Virtualization: State-of-the-Art and Research Challenges",
+      "arxiv_id": "1509.07675",
+      "doi": "10.1109/COMST.2015.2477041",
+      "publicationDate": "2015-09-25",
+      "year": 2015
+    },
+    {
+      "title": "Microsoft's Datacenter TCP (DCTCP): TCP Congestion Control for Datacenters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-07",
+      "year": 2015
+    },
+    {
+      "title": "Software defined networking: State of the art and research challenges",
+      "arxiv_id": "1406.0124",
+      "doi": "10.1016/j.comnet.2014.07.004",
+      "publicationDate": "2014-05-31",
+      "year": 2014
+    },
+    {
+      "title": "P4: programming protocol-independent packet processors",
+      "arxiv_id": "1312.1719",
+      "doi": "10.1145/2656877.2656890",
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "Performance study of TCP flows with QoS-supported OpenFlow in data center networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICON.2013.6781936",
+      "publicationDate": "2013-12-01",
+      "year": 2013
+    },
+    {
+      "title": "TCP ex machina: computer-generated congestion control",
+      "arxiv_id": null,
+      "doi": "10.1145/2486001.2486020",
+      "publicationDate": "2013-08-12",
+      "year": 2013
+    },
+    {
+      "title": "Collaborative TCP sequence number inference attack: how to crack sequence number under a second",
+      "arxiv_id": null,
+      "doi": "10.1145/2382196.2382258",
+      "publicationDate": "2012-10-16",
+      "year": 2012
+    },
+    {
+      "title": "Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes Reduce Security",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2012.29",
+      "publicationDate": "2012-05-20",
+      "year": 2012
+    },
+    {
+      "title": "CUBIC: a new TCP-friendly high-speed TCP variant",
+      "arxiv_id": null,
+      "doi": "10.1145/1400097.1400105",
+      "publicationDate": "2008-07-01",
+      "year": 2008
+    },
+    {
+      "title": "Binary increase congestion control (BIC) for fast long-distance networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2004.1354672",
+      "publicationDate": "2004-03-07",
+      "year": 2004
+    },
+    {
+      "title": "TCP congestion control with a misbehaving receiver",
+      "arxiv_id": null,
+      "doi": "10.1145/505696.505704",
+      "publicationDate": "1999-10-05",
+      "year": 1999
+    },
+    {
+      "title": "A Quantitative Measure Of Fairness And Discrimination For Resource Allocation In Shared Computer Systems",
+      "arxiv_id": "cs/9809099",
+      "doi": null,
+      "publicationDate": "1998-09-24",
+      "year": 1998
+    },
+    {
+      "title": "Simulation-based comparisons of Tahoe, Reno and SACK TCP",
+      "arxiv_id": null,
+      "doi": "10.1145/235160.235162",
+      "publicationDate": "1996-07-01",
+      "year": 1996
+    },
+    {
+      "title": "TCP Vegas: new techniques for congestion detection and avoidance",
+      "arxiv_id": null,
+      "doi": "10.1145/190314.190317",
+      "publicationDate": "1994-10-01",
+      "year": 1994
+    },
+    {
+      "title": "Evaluating Transport Layer Congestion Control Algorithms: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3533303",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "[ Received 5 February 2025; revised 15 December 2025; accepted 19 January 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Mutant: Learning Congestion Control from Existing Protocols via Online Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". BBRv3: Algorithm bug fixes and public internet deployment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Survey on Machine Learning for Intelligent End-to-End Communication Toward 6G: From Network Access, Routing to Traffic Control and Streaming Adaption",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3073009",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Understanding of BBRv2: Evaluation and Comparison With BBRv1 Congestion Control Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3061696",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Delay-Aware BBR Congestion Control Algorithm for RTT Fairness Improvement",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2962213",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Congestion Control and Packet Scheduling for Multipath Real Time Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2913902",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Off-Path TCP Exploits: Global Rate Limit Considered Dangerous",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Power and deterministic rules of thumb for probabilistic problems in computer communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1979
+    },
+    {
+      "title": "2024. Performance Evaluation of TCP BBRv3 in Networks with Multiple Round Trip Times",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. BBR-With enhanced fairness (BBR-EFRA): A new enhanced RTT fairness for BBR congestion control algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Promises and Potential of BBRv3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Evolution of RAN Architectures Toward 6G: Motivation, Development, and Enabling Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Coexistence of delay-based TCP congestion control: Challenges and opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Cybertwin-driven DRL-based adaptive transmission scheduling for software defined vehicular networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

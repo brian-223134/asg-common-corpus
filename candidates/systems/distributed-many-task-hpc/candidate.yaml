@@ -1,0 +1,8 @@
+topic: A Survey of Distributed Asynchronous Many-Task Models and Their Applications
+domain: systems
+gt:
+  arxiv_id: null
+  doi: "10.1145/3840389"
+  title: "A Survey of Distributed Asynchronous Many-Task Models and Their Applications"
+  published: "2026-08-14"
+notes: "probe: 암호(IACR ePrint)/HPC(SC·IPDPS) 문헌 생태가 arXiv-backed corpus에서 어느 정도 커버되는지 실측용. 사전 필터의 'arXiv 친화성' prior 검증"

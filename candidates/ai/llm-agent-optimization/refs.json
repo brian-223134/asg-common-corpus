@@ -1,0 +1,1724 @@
+{
+  "candidate": {
+    "topic": "A Survey on the Optimization of Large Language Model-based Agents",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3789261",
+      "title": "A Survey on the Optimization of Large Language Model-based Agents",
+      "published": "2026-02-11"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:08:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 241,
+    "arxiv_resolvable": 194,
+    "doi_only": 18,
+    "unresolved": 29
+  },
+  "gt_s2": {
+    "paperId": "2ec6caff88519e06a3148fe2890f1741b30ce623",
+    "externalIds": {
+      "ArXiv": "2503.12434",
+      "DBLP": "journals/corr/abs-2503-12434",
+      "DOI": "10.1145/3789261",
+      "CorpusId": 277065966
+    },
+    "title": "A Survey on the Optimization of Large Language Model-based Agents",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 241,
+    "publicationDate": "2025-03-16"
+  },
+  "refs": [
+    {
+      "title": "DualResearch: Entropy-Gated Dual-Graph Retrieval for Answer Reconstruction",
+      "arxiv_id": "2510.08959",
+      "doi": "10.48550/arXiv.2510.08959",
+      "publicationDate": "2025-10-10",
+      "year": 2025
+    },
+    {
+      "title": "FlowSearch: Advancing deep research with dynamic structured knowledge flow",
+      "arxiv_id": "2510.08521",
+      "doi": "10.48550/arXiv.2510.08521",
+      "publicationDate": "2025-10-09",
+      "year": 2025
+    },
+    {
+      "title": "AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents",
+      "arxiv_id": "2510.08511",
+      "doi": "10.48550/arXiv.2510.08511",
+      "publicationDate": "2025-10-09",
+      "year": 2025
+    },
+    {
+      "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+      "arxiv_id": "2510.04618",
+      "doi": "10.48550/arXiv.2510.04618",
+      "publicationDate": "2025-10-06",
+      "year": 2025
+    },
+    {
+      "title": "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning",
+      "arxiv_id": "2509.08755",
+      "doi": "10.48550/arXiv.2509.08755",
+      "publicationDate": "2025-09-10",
+      "year": 2025
+    },
+    {
+      "title": "LLM as a Judge",
+      "arxiv_id": null,
+      "doi": "10.3156/jsoft.37.3_69_1",
+      "publicationDate": "2025-08-15",
+      "year": 2025
+    },
+    {
+      "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+      "arxiv_id": "2507.21504",
+      "doi": "10.1145/3711896.3736570",
+      "publicationDate": "2025-07-29",
+      "year": 2025
+    },
+    {
+      "title": "AlphaEvolve: A coding agent for scientific and algorithmic discovery",
+      "arxiv_id": "2506.13131",
+      "doi": "10.48550/arXiv.2506.13131",
+      "publicationDate": "2025-06-16",
+      "year": 2025
+    },
+    {
+      "title": "A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications",
+      "arxiv_id": "2506.12594",
+      "doi": "10.48550/arXiv.2506.12594",
+      "publicationDate": "2025-06-14",
+      "year": 2025
+    },
+    {
+      "title": "InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification",
+      "arxiv_id": "2505.16938",
+      "doi": null,
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "Retrospex: Language Agent Meets Offline Reinforcement Learning Critic",
+      "arxiv_id": "2505.11807",
+      "doi": "10.18653/v1/2024.emnlp-main.268",
+      "publicationDate": "2025-05-17",
+      "year": 2025
+    },
+    {
+      "title": "SAGE: Self-evolving Agents with Reflective and Memory-augmented Abilities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2025.130470",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+      "arxiv_id": "2504.21776",
+      "doi": "10.48550/arXiv.2504.21776",
+      "publicationDate": "2025-04-30",
+      "year": 2025
+    },
+    {
+      "title": "Why Do Multi-Agent LLM Systems Fail?",
+      "arxiv_id": "2503.13657",
+      "doi": "10.48550/arXiv.2503.13657",
+      "publicationDate": "2025-03-17",
+      "year": 2025
+    },
+    {
+      "title": "MPO: Boosting LLM Agents with Meta Plan Optimization",
+      "arxiv_id": "2503.02682",
+      "doi": "10.48550/arXiv.2503.02682",
+      "publicationDate": "2025-03-04",
+      "year": 2025
+    },
+    {
+      "title": "ATLaS: Agent Tuning via Learning Critical Steps",
+      "arxiv_id": "2503.02197",
+      "doi": "10.48550/arXiv.2503.02197",
+      "publicationDate": "2025-03-04",
+      "year": 2025
+    },
+    {
+      "title": "STeCa: Step-level Trajectory Calibration for LLM Agent Learning",
+      "arxiv_id": "2502.14276",
+      "doi": "10.48550/arXiv.2502.14276",
+      "publicationDate": "2025-02-20",
+      "year": 2025
+    },
+    {
+      "title": "Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies",
+      "arxiv_id": "2502.02533",
+      "doi": "10.48550/arXiv.2502.02533",
+      "publicationDate": "2025-02-04",
+      "year": 2025
+    },
+    {
+      "title": "Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search",
+      "arxiv_id": "2502.00955",
+      "doi": "10.48550/arXiv.2502.00955",
+      "publicationDate": "2025-02-02",
+      "year": 2025
+    },
+    {
+      "title": "The rise and potential of large language model based agents: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-024-4222-0",
+      "publicationDate": "2025-01-17",
+      "year": 2025
+    },
+    {
+      "title": "Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains",
+      "arxiv_id": "2501.05707",
+      "doi": "10.48550/arXiv.2501.05707",
+      "publicationDate": "2025-01-10",
+      "year": 2025
+    },
+    {
+      "title": "IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment",
+      "arxiv_id": "2501.02869",
+      "doi": "10.48550/arXiv.2501.02869",
+      "publicationDate": "2025-01-06",
+      "year": 2025
+    },
+    {
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "arxiv_id": "2412.20138",
+      "doi": "10.48550/arXiv.2412.20138",
+      "publicationDate": "2024-12-28",
+      "year": 2024
+    },
+    {
+      "title": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",
+      "arxiv_id": "2412.18925",
+      "doi": "10.48550/arXiv.2412.18925",
+      "publicationDate": "2024-12-25",
+      "year": 2024
+    },
+    {
+      "title": "KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis",
+      "arxiv_id": "2412.16833",
+      "doi": "10.48550/arXiv.2412.16833",
+      "publicationDate": "2024-12-22",
+      "year": 2024
+    },
+    {
+      "title": "A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops",
+      "arxiv_id": "2412.17149",
+      "doi": "10.48550/arXiv.2412.17149",
+      "publicationDate": "2024-12-22",
+      "year": 2024
+    },
+    {
+      "title": "From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge",
+      "arxiv_id": "2411.16594",
+      "doi": "10.48550/arXiv.2411.16594",
+      "publicationDate": "2024-11-25",
+      "year": 2024
+    },
+    {
+      "title": "DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration",
+      "arxiv_id": "2411.15692",
+      "doi": "10.48550/arXiv.2411.15692",
+      "publicationDate": "2024-11-24",
+      "year": 2024
+    },
+    {
+      "title": "Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning",
+      "arxiv_id": "2411.14497",
+      "doi": "10.48550/arXiv.2411.14497",
+      "publicationDate": "2024-11-21",
+      "year": 2024
+    },
+    {
+      "title": "From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning",
+      "arxiv_id": "2411.03817",
+      "doi": "10.48550/arXiv.2411.03817",
+      "publicationDate": "2024-11-06",
+      "year": 2024
+    },
+    {
+      "title": "SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents",
+      "arxiv_id": "2411.03284",
+      "doi": "10.48550/arXiv.2411.03284",
+      "publicationDate": "2024-11-05",
+      "year": 2024
+    },
+    {
+      "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+      "arxiv_id": "2411.02337",
+      "doi": "10.48550/arXiv.2411.02337",
+      "publicationDate": "2024-11-04",
+      "year": 2024
+    },
+    {
+      "title": "FinVision: A Multi-Agent Framework for Stock Market Prediction",
+      "arxiv_id": "2411.08899",
+      "doi": "10.1145/3677052.3698688",
+      "publicationDate": "2024-10-29",
+      "year": 2024
+    },
+    {
+      "title": "AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline",
+      "arxiv_id": "2410.20878",
+      "doi": "10.48550/arXiv.2410.20878",
+      "publicationDate": "2024-10-28",
+      "year": 2024
+    },
+    {
+      "title": "AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning",
+      "arxiv_id": "2410.13181",
+      "doi": "10.48550/arXiv.2410.13181",
+      "publicationDate": "2024-10-17",
+      "year": 2024
+    },
+    {
+      "title": "AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories",
+      "arxiv_id": "2410.07706",
+      "doi": "10.48550/arXiv.2410.07706",
+      "publicationDate": "2024-10-10",
+      "year": 2024
+    },
+    {
+      "title": "A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges",
+      "arxiv_id": null,
+      "doi": "10.1007/s44336-024-00009-2",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning",
+      "arxiv_id": "2410.06101",
+      "doi": "10.48550/arXiv.2410.06101",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+      "arxiv_id": "2410.03859",
+      "doi": "10.48550/arXiv.2410.03859",
+      "publicationDate": "2024-10-04",
+      "year": 2024
+    },
+    {
+      "title": "RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning",
+      "arxiv_id": "2410.02089",
+      "doi": "10.48550/arXiv.2410.02089",
+      "publicationDate": "2024-10-02",
+      "year": 2024
+    },
+    {
+      "title": "Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs",
+      "arxiv_id": "2409.19401",
+      "doi": "10.48550/arXiv.2409.19401",
+      "publicationDate": "2024-09-28",
+      "year": 2024
+    },
+    {
+      "title": "Agents in software engineering: survey, landscape, and vision",
+      "arxiv_id": "2409.09030",
+      "doi": "10.1007/s10515-025-00544-2",
+      "publicationDate": "2024-09-13",
+      "year": 2024
+    },
+    {
+      "title": "E2CL: Exploration-based Error Correction Learning for Embodied Agents",
+      "arxiv_id": "2409.03256",
+      "doi": "10.48550/arXiv.2409.03256",
+      "publicationDate": "2024-09-05",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+      "arxiv_id": "2409.02977",
+      "doi": "10.48550/arXiv.2409.02977",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+      "arxiv_id": "2409.00872",
+      "doi": "10.48550/arXiv.2409.00872",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "EPO: Hierarchical LLM Agents with Environment Preference Optimization",
+      "arxiv_id": "2408.16090",
+      "doi": "10.48550/arXiv.2408.16090",
+      "publicationDate": "2024-08-28",
+      "year": 2024
+    },
+    {
+      "title": "The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities",
+      "arxiv_id": "2408.13296",
+      "doi": "10.48550/arXiv.2408.13296",
+      "publicationDate": "2024-08-23",
+      "year": 2024
+    },
+    {
+      "title": "Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents",
+      "arxiv_id": "2408.07199",
+      "doi": "10.48550/arXiv.2408.07199",
+      "publicationDate": "2024-08-13",
+      "year": 2024
+    },
+    {
+      "title": "Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks",
+      "arxiv_id": "2408.03615",
+      "doi": "10.48550/arXiv.2408.03615",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance",
+      "arxiv_id": "2408.01869",
+      "doi": "10.48550/arXiv.2408.01869",
+      "publicationDate": "2024-08-03",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model Agent in Financial Trading: A Survey",
+      "arxiv_id": "2408.06361",
+      "doi": "10.1145/3802463.3802475",
+      "publicationDate": "2024-07-26",
+      "year": 2024
+    },
+    {
+      "title": "Recursive Introspection: Teaching Language Model Agents How to Self-Improve",
+      "arxiv_id": "2407.18219",
+      "doi": "10.48550/arXiv.2407.18219",
+      "publicationDate": "2024-07-25",
+      "year": 2024
+    },
+    {
+      "title": "COMET: “cone of experience” enhanced large multimodal model for mathematical problem generation",
+      "arxiv_id": "2407.11315",
+      "doi": "10.1007/s11432-024-4242-0",
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks",
+      "arxiv_id": "2407.09893",
+      "doi": "10.48550/arXiv.2407.09893",
+      "publicationDate": "2024-07-13",
+      "year": 2024
+    },
+    {
+      "title": "CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis",
+      "arxiv_id": "2407.09811",
+      "doi": "10.48550/arXiv.2407.09811",
+      "publicationDate": "2024-07-13",
+      "year": 2024
+    },
+    {
+      "title": "FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making",
+      "arxiv_id": "2407.06567",
+      "doi": "10.48550/arXiv.2407.06567",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "A survey on LoRA of large language models",
+      "arxiv_id": "2407.11046",
+      "doi": "10.1007/s11704-024-40663-9",
+      "publicationDate": "2024-07-08",
+      "year": 2024
+    },
+    {
+      "title": "MMedAgent: Learning to Use Medical Tools with Multi-modal Agent",
+      "arxiv_id": "2407.02483",
+      "doi": "10.48550/arXiv.2407.02483",
+      "publicationDate": "2024-07-02",
+      "year": 2024
+    },
+    {
+      "title": "Simulating Financial Market via Large Language Model based Agents",
+      "arxiv_id": "2406.19966",
+      "doi": "10.48550/arXiv.2406.19966",
+      "publicationDate": "2024-06-28",
+      "year": 2024
+    },
+    {
+      "title": "Symbolic Learning Enables Self-Evolving Agents",
+      "arxiv_id": "2406.18532",
+      "doi": "10.48550/arXiv.2406.18532",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "Direct Multi-Turn Preference Optimization for Language Agents",
+      "arxiv_id": "2406.14868",
+      "doi": "10.48550/arXiv.2406.14868",
+      "publicationDate": "2024-06-21",
+      "year": 2024
+    },
+    {
+      "title": "Watch Every Step! LLM Agent Learning via Iterative Step-level Process Refinement",
+      "arxiv_id": "2406.11176",
+      "doi": "10.48550/arXiv.2406.11176",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "Improving Multi-Agent Debate with Sparse Communication Topology",
+      "arxiv_id": "2406.11776",
+      "doi": "10.48550/arXiv.2406.11776",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning",
+      "arxiv_id": "2406.11200",
+      "doi": "10.52202/079017-0817",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology",
+      "arxiv_id": "2406.11912",
+      "doi": "10.1109/Forge66646.2025.00026",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+      "arxiv_id": "2406.08747",
+      "doi": "10.48550/arXiv.2406.08747",
+      "publicationDate": "2024-06-13",
+      "year": 2024
+    },
+    {
+      "title": "FinVerse: An Autonomous Agent System for Versatile Financial Analysis",
+      "arxiv_id": "2406.06379",
+      "doi": "10.48550/arXiv.2406.06379",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "AgentGym: Evolving Large Language Model-based Agents across Diverse Environments",
+      "arxiv_id": "2406.04151",
+      "doi": "10.48550/arXiv.2406.04151",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "Re-ReST: Reflection-Reinforced Self-Training for Language Agents",
+      "arxiv_id": "2406.01495",
+      "doi": "10.18653/v1/2024.emnlp-main.861",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales",
+      "arxiv_id": "2405.20974",
+      "doi": "10.48550/arXiv.2405.20974",
+      "publicationDate": "2024-05-31",
+      "year": 2024
+    },
+    {
+      "title": "ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator",
+      "arxiv_id": "2405.18111",
+      "doi": "10.48550/arXiv.2405.18111",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments",
+      "arxiv_id": "2405.17631",
+      "doi": "10.48550/arXiv.2405.17631",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning",
+      "arxiv_id": "2405.16247",
+      "doi": "10.52202/079017-0019",
+      "publicationDate": "2024-05-25",
+      "year": 2024
+    },
+    {
+      "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models",
+      "arxiv_id": "2405.15223",
+      "doi": "10.48550/arXiv.2405.15223",
+      "publicationDate": "2024-05-24",
+      "year": 2024
+    },
+    {
+      "title": "AGILE: A Novel Reinforcement Learning Framework of LLM Agents",
+      "arxiv_id": "2405.14751",
+      "doi": "10.52202/079017-0170",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Agent Planning with World Knowledge Model",
+      "arxiv_id": "2405.14205",
+      "doi": "10.48550/arXiv.2405.14205",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Reinforcing Language Agents via Policy Optimization with Action Decomposition",
+      "arxiv_id": "2405.15821",
+      "doi": "10.48550/arXiv.2405.15821",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "MapCoder: Multi-Agent Code Generation for Competitive Problem Solving",
+      "arxiv_id": "2405.11403",
+      "doi": "10.48550/arXiv.2405.11403",
+      "publicationDate": "2024-05-18",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+      "arxiv_id": "2405.10292",
+      "doi": "10.48550/arXiv.2405.10292",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "MetaReflection: Learning Instructions for Language Agents using Past Reflections",
+      "arxiv_id": "2405.13009",
+      "doi": "10.48550/arXiv.2405.13009",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+      "arxiv_id": "2405.15793",
+      "doi": "10.48550/arXiv.2405.15793",
+      "publicationDate": "2024-05-06",
+      "year": 2024
+    },
+    {
+      "title": "Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents",
+      "arxiv_id": "2405.02957",
+      "doi": "10.48550/arXiv.2405.02957",
+      "publicationDate": "2024-05-05",
+      "year": 2024
+    },
+    {
+      "title": "MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making",
+      "arxiv_id": "2404.15155",
+      "doi": "10.52202/079017-2522",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Self-Evolution of Large Language Models",
+      "arxiv_id": "2404.14387",
+      "doi": "10.48550/arXiv.2404.14387",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+      "arxiv_id": "2404.13501",
+      "doi": "10.1145/3748302",
+      "publicationDate": "2024-04-21",
+      "year": 2024
+    },
+    {
+      "title": "Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization",
+      "arxiv_id": "2404.02183",
+      "doi": "10.48550/arXiv.2404.02183",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning",
+      "arxiv_id": "2403.19962",
+      "doi": "10.48550/arXiv.2403.19962",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models",
+      "arxiv_id": "2403.12881",
+      "doi": "10.48550/arXiv.2403.12881",
+      "publicationDate": "2024-03-19",
+      "year": 2024
+    },
+    {
+      "title": "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding",
+      "arxiv_id": "2403.11481",
+      "doi": "10.48550/arXiv.2403.11481",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction",
+      "arxiv_id": "2403.11886",
+      "doi": "10.48550/arXiv.2403.11886",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+      "arxiv_id": "2403.07974",
+      "doi": "10.48550/arXiv.2403.07974",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks",
+      "arxiv_id": "2403.04783",
+      "doi": "10.48550/arXiv.2403.04783",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist",
+      "arxiv_id": "2402.18485",
+      "doi": "10.1145/3637528.3671801",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+      "arxiv_id": "2402.17574",
+      "doi": "10.48550/arXiv.2402.17574",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning",
+      "arxiv_id": "2402.15506",
+      "doi": "10.48550/arXiv.2402.15506",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+      "arxiv_id": "2402.14672",
+      "doi": "10.48550/arXiv.2402.14672",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "AgentScope: A Flexible yet Robust Multi-Agent Platform",
+      "arxiv_id": "2402.14034",
+      "doi": "10.48550/arXiv.2402.14034",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning",
+      "arxiv_id": "2402.13225",
+      "doi": "10.48550/arXiv.2402.13225",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "SciAgent: Tool-augmented Language Models for Scientific Reasoning",
+      "arxiv_id": "2402.11451",
+      "doi": "10.48550/arXiv.2402.11451",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "Learning From Failure: Integrating Negative Examples when Fine-tuning Large Language Models as Agents",
+      "arxiv_id": "2402.11651",
+      "doi": "10.48550/arXiv.2402.11651",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "Offline Training of Language Model Agents with Functions as Learnable Weights",
+      "arxiv_id": "2402.11359",
+      "doi": null,
+      "publicationDate": "2024-02-17",
+      "year": 2024
+    },
+    {
+      "title": "AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator",
+      "arxiv_id": "2402.09742",
+      "doi": null,
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+      "arxiv_id": "2402.03610",
+      "doi": "10.48550/arXiv.2402.03610",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Understanding the planning of LLM agents: A survey",
+      "arxiv_id": "2402.02716",
+      "doi": "10.48550/arXiv.2402.02716",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback",
+      "arxiv_id": "2402.01469",
+      "doi": "10.48550/arXiv.2402.01469",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning",
+      "arxiv_id": "2402.04268",
+      "doi": "10.48550/arXiv.2402.04268",
+      "publicationDate": "2024-01-27",
+      "year": 2024
+    },
+    {
+      "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+      "arxiv_id": "2401.13178",
+      "doi": "10.48550/arXiv.2401.13178",
+      "publicationDate": "2024-01-24",
+      "year": 2024
+    },
+    {
+      "title": "ReFT: Reasoning with Reinforced Fine-Tuning",
+      "arxiv_id": "2401.08967",
+      "doi": "10.48550/arXiv.2401.08967",
+      "publicationDate": "2024-01-17",
+      "year": 2024
+    },
+    {
+      "title": "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World",
+      "arxiv_id": "2401.08577",
+      "doi": "10.1109/CVPR52733.2024.02494",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+      "arxiv_id": "2401.07339",
+      "doi": "10.48550/arXiv.2401.07339",
+      "publicationDate": "2024-01-14",
+      "year": 2024
+    },
+    {
+      "title": "AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning",
+      "arxiv_id": "2401.05268",
+      "doi": "10.18653/v1/2024.acl-long.165",
+      "publicationDate": "2024-01-10",
+      "year": 2024
+    },
+    {
+      "title": "Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk",
+      "arxiv_id": "2401.05033",
+      "doi": "10.48550/arXiv.2401.05033",
+      "publicationDate": "2024-01-10",
+      "year": 2024
+    },
+    {
+      "title": "DrugAssist: a large language model for molecule optimization",
+      "arxiv_id": "2401.10334",
+      "doi": "10.1093/bib/bbae693",
+      "publicationDate": "2023-12-28",
+      "year": 2023
+    },
+    {
+      "title": "Experiential Co-Learning of Software-Developing Agents",
+      "arxiv_id": "2312.17025",
+      "doi": "10.48550/arXiv.2312.17025",
+      "publicationDate": "2023-12-28",
+      "year": 2023
+    },
+    {
+      "title": "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step",
+      "arxiv_id": "2312.14033",
+      "doi": "10.18653/v1/2024.acl-long.515",
+      "publicationDate": "2023-12-21",
+      "year": 2023
+    },
+    {
+      "title": "ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent",
+      "arxiv_id": "2312.10003",
+      "doi": "10.48550/arXiv.2312.10003",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "PaperQA: Retrieval-Augmented Generative Agent for Scientific Research",
+      "arxiv_id": "2312.07559",
+      "doi": "10.48550/arXiv.2312.07559",
+      "publicationDate": "2023-12-08",
+      "year": 2023
+    },
+    {
+      "title": "The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning",
+      "arxiv_id": "2312.01552",
+      "doi": "10.48550/arXiv.2312.01552",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
+      "arxiv_id": "2311.16714",
+      "doi": "10.1109/CVPR52733.2024.02482",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "FinMem: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design",
+      "arxiv_id": "2311.13743",
+      "doi": "10.1109/TBDATA.2025.3593370",
+      "publicationDate": "2023-11-23",
+      "year": 2023
+    },
+    {
+      "title": "GAIA: a benchmark for General AI Assistants",
+      "arxiv_id": "2311.12983",
+      "doi": "10.48550/arXiv.2311.12983",
+      "publicationDate": "2023-11-21",
+      "year": 2023
+    },
+    {
+      "title": "MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning",
+      "arxiv_id": "2311.10537",
+      "doi": "10.48550/arXiv.2311.10537",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "Agent Lumos: Unified and Modular Training for Open-Source Language Agents",
+      "arxiv_id": "2311.05657",
+      "doi": "10.18653/v1/2024.acl-long.670",
+      "publicationDate": "2023-11-09",
+      "year": 2023
+    },
+    {
+      "title": "BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT",
+      "arxiv_id": "2310.15896",
+      "doi": "10.48550/arXiv.2310.15896",
+      "publicationDate": "2023-10-24",
+      "year": 2023
+    },
+    {
+      "title": "AgentTuning: Enabling Generalized Agent Abilities for LLMs",
+      "arxiv_id": "2310.12823",
+      "doi": "10.48550/arXiv.2310.12823",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+      "arxiv_id": "2310.11511",
+      "doi": null,
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Lemur: Harmonizing Natural Language and Code for Language Agents",
+      "arxiv_id": "2310.06830",
+      "doi": "10.48550/arXiv.2310.06830",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "FireAct: Toward Language Agent Fine-tuning",
+      "arxiv_id": "2310.05915",
+      "doi": "10.48550/arXiv.2310.05915",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration",
+      "arxiv_id": "2310.02170",
+      "doi": null,
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "OpenChat: Advancing Open-source Language Models with Mixed-Quality Data",
+      "arxiv_id": "2309.11235",
+      "doi": "10.48550/arXiv.2309.11235",
+      "publicationDate": "2023-09-20",
+      "year": 2023
+    },
+    {
+      "title": "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+      "arxiv_id": "2309.10691",
+      "doi": "10.48550/arXiv.2309.10691",
+      "publicationDate": "2023-09-19",
+      "year": 2023
+    },
+    {
+      "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+      "arxiv_id": "2309.07864",
+      "doi": "10.48550/arXiv.2309.07864",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as Optimizers",
+      "arxiv_id": "2309.03409",
+      "doi": "10.48550/arXiv.2309.03409",
+      "publicationDate": "2023-09-07",
+      "year": 2023
+    },
+    {
+      "title": "TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance",
+      "arxiv_id": "2309.03736",
+      "doi": null,
+      "publicationDate": "2023-09-07",
+      "year": 2023
+    },
+    {
+      "title": "Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations",
+      "arxiv_id": "2308.16505",
+      "doi": "10.1145/3731446",
+      "publicationDate": "2023-08-31",
+      "year": 2023
+    },
+    {
+      "title": "DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation",
+      "arxiv_id": "2308.14346",
+      "doi": "10.48550/arXiv.2308.14346",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning",
+      "arxiv_id": "2308.12032",
+      "doi": "10.18653/v1/2024.naacl-long.421",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "Instruction Tuning for Large Language Models: A Survey",
+      "arxiv_id": "2308.10792",
+      "doi": "10.1145/3777411",
+      "publicationDate": "2023-08-21",
+      "year": 2023
+    },
+    {
+      "title": "ExpeL: LLM Agents Are Experiential Learners",
+      "arxiv_id": "2308.10144",
+      "doi": "10.48550/arXiv.2308.10144",
+      "publicationDate": "2023-08-20",
+      "year": 2023
+    },
+    {
+      "title": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
+      "arxiv_id": "2308.09126",
+      "doi": "10.48550/arXiv.2308.09126",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+      "arxiv_id": "2308.08155",
+      "doi": null,
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate",
+      "arxiv_id": "2308.07201",
+      "doi": "10.48550/arXiv.2308.07201",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "AgentBench: Evaluating LLMs as Agents",
+      "arxiv_id": "2308.03688",
+      "doi": "10.48550/arXiv.2308.03688",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage",
+      "arxiv_id": "2308.03427",
+      "doi": null,
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization",
+      "arxiv_id": "2308.02151",
+      "doi": "10.48550/arXiv.2308.02151",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+      "arxiv_id": "2307.16789",
+      "doi": "10.48550/arXiv.2307.16789",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "arxiv_id": "2307.13854",
+      "doi": "10.48550/arXiv.2307.13854",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "ChatDev: Communicative Agents for Software Development",
+      "arxiv_id": "2307.07924",
+      "doi": "10.18653/v1/2024.acl-long.810",
+      "publicationDate": "2023-07-16",
+      "year": 2023
+    },
+    {
+      "title": "InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
+      "arxiv_id": "2306.14898",
+      "doi": "10.48550/arXiv.2306.14898",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "Mind2Web: Towards a Generalist Agent for the Web",
+      "arxiv_id": "2306.06070",
+      "doi": "10.48550/arXiv.2306.06070",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+      "arxiv_id": "2306.05685",
+      "doi": "10.52202/075280-2020",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases",
+      "arxiv_id": "2306.05301",
+      "doi": "10.48550/arXiv.2306.05301",
+      "publicationDate": "2023-06-08",
+      "year": 2023
+    },
+    {
+      "title": "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate",
+      "arxiv_id": "2305.19118",
+      "doi": "10.48550/arXiv.2305.19118",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+      "arxiv_id": "2305.18290",
+      "doi": "10.52202/075280-2338",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
+      "arxiv_id": "2305.17390",
+      "doi": "10.48550/arXiv.2305.17390",
+      "publicationDate": "2023-05-27",
+      "year": 2023
+    },
+    {
+      "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+      "arxiv_id": "2305.16291",
+      "doi": "10.48550/arXiv.2305.16291",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "arxiv_id": "2305.14314",
+      "doi": "10.48550/arXiv.2305.14314",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "LIMA: Less Is More for Alignment",
+      "arxiv_id": "2305.11206",
+      "doi": "10.52202/075280-2400",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs",
+      "arxiv_id": "2305.03111",
+      "doi": "10.48550/arXiv.2305.03111",
+      "publicationDate": "2023-05-04",
+      "year": 2023
+    },
+    {
+      "title": "Augmenting large language models with chemistry tools",
+      "arxiv_id": "2304.05376",
+      "doi": "10.1038/s42256-024-00832-8",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society",
+      "arxiv_id": "2303.17760",
+      "doi": "10.52202/075280-2264",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "Reflexion: language agents with verbal reinforcement learning",
+      "arxiv_id": "2303.11366",
+      "doi": "10.52202/075280-0377",
+      "publicationDate": "2023-03-20",
+      "year": 2023
+    },
+    {
+      "title": "Large language models encode clinical knowledge",
+      "arxiv_id": "2212.13138",
+      "doi": "10.1038/s41586-023-06291-2",
+      "publicationDate": "2022-12-26",
+      "year": 2022
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Generate rather than Retrieve: Large Language Models are Strong Context Generators",
+      "arxiv_id": "2209.10063",
+      "doi": null,
+      "publicationDate": "2022-09-21",
+      "year": 2022
+    },
+    {
+      "title": "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+      "arxiv_id": "2209.09513",
+      "doi": "10.48550/arXiv.2209.09513",
+      "publicationDate": "2022-09-20",
+      "year": 2022
+    },
+    {
+      "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+      "arxiv_id": "2207.01206",
+      "doi": "10.48550/arXiv.2207.01206",
+      "publicationDate": "2022-07-04",
+      "year": 2022
+    },
+    {
+      "title": "A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge",
+      "arxiv_id": "2206.01718",
+      "doi": "10.48550/arXiv.2206.01718",
+      "publicationDate": "2022-06-03",
+      "year": 2022
+    },
+    {
+      "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+      "arxiv_id": "2204.01691",
+      "doi": null,
+      "publicationDate": "2022-04-04",
+      "year": 2022
+    },
+    {
+      "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+      "arxiv_id": "2203.07540",
+      "doi": "10.48550/arXiv.2203.07540",
+      "publicationDate": "2022-03-14",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+      "arxiv_id": "2109.07958",
+      "doi": "10.18653/v1/2022.acl-long.229",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+      "arxiv_id": "2108.00573",
+      "doi": "10.1162/tacl_a_00475",
+      "publicationDate": "2021-08-02",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications",
+      "arxiv_id": null,
+      "doi": "10.3390/APP11114948",
+      "publicationDate": "2021-05-27",
+      "year": 2021
+    },
+    {
+      "title": "NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions",
+      "arxiv_id": "2105.08276",
+      "doi": "10.1109/CVPR46437.2021.00965",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers",
+      "arxiv_id": "2105.03011",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.365",
+      "publicationDate": "2021-05-07",
+      "year": 2021
+    },
+    {
+      "title": "Are NLP Models really able to Solve Simple Math Word Problems?",
+      "arxiv_id": "2103.07191",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.168",
+      "publicationDate": "2021-03-11",
+      "year": 2021
+    },
+    {
+      "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+      "arxiv_id": "2103.03874",
+      "doi": null,
+      "publicationDate": "2021-03-05",
+      "year": 2021
+    },
+    {
+      "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+      "arxiv_id": "2101.02235",
+      "doi": "10.1162/tacl_a_00370",
+      "publicationDate": "2021-01-06",
+      "year": 2021
+    },
+    {
+      "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+      "arxiv_id": "2011.01060",
+      "doi": "10.18653/V1/2020.COLING-MAIN.580",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+      "arxiv_id": "2010.03768",
+      "doi": null,
+      "publicationDate": "2020-10-08",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "Overview of Reinforcement Learning Based on Value and Policy",
+      "arxiv_id": null,
+      "doi": "10.1109/CCDC49329.2020.9164615",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers",
+      "arxiv_id": "2106.15772",
+      "doi": "10.18653/v1/2020.acl-main.92",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "An operator view of policy gradient methods",
+      "arxiv_id": "2006.11266",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "Q-Learning: Theory and Applications",
+      "arxiv_id": null,
+      "doi": "10.1146/annurev-statistics-031219-041220",
+      "publicationDate": "2020-03-09",
+      "year": 2020
+    },
+    {
+      "title": "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+      "arxiv_id": "1912.01734",
+      "doi": "10.1109/cvpr42600.2020.01075",
+      "publicationDate": "2019-12-03",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms",
+      "arxiv_id": "1911.10635",
+      "doi": "10.1007/978-3-030-60990-0_12",
+      "publicationDate": "2019-11-24",
+      "year": 2019
+    },
+    {
+      "title": "RLCard: A Toolkit for Reinforcement Learning in Card Games",
+      "arxiv_id": "1910.04376",
+      "doi": null,
+      "publicationDate": "2019-10-10",
+      "year": 2019
+    },
+    {
+      "title": "PubMedQA: A Dataset for Biomedical Research Question Answering",
+      "arxiv_id": "1909.06146",
+      "doi": "10.18653/v1/D19-1259",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "OpenSpiel: A Framework for Reinforcement Learning in Games",
+      "arxiv_id": "1908.09453",
+      "doi": null,
+      "publicationDate": "2019-08-26",
+      "year": 2019
+    },
+    {
+      "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+      "arxiv_id": "1907.11692",
+      "doi": null,
+      "publicationDate": "2019-07-26",
+      "year": 2019
+    },
+    {
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+      "arxiv_id": "1809.09600",
+      "doi": "10.18653/v1/D18-1259",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+      "arxiv_id": "1803.05457",
+      "doi": null,
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration",
+      "arxiv_id": "1802.08802",
+      "doi": null,
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+      "arxiv_id": "1705.03551",
+      "doi": "10.18653/v1/P17-1147",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Bridging the Gap Between Value and Policy Based Reinforcement Learning",
+      "arxiv_id": "1702.08892",
+      "doi": null,
+      "publicationDate": "2017-02-28",
+      "year": 2017
+    },
+    {
+      "title": "VQA: Visual Question Answering",
+      "arxiv_id": "1505.00468",
+      "doi": "10.1007/s11263-016-0966-6",
+      "publicationDate": "2015-05-03",
+      "year": 2015
+    },
+    {
+      "title": "Policy Gradient Methods for Robotics",
+      "arxiv_id": null,
+      "doi": "10.1109/IROS.2006.282564",
+      "publicationDate": "2006-10-01",
+      "year": 2006
+    },
+    {
+      "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1999-11-29",
+      "year": 1999
+    },
+    {
+      "title": "Q-learning",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00992698",
+      "publicationDate": "1992-05-01",
+      "year": 1992
+    },
+    {
+      "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2501.12948",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "RaDA: Retrieval-augmented Web Agent Planning with LLMs",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-acl.802",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Chain-of-Experts: When LLMs Meet Complex Operations Research Problems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Global Reward to Local Rewards: Multimodal-Guided Decomposition for Improving Dialogue Agents",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-main.881",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Boosting LLM Agents with Recursive Contemplation for Effective Deception Handling",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-acl.591",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2404.18021",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-4022",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Reflective Multi-Agent Collaboration based on Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-4397",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.13010",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.acl-short.8",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "2024. Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Optima: Optimizing effectiveness and efficiency for llm-based multi-agent system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Semantic Kernel",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "crewAI Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Autoguide: Automated generation and selection of context-aware guidelines for large language model agents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Lyra: Orchestrating Dual Correction in Automated Theorem Proving",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024.Autort:Embodiedfoundationmodelsforlargescale orchestrationofroboticagents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. AlpacaEval: An Automatic Evaluator of Instruction-following Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Large language models for mathematical reasoning: Progresses and challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 22 April 2025; revised 5 December 2025; accepted 8 January 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Multi-agent software development through cross-team collaboration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. MINT: Evaluating",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A comprehensive benchmark for tool-augmented LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Visual instruction tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Palm 2 technical report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. AgentVerse: Facilitating multi-agent collaboration and exploring emergent behaviors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Deepre-searcher: Scaling deep research via reinforcement learning in real-world environments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Agent-based learning of materials datasets from the scientiic literature",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Self-Reflection in LLM Agents: Effects on Problem-Solving Performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

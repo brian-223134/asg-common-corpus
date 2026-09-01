@@ -1,0 +1,329 @@
+{
+  "candidate": {
+    "topic": "A Survey on Learning-Based Trajectory Similarity Computation",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3820160",
+      "title": "A Survey on Learning-Based Trajectory Similarity Computation",
+      "published": "2026-07-10"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:22+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 42,
+    "arxiv_resolvable": 9,
+    "doi_only": 32,
+    "unresolved": 1
+  },
+  "gt_s2": {
+    "paperId": "85324d84b05364f467b2347f10a23eab9ab82c24",
+    "externalIds": {
+      "DOI": "10.1145/3820160",
+      "CorpusId": 289222248
+    },
+    "title": "A Survey on Learning-Based Trajectory Similarity Computation",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 42,
+    "publicationDate": "2026-06-12"
+  },
+  "refs": [
+    {
+      "title": "Multi-Modal Attention Perception for Intelligent Vehicle Navigation Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2025.3535885",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "SimRN: Trajectory Similarity Learning in Road Networks based on Distributed Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.14778/3734839.3734844",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/TIV.2024.3418522",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "T-Assess: An Efficient Data Quality Assessment System Tailored for Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.14778/3712221.3712233",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity",
+      "arxiv_id": "2410.14629",
+      "doi": "10.14778/3705829.3705853",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "MobilityDL: a review of deep learning from trajectory data",
+      "arxiv_id": "2402.00732",
+      "doi": "10.1007/s10707-024-00518-8",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Trajectory Similarity Measurement: An Efficiency Perspective",
+      "arxiv_id": "2311.00960",
+      "doi": "10.48550/arXiv.2311.00960",
+      "publicationDate": "2023-11-02",
+      "year": 2023
+    },
+    {
+      "title": "Contrastive Learning for Graph-Based Vessel Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.3390/jmse11091840",
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Trajectory Similarity Computation with Contrastive Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557308",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "TISM-CAE: A Fast Unsupervised Learning Method for Trajectory Similarity Measure via Convolutional Auto-Encoder",
+      "arxiv_id": null,
+      "doi": "10.1145/3558819.3559697",
+      "publicationDate": "2022-09-23",
+      "year": 2022
+    },
+    {
+      "title": "Spatial-temporal fusion graph framework for trajectory similarity computation",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-022-01089-0",
+      "publicationDate": "2022-09-22",
+      "year": 2022
+    },
+    {
+      "title": "TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539358",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-022-01085-4",
+      "publicationDate": "2022-08-09",
+      "year": 2022
+    },
+    {
+      "title": "Space-time clustering-based method to optimize shareability in real-time ride-sharing",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0262499",
+      "publicationDate": "2022-01-14",
+      "year": 2022
+    },
+    {
+      "title": "CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2022.01.001",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Spatio-Temporal Trajectory Similarity Learning in Road Networks",
+      "arxiv_id": "2112.09339",
+      "doi": "10.1145/3534678.3539375",
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467337",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting",
+      "arxiv_id": "2106.12931",
+      "doi": "10.1145/3447548.3467430",
+      "publicationDate": "2021-06-24",
+      "year": 2021
+    },
+    {
+      "title": "An Unsupervised Learning Method with Convolutional Auto-Encoder for Vessel Trajectory Similarity Computation",
+      "arxiv_id": "2101.03169",
+      "doi": "10.1016/j.oceaneng.2021.108803",
+      "publicationDate": "2021-01-10",
+      "year": 2021
+    },
+    {
+      "title": "Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2020.3010022",
+      "publicationDate": "2020-07-17",
+      "year": 2020
+    },
+    {
+      "title": "A survey of trajectory distance measures and performance evaluation",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-019-00574-9",
+      "publicationDate": "2019-10-18",
+      "year": 2019
+    },
+    {
+      "title": "A model for vessel trajectory prediction based on long short-term memory neural network",
+      "arxiv_id": null,
+      "doi": "10.1080/20464177.2019.1665258",
+      "publicationDate": "2019-09-10",
+      "year": 2019
+    },
+    {
+      "title": "Performance Evaluation of Deep Neural Networks Applied to Speech Recognition: RNN, LSTM and GRU",
+      "arxiv_id": null,
+      "doi": "10.2478/jaiscr-2019-0006",
+      "publicationDate": "2019-08-30",
+      "year": 2019
+    },
+    {
+      "title": "Deep Metric Learning: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/SYM11091066",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "A time-aware trajectory embedding model for next-location recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/s10115-017-1107-4",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Parallel trajectory similarity joins in spatial networks",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-018-0502-0",
+      "publicationDate": "2018-04-04",
+      "year": 2018
+    },
+    {
+      "title": "Distributed Trajectory Similarity Search",
+      "arxiv_id": null,
+      "doi": "10.14778/3137628.3137655",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Detection of traffic congestion and incidents from GPS trace analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2016.12.018",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "Introduction to machine learning: k-nearest neighbors.",
+      "arxiv_id": null,
+      "doi": "10.21037/atm.2016.03.37",
+      "publicationDate": "2016-04-20",
+      "year": 2016
+    },
+    {
+      "title": "Deep learning for short-term traffic flow prediction",
+      "arxiv_id": "1604.04527",
+      "doi": "10.1016/j.trc.2017.02.024",
+      "publicationDate": "2016-04-15",
+      "year": 2016
+    },
+    {
+      "title": "Knowledge Graph Embedding by Translating on Hyperplanes",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v28i1.8870",
+      "publicationDate": "2014-06-21",
+      "year": 2014
+    },
+    {
+      "title": "PRESS: A Novel Framework of Trajectory Compression in Road Networks",
+      "arxiv_id": "1402.1546",
+      "doi": "10.14778/2732939.2732940",
+      "publicationDate": "2014-02-06",
+      "year": 2014
+    },
+    {
+      "title": "Supervised Sequence Labelling with Recurrent Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-24797-2",
+      "publicationDate": "2012-02-09",
+      "year": 2012
+    },
+    {
+      "title": "MoveMine: Mining moving object data for discovery of animal movement patterns",
+      "arxiv_id": null,
+      "doi": "10.1145/1989734.1989741",
+      "publicationDate": "2011-07-01",
+      "year": 2011
+    },
+    {
+      "title": "T-drive: driving directions based on taxi trajectories",
+      "arxiv_id": null,
+      "doi": "10.1145/1869790.1869807",
+      "publicationDate": "2010-11-02",
+      "year": 2010
+    },
+    {
+      "title": "Shapes based trajectory queries for moving objects",
+      "arxiv_id": null,
+      "doi": "10.1145/1097064.1097069",
+      "publicationDate": "2005-11-04",
+      "year": 2005
+    },
+    {
+      "title": "Robust and fast similarity search for moving object trajectories",
+      "arxiv_id": null,
+      "doi": "10.1145/1066157.1066213",
+      "publicationDate": "2005-06-14",
+      "year": 2005
+    },
+    {
+      "title": "Locally adaptive dimensionality reduction for indexing large time series databases",
+      "arxiv_id": null,
+      "doi": "10.1145/375663.375680",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Scaling up dynamic time warping for datamining applications",
+      "arxiv_id": null,
+      "doi": "10.1145/347090.347153",
+      "publicationDate": "2000-08-01",
+      "year": 2000
+    },
+    {
+      "title": "Trembr: Exploring Road Networks for Trajectory Representation Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Learning travel recommendations from user-generated GPS traces",
+      "arxiv_id": null,
+      "doi": "10.1145/1889681.1889683",
+      "publicationDate": null,
+      "year": 2011
+    }
+  ]
+}

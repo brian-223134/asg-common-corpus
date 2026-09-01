@@ -1,0 +1,1507 @@
+{
+  "candidate": {
+    "topic": "Instruction Tuning for Large Language Models",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3777411",
+      "title": "Instruction Tuning for Large Language Models: A Survey",
+      "published": "2026-01-08"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:08:18+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 210,
+    "arxiv_resolvable": 154,
+    "doi_only": 18,
+    "unresolved": 38
+  },
+  "gt_s2": {
+    "paperId": "f0950a3f27c0fefffba60ae1c9a8ee360d5eb55f",
+    "externalIds": {
+      "ArXiv": "2308.10792",
+      "DBLP": "journals/corr/abs-2308-10792",
+      "DOI": "10.1145/3777411",
+      "CorpusId": 261049152
+    },
+    "title": "Instruction Tuning for Large Language Models: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "referenceCount": 210,
+    "publicationDate": "2023-08-21"
+  },
+  "refs": [
+    {
+      "title": "Extracting and Understanding the Superficial Knowledge in Alignment",
+      "arxiv_id": "2502.04602",
+      "doi": "10.48550/arXiv.2502.04602",
+      "publicationDate": "2025-02-07",
+      "year": 2025
+    },
+    {
+      "title": "Align-Pro: A Principled Approach to Prompt Optimization for LLM Alignment",
+      "arxiv_id": "2501.03486",
+      "doi": "10.48550/arXiv.2501.03486",
+      "publicationDate": "2025-01-07",
+      "year": 2025
+    },
+    {
+      "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+      "arxiv_id": "2412.10400",
+      "doi": "10.48550/arXiv.2412.10400",
+      "publicationDate": "2024-12-05",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2024.12.008",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications.",
+      "arxiv_id": "2410.15595",
+      "doi": "10.1109/TPAMI.2026.3704314",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "O1 Replication Journey: A Strategic Progress Report - Part 1",
+      "arxiv_id": "2410.18982",
+      "doi": "10.48550/arXiv.2410.18982",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities",
+      "arxiv_id": "2408.13296",
+      "doi": "10.48550/arXiv.2408.13296",
+      "publicationDate": "2024-08-23",
+      "year": 2024
+    },
+    {
+      "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+      "arxiv_id": "2406.04770",
+      "doi": "10.48550/arXiv.2406.04770",
+      "publicationDate": "2024-06-07",
+      "year": 2024
+    },
+    {
+      "title": "Multiple-Choice Questions are Efficient and Robust LLM Evaluators",
+      "arxiv_id": "2405.11966",
+      "doi": "10.48550/arXiv.2405.11966",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "WildChat: 1M ChatGPT Interaction Logs in the Wild",
+      "arxiv_id": "2405.01470",
+      "doi": "10.48550/arXiv.2405.01470",
+      "publicationDate": "2024-05-02",
+      "year": 2024
+    },
+    {
+      "title": "Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras",
+      "arxiv_id": "2404.18961",
+      "doi": "10.48550/arXiv.2404.18961",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+      "arxiv_id": "2404.10719",
+      "doi": "10.48550/arXiv.2404.10719",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators",
+      "arxiv_id": "2404.04475",
+      "doi": "10.48550/arXiv.2404.04475",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "Rethinking Generative Large Language Model Evaluation for Semantic Comprehension",
+      "arxiv_id": "2403.07872",
+      "doi": "10.48550/arXiv.2403.07872",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs",
+      "arxiv_id": "2402.16352",
+      "doi": "10.48550/arXiv.2402.16352",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning",
+      "arxiv_id": "2402.11690",
+      "doi": "10.48550/arXiv.2402.11690",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+      "arxiv_id": "2402.03300",
+      "doi": "10.48550/arXiv.2402.03300",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+      "arxiv_id": "2401.01335",
+      "doi": "10.48550/arXiv.2401.01335",
+      "publicationDate": "2024-01-02",
+      "year": 2024
+    },
+    {
+      "title": "Sim-GPT: Text Similarity via GPT Annotated Data",
+      "arxiv_id": "2312.05603",
+      "doi": "10.48550/arXiv.2312.05603",
+      "publicationDate": "2023-12-09",
+      "year": 2023
+    },
+    {
+      "title": "The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning",
+      "arxiv_id": "2312.01552",
+      "doi": "10.48550/arXiv.2312.01552",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Secure Federated Evolutionary Optimization—A Survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2023.10.006",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions",
+      "arxiv_id": "2311.12793",
+      "doi": "10.48550/arXiv.2311.12793",
+      "publicationDate": "2023-11-21",
+      "year": 2023
+    },
+    {
+      "title": "Orca 2: Teaching Small Language Models How to Reason",
+      "arxiv_id": "2311.11045",
+      "doi": "10.48550/arXiv.2311.11045",
+      "publicationDate": "2023-11-18",
+      "year": 2023
+    },
+    {
+      "title": "Instruction-Following Evaluation for Large Language Models",
+      "arxiv_id": "2311.07911",
+      "doi": "10.48550/arXiv.2311.07911",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text",
+      "arxiv_id": "2310.06786",
+      "doi": "10.48550/arXiv.2310.06786",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)",
+      "arxiv_id": "2309.17421",
+      "doi": "10.48550/arXiv.2309.17421",
+      "publicationDate": "2023-09-30",
+      "year": 2023
+    },
+    {
+      "title": "Textbooks Are All You Need II: phi-1.5 technical report",
+      "arxiv_id": "2309.05463",
+      "doi": "10.48550/arXiv.2309.05463",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",
+      "arxiv_id": "2308.12966",
+      "doi": null,
+      "publicationDate": "2023-08-24",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering",
+      "arxiv_id": "2307.16877",
+      "doi": "10.1162/tacl_a_00667",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Answering Ambiguous Questions via Iterative Prompting",
+      "arxiv_id": "2307.03897",
+      "doi": "10.48550/arXiv.2307.03897",
+      "publicationDate": "2023-07-08",
+      "year": 2023
+    },
+    {
+      "title": "Textbooks Are All You Need",
+      "arxiv_id": "2306.11644",
+      "doi": null,
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "Full Parameter Fine-tuning for Large Language Models with Limited Resources",
+      "arxiv_id": "2306.09782",
+      "doi": "10.48550/arXiv.2306.09782",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "Pushing the Limits of ChatGPT on NLP Tasks",
+      "arxiv_id": "2306.09719",
+      "doi": "10.48550/arXiv.2306.09719",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
+      "arxiv_id": "2306.08568",
+      "doi": null,
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark",
+      "arxiv_id": "2306.06687",
+      "doi": "10.48550/arXiv.2306.06687",
+      "publicationDate": "2023-06-11",
+      "year": 2023
+    },
+    {
+      "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+      "arxiv_id": "2306.05685",
+      "doi": "10.52202/075280-2020",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources",
+      "arxiv_id": "2306.04751",
+      "doi": "10.48550/arXiv.2306.04751",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+      "arxiv_id": "2306.02858",
+      "doi": "10.48550/arXiv.2306.02858",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Orca: Progressive Learning from Complex Explanation Traces of GPT-4",
+      "arxiv_id": "2306.02707",
+      "doi": "10.48550/arXiv.2306.02707",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only",
+      "arxiv_id": "2306.01116",
+      "doi": "10.48550/arXiv.2306.01116",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+      "arxiv_id": "2305.18290",
+      "doi": "10.52202/075280-2338",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "The False Promise of Imitating Proprietary LLMs",
+      "arxiv_id": "2305.15717",
+      "doi": "10.48550/arXiv.2305.15717",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "Holistic Evaluation of Language Models",
+      "arxiv_id": null,
+      "doi": "10.1111/nyas.15007",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "arxiv_id": "2305.14627",
+      "doi": "10.48550/arXiv.2305.14627",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "arxiv_id": "2305.14314",
+      "doi": "10.48550/arXiv.2305.14314",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks",
+      "arxiv_id": "2305.14201",
+      "doi": "10.48550/arXiv.2305.14201",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Chat Language Models by Scaling High-quality Instructional Conversations",
+      "arxiv_id": "2305.14233",
+      "doi": "10.48550/arXiv.2305.14233",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Task Instruction Tuning of LLaMa for Specific Scenarios: A Preliminary Study on Writing Assistance",
+      "arxiv_id": "2305.13225",
+      "doi": "10.48550/arXiv.2305.13225",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "Album Storytelling with Iterative Story-aware Captioning and Large Language Models",
+      "arxiv_id": "2305.12943",
+      "doi": "10.48550/arXiv.2305.12943",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4",
+      "arxiv_id": "2305.12147",
+      "doi": "10.48550/arXiv.2305.12147",
+      "publicationDate": "2023-05-20",
+      "year": 2023
+    },
+    {
+      "title": "Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning",
+      "arxiv_id": "2305.11383",
+      "doi": "10.48550/arXiv.2305.11383",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "LIMA: Less Is More for Alignment",
+      "arxiv_id": "2305.11206",
+      "doi": "10.52202/075280-2400",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Instruction Tuned Models are Quick Learners",
+      "arxiv_id": "2306.05539",
+      "doi": "10.48550/arXiv.2306.05539",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "CoEdIT: Text Editing by Task-Specific Instruction Tuning",
+      "arxiv_id": "2305.09857",
+      "doi": "10.48550/arXiv.2305.09857",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering",
+      "arxiv_id": "2305.10415",
+      "doi": "10.48550/arXiv.2305.10415",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+      "arxiv_id": "2305.10601",
+      "doi": "10.48550/arXiv.2305.10601",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+      "arxiv_id": "2305.08322",
+      "doi": "10.48550/arXiv.2305.08322",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "Text Classification via Large Language Models",
+      "arxiv_id": "2305.08377",
+      "doi": "10.18653/v1/2023.findings-emnlp.603",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering",
+      "arxiv_id": "2305.08135",
+      "doi": "10.48550/arXiv.2305.08135",
+      "publicationDate": "2023-05-14",
+      "year": 2023
+    },
+    {
+      "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+      "arxiv_id": "2305.06500",
+      "doi": "10.48550/arXiv.2305.06500",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "ImageBind One Embedding Space to Bind Them All",
+      "arxiv_id": "2305.05665",
+      "doi": "10.1109/CVPR52729.2023.01457",
+      "publicationDate": "2023-05-09",
+      "year": 2023
+    },
+    {
+      "title": "StarCoder: may the source be with you!",
+      "arxiv_id": "2305.06161",
+      "doi": null,
+      "publicationDate": "2023-05-09",
+      "year": 2023
+    },
+    {
+      "title": "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans",
+      "arxiv_id": "2305.04790",
+      "doi": "10.48550/arXiv.2305.04790",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "Otter: A Multi-Modal Model With In-Context Instruction Tuning",
+      "arxiv_id": "2305.03726",
+      "doi": "10.1109/TPAMI.2025.3571946",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "GPT-RE: In-context Learning for Relation Extraction using Large Language Models",
+      "arxiv_id": "2305.02105",
+      "doi": "10.48550/arXiv.2305.02105",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond",
+      "arxiv_id": "2304.13712",
+      "doi": "10.1145/3649506",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness",
+      "arxiv_id": "2304.11633",
+      "doi": "10.48550/arXiv.2304.11633",
+      "publicationDate": "2023-04-23",
+      "year": 2023
+    },
+    {
+      "title": "GPT-NER: Named Entity Recognition via Large Language Models",
+      "arxiv_id": "2304.10428",
+      "doi": "10.18653/v1/2025.findings-naacl.239",
+      "publicationDate": "2023-04-20",
+      "year": 2023
+    },
+    {
+      "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+      "arxiv_id": "2304.10592",
+      "doi": "10.48550/arXiv.2304.10592",
+      "publicationDate": "2023-04-20",
+      "year": 2023
+    },
+    {
+      "title": "Chinese Open Instruction Generalist: A Preliminary Release",
+      "arxiv_id": "2304.07987",
+      "doi": "10.48550/arXiv.2304.07987",
+      "publicationDate": "2023-04-17",
+      "year": 2023
+    },
+    {
+      "title": "InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction",
+      "arxiv_id": "2304.08085",
+      "doi": "10.48550/arXiv.2304.08085",
+      "publicationDate": "2023-04-17",
+      "year": 2023
+    },
+    {
+      "title": "OpenAssistant Conversations - Democratizing Large Language Model Alignment",
+      "arxiv_id": "2304.07327",
+      "doi": "10.48550/arXiv.2304.07327",
+      "publicationDate": "2023-04-14",
+      "year": 2023
+    },
+    {
+      "title": "AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models",
+      "arxiv_id": "2304.06364",
+      "doi": "10.48550/arXiv.2304.06364",
+      "publicationDate": "2023-04-13",
+      "year": 2023
+    },
+    {
+      "title": "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
+      "arxiv_id": "2304.01373",
+      "doi": "10.48550/arXiv.2304.01373",
+      "publicationDate": "2023-04-03",
+      "year": 2023
+    },
+    {
+      "title": "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents",
+      "arxiv_id": "2303.07240",
+      "doi": "10.48550/arXiv.2303.07240",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "Exploring the Feasibility of ChatGPT for Event Extraction",
+      "arxiv_id": "2303.03836",
+      "doi": null,
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Foundation Models for Decision Making: Problems, Methods, and Opportunities",
+      "arxiv_id": "2303.04129",
+      "doi": "10.48550/arXiv.2303.04129",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Parameter-efficient fine-tuning of large-scale pre-trained language models",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-023-00626-4",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Zero-Shot Information Extraction via Chatting with ChatGPT",
+      "arxiv_id": "2302.10205",
+      "doi": null,
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning",
+      "arxiv_id": "2301.13688",
+      "doi": "10.48550/arXiv.2301.13688",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+      "arxiv_id": "2301.12597",
+      "doi": "10.48550/arXiv.2301.12597",
+      "publicationDate": "2023-01-30",
+      "year": 2023
+    },
+    {
+      "title": "OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization",
+      "arxiv_id": "2212.12017",
+      "doi": null,
+      "publicationDate": "2022-12-22",
+      "year": 2022
+    },
+    {
+      "title": "MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning",
+      "arxiv_id": "2212.10773",
+      "doi": "10.48550/arXiv.2212.10773",
+      "publicationDate": "2022-12-21",
+      "year": 2022
+    },
+    {
+      "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+      "arxiv_id": "2212.10560",
+      "doi": "10.48550/arXiv.2212.10560",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor",
+      "arxiv_id": "2212.09689",
+      "doi": "10.48550/arXiv.2212.09689",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "arxiv_id": "2212.08073",
+      "doi": "10.48550/arXiv.2212.08073",
+      "publicationDate": "2022-12-15",
+      "year": 2022
+    },
+    {
+      "title": "ClueWeb22: 10 Billion Web Documents with Visual and Semantic Information",
+      "arxiv_id": "2211.15848",
+      "doi": null,
+      "publicationDate": "2022-11-29",
+      "year": 2022
+    },
+    {
+      "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+      "arxiv_id": "2211.09800",
+      "doi": "10.1109/CVPR52729.2023.01764",
+      "publicationDate": "2022-11-17",
+      "year": 2022
+    },
+    {
+      "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+      "arxiv_id": "2211.05100",
+      "doi": null,
+      "publicationDate": "2022-11-09",
+      "year": 2022
+    },
+    {
+      "title": "Help me write a Poem - Instruction Tuning as a Vehicle for Collaborative Poetry Writing",
+      "arxiv_id": "2210.13669",
+      "doi": "10.48550/arXiv.2210.13669",
+      "publicationDate": "2022-10-25",
+      "year": 2022
+    },
+    {
+      "title": "Scaling Instruction-Finetuned Language Models",
+      "arxiv_id": "2210.11416",
+      "doi": "10.48550/arXiv.2210.11416",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+      "arxiv_id": "2210.09261",
+      "doi": "10.48550/arXiv.2210.09261",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Re3: Generating Longer Stories With Recursive Reprompting and Revision",
+      "arxiv_id": "2210.06774",
+      "doi": "10.48550/arXiv.2210.06774",
+      "publicationDate": "2022-10-13",
+      "year": 2022
+    },
+    {
+      "title": "Instruction Tuning for Few-Shot Aspect-Based Sentiment Analysis",
+      "arxiv_id": "2210.06629",
+      "doi": "10.48550/arXiv.2210.06629",
+      "publicationDate": "2022-10-12",
+      "year": 2022
+    },
+    {
+      "title": "Language Models are Multilingual Chain-of-Thought Reasoners",
+      "arxiv_id": "2210.03057",
+      "doi": "10.48550/arXiv.2210.03057",
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "EditEval: An Instruction-Based Benchmark for Text Improvements",
+      "arxiv_id": "2209.13331",
+      "doi": "10.48550/arXiv.2209.13331",
+      "publicationDate": "2022-09-27",
+      "year": 2022
+    },
+    {
+      "title": "LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging",
+      "arxiv_id": "2209.09900",
+      "doi": "10.48550/arXiv.2209.09900",
+      "publicationDate": "2022-09-20",
+      "year": 2022
+    },
+    {
+      "title": "AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model",
+      "arxiv_id": "2208.01448",
+      "doi": "10.48550/arXiv.2208.01448",
+      "publicationDate": "2022-08-02",
+      "year": 2022
+    },
+    {
+      "title": "ClueWeb22: 10 Billion Web Documents with Rich Information",
+      "arxiv_id": null,
+      "doi": "10.1145/3477495.3536321",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+      "arxiv_id": "2206.04615",
+      "doi": null,
+      "publicationDate": "2022-06-09",
+      "year": 2022
+    },
+    {
+      "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "arxiv_id": "2205.14135",
+      "doi": "10.52202/068431-1189",
+      "publicationDate": "2022-05-27",
+      "year": 2022
+    },
+    {
+      "title": "InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning",
+      "arxiv_id": "2205.12673",
+      "doi": "10.18653/v1/2022.emnlp-main.33",
+      "publicationDate": "2022-05-25",
+      "year": 2022
+    },
+    {
+      "title": "UL2: Unifying Language Learning Paradigms",
+      "arxiv_id": "2205.05131",
+      "doi": null,
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation",
+      "arxiv_id": "2204.13362",
+      "doi": "10.48550/arXiv.2204.13362",
+      "publicationDate": "2022-04-28",
+      "year": 2022
+    },
+    {
+      "title": "Unsupervised Cross-Task Generalization via Retrieval Augmentation",
+      "arxiv_id": "2204.07937",
+      "doi": "10.48550/arXiv.2204.07937",
+      "publicationDate": "2022-04-17",
+      "year": 2022
+    },
+    {
+      "title": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks",
+      "arxiv_id": "2204.07705",
+      "doi": "10.18653/v1/2022.emnlp-main.340",
+      "publicationDate": "2022-04-16",
+      "year": 2022
+    },
+    {
+      "title": "GPT-NeoX-20B: An Open-Source Autoregressive Language Model",
+      "arxiv_id": "2204.06745",
+      "doi": "10.48550/arXiv.2204.06745",
+      "publicationDate": "2022-04-14",
+      "year": 2022
+    },
+    {
+      "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+      "arxiv_id": "2204.05862",
+      "doi": "10.48550/arXiv.2204.05862",
+      "publicationDate": "2022-04-12",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Text2LIVE: Text-Driven Layered Image and Video Editing",
+      "arxiv_id": "2204.02491",
+      "doi": "10.1007/978-3-031-19784-0_41",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+      "arxiv_id": "2203.11171",
+      "doi": null,
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "Bamboo: Building Mega-Scale Vision Dataset Continually with Human–Machine Synergy",
+      "arxiv_id": "2203.07845",
+      "doi": "10.1007/s11263-025-02450-2",
+      "publicationDate": "2022-03-15",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Controllable Natural Language Generation with Contrastive Prefixes",
+      "arxiv_id": "2202.13257",
+      "doi": "10.18653/v1/2022.findings-acl.229",
+      "publicationDate": "2022-02-27",
+      "year": 2022
+    },
+    {
+      "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+      "arxiv_id": "2202.03052",
+      "doi": null,
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts",
+      "arxiv_id": "2202.01279",
+      "doi": "10.18653/v1/2022.acl-demo.9",
+      "publicationDate": "2022-02-02",
+      "year": 2022
+    },
+    {
+      "title": "Engram-Driven Videography",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2021.12.012",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+      "arxiv_id": "2201.11903",
+      "doi": "10.52202/068431-1800",
+      "publicationDate": "2022-01-28",
+      "year": 2022
+    },
+    {
+      "title": "LaMDA: Language Models for Dialog Applications",
+      "arxiv_id": "2201.08239",
+      "doi": null,
+      "publicationDate": "2022-01-20",
+      "year": 2022
+    },
+    {
+      "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
+      "arxiv_id": "2201.06796",
+      "doi": "10.1145/3491102.3502030",
+      "publicationDate": "2022-01-18",
+      "year": 2022
+    },
+    {
+      "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models",
+      "arxiv_id": "2201.05966",
+      "doi": "10.18653/v1/2022.emnlp-main.39",
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+      "arxiv_id": "2112.10752",
+      "doi": "10.1109/CVPR52688.2022.01042",
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "Reframing Human-AI Collaboration for Generating Free-Text Explanations",
+      "arxiv_id": "2112.08674",
+      "doi": "10.18653/v1/2022.naacl-main.47",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+      "arxiv_id": "2112.11446",
+      "doi": null,
+      "publicationDate": "2021-12-08",
+      "year": 2021
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization",
+      "arxiv_id": "2110.08207",
+      "doi": null,
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+      "arxiv_id": "2109.07958",
+      "doi": "10.18653/v1/2022.acl-long.229",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "On the Opportunities and Risks of Foundation Models",
+      "arxiv_id": "2108.07258",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations",
+      "arxiv_id": "2108.01073",
+      "doi": null,
+      "publicationDate": "2021-08-02",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models",
+      "arxiv_id": "2106.10199",
+      "doi": "10.18653/v1/2022.acl-short.1",
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Cross-Task Generalization via Natural Language Crowdsourcing Instructions",
+      "arxiv_id": "2104.08773",
+      "doi": "10.18653/v1/2022.acl-long.244",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+      "arxiv_id": "2104.08691",
+      "doi": "10.18653/v1/2021.emnlp-main.243",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval",
+      "arxiv_id": "2104.00650",
+      "doi": "10.1109/ICCV48922.2021.00175",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "GLM: General Language Model Pretraining with Autoregressive Blank Infilling",
+      "arxiv_id": "2103.10360",
+      "doi": "10.18653/v1/2022.acl-long.26",
+      "publicationDate": "2021-03-18",
+      "year": 2021
+    },
+    {
+      "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+      "arxiv_id": "2103.03874",
+      "doi": null,
+      "publicationDate": "2021-03-05",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Calibrate Before Use: Improving Few-Shot Performance of Language Models",
+      "arxiv_id": "2102.09690",
+      "doi": null,
+      "publicationDate": "2021-02-19",
+      "year": 2021
+    },
+    {
+      "title": "Slake: A Semantically-Labeled Knowledge-Enhanced Dataset For Medical Visual Question Answering",
+      "arxiv_id": "2102.09542",
+      "doi": "10.1109/ISBI48211.2021.9434010",
+      "publicationDate": "2021-02-18",
+      "year": 2021
+    },
+    {
+      "title": "What Makes Good In-Context Examples for GPT-3?",
+      "arxiv_id": "2101.06804",
+      "doi": "10.18653/v1/2022.deelio-1.10",
+      "publicationDate": "2021-01-17",
+      "year": 2021
+    },
+    {
+      "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+      "arxiv_id": "2101.03961",
+      "doi": null,
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models",
+      "arxiv_id": "2009.11462",
+      "doi": "10.18653/v1/2020.findings-emnlp.301",
+      "publicationDate": "2020-09-24",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3406703",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "UnifiedQA: Crossing Format Boundaries With a Single QA System",
+      "arxiv_id": "2005.00700",
+      "doi": "10.18653/v1/2020.findings-emnlp.171",
+      "publicationDate": "2020-05-02",
+      "year": 2020
+    },
+    {
+      "title": "End-to-End Slot Alignment and Recognition for Cross-Lingual NLU",
+      "arxiv_id": "2004.14353",
+      "doi": "10.18653/v1/2020.emnlp-main.410",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages",
+      "arxiv_id": "2003.05002",
+      "doi": "10.1162/tacl_a_00317",
+      "publicationDate": "2020-03-10",
+      "year": 2020
+    },
+    {
+      "title": "The Pushshift Reddit Dataset",
+      "arxiv_id": "2001.08435",
+      "doi": "10.5281/ZENODO.3608135",
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+      "arxiv_id": "2001.07676",
+      "doi": "10.18653/v1/2021.eacl-main.20",
+      "publicationDate": "2020-01-21",
+      "year": 2020
+    },
+    {
+      "title": "Falsehoods",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.3394542",
+      "publicationDate": "2020-01-14",
+      "year": 2020
+    },
+    {
+      "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+      "arxiv_id": "1910.13461",
+      "doi": "10.18653/v1/2020.acl-main.703",
+      "publicationDate": "2019-10-29",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+      "arxiv_id": "1905.10044",
+      "doi": "10.18653/v1/N19-1300",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Parameter-Efficient Transfer Learning for NLP",
+      "arxiv_id": "1902.00751",
+      "doi": null,
+      "publicationDate": "2019-02-02",
+      "year": 2019
+    },
+    {
+      "title": "Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces",
+      "arxiv_id": "1805.10190",
+      "doi": null,
+      "publicationDate": "2018-05-25",
+      "year": 2018
+    },
+    {
+      "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+      "arxiv_id": "1803.05457",
+      "doi": null,
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "Software",
+      "arxiv_id": null,
+      "doi": "10.1007/BF03323761",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "Resources",
+      "arxiv_id": null,
+      "doi": "10.1109/MITP.2008.109",
+      "publicationDate": "1998-11-01",
+      "year": 1998
+    },
+    {
+      "title": "Received 8 November 2023; revised 6 October 2025; accepted 17 October 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.599",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Free dolly: Introducing the world’s first truly open instruction-tuned llm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "WizardLM: Empowering Large Language Models to Follow Complex Instructions",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2304.12244",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Scale Language Model Society",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2303.17760",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2303.14070",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Crosslingual Generalization through Multitask Finetuning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.891",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.14187",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Yulan-chat: An opensource bilingual chatbot",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Introducing ChatGPT. Blog post https://openai.com/index/chatgpt. (Last accessed date: 2025.12.01)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2212.10315",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Unifying Language Learning Paradigms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Guanaco: Generative Universal Assistant for Natural-language Adaptive Context-aware Omnilingual outputs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A framework for few-shot language model evaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Descriptor : A dataset of clinically generated visual questions and answers about radiology images",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/p17-2",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "2023. AlpacaEval: An automatic evaluator of instruction-following models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "OpenAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. GPT-4 technical report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality. See https://vicuna.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023b. Free",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Instruction tuning with gpt-4",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Visual Instruction Tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022c. Self-instruct: Aligning language",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023d. Sentiment analysis through llm negotiations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025a. Unleashing the potential of prompt engineering for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025 Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "YuLan-Chat-Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022e. Super-naturalinstructions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Falcon-40B",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. software: huggingface",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ai. 2023. Oig: the open instruction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023b Stanford alpaca: An instruction-following llama model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Starling-7b: Improving llm helpfulness & harmlessness with rlaif",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Baize: An open-source chat model with parameter-efficient tuning on self-chat data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. VideoChat: Chat-Centric Video Understanding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Instruction in the wild : A user - based instruction dataset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Open llm leaderboard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023b. Falcon-40b: an open large language model with state-of-the-art performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. MOSS. Blog post txsun1997",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Airoboros",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Self-alignment with instruction backtranslation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Magicoder: Source code is all you need",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

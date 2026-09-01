@@ -1,0 +1,1087 @@
+{
+  "candidate": {
+    "topic": "The Landscape of GPU-Centric Communication",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3813799",
+      "title": "The Landscape of GPU-Centric Communication",
+      "published": "2026-06-09"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:11:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 150,
+    "arxiv_resolvable": 27,
+    "doi_only": 81,
+    "unresolved": 42
+  },
+  "gt_s2": {
+    "paperId": "5639cf37c51f7e22e8efa24f2829e51ea6b09985",
+    "externalIds": {
+      "ArXiv": "2409.09874",
+      "DBLP": "journals/corr/abs-2409-09874",
+      "DOI": "10.1145/3813799",
+      "CorpusId": 272689136
+    },
+    "title": "The Landscape of GPU-Centric Communication",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 150,
+    "publicationDate": "2024-09-15"
+  },
+  "refs": [
+    {
+      "title": "UCTRACE: A Multi-Layer Profiling Tool for UCX-driven Communication",
+      "arxiv_id": "2602.19084",
+      "doi": "10.1109/IPDPS65963.2026.00074",
+      "publicationDate": "2026-02-22",
+      "year": 2026
+    },
+    {
+      "title": "ParallelKittens: Systematic and Practical Simplification of Multi-GPU AI Kernels",
+      "arxiv_id": "2511.13940",
+      "doi": "10.48550/arXiv.2511.13940",
+      "publicationDate": "2025-11-17",
+      "year": 2025
+    },
+    {
+      "title": "CPU- and GPU-initiated Communication Strategies for Conjugate Gradient Methods on Large GPU Clusters",
+      "arxiv_id": null,
+      "doi": "10.1145/3712285.3759774",
+      "publicationDate": "2025-11-15",
+      "year": 2025
+    },
+    {
+      "title": "Collective Communication for 100k+ GPUs",
+      "arxiv_id": "2510.20171",
+      "doi": "10.48550/arXiv.2510.20171",
+      "publicationDate": "2025-10-23",
+      "year": 2025
+    },
+    {
+      "title": "The Persistent Challenge of Data Locality in the Post-Exascale Era",
+      "arxiv_id": null,
+      "doi": "10.1109/MCSE.2025.3567586",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Redesigning GROMACS Halo Exchange: Improving Strong Scaling with GPU-initiated NVSHMEM",
+      "arxiv_id": "2509.21527",
+      "doi": "10.1145/3731599.3767508",
+      "publicationDate": "2025-09-25",
+      "year": 2025
+    },
+    {
+      "title": "TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library",
+      "arxiv_id": null,
+      "doi": "10.1109/ICNP65844.2025.11192370",
+      "publicationDate": "2025-09-22",
+      "year": 2025
+    },
+    {
+      "title": "Uniconn: A Uniform High-Level Communication Library for Portable Multi-GPU Programming",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER59342.2025.11186498",
+      "publicationDate": "2025-09-02",
+      "year": 2025
+    },
+    {
+      "title": "Comparative Analysis of Parallel Communication Models for Regular and Irregular GPU Workloads",
+      "arxiv_id": null,
+      "doi": "10.1145/3708035.3736073",
+      "publicationDate": "2025-07-20",
+      "year": 2025
+    },
+    {
+      "title": "Demystifying NCCL: An In-Depth Analysis of GPU Communication Protocols and Algorithms",
+      "arxiv_id": "2507.04786",
+      "doi": "10.1109/HOTI66940.2025.00024",
+      "publicationDate": "2025-07-07",
+      "year": 2025
+    },
+    {
+      "title": "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression",
+      "arxiv_id": null,
+      "doi": "10.1145/3721145.3733642",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "A Device-Side Execution Model for Multi-GPU Task Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3721145.3730426",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "AI and HPC Applications on Leadership Computing Platforms: Performance and Scalability Studies",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS64566.2025.00027",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing Nuclear Configuration Interaction Calculations on GPUs: A Comparative Performance Study of Programming Models",
+      "arxiv_id": null,
+      "doi": "10.23919/isc.2025.11018300",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Unified Collective Communication: A Unified Library for CPU, GPU, and DPU Collectives",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2025.3534638",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "PCCL: Energy-Efficient LLM Training with Power-Aware Collective Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD63220.2024.00023",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "hZCCL: Accelerating Collective Communication with Co-Designed Homomorphic Compression",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41406.2024.00110",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Autonomous Execution for Multi-GPU Systems: Compiler Support",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00155",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "HiRace: Accurate and Fast Data Race Checking for GPU Programs",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41406.2024.00042",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Understanding Data Movement in AMD Multi-GPU Systems with Infinity Fabric",
+      "arxiv_id": "2410.00801",
+      "doi": "10.1109/SCW63240.2024.00079",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Intel® SHMEM: GPU-initiated OpenSHMEM using SYCL",
+      "arxiv_id": "2409.20476",
+      "doi": "10.1109/SCW63240.2024.00169",
+      "publicationDate": "2024-09-30",
+      "year": 2024
+    },
+    {
+      "title": "Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects",
+      "arxiv_id": "2408.14090",
+      "doi": "10.1109/SC41406.2024.00039",
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "HiCCL: A Hierarchical Collective Communication Library",
+      "arxiv_id": "2408.05962",
+      "doi": "10.1109/IPDPS64566.2025.00089",
+      "publicationDate": "2024-08-12",
+      "year": 2024
+    },
+    {
+      "title": "Design and Implementation of an IPC-based Collective MPI Library for Intel GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3626203.3670549",
+      "publicationDate": "2024-07-17",
+      "year": 2024
+    },
+    {
+      "title": "Snoopie: A Multi-GPU Communication Profiler and Visualizer",
+      "arxiv_id": null,
+      "doi": "10.1145/3650200.3656597",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes",
+      "arxiv_id": null,
+      "doi": "10.1145/3650200.3656591",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Error-Bounded Lossy Compression for Scientific Datasets",
+      "arxiv_id": "2404.02840",
+      "doi": "10.1145/3733104",
+      "publicationDate": "2024-04-03",
+      "year": 2024
+    },
+    {
+      "title": "HiRace: Accurate and Fast Source-Level Race Checking of GPU Programs",
+      "arxiv_id": "2401.04701",
+      "doi": "10.48550/arXiv.2401.04701",
+      "publicationDate": "2024-01-09",
+      "year": 2024
+    },
+    {
+      "title": "MPI-xCCL: A Portable MPI Library over Collective Communication Libraries for Various Accelerators",
+      "arxiv_id": null,
+      "doi": "10.1145/3624062.3624153",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters",
+      "arxiv_id": "2308.05199",
+      "doi": "10.1145/3650200.3656636",
+      "publicationDate": "2023-08-09",
+      "year": 2023
+    },
+    {
+      "title": "Multi-GPU Communication Schemes for Iterative Solvers: When CPUs are Not in Charge",
+      "arxiv_id": null,
+      "doi": "10.1145/3577193.3593713",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Distributed ML Communication with Fused Computation-Collective Operations",
+      "arxiv_id": "2305.06942",
+      "doi": "10.1109/SC41406.2024.00094",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "Implementing and Optimizing a GPU-aware MPI Library for Intel GPUs: Early Experiences",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid57682.2023.00022",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Interconnect Bandwidth Heterogeneity on AMD MI250x and Infinity Fabric",
+      "arxiv_id": "2302.14827",
+      "doi": "10.48550/arXiv.2302.14827",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "xCCL: A Survey of Industry-Led Collective Communication Libraries for Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s11390-023-2894-6",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "MSCCLang: Microsoft Collective Communication Language",
+      "arxiv_id": null,
+      "doi": "10.1145/3575693.3575724",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "Scalable Irregular Parallelism with GPUs: Getting CPUs Out of the Way",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00055",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms",
+      "arxiv_id": "2209.06800",
+      "doi": null,
+      "publicationDate": "2022-09-14",
+      "year": 2022
+    },
+    {
+      "title": "MPIX Stream: An Explicit Solution to Hybrid MPI+X Programming",
+      "arxiv_id": "2208.13707",
+      "doi": "10.1145/3555819.3555820",
+      "publicationDate": "2022-08-29",
+      "year": 2022
+    },
+    {
+      "title": "The Nvlink-Network Switch: Nvidia’s Switch Chip for High Communication-Bandwidth Superpods",
+      "arxiv_id": null,
+      "doi": "10.1109/HCS55958.2022.9895480",
+      "publicationDate": "2022-08-21",
+      "year": 2022
+    },
+    {
+      "title": "Exploring GPU Stream-Aware Message Passing using Triggered Operations",
+      "arxiv_id": "2208.04817",
+      "doi": "10.48550/arXiv.2208.04817",
+      "publicationDate": "2022-08-09",
+      "year": 2022
+    },
+    {
+      "title": "Highly Efficient Alltoall and Alltoallv Communication Algorithms for GPU Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW55747.2022.00014",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Oversubscribing GPU Unified Virtual Memory: Implications and Suggestions",
+      "arxiv_id": null,
+      "doi": "10.1145/3489525.3511691",
+      "publicationDate": "2022-04-09",
+      "year": 2022
+    },
+    {
+      "title": "PERKS: a Locality-Optimized Execution Model for Iterative Memory-bound GPU Applications",
+      "arxiv_id": "2204.02064",
+      "doi": "10.1145/3577193.3593705",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture",
+      "arxiv_id": "2203.04910",
+      "doi": "10.1145/3575693.3575748",
+      "publicationDate": "2022-03-09",
+      "year": 2022
+    },
+    {
+      "title": "2. Release",
+      "arxiv_id": null,
+      "doi": "10.12987/9780300262445-007",
+      "publicationDate": "2021-11-30",
+      "year": 2021
+    },
+    {
+      "title": "TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches",
+      "arxiv_id": "2111.04867",
+      "doi": null,
+      "publicationDate": "2021-11-08",
+      "year": 2021
+    },
+    {
+      "title": "Nvidia Data Center Processing Unit (DPU) Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/HCS52781.2021.9567066",
+      "publicationDate": "2021-08-22",
+      "year": 2021
+    },
+    {
+      "title": "GPU-aware Communication with UCX in Parallel Programming Models: Charm++, MPI, and Python",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW52791.2021.00079",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Multi-GPU Shared Memory via Automatic Optimization of Fine-Grained Transfers",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA52012.2021.00020",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "The PetscSF Scalable Communication Layer",
+      "arxiv_id": "2102.13018",
+      "doi": "10.1109/TPDS.2021.3084070",
+      "publicationDate": "2021-02-25",
+      "year": 2021
+    },
+    {
+      "title": "Accelerating communication for parallel programming models on GPU systems",
+      "arxiv_id": "2102.12416",
+      "doi": "10.1016/j.parco.2022.102969",
+      "publicationDate": "2021-02-24",
+      "year": 2021
+    },
+    {
+      "title": "Fast and Scalable Sparse Triangular Solver for Multi-GPU Based HPC Architectures",
+      "arxiv_id": "2012.06959",
+      "doi": "10.1145/3472456.3472478",
+      "publicationDate": "2020-12-13",
+      "year": 2020
+    },
+    {
+      "title": "Performance Trade-offs in GPU Communication: A Study of Host and Device-initiated Approaches",
+      "arxiv_id": null,
+      "doi": "10.1109/PMBS51919.2020.00016",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Synthesizing optimal collective algorithms",
+      "arxiv_id": "2008.08708",
+      "doi": "10.1145/3437801.3441620",
+      "publicationDate": "2020-08-19",
+      "year": 2020
+    },
+    {
+      "title": "CharminG: A Scalable GPU-resident Runtime System",
+      "arxiv_id": null,
+      "doi": "10.1145/3431379.3464454",
+      "publicationDate": "2020-06-21",
+      "year": 2020
+    },
+    {
+      "title": "Groute",
+      "arxiv_id": null,
+      "doi": "10.1145/3399730",
+      "publicationDate": "2020-06-20",
+      "year": 2020
+    },
+    {
+      "title": "GPU initiated OpenSHMEM: correct and efficient intra-kernel networking for dGPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3332466.3374544",
+      "publicationDate": "2020-02-19",
+      "year": 2020
+    },
+    {
+      "title": "Blink: Fast and Generic Collectives for Distributed ML",
+      "arxiv_id": "1910.04940",
+      "doi": null,
+      "publicationDate": "2019-10-11",
+      "year": 2019
+    },
+    {
+      "title": "Mitigating Network Noise on Dragonfly Networks through Application-Aware Routing",
+      "arxiv_id": "1909.07865",
+      "doi": "10.1145/3295500.3356196",
+      "publicationDate": "2019-09-17",
+      "year": 2019
+    },
+    {
+      "title": "Benchmarking multi‐GPU applications on modern multi‐GPU integrated systems",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.5470",
+      "publicationDate": "2019-08-08",
+      "year": 2019
+    },
+    {
+      "title": "Optimized large-message broadcast for deep learning workloads: MPI, MPI+NCCL, or NCCL2?",
+      "arxiv_id": null,
+      "doi": "10.1016/J.PARCO.2019.03.005",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Characterizing CUDA Unified Memory (UM)-Aware MPI Designs on Modern GPU Architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/3300053.3319419",
+      "publicationDate": "2019-04-13",
+      "year": 2019
+    },
+    {
+      "title": "Evaluating Characteristics of CUDA Communication Primitives on High-Bandwidth Interconnects",
+      "arxiv_id": null,
+      "doi": "10.1145/3297663.3310299",
+      "publicationDate": "2019-04-04",
+      "year": 2019
+    },
+    {
+      "title": "Evaluating Modern GPU Interconnect: PCIe, NVLink, NV-SLI, NVSwitch and GPUDirect",
+      "arxiv_id": "1903.04611",
+      "doi": "10.1109/TPDS.2019.2928289",
+      "publicationDate": "2019-03-11",
+      "year": 2019
+    },
+    {
+      "title": "Aluminum: An Asynchronous, GPU-Aware Communication Library Optimized for Large-Scale Training of Deep Neural Networks on HPC Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/MLHPC.2018.8638639",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Designing High-Performance In-Memory Key-Value Operations with Persistent GPU Kernels and OpenSHMEM",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-04918-8_10",
+      "publicationDate": "2018-08-21",
+      "year": 2018
+    },
+    {
+      "title": "Generic System Calls for GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA.2018.00075",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "GPUDirect Async: Exploring GPU synchronous communication techniques for InfiniBand clusters",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2017.12.007",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "GPU-Centric Communication on NVIDIA GPU Clusters with InfiniBand: A Case Study with OpenSHMEM",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC.2017.00037",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "GPU Triggered Networking for Intra-KerneI Communications",
+      "arxiv_id": null,
+      "doi": "10.1145/3126908.3126950",
+      "publicationDate": "2017-11-12",
+      "year": 2017
+    },
+    {
+      "title": "Efficient Breadth First Search on Multi-GPU Systems Using GPU-Centric OpenSHMEM",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-73814-7_6",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "MPI-GDS: High Performance MPI Designs with GPUDirect-aSync for CPU-GPU Control Flow Decoupling",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPP.2017.24",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Offloading Communication Control Logic in GPU Accelerated Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGRID.2017.29",
+      "publicationDate": "2017-05-14",
+      "year": 2017
+    },
+    {
+      "title": "Ultra-Performance Pascal GPU and NVLink Interconnect",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2017.37",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "CUDA M3: Designing Efficient CUDA Managed Memory-Aware MPI by Exploiting GDR and IPC",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC.2016.016",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "dCUDA: Hardware Supported Overlap of Computation and Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2016.51",
+      "publicationDate": "2016-11-13",
+      "year": 2016
+    },
+    {
+      "title": "Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/2966884.2966912",
+      "publicationDate": "2016-09-25",
+      "year": 2016
+    },
+    {
+      "title": "GPUrdma: GPU-side library for high performance networking from GPU kernels",
+      "arxiv_id": null,
+      "doi": "10.1145/2931088.2931091",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "GPU-Aware Non-contiguous Data Movement In Open MPI",
+      "arxiv_id": null,
+      "doi": "10.1145/2907294.2907317",
+      "publicationDate": "2016-05-31",
+      "year": 2016
+    },
+    {
+      "title": "Designing high performance communication runtime for GPU managed memory: early experiences",
+      "arxiv_id": null,
+      "doi": "10.1145/2884045.2884050",
+      "publicationDate": "2016-03-12",
+      "year": 2016
+    },
+    {
+      "title": "UCX: An Open Source Framework for HPC Network APIs and Beyond",
+      "arxiv_id": null,
+      "doi": "10.1109/HOTI.2015.13",
+      "publicationDate": "2015-08-26",
+      "year": 2015
+    },
+    {
+      "title": "Exploring OpenSHMEM Model to Program GPU-based Extreme-Scale Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-26428-8_2",
+      "publicationDate": "2015-08-04",
+      "year": 2015
+    },
+    {
+      "title": "Analyzing communication models for distributed thread-collaborative processors in terms of energy and time",
+      "arxiv_id": null,
+      "doi": "10.1109/ISPASS.2015.7095817",
+      "publicationDate": "2015-03-29",
+      "year": 2015
+    },
+    {
+      "title": "Designing efficient small message transfer mechanism for inter-node MPI communication on InfiniBand GPU clusters",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC.2014.7116873",
+      "publicationDate": "2014-12-01",
+      "year": 2014
+    },
+    {
+      "title": "Energy-Efficient Stencil Computations on Distributed GPUs Using Dynamic Parallelism and GPU-Controlled Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/E2SC.2014.14",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "GPUnet",
+      "arxiv_id": null,
+      "doi": "10.1145/2963098",
+      "publicationDate": "2014-10-06",
+      "year": 2014
+    },
+    {
+      "title": "GPU-Aware MPI on RDMA-Enabled Clusters: Design, Implementation and Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2013.222",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Analyzing Put/Get APIs for Thread-Collaborative Processors",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPPW.2014.61",
+      "publicationDate": "2014-09-09",
+      "year": 2014
+    },
+    {
+      "title": "Energy-Efficient Collective Reduce and Allreduce Operations on Distributed GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid.2014.21",
+      "publicationDate": "2014-05-26",
+      "year": 2014
+    },
+    {
+      "title": "InfiniBand Verbs on GPU: a case study of controlling an InfiniBand network device from the GPU",
+      "arxiv_id": null,
+      "doi": "10.1177/1094342015588142",
+      "publicationDate": "2014-05-19",
+      "year": 2014
+    },
+    {
+      "title": "Efficient Inter-node MPI Communication Using GPUDirect RDMA for InfiniBand Clusters with NVIDIA GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPP.2013.17",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "GGAS: Global GPU address spaces for efficient communication in heterogeneous clusters",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER.2013.6702638",
+      "publicationDate": "2013-09-01",
+      "year": 2013
+    },
+    {
+      "title": "Architecture",
+      "arxiv_id": null,
+      "doi": "10.1080/17546559.2013.820426",
+      "publicationDate": "2013-09-01",
+      "year": 2013
+    },
+    {
+      "title": "GPUfs: Integrating a file system with GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/2553081",
+      "publicationDate": "2013-03-16",
+      "year": 2013
+    },
+    {
+      "title": "OMB-GPU: A Micro-Benchmark Suite for Evaluating MPI Libraries on GPU Clusters",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-33518-1_16",
+      "publicationDate": "2012-09-23",
+      "year": 2012
+    },
+    {
+      "title": "Optimizing MPI Communication on Multi-GPU Systems Using CUDA Inter-Process Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW.2012.228",
+      "publicationDate": "2012-05-21",
+      "year": 2012
+    },
+    {
+      "title": "FLAT: a GPU programming framework to provide embedded MPI",
+      "arxiv_id": null,
+      "doi": "10.1145/2159430.2159433",
+      "publicationDate": "2012-03-03",
+      "year": 2012
+    },
+    {
+      "title": "Peta-scale phase-field simulation for dendritic solidification on the TSUBAME 2.0 supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1145/2063384.2063388",
+      "publicationDate": "2011-11-12",
+      "year": 2011
+    },
+    {
+      "title": "Optimized Non-contiguous MPI Datatype Communication for GPU Clusters: Design, Implementation and Evaluation with MVAPICH2",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER.2011.42",
+      "publicationDate": "2011-09-26",
+      "year": 2011
+    },
+    {
+      "title": "MVAPICH2-GPU: optimized GPU to GPU communication for InfiniBand clusters",
+      "arxiv_id": null,
+      "doi": "10.1007/s00450-011-0171-3",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "The development of Mellanox/NVIDIA GPUDirect over InfiniBand—a new model for GPU to GPU communications",
+      "arxiv_id": null,
+      "doi": "10.1007/s00450-011-0157-1",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "GPU-to-CPU Callbacks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-21878-1_45",
+      "publicationDate": "2010-08-31",
+      "year": 2010
+    },
+    {
+      "title": "Received 1 September 2024; revised 5 December 2025; accepted 24 March 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "The Big Send-off: High Performance Collectives on GPU-based Supercomputers",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2504.18658",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Technical Blog on NCCL 2.28 Release",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2504.09014",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". We Bought the Whole GPU, So We’re Damn Well Going to Use the Whole GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Serve the Home",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". NVIDIA NVLink SGXLS10 Switch Systems User Manual",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". NVSHMEM 2.7.0 Release Notes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ROCm Documentation: GPU-Enabled MPI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". GPU-aware MPI with ROCm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". CUDA Runtime - Device Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Accelerating MPI All-to-All Communication with Online Compression on Modern GPU Clusters",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-07312-0_1",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Designing a ROCm-Aware MPI Library for AMD GPUs: Early Experiences",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-78713-4_7",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Multi-GPU Programming Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Improving GPU Memory Oversubscription Performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ComScribe: Identifying Intra-node GPU Communication",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-71058-3_10",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Scaling Scientiic Computing with NVSHMEM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "GTC 20: Overcoming Latency Barriers: Strong Scaling HPC Applications with NVSHMEM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Distributed Neural Network Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": ": Lattice",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "ComP-Net: Command Processor Networking for Eficient Intra-kernel Communications on GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Early Experience with NVSHMEM: Extending the Kokkos Programming Model with PGAS Semantics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Fast Multi-GPU collectives with NCCL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "State of GPUDirect Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "GPU-centric communication for improved efficiency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "GPUDirect Storage: A Direct Path Between Storage and GPU Memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "How to Optimize Data Transfers in CUDA C/C++. https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/. 40] HPE. 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Peer-to-Peer & Uniied Virtual Addressing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "THE LANDSCAPE OF",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "2023. GPU-initiated Fine-grained Overlap of Collective Communication with Computation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SC: G: gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. NVLink",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Key Hyperscalers And Chip Makers Gang Up On Nvidia’s NVSwitch Interconnect",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Inline GPU Packet Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Manuscript submitted to",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023.ExploringFullyOffloadedGPUStream-AwareMessagePassing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. Figures of The Landscape of GPU-Centric Communication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "OpenMPI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Optimizing Inline Packet Processing Using DPDK and GPUDirect with GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Improving Network Performance of HPC Systems Using NVIDIA Magnum IO NVSHMEM and GPUDirect Async",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. MPICH for Exascale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Unified Communication X Library",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. GitHub - Pull Request for adding support for Unified Collective Communication (UCC)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVIDIA Corporation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Blink GPU Benchmark",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. ROCK-Kernel-Driver",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "candidate": {
+    "topic": "A Survey of Distributed Asynchronous Many-Task Models and Their Applications",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3840389",
+      "title": "A Survey of Distributed Asynchronous Many-Task Models and Their Applications",
+      "published": "2026-08-14"
+    },
+    "notes": "probe: 암호(IACR ePrint)/HPC(SC·IPDPS) 문헌 생태가 arXiv-backed corpus에서 어느 정도 커버되는지 실측용. 사전 필터의 'arXiv 친화성' prior 검증"
+  },
+  "extracted_at": "2026-09-01T02:11:11+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 184,
+    "arxiv_resolvable": 31,
+    "doi_only": 122,
+    "unresolved": 31
+  },
+  "gt_s2": {
+    "paperId": "a895ab5efb56f1982ea41841958c5f5781532940",
+    "externalIds": {
+      "DOI": "10.1145/3840389",
+      "CorpusId": 285104605
+    },
+    "title": "A Survey of Distributed Asynchronous Many-Task Models and Their Applications",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 184,
+    "publicationDate": "2026-08-14"
+  },
+  "refs": [
+    {
+      "title": "Scaling Uintah on the Aurora Exascale System up to 122,880 Intel Ponte Vecchio Xe Stacks",
+      "arxiv_id": null,
+      "doi": "10.1145/3708035.3736001",
+      "publicationDate": "2025-07-20",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing parallel heterogeneous system efficiency: Dynamic task graph adaptation with recursive tasks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2025.105157",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "GPRat: Gaussian Process Regression with Asynchronous Tasks",
+      "arxiv_id": "2505.00136",
+      "doi": "10.48550/arXiv.2505.00136",
+      "publicationDate": "2025-04-30",
+      "year": 2025
+    },
+    {
+      "title": "NNTile: a machine learning framework capable of training extremely large GPT language models on a single node",
+      "arxiv_id": "2504.13236",
+      "doi": "10.48550/arXiv.2504.13236",
+      "publicationDate": "2025-04-17",
+      "year": 2025
+    },
+    {
+      "title": "Asynchronous-many-task systems: Challenges and opportunities - Scaling an AMR astrophysics code on exascale machines using Kokkos and HPX",
+      "arxiv_id": "2412.15518",
+      "doi": "10.1177/10943420251386503",
+      "publicationDate": "2024-12-20",
+      "year": 2024
+    },
+    {
+      "title": "Productive, Vendor-Neutral GPU Programming Using Chapel",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00241",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Improving Parallel Program Performance with LLM Optimizers via Agent-System Interfaces",
+      "arxiv_id": "2410.15625",
+      "doi": null,
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "PaRSEC: Scalability, flexibility, and hybrid architecture support for task-based applications in ECP",
+      "arxiv_id": null,
+      "doi": "10.1177/10943420241290520",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Task Scheduling with Data Dependency Awareness Using Julia",
+      "arxiv_id": null,
+      "doi": "10.1109/HPEC62836.2024.10938467",
+      "publicationDate": "2024-09-23",
+      "year": 2024
+    },
+    {
+      "title": "Toward Capturing Genetic Epistasis from Multivariate Genome-Wide Association Studies Using Mixed-Precision Kernel Ridge Regression",
+      "arxiv_id": "2409.01712",
+      "doi": "10.1109/SC41406.2024.00012",
+      "publicationDate": "2024-09-03",
+      "year": 2024
+    },
+    {
+      "title": "Boosting Earth System Model Outputs And Saving PetaBytes in Their Storage Using Exascale Climate Emulators",
+      "arxiv_id": "2408.04440",
+      "doi": "10.1109/SC41406.2024.00008",
+      "publicationDate": "2024-08-08",
+      "year": 2024
+    },
+    {
+      "title": "Integrating High Performance Computing into Higher Education and the Pedagogy of Cluster Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3626203.3670588",
+      "publicationDate": "2024-07-17",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Criteria Mesh Partitioning for an Explicit Temporal Adaptive Task-Distributed Finite-Volume Solver",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW63119.2024.00168",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Performance Portability of the Chapel Language on Heterogeneous Architectures",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW63119.2024.00011",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos",
+      "arxiv_id": "2407.00026",
+      "doi": "10.1109/SCW63240.2024.00207",
+      "publicationDate": "2024-05-10",
+      "year": 2024
+    },
+    {
+      "title": "Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars",
+      "arxiv_id": "2404.06864",
+      "doi": "10.1093/mnras/stae2343",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "Chapel",
+      "arxiv_id": null,
+      "doi": "10.21428/9b43cd98.7056a988",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "Experiences Porting Shared and Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-Study",
+      "arxiv_id": "2405.00015",
+      "doi": "10.1007/978-3-031-61763-8_11",
+      "publicationDate": "2024-02-09",
+      "year": 2024
+    },
+    {
+      "title": "Design and Analysis of the Network Software Stack of an Asynchronous Many-task System -- The LCI parcelport of HPX",
+      "arxiv_id": null,
+      "doi": "10.1145/3624062.3624598",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "Automated Mapping of Task-Based Programs onto Distributed and Heterogeneous Machines",
+      "arxiv_id": null,
+      "doi": "10.1145/3581784.3607079",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating HPX and Kokkos on RISC-V using an astrophysics application Octo-Tiger",
+      "arxiv_id": "2309.06530",
+      "doi": "10.1145/3624062.3624230",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "Improving the Scaling of an Asynchronous Many-Task Runtime with a Lightweight Communication Engine",
+      "arxiv_id": null,
+      "doi": "10.1145/3605573.3605642",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java",
+      "arxiv_id": "2307.01117",
+      "doi": "10.1007/978-3-031-48803-0_11",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku",
+      "arxiv_id": "2304.11002",
+      "doi": "10.1007/s11227-024-06113-w",
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence",
+      "arxiv_id": null,
+      "doi": "10.1145/3572848.3577515",
+      "publicationDate": "2023-02-25",
+      "year": 2023
+    },
+    {
+      "title": "Taming data locality for task scheduling under memory constraint in runtime systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.01.024",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Composition of Algorithmic Building Blocks in Template Task Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/PAW-ATM56565.2022.00008",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Reshaping Geostatistical Modeling and Prediction for Extreme-Scale Environmental Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00007",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels",
+      "arxiv_id": "2210.06438",
+      "doi": "10.1109/P3HPC56579.2022.00014",
+      "publicationDate": "2022-09-26",
+      "year": 2022
+    },
+    {
+      "title": "SpDISTAL: Compiling Distributed Sparse Tensor Computations",
+      "arxiv_id": "2207.13901",
+      "doi": "10.1109/SC41404.2022.00064",
+      "publicationDate": "2022-07-28",
+      "year": 2022
+    },
+    {
+      "title": "Quantifying Overheads in Charm++ and HPX using Task Bench",
+      "arxiv_id": "2207.12127",
+      "doi": "10.1007/978-3-031-31209-0_1",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "Porting uintah to heterogeneous systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3539781.3539794",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Generalized Flow-Graph Programming Using Template Task-Graphs: Initial Implementation and Assessment",
+      "arxiv_id": null,
+      "doi": "10.1109/ipdps53621.2022.00086",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "nOS-V: Co-Executing HPC Applications Using System-Wide Task Scheduling",
+      "arxiv_id": "2204.10768",
+      "doi": "10.1109/IPDPS57955.2024.00035",
+      "publicationDate": "2022-04-22",
+      "year": 2022
+    },
+    {
+      "title": "A performance-oriented comparative study of the Chapel high-productivity language to conventional programming environments",
+      "arxiv_id": null,
+      "doi": "10.1145/3528425.3529104",
+      "publicationDate": "2022-04-02",
+      "year": 2022
+    },
+    {
+      "title": "Kokkos 3: Programming Model Extensions for the Exascale Era",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2021.3097283",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "DISTAL: the distributed tensor algebra compiler",
+      "arxiv_id": "2203.08069",
+      "doi": "10.1145/3519939.3523437",
+      "publicationDate": "2022-03-15",
+      "year": 2022
+    },
+    {
+      "title": "Atikokan Digital Twin: Machine learning in a biomass energy system",
+      "arxiv_id": null,
+      "doi": "10.1016/j.apenergy.2021.118436",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "HTR-1.3 solver: predicting electrified combustion using the Hypersonic Task-based Research solver",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cpc.2021.108247",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "IRIS: A Portable Runtime System Exploiting Multiple Heterogeneous Programming Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/HPEC49654.2021.9622873",
+      "publicationDate": "2021-09-20",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating MPI resource usage summary statistics",
+      "arxiv_id": null,
+      "doi": "10.1016/j.parco.2021.102825",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Beyond Fork-Join: Integration of Performance Portable Kokkos Kernels with HPX",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW52791.2021.00066",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Scaling implicit parallelism via dynamic control replication",
+      "arxiv_id": null,
+      "doi": "10.1145/3437801.3441587",
+      "publicationDate": "2021-02-17",
+      "year": 2021
+    },
+    {
+      "title": "TBAA20: Task-Based Algorithms and Applications",
+      "arxiv_id": null,
+      "doi": "10.2172/1764191",
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Optimizing the hypre solver for manycore and GPU architectures",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jocs.2020.101279",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Performance Measurements Within Asynchronous Task-Based Runtime Systems: A Double White Dwarf Merger as an Application",
+      "arxiv_id": "2102.00223",
+      "doi": "10.1109/MCSE.2021.3073626",
+      "publicationDate": "2021-01-30",
+      "year": 2021
+    },
+    {
+      "title": "octo-tiger: a new, 3D hydrodynamic code for stellar mergers that uses hpx parallelization",
+      "arxiv_id": "2101.08226",
+      "doi": "10.1093/mnras/stab937",
+      "publicationDate": "2021-01-20",
+      "year": 2021
+    },
+    {
+      "title": "TBFMM: A C++ generic and parallel fast multipole method library",
+      "arxiv_id": null,
+      "doi": "10.21105/joss.02444",
+      "publicationDate": "2020-12-03",
+      "year": 2020
+    },
+    {
+      "title": "AI-Driven Multiscale Simulations Illuminate Mechanisms of SARS-CoV-2 Spike Dynamics",
+      "arxiv_id": null,
+      "doi": "10.1101/2020.11.19.390187",
+      "publicationDate": "2020-11-20",
+      "year": 2020
+    },
+    {
+      "title": "The Template Task Graph (TTG) - an emerging practical dataflow programming paradigm for scientific simulation at extreme scale",
+      "arxiv_id": null,
+      "doi": "10.1109/ESPM251964.2020.00011",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "From tasks graphs to asynchronous distributed checkpointing with local restart",
+      "arxiv_id": null,
+      "doi": "10.1109/FTXS51974.2020.00009",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Towards a Scalable and Distributed Infrastructure for Deep Learning Applications",
+      "arxiv_id": "2010.03012",
+      "doi": "10.1109/DLS51937.2020.00008",
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "Design and Implementation Techniques for an MPI-Oriented AMT Runtime",
+      "arxiv_id": null,
+      "doi": "10.1109/ExaMPI52011.2020.00009",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "Flexible Data Redistribution in a Task-Based Runtime System",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER49012.2020.00032",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Using Dynamic Broadcasts to Improve Task-Based Runtime Performances",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-57675-2_28",
+      "publicationDate": "2020-08-24",
+      "year": 2020
+    },
+    {
+      "title": "Massively Parallel Quantum Chemistry: A high-performance research platform for electronic structure.",
+      "arxiv_id": null,
+      "doi": "10.1063/5.0005889",
+      "publicationDate": "2020-07-28",
+      "year": 2020
+    },
+    {
+      "title": "HTR solver: An open-source exascale-oriented task-based multi-GPU high-order code for hypersonic aerothermodynamics",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cpc.2020.107262",
+      "publicationDate": "2020-07-04",
+      "year": 2020
+    },
+    {
+      "title": "Static Analysis to Enhance Programmability and Performance in OmpSs-2",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-59851-8_2",
+      "publicationDate": "2020-06-22",
+      "year": 2020
+    },
+    {
+      "title": "Distributed-memory multi-GPU block-sparse tensor contraction for electronic structure",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS49936.2021.00062",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "arxiv_id": "1912.01703",
+      "doi": null,
+      "publicationDate": "2019-12-03",
+      "year": 2019
+    },
+    {
+      "title": "A Large-Scale Study of MPI Usage in Open-Source HPC Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3295500.3356176",
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "Legate NumPy: Accelerated and Distributed Array Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3295500.3356175",
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "RAJA: Portable Performance for Large-Scale Scientific Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/P3HPC49587.2019.00012",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Assessing the Performance Impact of using an Active Global Address Space in HPX: A Case for AGAS",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDRM49579.2019.00008",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Generic Matrix Multiplication for Multi-GPU Accelerated Distributed-Memory Platforms over PaRSEC",
+      "arxiv_id": null,
+      "doi": "10.1109/ScalA49573.2019.00010",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Task Bench: A Parameterized Benchmark for Evaluating Parallel Runtime Performance",
+      "arxiv_id": "1908.05790",
+      "doi": "10.1109/SC41405.2020.00066",
+      "publicationDate": "2019-08-15",
+      "year": 2019
+    },
+    {
+      "title": "From Piz Daint to the Stars: Simulation of Stellar Mergers Using High-Level Abstractions",
+      "arxiv_id": "1908.03121",
+      "doi": "10.1145/3295500.3356221",
+      "publicationDate": "2019-08-08",
+      "year": 2019
+    },
+    {
+      "title": "Arkouda: interactive data exploration backed by Chapel",
+      "arxiv_id": null,
+      "doi": "10.1145/3329722.3330148",
+      "publicationDate": "2019-06-22",
+      "year": 2019
+    },
+    {
+      "title": "UPC++: A High-Performance Communication Framework for Asynchronous Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2019.00104",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Robust Preconditioners via Generalized Eigenproblems for Hybrid Sparse Linear Solvers",
+      "arxiv_id": null,
+      "doi": "10.1137/17M1153765",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "CharmPy: A Python Parallel Programming Model",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER.2018.00059",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Beyond Data and Model Parallelism for Deep Neural Networks",
+      "arxiv_id": "1807.05358",
+      "doi": null,
+      "publicationDate": "2018-07-14",
+      "year": 2018
+    },
+    {
+      "title": "An asynchronous and task-based implementation of peridynamics utilizing HPX—the C++ standard library for parallelism and concurrency",
+      "arxiv_id": "1806.06917",
+      "doi": "10.1007/s42452-020-03784-x",
+      "publicationDate": "2018-06-18",
+      "year": 2018
+    },
+    {
+      "title": "Scalable Data Management of the Uintah Simulation Framework for Next-Generation Engineering Problems with Radiation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-69953-0_13",
+      "publicationDate": "2018-03-26",
+      "year": 2018
+    },
+    {
+      "title": "Increasing the degree of parallelism using speculative execution in task-based runtime systems",
+      "arxiv_id": "1803.04211",
+      "doi": "10.7717/peerj-cs.183",
+      "publicationDate": "2018-03-12",
+      "year": 2018
+    },
+    {
+      "title": "A taxonomy of task-based parallel programming technologies for high-performance computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-018-2238-4",
+      "publicationDate": "2018-01-12",
+      "year": 2018
+    },
+    {
+      "title": "Achieving High Performance on Supercomputers with a Sequential Task-based Programming Model",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2017.2766064",
+      "publicationDate": "2017-12-19",
+      "year": 2017
+    },
+    {
+      "title": "Ray: A Distributed Framework for Emerging AI Applications",
+      "arxiv_id": "1712.05889",
+      "doi": null,
+      "publicationDate": "2017-12-16",
+      "year": 2017
+    },
+    {
+      "title": "S3D-Legion : An Exascale Software for Direct Numerical Simulation of Turbulent Combustion with Complex Multicomponent Chemistry",
+      "arxiv_id": null,
+      "doi": "10.1201/b21930-12",
+      "publicationDate": "2017-11-13",
+      "year": 2017
+    },
+    {
+      "title": "Control Replication: Compiling Implicit Parallelism to Efficient SPMD with Logical Regions",
+      "arxiv_id": null,
+      "doi": "10.1145/3126908.3126949",
+      "publicationDate": "2017-11-12",
+      "year": 2017
+    },
+    {
+      "title": "Dynamic task discovery in PaRSEC: a data-flow task-based runtime",
+      "arxiv_id": null,
+      "doi": "10.1145/3148226.3148233",
+      "publicationDate": "2017-11-12",
+      "year": 2017
+    },
+    {
+      "title": "The tensor algebra compiler",
+      "arxiv_id": null,
+      "doi": "10.1145/3133901",
+      "publicationDate": "2017-10-12",
+      "year": 2017
+    },
+    {
+      "title": "Bridging the Gap Between OpenMP and Task-Based Runtime Systems for the Fast Multipole Method",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2017.2697857",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "Reordering Strategy for Blocking Optimization in Sparse Linear Solvers",
+      "arxiv_id": null,
+      "doi": "10.1137/16M1062454",
+      "publicationDate": "2017-03-23",
+      "year": 2017
+    },
+    {
+      "title": "Design and Analysis of a Task-based Parallelization over a Runtime System of an Explicit Finite-Volume CFD Code with Adaptive Time Stepping",
+      "arxiv_id": "1704.01144",
+      "doi": "10.1016/j.jocs.2017.03.008",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "Sparse Supernodal Solver Using Block Low-Rank Compression",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW.2017.86",
+      "publicationDate": "2017-01-27",
+      "year": 2017
+    },
+    {
+      "title": "Massively Parallel Implementation of Explicitly Correlated Coupled-Cluster Singles and Doubles Using TiledArray Framework.",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jpca.6b10150",
+      "publicationDate": "2016-12-14",
+      "year": 2016
+    },
+    {
+      "title": "The shift from processor power consumption to performance variations: fundamental implications at scale",
+      "arxiv_id": "1808.08106",
+      "doi": "10.1007/s00450-016-0327-2",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "Apache Spark",
+      "arxiv_id": null,
+      "doi": "10.1145/2934664",
+      "publicationDate": "2016-10-28",
+      "year": 2016
+    },
+    {
+      "title": "Extending the Uintah Framework through the Petascale Modeling of Detonation in Arrays of High Explosive Devices",
+      "arxiv_id": null,
+      "doi": "10.1137/15M1023270",
+      "publicationDate": "2016-10-27",
+      "year": 2016
+    },
+    {
+      "title": "Power, Reliability, and Performance: One System to Rule them All",
+      "arxiv_id": null,
+      "doi": "10.1109/MC.2016.310",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Implementing Multifrontal Sparse Solvers for Multicore Architectures with Sequential Task Flow Runtime Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2898348",
+      "publicationDate": "2016-08-16",
+      "year": 2016
+    },
+    {
+      "title": "Evaluating and Improving the Performance and Scheduling of HPC Applications in Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2014.2339858",
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "OpenAtom: Scalable Ab-Initio Molecular Dynamics with Diverse Capabilities",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-41321-1_8",
+      "publicationDate": "2016-06-19",
+      "year": 2016
+    },
+    {
+      "title": "FMR: Fast randomized algorithms for covariance matrix computations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-06-08",
+      "year": 2016
+    },
+    {
+      "title": "Radiative Heat Transfer Calculation on 16384 GPUs Using a Reverse Monte Carlo Ray Tracing Approach with Adaptive Mesh Refinement",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW.2016.93",
+      "publicationDate": "2016-05-01",
+      "year": 2016
+    },
+    {
+      "title": "The Charm++ Programming Model",
+      "arxiv_id": null,
+      "doi": "10.1201/B16251-12",
+      "publicationDate": "2016-04-19",
+      "year": 2016
+    },
+    {
+      "title": "A Hybrid Task Graph Scheduler for High Performance Image Processing Workflows",
+      "arxiv_id": null,
+      "doi": "10.1007/s11265-017-1262-6",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "Regent: a high-productivity programming language for HPC with logical regions",
+      "arxiv_id": null,
+      "doi": "10.1145/2807591.2807629",
+      "publicationDate": "2015-11-15",
+      "year": 2015
+    },
+    {
+      "title": "What is the Truck Factor of popular GitHub applications? A first assessment",
+      "arxiv_id": null,
+      "doi": "10.7287/peerj.preprints.1233v3",
+      "publicationDate": "2015-09-10",
+      "year": 2015
+    },
+    {
+      "title": "An Autonomic Performance Environment for Exascale",
+      "arxiv_id": null,
+      "doi": "10.14529/JSFI150305",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Structure Slicing: Extending Logical Regions with Fields",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2014.74",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "Parallel Programming with Migratable Objects: Charm++ in Practice",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2014.58",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "Julia: A Fresh Approach to Numerical Computing",
+      "arxiv_id": "1411.1607",
+      "doi": "10.1137/141000671",
+      "publicationDate": "2014-11-06",
+      "year": 2014
+    },
+    {
+      "title": "Adaptive techniques for clustered N-body cosmological simulations",
+      "arxiv_id": "1409.1929",
+      "doi": "10.1186/S40668-015-0007-9",
+      "publicationDate": "2014-09-05",
+      "year": 2014
+    },
+    {
+      "title": "Task-Based Programming with OmpSs and Its Application",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-14313-2_51",
+      "publicationDate": "2014-08-25",
+      "year": 2014
+    },
+    {
+      "title": "Incompleteness + interoperability: a multi-paradigm approach to parallel programming for science and engineering applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-05-30",
+      "year": 2014
+    },
+    {
+      "title": "Investigating applications portability with the uintah DAG-based runtime system on petascale supercomputers",
+      "arxiv_id": null,
+      "doi": "10.1145/2503210.2503250",
+      "publicationDate": "2013-11-17",
+      "year": 2013
+    },
+    {
+      "title": "Parallel Science and Engineering Applications - The Charm++ Approach",
+      "arxiv_id": null,
+      "doi": "10.1201/B16251",
+      "publicationDate": "2013-10-28",
+      "year": 2013
+    },
+    {
+      "title": "ZeroMQ: Messaging for Many Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-03-12",
+      "year": 2013
+    },
+    {
+      "title": "Composable Parallel Patterns with Intel Cilk Plus",
+      "arxiv_id": null,
+      "doi": "10.1109/MCSE.2013.21",
+      "publicationDate": "2013-03-01",
+      "year": 2013
+    },
+    {
+      "title": "Optimizing fine-grained communication in a biomolecular simulation application on Cray XK6",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2012.87",
+      "publicationDate": "2012-11-10",
+      "year": 2012
+    },
+    {
+      "title": "Legion: Expressing locality and independence with logical regions",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2012.71",
+      "publicationDate": "2012-11-10",
+      "year": 2012
+    },
+    {
+      "title": "Go at Google",
+      "arxiv_id": null,
+      "doi": "10.1145/2384716.2384720",
+      "publicationDate": "2012-10-19",
+      "year": 2012
+    },
+    {
+      "title": "LU factorization for accelerator-based systems",
+      "arxiv_id": null,
+      "doi": "10.1109/AICCSA.2011.6126599",
+      "publicationDate": "2011-12-27",
+      "year": 2011
+    },
+    {
+      "title": "Formal analysis of MPI-based parallel programs",
+      "arxiv_id": null,
+      "doi": "10.1145/2043174.2043194",
+      "publicationDate": "2011-12-01",
+      "year": 2011
+    },
+    {
+      "title": "Scalable parallel regridding algorithms for block‐structured adaptive mesh refinement",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.1719",
+      "publicationDate": "2011-09-01",
+      "year": 2011
+    },
+    {
+      "title": "QR Factorization on a Multicore Node Enhanced with Multiple GPU Accelerators",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2011.90",
+      "publicationDate": "2011-05-16",
+      "year": 2011
+    },
+    {
+      "title": "Flexible Development of Dense Linear Algebra Algorithms on Massively Parallel Architectures with DPLASMA",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2011.299",
+      "publicationDate": "2011-05-16",
+      "year": 2011
+    },
+    {
+      "title": "DAGuE: A Generic Distributed DAG Engine for High Performance Computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.parco.2011.10.003",
+      "publicationDate": "2011-05-16",
+      "year": 2011
+    },
+    {
+      "title": "StarPU: a unified platform for task scheduling on heterogeneous multicore architectures",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.1631",
+      "publicationDate": "2011-02-01",
+      "year": 2011
+    },
+    {
+      "title": "Dynamic task scheduling for the Uintah framework",
+      "arxiv_id": null,
+      "doi": "10.1109/MTAGS.2010.5699431",
+      "publicationDate": "2010-11-01",
+      "year": 2010
+    },
+    {
+      "title": "Implementation and Performance Evaluation of XcalableMP: A Parallel Programming Language for Distributed Memory Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPPW.2010.62",
+      "publicationDate": "2010-09-13",
+      "year": 2010
+    },
+    {
+      "title": "Faster, Cheaper, Better { a Hybridization Methodology to Develop Linear Algebra Software for GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "Fine Granularity Sparse QR Factorization for Multicore Based Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-28145-7_23",
+      "publicationDate": "2010-06-06",
+      "year": 2010
+    },
+    {
+      "title": "ParalleX An Advanced Parallel Execution Model for Scaling-Impaired Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPPW.2009.14",
+      "publicationDate": "2009-09-22",
+      "year": 2009
+    },
+    {
+      "title": "Characterizing application sensitivity to OS interference using kernel-level noise injection",
+      "arxiv_id": null,
+      "doi": "10.1145/1413370.1413390",
+      "publicationDate": "2008-11-15",
+      "year": 2008
+    },
+    {
+      "title": "On finding approximate supernodes for an efficient block-ILU(k",
+      "arxiv_id": null,
+      "doi": "10.1016/j.parco.2007.12.003",
+      "publicationDate": "2008-07-01",
+      "year": 2008
+    },
+    {
+      "title": "Qthreads: An API for programming with millions of lightweight threads",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2008.4536359",
+      "publicationDate": "2008-04-14",
+      "year": 2008
+    },
+    {
+      "title": "Heat Transfer To Objects In Pool Fires",
+      "arxiv_id": null,
+      "doi": "10.2495/978-1-84564-160-3/03",
+      "publicationDate": "2008-02-22",
+      "year": 2008
+    },
+    {
+      "title": "MADNESS applied to density functional theory in chemistry and nuclear physics",
+      "arxiv_id": null,
+      "doi": "10.1088/1742-6596/78/1/012018",
+      "publicationDate": "2007-07-01",
+      "year": 2007
+    },
+    {
+      "title": "A component-based parallel infrastructure for the simulation of fluid–structure interaction",
+      "arxiv_id": null,
+      "doi": "10.1007/s00366-006-0047-5",
+      "publicationDate": "2006-12-07",
+      "year": 2006
+    },
+    {
+      "title": "Performance evaluation of adaptive MPI",
+      "arxiv_id": null,
+      "doi": "10.1145/1122971.1122976",
+      "publicationDate": "2006-03-29",
+      "year": 2006
+    },
+    {
+      "title": "FTC-Charm++: an in-memory checkpoint-based fault tolerant runtime for Charm++ and MPI",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTR.2004.1392606",
+      "publicationDate": "2004-09-20",
+      "year": 2004
+    },
+    {
+      "title": "The cascade high productivity language",
+      "arxiv_id": null,
+      "doi": "10.1109/HIPS.2004.10002",
+      "publicationDate": "2004-04-26",
+      "year": 2004
+    },
+    {
+      "title": "Scaling Molecular Dynamics to 3000 Processors with Projections: A Performance Analysis Case Study",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-44864-0_3",
+      "publicationDate": "2003-06-02",
+      "year": 2003
+    },
+    {
+      "title": "PaStiX: a high-performance parallel direct solver for sparse symmetric positive definite systems",
+      "arxiv_id": null,
+      "doi": "10.1016/S0167-8191(01)00141-7",
+      "publicationDate": "2002-02-01",
+      "year": 2002
+    },
+    {
+      "title": "Supporting dynamic parallel object arrays",
+      "arxiv_id": null,
+      "doi": "10.1145/376656.376804",
+      "publicationDate": "2001-06-01",
+      "year": 2001
+    },
+    {
+      "title": "Language support for regions",
+      "arxiv_id": null,
+      "doi": "10.1145/378795.378815",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Region-based Memory Management",
+      "arxiv_id": null,
+      "doi": "10.1006/INCO.1996.2613",
+      "publicationDate": "1997-02-01",
+      "year": 1997
+    },
+    {
+      "title": "Structured Dagger: A Coordination Language for Message-Driven Programming",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-61626-8_85",
+      "publicationDate": "1996-08-26",
+      "year": 1996
+    },
+    {
+      "title": "Cilk: an efficient multithreaded runtime system",
+      "arxiv_id": null,
+      "doi": "10.1145/209936.209958",
+      "publicationDate": "1995-08-01",
+      "year": 1995
+    },
+    {
+      "title": "Application oriented and computer science centered HPCC research",
+      "arxiv_id": null,
+      "doi": "10.1145/197912.197954",
+      "publicationDate": "1994-11-01",
+      "year": 1994
+    },
+    {
+      "title": "Transforming Public Organizations with Strategic Management and Strategic Leadership",
+      "arxiv_id": null,
+      "doi": "10.1177/014920639301900206",
+      "publicationDate": "1993-04-01",
+      "year": 1993
+    },
+    {
+      "title": "Prioritization in Parallel Symbolic Computing",
+      "arxiv_id": null,
+      "doi": "10.1007/BFb0018645",
+      "publicationDate": "1992-10-14",
+      "year": 1992
+    },
+    {
+      "title": "A Chare kernel implementation of a parallel Prolog compiler",
+      "arxiv_id": null,
+      "doi": "10.1145/99163.99175",
+      "publicationDate": "1990-02-01",
+      "year": 1990
+    },
+    {
+      "title": "Executing a Program on the MIT Tagged-Token Dataflow Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/12.48862",
+      "publicationDate": "1987-06-15",
+      "year": 1987
+    },
+    {
+      "title": "Comparing and Contrasting User and Runtime Directed Data Placement Strategies for Owner-Compute, Multi-accelerator Distributed Task Based Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-97196-9_12",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "On the Design of a Framework for Large-Scale Exploratory Graph Analytics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "7 questions for Chapel users",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Scalable Domain Decomposition Methods for Large Sparse Linear Systems on Modern Architectures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Speaking Pygion: Experiences Writing an Exascale Single Particle Imaging Code",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-61763-8_1",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Investigating Portability in Chapel for Tree-Based Optimization on GPU-Powered Clusters",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-69583-4_27",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Teaching High-performance Computing Systems - A Case Study with Parallel Programming APIs: MPI, OpenMP and CUDA",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-63783-4_29",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Lessons Learned and Scalability Achieved When Porting Uintah to DOE Exascale Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-90200-0_19",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Parallel C++: Efficient and Scalable High-Performance Parallel Programming Using HPX",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-54369-2",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "OpenMP Application Programming Interface",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Arkouda and Chapel: Highlights since CLSAC 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Task-based randomized singular value decomposition and multidimensional scaling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Making Uintah Performance Portable for Department of Energy Exascale Testbeds",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-48803-0_10",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "FleCSI 2.0: The Flexible Computational Science Infrastructure Project",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-06156-1_38",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Locality-Based Optimizations in the Chapel Compiler",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-99372-6_1",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Chapter two - material point method: Overview and challenges ahead",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Pygion:Flexible,scalabletask-basedparallelismwithpython",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Global Task Data-Dependencies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Compiling machine learning programs via high-level tracing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Regent: a high-productivity programming language for implicit parallelism with logical regions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Madness:Amultiresolution,adaptivenumericalenvironmentforscientificsimulation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Dependentpartitioning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Hierarchicaldagschedulingforhybriddistributedsystems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "User-Defined Parallel Zippered Iterators in Chapel ∗",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "PGAS (Partitioned Global Address Space) Languages",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-09766-4_210",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "On finding approximate supernodes for an efficient ILU(k) factorization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "X10: Programming for hierarchical parallelism and non-uniform data access",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "MapReduce:SimplifiedDataProcessingonLargeClusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "MPI: A message - passing interface standard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "Reduce-OR-Process",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "2011 IEEE International Conference on Cluster Computing Performance Portability of a GPU Enabled Factorization with the DAGuE Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Automating inter-and { Intra-Operator } parallelism for distributed deep learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Itoyori:Reconcilingglobaladdressspaceandglobalfork-jointaskparallelism",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "andLaxmikantKale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Version 0.4. CeCILL-C Free Software License Agreement",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

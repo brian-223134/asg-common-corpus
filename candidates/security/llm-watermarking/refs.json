@@ -1,0 +1,1534 @@
+{
+  "candidate": {
+    "topic": "Securing Large Language Models",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3773028",
+      "title": "Securing Large Language Models: A Survey of Watermarking and Fingerprinting Techniques",
+      "published": "2026-02-04"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:08+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 214,
+    "arxiv_resolvable": 64,
+    "doi_only": 41,
+    "unresolved": 109
+  },
+  "gt_s2": {
+    "paperId": "68ed2501afc6e9ce711350fa91ad91c0deabe5d4",
+    "externalIds": {
+      "DBLP": "journals/csur/YeRLYYWL26",
+      "DOI": "10.1145/3773028",
+      "CorpusId": 283567759
+    },
+    "title": "Securing Large Language Models: A Survey of Watermarking and Fingerprinting Techniques",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 199,
+    "publicationDate": "2025-12-05"
+  },
+  "refs": [
+    {
+      "title": "Proceedings of the 2021 IEEE Symposium on Security and Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/sp40001.2021.00083",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the 3rd Workshop on Natural Language Generation, Evaluation, and Metrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Digital image and video watermarking: methodologies, attacks, applications, and future directions",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-023-15806-y",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.09816",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the Advances in Neural Information Processing Systems.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2309.10544",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the 2017 IEEE Symposium on Security and Privacy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Evaluating the feasibility of ChatGPT in healthcare: an analysis of multiple clinical and research scenarios",
+      "arxiv_id": null,
+      "doi": "10.1007/s10916-023-01925-4",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Rlhf deciphered: A critical analysis of reinforcement learning from human feedback for llms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 41st International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Perceptual hashing of deep convolutional neural networks for model copy detection",
+      "arxiv_id": null,
+      "doi": "10.1145/3572777",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2022 IEEE Symposium on Security and Privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/sp46214.2022.9833747",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.15195",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.09832",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the Annual International Cryptology Conference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 37th Annual Conference on Learning Theory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.05778",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DriveLLM: Charting the path toward full autonomous driving with large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "From selective deep convolutional features to compact binary representations for image retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.03378",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.06922",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Publicly-detectable watermarking for language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2023 IEEE International Workshop on Information Forensics and Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 13th International Conference on Web Search and Data Mining",
+      "arxiv_id": null,
+      "doi": "10.1145/3336191.3371856",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the European Conference on Information Retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A robust technique for biometric image authentication using invisible watermarking",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-022-13314-z",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Unreliable LLM bioethics assistants: Ethical and pedagogical risks",
+      "arxiv_id": null,
+      "doi": "10.1080/15265161.2023.2249843",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "1412.6572",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adversarial training for graph neural networks: Pitfalls, solutions, and new directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.13658",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1409.0473",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 41st International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Are you stealing my model? sample correlation for fingerprinting deep neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.16483",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Findings of the Association for Computational Linguistics: NAACL 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Proceedings of the 30th USENIX Security Symposium",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Structured pruning for deep convolutional neural networks: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the ACL.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 2012 eCrime Researchers Summit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Hidden digital watermarks in images",
+      "arxiv_id": null,
+      "doi": "10.1109/83.736686",
+      "publicationDate": null,
+      "year": 1999
+    },
+    {
+      "title": "A high-capacity QRD-based blind color image watermarking algorithm incorporated with AI technologies",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2022.117134",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "VeriDIP: Verifying ownership of deep neural networks through privacy leakage fingerprints",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.10669",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.07930",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2021 IEEE Symposium on Security and Privacy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Large AI model empowered multimodal semantic communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.07367",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Findings of the Association for Computational Linguistics: EMNLP 2020",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.findings-emnlp.372",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 2019 IEEE European Symposium on Security and Privacy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "DWFCAT: Dual watermarking framework for industrial image authentication and tamper localization",
+      "arxiv_id": null,
+      "doi": "10.1109/tii.2020.3028612",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the Socially Responsible Language Modelling Research",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.18054",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2502.18851",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2023 46th MIPRO ICT and Electronics Convention",
+      "arxiv_id": null,
+      "doi": "10.23919/mipro57284.2023.10159740",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Generating images with multimodal language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Computational sensor fingerprints",
+      "arxiv_id": null,
+      "doi": "10.1109/tifs.2022.3179945",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671573",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671573",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.15593",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.12273",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1909.11942",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2019 IEEE Security and Privacy Workshops",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.07518",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Findings of the Association for Computational Linguistics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.09535",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.12741",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.14883",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Fourth ACM International Conference on AI in Finance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.09668",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.03012",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 29th ACM International Conference on Multimedia",
+      "arxiv_id": null,
+      "doi": "10.1145/3474085.3475592",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.00045",
+      "doi": "10.36227/techrxiv.170723324.44685515/v1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 12th International Conference on Learning Representations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A survey of text watermarking in the era of large language models",
+      "arxiv_id": null,
+      "doi": "10.1145/3691626",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 41st International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.13257",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.10847",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1912.00888",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1706.06083",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 15th Biennial Conference of the Association for Machine Translation in the Americas (Volume 1: Research Track)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Fingerprint classification based on deep learning approaches: experimental findings and comparisons",
+      "arxiv_id": null,
+      "doi": "10.3390/sym13050750",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.06936",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Multi-Agent Security Workshop@ NeurIPS’23",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.05773",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society",
+      "arxiv_id": null,
+      "doi": "10.1145/3600211.3604754",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2502.11598",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.16187",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The refinedweb dataset for falcon llm: Outperforming curated corpora with web data only",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.423",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Near-duplicate sequence search at scale for large language model memorization evaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Natural language watermarking via paraphraser-based lexical substitution",
+      "arxiv_id": null,
+      "doi": "10.1016/j.artint.2023.103859",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.16820",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-main.427",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the Advances in Neural Information Processing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "The six emotional dimension (6DE) model: A multidimensional approach to analyzing human emotions and unlocking the potential of emotionally intelligent artificial intelligence (AI) via large language models (LLM)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.15617",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.02333",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Findings of the Association for Computational Linguistics: NAACL 2024",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-naacl.40",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.11156",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Term-weighting approaches in automatic text retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/0306-4573(88)90021-0",
+      "publicationDate": null,
+      "year": 1988
+    },
+    {
+      "title": "A survey on device behavior fingerprinting: Data sources, techniques, application scenarios, and datasets",
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2021.3064259",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "1910.01108",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the 2023 ACM on Internet Measurement Conference",
+      "arxiv_id": null,
+      "doi": "10.1145/3618257.3624845",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.08920",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.08920",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2021 ACM Workshop on Information Hiding and Multimedia Security",
+      "arxiv_id": null,
+      "doi": "10.1145/3437880.3460401",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.15603",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 38th International Conference on Machine Learning (Proceedings of Machine Learning Research)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Red teaming language model detectors with language models",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00639",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.02382",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Revisiting adversarial training for imagenet: Architectures, training and generalization across threat models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the ACM Web Conference 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Association for Computing Machinery.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Necessary and sufficient watermark for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.18456",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Did you train on my dataset? towards public dataset protection with cleanlabel backdoor watermarking",
+      "arxiv_id": null,
+      "doi": "10.1145/3606274.3606279",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SemanticHash: Hash coding via semantics-guided label prototype learning",
+      "arxiv_id": null,
+      "doi": "10.1109/tai.2021.3068322",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "MAC address de-randomization for WiFi device counting: Combining temporal-and content-based fingerprints",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109393",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the Advances in Neural Information Processing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.16832",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Core: Resolving code quality issues using llms",
+      "arxiv_id": null,
+      "doi": "10.1145/3643762",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.00646",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.15992",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 30th ACM International Conference on Multimedia",
+      "arxiv_id": null,
+      "doi": "10.1145/3503161.3548390",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the 2021 IEEE International Symposium on Circuits and Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.06942",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 34th AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Image quality assessment: from error visibility to structural similarity",
+      "arxiv_id": null,
+      "doi": "10.1109/tip.2003.819861",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.10892",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 41st International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.05920",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 41st International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.07710",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the European Conference on Computer Vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.08092",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1704.01155",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "To repeat or not to repeat: Insights from scaling llm under token-crisis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2210.07481",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3626772.3657959",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2309.00860",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 31st International Joint Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.13504",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the ICLR 2024 Workshop on Secure and Trustworthy Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Lofit: Localized fine-tuning on llm representations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 37th International Conference on Neural Information Processing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the IEEE/CVF International conference on computer vision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Findings of the Association for Computational Linguistics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 15th ACM Conference on Recommender Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.10360",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Huref: Human-readable fingerprint for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.521",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the ICLR 2024 Workshop on Secure and Trustworthy Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Deep model intellectual property protection via deep watermarking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the 33rd USENIX Security Symposium",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.01862",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Silent guardian: Protecting text from malicious exploitation by large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AFA: Adversarial fingerprinting authentication for deep neural networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2019.12.016",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Robust soliton distribution-based zero-watermarking for semi-structured power data",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13030655",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.17439",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Neurips Safe Generative AI Workshop",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Proceedings of the International Conference on Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Protecting decision boundary of machine learning model with differentially private perturbation",
+      "arxiv_id": null,
+      "doi": "10.1109/tdsc.2020.3043382",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proceedings of the 12th International Conference on Learning Representations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A dnn fingerprint for non-repudiable model ownership identification and piracy detection",
+      "arxiv_id": null,
+      "doi": "10.1109/tifs.2022.3198267",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2311.01964",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A reversible watermarking system for medical color images: Balancing capacity, imperceptibility, and robustness",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": "2301.12867",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.15043",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

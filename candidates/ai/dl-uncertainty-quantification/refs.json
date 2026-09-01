@@ -1,0 +1,1724 @@
+{
+  "candidate": {
+    "topic": "A Survey on Uncertainty Quantification Methods for Deep Learning",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3786319",
+      "title": "A Survey on Uncertainty Quantification Methods for Deep Learning",
+      "published": "2026-02-03"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T01:54:08+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 241,
+    "arxiv_resolvable": 125,
+    "doi_only": 79,
+    "unresolved": 37
+  },
+  "gt_s2": {
+    "paperId": "26f392df715e0218f8d9d5d81025c0dda0dad1bc",
+    "externalIds": {
+      "DBLP": "journals/csur/HeJXXL26",
+      "ArXiv": "2302.13425",
+      "DOI": "10.1145/3786319",
+      "CorpusId": 257219242
+    },
+    "title": "A Survey on Uncertainty Quantification Methods for Deep Learning",
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "referenceCount": 241,
+    "publicationDate": "2023-02-26"
+  },
+  "refs": [
+    {
+      "title": "Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents",
+      "arxiv_id": "2505.22655",
+      "doi": "10.48550/arXiv.2505.22655",
+      "publicationDate": "2025-05-28",
+      "year": 2025
+    },
+    {
+      "title": "An overview of model uncertainty and variability in LLM-based sentiment analysis: challenges, mitigation strategies, and the role of explainability",
+      "arxiv_id": "2504.04462",
+      "doi": "10.3389/frai.2025.1609097",
+      "publicationDate": "2025-04-06",
+      "year": 2025
+    },
+    {
+      "title": "An Empirical Analysis of Uncertainty in Large Language Model Evaluations",
+      "arxiv_id": "2502.10709",
+      "doi": "10.48550/arXiv.2502.10709",
+      "publicationDate": "2025-02-15",
+      "year": 2025
+    },
+    {
+      "title": "A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice",
+      "arxiv_id": "2410.15326",
+      "doi": "10.48550/arXiv.2410.15326",
+      "publicationDate": "2024-10-20",
+      "year": 2024
+    },
+    {
+      "title": "Generative learning for forecasting the dynamics of high-dimensional complex systems",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-024-53165-w",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Continuous Ensemble Weather Forecasting with Diffusion models",
+      "arxiv_id": "2410.05431",
+      "doi": "10.48550/arXiv.2410.05431",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models",
+      "arxiv_id": "2408.04718",
+      "doi": "10.48550/arXiv.2408.04718",
+      "publicationDate": "2024-08-08",
+      "year": 2024
+    },
+    {
+      "title": "Rough Set improved Therapy-Based Metaverse Assisting System",
+      "arxiv_id": "2406.04465",
+      "doi": "10.1109/MetaCom62920.2024.00066",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "Shedding Light on Large Generative Networks: Estimating Epistemic Uncertainty in Diffusion Models",
+      "arxiv_id": "2406.18580",
+      "doi": "10.48550/arXiv.2406.18580",
+      "publicationDate": "2024-06-05",
+      "year": 2024
+    },
+    {
+      "title": "Detecting hallucinations in large language models using semantic entropy",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-024-07421-0",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Reliable Trajectory Prediction and Uncertainty Quantification with Conditioned Diffusion Models",
+      "arxiv_id": "2405.14384",
+      "doi": "10.1109/CVPRW63382.2024.00350",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Quantifying uncertainty in graph neural network explanations",
+      "arxiv_id": null,
+      "doi": "10.3389/fdata.2024.1392662",
+      "publicationDate": "2024-05-09",
+      "year": 2024
+    },
+    {
+      "title": "Enhanced Detection Classification via Clustering SVM for Various Robot Collaboration Task",
+      "arxiv_id": "2405.03026",
+      "doi": "10.1109/CISCE62493.2024.10653146",
+      "publicationDate": "2024-05-05",
+      "year": 2024
+    },
+    {
+      "title": "Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach",
+      "arxiv_id": "2404.15993",
+      "doi": "10.48550/arXiv.2404.15993",
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "Quantifying Aleatoric and Epistemic Uncertainty with Proper Scoring Rules",
+      "arxiv_id": "2404.12215",
+      "doi": "10.48550/arXiv.2404.12215",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising",
+      "arxiv_id": "2403.20034",
+      "doi": "10.1109/TASE.2025.3541064",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "Generative emulation of weather forecast ensembles with diffusion models",
+      "arxiv_id": null,
+      "doi": "10.1126/sciadv.adk4489",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification",
+      "arxiv_id": "2403.04696",
+      "doi": "10.48550/arXiv.2403.04696",
+      "publicationDate": "2024-03-07",
+      "year": 2024
+    },
+    {
+      "title": "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection",
+      "arxiv_id": "2402.03744",
+      "doi": "10.48550/arXiv.2402.03744",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Benchmarking LLMs via Uncertainty Quantification",
+      "arxiv_id": "2401.12794",
+      "doi": "10.48550/arXiv.2401.12794",
+      "publicationDate": "2024-01-23",
+      "year": 2024
+    },
+    {
+      "title": "Lumiere: A Space-Time Diffusion Model for Video Generation",
+      "arxiv_id": "2401.12945",
+      "doi": "10.1145/3680528.3687614",
+      "publicationDate": "2024-01-23",
+      "year": 2024
+    },
+    {
+      "title": "Hallucination is Inevitable: An Innate Limitation of Large Language Models",
+      "arxiv_id": "2401.11817",
+      "doi": "10.48550/arXiv.2401.11817",
+      "publicationDate": "2024-01-22",
+      "year": 2024
+    },
+    {
+      "title": "GenCast: Diffusion-based ensemble forecasting for medium-range weather",
+      "arxiv_id": "2312.15796",
+      "doi": "10.48550/arXiv.2312.15796",
+      "publicationDate": "2023-12-25",
+      "year": 2023
+    },
+    {
+      "title": "Methods to Estimate Large Language Model Confidence",
+      "arxiv_id": "2312.03733",
+      "doi": "10.48550/arXiv.2312.03733",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "Bayesian Conditional Diffusion Models for Versatile Spatiotemporal Turbulence Generation",
+      "arxiv_id": "2311.07896",
+      "doi": "10.48550/arXiv.2311.07896",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Confidence Estimation and Calibration in Large Language Models",
+      "arxiv_id": "2311.08298",
+      "doi": "10.18653/v1/2024.naacl-long.366",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Neural general circulation models for weather and climate",
+      "arxiv_id": "2311.07222",
+      "doi": "10.1038/s41586-024-07744-y",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "LM-Polygraph: Uncertainty Estimation for Language Models",
+      "arxiv_id": "2311.07383",
+      "doi": "10.48550/arXiv.2311.07383",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "Smooth ECE: Principled Reliability Diagrams via Kernel Smoothing",
+      "arxiv_id": "2309.12236",
+      "doi": "10.48550/arXiv.2309.12236",
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness",
+      "arxiv_id": "2308.16175",
+      "doi": "10.18653/v1/2024.acl-long.283",
+      "publicationDate": "2023-08-30",
+      "year": 2023
+    },
+    {
+      "title": "Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models",
+      "arxiv_id": "2307.01379",
+      "doi": "10.18653/v1/2024.acl-long.276",
+      "publicationDate": "2023-07-03",
+      "year": 2023
+    },
+    {
+      "title": "User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems",
+      "arxiv_id": "2306.07526",
+      "doi": "10.48550/arXiv.2306.07526",
+      "publicationDate": "2023-06-13",
+      "year": 2023
+    },
+    {
+      "title": "Deep Operator Learning-based Surrogate Models with Uncertainty Quantification for Optimizing Internal Cooling Channel Rib Profiles",
+      "arxiv_id": "2306.00810",
+      "doi": "10.48550/arXiv.2306.00810",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Quantifying Deep Learning Model Uncertainty in Conformal Prediction",
+      "arxiv_id": "2306.00876",
+      "doi": "10.1609/aaaiss.v1i1.27492",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Gaussian Process Probes (GPP) for Uncertainty-Aware Probing",
+      "arxiv_id": "2305.18213",
+      "doi": "10.48550/arXiv.2305.18213",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods",
+      "arxiv_id": "2305.15027",
+      "doi": "10.48550/arXiv.2305.15027",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "The Internal State of an LLM Knows When its Lying",
+      "arxiv_id": "2304.13734",
+      "doi": "10.18653/v1/2023.findings-emnlp.68",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "On Second-Order Scoring Rules for Epistemic Uncertainty Quantification",
+      "arxiv_id": "2301.12736",
+      "doi": "10.48550/arXiv.2301.12736",
+      "publicationDate": "2023-01-30",
+      "year": 2023
+    },
+    {
+      "title": "Scoring rules",
+      "arxiv_id": null,
+      "doi": "10.17561/grove.v29.7556",
+      "publicationDate": "2022-12-23",
+      "year": 2022
+    },
+    {
+      "title": "Uncertainty-Aware Physics-Driven Deep Learning Network for Free-Breathing Liver Fat and R2* Quantification using Self-Gated Stack-of-Radial MRI",
+      "arxiv_id": null,
+      "doi": "10.1002/mrm.29525",
+      "publicationDate": "2022-11-25",
+      "year": 2022
+    },
+    {
+      "title": "Quantifying the Uncertainty in Long-Term Traffic Prediction Based on PI-ConvLSTM Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2022.3193184",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Packed-Ensembles for Efficient Uncertainty Estimation",
+      "arxiv_id": "2210.09184",
+      "doi": "10.48550/arXiv.2210.09184",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557556",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Out-of-Distribution Detection and Selective Generation for Conditional Language Models",
+      "arxiv_id": "2209.15558",
+      "doi": "10.48550/arXiv.2209.15558",
+      "publicationDate": "2022-09-30",
+      "year": 2022
+    },
+    {
+      "title": "Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539410",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "DeepSpatial'22: The 3rd International Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3542905",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "TrafficFlowGAN: Physics-informed Flow based Generative Adversarial Network for Uncertainty Quantification",
+      "arxiv_id": "2206.09319",
+      "doi": "10.48550/arXiv.2206.09319",
+      "publicationDate": "2022-06-19",
+      "year": 2022
+    },
+    {
+      "title": "Uncertainty quantification techniques for data-driven space weather modeling: thermospheric density application",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-022-11049-3",
+      "publicationDate": "2022-05-04",
+      "year": 2022
+    },
+    {
+      "title": "A Simple Approach to Improve Single-Model Deep Uncertainty via Distance-Awareness",
+      "arxiv_id": "2205.00403",
+      "doi": "10.48550/arXiv.2205.00403",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph Neural Networks for Traffic Forecasting",
+      "arxiv_id": "2204.01618",
+      "doi": "10.48550/arXiv.2204.01618",
+      "publicationDate": "2022-04-04",
+      "year": 2022
+    },
+    {
+      "title": "AUC Maximization in the Era of Big Data and AI: A Survey",
+      "arxiv_id": "2203.15046",
+      "doi": "10.1145/3554729",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "The transformational role of GPU computing and deep learning in drug discovery",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-022-00463-x",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Adaptive Conformal Predictions for Time Series",
+      "arxiv_id": "2202.07282",
+      "doi": null,
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Nonparametric Uncertainty Quantification for Single Deterministic Neural Network",
+      "arxiv_id": "2202.03101",
+      "doi": "10.52202/068431-2631",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "Explainable machine learning in image classification models: An uncertainty quantification perspective",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2022.108418",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs",
+      "arxiv_id": "2201.13279",
+      "doi": "10.52202/068431-1553",
+      "publicationDate": "2022-01-31",
+      "year": 2022
+    },
+    {
+      "title": "Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons",
+      "arxiv_id": "2201.07766",
+      "doi": "10.1016/j.jcp.2022.111902",
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "Pre-Trained Language Models for Text Generation: A Survey",
+      "arxiv_id": "2201.05273",
+      "doi": "10.1145/3649449",
+      "publicationDate": "2022-01-14",
+      "year": 2022
+    },
+    {
+      "title": "Weakly Supervised Spatial Deep Learning for Earth Image Segmentation Based on Imperfect Polyline Labels",
+      "arxiv_id": null,
+      "doi": "10.1145/3480970",
+      "publicationDate": "2022-01-05",
+      "year": 2022
+    },
+    {
+      "title": "Convergence of Uncertainty Sampling for Active Learning",
+      "arxiv_id": "2110.15784",
+      "doi": null,
+      "publicationDate": "2021-10-29",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Uncertainty Estimation in Deep Learning Classification Systems from a Bayesian Perspective",
+      "arxiv_id": null,
+      "doi": "10.1145/3477140",
+      "publicationDate": "2021-10-07",
+      "year": 2021
+    },
+    {
+      "title": "Dropout Q-Functions for Doubly Efficient Reinforcement Learning",
+      "arxiv_id": "2110.02034",
+      "doi": null,
+      "publicationDate": "2021-10-05",
+      "year": 2021
+    },
+    {
+      "title": "Characterizing possible failure modes in physics-informed neural networks",
+      "arxiv_id": "2109.01050",
+      "doi": null,
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "Data-driven trajectory prediction with weather uncertainties: A Bayesian deep learning approach",
+      "arxiv_id": null,
+      "doi": "10.1016/J.TRC.2021.103326",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks",
+      "arxiv_id": "2108.13054",
+      "doi": "10.1016/j.jcp.2022.111270",
+      "publicationDate": "2021-08-30",
+      "year": 2021
+    },
+    {
+      "title": "Weakly Supervised Spatial Deep Learning based on Imperfect Vector Labels with Registration Errors",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467301",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Evidential Deep Learning for Open Set Action Recognition",
+      "arxiv_id": "2107.10161",
+      "doi": "10.1109/ICCV48922.2021.01310",
+      "publicationDate": "2021-07-21",
+      "year": 2021
+    },
+    {
+      "title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification",
+      "arxiv_id": "2107.07511",
+      "doi": null,
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-021-03819-2",
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "A survey of uncertainty in deep neural networks",
+      "arxiv_id": "2107.03342",
+      "doi": "10.1007/s10462-023-10562-9",
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+      "arxiv_id": "2107.03502",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "How to measure uncertainty in uncertainty sampling for active learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s10994-021-06003-9",
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "PID-GAN: A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics",
+      "arxiv_id": "2106.02993",
+      "doi": "10.1145/3447548.3467449",
+      "publicationDate": "2021-06-06",
+      "year": 2021
+    },
+    {
+      "title": "Sparse Uncertainty Representation in Deep Learning with Inducing Weights",
+      "arxiv_id": "2105.14594",
+      "doi": null,
+      "publicationDate": "2021-05-30",
+      "year": 2021
+    },
+    {
+      "title": "Quantifying Uncertainty in Deep Spatiotemporal Forecasting",
+      "arxiv_id": "2105.11982",
+      "doi": "10.1145/3447548.3467325",
+      "publicationDate": "2021-05-25",
+      "year": 2021
+    },
+    {
+      "title": "Physics-informed machine learning",
+      "arxiv_id": null,
+      "doi": "10.1038/s42254-021-00314-5",
+      "publicationDate": "2021-05-24",
+      "year": 2021
+    },
+    {
+      "title": "Capturing Uncertainty in Unsupervised GPS Trajectory Segmentation Using Bayesian Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i1.16115",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "Machine learning for biochemical engineering: A review",
+      "arxiv_id": null,
+      "doi": "10.1016/J.BEJ.2021.108054",
+      "publicationDate": "2021-05-07",
+      "year": 2021
+    },
+    {
+      "title": "Physics-guided deep learning for seismic inversion with hybrid training and uncertainty analysis",
+      "arxiv_id": null,
+      "doi": "10.1190/GEO2020-0312.1",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Learning Prediction Intervals for Regression: Generalization and Calibration",
+      "arxiv_id": "2102.13625",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty",
+      "arxiv_id": "2102.11409",
+      "doi": null,
+      "publicationDate": "2021-02-22",
+      "year": 2021
+    },
+    {
+      "title": "Physics-informed machine learning: case studies for weather and climate modelling",
+      "arxiv_id": null,
+      "doi": "10.1098/rsta.2020.0093",
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "How to Stay Curious while avoiding Noisy TVs using Aleatoric Uncertainty Estimation",
+      "arxiv_id": "2102.04399",
+      "doi": null,
+      "publicationDate": "2021-02-08",
+      "year": 2021
+    },
+    {
+      "title": "Randomized Ensembled Double Q-Learning: Learning Fast Without a Model",
+      "arxiv_id": "2101.05982",
+      "doi": null,
+      "publicationDate": "2021-01-15",
+      "year": 2021
+    },
+    {
+      "title": "Physics-Guided Recurrent Graph Model for Predicting Flow and Temperature in River Networks",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9781611976700.69",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Reducing Conversational Agents’ Overconfidence Through Linguistic Calibration",
+      "arxiv_id": "2012.14983",
+      "doi": "10.1162/tacl_a_00494",
+      "publicationDate": "2020-12-30",
+      "year": 2020
+    },
+    {
+      "title": "Deep learning in medical image registration",
+      "arxiv_id": null,
+      "doi": "10.1088/2516-1091/abd37c",
+      "publicationDate": "2020-12-14",
+      "year": 2020
+    },
+    {
+      "title": "BayLIME: Bayesian Local Interpretable Model-Agnostic Explanations",
+      "arxiv_id": "2012.03058",
+      "doi": null,
+      "publicationDate": "2020-12-05",
+      "year": 2020
+    },
+    {
+      "title": "A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges",
+      "arxiv_id": "2011.06225",
+      "doi": "10.1016/j.inffus.2021.05.008",
+      "publicationDate": "2020-11-12",
+      "year": 2020
+    },
+    {
+      "title": "Super-Resolved q-Space deep learning with uncertainty quantification",
+      "arxiv_id": null,
+      "doi": "10.1016/j.media.2020.101885",
+      "publicationDate": "2020-10-26",
+      "year": 2020
+    },
+    {
+      "title": "Estimating uncertainty in deep learning for reporting confidence to clinicians in medical image segmentation and diseases\n detection",
+      "arxiv_id": null,
+      "doi": "10.1111/coin.12411",
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+      "arxiv_id": "2010.08895",
+      "doi": null,
+      "publicationDate": "2020-10-18",
+      "year": 2020
+    },
+    {
+      "title": "PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks",
+      "arxiv_id": "2010.05788",
+      "doi": null,
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "Leveraging Uncertainty in Machine Learning Accelerates Biological Discovery and Design.",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cels.2020.09.007",
+      "publicationDate": "2020-10-10",
+      "year": 2020
+    },
+    {
+      "title": "Learnable Uncertainty under Laplace Approximations",
+      "arxiv_id": "2010.02720",
+      "doi": null,
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks",
+      "arxiv_id": "2009.10235",
+      "doi": "10.1609/aaai.v35i8.16908",
+      "publicationDate": "2020-09-22",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Deep Active Learning",
+      "arxiv_id": "2009.00236",
+      "doi": "10.1145/3472291",
+      "publicationDate": "2020-08-30",
+      "year": 2020
+    },
+    {
+      "title": "Reliable Post hoc Explanations: Modeling Uncertainty in Explainability",
+      "arxiv_id": "2008.05030",
+      "doi": null,
+      "publicationDate": "2020-08-11",
+      "year": 2020
+    },
+    {
+      "title": "Prediction Intervals: Split Normal Mixture from Quality-Driven Deep Ensembles",
+      "arxiv_id": "2007.09670",
+      "doi": null,
+      "publicationDate": "2020-07-19",
+      "year": 2020
+    },
+    {
+      "title": "Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users",
+      "arxiv_id": "2007.06823",
+      "doi": "10.1109/MCI.2022.3155327",
+      "publicationDate": "2020-07-14",
+      "year": 2020
+    },
+    {
+      "title": "INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403087",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Hyperparameter Ensembles for Robustness and Uncertainty Quantification",
+      "arxiv_id": "2006.13570",
+      "doi": null,
+      "publicationDate": "2020-06-24",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2006.11239",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "Neural Ensemble Search for Uncertainty Estimation and Dataset Shift",
+      "arxiv_id": "2006.08573",
+      "doi": null,
+      "publicationDate": "2020-06-15",
+      "year": 2020
+    },
+    {
+      "title": "Conditional Normalizing Flows for Low-Dose Computed Tomography Image Reconstruction",
+      "arxiv_id": "2006.06270",
+      "doi": null,
+      "publicationDate": "2020-06-11",
+      "year": 2020
+    },
+    {
+      "title": "Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness",
+      "arxiv_id": "2006.10108",
+      "doi": null,
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Structure Boundary Preserving Segmentation for Medical Image With Ambiguous Boundary",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR42600.2020.00487",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts",
+      "arxiv_id": "2006.09239",
+      "doi": null,
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Data Uncertainty Learning in Face Recognition",
+      "arxiv_id": "2003.11339",
+      "doi": "10.1109/cvpr42600.2020.00575",
+      "publicationDate": "2020-03-25",
+      "year": 2020
+    },
+    {
+      "title": "Uncertainty Estimation Using a Single Deep Deterministic Neural Network",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-03-04",
+      "year": 2020
+    },
+    {
+      "title": "Decision-Making with Auto-Encoding Variational Bayes",
+      "arxiv_id": "2002.07217",
+      "doi": null,
+      "publicationDate": "2020-02-17",
+      "year": 2020
+    },
+    {
+      "title": "The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks",
+      "arxiv_id": "2002.02655",
+      "doi": null,
+      "publicationDate": "2020-02-07",
+      "year": 2020
+    },
+    {
+      "title": "A Data-Driven Methodology to Construct Customer Choice Sets Using Online Data and Customer Reviews",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044198",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Synthesizing Designs With Interpart Dependencies Using Hierarchical Generative Adversarial Networks",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044076",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Data-Driven Design of Control Strategies for Distributed Energy Systems",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044077",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "A Case Study of Deep Reinforcement Learning for Engineering Design: Application to Microfluidic Devices for Flow Sculpting",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044397",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods",
+      "arxiv_id": "1910.09457",
+      "doi": "10.1007/s10994-021-05946-3",
+      "publicationDate": "2019-10-21",
+      "year": 2019
+    },
+    {
+      "title": "Uncertainty Estimation with Distributional Reinforcement Learning for Applications in Intelligent Transportation Systems: A Case Study",
+      "arxiv_id": null,
+      "doi": "10.1109/ITSC.2019.8917429",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Data-driven science and engineering: machine learning, dynamical systems, and control",
+      "arxiv_id": null,
+      "doi": "10.1080/00107514.2019.1665103",
+      "publicationDate": "2019-09-23",
+      "year": 2019
+    },
+    {
+      "title": "Compositional uncertainty in deep Gaussian processes",
+      "arxiv_id": "1909.07698",
+      "doi": null,
+      "publicationDate": "2019-09-17",
+      "year": 2019
+    },
+    {
+      "title": "A Survey on Spatial Prediction Methods",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2018.2866809",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044400",
+      "publicationDate": "2019-08-18",
+      "year": 2019
+    },
+    {
+      "title": "Spatial Ensemble Learning for Heterogeneous Geographic Data with Class Ambiguity",
+      "arxiv_id": null,
+      "doi": "10.1145/3337798",
+      "publicationDate": "2019-08-12",
+      "year": 2019
+    },
+    {
+      "title": "Analyzing the role of model uncertainty for electronic health records",
+      "arxiv_id": "1906.03842",
+      "doi": "10.1145/3368555.3384457",
+      "publicationDate": "2019-06-10",
+      "year": 2019
+    },
+    {
+      "title": "Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift",
+      "arxiv_id": "1906.02530",
+      "doi": null,
+      "publicationDate": "2019-06-06",
+      "year": 2019
+    },
+    {
+      "title": "Uncertainty in big data analytics: survey, opportunities, and challenges",
+      "arxiv_id": null,
+      "doi": "10.1186/s40537-019-0206-3",
+      "publicationDate": "2019-06-04",
+      "year": 2019
+    },
+    {
+      "title": "On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks",
+      "arxiv_id": "1905.11001",
+      "doi": "10.2172/1525811",
+      "publicationDate": "2019-05-27",
+      "year": 2019
+    },
+    {
+      "title": "Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving",
+      "arxiv_id": "1904.04620",
+      "doi": "10.1109/ICCV.2019.00059",
+      "publicationDate": "2019-04-09",
+      "year": 2019
+    },
+    {
+      "title": "Correlated Parameters to Accurately Measure Uncertainty in Deep Neural Networks",
+      "arxiv_id": "1904.01334",
+      "doi": "10.1109/TNNLS.2020.2980004",
+      "publicationDate": "2019-04-02",
+      "year": 2019
+    },
+    {
+      "title": "Measuring Calibration in Deep Learning",
+      "arxiv_id": "1904.01685",
+      "doi": null,
+      "publicationDate": "2019-04-02",
+      "year": 2019
+    },
+    {
+      "title": "Deep Generative Design: Integration of Topology Optimization and Generative Models",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044229",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Variational Inference to Measure Model Uncertainty in Deep Neural Networks",
+      "arxiv_id": "1902.10189",
+      "doi": null,
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "Deep learning and process understanding for data-driven Earth system science",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-019-0912-1",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Uncertainty Quantification in Deep MRI Reconstruction",
+      "arxiv_id": "1901.11228",
+      "doi": "10.1109/TMI.2020.3025065",
+      "publicationDate": "2019-01-31",
+      "year": 2019
+    },
+    {
+      "title": "Deep-Hurricane-Tracker: Tracking and Forecasting Extreme Climate Events",
+      "arxiv_id": null,
+      "doi": "10.1109/WACV.2019.00192",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "The need for uncertainty quantification in machine-assisted medical decision making",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-018-0004-1",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330704",
+      "publicationDate": "2018-12-22",
+      "year": 2018
+    },
+    {
+      "title": "Deep Bayesian Inversion",
+      "arxiv_id": "1811.05910",
+      "doi": "10.1515/9783111251233-011",
+      "publicationDate": "2018-11-14",
+      "year": 2018
+    },
+    {
+      "title": "T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction",
+      "arxiv_id": "1811.05320",
+      "doi": "10.1109/TITS.2019.2935152",
+      "publicationDate": "2018-11-12",
+      "year": 2018
+    },
+    {
+      "title": "SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient",
+      "arxiv_id": "1811.04504",
+      "doi": null,
+      "publicationDate": "2018-11-11",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial Uncertainty Quantification in Physics-Informed Neural Networks",
+      "arxiv_id": "1811.04026",
+      "doi": "10.1016/j.jcp.2019.05.027",
+      "publicationDate": "2018-11-09",
+      "year": 2018
+    },
+    {
+      "title": "Dynamic modeling and optimization of sustainable algal production with uncertainty using multivariate Gaussian processes",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMPCHEMENG.2018.07.015",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Uncertainty in Machine Learning: A Safety Perspective on Autonomous Driving",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-99229-7_39",
+      "publicationDate": "2018-09-18",
+      "year": 2018
+    },
+    {
+      "title": "A deep learning approach for Parkinson’s disease diagnosis from EEG signals",
+      "arxiv_id": null,
+      "doi": "10.1007/s00521-018-3689-5",
+      "publicationDate": "2018-08-30",
+      "year": 2018
+    },
+    {
+      "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+      "arxiv_id": "1807.03888",
+      "doi": null,
+      "publicationDate": "2018-07-10",
+      "year": 2018
+    },
+    {
+      "title": "A Probabilistic U-Net for Segmentation of Ambiguous Images",
+      "arxiv_id": "1806.05034",
+      "doi": null,
+      "publicationDate": "2018-06-13",
+      "year": 2018
+    },
+    {
+      "title": "Randomized Prior Functions for Deep Reinforcement Learning",
+      "arxiv_id": "1806.03335",
+      "doi": null,
+      "publicationDate": "2018-06-08",
+      "year": 2018
+    },
+    {
+      "title": "Evidential Deep Learning to Quantify Classification Uncertainty",
+      "arxiv_id": "1806.01768",
+      "doi": null,
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "Lipschitz regularity of deep neural networks: analysis and efficient estimation",
+      "arxiv_id": "1805.10965",
+      "doi": null,
+      "publicationDate": "2018-05-28",
+      "year": 2018
+    },
+    {
+      "title": "Cautious Deep Learning",
+      "arxiv_id": "1805.09460",
+      "doi": null,
+      "publicationDate": "2018-05-24",
+      "year": 2018
+    },
+    {
+      "title": "Deep Directional Statistics: Pose Estimation with Uncertainty Quantification",
+      "arxiv_id": "1805.03430",
+      "doi": "10.1007/978-3-030-01240-3_33",
+      "publicationDate": "2018-05-09",
+      "year": 2018
+    },
+    {
+      "title": "Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting",
+      "arxiv_id": "1805.07810",
+      "doi": null,
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Predictive Uncertainty Estimation via Prior Networks",
+      "arxiv_id": "1802.10501",
+      "doi": "10.17863/CAM.35237",
+      "publicationDate": "2018-02-28",
+      "year": 2018
+    },
+    {
+      "title": "High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach",
+      "arxiv_id": "1802.07167",
+      "doi": null,
+      "publicationDate": "2018-02-20",
+      "year": 2018
+    },
+    {
+      "title": "Structured Uncertainty Prediction Networks",
+      "arxiv_id": "1802.07079",
+      "doi": "10.1109/CVPR.2018.00574",
+      "publicationDate": "2018-02-20",
+      "year": 2018
+    },
+    {
+      "title": "A Scalable Laplace Approximation for Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "Noisy Natural Gradient as Variational Inference",
+      "arxiv_id": "1712.02390",
+      "doi": null,
+      "publicationDate": "2017-12-06",
+      "year": 2017
+    },
+    {
+      "title": "Distributional Reinforcement Learning with Quantile Regression",
+      "arxiv_id": "1710.10044",
+      "doi": "10.1609/aaai.v32i1.11791",
+      "publicationDate": "2017-10-27",
+      "year": 2017
+    },
+    {
+      "title": "Discriminative Learning of Prediction Intervals",
+      "arxiv_id": "1710.05888",
+      "doi": null,
+      "publicationDate": "2017-10-16",
+      "year": 2017
+    },
+    {
+      "title": "Wasserstein Generative Adversarial Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-17",
+      "year": 2017
+    },
+    {
+      "title": "A Distributional Perspective on Reinforcement Learning",
+      "arxiv_id": "1707.06887",
+      "doi": null,
+      "publicationDate": "2017-07-17",
+      "year": 2017
+    },
+    {
+      "title": "Image4Act: Online Social Media Image Processing for Disaster Response",
+      "arxiv_id": null,
+      "doi": "10.1145/3110025.3110164",
+      "publicationDate": "2017-07-01",
+      "year": 2017
+    },
+    {
+      "title": "On Calibration of Modern Neural Networks",
+      "arxiv_id": "1706.04599",
+      "doi": null,
+      "publicationDate": "2017-06-14",
+      "year": 2017
+    },
+    {
+      "title": "Learning Structured Weight Uncertainty in Bayesian Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-04-10",
+      "year": 2017
+    },
+    {
+      "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+      "arxiv_id": "1703.04977",
+      "doi": null,
+      "publicationDate": "2017-03-15",
+      "year": 2017
+    },
+    {
+      "title": "Multiplicative Normalizing Flows for Variational Bayesian Neural Networks",
+      "arxiv_id": "1703.01961",
+      "doi": null,
+      "publicationDate": "2017-03-06",
+      "year": 2017
+    },
+    {
+      "title": "SoilGrids250m: Global gridded soil information based on machine learning",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0169748",
+      "publicationDate": "2017-02-16",
+      "year": 2017
+    },
+    {
+      "title": "Deep Gaussian Process for Crop Yield Prediction Based on Remote Sensing Data",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v31i1.11172",
+      "publicationDate": "2017-02-12",
+      "year": 2017
+    },
+    {
+      "title": "Mixture density networks for distribution and uncertainty estimation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+      "arxiv_id": "1612.01474",
+      "doi": null,
+      "publicationDate": "2016-12-05",
+      "year": 2016
+    },
+    {
+      "title": "Subjective Logic: A Formalism for Reasoning Under Uncertainty",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-10-27",
+      "year": 2016
+    },
+    {
+      "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+      "arxiv_id": "1610.02136",
+      "doi": null,
+      "publicationDate": "2016-10-07",
+      "year": 2016
+    },
+    {
+      "title": "Variational Inference with Hamiltonian Monte Carlo",
+      "arxiv_id": "1609.08203",
+      "doi": null,
+      "publicationDate": "2016-09-26",
+      "year": 2016
+    },
+    {
+      "title": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering",
+      "arxiv_id": "1606.09375",
+      "doi": null,
+      "publicationDate": "2016-06-30",
+      "year": 2016
+    },
+    {
+      "title": "Combining Generative and Discriminative Representation Learning for Lung CT Analysis With Convolutional Restricted Boltzmann Machines",
+      "arxiv_id": null,
+      "doi": "10.1109/TMI.2016.2526687",
+      "publicationDate": "2016-02-08",
+      "year": 2016
+    },
+    {
+      "title": "Variational Inference: A Review for Statisticians",
+      "arxiv_id": "1601.00670",
+      "doi": "10.1080/01621459.2017.1285773",
+      "publicationDate": "2016-01-04",
+      "year": 2016
+    },
+    {
+      "title": "Learning Structured Output Representation using Deep Conditional Generative Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-12-07",
+      "year": 2015
+    },
+    {
+      "title": "Deep Kernel Learning",
+      "arxiv_id": "1511.02222",
+      "doi": null,
+      "publicationDate": "2015-11-06",
+      "year": 2015
+    },
+    {
+      "title": "Spatiotemporal Data Mining: A Computational Perspective",
+      "arxiv_id": null,
+      "doi": "10.3390/ijgi4042306",
+      "publicationDate": "2015-10-28",
+      "year": 2015
+    },
+    {
+      "title": "Deep Gaussian processes and variational propagation of uncertainty",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+      "arxiv_id": "1506.02142",
+      "doi": null,
+      "publicationDate": "2015-06-06",
+      "year": 2015
+    },
+    {
+      "title": "Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)",
+      "arxiv_id": "1503.01057",
+      "doi": null,
+      "publicationDate": "2015-03-03",
+      "year": 2015
+    },
+    {
+      "title": "Obtaining Well Calibrated Probabilities Using Bayesian Binning",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v29i1.9602",
+      "publicationDate": "2015-01-01",
+      "year": 2015
+    },
+    {
+      "title": "Generative Adversarial Nets",
+      "arxiv_id": "1406.2661",
+      "doi": null,
+      "publicationDate": "2014-06-10",
+      "year": 2014
+    },
+    {
+      "title": "New Bayesian combination method for short-term traffic flow forecasting",
+      "arxiv_id": null,
+      "doi": "10.1016/J.TRC.2014.02.005",
+      "publicationDate": "2014-06-01",
+      "year": 2014
+    },
+    {
+      "title": "Managing uncertainty in spatial and spatio-temporal data",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2014.6816766",
+      "publicationDate": "2014-05-19",
+      "year": 2014
+    },
+    {
+      "title": "Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-40763-5_51",
+      "publicationDate": "2013-09-22",
+      "year": 2013
+    },
+    {
+      "title": "Representation Learning: A Review and New Perspectives",
+      "arxiv_id": "1206.5538",
+      "doi": "10.1109/TPAMI.2013.50",
+      "publicationDate": "2012-06-24",
+      "year": 2012
+    },
+    {
+      "title": "Practical Variational Inference for Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-12-12",
+      "year": 2011
+    },
+    {
+      "title": "Lower Upper Bound Estimation Method for Construction of Neural Network-Based Prediction Intervals",
+      "arxiv_id": null,
+      "doi": "10.1109/TNN.2010.2096824",
+      "publicationDate": "2011-03-01",
+      "year": 2011
+    },
+    {
+      "title": "MODEL-BASED IMAGE RECONSTRUCTION FOR MRI",
+      "arxiv_id": null,
+      "doi": "10.1109/MSP.2010.936726",
+      "publicationDate": "2010-06-14",
+      "year": 2010
+    },
+    {
+      "title": "ImageNet: A large-scale hierarchical image database",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2009.5206848",
+      "publicationDate": "2009-06-20",
+      "year": 2009
+    },
+    {
+      "title": "Variational Learning of Inducing Variables in Sparse Gaussian Processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2009-04-15",
+      "year": 2009
+    },
+    {
+      "title": "Predicting Structured Data",
+      "arxiv_id": null,
+      "doi": "10.1198/tech.2008.s913",
+      "publicationDate": "2008-08-01",
+      "year": 2008
+    },
+    {
+      "title": "Sea-Viewing Wide Field-of-View Sensor (SeaWiFS)",
+      "arxiv_id": null,
+      "doi": "10.1002/9780471743989.VSE10144",
+      "publicationDate": "2007-08-15",
+      "year": 2007
+    },
+    {
+      "title": "A tutorial on conformal prediction",
+      "arxiv_id": "0706.3188",
+      "doi": "10.5555/1390681.1390693",
+      "publicationDate": "2007-06-21",
+      "year": 2007
+    },
+    {
+      "title": "Going to the Extremes",
+      "arxiv_id": null,
+      "doi": "10.1007/S10584-006-9051-4",
+      "publicationDate": "2006-11-27",
+      "year": 2006
+    },
+    {
+      "title": "Sparse Gaussian Processes using Pseudo-inputs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-12-05",
+      "year": 2005
+    },
+    {
+      "title": "Keeping the neural networks simple by minimizing the description length of the weights",
+      "arxiv_id": null,
+      "doi": "10.1145/168304.168306",
+      "publicationDate": "1993-08-01",
+      "year": 1993
+    },
+    {
+      "title": "A Practical Bayesian Framework for Backpropagation Networks",
+      "arxiv_id": null,
+      "doi": "10.1162/neco.1992.4.3.448",
+      "publicationDate": "1992-05-01",
+      "year": 1992
+    },
+    {
+      "title": "Received 5 March 2023; revised 9 June 2025; accepted 7 November 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Uncertainty Propagation on LLM Agent",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.302",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "2022. Uncertainty-aware deep learning in healthcare: a scoping review. PLOS digital health 1, 8 (2022), e0000085",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Predictive Uncertainty Quantification via Risk Decompositions for Strictly Proper Scoring Rules",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.10727",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.09076",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Language Model Confidence Estimation and Calibration",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.08298",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Diffusion-Based Probabilistic Uncertainty Estimation for Active Domain Adaptation",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0749",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Fish Florida and Conservation Commission Wildlife",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Modeling Epistemic and Aleatoric Uncertainty with Bayesian Neural Networks and Latent Variables",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Spatial Big Data Science",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-60195-3",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Uncertainty in Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Variational Inference for Latent Variables and Uncertain Inputs in Gaussian Processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X16500045",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Markov Chain Monte Carlo and Variational Inference: Bridging the Gap",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Machine learning - a probabilistic perspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Variational free energy and the Laplace approximation",
+      "arxiv_id": null,
+      "doi": "10.1016/J.NEUROIMAGE.2006.08.035",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "An intercomparison of model-simulated historical and future changes in extreme events",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Gaussian processes for machine learning . Vol. 2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Computational modeling of genetic and biochemical networks",
+      "arxiv_id": null,
+      "doi": "10.7551/mitpress/2018.001.0001",
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "Capturingtheuncertaintyofmoving-objectrepresentations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1999
+    },
+    {
+      "title": "Reinforcement Learning: An Introduction",
+      "arxiv_id": null,
+      "doi": "10.1109/TNN.1998.712192",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "Bayesian learning for neural networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4612-0745-0",
+      "publicationDate": null,
+      "year": 1995
+    },
+    {
+      "title": "Mixture Density Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "VERIFICATION OF FORECASTS EXPRESSED IN TERMS OF PROBABILITY",
+      "arxiv_id": null,
+      "doi": "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+      "publicationDate": null,
+      "year": 1950
+    },
+    {
+      "title": "Image_3.jpg",
+      "arxiv_id": null,
+      "doi": "10.3389/fphy.2019.00234.s003",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. OutofDistribution Data Detection Using Dropout Bayesian Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Semantic uncertainty: Linguistic invariances for uncertainty estimation in natural language generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Transportation Planning for Uncertain Times: A Practical Guide to Decision Making Under Deep Uncertainty for MPOs . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Long-Tail Prediction Uncertainty Aware Trajectory Planning for Self-driving Vehicles",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. High-resolution image synthesis with latent diffusion models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Fast ensembling with diffusion Schrödinger bridge",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Conformal prediction: A gentle introduction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Uncertainty learning towards unsupervised deformable medical image registration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Diffusion models: A comprehensive survey of methods and applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Tackling covariate shift with node-based Bayesian neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Tree of thoughts: Deliberate problem solving with large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

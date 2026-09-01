@@ -1,0 +1,987 @@
+{
+  "candidate": {
+    "topic": "TinyML Security",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3793197",
+      "title": "TinyML Security: Attacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems",
+      "published": "2026-02-21"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:10:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 136,
+    "arxiv_resolvable": 58,
+    "doi_only": 39,
+    "unresolved": 39
+  },
+  "gt_s2": {
+    "paperId": "17b0655c25762d56a162176a002a9de8347b41de",
+    "externalIds": {
+      "DOI": "10.1145/3793197",
+      "CorpusId": 285800158
+    },
+    "title": "TinyML Security: Attacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 136,
+    "publicationDate": "2026-02-21"
+  },
+  "refs": [
+    {
+      "title": "RIOT-ML: toolkit for over-the-air secure updates and performance evaluation of TinyML models",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-024-01041-5",
+      "publicationDate": "2024-05-22",
+      "year": 2024
+    },
+    {
+      "title": "Nearest is Not Dearest: Towards Practical Defense Against Quantization-Conditioned Backdoor Attacks",
+      "arxiv_id": "2405.12725",
+      "doi": "10.1109/CVPR52733.2024.02315",
+      "publicationDate": "2024-05-21",
+      "year": 2024
+    },
+    {
+      "title": "A Review on the emerging technology of TinyML",
+      "arxiv_id": null,
+      "doi": "10.1145/3661820",
+      "publicationDate": "2024-04-30",
+      "year": 2024
+    },
+    {
+      "title": "David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge",
+      "arxiv_id": "2404.05688",
+      "doi": "10.1109/EuroSP60621.2024.00035",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Tiny Machine Learning: Progress and Futures [Feature]",
+      "arxiv_id": "2403.19076",
+      "doi": "10.1109/MCAS.2023.3302182",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Materiality and risk in the age of pervasive AI sensors",
+      "arxiv_id": "2402.11183",
+      "doi": "10.1038/s42256-025-01017-7",
+      "publicationDate": "2024-02-17",
+      "year": 2024
+    },
+    {
+      "title": "Label-Only Model Inversion Attacks via Knowledge Transfer",
+      "arxiv_id": "2310.19342",
+      "doi": "10.48550/arXiv.2310.19342",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield but Also a Catalyst for Model Inversion Attacks",
+      "arxiv_id": "2310.06549",
+      "doi": "10.48550/arXiv.2310.06549",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "Unsupervised deep learning framework for temperature-compensated damage assessment using ultrasonic guided waves on edge device",
+      "arxiv_id": "2310.05154",
+      "doi": "10.1038/s41598-024-54418-w",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Model Inversion Attack via Dynamic Memory Learning",
+      "arxiv_id": "2309.00013",
+      "doi": "10.1145/3581783.3612072",
+      "publicationDate": "2023-08-24",
+      "year": 2023
+    },
+    {
+      "title": "Applications, functions, and accuracy of artificial intelligence in restorative dentistry: A literature review.",
+      "arxiv_id": null,
+      "doi": "10.1111/jerd.13079",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Island-based Random Dynamic Voltage Scaling vs ML-Enhanced Power Side-Channel Attacks",
+      "arxiv_id": "2306.04859",
+      "doi": "10.1145/3583781.3590266",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Mixed Quantization Enabled Federated Learning to Tackle Gradient Inversion Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPRW59228.2023.00533",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Understanding and Mitigating Copying in Diffusion Models",
+      "arxiv_id": "2305.20086",
+      "doi": "10.48550/arXiv.2305.20086",
+      "publicationDate": "2023-05-31",
+      "year": 2023
+    },
+    {
+      "title": "Reconstructive Neuron Pruning for Backdoor Defense",
+      "arxiv_id": "2305.14876",
+      "doi": "10.48550/arXiv.2305.14876",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy",
+      "arxiv_id": "2210.17546",
+      "doi": "10.18653/v1/2023.inlg-main.3",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "SecretGen: Privacy Recovery on Pre-Trained Models via Distribution Discrimination",
+      "arxiv_id": "2207.12263",
+      "doi": "10.48550/arXiv.2207.12263",
+      "publicationDate": "2022-07-25",
+      "year": 2022
+    },
+    {
+      "title": "TinyML: Enabling of Inference Deep Learning Models on Ultra-Low-Power IoT Edge Devices for AI Applications",
+      "arxiv_id": null,
+      "doi": "10.3390/mi13060851",
+      "publicationDate": "2022-05-29",
+      "year": 2022
+    },
+    {
+      "title": "Label-Only Model Inversion Attacks via Boundary Repulsion",
+      "arxiv_id": "2203.01925",
+      "doi": "10.1109/CVPR52688.2022.01462",
+      "publicationDate": "2022-03-03",
+      "year": 2022
+    },
+    {
+      "title": "Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks",
+      "arxiv_id": "2201.12179",
+      "doi": null,
+      "publicationDate": "2022-01-28",
+      "year": 2022
+    },
+    {
+      "title": " LoRaWAN security issues and mitigation options by the example of agricultural IoT scenarios",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.4452",
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "Variational Model Inversion Attacks",
+      "arxiv_id": "2201.10787",
+      "doi": null,
+      "publicationDate": "2022-01-26",
+      "year": 2022
+    },
+    {
+      "title": "Understanding the Threats of Trojaned Quantized Neural Network in Model Supply Chains",
+      "arxiv_id": null,
+      "doi": "10.1145/3485832.3485881",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "TinyML: Current Progress, Research Challenges, and Future Roadmap",
+      "arxiv_id": null,
+      "doi": "10.1109/dac18074.2021.9586232",
+      "publicationDate": "2021-12-05",
+      "year": 2021
+    },
+    {
+      "title": "A review on TinyML: State-of-the-art and prospects",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jksuci.2021.11.019",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Neuron Pruning Purifies Backdoored Deep Models",
+      "arxiv_id": "2110.14430",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "Qu-ANTI-zation: Exploiting Quantization Artifacts for Achieving Adversarial Outcomes",
+      "arxiv_id": "2110.13541",
+      "doi": null,
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Trigger Hunting with a Topological Prior for Trojan Detection",
+      "arxiv_id": "2110.08335",
+      "doi": null,
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Unlearning of Backdoors via Implicit Hypergradient",
+      "arxiv_id": "2110.03735",
+      "doi": null,
+      "publicationDate": "2021-10-07",
+      "year": 2021
+    },
+    {
+      "title": "LIRA: Learnable, Imperceptible and Robust Backdoor Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV48922.2021.01175",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "European natural gas prices continue to bite",
+      "arxiv_id": null,
+      "doi": "10.47287/cen-09936-buscon7",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Physical Side-Channel Attacks on Embedded Neural Networks: A Survey",
+      "arxiv_id": "2110.11290",
+      "doi": "10.3390/app11156790",
+      "publicationDate": "2021-07-23",
+      "year": 2021
+    },
+    {
+      "title": "MLPerf Tiny Benchmark",
+      "arxiv_id": "2106.07597",
+      "doi": null,
+      "publicationDate": "2021-06-14",
+      "year": 2021
+    },
+    {
+      "title": "SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics",
+      "arxiv_id": "2104.11315",
+      "doi": null,
+      "publicationDate": "2021-04-22",
+      "year": 2021
+    },
+    {
+      "title": "Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks",
+      "arxiv_id": "2101.05930",
+      "doi": null,
+      "publicationDate": "2021-01-15",
+      "year": 2021
+    },
+    {
+      "title": "Optimal Transport as a Defense Against Adversarial Attacks",
+      "arxiv_id": "2102.03156",
+      "doi": "10.1109/ICPR48806.2021.9413327",
+      "publicationDate": "2021-01-10",
+      "year": 2021
+    },
+    {
+      "title": "Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification",
+      "arxiv_id": "2012.11212",
+      "doi": "10.1609/aaai.v35i2.16201",
+      "publicationDate": "2020-12-21",
+      "year": 2020
+    },
+    {
+      "title": "DeepEM: Deep Neural Networks Model Recovery through EM Side-Channel Information Leakage",
+      "arxiv_id": null,
+      "doi": "10.1109/HOST45689.2020.9300274",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems",
+      "arxiv_id": "2010.08678",
+      "doi": null,
+      "publicationDate": "2020-10-17",
+      "year": 2020
+    },
+    {
+      "title": "Input-Aware Dynamic Backdoor Attack",
+      "arxiv_id": "2010.08138",
+      "doi": null,
+      "publicationDate": "2020-10-16",
+      "year": 2020
+    },
+    {
+      "title": "Knowledge-Enriched Distributional Model Inversion Attacks",
+      "arxiv_id": "2010.04092",
+      "doi": "10.1109/ICCV48922.2021.01587",
+      "publicationDate": "2020-10-08",
+      "year": 2020
+    },
+    {
+      "title": "Improving Robustness to Model Inversion Attacks via Mutual Information Regularization",
+      "arxiv_id": "2009.05241",
+      "doi": "10.1609/aaai.v35i13.17387",
+      "publicationDate": "2020-09-11",
+      "year": 2020
+    },
+    {
+      "title": "Robustifying the Deployment of tinyML Models for Autonomous Mini-Vehicles",
+      "arxiv_id": "2007.00302",
+      "doi": "10.3390/s21041339",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2006.11239",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "A Firmware Update Architecture for Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.17487/rfc9019",
+      "publicationDate": "2020-05-27",
+      "year": 2020
+    },
+    {
+      "title": "Rethinking the Trigger of Backdoor Attack",
+      "arxiv_id": "2004.04692",
+      "doi": null,
+      "publicationDate": "2020-04-09",
+      "year": 2020
+    },
+    {
+      "title": "Relative Robustness of Quantized Neural Networks Against Adversarial Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN48605.2020.9207596",
+      "publicationDate": "2020-03-15",
+      "year": 2020
+    },
+    {
+      "title": "GeoDA: A Geometric Framework for Black-Box Adversarial Attacks",
+      "arxiv_id": "2003.06468",
+      "doi": "10.1109/cvpr42600.2020.00847",
+      "publicationDate": "2020-03-13",
+      "year": 2020
+    },
+    {
+      "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+      "arxiv_id": "2003.01690",
+      "doi": null,
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks",
+      "arxiv_id": "1911.07135",
+      "doi": "10.1109/cvpr42600.2020.00033",
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "MLPerf Inference Benchmark",
+      "arxiv_id": "1911.02549",
+      "doi": "10.1109/ISCA45697.2020.00045",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "MaskedNet: The First Hardware Inference Engine Aiming Power Side-Channel Protection",
+      "arxiv_id": "1910.13063",
+      "doi": "10.1109/HOST45689.2020.9300276",
+      "publicationDate": "2019-10-29",
+      "year": 2019
+    },
+    {
+      "title": "Impact of Low-Bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks",
+      "arxiv_id": "1909.12741",
+      "doi": "10.1109/CW.2019.00057",
+      "publicationDate": "2019-09-27",
+      "year": 2019
+    },
+    {
+      "title": "High Accuracy and High Fidelity Extraction of Neural Networks",
+      "arxiv_id": "1909.01838",
+      "doi": null,
+      "publicationDate": "2019-09-03",
+      "year": 2019
+    },
+    {
+      "title": "On a Side Channel and Fault Attack Concurrent Countermeasure Methodology for MCU-based Byte-sliced Cipher Implementations",
+      "arxiv_id": null,
+      "doi": "10.1109/IOLTS.2019.8854372",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "A Performance Evaluation of Data Protection Mechanisms for Resource Constrained IoT Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/ICFC.2019.00015",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Amazon Web Services",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-3084-8_3",
+      "publicationDate": "2019-04-30",
+      "year": 2019
+    },
+    {
+      "title": "BadNets: Evaluating Backdooring Attacks on Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2909068",
+      "publicationDate": "2019-04-11",
+      "year": 2019
+    },
+    {
+      "title": "Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2019.00031",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Bit-Flip Attack: Crushing Neural Network With Progressive Bit Search",
+      "arxiv_id": "1903.12269",
+      "doi": "10.1109/ICCV.2019.00130",
+      "publicationDate": "2019-03-28",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Internet of Things (IoT) Authentication Schemes",
+      "arxiv_id": null,
+      "doi": "10.3390/s19051141",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning",
+      "arxiv_id": "1902.11237",
+      "doi": "10.1109/ICIP.2019.8802997",
+      "publicationDate": "2019-02-12",
+      "year": 2019
+    },
+    {
+      "title": "Breaking All the Things - A Systematic Survey of Firmware Extraction Techniques for IoT Devices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-15462-2_12",
+      "publicationDate": "2018-11-12",
+      "year": 2018
+    },
+    {
+      "title": "Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering",
+      "arxiv_id": "1811.03728",
+      "doi": null,
+      "publicationDate": "2018-11-09",
+      "year": 2018
+    },
+    {
+      "title": "Spectral Signatures in Backdoor Attacks",
+      "arxiv_id": "1811.00636",
+      "doi": null,
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Analyzing the Resource Utilization of AES Encryption on IoT Devices",
+      "arxiv_id": null,
+      "doi": "10.23919/APSIPA.2018.8659779",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Clean-Label Backdoor Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Analysis of LoRaWAN v1.1 security: research paper",
+      "arxiv_id": null,
+      "doi": "10.1145/3213299.3213304",
+      "publicationDate": "2018-06-25",
+      "year": 2018
+    },
+    {
+      "title": "Robust Physical-World Attacks on Deep Learning Visual Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2018.00175",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks",
+      "arxiv_id": "1805.12185",
+      "doi": "10.1007/978-3-030-00470-5_13",
+      "publicationDate": "2018-05-30",
+      "year": 2018
+    },
+    {
+      "title": "PRADA: Protecting Against DNN Model Stealing Attacks",
+      "arxiv_id": "1805.02628",
+      "doi": "10.1109/EuroSP.2019.00044",
+      "publicationDate": "2018-05-07",
+      "year": 2018
+    },
+    {
+      "title": "Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks",
+      "arxiv_id": "1804.00792",
+      "doi": null,
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "Datasheets for datasets",
+      "arxiv_id": "1803.09010",
+      "doi": "10.1145/3458723",
+      "publicationDate": "2018-03-23",
+      "year": 2018
+    },
+    {
+      "title": "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning",
+      "arxiv_id": "1712.05526",
+      "doi": null,
+      "publicationDate": "2017-12-15",
+      "year": 2017
+    },
+    {
+      "title": "Security survey of the IoT wireless protocols",
+      "arxiv_id": null,
+      "doi": "10.1109/TELFOR.2017.8249286",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples",
+      "arxiv_id": "1710.10766",
+      "doi": null,
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models",
+      "arxiv_id": "1708.03999",
+      "doi": "10.1145/3128572.3140448",
+      "publicationDate": "2017-08-14",
+      "year": 2017
+    },
+    {
+      "title": "Invited paper: Low power requirements and side-channel protection of encryption engines: Challenges and opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/ISLPED.2017.8009186",
+      "publicationDate": "2017-07-01",
+      "year": 2017
+    },
+    {
+      "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+      "arxiv_id": "1706.06083",
+      "doi": null,
+      "publicationDate": "2017-06-19",
+      "year": 2017
+    },
+    {
+      "title": "Ensemble Adversarial Training: Attacks and Defenses",
+      "arxiv_id": "1705.07204",
+      "doi": null,
+      "publicationDate": "2017-05-19",
+      "year": 2017
+    },
+    {
+      "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+      "arxiv_id": "1704.01155",
+      "doi": "10.14722/ndss.2018.23198",
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "Stealing Machine Learning Models via Prediction APIs",
+      "arxiv_id": "1609.02943",
+      "doi": null,
+      "publicationDate": "2016-08-10",
+      "year": 2016
+    },
+    {
+      "title": "A Survey of Man In The Middle Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2016.2548426",
+      "publicationDate": "2016-03-29",
+      "year": 2016
+    },
+    {
+      "title": "Practical Black-Box Attacks against Machine Learning",
+      "arxiv_id": "1602.02697",
+      "doi": "10.1145/3052973.3053009",
+      "publicationDate": "2016-02-08",
+      "year": 2016
+    },
+    {
+      "title": "Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks",
+      "arxiv_id": "1511.04508",
+      "doi": "10.1109/SP.2016.41",
+      "publicationDate": "2015-11-14",
+      "year": 2015
+    },
+    {
+      "title": "DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks",
+      "arxiv_id": "1511.04599",
+      "doi": "10.1109/CVPR.2016.282",
+      "publicationDate": "2015-11-14",
+      "year": 2015
+    },
+    {
+      "title": "Measuring the performance and energy consumption of AES in wireless sensor networks",
+      "arxiv_id": null,
+      "doi": "10.15439/2015F322",
+      "publicationDate": "2015-11-09",
+      "year": 2015
+    },
+    {
+      "title": "Exploiting Small Leakages in Masks to Turn a Second-Order Attack into a First-Order Attack and Improved Rotating Substitution Box Masking with Linear Code Cosets",
+      "arxiv_id": null,
+      "doi": "10.1155/2015/743618",
+      "publicationDate": "2015-06-14",
+      "year": 2015
+    },
+    {
+      "title": "From New Technologies to New Solutions - Exploiting FRAM Memories to Enhance Physical Security",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-08302-5_2",
+      "publicationDate": "2013-11-27",
+      "year": 2013
+    },
+    {
+      "title": "Innovative instructions and software model for isolated execution",
+      "arxiv_id": null,
+      "doi": "10.1145/2487726.2488368",
+      "publicationDate": "2013-06-23",
+      "year": 2013
+    },
+    {
+      "title": "Fresh Re-keying: Security against Side-Channel and Fault Attacks for Low-Cost Devices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12678-9_17",
+      "publicationDate": "2010-05-03",
+      "year": 2010
+    },
+    {
+      "title": "The Transport Layer Security (TLS) Protocol Version 1.3",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC8446",
+      "publicationDate": "2008-08-01",
+      "year": 2008
+    },
+    {
+      "title": "Power Analysis Attacks and Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1109/MDT.2007.200",
+      "publicationDate": "2007-11-01",
+      "year": 2007
+    },
+    {
+      "title": "Power analysis attacks - revealing the secrets of smart cards",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-02-01",
+      "year": 2007
+    },
+    {
+      "title": "Enhanced Consumer Healthcare Data Protection Through AI-Driven TinyML and Privacy-Preserving Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3573076",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Machine Learning Systems with TinyML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "First. 2024. Common Vulnerability Scoring System",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Survey on Non-Invasive Fault Injection Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A GAN-Based Defense Framework Against Model Inversion Attacks",
+      "arxiv_id": null,
+      "doi": "10.1109/TIFS.2023.3295944",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Formal Analysis and Patching of BLE-SC Pairing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Circumventing Backdoor Defenses That Are Based on Latent Separability",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2205.13613",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels ś Attacks and Defenses. arXiv e-prints , Article arXiv:2103.14739 (2021)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "SweynTooth: Unleashing Mayhem over Bluetooth Low Energy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "SweynTooth Vulnerabilities (ICS-ALERT-20-063-01)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Espressif ESP32: Bypassing Secure Boot using EMFI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Accessing and Dumping Firmware Through UART",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Winning The Interface War: Extracting Information From Electronic Devices With The SEC Xtractor",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Introduction to Security for STM32 MCUs . Number AN5156",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Security of LoRaWAN v1.1 in Backward Compatibility Scenarios",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2018.07.143",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Trojaning Attack on Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A Survey on the Edge Computing for the Internet of Things",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2017.2778504",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Hacking Hardware with a $10 SD Card Reader",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Bypassing Secure Boot using Fault Injection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Advanced Encryption Standard (AES) Key Wrap Algorithm . Technical Report 3394",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "Power analysis attacks and countermeasures for cryptographic algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "2022. How Practical Are Fault Injection Attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Eiciency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A Machine Learning-oriented Survey on Tiny Machine Learning. arXiv e-prints , Article arXiv:2309.11932 (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. TinyML: Tools, Applications, Challenges, and Future Research Directions. arXiv e-prints , Article arXiv:2303.13569 (2023), arXiv:2303.13569 pages",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "TinyML Security: Atacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems • 33",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. MIRROR: Model Inversion for Deep Learning Network with High Fidelity",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. CBOR Object Signing and Encryption (COSE): Structures and Process . Technical Report 9052",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Stealthy Backdoors as Compression Artifacts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Mitigate ReplicationandCopying inDifusionModelswithGeneralized Caption and Dual Fusion Enhancement",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Datasheets for Machine Learning Sensors: Towards Transparency, Auditability, and Responsibility for Intelligent Sensing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Benchmarking Adversarial Robustness of Compressed Deep Learning Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A Comprehensive Survey on TinyML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LWIP-TCPIP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Complex Backdoor Detection by Symmetric Feature Diferencing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Unstoppable Attack: Label-Only Model Inversion Via Conditional Difusion Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

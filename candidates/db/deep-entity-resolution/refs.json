@@ -1,0 +1,735 @@
+{
+  "candidate": {
+    "topic": "A Comprehensive Survey of Deep Learning for Entity Resolution",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3828660",
+      "title": "A Comprehensive Survey of Deep Learning for Entity Resolution",
+      "published": "2026-07-28"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:00+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 100,
+    "arxiv_resolvable": 46,
+    "doi_only": 51,
+    "unresolved": 3
+  },
+  "gt_s2": {
+    "paperId": "aa35b541641a2a4f15a0e9f97662ffd90a079f76",
+    "externalIds": {
+      "DOI": "10.1145/3828660",
+      "CorpusId": 289655370
+    },
+    "title": "A Comprehensive Survey of Deep Learning for Entity Resolution",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 100,
+    "publicationDate": "2026-06-27"
+  },
+  "refs": [
+    {
+      "title": "The impact of fine-tuning on entity resolution: An experimental evaluation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2026.115427",
+      "publicationDate": "2026-02-01",
+      "year": 2026
+    },
+    {
+      "title": "An Experimental Evaluation of Pre-Trained Models for Efficient and Accurate Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.1109/IISA66859.2025.11311205",
+      "publicationDate": "2025-07-10",
+      "year": 2025
+    },
+    {
+      "title": "FastER: On-demand Entity Resolution in Property Graphs",
+      "arxiv_id": "2504.01557",
+      "doi": "10.1007/978-3-032-09527-5_10",
+      "publicationDate": "2025-04-02",
+      "year": 2025
+    },
+    {
+      "title": "When GDD meets GNN: A knowledge-driven neural connection for effective entity resolution in property graphs",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2025.102551",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "TREATS: Fairness-aware entity resolution over streaming data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2024.102506",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "When GDD meets GNN: A Knowledge-driven Neural Connection for Effective Entity Resolution in Property Graphs",
+      "arxiv_id": "2410.04783",
+      "doi": "10.48550/arXiv.2410.04783",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Is it still fair? A comparative evaluation of fairness algorithms through the lens of covariate drift",
+      "arxiv_id": "2409.12428",
+      "doi": "10.1007/s10994-024-06698-6",
+      "publicationDate": "2024-09-19",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Tuning Large Language Models for Entity Matching",
+      "arxiv_id": "2409.08185",
+      "doi": "10.1109/ICDEW67478.2025.00006",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "AnyMatch - Efficient Zero-Shot Entity Matching with a Small Language Model",
+      "arxiv_id": "2409.04073",
+      "doi": "10.48550/arXiv.2409.04073",
+      "publicationDate": "2024-09-06",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Symbolic Knowledge Distillation of Large Language Models",
+      "arxiv_id": "2408.10210",
+      "doi": "10.1109/TAI.2024.3428519",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Open benchmark for filtering techniques in entity resolution",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-024-00868-7",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "A Suite of Efficient Randomized Algorithms for Streaming Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2024.3361022",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching",
+      "arxiv_id": "2405.16884",
+      "doi": "10.48550/arXiv.2405.16884",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "A Critical Re-evaluation of Record Linkage Benchmarks for Learning-Based Matching Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00265",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Blocker and Matcher Can Mutually Benefit: A Co-Learning Framework for Low-Resource Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.14778/3632093.3632096",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "GSM: A generalized approach to Supervised Meta-blocking for scalable entity resolution",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2023.102307",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "Deep Learning for Approximate Nearest Neighbour Search: A Survey and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2022.3220683",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "MultiEM: Efficient and Effective Unsupervised Multi-Table Entity Matching",
+      "arxiv_id": "2308.01927",
+      "doi": "10.1109/ICDE60146.2024.00264",
+      "publicationDate": "2023-08-02",
+      "year": 2023
+    },
+    {
+      "title": "A Randomized Blocking Structure for Streaming Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.14778/3611479.3611487",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Through the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching",
+      "arxiv_id": "2307.02726",
+      "doi": "10.14778/3611479.3611525",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Unicorn: A Unified Multi-tasking Model for Supporting Matching Tasks in Data Integration",
+      "arxiv_id": null,
+      "doi": "10.1145/3588938",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Pre-trained Embeddings for Entity Resolution: An Experimental Analysis",
+      "arxiv_id": "2304.12329",
+      "doi": "10.14778/3598581.3598594",
+      "publicationDate": "2023-04-24",
+      "year": 2023
+    },
+    {
+      "title": "Transformer-based Denoising Adversarial Variational Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.1007/s10844-022-00773-x",
+      "publicationDate": "2023-04-17",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "SC-Block: Supervised Contrastive Blocking within Entity Resolution Pipelines",
+      "arxiv_id": "2303.03132",
+      "doi": "10.48550/arXiv.2303.03132",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "Sparkly: A Simple yet Surprisingly Strong TF/IDF Blocker for Entity Matching",
+      "arxiv_id": null,
+      "doi": "10.14778/3583140.3583163",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "WDC Products: A Multi-Dimensional Entity Matching Benchmark",
+      "arxiv_id": "2301.09521",
+      "doi": "10.48550/arXiv.2301.09521",
+      "publicationDate": "2023-01-23",
+      "year": 2023
+    },
+    {
+      "title": "Text Embeddings by Weakly-Supervised Contrastive Pre-training",
+      "arxiv_id": "2212.03533",
+      "doi": null,
+      "publicationDate": "2022-12-07",
+      "year": 2022
+    },
+    {
+      "title": "FlexER: Flexible Entity Resolution for Multiple Intents",
+      "arxiv_id": "2209.07569",
+      "doi": "10.1145/3588722",
+      "publicationDate": "2022-08-23",
+      "year": 2022
+    },
+    {
+      "title": "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation",
+      "arxiv_id": "2207.04122",
+      "doi": "10.1109/ICDE55515.2023.00391",
+      "publicationDate": "2022-07-08",
+      "year": 2022
+    },
+    {
+      "title": "Entity Resolution with Hierarchical Graph Attention Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3514221.3517872",
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "Domain Adaptation for Deep Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.1145/3514221.3517870",
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "Can Foundation Models Wrangle Your Data?",
+      "arxiv_id": "2205.09911",
+      "doi": "10.48550/arXiv.2205.09911",
+      "publicationDate": "2022-05-20",
+      "year": 2022
+    },
+    {
+      "title": "Unsupervised Graph-Based Entity Resolution for Complex Entities",
+      "arxiv_id": null,
+      "doi": "10.1145/3533016",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "Analyzing How BERT Performs Entity Matching",
+      "arxiv_id": null,
+      "doi": "10.14778/3529337.3529356",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "Entity Resolution On-Demand",
+      "arxiv_id": null,
+      "doi": "10.14778/3523210.3523226",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Transfer Learning for Multi-source Entity Linkage via Domain Adaptation",
+      "arxiv_id": "2110.14509",
+      "doi": "10.14778/3494124.3494131",
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "FairER: Entity Resolution With Fairness Constraints",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3482105",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "LEMON: Explainable Entity Matching",
+      "arxiv_id": "2110.00516",
+      "doi": "10.1109/TKDE.2022.3200644",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "High-Value Token-Blocking: Efficient Blocking Method for Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.1145/3450527",
+      "publicationDate": "2021-07-21",
+      "year": 2021
+    },
+    {
+      "title": "Deep Learning for Blocking in Entity Matching: A Design Space Exploration",
+      "arxiv_id": null,
+      "doi": "10.14778/3476249.3476294",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making",
+      "arxiv_id": "2106.04174",
+      "doi": "10.18653/v1/2021.acl-long.215",
+      "publicationDate": "2021-06-08",
+      "year": 2021
+    },
+    {
+      "title": "Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins",
+      "arxiv_id": "2106.01501",
+      "doi": null,
+      "publicationDate": "2021-06-02",
+      "year": 2021
+    },
+    {
+      "title": "Dual-Objective Fine-Tuning of BERT for Entity Matching",
+      "arxiv_id": null,
+      "doi": "10.14778/3467861.3467878",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Improving the Efficiency and Effectiveness for BERT-based Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i15.17562",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "GNEM: A Generic One-to-Set Neural Entity Matching Framework",
+      "arxiv_id": null,
+      "doi": "10.1145/3442381.3450119",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Deep Indexed Active Learning for Matching Heterogeneous Entity Representations",
+      "arxiv_id": "2104.03986",
+      "doi": "10.14778/3485450.3485455",
+      "publicationDate": "2021-04-08",
+      "year": 2021
+    },
+    {
+      "title": "Knowledge Transfer for Entity Resolution with Siamese Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3410157",
+      "publicationDate": "2021-01-13",
+      "year": 2021
+    },
+    {
+      "title": "Active Deep Learning on Entity Resolution by Risk Sampling",
+      "arxiv_id": "2012.12960",
+      "doi": "10.1016/j.knosys.2021.107729",
+      "publicationDate": "2020-12-23",
+      "year": 2020
+    },
+    {
+      "title": "An Overview of End-to-End Entity Resolution for Big Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3418896",
+      "publicationDate": "2020-12-06",
+      "year": 2020
+    },
+    {
+      "title": "Neural Networks for Entity Matching: A Survey",
+      "arxiv_id": "2010.11075",
+      "doi": "10.1145/3442200",
+      "publicationDate": "2020-10-21",
+      "year": 2020
+    },
+    {
+      "title": "Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/3318464.3389742",
+      "publicationDate": "2020-05-29",
+      "year": 2020
+    },
+    {
+      "title": "Efficient and effective ER with progressive blocking",
+      "arxiv_id": "2005.14326",
+      "doi": "10.1007/s00778-021-00656-7",
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "MPNet: Masked and Permuted Pre-training for Language Understanding",
+      "arxiv_id": "2004.09297",
+      "doi": null,
+      "publicationDate": "2020-04-20",
+      "year": 2020
+    },
+    {
+      "title": "Multi-Context Attention for Entity Matching",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380017",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I05.6330",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Deep entity matching with pre-trained language models",
+      "arxiv_id": "2004.00584",
+      "doi": "10.14778/3421424.3421431",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Entity Matching with Transformer Architectures - A Step Forward in Data Integration",
+      "arxiv_id": null,
+      "doi": "10.5441/002/edbt.2020.58",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers",
+      "arxiv_id": "2002.10957",
+      "doi": null,
+      "publicationDate": "2020-02-25",
+      "year": 2020
+    },
+    {
+      "title": "AutoBlock: A Hands-off Blocking Framework for Entity Matching",
+      "arxiv_id": "1912.03417",
+      "doi": "10.1145/3336191.3371813",
+      "publicationDate": "2019-12-07",
+      "year": 2019
+    },
+    {
+      "title": "Towards Interpretable and Learnable Risk Analysis for Entity Resolution",
+      "arxiv_id": "1912.02947",
+      "doi": "10.1145/3318464.3380572",
+      "publicationDate": "2019-12-06",
+      "year": 2019
+    },
+    {
+      "title": "Deep Sequence-to-Sequence Entity Matching for Heterogeneous Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.1145/3357384.3358018",
+      "publicationDate": "2019-11-03",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+      "arxiv_id": "1910.01108",
+      "doi": null,
+      "publicationDate": "2019-10-02",
+      "year": 2019
+    },
+    {
+      "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+      "arxiv_id": "1909.11942",
+      "doi": null,
+      "publicationDate": "2019-09-26",
+      "year": 2019
+    },
+    {
+      "title": "Accelerating Large-Scale Inference with Anisotropic Vector Quantization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-08-27",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Linking Graph Entities with Multiplicity and Provenance",
+      "arxiv_id": "1908.04464",
+      "doi": null,
+      "publicationDate": "2019-08-13",
+      "year": 2019
+    },
+    {
+      "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+      "arxiv_id": "1906.08237",
+      "doi": null,
+      "publicationDate": "2019-06-19",
+      "year": 2019
+    },
+    {
+      "title": "Low-resource Deep Entity Resolution with Transfer and Active Learning",
+      "arxiv_id": "1906.08042",
+      "doi": "10.18653/v1/P19-1586",
+      "publicationDate": "2019-06-17",
+      "year": 2019
+    },
+    {
+      "title": "Blocking and Filtering Techniques for Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.1145/3377455",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313578",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Certus: An Effective Entity Resolution Approach with Graph Differential Dependencies (GDDs)",
+      "arxiv_id": null,
+      "doi": "10.14778/3311880.3311883",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms",
+      "arxiv_id": "1807.05614",
+      "doi": "10.1007/978-3-319-68474-1_3",
+      "publicationDate": "2018-07-15",
+      "year": 2018
+    },
+    {
+      "title": "Deep Learning for Entity Matching: A Design Space Exploration",
+      "arxiv_id": null,
+      "doi": "10.1145/3183713.3196926",
+      "publicationDate": "2018-05-27",
+      "year": 2018
+    },
+    {
+      "title": "Distributed Representations of Tuples for Entity Resolution",
+      "arxiv_id": "1710.00597",
+      "doi": "10.14778/3236187.3236198",
+      "publicationDate": "2017-10-02",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "A Unified Approach to Interpreting Model Predictions",
+      "arxiv_id": "1705.07874",
+      "doi": null,
+      "publicationDate": "2017-05-22",
+      "year": 2017
+    },
+    {
+      "title": "Enriching Word Vectors with Subword Information",
+      "arxiv_id": "1607.04606",
+      "doi": "10.1162/tacl_a_00051",
+      "publicationDate": "2016-07-15",
+      "year": 2016
+    },
+    {
+      "title": "Comparative Analysis of Approximate Blocking Techniques for Entity Resolution",
+      "arxiv_id": null,
+      "doi": "10.14778/2947618.2947624",
+      "publicationDate": "2016-05-01",
+      "year": 2016
+    },
+    {
+      "title": "Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs",
+      "arxiv_id": "1603.09320",
+      "doi": "10.1109/TPAMI.2018.2889473",
+      "publicationDate": "2016-03-30",
+      "year": 2016
+    },
+    {
+      "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
+      "arxiv_id": "1602.04938",
+      "doi": "10.1145/2939672.2939778",
+      "publicationDate": "2016-02-16",
+      "year": 2016
+    },
+    {
+      "title": "Schema-agnostic vs Schema-based Configurations for Blocking Methods on Homogeneous Data",
+      "arxiv_id": null,
+      "doi": "10.14778/2856318.2856326",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "Supervised Meta-blocking",
+      "arxiv_id": null,
+      "doi": "10.14778/2733085.2733098",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "GloVe: Global Vectors for Word Representation",
+      "arxiv_id": null,
+      "doi": "10.3115/v1/D14-1162",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Meta-Blocking: Taking Entity Resolutionto the Next Level",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2013.54",
+      "publicationDate": "2014-08-01",
+      "year": 2014
+    },
+    {
+      "title": "Efficient Estimation of Word Representations in Vector Space",
+      "arxiv_id": "1301.3781",
+      "doi": null,
+      "publicationDate": "2013-01-16",
+      "year": 2013
+    },
+    {
+      "title": "A Survey of Indexing Techniques for Scalable Record Linkage and Deduplication",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2011.127",
+      "publicationDate": "2012-09-01",
+      "year": 2012
+    },
+    {
+      "title": "Robust Record Linkage Blocking Using Suffix Arrays and Bloom Filters",
+      "arxiv_id": null,
+      "doi": "10.1145/1921632.1921635",
+      "publicationDate": "2011-02-01",
+      "year": 2011
+    },
+    {
+      "title": "Evaluation of entity resolution approaches on real-world match problems",
+      "arxiv_id": null,
+      "doi": "10.14778/1920841.1920904",
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "A Neural Probabilistic Language Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2003-03-01",
+      "year": 2003
+    },
+    {
+      "title": "Similarity estimation techniques from rounding algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/509907.509965",
+      "publicationDate": "2002-05-19",
+      "year": 2002
+    },
+    {
+      "title": "LSBlock: A Hybrid Blocking System Combining Lexical and Semantic Similarity Search for Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-032-05281-0_9",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Fairness and Explanations in Entity Resolution: An Overview",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3599990",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "LLM-Enhanced Entity Resolution Using Graph Differential Dependencies",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-96-9921-6_11",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Automated Machine Learning for Entity Matching Tasks",
+      "arxiv_id": null,
+      "doi": "10.5441/002/edbt.2021.29",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Magellan: Toward Building Entity Matching Management Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Product Quantization for Nearest Neighbor Search",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2010.57",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Duplicate Record Detection: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2007.9",
+      "publicationDate": null,
+      "year": 2007
+    }
+  ]
+}

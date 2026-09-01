@@ -1,0 +1,666 @@
+{
+  "candidate": {
+    "topic": "Entity Linking with Wikidata",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3795134",
+      "title": "Entity Linking with Wikidata: A Systematic Literature Review",
+      "published": "2026-02-25"
+    },
+    "notes": "ACM Computing Surveys 2026 (Crossref refs-count 확인됨)"
+  },
+  "extracted_at": "2026-09-01T02:09:06+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 90,
+    "arxiv_resolvable": 19,
+    "doi_only": 55,
+    "unresolved": 16
+  },
+  "gt_s2": {
+    "paperId": "3ee5965e5791f46632875c6f23d532a12b1c3afb",
+    "externalIds": {
+      "DBLP": "journals/csur/ScharpfBSMGSG26",
+      "DOI": "10.1145/3795134",
+      "CorpusId": 285184143
+    },
+    "title": "Entity Linking with Wikidata: A Systematic Literature Review",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 90,
+    "publicationDate": "2026-01-31"
+  },
+  "refs": [
+    {
+      "title": "Universal entity linking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2025.112185",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "The Benefits of Query-Based KGQA Systems for Complex and Temporal Questions in LLM Era",
+      "arxiv_id": "2507.11954",
+      "doi": "10.1007/978-3-031-97141-9_29",
+      "publicationDate": "2025-07-16",
+      "year": 2025
+    },
+    {
+      "title": "Entity Linking for Wikidata using Large Language Models and Wikipedia Links",
+      "arxiv_id": null,
+      "doi": "10.1109/CANDARW64572.2024.00030",
+      "publicationDate": "2024-11-26",
+      "year": 2024
+    },
+    {
+      "title": "Combining Deep Learning Models and Lexical Linked Data: Some Insights from the Development of a Multilingual News Named Entity Recognition and Linking Dataset",
+      "arxiv_id": null,
+      "doi": "10.63317/226scpww8xhr",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "NILK: Entity Linking Dataset Targeting NIL-linking Cases",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557659",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking",
+      "arxiv_id": "2202.13404",
+      "doi": "10.18653/v1/2022.findings-acl.292",
+      "publicationDate": "2022-02-27",
+      "year": 2022
+    },
+    {
+      "title": "MELHISSA: a multilingual entity linking architecture for historical press articles",
+      "arxiv_id": null,
+      "doi": "10.1007/s00799-021-00319-6",
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3481936",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Named Entity Disambiguation for Archival Collections: \nMetadata, Wikidata, and Linked Data",
+      "arxiv_id": null,
+      "doi": "10.1002/pra2.490",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "SoMeSci- A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles",
+      "arxiv_id": "2108.09070",
+      "doi": "10.1145/3459637.3482017",
+      "publicationDate": "2021-08-20",
+      "year": 2021
+    },
+    {
+      "title": "Wikidata based Person Entity Linking in News Articles",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIAfS52090.2021.9606139",
+      "publicationDate": "2021-08-11",
+      "year": 2021
+    },
+    {
+      "title": "A Multilingual Dataset for Named Entity Recognition, Entity Linking and Stance Detection in Historical Newspapers",
+      "arxiv_id": null,
+      "doi": "10.1145/3404835.3463255",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "TENET: Joint Entity and Relation Linking with Coherence Relaxation",
+      "arxiv_id": null,
+      "doi": "10.1145/3448016.3457280",
+      "publicationDate": "2021-06-09",
+      "year": 2021
+    },
+    {
+      "title": "MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network",
+      "arxiv_id": "2106.07352",
+      "doi": "10.18653/v1/2021.acl-short.37",
+      "publicationDate": "2021-06-02",
+      "year": 2021
+    },
+    {
+      "title": "Entity Linking as a Population Mechanism for Skill Ontologies: Evaluating the Use of ESCO and Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-71903-6_12",
+      "publicationDate": "2021-02-22",
+      "year": 2021
+    },
+    {
+      "title": "Knowledge-driven joint posterior revision of named entity classification and linking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.websem.2020.100617",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Fine-Grained Entity Linking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.websem.2020.100600",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Entity Linking for Historical Documents: Challenges and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-64452-9_19",
+      "publicationDate": "2020-11-30",
+      "year": 2020
+    },
+    {
+      "title": "Linking OpenStreetMap with Knowledge Graphs - Link Discovery for Schema-Agnostic Volunteered Geographic Information",
+      "arxiv_id": "2011.05841",
+      "doi": "10.1016/j.future.2020.11.003",
+      "publicationDate": "2020-11-06",
+      "year": 2020
+    },
+    {
+      "title": "Covid-on-the-Web: Knowledge Graph and Services to Advance COVID-19 Research",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-62466-8_19",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "Entity Linking in 100 Languages",
+      "arxiv_id": "2011.02690",
+      "doi": "10.18653/v1/2020.emnlp-main.630",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Tweeki: Linking Named Entities on Twitter to a Knowledge Graph",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.wnut-1.29",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Entity Linking for Short Text Using Structured Knowledge Graph via Multi-Grained Text Matching",
+      "arxiv_id": null,
+      "doi": "10.21437/interspeech.2020-1934",
+      "publicationDate": "2020-10-25",
+      "year": 2020
+    },
+    {
+      "title": "Extended Overview of CLEF HIPE 2020: Named Entity Processing on Historical Newspapers",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.4117566",
+      "publicationDate": "2020-10-21",
+      "year": 2020
+    },
+    {
+      "title": "PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs",
+      "arxiv_id": "2009.00106",
+      "doi": "10.1007/978-3-030-62419-4_2",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "Challenges of Linking Organizational Information in Open Government Data to Knowledge Graphs",
+      "arxiv_id": "2008.06232",
+      "doi": "10.1007/978-3-030-61244-3_19",
+      "publicationDate": "2020-08-14",
+      "year": 2020
+    },
+    {
+      "title": "Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models",
+      "arxiv_id": "2008.05190",
+      "doi": "10.1145/3340531.3412159",
+      "publicationDate": "2020-08-12",
+      "year": 2020
+    },
+    {
+      "title": "Robust Named Entity Recognition and Linking on Historical Multilingual Documents",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.4068075",
+      "publicationDate": "2020-07-17",
+      "year": 2020
+    },
+    {
+      "title": "KORE 50DYWC: An Evaluation Data Set for Entity Linking Based on DBpedia, YAGO, Wikidata, and Crunchbase",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Hedwig: A Named Entity Linker",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "The role of knowledge in determining identity of long-tail entities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.websem.2020.100565",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "KBPearl",
+      "arxiv_id": null,
+      "doi": "10.14778/3384345.3384352",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "Wikidata based Location Entity Linking",
+      "arxiv_id": null,
+      "doi": "10.1145/3384544.3384592",
+      "publicationDate": "2020-02-18",
+      "year": 2020
+    },
+    {
+      "title": "Falcon 2.0: An Entity and Relation Linking Tool over Wikidata",
+      "arxiv_id": "1912.11270",
+      "doi": "10.1145/3340531.3412777",
+      "publicationDate": "2019-12-24",
+      "year": 2019
+    },
+    {
+      "title": "Encoding Knowledge Graph Entity Aliases in Attentive Neural Network for Wikidata Entity Linking",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-62005-9_24",
+      "publicationDate": "2019-12-12",
+      "year": 2019
+    },
+    {
+      "title": "KnowledgeNet: A Benchmark Dataset for Knowledge Base Population",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D19-1069",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "LC-QuAD 2.0: A Large Dataset for Complex Question Answering over Wikidata and DBpedia",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-30796-7_5",
+      "publicationDate": "2019-10-26",
+      "year": 2019
+    },
+    {
+      "title": "Non-Parametric Class Completeness Estimators for Collaborative Knowledge Graphs - The Case of Wikidata",
+      "arxiv_id": "1909.01109",
+      "doi": "10.1007/978-3-030-30793-6_26",
+      "publicationDate": "2019-09-03",
+      "year": 2019
+    },
+    {
+      "title": "OpenTapioca: Lightweight Entity Linking for Wikidata",
+      "arxiv_id": "1904.09131",
+      "doi": null,
+      "publicationDate": "2019-04-19",
+      "year": 2019
+    },
+    {
+      "title": "A Neural Approach to Entity Linking on Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-15719-7_10",
+      "publicationDate": "2019-04-14",
+      "year": 2019
+    },
+    {
+      "title": "Canonicalization of Open Knowledge Bases with Side Information from the Source Text",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00089",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Populating Narratives Using Wikidata Events: An Initial Experiment",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-11226-4_13",
+      "publicationDate": "2019-01-31",
+      "year": 2019
+    },
+    {
+      "title": "Named Entity Disambiguation using Deep Learning on Graphs",
+      "arxiv_id": "1810.09164",
+      "doi": null,
+      "publicationDate": "2018-10-22",
+      "year": 2018
+    },
+    {
+      "title": "A Novel Ensemble Method for Named Entity Recognition and Disambiguation Based on Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-00671-6_6",
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Recent Named Entity Recognition and Classification techniques: A systematic review",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COSREV.2018.06.001",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "A Survey on Recent Advances in Named Entity Recognition from Deep Learning models",
+      "arxiv_id": "1910.11470",
+      "doi": null,
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Mining and Leveraging Background Knowledge for Improving Named Entity Linking",
+      "arxiv_id": null,
+      "doi": "10.1145/3227609.3227670",
+      "publicationDate": "2018-06-25",
+      "year": 2018
+    },
+    {
+      "title": "Mind the (Language) Gap: Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-93417-4_21",
+      "publicationDate": "2018-06-03",
+      "year": 2018
+    },
+    {
+      "title": "T-REx: A Large Scale Alignment of Natural Language with Knowledge Base Triples",
+      "arxiv_id": null,
+      "doi": "10.63317/2yu5nu76n7bu",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories",
+      "arxiv_id": "1804.08460",
+      "doi": "10.18653/v1/S18-2007",
+      "publicationDate": "2018-04-22",
+      "year": 2018
+    },
+    {
+      "title": "Entity-Centric Topic Extraction and Exploration: A Network-Based Approach",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-76941-7_1",
+      "publicationDate": "2018-03-26",
+      "year": 2018
+    },
+    {
+      "title": "Relation Linking for Wikidata Using Bag of Distribution Representation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-73618-1_55",
+      "publicationDate": "2017-11-08",
+      "year": 2017
+    },
+    {
+      "title": "Unsupervised Joint Entity Linking over Question Answering Pair with Global Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-69005-6_23",
+      "publicationDate": "2017-10-13",
+      "year": 2017
+    },
+    {
+      "title": "NECKAr: A Named Entity Classifier for Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-73706-5_10",
+      "publicationDate": "2017-09-13",
+      "year": 2017
+    },
+    {
+      "title": "End-to-End Representation Learning for Question Answering with Weak Supervision",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-69146-6_7",
+      "publicationDate": "2017-05-28",
+      "year": 2017
+    },
+    {
+      "title": "Entity Linking for Queries by Searching Wikipedia Sentences",
+      "arxiv_id": "1704.02788",
+      "doi": "10.18653/v1/D17-1007",
+      "publicationDate": "2017-04-10",
+      "year": 2017
+    },
+    {
+      "title": "EVELIN: Exploration of Event and Entity Links in Implicit Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3041021.3054721",
+      "publicationDate": "2017-04-03",
+      "year": 2017
+    },
+    {
+      "title": "On Generating Characteristic-rich Question Sets for QA Evaluation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D16-1054",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-2033",
+      "publicationDate": "2016-08-07",
+      "year": 2016
+    },
+    {
+      "title": "With a Little Help from my Neighbors: Person Name Linking Using the Wikipedia Social Network",
+      "arxiv_id": null,
+      "doi": "10.1145/2872518.2891109",
+      "publicationDate": "2016-04-11",
+      "year": 2016
+    },
+    {
+      "title": "From Freebase to Wikidata: The Great Migration",
+      "arxiv_id": null,
+      "doi": "10.1145/2872427.2874809",
+      "publicationDate": "2016-04-11",
+      "year": 2016
+    },
+    {
+      "title": "Resolving polysemy and pseudonymity in entity linking with comprehensive name and context modeling",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2015.02.025",
+      "publicationDate": "2015-06-20",
+      "year": 2015
+    },
+    {
+      "title": "Design Challenges for Entity Linking",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00141",
+      "publicationDate": "2015-06-10",
+      "year": 2015
+    },
+    {
+      "title": "Large-scale Simple Question Answering with Memory Networks",
+      "arxiv_id": "1506.02075",
+      "doi": null,
+      "publicationDate": "2015-06-05",
+      "year": 2015
+    },
+    {
+      "title": "Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2014.2327028",
+      "publicationDate": "2015-02-01",
+      "year": 2015
+    },
+    {
+      "title": "A Model for Enriching Multilingual Wikipedias Using Infobox and Wikidata Property Alignment",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-15615-6_25",
+      "publicationDate": "2014-11-09",
+      "year": 2014
+    },
+    {
+      "title": "Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1145/2629489",
+      "publicationDate": "2014-09-23",
+      "year": 2014
+    },
+    {
+      "title": "Robust Disambiguation of Named Entities in Text",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-07-27",
+      "year": 2011
+    },
+    {
+      "title": "Wikify!: linking documents to encyclopedic knowledge",
+      "arxiv_id": null,
+      "doi": "10.1145/1321440.1321475",
+      "publicationDate": "2007-11-06",
+      "year": 2007
+    },
+    {
+      "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+      "arxiv_id": "cs/0306050",
+      "doi": "10.3115/1119176.1119195",
+      "publicationDate": "2003-05-31",
+      "year": 2003
+    },
+    {
+      "title": "Message Understanding Conference- 6: A Brief History",
+      "arxiv_id": null,
+      "doi": "10.3115/992628.992709",
+      "publicationDate": "1996-08-05",
+      "year": 1996
+    },
+    {
+      "title": "Introducing FELA - Flexible Entity Linking Approach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Knowledge Extraction From Texts Based on Wikidata",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.naacl-industry.33",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Entity Linking in the ParlaMint Corpus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Question answering over Wikidata using entity linking and neural semantic parsing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Weibo-MEL, Wikidata-MEL and Richpedia-MEL: Multimodal Entity Linking Benchmark Datasets",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-16-6471-7_27",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Named Entity Disambiguation and Linking Historic Newspaper OCR with BERT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Separating the Signal from the Noise: Predicting the Correct Entities in Named-Entity Linking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Named Entity Recognition and Linking on Historical Newspapers: UvA.ILPS & REL at CLEF HIPE 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Named Entity Extraction for Knowledge Graphs: A Literature Overview",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2973928",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Derived",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "How to do a Structured Literature Review in Computer Science . Technical Report, Version 0.2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Evaluating Entity Linking with Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ARTINT.2012.04.005",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "A survey of named entity recognition and classification",
+      "arxiv_id": null,
+      "doi": "10.1075/LI.30.1.03NAD",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "2022. Neural entity linking: A survey of models based on deep learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Survey on English Entity Linking on Wikidata: Datasets and approaches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. GPT-4 Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Entity Linking with Wikidata: A Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Guidelines for Performing Systematic Literature Reviews in Software Engineering . Technical Report EBSE-2007-01",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}
