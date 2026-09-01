@@ -116,6 +116,107 @@ L1 빌드(`common_corpus.cli build`)는 5개 SQL 스테이지를 한 DuckDB 세�
 | `scripts/extract_gt_refs.py` | 후보 GT ref 추출: S2 API → arXiv .bbl/.bib → Crossref 3단 fallback |
 | `scripts/audit_candidates.py` | 후보 감사: post-cutoff·eligible(이중 키 매칭)·D1·쌍둥이 탐지 |
 
+
+### 시각화 — DB 계층·쿼리 흐름 (Mermaid)
+
+```mermaid
+flowchart TB
+    subgraph UP["Upstream (read-only) — HuggingFace"]
+        HF["J0nasW/science-datalake @ cd87dd0<br/>OpenAlex snapshot 2026-02-03"]
+    end
+
+    subgraph L0["L0 · data/upstream/cd87dd0 — 선택적 미러 150GB"]
+        W["openalex/works.parquet 134.8GB<br/>479M works"]
+        WT["works_topics.parquet 8.2GB"]
+        WL["works_locations.parquet 17.3GB"]
+        TP["topics·fields·subfields·domains"]
+        UM["upstream_manifest.json<br/>(revision + 파일별 sha256)"]
+    end
+
+    subgraph BUILD["CorpusBuilder — DuckDB, works 단일 스캔 (~6min)"]
+        S1["① CS pool: works_topics ⋈ topics<br/>field=CS → 36.97M work_id"]
+        S2["② arXiv id 추출: locations URL 정규식"]
+        S3["③ candidates: 필터 플래그 + canonical 컬럼"]
+        S4["④ temporal: arXiv 스냅샷(day) → id YYMM(month)"]
+        S5["⑤ 필터 + arxiv_id dedup(citation 최다) + ORDER BY"]
+    end
+
+    subgraph L1["L1 · data/corpus/v0.1-poc — canonical corpus"]
+        P["papers.parquet<br/>947,716편 · PaperRecord v0.1"]
+        PT["paper_topics.parquet 2.7M행"]
+        CM["manifest.json<br/>(감사 카운트·sha256·code commit)"]
+    end
+
+    subgraph L2["L2 · data/views/&lt;name&gt; — benchmark view"]
+        V["paper_ids.parquet<br/>cutoff(first_public_date, strict month-end)<br/>+ GT/쌍둥이 exclusion"]
+        VM["view_manifest.json (base sha 체인)"]
+    end
+
+    subgraph L3["L3 · data/exports — agent-native export"]
+        EA["&lt;view&gt;.autosurvey.json<br/>TinyDB cs_paper_info"]
+        ES["&lt;view&gt;.surveyforge.json<br/>+ citation_count"]
+    end
+
+    FT["FullTextResolver (lazy)<br/>arXiv e-print → latex-v1 파서<br/>data/fulltext_cache — version+sha 동결"]
+
+    HF -- "mirror (1회, 재개 가능, sha 검증)" --> L0
+    HF -. "doctor/스모크만 hf:// 원격 뷰<br/>(대량 스캔 금지: point lookup 320s 실측)" .-> BUILD
+    W & WT & WL & TP --> S1 --> S2 --> S3 --> S4 --> S5 --> P
+    P --> PT
+    P -- "create-view" --> V
+    V -- "export-agent-db" --> EA & ES
+    P -. "arxiv_id 조회" .-> FT
+```
+
+### 시각화 — 4개 ASG Agent의 adaptation (Mermaid)
+
+각 agent는 **retrieval·임베딩 스택을 원형 그대로 유지**하고, 입력 데이터만 Common Corpus view로 교체한다.
+
+```mermaid
+flowchart LR
+    V["L2 view<br/>paper_ids"] --> EA["L3 export<br/>autosurvey.json"]
+    V --> ES["L3 export<br/>surveyforge.json"]
+    V --> DQ["DuckDB 직접 JOIN<br/>papers ⋈ view"]
+    FT["FullTextResolver<br/>(lazy full text)"]
+
+    subgraph A1["../AutoSurvey — 코드 수정 0줄"]
+        AB["scripts/build_index.py<br/>nomic-768d FAISS 재구축"]
+        AD["database_commoncorpus-&lt;view&gt;/<br/>TinyDB + FAISS ×2 + id map"]
+        AM["main.py --db_path 교체<br/>title/abs 임베딩 → 1200→60편"]
+    end
+    EA --> AB --> AD --> AM
+
+    subgraph A2["../SurveyForge — 원 retrieval stack 유지"]
+        SB["gte-large-1024d FAISS 재구축"]
+        SD["SURVEYFORGE_DB_DIR 교체<br/>citation_count 재랭킹 유지"]
+    end
+    ES --> SB --> SD
+
+    subgraph A3["../SurveyX — DataFetcher 대체"]
+        XF["common_corpus_fetcher.py<br/>search_on_arxiv = ILIKE 스캔(papers ⋈ view)<br/>search_on_google = 비활성(빈 목록)"]
+        XT["fill_md_text() — 필터 통과분만<br/>FullTextResolver 지연 확보 → AttributeTree"]
+    end
+    DQ --> XF --> XT
+    FT --> XT
+
+    subgraph A4["../LLMxMapReduce-v2 — 2-stage 입력 빌더"]
+        M1["scripts/retrieve_pool.py<br/>AutoSurvey retrieval stack 재사용<br/>topic별 ranked pool"]
+        M2["scripts/build_corpus_input.py<br/>pool 상위 → full text 확보<br/>→ input JSONL (EncodePipeline)"]
+    end
+    AD --> M1 --> M2
+    FT --> M2
+
+    style FT fill:#f5e6cc,stroke:#c90
+```
+
+Agent별 요점:
+| Agent | 교체 지점 | 유지되는 고유 스택 | full text |
+|---|---|---|---|
+| AutoSurvey | `--db_path` (0줄) | nomic 임베딩, RAG-outline-draft 파이프라인 | 불필요 (abstract만) |
+| SurveyForge | DB 디렉터리 env | gte 임베딩, citation rerank, outline DB | 불필요 |
+| SurveyX | DataFetcher 1클래스 | 키워드 recall→임베딩 필터, AttributeTree | resolver로 lazy (md_text) |
+| LLM×MapReduce-V2 | 입력 JSONL 빌더 | encode→map→reduce 파이프라인 | pool 전체 resolver 확보 |
+
 ### 재현성: manifest 체인
 
 ```
