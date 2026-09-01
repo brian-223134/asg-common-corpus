@@ -105,3 +105,9 @@ Crossref fallback은 arXiv id 식별률이 낮아(~50%) 수치가 하한임 — 
 - 탈락 후보도 refs.json과 감사 결과를 **삭제하지 않고 보존**한다 (탈락 사유가 곧 벤치마크 문서의 근거).
 - 감사 결과: `data/audit/candidates_report.json` (실행마다 갱신).
 - 최종 선정표는 확정 시 이 디렉터리에 `SELECTION.md`로 고정한다.
+
+## 7. 1차 전수 감사 결과 (2026-09-01)
+
+32편 감사 완료: 통과 1편(ai/instruction-tuning-llms, eligible 89%). 주 탈락 원인은 post-cutoff가
+아니라 eligible coverage(비-arXiv venue 문헌). 원인 분석과 처리 안건(선정층 vs corpus층)은
+`docs/benchmark-topic-selection.md` §4, 수치는 `data/audit/candidates_report.json`.
