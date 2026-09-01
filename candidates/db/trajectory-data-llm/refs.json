@@ -1,0 +1,2164 @@
+{
+  "candidate": {
+    "topic": "Trajectory Data Management and Mining",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2026.3719144",
+      "title": "Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era",
+      "published": "2026-01-01"
+    },
+    "notes": "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: TKDE. 출처: OpenAlex API (arXiv API 503 중 대체)"
+  },
+  "extracted_at": "2026-09-01T03:39:56+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 304,
+    "arxiv_resolvable": 85,
+    "doi_only": 206,
+    "unresolved": 13
+  },
+  "gt_s2": {
+    "paperId": "a9ed63d1a0949c4b890cae8851b8bfcaec28dd23",
+    "externalIds": {
+      "ArXiv": "2403.14151",
+      "DOI": "10.1109/tkde.2026.3719144",
+      "CorpusId": 268553646
+    },
+    "title": "Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "year": 2024,
+    "referenceCount": 304,
+    "publicationDate": "2024-03-21"
+  },
+  "refs": [
+    {
+      "title": "RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human Mobility",
+      "arxiv_id": "2509.23115",
+      "doi": "10.48550/arXiv.2509.23115",
+      "publicationDate": "2025-09-27",
+      "year": 2025
+    },
+    {
+      "title": "Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?",
+      "arxiv_id": "2509.00053",
+      "doi": "10.1145/3770854.3780225",
+      "publicationDate": "2025-08-25",
+      "year": 2025
+    },
+    {
+      "title": "Towards Foundation Model for Spatiotemporal Data Analysis",
+      "arxiv_id": null,
+      "doi": "10.1145/3748777.3748811",
+      "publicationDate": "2025-08-25",
+      "year": 2025
+    },
+    {
+      "title": "MobQA: A Benchmark Dataset for Semantic Understanding of Human Mobility Data through Question Answering",
+      "arxiv_id": "2508.11163",
+      "doi": "10.48550/arXiv.2508.11163",
+      "publicationDate": "2025-08-15",
+      "year": 2025
+    },
+    {
+      "title": "UniMove: A Unified Model for Multi-city Human Mobility Prediction",
+      "arxiv_id": "2508.06986",
+      "doi": "10.48550/arXiv.2508.06986",
+      "publicationDate": "2025-08-09",
+      "year": 2025
+    },
+    {
+      "title": "MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models",
+      "arxiv_id": "2506.21784",
+      "doi": "10.1109/ITSC60802.2025.11423465",
+      "publicationDate": "2025-06-26",
+      "year": 2025
+    },
+    {
+      "title": "CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation",
+      "arxiv_id": "2506.13599",
+      "doi": "10.48550/arXiv.2506.13599",
+      "publicationDate": "2025-06-16",
+      "year": 2025
+    },
+    {
+      "title": "Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning",
+      "arxiv_id": "2506.06694",
+      "doi": "10.48550/arXiv.2506.06694",
+      "publicationDate": "2025-06-07",
+      "year": 2025
+    },
+    {
+      "title": "Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting",
+      "arxiv_id": "2506.00635",
+      "doi": "10.48550/arXiv.2506.00635",
+      "publicationDate": "2025-05-31",
+      "year": 2025
+    },
+    {
+      "title": "Aligning LLM with human travel choices: a persona-based embedding learning approach",
+      "arxiv_id": "2505.19003",
+      "doi": "10.48550/arXiv.2505.19003",
+      "publicationDate": "2025-05-25",
+      "year": 2025
+    },
+    {
+      "title": "MoveGPT: Scaling Mobility Foundation Models with Spatially-Aware Mixture of Experts",
+      "arxiv_id": "2505.18670",
+      "doi": null,
+      "publicationDate": "2025-05-24",
+      "year": 2025
+    },
+    {
+      "title": "Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision",
+      "arxiv_id": "2505.17437",
+      "doi": "10.1145/3711896.3737019",
+      "publicationDate": "2025-05-23",
+      "year": 2025
+    },
+    {
+      "title": "Towards An Efficient and Effective En Route Travel Time Estimation Framework",
+      "arxiv_id": "2504.04086",
+      "doi": "10.48550/arXiv.2504.04086",
+      "publicationDate": "2025-04-05",
+      "year": 2025
+    },
+    {
+      "title": "Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/TIV.2024.3418522",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "BIGCity: A Universal Spatiotemporal Model for Unified Trajectory and Traffic State Data Analysis",
+      "arxiv_id": "2412.00953",
+      "doi": "10.1109/ICDE65448.2025.00334",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces",
+      "arxiv_id": "2411.03859",
+      "doi": "10.48550/arXiv.2411.03859",
+      "publicationDate": "2024-11-06",
+      "year": 2024
+    },
+    {
+      "title": "TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration",
+      "arxiv_id": "2410.20445",
+      "doi": null,
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models",
+      "arxiv_id": "2410.14281",
+      "doi": "10.52202/085713-3943",
+      "publicationDate": "2024-10-18",
+      "year": 2024
+    },
+    {
+      "title": "Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting",
+      "arxiv_id": "2410.12593",
+      "doi": "10.48550/arXiv.2410.12593",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach",
+      "arxiv_id": "2408.17258",
+      "doi": "10.1016/j.tre.2025.104075",
+      "publicationDate": "2024-08-30",
+      "year": 2024
+    },
+    {
+      "title": "AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction",
+      "arxiv_id": "2408.13986",
+      "doi": null,
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "TrajFM: A Vehicle Trajectory Foundation Model for Region and Task Transferability",
+      "arxiv_id": "2408.15251",
+      "doi": "10.48550/arXiv.2408.15251",
+      "publicationDate": "2024-08-09",
+      "year": 2024
+    },
+    {
+      "title": "Learning Semantic Behavior for Human Mobility Trajectory Recovery",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2024.3350234",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "EgoMUIL: Enhancing Spatio-Temporal User Identity Linkage in Location-Based Social Networks With Ego-Mo Hypergraph",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3345312",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories",
+      "arxiv_id": "2405.12459",
+      "doi": "10.24963/ijcai.2025/411",
+      "publicationDate": "2024-05-21",
+      "year": 2024
+    },
+    {
+      "title": "TrajBERT: BERT-Based Trajectory Recovery With Spatial-Temporal Refinement for Implicit Sparse Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2023.3297115",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Towards Robust Trajectory Representations: Isolating Environmental Confounders with Causal Learning",
+      "arxiv_id": "2404.14073",
+      "doi": "10.48550/arXiv.2404.14073",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "COLA: Cross-city Mobility Transformer for Human Trajectory Simulation",
+      "arxiv_id": "2403.01801",
+      "doi": "10.1145/3589334.3645469",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Route Recommendations: Methods, Applications, and Opportunities",
+      "arxiv_id": "2403.00284",
+      "doi": "10.48550/arXiv.2403.00284",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "DF-DRUNet: A decoder fusion model for automatic road extraction leveraging remote sensing images and GPS trajectory data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jag.2023.103632",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook",
+      "arxiv_id": "2402.19348",
+      "doi": "10.1016/j.inffus.2024.102606.",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Diff-RNTraj: A Structure-Aware Diffusion Model for Road Network-Constrained Trajectory Generation",
+      "arxiv_id": "2402.07369",
+      "doi": "10.1109/TKDE.2024.3460051",
+      "publicationDate": "2024-02-12",
+      "year": 2024
+    },
+    {
+      "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+      "arxiv_id": "2402.01622",
+      "doi": "10.48550/arXiv.2402.01622",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "MobilityDL: a review of deep learning from trajectory data",
+      "arxiv_id": "2402.00732",
+      "doi": "10.1007/s10707-024-00518-8",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "MCN4Rec: Multi-level Collaborative Neural Network for Next Location Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3643669",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "GraphMM: Graph-Based Vehicular Map Matching by Leveraging Trajectory and Road Correlations",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2023.3287739",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "VisionTraj: A Noise-Robust Trajectory Recovery Framework Based on Large-Scale Camera Network",
+      "arxiv_id": "2312.06428",
+      "doi": "10.1109/TITS.2025.3583187",
+      "publicationDate": "2023-12-11",
+      "year": 2023
+    },
+    {
+      "title": "FL-AMM: Federated Learning Augmented Map Matching With Heterogeneous Cellular Moving Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2023.3322841",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Exploring Large Language Models for Human Mobility Prediction under Public Events",
+      "arxiv_id": "2311.17351",
+      "doi": "10.48550/arXiv.2311.17351",
+      "publicationDate": "2023-11-29",
+      "year": 2023
+    },
+    {
+      "title": "Collectively Simplifying Trajectories in a Database: A Query Accuracy Driven Approach",
+      "arxiv_id": "2311.11204",
+      "doi": "10.1109/ICDE60146.2024.00334",
+      "publicationDate": "2023-11-19",
+      "year": 2023
+    },
+    {
+      "title": "Trajectory Similarity Measurement: An Efficiency Perspective",
+      "arxiv_id": "2311.00960",
+      "doi": "10.48550/arXiv.2311.00960",
+      "publicationDate": "2023-11-02",
+      "year": 2023
+    },
+    {
+      "title": "Self-supervised contrastive representation learning for large-scale trajectories",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.05.033",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "TERI: An Effective Framework for Trajectory Recovery with Irregular Time Intervals",
+      "arxiv_id": null,
+      "doi": "10.14778/3632093.3632105",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "arxiv_id": "2310.10196",
+      "doi": "10.1145/3821637",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "Graph based embedding learning of trajectory data for transportation mode recognition by fusing sequence and dependency relations",
+      "arxiv_id": null,
+      "doi": "10.1080/13658816.2023.2268668",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction",
+      "arxiv_id": "2309.09500",
+      "doi": "10.1145/3583780.3615016",
+      "publicationDate": "2023-09-18",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Service Route and Time Prediction in Instant Delivery: Taxonomy, Progress, and Prospects",
+      "arxiv_id": "2309.01194",
+      "doi": "10.1109/TKDE.2024.3441309",
+      "publicationDate": "2023-09-03",
+      "year": 2023
+    },
+    {
+      "title": "Where Would I Go Next? Large Language Models as Human Mobility Predictors",
+      "arxiv_id": "2308.15197",
+      "doi": "10.48550/arXiv.2308.15197",
+      "publicationDate": "2023-08-29",
+      "year": 2023
+    },
+    {
+      "title": "Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi",
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599925",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Open Anomalous Trajectory Recognition via Probabilistic Metric Learning",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2023/233",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "LightPath: Lightweight and Scalable Path Representation Learning",
+      "arxiv_id": "2307.10171",
+      "doi": "10.1145/3580305.3599415",
+      "publicationDate": "2023-07-19",
+      "year": 2023
+    },
+    {
+      "title": "TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3592074",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Map-matching on Wireless Traffic Sensor Data with a Sequence-to-Sequence Model",
+      "arxiv_id": null,
+      "doi": "10.1109/MDM58254.2023.00048",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i4.25624",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "Graph Structure Learning on User Mobility Data for Social Relationship Inference",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i4.25580",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "LaDe: The First Comprehensive Last-mile Delivery Dataset from Industry",
+      "arxiv_id": "2306.10675",
+      "doi": "10.48550/arXiv.2306.10675",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Ghost: A General Framework for High-Performance Online Similarity Queries over Distributed Trajectory Streams",
+      "arxiv_id": null,
+      "doi": "10.1145/3589318",
+      "publicationDate": "2023-06-13",
+      "year": 2023
+    },
+    {
+      "title": "A Framework of Travel Mode Identification Fusing Deep Learning and Map-Matching Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2023.3250660",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Travel Time Distribution Estimation by Learning Representations Over Temporal Attributed Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2023.3247884",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Dual Graph Convolution Architecture Search for Travel Time Estimation",
+      "arxiv_id": null,
+      "doi": "10.1145/3591361",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Traj2Traj: A road network constrained spatiotemporal interpolation model for traffic trajectory restoration",
+      "arxiv_id": null,
+      "doi": "10.1111/tgis.13048",
+      "publicationDate": "2023-04-24",
+      "year": 2023
+    },
+    {
+      "title": "DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model",
+      "arxiv_id": "2304.11582",
+      "doi": "10.52202/075280-2843",
+      "publicationDate": "2023-04-23",
+      "year": 2023
+    },
+    {
+      "title": "A Lightweight Framework for Fast Trajectory Simplification",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE55515.2023.00184",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey",
+      "arxiv_id": "2303.14483",
+      "doi": "10.1109/TKDE.2023.3333824",
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study",
+      "arxiv_id": "2303.05012",
+      "doi": "10.1109/TKDE.2023.3323535",
+      "publicationDate": "2023-03-09",
+      "year": 2023
+    },
+    {
+      "title": "Citywide Estimation of Travel Time Distributions With Bayesian Deep Graph Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3117986",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Distributional and spatial-temporal robust representation learning for transportation activity recognition",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2023.109568",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "S2TUL: A Semi-Supervised Framework for Trajectory-User Linking",
+      "arxiv_id": null,
+      "doi": "10.1145/3539597.3570410",
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks",
+      "arxiv_id": "2302.10903",
+      "doi": "10.1145/3635718",
+      "publicationDate": "2023-02-11",
+      "year": 2023
+    },
+    {
+      "title": "Learning to Simulate Daily Activities via Modeling Dynamic Human Needs",
+      "arxiv_id": "2302.10897",
+      "doi": "10.1145/3543507.3583276",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "TrajMesa: A Distributed NoSQL-Based Trajectory Data Management System",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3079880",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3077056",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Trajectory-as-A-Sequence: A Novel Travel Mode Identification Framework",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4137914",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Estimator: An Effective and Scalable Framework for Transportation Mode Classification Over Trajectories",
+      "arxiv_id": "2212.05502",
+      "doi": "10.1109/TITS.2024.3445652",
+      "publicationDate": "2022-12-11",
+      "year": 2022
+    },
+    {
+      "title": "PATR: Periodicity-Aware Trajectory Recovery for Express System via Seq2Seq Model",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM48099.2022.10001476",
+      "publicationDate": "2022-12-04",
+      "year": 2022
+    },
+    {
+      "title": "CatETA: A Categorical Approximate Approach for Estimating Time of Arrival",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2022.3207894",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Cross-Area Travel Time Uncertainty Estimation From Trajectory Data: A Federated Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2022.3203457",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Traffic Prediction using Artificial Intelligence: Review of Recent Advances and Emerging Opportunities",
+      "arxiv_id": "2305.19591",
+      "doi": "10.1016/j.trc.2022.103921",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer",
+      "arxiv_id": "2211.13234",
+      "doi": "10.1109/ICDE55515.2023.00069",
+      "publicationDate": "2022-11-23",
+      "year": 2022
+    },
+    {
+      "title": "Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning",
+      "arxiv_id": "2211.08415",
+      "doi": "10.1109/ICDE55515.2023.00026",
+      "publicationDate": "2022-11-12",
+      "year": 2022
+    },
+    {
+      "title": "Dual-grained human mobility learning for location-aware trip recommendation with spatial-temporal graph knowledge fusion",
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2022.11.018",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Route Travel Time Estimation on A Road Network Revisited: Heterogeneity, Proximity, Periodicity and Dynamicity",
+      "arxiv_id": null,
+      "doi": "10.14778/3570690.3570691",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "A survey of urban visual analytics: Advances and future directions",
+      "arxiv_id": null,
+      "doi": "10.1007/s41095-022-0275-7",
+      "publicationDate": "2022-10-18",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Trajectory Similarity Computation with Contrastive Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557308",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "TrajFormer: Efficient Trajectory Classification with Transformers",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557481",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Trajectory Similarity Learning with Dual-Feature Attention",
+      "arxiv_id": "2210.05155",
+      "doi": "10.1109/ICDE55515.2023.00224",
+      "publicationDate": "2022-10-11",
+      "year": 2022
+    },
+    {
+      "title": "How do you go where?: improving next location prediction by learning travel mode information using transformers",
+      "arxiv_id": "2210.04095",
+      "doi": "10.1145/3557915.3560996",
+      "publicationDate": "2022-10-08",
+      "year": 2022
+    },
+    {
+      "title": "Spatial-temporal fusion graph framework for trajectory similarity computation",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-022-01089-0",
+      "publicationDate": "2022-09-22",
+      "year": 2022
+    },
+    {
+      "title": "Classifying Spatial Trajectories",
+      "arxiv_id": "2209.01322",
+      "doi": "10.48550/arXiv.2209.01322",
+      "publicationDate": "2022-09-03",
+      "year": 2022
+    },
+    {
+      "title": "TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding",
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2020.3038259",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539358",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539051",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-022-01085-4",
+      "publicationDate": "2022-08-09",
+      "year": 2022
+    },
+    {
+      "title": "L2MM: Learning to Map Matching with Deep Models for Low-Quality GPS Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3550486",
+      "publicationDate": "2022-07-26",
+      "year": 2022
+    },
+    {
+      "title": "MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2022/281",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal Adaptation Matters",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2022/282",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Toward Point-of-Interest Recommendation Systems: A Critical Review on Deep-Learning Approaches",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics11131998",
+      "publicationDate": "2022-06-26",
+      "year": 2022
+    },
+    {
+      "title": "TraClets: Harnessing the power of computer vision for trajectory classification",
+      "arxiv_id": "2205.13880",
+      "doi": "10.48550/arXiv.2205.13880",
+      "publicationDate": "2022-05-27",
+      "year": 2022
+    },
+    {
+      "title": "Mutual Distillation Learning Network for Trajectory-User Linking",
+      "arxiv_id": "2205.03773",
+      "doi": "10.48550/arXiv.2205.03773",
+      "publicationDate": "2022-05-08",
+      "year": 2022
+    },
+    {
+      "title": "TraSS: Efficient Trajectory Similarity Search Based on Key-Value Data Stores",
+      "arxiv_id": null,
+      "doi": "10.1109/icde53745.2022.00218",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "TMN: Trajectory Matching Networks for Predicting Similarity",
+      "arxiv_id": null,
+      "doi": "10.1109/icde53745.2022.00173",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "CoDriver ETA: Combine Driver Information in Estimated Time of Arrival by Driving Style Learning Auxiliary Task",
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2020.3040386",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "X-FIST: Extended flood index for efficient similarity search in massive trajectory dataset",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2022.05.062",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Weakly-supervised Temporal Path Representation Learning with Contrastive Curriculum Learning",
+      "arxiv_id": "2203.16110",
+      "doi": "10.48550/arXiv.2203.16110",
+      "publicationDate": "2022-03-30",
+      "year": 2022
+    },
+    {
+      "title": "Context-aware road travel time estimation by coupled tensor decomposition based on trajectory data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2022.108596",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection",
+      "arxiv_id": null,
+      "doi": "10.14778/3523210.3523225",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Personalized Long-distance Fuel-efficient Route Recommendation Through Historical Trajectories Mining",
+      "arxiv_id": null,
+      "doi": "10.1145/3488560.3498512",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "A Multi-Scale Attributes Attention Model for Transport Mode Identification",
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2020.3008469",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2022.01.001",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Similar Trajectory Search with Spatio-Temporal Deep Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3466687",
+      "publicationDate": "2021-12-31",
+      "year": 2021
+    },
+    {
+      "title": "Spatio-Temporal Trajectory Similarity Learning in Road Networks",
+      "arxiv_id": "2112.09339",
+      "doi": "10.1145/3534678.3539375",
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "Personalized Path Recommendation with Specified Way-points Based on Trajectory Representations",
+      "arxiv_id": null,
+      "doi": "10.1109/MSN53354.2021.00067",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Improving Transportation Mode Identification with Limited GPS Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTAI52525.2021.00104",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3482284",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility Prediction",
+      "arxiv_id": "2110.01401",
+      "doi": null,
+      "publicationDate": "2021-09-30",
+      "year": 2021
+    },
+    {
+      "title": "Self-supervised human mobility learning for next location prediction and trajectory classification",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2021.107214",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Embedding-Based Similarity Computation for Massive Vehicle Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3107327",
+      "publicationDate": "2021-08-24",
+      "year": 2021
+    },
+    {
+      "title": "Semi-Supervised Federated Learning for Travel Mode Identification From GPS Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2021.3092015",
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "Generating Mobility Trajectories with Retained Data Utility",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467158",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467337",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Error-Bounded Online Trajectory Simplification with Multi-Agent Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467351",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "MTrajRec: Map-Constrained Trajectory Recovery via Seq2Seq Multi-task Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467238",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467060",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "ProgRPGAN: Progressive GAN for Route Planning",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467406",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Modeling Trajectories with Neural Ordinary Differential Equations",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/207",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "On Accurate Computation of Trajectory Similarity via Single Image Super-Resolution",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN52387.2021.9533802",
+      "publicationDate": "2021-07-18",
+      "year": 2021
+    },
+    {
+      "title": "Unsupervised Path Representation Learning with Curriculum Negative Sampling",
+      "arxiv_id": "2106.09373",
+      "doi": "10.24963/ijcai.2021/452",
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Milvus: A Purpose-Built Vector Data Management System",
+      "arxiv_id": null,
+      "doi": "10.1145/3448016.3457550",
+      "publicationDate": "2021-06-09",
+      "year": 2021
+    },
+    {
+      "title": "TaxiBJ21: An open crowd flow dataset based on Beijing taxi GPS trajectories",
+      "arxiv_id": null,
+      "doi": "10.1002/itl2.297",
+      "publicationDate": "2021-04-26",
+      "year": 2021
+    },
+    {
+      "title": "MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.14778/3457390.3457394",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE51399.2021.00066",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Deep learning detection of anomalous patterns from bus trajectories for traffic insight analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.106833",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Trajectory Simplification with Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE51399.2021.00065",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "T3S: Effective Representation Learning for Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE51399.2021.00221",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "TRACE: Real-time Compression of Streaming Trajectories in Road Networks",
+      "arxiv_id": null,
+      "doi": "10.14778/3450980.3450987",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Dragoon: a hybrid and efficient big trajectory management system for offline and online analytics",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-021-00652-x",
+      "publicationDate": "2021-02-03",
+      "year": 2021
+    },
+    {
+      "title": "A Survey and Experimental Study on Privacy-Preserving Trajectory Data Publishing",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2022.3174204",
+      "publicationDate": "2021-01-31",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Traffic Prediction: from Spatio-Temporal Data to Intelligent Transportation",
+      "arxiv_id": null,
+      "doi": "10.1007/s41019-020-00151-z",
+      "publicationDate": "2021-01-23",
+      "year": 2021
+    },
+    {
+      "title": "AttnMove: History Enhanced Trajectory Recovery via Attentional Network",
+      "arxiv_id": "2101.00646",
+      "doi": "10.1609/aaai.v35i5.16577",
+      "publicationDate": "2021-01-03",
+      "year": 2021
+    },
+    {
+      "title": "Privacy-Preserving Travel Time Prediction With Uncertainty Using GPS Trace Data",
+      "arxiv_id": "2101.00310",
+      "doi": "10.1109/TMC.2021.3074865",
+      "publicationDate": "2021-01-02",
+      "year": 2021
+    },
+    {
+      "title": "DeepMM: Deep Learning Based Map Matching With Data Augmentation",
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2020.3043500",
+      "publicationDate": "2020-12-09",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Deep Learning for Human Mobility",
+      "arxiv_id": "2012.02825",
+      "doi": "10.1145/3485125",
+      "publicationDate": "2020-12-04",
+      "year": 2020
+    },
+    {
+      "title": "A Deep Gravity model for mobility flows generation",
+      "arxiv_id": "2012.00489",
+      "doi": "10.1038/s41467-021-26752-4",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations",
+      "arxiv_id": "2011.10187",
+      "doi": "10.1016/j.neucom.2021.05.114",
+      "publicationDate": "2020-11-20",
+      "year": 2020
+    },
+    {
+      "title": "Grab-Posisi-L: A Labelled GPS Trajectory Dataset for Map Matching in Southeast Asia",
+      "arxiv_id": null,
+      "doi": "10.1145/3397536.3422218",
+      "publicationDate": "2020-11-03",
+      "year": 2020
+    },
+    {
+      "title": "Multi-Attention 3D Residual Neural Network for Origin-Destination Crowd Flow Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM50108.2020.00142",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Multi-Modal Transportation Recommendation with Unified Route Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.5555/3430915.3442433",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "A Visual Analytics System for Exploring, Monitoring, and Forecasting Road Traffic Congestion",
+      "arxiv_id": null,
+      "doi": "10.1109/TVCG.2019.2922597",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep learning-assisted comparative analysis of animal trajectories with DeepHL",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-020-19105-0",
+      "publicationDate": "2020-10-20",
+      "year": 2020
+    },
+    {
+      "title": "Unsupervised Deep Learning for GPS-Based Transportation Mode Identification",
+      "arxiv_id": null,
+      "doi": "10.1109/ITSC45102.2020.9294673",
+      "publicationDate": "2020-09-20",
+      "year": 2020
+    },
+    {
+      "title": "DMM: fast map matching for cellular data",
+      "arxiv_id": null,
+      "doi": "10.1145/3372224.3421461",
+      "publicationDate": "2020-09-18",
+      "year": 2020
+    },
+    {
+      "title": "A BiLSTM-CNN model for predicting users’ next locations based on geotagged social media",
+      "arxiv_id": null,
+      "doi": "10.1080/13658816.2020.1808896",
+      "publicationDate": "2020-08-26",
+      "year": 2020
+    },
+    {
+      "title": "The Case for Learned Spatial Indexes",
+      "arxiv_id": "2008.10349",
+      "doi": null,
+      "publicationDate": "2020-08-24",
+      "year": 2020
+    },
+    {
+      "title": "Generative Adversarial Networks for Spatio-temporal Data: A Survey",
+      "arxiv_id": "2008.08903",
+      "doi": "10.1145/3474838",
+      "publicationDate": "2020-08-18",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for Intelligent Transportation Systems: A Survey of Emerging Trends",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2019.2929020",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2020.106302",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2020.3010022",
+      "publicationDate": "2020-07-17",
+      "year": 2020
+    },
+    {
+      "title": "CompactETA: A Fast Inference System for Travel Time Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403386",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403294",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Learning Effective Road Network Representation with Hierarchical Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403043",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403320",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Learning to Simulate Human Mobility",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3412862",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/302",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Effectively learning spatial indices",
+      "arxiv_id": null,
+      "doi": "10.14778/3407790.3407829",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/440",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Predicting the Trajectory of Any COVID19 Epidemic From the Best Straight Line",
+      "arxiv_id": null,
+      "doi": "10.1101/2020.06.26.20140814",
+      "publicationDate": "2020-06-28",
+      "year": 2020
+    },
+    {
+      "title": "Road Network Metric Learning for Estimated Time of Arrival",
+      "arxiv_id": "2006.13477",
+      "doi": "10.1109/ICPR48806.2021.9412145",
+      "publicationDate": "2020-06-24",
+      "year": 2020
+    },
+    {
+      "title": "Coupled IGMM-GANs with Applications to Anomaly Detection in Human Mobility Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3385809",
+      "publicationDate": "2020-06-03",
+      "year": 2020
+    },
+    {
+      "title": "Citywide Traffic Flow Prediction Based on Multiple Gated Spatio-temporal Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3385414",
+      "publicationDate": "2020-05-30",
+      "year": 2020
+    },
+    {
+      "title": "LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2020.2997869",
+      "publicationDate": "2020-05-26",
+      "year": 2020
+    },
+    {
+      "title": "Trajectory-User Linking with Attentive Recurrent Network",
+      "arxiv_id": null,
+      "doi": "10.65109/gyxf5534",
+      "publicationDate": "2020-05-05",
+      "year": 2020
+    },
+    {
+      "title": "Semi-Supervised Deep Learning Approach for Transportation Mode Identification Using GPS Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2019.2896985",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Social Link Inference via Multiview Matching Network From Spatiotemporal Trajectories",
+      "arxiv_id": "2103.11095",
+      "doi": "10.1109/TNNLS.2020.2986472",
+      "publicationDate": "2020-04-27",
+      "year": 2020
+    },
+    {
+      "title": "Learning to Generate Maps from Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5435",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE48307.2020.00087",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Traffic Flow Imputation Using Parallel Data and Generative Adversarial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2019.2910295",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Trajectory Data Management, Analytics, and Learning",
+      "arxiv_id": "2003.11547",
+      "doi": "10.1145/3440207",
+      "publicationDate": "2020-03-25",
+      "year": 2020
+    },
+    {
+      "title": "Semi-supervised deep ensemble learning for travel mode identification",
+      "arxiv_id": null,
+      "doi": "10.1016/j.trc.2020.01.003",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "Efficiently Targeted Billboard Advertising Using Crowdsensing Vehicle Trajectory Data",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2019.2891258",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Mobility Learning for Human Trajectory Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2968935",
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "A comprehensive survey on trajectory-based location prediction",
+      "arxiv_id": null,
+      "doi": "10.1007/s42044-019-00052-z",
+      "publicationDate": "2020-01-10",
+      "year": 2020
+    },
+    {
+      "title": "TrafficGAN: Network-Scale Deep Traffic Prediction With Generative Adversarial Nets",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2019.2955794",
+      "publicationDate": "2019-12-17",
+      "year": 2019
+    },
+    {
+      "title": "Learning Improvement Heuristics for Solving Routing Problems",
+      "arxiv_id": "1912.05784",
+      "doi": "10.1109/TNNLS.2021.3068828",
+      "publicationDate": "2019-12-12",
+      "year": 2019
+    },
+    {
+      "title": "DETECT: Deep Trajectory Clustering for Mobility-Behavior Analysis",
+      "arxiv_id": "2003.01351",
+      "doi": "10.1109/BigData47090.2019.9006561",
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Learning to Effectively Estimate the Travel Time for Fastest Route Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3357384.3357907",
+      "publicationDate": "2019-11-03",
+      "year": 2019
+    },
+    {
+      "title": "Evacuation route recommendation using auto-encoder and Markov decision process",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2019.105741",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Spatio-Temporal GRU for Trajectory Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2019.00152",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "A Survey and Comparison of Trajectory Classification Methods",
+      "arxiv_id": null,
+      "doi": "10.1109/BRACIS.2019.00141",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2019.2940950",
+      "publicationDate": "2019-09-12",
+      "year": 2019
+    },
+    {
+      "title": "DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation",
+      "arxiv_id": "1909.05637",
+      "doi": "10.1145/3357384.3357870",
+      "publicationDate": "2019-09-05",
+      "year": 2019
+    },
+    {
+      "title": "A Survey on Spatial Prediction Methods",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2018.2866809",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330654",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "Effective and Efficient Sports Play Retrieval with Deep Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330927",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for Spatio-Temporal Data Mining: A Survey",
+      "arxiv_id": "1906.04928",
+      "doi": "10.1109/tkde.2020.3025580",
+      "publicationDate": "2019-06-11",
+      "year": 2019
+    },
+    {
+      "title": "Real-time Distributed Co-Movement Pattern Detection on Streaming Trajectories",
+      "arxiv_id": null,
+      "doi": "10.14778/3339490.3339502",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313424",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313635",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Predicting Human Mobility via Variational Attention",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313610",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Survey of ETA prediction methods in public transport networks",
+      "arxiv_id": "1904.05037",
+      "doi": null,
+      "publicationDate": "2019-04-10",
+      "year": 2019
+    },
+    {
+      "title": "Distributed In-memory Trajectory Similarity Search and Join on Road Network",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00115",
+      "publicationDate": "2019-04-08",
+      "year": 2019
+    },
+    {
+      "title": "Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00123",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks",
+      "arxiv_id": "1903.07789",
+      "doi": "10.1109/TKDE.2020.3008774",
+      "publicationDate": "2019-03-19",
+      "year": 2019
+    },
+    {
+      "title": "UrbanFM: Inferring Fine-Grained Urban Flows",
+      "arxiv_id": "1902.05377",
+      "doi": "10.1145/3292500.3330646",
+      "publicationDate": "2019-02-06",
+      "year": 2019
+    },
+    {
+      "title": "Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data",
+      "arxiv_id": null,
+      "doi": "10.1109/TVCG.2018.2864503",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "GANs Based Density Distribution Privacy-Preservation on Mobility Data",
+      "arxiv_id": null,
+      "doi": "10.1155/2018/9203076",
+      "publicationDate": "2018-12-02",
+      "year": 2018
+    },
+    {
+      "title": "Anomalous Trajectory Detection Using Recurrent Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-05090-0_23",
+      "publicationDate": "2018-11-16",
+      "year": 2018
+    },
+    {
+      "title": "Trajectory-based social circle inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3274895.3274908",
+      "publicationDate": "2018-11-06",
+      "year": 2018
+    },
+    {
+      "title": "Price-and-Time-Aware Dynamic Ridesharing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2018.00099",
+      "publicationDate": "2018-10-24",
+      "year": 2018
+    },
+    {
+      "title": "Friend Recommendation in Location-Based Social Networks via Deep Pairwise Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ASONAM.2018.8508362",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Multi-task Representation Learning for Travel Time Estimation",
+      "arxiv_id": null,
+      "doi": "10.1145/3219819.3220033",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Learning to Estimate the Travel Time",
+      "arxiv_id": null,
+      "doi": "10.1145/3219819.3219900",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Trip2Vec: a deep embedding approach for clustering and profiling taxi trip purposes",
+      "arxiv_id": null,
+      "doi": "10.1007/s00779-018-1175-9",
+      "publicationDate": "2018-07-09",
+      "year": 2018
+    },
+    {
+      "title": "Trajectory-User Linking via Variational AutoEncoder",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/446",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/519",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "A Non-Parametric Generative Model for Human Trajectories",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/530",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Content-Aware Hierarchical Point-of-Interest Embedding Model for Successive POI Recommendation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/458",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Vector-Based Trajectory Storage and Query for Intelligent Transport System",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2017.2726103",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Walking down a Different Path: Route Recommendation based on Visual and Facility based Diversity",
+      "arxiv_id": null,
+      "doi": "10.1145/3184558.3186971",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "Deep Representation Learning for Trajectory Similarity Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2018.00062",
+      "publicationDate": "2018-04-16",
+      "year": 2018
+    },
+    {
+      "title": "Location prediction on trajectory data: A review",
+      "arxiv_id": null,
+      "doi": "10.26599/BDMA.2018.9020010",
+      "publicationDate": "2018-04-12",
+      "year": 2018
+    },
+    {
+      "title": "DeepMove: Predicting Human Mobility with Attentional Recurrent Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3178876.3186058",
+      "publicationDate": "2018-04-10",
+      "year": 2018
+    },
+    {
+      "title": "Spatio-Temporal Recurrent Convolutional Networks for Citywide Short-term Crowd Flows Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3193077.3193082",
+      "publicationDate": "2018-03-23",
+      "year": 2018
+    },
+    {
+      "title": "Fast map matching, an algorithm integrating hidden Markov model with precomputation",
+      "arxiv_id": null,
+      "doi": "10.1080/13658816.2017.1400548",
+      "publicationDate": "2018-03-04",
+      "year": 2018
+    },
+    {
+      "title": "Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction",
+      "arxiv_id": "1803.01254",
+      "doi": "10.1609/aaai.v33i01.33015668",
+      "publicationDate": "2018-03-03",
+      "year": 2018
+    },
+    {
+      "title": "UlTraMan: A Unified Platform for Big Trajectory Data Management and Analytics",
+      "arxiv_id": null,
+      "doi": "10.14778/3192965.3192970",
+      "publicationDate": "2018-03-01",
+      "year": 2018
+    },
+    {
+      "title": "Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction",
+      "arxiv_id": "1802.08714",
+      "doi": "10.1609/aaai.v32i1.11836",
+      "publicationDate": "2018-02-23",
+      "year": 2018
+    },
+    {
+      "title": "A survey on trajectory clustering analysis",
+      "arxiv_id": "1802.06971",
+      "doi": null,
+      "publicationDate": "2018-02-20",
+      "year": 2018
+    },
+    {
+      "title": "DeepTravel: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision",
+      "arxiv_id": "1802.02147",
+      "doi": "10.24963/ijcai.2018/508",
+      "publicationDate": "2018-02-06",
+      "year": 2018
+    },
+    {
+      "title": "When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v32i1.11877",
+      "publicationDate": "2018-01-16",
+      "year": 2018
+    },
+    {
+      "title": "Vector Autoregressive Models: Specification, Estimation, Inference, and Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1111/B.9780631215585.1999.00003.X",
+      "publicationDate": "2017-12-07",
+      "year": 2017
+    },
+    {
+      "title": "A Fast Trajectory Outlier Detection Approach via Driving Behavior Modeling",
+      "arxiv_id": null,
+      "doi": "10.1145/3132847.3132933",
+      "publicationDate": "2017-11-06",
+      "year": 2017
+    },
+    {
+      "title": "End-to-end trajectory transportation mode classification using Bi-LSTM recurrent neural network",
+      "arxiv_id": null,
+      "doi": "10.1109/ISKE.2017.8258799",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "An innovative GPS trajectory data based model for geographic recommendation service",
+      "arxiv_id": null,
+      "doi": "10.1111/tgis.12248",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "Human mobility: Models and applications",
+      "arxiv_id": "1710.00004",
+      "doi": "10.1016/j.physrep.2018.01.001",
+      "publicationDate": "2017-09-29",
+      "year": 2017
+    },
+    {
+      "title": "A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space‐Time Cubes",
+      "arxiv_id": null,
+      "doi": "10.1111/cgf.12804",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Identifying Human Mobility via Trajectory Embeddings",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2017/234",
+      "publicationDate": "2017-08-19",
+      "year": 2017
+    },
+    {
+      "title": "Distributed Trajectory Similarity Search",
+      "arxiv_id": null,
+      "doi": "10.14778/3137628.3137655",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Trajectory Similarity Join in Spatial Networks",
+      "arxiv_id": null,
+      "doi": "10.14778/3137628.3137630",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "TrajectoryNet: an embedded GPS trajectory representation for point-based classification using recurrent neural networks",
+      "arxiv_id": "1705.02636",
+      "doi": null,
+      "publicationDate": "2017-05-07",
+      "year": 2017
+    },
+    {
+      "title": "Efficient Metric Indexing for Similarity Search and Similarity Joins",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2015.2506556",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "Trajectory data mining: A review of methods and applications",
+      "arxiv_id": null,
+      "doi": "10.5311/JOSIS.2016.13.263",
+      "publicationDate": "2016-12-21",
+      "year": 2016
+    },
+    {
+      "title": "Traffic Speed Prediction and Congestion Source Exploration: A Deep Learning Method",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2016.0061",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction",
+      "arxiv_id": "1610.00081",
+      "doi": "10.1609/aaai.v31i1.10735",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "GMove: Group-Level Mobility Modeling Using Geo-Tagged Social Media",
+      "arxiv_id": null,
+      "doi": "10.1145/2939672.2939793",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "Classifying spatial trajectories using representation learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s41060-016-0014-1",
+      "publicationDate": "2016-07-12",
+      "year": 2016
+    },
+    {
+      "title": "DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-07-09",
+      "year": 2016
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "A Survey on Trajectory Data Mining: Techniques and Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2016.2553681",
+      "publicationDate": "2016-04-13",
+      "year": 2016
+    },
+    {
+      "title": "A review of moving object trajectory clustering algorithms",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-016-9477-7",
+      "publicationDate": "2016-03-25",
+      "year": 2016
+    },
+    {
+      "title": "Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v30i1.9971",
+      "publicationDate": "2016-02-12",
+      "year": 2016
+    },
+    {
+      "title": "Recommendations in location-based social networks: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s10707-014-0220-8",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Personalized route recommendation using big trajectory data",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2015.7113313",
+      "publicationDate": "2015-04-13",
+      "year": 2015
+    },
+    {
+      "title": "SharkDB: An In-Memory Column-Oriented Trajectory Storage",
+      "arxiv_id": null,
+      "doi": "10.1145/2661829.2661878",
+      "publicationDate": "2014-11-03",
+      "year": 2014
+    },
+    {
+      "title": "Integrating cross-scale analysis in the spatial and temporal domains for classification of behavioral movement",
+      "arxiv_id": null,
+      "doi": "10.5311/JOSIS.2014.8.162",
+      "publicationDate": "2014-06-20",
+      "year": 2014
+    },
+    {
+      "title": "DeepWalk: online learning of social representations",
+      "arxiv_id": "1403.6652",
+      "doi": "10.1145/2623330.2623732",
+      "publicationDate": "2014-03-26",
+      "year": 2014
+    },
+    {
+      "title": "Direction-Preserving Trajectory Simplification",
+      "arxiv_id": null,
+      "doi": "10.14778/2536206.2536221",
+      "publicationDate": "2013-08-26",
+      "year": 2013
+    },
+    {
+      "title": "Friend Recommendation for Location-Based Mobile Social Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/IMIS.2013.68",
+      "publicationDate": "2013-07-03",
+      "year": 2013
+    },
+    {
+      "title": "T-share: A large-scale dynamic taxi ridesharing service",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2013.6544843",
+      "publicationDate": "2013-04-08",
+      "year": 2013
+    },
+    {
+      "title": "Where Online Friends Meet: Social Communities in Location-Based Networks",
+      "arxiv_id": null,
+      "doi": "10.1609/icwsm.v6i1.14301",
+      "publicationDate": "2012-05-20",
+      "year": 2012
+    },
+    {
+      "title": "Computing with Spatial Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4614-1629-6",
+      "publicationDate": "2011-10-01",
+      "year": 2011
+    },
+    {
+      "title": "Driving with knowledge from the physical world",
+      "arxiv_id": null,
+      "doi": "10.1145/2020408.2020462",
+      "publicationDate": "2011-08-21",
+      "year": 2011
+    },
+    {
+      "title": "Geo-Friends Recommendation in GPS-based Cyber-physical Social Network",
+      "arxiv_id": null,
+      "doi": "10.1109/ASONAM.2011.118",
+      "publicationDate": "2011-07-25",
+      "year": 2011
+    },
+    {
+      "title": "GeoLife: A Collaborative Social Networking Service among User, Location and Trajectory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-06-01",
+      "year": 2010
+    },
+    {
+      "title": "MAP-MATCHING IN COMPLEX URBAN ROAD NETWORKS",
+      "arxiv_id": null,
+      "doi": "10.14393/rbcv55n2-43490",
+      "publicationDate": "2009-11-13",
+      "year": 2009
+    },
+    {
+      "title": "Revealing the physics of movement: Comparing the similarity of movement characteristics of different types of moving objects",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compenvurbsys.2009.07.008",
+      "publicationDate": "2009-11-01",
+      "year": 2009
+    },
+    {
+      "title": "Mining interesting locations and travel sequences from GPS trajectories",
+      "arxiv_id": null,
+      "doi": "10.1145/1526709.1526816",
+      "publicationDate": "2009-04-20",
+      "year": 2009
+    },
+    {
+      "title": "Towards trajectory anonymization: a generalization-based approach",
+      "arxiv_id": null,
+      "doi": "10.1145/1503402.1503413",
+      "publicationDate": "2008-11-04",
+      "year": 2008
+    },
+    {
+      "title": "Understanding mobility based on GPS data",
+      "arxiv_id": null,
+      "doi": "10.1145/1409635.1409677",
+      "publicationDate": "2008-09-21",
+      "year": 2008
+    },
+    {
+      "title": "TraClass: trajectory classification using hierarchical region-based and trajectory-based clustering",
+      "arxiv_id": null,
+      "doi": "10.14778/1453856.1453972",
+      "publicationDate": "2008-08-01",
+      "year": 2008
+    },
+    {
+      "title": "Learning transportation mode from raw gps data for geographic applications on the web",
+      "arxiv_id": null,
+      "doi": "10.1145/1367497.1367532",
+      "publicationDate": "2008-04-21",
+      "year": 2008
+    },
+    {
+      "title": "Trajectory Outlier Detection: A Partition-and-Detect Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2008.4497422",
+      "publicationDate": "2008-04-07",
+      "year": 2008
+    },
+    {
+      "title": "k-means++: the advantages of careful seeding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-01-07",
+      "year": 2007
+    },
+    {
+      "title": "The scaling laws of human travel",
+      "arxiv_id": "cond-mat/0605511",
+      "doi": "10.1038/nature04292",
+      "publicationDate": "2006-01-26",
+      "year": 2006
+    },
+    {
+      "title": "Spatiotemporal Compression Techniques for Moving Point Objects",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-24741-8_44",
+      "publicationDate": "2004-03-14",
+      "year": 2004
+    },
+    {
+      "title": "A general map matching algorithm for transport telematics applications",
+      "arxiv_id": null,
+      "doi": "10.1007/S10291-003-0069-Z",
+      "publicationDate": "2003-09-19",
+      "year": 2003
+    },
+    {
+      "title": "An online algorithm for segmenting time series",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2001.989531",
+      "publicationDate": "2001-11-29",
+      "year": 2001
+    },
+    {
+      "title": "Road Reduction Filtering for GPS‐GIS Navigation",
+      "arxiv_id": null,
+      "doi": "10.1111/1467-9671.00077",
+      "publicationDate": "2001-06-01",
+      "year": 2001
+    },
+    {
+      "title": "ALGORITHMS FOR THE REDUCTION OF THE NUMBER OF POINTS REQUIRED TO REPRESENT A DIGITIZED LINE OR ITS CARICATURE",
+      "arxiv_id": null,
+      "doi": "10.3138/FM57-6770-U75U-7727",
+      "publicationDate": "1973-12-01",
+      "year": 1973
+    },
+    {
+      "title": "Select, then Balance: A Plug-and-Play Framework for Exogenous-Aware Spatio-Temporal Forecasting",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2509.05779",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DelvMap: Completing Residential Roads in Maps Based on Couriers’ Trajectories and Satellite Imagery",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2024.3365833",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Terra: A Multimodal Spatio-Temporal Dataset Spanning the Earth",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-2121",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "When Urban Region Profiling Meets Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.18340",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0995",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Query2Trip: Dual-Debiased Learning for Neural Trip Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-30672-3_6",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.12472",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning",
+      "arxiv_id": null,
+      "doi": "10.48786/edbt.2023.12",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "LDFeRR: A Fuel-efficient Route Recommendation Approach for Long-distance Driving Based on Historical Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9781611976700.9",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN",
+      "arxiv_id": null,
+      "doi": "10.6339/21-JDS1004",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Simulating continuous-time human mobility trajectories,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Spatiotemporal Scenario Generation of Traffic Flow Based on LSTM-GAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3029230",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Deep Trajectory Clustering with Autoencoders",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "“Trembr: Exploring Road Networks for Trajectory Representation Learning,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X16500045",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "“Data-driven human mobility modeling: a survey and engineering guidance for mobile networking,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "“Trajectory data mining: an overview,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Interpolation of tracking data in a fluid environment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "“Gpx the gps exchange format,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "The Study of Mammal Movements: A Review",
+      "arxiv_id": null,
+      "doi": "10.2307/3797914",
+      "publicationDate": null,
+      "year": 1966
+    },
+    {
+      "title": "Entwurf einer verallgemeinerten Relativitätstheorie und einer Theorie der Gravitation",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01999515",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A Benchmark of Existing Tools for Outlier Detection and Cleaning in Trajectories",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Position paper: What can large language models tell us about time series analysis,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Transformer-based map-matching model with limited labeled data using transfer-learning approach,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

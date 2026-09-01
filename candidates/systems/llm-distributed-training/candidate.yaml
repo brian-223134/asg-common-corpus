@@ -1,0 +1,8 @@
+topic: Efficient training of large language models on distributed infrastructures
+domain: systems
+gt:
+  arxiv_id: null
+  doi: "10.1007/s44336-026-00038-z"
+  title: "Efficient training of large language models on distributed infrastructures: a survey"
+  published: "2026-06-01"
+notes: "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: Springer. 출처: OpenAlex API (arXiv API 503 중 대체)"

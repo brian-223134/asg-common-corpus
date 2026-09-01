@@ -1,0 +1,2935 @@
+{
+  "candidate": {
+    "topic": "Efficient training of large language models on distributed infrastructures",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1007/s44336-026-00038-z",
+      "title": "Efficient training of large language models on distributed infrastructures: a survey",
+      "published": "2026-06-01"
+    },
+    "notes": "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: Springer. 출처: OpenAlex API (arXiv API 503 중 대체)"
+  },
+  "extracted_at": "2026-09-01T03:40:25+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 414,
+    "arxiv_resolvable": 207,
+    "doi_only": 123,
+    "unresolved": 84
+  },
+  "gt_s2": {
+    "paperId": "4e68cc2d6cb0c60883307de05ac248f89cd51b6d",
+    "externalIds": {
+      "ArXiv": "2407.20018",
+      "DBLP": "journals/corr/abs-2407-20018",
+      "DOI": "10.1007/s44336-026-00038-z",
+      "CorpusId": 271533993
+    },
+    "title": "Efficient training of large language models on distributed infrastructures: a survey",
+    "venue": "Vicinagearth",
+    "year": 2024,
+    "referenceCount": 414,
+    "publicationDate": "2024-07-29"
+  },
+  "refs": [
+    {
+      "title": "SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent",
+      "arxiv_id": "2511.16108",
+      "doi": "10.48550/arXiv.2511.16108",
+      "publicationDate": "2025-11-20",
+      "year": 2025
+    },
+    {
+      "title": "Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning",
+      "arxiv_id": "2511.14617",
+      "doi": "10.48550/arXiv.2511.14617",
+      "publicationDate": "2025-11-18",
+      "year": 2025
+    },
+    {
+      "title": "AgentRL: Scaling Agentic Reinforcement Learning with a Multi-Turn, Multi-Task Framework",
+      "arxiv_id": "2510.04206",
+      "doi": "10.48550/arXiv.2510.04206",
+      "publicationDate": "2025-10-05",
+      "year": 2025
+    },
+    {
+      "title": "RollPacker: Mitigating Long-Tail Rollouts for Fast, Synchronous RL Post-Training",
+      "arxiv_id": "2509.21009",
+      "doi": "10.48550/arXiv.2509.21009",
+      "publicationDate": "2025-09-25",
+      "year": 2025
+    },
+    {
+      "title": "AWorld: Orchestrating the Training Recipe for Agentic AI",
+      "arxiv_id": "2508.20404",
+      "doi": "10.48550/arXiv.2508.20404",
+      "publicationDate": "2025-08-28",
+      "year": 2025
+    },
+    {
+      "title": "Dream 7B: Diffusion Large Language Models",
+      "arxiv_id": "2508.15487",
+      "doi": "10.48550/arXiv.2508.15487",
+      "publicationDate": "2025-08-21",
+      "year": 2025
+    },
+    {
+      "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
+      "arxiv_id": "2508.03680",
+      "doi": "10.48550/arXiv.2508.03680",
+      "publicationDate": "2025-08-05",
+      "year": 2025
+    },
+    {
+      "title": "AgentFly: Extensible and Scalable Reinforcement Learning for LM Agents",
+      "arxiv_id": "2507.14897",
+      "doi": "10.48550/arXiv.2507.14897",
+      "publicationDate": "2025-07-20",
+      "year": 2025
+    },
+    {
+      "title": "AI Flow: perspectives, scenarios, and approaches",
+      "arxiv_id": "2506.12479",
+      "doi": "10.1007/s44336-025-00031-y",
+      "publicationDate": "2025-06-14",
+      "year": 2025
+    },
+    {
+      "title": "AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning",
+      "arxiv_id": "2505.24298",
+      "doi": "10.48550/arXiv.2505.24298",
+      "publicationDate": "2025-05-30",
+      "year": 2025
+    },
+    {
+      "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+      "arxiv_id": "2409.19256",
+      "doi": "10.1145/3689031.3696075",
+      "publicationDate": "2024-09-28",
+      "year": 2024
+    },
+    {
+      "title": "When In-Network Computing Meets Distributed Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3368138",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Alibaba HPN: A Data Center Network for Large Language Model Training",
+      "arxiv_id": null,
+      "doi": "10.1145/3651890.3672265",
+      "publicationDate": "2024-08-04",
+      "year": 2024
+    },
+    {
+      "title": "A Multidimensional Communication Scheduling Method for Hybrid Parallel DNN Training",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3406420",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+      "arxiv_id": "2407.08608",
+      "doi": "10.48550/arXiv.2407.08608",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "The infrastructure powering IBM's Gen AI model development",
+      "arxiv_id": "2407.05467",
+      "doi": "10.48550/arXiv.2407.05467",
+      "publicationDate": "2024-07-07",
+      "year": 2024
+    },
+    {
+      "title": "LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism",
+      "arxiv_id": "2406.18485",
+      "doi": "10.48550/arXiv.2406.18485",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "GraphPipe: Improving Performance and Scalability of DNN Training with Graph Pipeline Parallelism",
+      "arxiv_id": "2406.17145",
+      "doi": "10.1145/3669940.3707220",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "A Heuristic for Periodic Memory Allocation with Little Fragmentation to Train Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3652024.3665508",
+      "publicationDate": "2024-06-20",
+      "year": 2024
+    },
+    {
+      "title": "FastPersist: Accelerating Model Checkpointing in Deep Learning",
+      "arxiv_id": "2406.13768",
+      "doi": "10.48550/arXiv.2406.13768",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Large Model Training through Overlapped Activation Recomputation",
+      "arxiv_id": "2406.08756",
+      "doi": "10.48550/arXiv.2406.08756",
+      "publicationDate": "2024-06-13",
+      "year": 2024
+    },
+    {
+      "title": "Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training",
+      "arxiv_id": "2406.03488",
+      "doi": "10.48550/arXiv.2406.03488",
+      "publicationDate": "2024-06-05",
+      "year": 2024
+    },
+    {
+      "title": "DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models",
+      "arxiv_id": "2406.10707",
+      "doi": "10.1145/3625549.3658685",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "MPMoE: Memory Efficient MoE for Pre-Trained Models With Adaptive Pipeline Parallelism",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3385639",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW63119.2024.00208",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Pipeline Parallelism with Controllable Memory",
+      "arxiv_id": "2405.15362",
+      "doi": "10.48550/arXiv.2405.15362",
+      "publicationDate": "2024-05-24",
+      "year": 2024
+    },
+    {
+      "title": "MOSS: An Open Conversational Large Language Model",
+      "arxiv_id": null,
+      "doi": "10.1007/s11633-024-1502-8",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "USP: A Unified Sequence Parallelism Approach for Long Context Generative AI",
+      "arxiv_id": "2405.07719",
+      "doi": "10.48550/arXiv.2405.07719",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+      "arxiv_id": "2405.04434",
+      "doi": "10.48550/arXiv.2405.04434",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation",
+      "arxiv_id": null,
+      "doi": "10.1145/3620665.3640366",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning",
+      "arxiv_id": null,
+      "doi": "10.1145/3620666.3651379",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "AdaPipe: Optimizing Pipeline Parallelism with Adaptive Recomputation and Partitioning",
+      "arxiv_id": null,
+      "doi": "10.1145/3620666.3651359",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3650085",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3629554",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3650083",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "ML Training with Cloud GPU Shortages: Is Cross-Region the Answer?",
+      "arxiv_id": null,
+      "doi": "10.1145/3642970.3655843",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence",
+      "arxiv_id": null,
+      "doi": "10.1126/science.adl1203",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "InternLM2 Technical Report",
+      "arxiv_id": "2403.17297",
+      "doi": "10.48550/arXiv.2403.17297",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey",
+      "arxiv_id": "2403.14608",
+      "doi": "10.48550/arXiv.2403.14608",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances",
+      "arxiv_id": "2403.14097",
+      "doi": "10.48550/arXiv.2403.14097",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Jetfire: Efficient and Accurate Transformer Pretraining with INT8 Data Flow and Per-Block Quantization",
+      "arxiv_id": "2403.12422",
+      "doi": "10.48550/arXiv.2403.12422",
+      "publicationDate": "2024-03-19",
+      "year": 2024
+    },
+    {
+      "title": "DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers",
+      "arxiv_id": "2403.10266",
+      "doi": "10.48550/arXiv.2403.10266",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences",
+      "arxiv_id": "2403.09347",
+      "doi": "10.48550/arXiv.2403.09347",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "Scattered Mixture-of-Experts Implementation",
+      "arxiv_id": "2403.08245",
+      "doi": "10.48550/arXiv.2403.08245",
+      "publicationDate": "2024-03-13",
+      "year": 2024
+    },
+    {
+      "title": "Characterization of Large Language Model Development in the Datacenter",
+      "arxiv_id": "2403.07648",
+      "doi": "10.48550/arXiv.2403.07648",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "SWattention: designing fast and memory-efficient attention for a new Sunway Supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-024-05890-8",
+      "publicationDate": "2024-03-11",
+      "year": 2024
+    },
+    {
+      "title": "Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System",
+      "arxiv_id": "2403.06664",
+      "doi": "10.1109/HPCA57654.2024.00034",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "High-Speed Data Communication With Advanced Networks in Large Language Model Training",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2024.3360081",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "WanJuan-CC: A Safe and High-Quality Open-sourced English Webtext Dataset",
+      "arxiv_id": "2402.19282",
+      "doi": "10.48550/arXiv.2402.19282",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+      "arxiv_id": "2402.17764",
+      "doi": "10.48550/arXiv.2402.17764",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "MegaScale: Scaling Large Language Model Training to More Than 10, 000 GPUs",
+      "arxiv_id": "2402.15627",
+      "doi": "10.48550/arXiv.2402.15627",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "MLCC: A Congestion Control Technique to Accelerate ML Training",
+      "arxiv_id": "2402.09589",
+      "doi": null,
+      "publicationDate": "2024-02-14",
+      "year": 2024
+    },
+    {
+      "title": "SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation",
+      "arxiv_id": "2402.06194",
+      "doi": null,
+      "publicationDate": "2024-02-09",
+      "year": 2024
+    },
+    {
+      "title": "T3: Transparent Tracking & Triggering for Fine-grained Overlap of Compute & Collectives",
+      "arxiv_id": "2401.16677",
+      "doi": "10.1145/3620665.3640410",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Deep Learning Workload Scheduling in GPU Datacenters: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3638757",
+      "publicationDate": "2024-01-22",
+      "year": 2024
+    },
+    {
+      "title": "PartIR: Composing SPMD Partitioning Strategies for Machine Learning",
+      "arxiv_id": "2401.11202",
+      "doi": "10.1145/3669940.3707284",
+      "publicationDate": "2024-01-20",
+      "year": 2024
+    },
+    {
+      "title": "GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching",
+      "arxiv_id": "2401.08156",
+      "doi": "10.1145/3620665.3640423",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
+      "arxiv_id": "2401.08092",
+      "doi": "10.48550/arXiv.2401.08092",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis",
+      "arxiv_id": "2401.05965",
+      "doi": "10.1145/3627703.3629580",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "Mixtral of Experts",
+      "arxiv_id": "2401.04088",
+      "doi": "10.48550/arXiv.2401.04088",
+      "publicationDate": "2024-01-08",
+      "year": 2024
+    },
+    {
+      "title": "Understanding LLMs: A Comprehensive Overview from Training to Inference",
+      "arxiv_id": "2401.02038",
+      "doi": "10.48550/arXiv.2401.02038",
+      "publicationDate": "2024-01-04",
+      "year": 2024
+    },
+    {
+      "title": "Unicron: Economizing Self-Healing LLM Training at Scale",
+      "arxiv_id": "2401.00134",
+      "doi": "10.48550/arXiv.2401.00134",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems",
+      "arxiv_id": "2312.15234",
+      "doi": "10.1145/3754448",
+      "publicationDate": "2023-12-23",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Distributed Training on Frontier for Large Language Models",
+      "arxiv_id": "2312.12705",
+      "doi": "10.48550/arXiv.2312.12705",
+      "publicationDate": "2023-12-20",
+      "year": 2023
+    },
+    {
+      "title": "An Adaptive Placement and Parallelism Framework for Accelerating RLHF Training",
+      "arxiv_id": "2312.11819",
+      "doi": "10.48550/arXiv.2312.11819",
+      "publicationDate": "2023-12-19",
+      "year": 2023
+    },
+    {
+      "title": "A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library",
+      "arxiv_id": "2312.11918",
+      "doi": "10.48550/arXiv.2312.11918",
+      "publicationDate": "2023-12-19",
+      "year": 2023
+    },
+    {
+      "title": "Reducing Energy Bloat in Large Model Training",
+      "arxiv_id": "2312.06902",
+      "doi": "10.1145/3694715.3695970",
+      "publicationDate": "2023-12-12",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Large Language Models: A Survey",
+      "arxiv_id": "2312.03863",
+      "doi": "10.48550/arXiv.2312.03863",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "Zero Bubble Pipeline Parallelism",
+      "arxiv_id": "2401.10241",
+      "doi": "10.48550/arXiv.2401.10241",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Tessel: Boosting Distributed Execution of Large DNN Models via Flexible Schedule Search",
+      "arxiv_id": "2311.15269",
+      "doi": "10.1109/HPCA57654.2024.00067",
+      "publicationDate": "2023-11-26",
+      "year": 2023
+    },
+    {
+      "title": "Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey",
+      "arxiv_id": "2311.12351",
+      "doi": "10.48550/arXiv.2311.12351",
+      "publicationDate": "2023-11-21",
+      "year": 2023
+    },
+    {
+      "title": "DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines",
+      "arxiv_id": "2311.10418",
+      "doi": "10.1145/3627703.3629585",
+      "publicationDate": "2023-11-17",
+      "year": 2023
+    },
+    {
+      "title": "Striped Attention: Faster Ring Attention for Causal Transformers",
+      "arxiv_id": "2311.09431",
+      "doi": "10.48550/arXiv.2311.09431",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "Just-in-time Quantization with Processing-In-Memory for Efficient ML Training",
+      "arxiv_id": "2311.05034",
+      "doi": "10.48550/arXiv.2311.05034",
+      "publicationDate": "2023-11-08",
+      "year": 2023
+    },
+    {
+      "title": "A Cost-Efficient Failure-Tolerant Scheme for Distributed DNN Training",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD58817.2023.00031",
+      "publicationDate": "2023-11-06",
+      "year": 2023
+    },
+    {
+      "title": "RTP: Rethinking Tensor Parallelism with Memory Deduplication",
+      "arxiv_id": "2311.01635",
+      "doi": "10.48550/arXiv.2311.01635",
+      "publicationDate": "2023-11-02",
+      "year": 2023
+    },
+    {
+      "title": "Coop: Memory is not a Commodity",
+      "arxiv_id": "2311.00591",
+      "doi": "10.48550/arXiv.2311.00591",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training",
+      "arxiv_id": "2311.00257",
+      "doi": null,
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
+      "arxiv_id": "2311.00176",
+      "doi": "10.48550/arXiv.2311.00176",
+      "publicationDate": "2023-10-31",
+      "year": 2023
+    },
+    {
+      "title": "Prophet: Fine-grained Load Balancing for Parallel Training of Large-scale MoE Models",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER52292.2023.00015",
+      "publicationDate": "2023-10-31",
+      "year": 2023
+    },
+    {
+      "title": "ROAM: memory-efficient large DNN training via optimized operator ordering and memory layout",
+      "arxiv_id": "2310.19295",
+      "doi": "10.48550/arXiv.2310.19295",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "FP8-LM: Training FP8 Large Language Models",
+      "arxiv_id": "2310.18313",
+      "doi": "10.48550/arXiv.2310.18313",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints",
+      "arxiv_id": null,
+      "doi": "10.1145/3600006.3613145",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "Sia: Heterogeneity-aware, goodput-optimized ML-cluster scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3600006.3613175",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "BitNet: Scaling 1-bit Transformers for Large Language Models",
+      "arxiv_id": "2310.11453",
+      "doi": "10.48550/arXiv.2310.11453",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Microscaling Data Formats for Deep Learning",
+      "arxiv_id": "2310.10537",
+      "doi": "10.48550/arXiv.2310.10537",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "TRANSOM: An Efficient Fault-Tolerant System for Training LLMs",
+      "arxiv_id": "2310.10046",
+      "doi": "10.48550/arXiv.2310.10046",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "Rethinking Memory and Communication Cost for Efficient Large Language Model Training",
+      "arxiv_id": "2310.06003",
+      "doi": "10.48550/arXiv.2310.06003",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Performance Study of Large Language Models on Novel AI Accelerators",
+      "arxiv_id": "2310.04607",
+      "doi": "10.48550/arXiv.2310.04607",
+      "publicationDate": "2023-10-06",
+      "year": 2023
+    },
+    {
+      "title": "DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training",
+      "arxiv_id": "2310.03294",
+      "doi": null,
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Ring Attention with Blockwise Transformers for Near-Infinite Context",
+      "arxiv_id": "2310.01889",
+      "doi": "10.48550/arXiv.2310.01889",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "Benchmarking and In-depth Performance Study of Large Language Models on Habana Gaudi Processors",
+      "arxiv_id": "2309.16976",
+      "doi": "10.1145/3624062.3624257",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates",
+      "arxiv_id": "2309.08125",
+      "doi": "10.1145/3600006.3613152",
+      "publicationDate": "2023-09-15",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "arxiv_id": "2309.06180",
+      "doi": "10.1145/3600006.3613165",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs",
+      "arxiv_id": "2309.01172",
+      "doi": "10.48550/arXiv.2309.01172",
+      "publicationDate": "2023-09-03",
+      "year": 2023
+    },
+    {
+      "title": "Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3603269.3604869",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Instruction Tuning for Large Language Models: A Survey",
+      "arxiv_id": "2308.10792",
+      "doi": "10.1145/3777411",
+      "publicationDate": "2023-08-21",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Model Compression for Large Language Models",
+      "arxiv_id": "2308.07633",
+      "doi": "10.1162/tacl_a_00704",
+      "publicationDate": "2023-08-15",
+      "year": 2023
+    },
+    {
+      "title": "Towards Next-Generation Intelligent Assistants Leveraging LLM Techniques",
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599572",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales",
+      "arxiv_id": "2308.01320",
+      "doi": "10.48550/arXiv.2308.01320",
+      "publicationDate": "2023-08-02",
+      "year": 2023
+    },
+    {
+      "title": "CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters",
+      "arxiv_id": "2308.00852",
+      "doi": "10.48550/arXiv.2308.00852",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Auto-Parallelism of Large-Scale Deep Learning Training",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2023.3281931",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "PipePar: Enabling fast DNN pipeline parallel training in heterogeneous GPU clusters",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2023.126661",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+      "arxiv_id": "2307.08691",
+      "doi": "10.48550/arXiv.2307.08691",
+      "publicationDate": "2023-07-17",
+      "year": 2023
+    },
+    {
+      "title": "Improving Automatic Parallel Training via Balanced Memory Workload Optimization",
+      "arxiv_id": "2307.02031",
+      "doi": "10.1109/TKDE.2024.3370614",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Training Transformers with 4-bit Integers",
+      "arxiv_id": "2306.11987",
+      "doi": "10.48550/arXiv.2306.11987",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Evaluation of pre-training large language models on leadership-class supercomputers",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-023-05479-7",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "ZeRO++: Extremely Efficient Collective Communication for Giant Model Training",
+      "arxiv_id": "2306.10209",
+      "doi": "10.48550/arXiv.2306.10209",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "AMD InstinctTM MI250X Accelerator enabled by Elevated Fanout Bridge Advanced Packaging Architecture",
+      "arxiv_id": null,
+      "doi": "10.23919/VLSITechnologyandCir57934.2023.10185224",
+      "publicationDate": "2023-06-11",
+      "year": 2023
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "arxiv_id": "2305.14314",
+      "doi": "10.48550/arXiv.2305.14314",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+      "arxiv_id": "2305.13245",
+      "doi": "10.48550/arXiv.2305.13245",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM53939.2023.10228874",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters",
+      "arxiv_id": null,
+      "doi": "10.1145/3552326.3567499",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "NVIDIA Hopper H100 GPU: Scaling Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2023.3256796",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "An Efficient 2D Method for Training Super-Large Deep Learning Models",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS54959.2023.00031",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Fold3D: Rethinking and Parallelizing Computational and Communicational Tasks in the Training of Large DNN Models",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2023.3247883",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "SDPipe: A Semi-Decentralized Framework for Heterogeneity-aware Pipeline-parallel Training",
+      "arxiv_id": null,
+      "doi": "10.14778/3598581.3598604",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "An Empirical Study on Quality Issues of Deep Learning Platform",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE-SEIP58684.2023.00052",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel",
+      "arxiv_id": "2304.11277",
+      "doi": "10.48550/arXiv.2304.11277",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement",
+      "arxiv_id": "2304.03946",
+      "doi": "10.1145/3588964",
+      "publicationDate": "2023-04-08",
+      "year": 2023
+    },
+    {
+      "title": "Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster",
+      "arxiv_id": "2304.03208",
+      "doi": "10.48550/arXiv.2304.03208",
+      "publicationDate": "2023-04-06",
+      "year": 2023
+    },
+    {
+      "title": "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings",
+      "arxiv_id": "2304.01433",
+      "doi": "10.1145/3579371.3589350",
+      "publicationDate": "2023-04-04",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training",
+      "arxiv_id": "2303.06318",
+      "doi": "10.1145/3577193.3593704",
+      "publicationDate": "2023-03-11",
+      "year": 2023
+    },
+    {
+      "title": "Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent",
+      "arxiv_id": "2303.02868",
+      "doi": "10.48550/arXiv.2303.02868",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "DeAR: Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining",
+      "arxiv_id": "2302.12445",
+      "doi": "10.1109/ICDCS57875.2023.00054",
+      "publicationDate": "2023-02-24",
+      "year": 2023
+    },
+    {
+      "title": "TA-MoE: Topology-Aware Large Scale Mixture-of-Expert Training",
+      "arxiv_id": "2302.09915",
+      "doi": "10.48550/arXiv.2302.09915",
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+      "arxiv_id": "2302.09419",
+      "doi": "10.48550/arXiv.2302.09419",
+      "publicationDate": "2023-02-18",
+      "year": 2023
+    },
+    {
+      "title": "Slapo: A Schedule Language for Progressive Optimization of Large Deep Learning Model Training",
+      "arxiv_id": "2302.08005",
+      "doi": "10.1145/3620665.3640399",
+      "publicationDate": "2023-02-16",
+      "year": 2023
+    },
+    {
+      "title": "THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression",
+      "arxiv_id": "2302.08545",
+      "doi": "10.48550/arXiv.2302.08545",
+      "publicationDate": "2023-02-16",
+      "year": 2023
+    },
+    {
+      "title": "Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models",
+      "arxiv_id": "2302.02599",
+      "doi": "10.48550/arXiv.2302.02599",
+      "publicationDate": "2023-02-06",
+      "year": 2023
+    },
+    {
+      "title": "Tensor Movement Orchestration in Multi-GPU Training Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA56546.2023.10071043",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA56546.2023.10071018",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA56546.2023.10071077",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient",
+      "arxiv_id": "2301.11913",
+      "doi": "10.48550/arXiv.2301.11913",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers",
+      "arxiv_id": null,
+      "doi": "10.1145/3575693.3575703",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs",
+      "arxiv_id": null,
+      "doi": "10.1145/3575693.3575705",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3575693.3575721",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "AutoDDL: Automatic Distributed Deep Learning With Near-Optimal Bandwidth Cost",
+      "arxiv_id": "2301.06813",
+      "doi": "10.1109/TPDS.2024.3397800",
+      "publicationDate": "2023-01-17",
+      "year": 2023
+    },
+    {
+      "title": "Positive-Incentive Noise",
+      "arxiv_id": "2212.09541",
+      "doi": "10.1109/TNNLS.2022.3224577",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3567955.3567959",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Scalable Diffusion Models with Transformers",
+      "arxiv_id": "2212.09748",
+      "doi": "10.1109/ICCV51070.2023.00387",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Reproducible Scaling Laws for Contrastive Language-Image Learning",
+      "arxiv_id": "2212.07143",
+      "doi": "10.1109/CVPR52729.2023.00276",
+      "publicationDate": "2022-12-14",
+      "year": 2022
+    },
+    {
+      "title": "Elixir: Train a Large Language Model on a Small GPU Cluster",
+      "arxiv_id": "2212.05339",
+      "doi": "10.48550/arXiv.2212.05339",
+      "publicationDate": "2022-12-10",
+      "year": 2022
+    },
+    {
+      "title": "MegaBlocks: Efficient Sparse Training with Mixture-of-Experts",
+      "arxiv_id": "2211.15841",
+      "doi": "10.48550/arXiv.2211.15841",
+      "publicationDate": "2022-11-29",
+      "year": 2022
+    },
+    {
+      "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+      "arxiv_id": "2211.05100",
+      "doi": null,
+      "publicationDate": "2022-11-09",
+      "year": 2022
+    },
+    {
+      "title": "Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism",
+      "arxiv_id": "2211.13878",
+      "doi": "10.14778/3570690.3570697",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00076",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Accelerating Distributed MoE Training and Inference with Lina",
+      "arxiv_id": "2210.17223",
+      "doi": null,
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs",
+      "arxiv_id": "2210.16691",
+      "doi": null,
+      "publicationDate": "2022-10-29",
+      "year": 2022
+    },
+    {
+      "title": "AMP: Automatically Finding Model Parallel Strategies with Heterogeneity Awareness",
+      "arxiv_id": "2210.07297",
+      "doi": "10.48550/arXiv.2210.07297",
+      "publicationDate": "2022-10-13",
+      "year": 2022
+    },
+    {
+      "title": "ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs",
+      "arxiv_id": "2210.03052",
+      "doi": "10.1109/IPDPS54959.2023.00042",
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "HammingMesh: A Network Topology for Large-Scale Deep Learning",
+      "arxiv_id": "2209.01346",
+      "doi": "10.1109/SC41404.2022.00016",
+      "publicationDate": "2022-09-03",
+      "year": 2022
+    },
+    {
+      "title": "AutoPipe: A Fast Pipeline Parallelism Approach with Balanced Partitioning and Micro-batch Slicing",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER51413.2022.00042",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "HPH: Hybrid Parallelism on Heterogeneous Clusters for Accelerating Large-scale DNNs Training",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER51413.2022.00043",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Multi-resource interleaving for deep learning training",
+      "arxiv_id": null,
+      "doi": "10.1145/3544216.3544224",
+      "publicationDate": "2022-08-22",
+      "year": 2022
+    },
+    {
+      "title": "Nvidia Hopper GPU: Scaling Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/HCS55958.2022.9895592",
+      "publicationDate": "2022-08-21",
+      "year": 2022
+    },
+    {
+      "title": "Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training",
+      "arxiv_id": "2208.06102",
+      "doi": "10.48550/arXiv.2208.06102",
+      "publicationDate": "2022-08-12",
+      "year": 2022
+    },
+    {
+      "title": "MegTaiChi: dynamic tensor-based memory management optimization for DNN training",
+      "arxiv_id": null,
+      "doi": "10.1145/3524059.3532394",
+      "publicationDate": "2022-06-28",
+      "year": 2022
+    },
+    {
+      "title": "Merak: An Efficient Distributed DNN Training Framework With Automated 3D Parallelism for Giant Foundation Models",
+      "arxiv_id": "2206.04959",
+      "doi": "10.1109/TPDS.2023.3247001",
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "Tutel: Adaptive Mixture-of-Experts at Scale",
+      "arxiv_id": "2206.03382",
+      "doi": "10.48550/arXiv.2206.03382",
+      "publicationDate": "2022-06-07",
+      "year": 2022
+    },
+    {
+      "title": "Decentralized Training of Foundation Models in Heterogeneous Environments",
+      "arxiv_id": "2206.01288",
+      "doi": "10.48550/arXiv.2206.01288",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "arxiv_id": "2205.14135",
+      "doi": "10.52202/068431-1189",
+      "publicationDate": "2022-05-27",
+      "year": 2022
+    },
+    {
+      "title": "MoESys: A Distributed and Efficient Mixture-of-Experts Training and Inference System for Internet Services",
+      "arxiv_id": "2205.10034",
+      "doi": "10.1109/TSC.2024.3399654",
+      "publicationDate": "2022-05-20",
+      "year": 2022
+    },
+    {
+      "title": "Enabling Fast and Flexible Distributed Deep Learning with Programmable Switches",
+      "arxiv_id": "2205.05243",
+      "doi": null,
+      "publicationDate": "2022-05-11",
+      "year": 2022
+    },
+    {
+      "title": "Reducing Activation Recomputation in Large Transformer Models",
+      "arxiv_id": "2205.05198",
+      "doi": "10.48550/arXiv.2205.05198",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "Fluid: Dataset Abstraction and Elastic Acceleration for Cloud-native Deep Learning Training Jobs",
+      "arxiv_id": null,
+      "doi": "10.1109/icde53745.2022.00209",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting",
+      "arxiv_id": null,
+      "doi": "10.1109/icde53745.2022.00241",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "MiCS: Near-linear Scaling for Training Gigantic Model on Public Cloud",
+      "arxiv_id": "2205.00119",
+      "doi": "10.14778/3561261.3561265",
+      "publicationDate": "2022-04-30",
+      "year": 2022
+    },
+    {
+      "title": "Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs",
+      "arxiv_id": "2204.12013",
+      "doi": "10.48550/arXiv.2204.12013",
+      "publicationDate": "2022-04-26",
+      "year": 2022
+    },
+    {
+      "title": "The Cerebras CS-2: Designing an AI Accelerator around the World's Largest 2.6 Trillion Transistor Chip",
+      "arxiv_id": null,
+      "doi": "10.1145/3505170.3511036",
+      "publicationDate": "2022-04-13",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Out-of-order backprop: an effective scheduling technique for deep learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3492321.3519563",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models",
+      "arxiv_id": null,
+      "doi": "10.1145/3503221.3508418",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Pathways: Asynchronous Distributed Dataflow for ML",
+      "arxiv_id": "2203.12533",
+      "doi": "10.48550/arXiv.2203.12533",
+      "publicationDate": "2022-03-23",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Nvidia Hopper GPU and Grace CPU Highlights",
+      "arxiv_id": null,
+      "doi": "10.1109/MCSE.2022.3163817",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507723",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers",
+      "arxiv_id": "2202.01306",
+      "doi": "10.14778/3551793.3551828",
+      "publicationDate": "2022-02-02",
+      "year": 2022
+    },
+    {
+      "title": "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs",
+      "arxiv_id": "2202.00433",
+      "doi": null,
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "GC3: An Optimizing Compiler for GPU Collective Communication",
+      "arxiv_id": "2201.11840",
+      "doi": null,
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale",
+      "arxiv_id": "2201.05596",
+      "doi": null,
+      "publicationDate": "2022-01-14",
+      "year": 2022
+    },
+    {
+      "title": "The Exascale Era is Upon Us: The Frontier supercomputer may be the first to reach 1,000,000,000,000,000,000 operations per second",
+      "arxiv_id": null,
+      "doi": "10.1109/mspec.2022.9676353",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Unlocking the Power of Inline Floating-Point Operations on Programmable Switches",
+      "arxiv_id": "2112.06095",
+      "doi": null,
+      "publicationDate": "2021-12-11",
+      "year": 2021
+    },
+    {
+      "title": "Self-attention Does Not Need $O(n^2)$ Memory",
+      "arxiv_id": "2112.05682",
+      "doi": null,
+      "publicationDate": "2021-12-10",
+      "year": 2021
+    },
+    {
+      "title": "Automap: Towards Ergonomic Automated Parallelism for ML Models",
+      "arxiv_id": "2112.02958",
+      "doi": null,
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches",
+      "arxiv_id": "2111.04867",
+      "doi": null,
+      "publicationDate": "2021-11-08",
+      "year": 2021
+    },
+    {
+      "title": "Varuna: scalable, low-cost training of massive deep learning models",
+      "arxiv_id": "2111.04007",
+      "doi": "10.1145/3492321.3519584",
+      "publicationDate": "2021-11-07",
+      "year": 2021
+    },
+    {
+      "title": "Large-Scale Deep Learning Optimizations: A Comprehensive Survey",
+      "arxiv_id": "2111.00856",
+      "doi": null,
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training",
+      "arxiv_id": "2110.14883",
+      "doi": "10.1145/3605573.3605613",
+      "publicationDate": "2021-10-28",
+      "year": 2021
+    },
+    {
+      "title": "OneFlow: Redesign the Distributed Deep Learning Framework from Scratch",
+      "arxiv_id": "2110.15032",
+      "doi": null,
+      "publicationDate": "2021-10-28",
+      "year": 2021
+    },
+    {
+      "title": "Synthesizing Optimal Parallelism Placement and Reduction Strategies on Hierarchical Systems for Deep Learning",
+      "arxiv_id": "2110.10548",
+      "doi": null,
+      "publicationDate": "2021-10-20",
+      "year": 2021
+    },
+    {
+      "title": "Scalable Fully Pipelined Hardware Architecture for In-Network Aggregated AllReduce Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/tcsi.2021.3098841",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Characterization and Prediction of Deep Learning Workloads in Large-Scale GPU Datacenters",
+      "arxiv_id": "2109.01313",
+      "doi": "10.1145/3458817.3476223",
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "ACCL: Architecting Highly Scalable Distributed Training Systems With Highly Efficient Collective Communication Library",
+      "arxiv_id": null,
+      "doi": "10.1109/mm.2021.3091475",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Parallel Training of Pre-Trained Models via Chunk-Based Dynamic Memory Management",
+      "arxiv_id": "2108.05818",
+      "doi": "10.1109/TPDS.2022.3219819",
+      "publicationDate": "2021-08-12",
+      "year": 2021
+    },
+    {
+      "title": "SiP-ML: high-bandwidth optical network interconnects for machine learning training",
+      "arxiv_id": null,
+      "doi": "10.1145/3452296.3472900",
+      "publicationDate": "2021-08-09",
+      "year": 2021
+    },
+    {
+      "title": "Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines",
+      "arxiv_id": "2107.06925",
+      "doi": "10.1145/3458817.3476145",
+      "publicationDate": "2021-07-14",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+      "arxiv_id": "2107.03006",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Timely",
+      "arxiv_id": null,
+      "doi": "10.1016/s0022-5223(00)70263-7",
+      "publicationDate": "2021-07-05",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Tesseract: Parallelize the Tensor Parallelism Efficiently",
+      "arxiv_id": "2105.14500",
+      "doi": "10.1145/3545008.3545087",
+      "publicationDate": "2021-05-30",
+      "year": 2021
+    },
+    {
+      "title": "Maximizing Parallelism in Distributed Training for Huge Neural Networks",
+      "arxiv_id": "2105.14450",
+      "doi": null,
+      "publicationDate": "2021-05-30",
+      "year": 2021
+    },
+    {
+      "title": "Sequence Parallelism: Long Sequence Training from System Perspective",
+      "arxiv_id": "2105.13120",
+      "doi": "10.18653/v1/2023.acl-long.134",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "Breaking the computation and communication abstraction barrier in distributed machine learning workloads",
+      "arxiv_id": "2105.05720",
+      "doi": "10.1145/3503222.3507778",
+      "publicationDate": "2021-05-12",
+      "year": 2021
+    },
+    {
+      "title": "GSPMD: General and Scalable Parallelization for ML Computation Graphs",
+      "arxiv_id": "2105.04663",
+      "doi": null,
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Switches for HIRE: resource scheduling for data center in-network computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3445814.3446760",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep learning",
+      "arxiv_id": "2104.07857",
+      "doi": "10.1145/3458817.3476205",
+      "publicationDate": "2021-04-16",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+      "arxiv_id": "2104.04473",
+      "doi": "10.1145/3458817.3476209",
+      "publicationDate": "2021-04-09",
+      "year": 2021
+    },
+    {
+      "title": "FastMoE: A Fast Mixture-of-Expert Training System",
+      "arxiv_id": "2103.13262",
+      "doi": null,
+      "publicationDate": "2021-03-24",
+      "year": 2021
+    },
+    {
+      "title": "TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models",
+      "arxiv_id": "2102.07988",
+      "doi": null,
+      "publicationDate": "2021-02-16",
+      "year": 2021
+    },
+    {
+      "title": "3.2 The A100 Datacenter GPU and Ampere Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSCC42613.2021.9365803",
+      "publicationDate": "2021-02-13",
+      "year": 2021
+    },
+    {
+      "title": "ZeRO-Offload: Democratizing Billion-Scale Model Training",
+      "arxiv_id": "2101.06840",
+      "doi": null,
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+      "arxiv_id": "2101.03961",
+      "doi": null,
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "RoCC: robust congestion control for RDMA",
+      "arxiv_id": null,
+      "doi": "10.1145/3386367.3431316",
+      "publicationDate": "2020-11-23",
+      "year": 2020
+    },
+    {
+      "title": "DNNFusion: accelerating deep neural networks execution with advanced operator fusion",
+      "arxiv_id": "2108.13342",
+      "doi": "10.1145/3453483.3454083",
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "NetReduce: RDMA-Compatible In-Network Reduction for Distributed DNN Training Acceleration",
+      "arxiv_id": "2009.09736",
+      "doi": null,
+      "publicationDate": "2020-09-21",
+      "year": 2020
+    },
+    {
+      "title": "Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning",
+      "arxiv_id": "2008.12260",
+      "doi": null,
+      "publicationDate": "2020-08-27",
+      "year": 2020
+    },
+    {
+      "title": "Synthesizing optimal collective algorithms",
+      "arxiv_id": "2008.08708",
+      "doi": "10.1145/3437801.3441620",
+      "publicationDate": "2020-08-19",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads",
+      "arxiv_id": "2008.09213",
+      "doi": null,
+      "publicationDate": "2020-08-18",
+      "year": 2020
+    },
+    {
+      "title": "Google's Training Chips Revealed: TPUv2 and TPUv3",
+      "arxiv_id": null,
+      "doi": "10.1109/HCS49909.2020.9220735",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Swift: Delay is Simple and Effective for Congestion Control in the Datacenter",
+      "arxiv_id": null,
+      "doi": "10.1145/3387514.3406591",
+      "publicationDate": "2020-07-30",
+      "year": 2020
+    },
+    {
+      "title": "DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3406703",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "DAPPLE: a pipelined data parallel approach for training large models",
+      "arxiv_id": "2007.01045",
+      "doi": "10.1145/3437801.3441593",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "Preemptive All-reduce Scheduling for Expediting Distributed DNN Training",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM41043.2020.9155446",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+      "arxiv_id": "2006.16668",
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Algorithms for Device Placement of DNN Graph Operators",
+      "arxiv_id": "2006.16423",
+      "doi": null,
+      "publicationDate": "2020-06-29",
+      "year": 2020
+    },
+    {
+      "title": "PyTorch distributed",
+      "arxiv_id": "2006.15704",
+      "doi": "10.14778/3415478.3415530",
+      "publicationDate": "2020-06-28",
+      "year": 2020
+    },
+    {
+      "title": "A domain-specific supercomputer for training deep neural networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3360307",
+      "publicationDate": "2020-06-18",
+      "year": 2020
+    },
+    {
+      "title": "Dynamic Tensor Rematerialization",
+      "arxiv_id": "2006.09616",
+      "doi": null,
+      "publicationDate": "2020-06-17",
+      "year": 2020
+    },
+    {
+      "title": "Is Network the Bottleneck of Distributed Training?",
+      "arxiv_id": "2006.10103",
+      "doi": "10.1145/3405671.3405810",
+      "publicationDate": "2020-06-17",
+      "year": 2020
+    },
+    {
+      "title": "Ansor : Generating High-Performance Tensor Programs for Deep Learning",
+      "arxiv_id": "2006.06762",
+      "doi": null,
+      "publicationDate": "2020-06-11",
+      "year": 2020
+    },
+    {
+      "title": "HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism",
+      "arxiv_id": "2005.14038",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid49817.2020.00-76",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Automatic Cross-Replica Sharding of Weight Update in Data-Parallel Training",
+      "arxiv_id": "2004.13336",
+      "doi": null,
+      "publicationDate": "2020-04-28",
+      "year": 2020
+    },
+    {
+      "title": "TensorOpt: Exploring the Tradeoffs in Distributed DNN Training with Auto-Parallelism",
+      "arxiv_id": "2004.10856",
+      "doi": "10.1109/TPDS.2021.3132413",
+      "publicationDate": "2020-04-16",
+      "year": 2020
+    },
+    {
+      "title": "Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3387555",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Quiver: An Informed Storage Cache for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-02-23",
+      "year": 2020
+    },
+    {
+      "title": "Training Large Neural Networks with Constant Memory using a New Execution Algorithm",
+      "arxiv_id": "2002.05645",
+      "doi": null,
+      "publicationDate": "2020-02-13",
+      "year": 2020
+    },
+    {
+      "title": "2.2 AMD Chiplet Architecture for High-Performance Server and Desktop Products",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSCC19947.2020.9063103",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "EFLOPS: Algorithm and System Co-Design for a High Performance Distributed Training Platform",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA47549.2020.00056",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA47549.2020.00036",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "Scaling Laws for Neural Language Models",
+      "arxiv_id": "2001.08361",
+      "doi": null,
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "GradientFlow: Optimizing Network Performance for Large-Scale Distributed DNN Training",
+      "arxiv_id": null,
+      "doi": "10.1109/tbdata.2019.2957478",
+      "publicationDate": "2019-12-04",
+      "year": 2019
+    },
+    {
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "arxiv_id": "1912.01703",
+      "doi": null,
+      "publicationDate": "2019-12-03",
+      "year": 2019
+    },
+    {
+      "title": "Fast Transformer Decoding: One Write-Head is All You Need",
+      "arxiv_id": "1911.02150",
+      "doi": null,
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "BlueConnect: Decomposing all-reduce for deep learning on heterogeneous network hierarchy",
+      "arxiv_id": null,
+      "doi": "10.1147/jrd.2019.2947013",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "PipeDream: generalized pipeline parallelism for DNN training",
+      "arxiv_id": null,
+      "doi": "10.1145/3341301.3359646",
+      "publicationDate": "2019-10-27",
+      "year": 2019
+    },
+    {
+      "title": "A generic communication scheduler for distributed DNN training acceleration",
+      "arxiv_id": null,
+      "doi": "10.1145/3341301.3359642",
+      "publicationDate": "2019-10-27",
+      "year": 2019
+    },
+    {
+      "title": "TASO: optimizing deep learning computation with automatic generation of graph substitutions",
+      "arxiv_id": null,
+      "doi": "10.1145/3341301.3359630",
+      "publicationDate": "2019-10-27",
+      "year": 2019
+    },
+    {
+      "title": "Blink: Fast and Generic Collectives for Distributed ML",
+      "arxiv_id": "1910.04940",
+      "doi": null,
+      "publicationDate": "2019-10-11",
+      "year": 2019
+    },
+    {
+      "title": "Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization",
+      "arxiv_id": "1910.02653",
+      "doi": null,
+      "publicationDate": "2019-10-07",
+      "year": 2019
+    },
+    {
+      "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+      "arxiv_id": "1910.02054",
+      "doi": "10.1109/SC41405.2020.00024",
+      "publicationDate": "2019-10-04",
+      "year": 2019
+    },
+    {
+      "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+      "arxiv_id": "1909.08053",
+      "doi": null,
+      "publicationDate": "2019-09-17",
+      "year": 2019
+    },
+    {
+      "title": "HPCC: high precision congestion control",
+      "arxiv_id": null,
+      "doi": "10.1145/3341302.3342085",
+      "publicationDate": "2019-08-19",
+      "year": 2019
+    },
+    {
+      "title": "I/O Characterization and Performance Evaluation of BeeGFS for Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3337821.3337902",
+      "publicationDate": "2019-08-05",
+      "year": 2019
+    },
+    {
+      "title": "Themis: Fair and Efficient GPU Cluster Scheduling for Machine Learning Workloads",
+      "arxiv_id": "1907.01484",
+      "doi": null,
+      "publicationDate": "2019-07-02",
+      "year": 2019
+    },
+    {
+      "title": "Triton: an intermediate language and compiler for tiled neural network computations",
+      "arxiv_id": null,
+      "doi": "10.1145/3315508.3329973",
+      "publicationDate": "2019-06-22",
+      "year": 2019
+    },
+    {
+      "title": "Accelerating Distributed Reinforcement learning with In-Switch Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3307650.3322259",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "A Study of BFLOAT16 for Deep Learning Training",
+      "arxiv_id": "1905.12322",
+      "doi": null,
+      "publicationDate": "2019-05-29",
+      "year": 2019
+    },
+    {
+      "title": "Priority-based Parameter Propagation for Distributed DNN Training",
+      "arxiv_id": "1905.03960",
+      "doi": null,
+      "publicationDate": "2019-05-10",
+      "year": 2019
+    },
+    {
+      "title": "Scalable Deep Learning on Distributed Infrastructures",
+      "arxiv_id": "1903.11314",
+      "doi": "10.1145/3363554",
+      "publicationDate": "2019-03-27",
+      "year": 2019
+    },
+    {
+      "title": "High Performance Monte Carlo Simulation of Ising Model on TPU Clusters",
+      "arxiv_id": "1903.11714",
+      "doi": "10.1145/3295500.3356149",
+      "publicationDate": "2019-03-27",
+      "year": 2019
+    },
+    {
+      "title": "Evaluating Modern GPU Interconnect: PCIe, NVLink, NV-SLI, NVSwitch and GPUDirect",
+      "arxiv_id": "1903.04611",
+      "doi": "10.1109/TPDS.2019.2928289",
+      "publicationDate": "2019-03-11",
+      "year": 2019
+    },
+    {
+      "title": "Scaling Distributed Machine Learning with In-Network Aggregation",
+      "arxiv_id": "1903.06701",
+      "doi": null,
+      "publicationDate": "2019-02-22",
+      "year": 2019
+    },
+    {
+      "title": "SwitchAgg: A Further Step Towards In-Network Computation",
+      "arxiv_id": "1904.04024",
+      "doi": "10.1145/3289602.3293963",
+      "publicationDate": "2019-02-20",
+      "year": 2019
+    },
+    {
+      "title": "HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array",
+      "arxiv_id": "1901.02067",
+      "doi": "10.1109/HPCA.2019.00027",
+      "publicationDate": "2019-01-07",
+      "year": 2019
+    },
+    {
+      "title": "Training Deep Neural Networks with 8-bit Floating Point Numbers",
+      "arxiv_id": "1812.08011",
+      "doi": null,
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-11-16",
+      "year": 2018
+    },
+    {
+      "title": "Massively Distributed SGD: ImageNet/ResNet-50 Training in a Flash",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-11-13",
+      "year": 2018
+    },
+    {
+      "title": "Mesh-TensorFlow: Deep Learning for Supercomputers",
+      "arxiv_id": "1811.02084",
+      "doi": null,
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs",
+      "arxiv_id": "1810.09868",
+      "doi": null,
+      "publicationDate": "2018-10-23",
+      "year": 2018
+    },
+    {
+      "title": "Gandiva: Introspective Cluster Scheduling for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes",
+      "arxiv_id": "1807.11205",
+      "doi": null,
+      "publicationDate": "2018-07-30",
+      "year": 2018
+    },
+    {
+      "title": "Supporting Very Large Models using Automatic Dataflow Graph Partitioning",
+      "arxiv_id": "1807.08887",
+      "doi": "10.1145/3302424.3303953",
+      "publicationDate": "2018-07-24",
+      "year": 2018
+    },
+    {
+      "title": "Beyond Data and Model Parallelism for Deep Neural Networks",
+      "arxiv_id": "1807.05358",
+      "doi": null,
+      "publicationDate": "2018-07-14",
+      "year": 2018
+    },
+    {
+      "title": "Spotlight: Optimizing Device Placement for Training Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-07-03",
+      "year": 2018
+    },
+    {
+      "title": "PipeDream: Fast and Efficient Pipeline Parallel DNN Training",
+      "arxiv_id": "1806.03377",
+      "doi": null,
+      "publicationDate": "2018-06-08",
+      "year": 2018
+    },
+    {
+      "title": "TicTac: Accelerating Distributed Deep Learning with Communication Scheduling",
+      "arxiv_id": "1803.03288",
+      "doi": null,
+      "publicationDate": "2018-03-08",
+      "year": 2018
+    },
+    {
+      "title": "Horovod: fast and easy distributed deep learning in TensorFlow",
+      "arxiv_id": "1802.05799",
+      "doi": null,
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks",
+      "arxiv_id": "1802.04924",
+      "doi": null,
+      "publicationDate": "2018-02-14",
+      "year": 2018
+    },
+    {
+      "title": "Halide",
+      "arxiv_id": null,
+      "doi": "10.1145/3150211",
+      "publicationDate": "2017-12-27",
+      "year": 2017
+    },
+    {
+      "title": "Mixed Precision Training",
+      "arxiv_id": "1710.03740",
+      "doi": null,
+      "publicationDate": "2017-10-10",
+      "year": 2017
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "Device Placement Optimization with Reinforcement Learning",
+      "arxiv_id": "1706.04972",
+      "doi": null,
+      "publicationDate": "2017-06-13",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters",
+      "arxiv_id": "1706.03292",
+      "doi": null,
+      "publicationDate": "2017-06-11",
+      "year": 2017
+    },
+    {
+      "title": "Dragonfly+: Low Cost Topology for Scaling Datacenters",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPINEB.2017.11",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "ECN or Delay: Lessons Learnt from Analysis of DCQCN and TIMELY",
+      "arxiv_id": null,
+      "doi": "10.1145/2999572.2999593",
+      "publicationDate": "2016-12-06",
+      "year": 2016
+    },
+    {
+      "title": "Scalable Hierarchical Aggregation Protocol (SHArP): A Hardware Architecture for Efficient Data Reduction",
+      "arxiv_id": null,
+      "doi": "10.1109/COM-HPC.2016.6",
+      "publicationDate": "2016-11-13",
+      "year": 2016
+    },
+    {
+      "title": "RDMA over Commodity Ethernet at Scale",
+      "arxiv_id": null,
+      "doi": "10.1145/2934872.2934908",
+      "publicationDate": "2016-08-22",
+      "year": 2016
+    },
+    {
+      "title": "Training Deep Nets with Sublinear Memory Cost",
+      "arxiv_id": "1604.06174",
+      "doi": null,
+      "publicationDate": "2016-04-21",
+      "year": 2016
+    },
+    {
+      "title": "Congestion Control for Large-Scale RDMA Deployments",
+      "arxiv_id": null,
+      "doi": "10.1145/2785956.2787484",
+      "publicationDate": "2015-08-17",
+      "year": 2015
+    },
+    {
+      "title": "TIMELY: RTT-based Congestion Control for the Datacenter",
+      "arxiv_id": null,
+      "doi": "10.1145/2785956.2787510",
+      "publicationDate": "2015-08-17",
+      "year": 2015
+    },
+    {
+      "title": "NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres",
+      "arxiv_id": null,
+      "doi": "10.1145/2674005.2674996",
+      "publicationDate": "2014-12-02",
+      "year": 2014
+    },
+    {
+      "title": "Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks",
+      "arxiv_id": null,
+      "doi": "10.1145/2670979.2670985",
+      "publicationDate": "2014-11-03",
+      "year": 2014
+    },
+    {
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "arxiv_id": "1409.0473",
+      "doi": null,
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "P4: programming protocol-independent packet processors",
+      "arxiv_id": "1312.1719",
+      "doi": "10.1145/2656877.2656890",
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "The MVAPICH Project: Evolution and Sustainability of an Open Source Production Quality MPI Library for HPC",
+      "arxiv_id": null,
+      "doi": "10.6084/M9.FIGSHARE.791563.V5",
+      "publicationDate": "2013-09-13",
+      "year": 2013
+    },
+    {
+      "title": "Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation",
+      "arxiv_id": "1308.3432",
+      "doi": null,
+      "publicationDate": "2013-08-15",
+      "year": 2013
+    },
+    {
+      "title": "Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines",
+      "arxiv_id": null,
+      "doi": "10.1145/2491956.2462176",
+      "publicationDate": "2013-06-16",
+      "year": 2013
+    },
+    {
+      "title": "On the impact of packet spraying in data center networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2013.6567015",
+      "publicationDate": "2013-04-14",
+      "year": 2013
+    },
+    {
+      "title": "Camdoop: Exploiting In-network Aggregation for Big Data Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-04-25",
+      "year": 2012
+    },
+    {
+      "title": "Communication-Optimal Parallel 2.5D Matrix Multiplication and LU Factorization Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-23397-5_10",
+      "publicationDate": "2011-08-29",
+      "year": 2011
+    },
+    {
+      "title": "Jellyfish: Networking Data Centers Randomly",
+      "arxiv_id": "1110.1687",
+      "doi": null,
+      "publicationDate": "2011-06-14",
+      "year": 2011
+    },
+    {
+      "title": "The development of Mellanox/NVIDIA GPUDirect over InfiniBand—a new model for GPU to GPU communications",
+      "arxiv_id": null,
+      "doi": "10.1007/s00450-011-0157-1",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "The Hadoop Distributed File System",
+      "arxiv_id": null,
+      "doi": "10.1109/MSST.2010.5496972",
+      "publicationDate": "2010-05-03",
+      "year": 2010
+    },
+    {
+      "title": "BCube: a high performance, server-centric network architecture for modular data centers",
+      "arxiv_id": null,
+      "doi": "10.1145/1592568.1592577",
+      "publicationDate": "2009-08-16",
+      "year": 2009
+    },
+    {
+      "title": "Bandwidth optimal all-reduce algorithms for clusters of workstations",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2008.09.002",
+      "publicationDate": "2009-02-01",
+      "year": 2009
+    },
+    {
+      "title": "Dcell: a scalable and fault-tolerant network structure for data centers",
+      "arxiv_id": null,
+      "doi": "10.1145/1402958.1402968",
+      "publicationDate": "2008-08-17",
+      "year": 2008
+    },
+    {
+      "title": "Technology-Driven, Highly-Scalable Dragonfly Topology",
+      "arxiv_id": null,
+      "doi": "10.1145/1394608.1382129",
+      "publicationDate": "2008-06-01",
+      "year": 2008
+    },
+    {
+      "title": "Ceph: a scalable, high-performance distributed file system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2006-11-06",
+      "year": 2006
+    },
+    {
+      "title": "Open MPI: Goals, Concept, and Design of a Next Generation MPI Implementation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-30218-6_19",
+      "publicationDate": "2004-09-19",
+      "year": 2004
+    },
+    {
+      "title": "MPICH2: A New Start for MPI Implementations",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-45825-5_5",
+      "publicationDate": "2002-09-29",
+      "year": 2002
+    },
+    {
+      "title": "Analysis of an Equal-Cost Multi-Path Algorithm",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC2992",
+      "publicationDate": "2000-11-01",
+      "year": 2000
+    },
+    {
+      "title": "A three-dimensional approach to parallel matrix multiplication",
+      "arxiv_id": null,
+      "doi": "10.1147/rd.395.0575",
+      "publicationDate": "1995-09-01",
+      "year": 1995
+    },
+    {
+      "title": "SUMMA: scalable universal matrix multiplication algorithm",
+      "arxiv_id": null,
+      "doi": "10.1002/(SICI)1096-9128(199704)9:4%3C255::AID-CPE250%3E3.0.CO;2-2",
+      "publicationDate": "1995-04-01",
+      "year": 1995
+    },
+    {
+      "title": "Adaptive Mixtures of Local Experts",
+      "arxiv_id": null,
+      "doi": "10.1162/neco.1991.3.1.79",
+      "publicationDate": "1991-03-01",
+      "year": 1991
+    },
+    {
+      "title": "Interconnection Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/C-M.1981.220288",
+      "publicationDate": "1981-12-01",
+      "year": 1981
+    },
+    {
+      "title": "A study of non-blocking switching networks",
+      "arxiv_id": null,
+      "doi": "10.1002/J.1538-7305.1953.TB01433.X",
+      "publicationDate": "1953-03-01",
+      "year": 1953
+    },
+    {
+      "title": "OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.emnlp-demos.48",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "slime Contributors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Resiliency at Scale: Managing Google's TPUv4 Machine Learning Supercomputer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Accelerating the Training of Large Language Models using Efficient Activation Rematerialization and Optimal Hybrid Parallelism",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Universal Checkpointing: Efficient and Flexible Checkpointing for Large Scale Distributed Training",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.18820",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "DISTMM: Accelerating Distributed Multimodal Model Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "WallFacer: Guiding Transformer Model Training Out of the Long-Context Dark Forest with N-body Problem",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2407.00611",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2405.11143",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Towards Domain-Specific Network Transport for Distributed DNN Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2403.06504",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SlipStream: Adapting Pipelines for Distributed Training of Large DNNs Amid Failures",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2405.14009",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Efficient Large Language Models: A Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Building Meta’s GenAI Infrastructure",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Breadth-First Pipeline Parallelism",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2211.05953",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Hanayo: Harnessing Wave-Like Pipeline Parallelism for Enhanced Large Model Training Efficiency",
+      "arxiv_id": "2308.15762",
+      "doi": "10.1145/3581784.3607073",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Welder: Scheduling Deep Learning Memory Access via Tile-graph",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Better Together: Jointly Optimizing ML Collective Scheduling and Execution Planning using SYNDICATE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "EnvPipe: Performance-preserving DNN Training Framework for Saving Energy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0386",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Aligning Large Language Models with Human: A Survey",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2307.12966",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Automated Tensor Model Parallelism with Overlapped Communication for Efficient Foundation Model Training",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2305.16121",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.12670",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "GPU Energy Consumption of",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Gaudi training platform white paper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "mCAP: Memory-Centric Partitioning for Large-Scale Pipeline-Parallel DNN Training",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-12597-3_10",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ROLLER: Fast and Efficient Tensor Compilation for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "This paper is included in the Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation. Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Piper: Multidimensional Planner for DNN Parallelization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "In-network Aggregation for Shared Machine Learning Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Facebook's Tectonic Filesystem: Efficiency from Exascale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ATP: In-network Aggregation for Multi-tenant Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "CheckFreq: Frequent, Fine-Grained DNN Checkpointing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Deepspeed autotuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "AntMan: Dynamic Scaling on GPU Clusters for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Meta-Research",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-95870-5_300165",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "“Plink: Discovering and exploiting datacenter network locality for efficient cloud-based distributed training,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "“Infiniband product guide,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Massively scale your deep learning training with nccl 2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "for DNN training workloads",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "“Jax: composable transformations of python+ numpy programs,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Rccl library",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "framework for emerging { AI } applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Doubling all2all performance with nvidia collective communication library 2.12",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Nvidia dgx-2: The world’s most powerful system for the most complex ai challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "NVIDIA DGX-1 System Architecture White paper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Roce vs. iwarp competitive analysis,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Nvidia data center gpu manager (dcgm),”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": ": TOWARDS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "802.1qbb – priority-based flow control",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Supplement to infiniband architecture specification volume 1 release 1.2.2 annex a16",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Architectural Specifications for RDMA over TCP/IP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Using PCI Express ® as the primary system interconnect in multiroot compute, storage, communications and embedded systems. White Paper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Lustre: Building a File System for 1,000-node Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "An Introduction to the InfiniBand Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "Gradient-based learning applied to document recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/5.726791",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "MPI: A message - passing interface standard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "A cellular computer to implement the kalman filter algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1969
+    },
+    {
+      "title": "LlamaTeam",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Boosting large-scale parallel training efficiency with c4: A communication-driven approach,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "This paper is included in the Proceedings of the 2022 USENIX Annual Technical Conference. Whale: Efficient Giant Model Training over Heterogeneous GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "This Paper Is Included in the Proceedings of the 12th Usenix Symposium on Operating Systems Design and Implementation (osdi '16). Tensorflow: a System for Large-scale Machine Learning Tensorflow: a System for Large-scale Machine Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large language diffusion models. (2025)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Unsloth - finetune llama 3, mistral, phi-3 & gemma 2-5x faster with 80.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Marti: A framework for multi-agent llm systems reinforced training and inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Gemini: a family of highly capable multimodal models. (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Megatron context parallelism (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Trl - transformer reinforcement learning.”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A codesign of scheduling and parallelization for large model training in heterogeneous clusters. (2024)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "(2023) Pytorch expandable segments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“ { Check-N-Run } : A checkpointing system for training deep learning recommendation models,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Realhf: Optimized rlhf training for large language models through parameter reallocation. (2024)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "(2023) Taking stock of new data center computing paradigm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Torchsnapshor: A performant, memory-efficient checkpointing library for pytorch applications, designed with large, complex distributed workloads in mind.”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“ { MLaaS } in the wild: Workload analysis and scheduling in { Large-Scale } heterogeneous { GPU } clusters,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Optimized network architectures for large language model training with billions of parameters. (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Analysis of large-scale multi-tenant GPU clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The promise and peril of generative ai",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“An edge-queued datagram service for all datacenter traffic,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Accl: Architecting highly scalable dis-41",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+topic: Large Language Model-Based Agents for Software Engineering
+domain: se
+gt:
+  arxiv_id: null
+  doi: "10.1145/3796507"
+  title: "Large Language Model-Based Agents for Software Engineering: A Survey"
+  published: "2026-03-05"
+notes: "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: TOSEM. 출처: OpenAlex API (arXiv API 503 중 대체)"

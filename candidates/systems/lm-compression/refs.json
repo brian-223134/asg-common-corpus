@@ -1,0 +1,1202 @@
+{
+  "candidate": {
+    "topic": "A Comprehensive Survey of Compression Algorithms for Language Models",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3819816",
+      "title": "A Comprehensive Survey of Compression Algorithms for Language Models",
+      "published": "2026-07-27"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T03:47:23+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 168,
+    "arxiv_resolvable": 35,
+    "doi_only": 22,
+    "unresolved": 111
+  },
+  "gt_s2": {
+    "note": "s2-404"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": "1803.08375",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": "1607.06450",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "IJCNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2309.01885",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1308.3432",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1906.00532",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": "1708.00055",
+      "doi": "10.18653/v1/s17-2001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.08162",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d16-1053",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey on model compression and acceleration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2006.16362",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2020.2976475",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0441",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.03078",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NAACL-HLT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "IWP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2210.17323",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Compressing large-scale transformer-based models: A case study on bert",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00413",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2103.13630",
+      "doi": "10.1201/9781003162810-13",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ACL 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3487045",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NAACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "NIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "NeurIPS Datasets and Benchmarks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "1606.08415",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Sparsity in deep learning: pruning and growth for efficient inference and training in neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "CVPR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.14864",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IJCNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "EMNLP (ACL)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": "2101.05938",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/p17-1147",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2302.14017",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "KDD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.09723",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.emnlp-main.279",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00276",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2021.emnlp-main.829",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1989
+    },
+    {
+      "title": "CVPR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0253241",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.emnlp-main.242",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ACL/IJCNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.08659",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "NAACL-HLT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "MLSys",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "1907.11692",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "CVPR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Findings of ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": "2209.05433",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "IJCNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d16-1244",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2025/913",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0265621",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d16-1264",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.02258",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "On the effect of dropping layers of pre-trained transformer models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "1910.01108",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": "2211.05100",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v34i05.6409",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DATE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "COLING",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "IJCNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": "2203.13483",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.acl-long.331",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2006.04768",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IJCNLP (ACL)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.emnlp-main.496",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/n18-1101",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IJCNLP (ACL)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": "2004.09602",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML (PMLR)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2307.09782",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.acl-long.107",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.18096",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.08302",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2105.14636",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.01089",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpami.2025.3593987",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "MICRO",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "NeurIPS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.acl-short.1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Findings of ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ICLR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EMNLP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ACL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "NLPCC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    }
+  ]
+}

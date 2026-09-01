@@ -1,0 +1,2301 @@
+{
+  "candidate": {
+    "topic": "Large Language Model-Based Agents for Software Engineering",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3796507",
+      "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+      "published": "2026-03-05"
+    },
+    "notes": "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: TOSEM. 출처: OpenAlex API (arXiv API 503 중 대체)"
+  },
+  "extracted_at": "2026-09-01T03:47:05+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 325,
+    "arxiv_resolvable": 58,
+    "doi_only": 167,
+    "unresolved": 100
+  },
+  "gt_s2": {
+    "note": "s2-404"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the First International Workshop on New Foundations for Human-Centered AI (NeHuAI) co-located with 24th European Conference on Artificial Intelligence (ECAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3212695",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3729398",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cmpsac.1997.625042",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-55642-5_6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510106",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1115/1.4067388",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Program Synthesis with Large Language Models. CoRR abs/2108.07732",
+      "arxiv_id": "2108.07732",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.4230/lipics.ecoop.2016.2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3643757",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.04442",
+      "doi": "10.48550/arxiv.2404.04442",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3324884.3416566",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2021.3125203",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134288",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mc.2012.345",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Unified Modeling Language",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00157",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tciaig.2012.2186810",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.naacl-demo.2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2351676.2351752",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-08867-9_22",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.01304",
+      "doi": "10.48550/arxiv.2406.01304",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3363562",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3663529.3663801",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680369",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3735554",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2019.2940179",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3729350",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification. In The World Wide Web Conference, WWW",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3652155",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3638247",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.03428",
+      "doi": "10.48550/arxiv.2401.03428",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-20398-5_35",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/bf00140399",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3708493.3712691",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2024.107468",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-78800-3_24",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-78800-3_24",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.05102",
+      "doi": "10.48550/arxiv.2402.05102",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing. In 33rd USENIX Security Symposium, USENIX Security 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598067",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICML 2024 Workshop on Data-Centric Machine Learning Research. https://openreview.net/forum?id=yqjr7ojVYa",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3695991",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3672459",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.11147",
+      "doi": "10.48550/arxiv.2406.11147",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.11147",
+      "doi": "10.48550/arxiv.2406.11147",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Forty-first International Conference on Machine Learning, ICML 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.scico.2007.01.015",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2025.112571",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00173",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3639477.3639743",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse-fose59343.2023.00008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2310.08837",
+      "doi": "10.48550/arxiv.2310.08837",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.08144",
+      "doi": "10.48550/arxiv.2404.08144",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/wetseb.2019.00008",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3608137",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-45251-6_29",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.14034",
+      "doi": "10.48550/arxiv.2402.14034",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Privacy-Preserving Collaborative Learning With Automatic Transformation Search. In IEEE Conference on Computer Vision and Pattern Recognition, CVPR",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2017.2755013",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2021.emnlp-main.446",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.14196",
+      "doi": "10.48550/arxiv.2401.14196",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.54",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.08477",
+      "doi": "10.48550/arxiv.2312.08477",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A Survey on Incremental Software Development Life Cycle Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Mutpy: A Mutation Testing Tool for Python 3.x Source Code. https://github.com/mutpy/mutpy.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3712003",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-main.1082",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.06598",
+      "doi": "10.48550/arxiv.2402.06598",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3695988",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tps-isa58951.2023.00044",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.08784",
+      "doi": "10.48550/arxiv.2308.08784",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2312.13010",
+      "doi": "10.48550/arxiv.2312.13010",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.02716",
+      "doi": "10.48550/arxiv.2402.02716",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.02183",
+      "doi": "10.48550/arxiv.2404.02183",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.269",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/624631.626005",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code. In The Thirteenth International Conference on Learning Representations, ICLR 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3747588",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse48619.2023.00125",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.02907",
+      "doi": "10.48550/arxiv.2306.02907",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2405.03256",
+      "doi": "10.48550/arxiv.2405.03256",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.70930/tac/1davhtex",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i4.25642",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.01285",
+      "doi": "10.48550/arxiv.2308.01285",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/375735.376334",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2610384.2628055",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1613/jair.301",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3660771",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-024-10594-x",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1023/b:emse.0000027781.18360.9b",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings, Vol. 74",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/re59067.2024.00056",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "et al",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.17153",
+      "doi": "10.48550/arxiv.2404.17153",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2405.14906",
+      "doi": "10.48550/arxiv.2405.14906",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse48619.2023.00085",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2017.12.028",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510173",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Exploration of Large Language Model Society. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3649828",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Trans. Mach. Learn. Res. 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.17780",
+      "doi": "10.48550/arxiv.2303.17780",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549099",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3293882.3330574",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ase.2019.00104",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities. In The Thirteenth International Conference on Learning Representations, ICLR 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tdsc.2021.3051525",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3490388",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3135932.3135941",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00140",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.10018",
+      "doi": "10.48550/arxiv.2406.10018",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3575693.3575707",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Rigorous Evaluation of Large Language Models for Code Generation. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "EvoDev: An Iterative Feature-Driven Framework for End-to-End Software Development with LLM-based Agents. arXiv preprint arXiv:2511.02399",
+      "arxiv_id": "2511.02399",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.20",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112278",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2025.241357",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.05374",
+      "doi": "10.48550/arxiv.2308.05374",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse48619.2023.00119",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639180",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639118",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2407.03037",
+      "doi": "10.48550/arxiv.2407.03037",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cvpr52688.2022.01167",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "First Conference on Language Modeling. https://openreview.net/forum?id=XII0Wp1XA9",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3583131.3590481",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3395363.3397351",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.19173",
+      "doi": "10.48550/arxiv.2402.19173",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of MODELS 2017 Satellite Event: Workshops (ModComp, ME, EXE, COMMitMDE, MRT, MULTI, GEMOC, MoDeVVa, MDETools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-024-00416-3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3510454.3516829",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-demo.46",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3551349.3560417",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents. In Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00129",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.01422",
+      "doi": "10.48550/arxiv.2406.01422",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Self-Refine: Iterative Refinement with Self-Feedback. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/qrs-c63300.2024.00173",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.11584",
+      "doi": "10.48550/arxiv.2404.11584",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse43902.2021.00041",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2018.2870388",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3691620.3695527",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/11734727_17",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Augmented Language Models: A Survey. Trans. Mach. Learn. Res. 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jrproc.1961.287775",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3660810",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Garmisch",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1969
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-10-4154-9_56",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2889160.2889173",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/forge66646.2025.00026",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/336512.336523",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2502.20566",
+      "doi": "10.48550/arxiv.2502.20566",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3115/1073083.1073135",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.09014",
+      "doi": "10.48550/arxiv.2303.09014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/spe.4380250705",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3643795.3648382",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597926.3598128",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Requirements Engineering: An Overview. RWTH, Fachgruppe Informatik Aachen.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.13187",
+      "doi": "10.48550/arxiv.2304.13187",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.305",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2405.04219",
+      "doi": "10.48550/arxiv.2405.04219",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.810",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Scaling Large Language Model-based Multi-Agent Collaboration. In The Thirteenth International Conference on Learning Representations, ICLR 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2025.3543187",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/msr.2019.00066",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-011-0142-z",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Advances in Neural Information Processing Systems 39: Annual Conference on Neural Information Processing Systems 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.18496",
+      "doi": "10.48550/arxiv.2404.18496",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.01411",
+      "doi": "10.48550/arxiv.2402.01411",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-72781-8_2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ase56229.2023.00143",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1023/a:1015008417172",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.08500",
+      "doi": "10.48550/arxiv.2401.08500",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4471-2099-5_24",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-48550-3_17",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/41765.41801",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00080",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2406.05381",
+      "doi": "10.48550/arxiv.2406.05381",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2023.3334955",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Language Models Are Multilingual Chain-of-thought Reasoners. In The Eleventh International Conference on Learning Representations, ICLR 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Reflexion: Language Agents with Verbal Reinforcement Learning. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cvpr42600.2020.01075",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning. In 9th International Conference on Learning Representations, ICLR 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5120/cae2015651947",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Learning Performance-Improving Code Edits. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse.2003.1201189",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/saner.2018.8330203",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, and etc.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3106237.3106298",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.16185",
+      "doi": "10.48550/arxiv.2401.16185",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3519939.3523708",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.cl.2017.11.003",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3613904.3642777",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2306.03314",
+      "doi": "10.48550/arxiv.2306.03314",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2019.06.020",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-main.632",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution. In Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse55347.2025.00108",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2024.3397822",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2403.08299",
+      "doi": "10.48550/arxiv.2403.08299",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00766-023-00411-0",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3643762",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MASAI: Modular Architecture for Software-engineering AI Agents. In NeurIPS 2024 Workshop on Open-World Agents. https://openreview.net/forum?id=NSINt8lLYB",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse-nier66352.2025.00017",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3714462",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LLMDFA: Analyzing Dataflow in Code with Large Language Models. In Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-acl.124",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2024.3368208",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11704-024-40231-1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Executable Code Actions Elicit Better LLM Agents. In Forty-first International Conference on Machine Learning, ICML 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models. In The Eleventh International Conference on Learning Representations, ICLR 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2403.05313",
+      "doi": "10.48550/arxiv.2403.05313",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3627673.3680016",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.naacl-long.15",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.02705",
+      "doi": "10.48550/arxiv.2401.02705",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. In Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-65630-9_16",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.07061",
+      "doi": "10.48550/arxiv.2304.07061",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3368089.3417943",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2016.2521368",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "First Conference on Language Modeling. https://openreview.net/forum?id=BAakY1hNKS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-024-4222-0",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3715754",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639121",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse48619.2023.00129",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549101",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2301.13246",
+      "doi": "10.48550/arxiv.2301.13246",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680323",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.12833",
+      "doi": "10.48550/arxiv.2404.12833",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.emnlp-demo.20",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Lemur: Harmonizing Natural Language and Code for Language Agents. In The Twelfth International Conference on Learning Representations, ICLR 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "2404.04966",
+      "doi": "10.48550/arxiv.2404.04966",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3689736",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3676641.3716022",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. In Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models. In The Eleventh International Conference on Learning Representations, ICLR 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.10778",
+      "doi": "10.48550/arxiv.2304.10778",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icst60714.2024.00020",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3623316",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2409.19894",
+      "doi": "10.48550/arxiv.2409.19894",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2308.01240",
+      "doi": "10.48550/arxiv.2308.01240",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3660783",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2408.14354",
+      "doi": "10.48550/arxiv.2408.14354",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2403.16443",
+      "doi": "10.48550/arxiv.2403.16443",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Why Programs Fail - A Guide to Systematic Debugging",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3368089.3409686",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Empirical Evaluation of ChatGPT on Requirements Information Retrieval Under Zero-shot Setting. In 2023 International Conference on Intelligent Computing and Next Generation Networks (ICNGN)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2019.2962027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.04032",
+      "doi": "10.48550/arxiv.2305.04032",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.737",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.45",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents. In The Thirteenth International Conference on Learning Representations, ICLR 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3746635",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tse.2025.3590108",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11390-018-1864-x",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icse43902.2021.00018",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.01062",
+      "doi": "10.48550/arxiv.2401.01062",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-emnlp.232",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3411764.3445186",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2309.01219",
+      "doi": "10.48550/arxiv.2309.01219",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3650212.3680384",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3748302",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Automatic Chain of Thought Prompting in Large Language Models. In The Eleventh International Conference on Learning Representations, ICLR 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2303.18223",
+      "doi": "10.48550/arxiv.2303.18223",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-acl.49",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Forty-first International Conference on Machine Learning, ICML 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models. In The Eleventh International Conference on Learning Representations, ICLR 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.14778/3675034.3675043",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2505.19489",
+      "doi": "10.48550/arxiv.2505.19489",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Annual Meeting of the Association for Computational Linguistics (ACL).",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    }
+  ]
+}

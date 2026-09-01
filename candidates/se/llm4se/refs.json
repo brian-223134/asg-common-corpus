@@ -1,0 +1,855 @@
+{
+  "candidate": {
+    "topic": "A survey on large language models for software engineering",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-025-4670-0",
+      "title": "A survey on large language models for software engineering",
+      "published": "2026-03-05"
+    },
+    "notes": "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: SCIS. 출처: OpenAlex API (arXiv API 503 중 대체)"
+  },
+  "extracted_at": "2026-09-01T03:40:01+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 117,
+    "arxiv_resolvable": 68,
+    "doi_only": 49,
+    "unresolved": 0
+  },
+  "gt_s2": {
+    "paperId": "a3b89224fea6a5a79278a20212bf080ae3864a8b",
+    "externalIds": {
+      "DBLP": "journals/chinaf/ZhangFXZYSYC26",
+      "DOI": "10.1007/s11432-025-4670-0",
+      "CorpusId": 289321941
+    },
+    "title": "A survey on large language models for software engineering",
+    "venue": "Science China Information Sciences",
+    "year": 2026,
+    "referenceCount": 117,
+    "publicationDate": "2026-03-05"
+  },
+  "refs": [
+    {
+      "title": "ConTested: Consistency-Aided Tested Code Generation with LLM",
+      "arxiv_id": null,
+      "doi": "10.1145/3728902",
+      "publicationDate": "2025-06-22",
+      "year": 2025
+    },
+    {
+      "title": "Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns",
+      "arxiv_id": null,
+      "doi": "10.1145/3715757",
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "Learning to represent code semantics",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-023-3898-5",
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "Wenwang: Toward Effectively Generating Code Beyond Standalone Functions via Generative Pre-trained Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3725213",
+      "publicationDate": "2025-03-20",
+      "year": 2025
+    },
+    {
+      "title": "Improving Deep Assertion Generation via Fine-Tuning Retrieval-Augmented Pre-Trained Language Models",
+      "arxiv_id": "2502.16071",
+      "doi": "10.1145/3721128",
+      "publicationDate": "2025-02-22",
+      "year": 2025
+    },
+    {
+      "title": "GTE: learning code AST representation efficiently and effectively",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-024-4262-5",
+      "publicationDate": "2025-02-08",
+      "year": 2025
+    },
+    {
+      "title": "A Large-Scale Empirical Study on Fine-Tuning Large Language Models for Unit Testing",
+      "arxiv_id": "2412.16620",
+      "doi": "10.1145/3728951",
+      "publicationDate": "2024-12-21",
+      "year": 2024
+    },
+    {
+      "title": "The Current Challenges of Software Engineering in the Era of Large Language Models",
+      "arxiv_id": "2412.14554",
+      "doi": "10.1145/3712005",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation",
+      "arxiv_id": "2411.06774",
+      "doi": "10.1145/3728947",
+      "publicationDate": "2024-11-11",
+      "year": 2024
+    },
+    {
+      "title": "Security of Language Models for Code: A Systematic Literature Review",
+      "arxiv_id": "2410.15631",
+      "doi": "10.48550/arXiv.2410.15631",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "Deep learning-based software engineering: progress, challenges, and opportunities",
+      "arxiv_id": "2410.13110",
+      "doi": "10.1007/s11432-023-4127-5",
+      "publicationDate": "2024-10-17",
+      "year": 2024
+    },
+    {
+      "title": "Deep learning for code generation: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-023-3956-3",
+      "publicationDate": "2024-08-20",
+      "year": 2024
+    },
+    {
+      "title": "Eliminating Backdoors in Neural Code Models for Secure Code Understanding",
+      "arxiv_id": "2408.04683",
+      "doi": "10.1145/3715782",
+      "publicationDate": "2024-08-08",
+      "year": 2024
+    },
+    {
+      "title": "CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature",
+      "arxiv_id": "2408.01733",
+      "doi": "10.1145/3650212.3652142",
+      "publicationDate": "2024-08-03",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Search-Based Unit Test Generation with Large Language Models: An Empirical Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3671016.3674813",
+      "publicationDate": "2024-07-24",
+      "year": 2024
+    },
+    {
+      "title": "An Exploratory Evaluation of Large Language Models Using Empirical Software Engineering Tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/3671016.3674821",
+      "publicationDate": "2024-07-24",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Study on Code Search Pre-trained Models: Academic Progresses vs. Industry Requirements",
+      "arxiv_id": null,
+      "doi": "10.1145/3671016.3672580",
+      "publicationDate": "2024-07-24",
+      "year": 2024
+    },
+    {
+      "title": "Synergistic Utilization of LLMs for Program Synthesis",
+      "arxiv_id": null,
+      "doi": "10.1145/3638530.3654426",
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3643760",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3660785",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "SimLLM: Calculating Semantic Similarity in Code Summaries using a Large Language Model-Based Approach",
+      "arxiv_id": null,
+      "doi": "10.1145/3660769",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Evaluating and Improving ChatGPT for Unit Test Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3660783",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Detecting, Creating, Repairing, and Understanding Indivisible Multi-Hunk Bugs",
+      "arxiv_id": null,
+      "doi": "10.1145/3660828",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "COSTELLO: Contrastive Testing for Embedding-Based Large Language Model as a Service Embeddings",
+      "arxiv_id": null,
+      "doi": "10.1145/3643767",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "CORE: Resolving Code Quality Issues using LLMs",
+      "arxiv_id": null,
+      "doi": "10.1145/3643762",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Foundation Model Engineering: Engineering Foundation Models Just as Engineering Software",
+      "arxiv_id": "2407.08176",
+      "doi": "10.1145/3719005",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "AceCoder: An Effective Prompting Technique Specialized in Code Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3675395",
+      "publicationDate": "2024-07-04",
+      "year": 2024
+    },
+    {
+      "title": "Cross-Modal Retrieval-enhanced code Summarization based on joint learning for retrieval and generation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2024.107527",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "A Performance Study of LLM-Generated Code on Leetcode",
+      "arxiv_id": "2407.21579",
+      "doi": "10.1145/3661167.3661221",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "LLM-Based Chatbots for Mining Software Repositories: Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1145/3661167.3661218",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models",
+      "arxiv_id": "2406.03660",
+      "doi": "10.1145/3643776",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach",
+      "arxiv_id": null,
+      "doi": "10.1145/3649828",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "PyDex: Repairing Bugs in Introductory Python Assignments using LLMs",
+      "arxiv_id": null,
+      "doi": "10.1145/3649850",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model vs. Stack Overflow in Addressing Android Permission Related Challenges",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644933",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Supporting High-Level to Low-Level Requirements Coverage Reviewing with Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644922",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "MicroRec: Leveraging Large Language Models for Microservice Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644916",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging GPT-like LLMs to Automate Issue Labeling",
+      "arxiv_id": null,
+      "doi": "10.1145/3643991.3644903",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection",
+      "arxiv_id": "2404.09894",
+      "doi": "10.1145/3660799",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead",
+      "arxiv_id": "2404.02525",
+      "doi": "10.1145/3708522",
+      "publicationDate": "2024-04-03",
+      "year": 2024
+    },
+    {
+      "title": "Whodunit: Classifying Code as Human Authored or GPT-4 generated- A case study on CodeChef problems",
+      "arxiv_id": "2403.04013",
+      "doi": "10.1145/3643991.3644926",
+      "publicationDate": "2024-03-06",
+      "year": 2024
+    },
+    {
+      "title": "Compositional API Recommendation for Library-Oriented Code Generation",
+      "arxiv_id": "2402.19431",
+      "doi": "10.1145/3643916.3644403",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Do Machines and Humans Focus on Similar Code? Exploring Explainability of Large Language Models in Code Summarization",
+      "arxiv_id": "2402.14182",
+      "doi": "10.1145/3643916.3644434",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "When debugging encounters artificial intelligence: state of the art and open challenges",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-022-3803-9",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "Can ChatGPT Support Developers? An Empirical Evaluation of Large Language Models for Code Generation",
+      "arxiv_id": "2402.11702",
+      "doi": "10.1145/3643991.3645074",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks",
+      "arxiv_id": "2402.05650",
+      "doi": "10.1145/3643758",
+      "publicationDate": "2024-02-08",
+      "year": 2024
+    },
+    {
+      "title": "Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models",
+      "arxiv_id": "2401.10845",
+      "doi": "10.1145/3643787.3648034",
+      "publicationDate": "2024-01-19",
+      "year": 2024
+    },
+    {
+      "title": "LPR: Large Language Models-Aided Program Reduction",
+      "arxiv_id": "2312.13064",
+      "doi": "10.1145/3650212.3652126",
+      "publicationDate": "2023-12-20",
+      "year": 2023
+    },
+    {
+      "title": "TransMap: Pinpointing Mistakes in Neural Code Translation",
+      "arxiv_id": null,
+      "doi": "10.1145/3611643.3616322",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Assisting Static Analysis with Large Language Models: A ChatGPT Experiment",
+      "arxiv_id": null,
+      "doi": "10.1145/3611643.3613078",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Vision Transformer Inspired Automated Vulnerability Repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3632746",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "Poison Attack and Poison Detection on Deep Source Code Processing Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3630008",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model",
+      "arxiv_id": "2310.06266",
+      "doi": "10.1145/3639477.3639719",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?",
+      "arxiv_id": "2310.01831",
+      "doi": "10.1145/3660791",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "An initial investigation of ChatGPT unit test generation capability",
+      "arxiv_id": null,
+      "doi": "10.1145/3624032.3624035",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "CodePlan: Repository-Level Coding using LLMs and Planning",
+      "arxiv_id": "2309.12499",
+      "doi": "10.1145/3643757",
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "Distilled GPT for source code summarization",
+      "arxiv_id": "2308.14731",
+      "doi": "10.1007/s10515-024-00421-4",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "Towards an understanding of large language models in software engineering tasks",
+      "arxiv_id": "2308.11396",
+      "doi": "10.1007/s10664-024-10602-0",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies",
+      "arxiv_id": "2308.07610",
+      "doi": "10.1145/3643916.3644408",
+      "publicationDate": "2023-08-15",
+      "year": 2023
+    },
+    {
+      "title": "Automated Testing and Improvement of Named Entity Recognition Systems",
+      "arxiv_id": "2308.07937",
+      "doi": "10.1145/3611643.3616295",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization",
+      "arxiv_id": "2308.05487",
+      "doi": "10.1145/3660771",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "MCodeSearcher: Multi-View Contrastive Learning for Code Search",
+      "arxiv_id": null,
+      "doi": "10.1145/3609437.3609456",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Improving requirements completeness: automated assistance through large language models",
+      "arxiv_id": "2308.03784",
+      "doi": "10.1007/s00766-024-00416-3",
+      "publicationDate": "2023-08-03",
+      "year": 2023
+    },
+    {
+      "title": "TABASCO: A transformer based contextualization toolkit",
+      "arxiv_id": null,
+      "doi": "10.1016/j.scico.2023.102994",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Neural-Based Test Oracle Generation: A Large-Scale Evaluation and Lessons Learned",
+      "arxiv_id": "2307.16023",
+      "doi": "10.1145/3611643.3616265",
+      "publicationDate": "2023-07-29",
+      "year": 2023
+    },
+    {
+      "title": "Multilingual Code Co-evolution using Large Language Models",
+      "arxiv_id": "2307.14991",
+      "doi": "10.1145/3611643.3616350",
+      "publicationDate": "2023-07-27",
+      "year": 2023
+    },
+    {
+      "title": "How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation",
+      "arxiv_id": "2307.12469",
+      "doi": "10.1145/3650212.3680355",
+      "publicationDate": "2023-07-24",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating a Large Language Model on Searching for GUI Layouts",
+      "arxiv_id": null,
+      "doi": "10.1145/3593230",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?",
+      "arxiv_id": "2306.01220",
+      "doi": "10.1145/3660807",
+      "publicationDate": "2023-06-02",
+      "year": 2023
+    },
+    {
+      "title": "LLMatic: Neural Architecture Search Via Large Language Models And Quality Diversity Optimization",
+      "arxiv_id": "2306.01102",
+      "doi": "10.1145/3638529.3654017",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "How Effective Are Neural Networks for Fixing Security Vulnerabilities",
+      "arxiv_id": "2305.18607",
+      "doi": "10.1145/3597926.3598135",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring",
+      "arxiv_id": "2305.17708",
+      "doi": "10.1145/3597926.3598092",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Towards More Realistic Evaluation for Neural Test Oracle Generation",
+      "arxiv_id": "2305.17047",
+      "doi": "10.1145/3597926.3598080",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "CCT5: A Code-Change-Oriented Pre-trained Model",
+      "arxiv_id": "2305.10785",
+      "doi": "10.1145/3611643.3616339",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "CodeBERT‐Attack: Adversarial attack against source code deep learning models via pre‐trained model",
+      "arxiv_id": null,
+      "doi": "10.1002/smr.2571",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "Self-Collaboration Code Generation via ChatGPT",
+      "arxiv_id": "2304.07590",
+      "doi": "10.1145/3672459",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond",
+      "arxiv_id": "2304.05216",
+      "doi": "10.1145/3597926.3598036",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "Data-driven prototyping via natural-language-based GUI retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s10515-023-00377-x",
+      "publicationDate": "2023-03-14",
+      "year": 2023
+    },
+    {
+      "title": "Representation Learning for Stack Overflow Posts: How Far Are We?",
+      "arxiv_id": "2303.06853",
+      "doi": "10.1145/3635711",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "A syntax-guided multi-task learning approach for Turducken-style code generation",
+      "arxiv_id": "2303.05061",
+      "doi": "10.1007/s10664-023-10372-1",
+      "publicationDate": "2023-03-09",
+      "year": 2023
+    },
+    {
+      "title": "Baldur: Whole-Proof Generation and Repair with Large Language Models",
+      "arxiv_id": "2303.04910",
+      "doi": "10.1145/3611643.3616243",
+      "publicationDate": "2023-03-08",
+      "year": 2023
+    },
+    {
+      "title": "Effective random test generation for deep learning compilers",
+      "arxiv_id": "2302.00842",
+      "doi": "10.1007/s11432-023-4301-6",
+      "publicationDate": "2023-02-02",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models",
+      "arxiv_id": "2212.14834",
+      "doi": "10.1145/3597926.3598067",
+      "publicationDate": "2022-12-30",
+      "year": 2022
+    },
+    {
+      "title": "VulRepair: a T5-based automated software vulnerability repair",
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549098",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "You see what I want you to see: poisoning vulnerabilities in neural code search",
+      "arxiv_id": null,
+      "doi": "10.1145/3540250.3549153",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "AUGER: automatically generating review comments with pre-training models",
+      "arxiv_id": "2208.08014",
+      "doi": "10.1145/3540250.3549099",
+      "publicationDate": "2022-08-17",
+      "year": 2022
+    },
+    {
+      "title": "An extensive study on pre-trained models for program understanding and generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3533767.3534390",
+      "publicationDate": "2022-07-18",
+      "year": 2022
+    },
+    {
+      "title": "Less training, more repairing please: revisiting automated program repair via zero-shot learning",
+      "arxiv_id": "2207.08281",
+      "doi": "10.1145/3540250.3549101",
+      "publicationDate": "2022-07-17",
+      "year": 2022
+    },
+    {
+      "title": "LogStamp",
+      "arxiv_id": "2208.10282",
+      "doi": "10.1145/3543146.3543168",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "CIRCLE: continual repair across programming languages",
+      "arxiv_id": "2205.10956",
+      "doi": "10.1145/3533767.3534219",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "Identification of Intra-Domain Ambiguity using Transformer-based Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3528588.3528651",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-solution Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510157",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Improving Machine Translation Systems via Isotopic Replacement",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510206",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "DEAR: A Novel Deep Learning-based Approach for Automated Program Repair",
+      "arxiv_id": "2205.01859",
+      "doi": "10.1145/3510003.3510177",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "LineVul: A Transformer-based Line-Level Vulnerability Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3524842.3528452",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "CLEAR: Contrastive Learning for API Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510159",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Automating code review activities by large-scale pre-training",
+      "arxiv_id": "2203.09095",
+      "doi": "10.1145/3540250.3549081",
+      "publicationDate": "2022-03-17",
+      "year": 2022
+    },
+    {
+      "title": "What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code",
+      "arxiv_id": "2202.06840",
+      "doi": "10.1145/3510003.3510050",
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "Competition-level code generation with AlphaCode",
+      "arxiv_id": "2203.07814",
+      "doi": "10.1126/science.abq1158",
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "Natural Attack for Pre-trained Models of Code",
+      "arxiv_id": "2201.08698",
+      "doi": "10.1145/3510003.3510146",
+      "publicationDate": "2022-01-21",
+      "year": 2022
+    },
+    {
+      "title": "Using Pre-Trained Models to Boost Code Review Automation",
+      "arxiv_id": "2201.06850",
+      "doi": "10.1145/3510003.3510621",
+      "publicationDate": "2022-01-18",
+      "year": 2022
+    },
+    {
+      "title": "SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations",
+      "arxiv_id": "2201.01549",
+      "doi": "10.1145/3510003.3510096",
+      "publicationDate": "2022-01-05",
+      "year": 2022
+    },
+    {
+      "title": "Fast Changeset-based Bug Localization with BERT",
+      "arxiv_id": "2112.14169",
+      "doi": "10.1145/3510003.3510042",
+      "publicationDate": "2021-12-28",
+      "year": 2021
+    },
+    {
+      "title": "Jigsaw: Large Language Models meet Program Synthesis",
+      "arxiv_id": "2112.02969",
+      "doi": "10.1145/3510003.3510203",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "TOGA: A Neural Method for Test Oracle Generation",
+      "arxiv_id": "2109.09262",
+      "doi": "10.1145/3510003.3510141",
+      "publicationDate": "2021-09-20",
+      "year": 2021
+    },
+    {
+      "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation",
+      "arxiv_id": "2109.00859",
+      "doi": "10.18653/v1/2021.emnlp-main.685",
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "DialTest: automated testing for recurrent-neural-network-driven dialogue systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3460319.3464829",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Vulnerability detection with fine-grained interpretations",
+      "arxiv_id": "2106.10478",
+      "doi": "10.1145/3468264.3468597",
+      "publicationDate": "2021-06-19",
+      "year": 2021
+    },
+    {
+      "title": "When Automated Program Repair Meets Regression Testing—An Extensive Study on Two Million Patches",
+      "arxiv_id": "2105.07311",
+      "doi": "10.1145/3672450",
+      "publicationDate": "2021-05-15",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Deep Learning for Software Engineering",
+      "arxiv_id": "2011.14597",
+      "doi": "10.1145/3505243",
+      "publicationDate": "2020-11-30",
+      "year": 2020
+    },
+    {
+      "title": "Machine translation testing via pathological invariance",
+      "arxiv_id": null,
+      "doi": "10.1145/3368089.3409756",
+      "publicationDate": "2020-11-07",
+      "year": 2020
+    },
+    {
+      "title": "Deep learning library testing via effective model generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3368089.3409761",
+      "publicationDate": "2020-11-07",
+      "year": 2020
+    },
+    {
+      "title": "A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research",
+      "arxiv_id": "2009.06520",
+      "doi": "10.1145/3485275",
+      "publicationDate": "2020-09-14",
+      "year": 2020
+    },
+    {
+      "title": "Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers",
+      "arxiv_id": "2009.05634",
+      "doi": "10.1145/3524481.3527220",
+      "publicationDate": "2020-09-11",
+      "year": 2020
+    },
+    {
+      "title": "Evaluating Representation Learning of Code Changes for Predicting Patch Correctness in Program Repair",
+      "arxiv_id": "2008.02944",
+      "doi": "10.1145/3324884.3416532",
+      "publicationDate": "2020-08-07",
+      "year": 2020
+    },
+    {
+      "title": "IntelliCode compose: code generation using transformer",
+      "arxiv_id": "2005.08025",
+      "doi": "10.1145/3368089.3417058",
+      "publicationDate": "2020-05-16",
+      "year": 2020
+    },
+    {
+      "title": "Structure-Invariant Testing for Machine Translation",
+      "arxiv_id": "1907.08710",
+      "doi": "10.1145/3377811.3380339",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "Perspectives in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/356725.356731",
+      "publicationDate": "1978-06-01",
+      "year": 1978
+    }
+  ]
+}

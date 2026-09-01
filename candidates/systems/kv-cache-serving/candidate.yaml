@@ -1,0 +1,8 @@
+topic: Towards Efficient Large Language Model Serving
+domain: systems
+gt:
+  arxiv_id: null
+  doi: "10.18653/v1/2026.findings-acl.1916"
+  title: "Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization"
+  published: "2026-01-01"
+notes: "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: ACL Findings 2026. 출처: OpenAlex API (arXiv API 503 중 대체)"

@@ -1,0 +1,1332 @@
+{
+  "candidate": {
+    "topic": "Towards Efficient Large Language Model Serving",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2026.findings-acl.1916",
+      "title": "Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+      "published": "2026-01-01"
+    },
+    "notes": "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: ACL Findings 2026. 출처: OpenAlex API (arXiv API 503 중 대체)"
+  },
+  "extracted_at": "2026-09-01T03:40:18+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 185,
+    "arxiv_resolvable": 128,
+    "doi_only": 14,
+    "unresolved": 43
+  },
+  "gt_s2": {
+    "paperId": "1cfcb0c4b8c8af1d6336ecbd1aad893dc24f67ff",
+    "externalIds": {
+      "DBLP": "conf/acl/JiangYZL26",
+      "ArXiv": "2607.08057",
+      "DOI": "10.18653/v1/2026.findings-acl.1916",
+      "CorpusId": 289824018
+    },
+    "title": "Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "year": 2026,
+    "referenceCount": 185,
+    "publicationDate": "2026-07-09"
+  },
+  "refs": [
+    {
+      "title": "Bat: Efficient Generative Recommender Serving with Bipartite Attention",
+      "arxiv_id": null,
+      "doi": "10.1145/3779212.3790131",
+      "publicationDate": "2026-03-22",
+      "year": 2026
+    },
+    {
+      "title": "Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors",
+      "arxiv_id": "2603.15656",
+      "doi": "10.48550/arXiv.2603.15656",
+      "publicationDate": "2026-03-08",
+      "year": 2026
+    },
+    {
+      "title": "DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity",
+      "arxiv_id": "2602.08005",
+      "doi": "10.48550/arXiv.2602.08005",
+      "publicationDate": "2026-02-08",
+      "year": 2026
+    },
+    {
+      "title": "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction",
+      "arxiv_id": null,
+      "doi": "10.1007/s11263-025-02601-5",
+      "publicationDate": "2026-01-11",
+      "year": 2026
+    },
+    {
+      "title": "SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models",
+      "arxiv_id": "2601.03555",
+      "doi": "10.48550/arXiv.2601.03555",
+      "publicationDate": "2026-01-07",
+      "year": 2026
+    },
+    {
+      "title": "TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale",
+      "arxiv_id": "2512.18194",
+      "doi": "10.48550/arXiv.2512.18194",
+      "publicationDate": "2025-12-20",
+      "year": 2025
+    },
+    {
+      "title": "Does Tone Change the Answer? Evaluating Prompt Politeness Effects on Modern LLMs: GPT, Gemini, and LLaMA",
+      "arxiv_id": "2512.12812",
+      "doi": "10.1109/ICAIBD69640.2026.11637246",
+      "publicationDate": "2025-12-14",
+      "year": 2025
+    },
+    {
+      "title": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
+      "arxiv_id": "2512.11920",
+      "doi": "10.1145/3748173.3779188",
+      "publicationDate": "2025-12-11",
+      "year": 2025
+    },
+    {
+      "title": "A Unified Metric Architecture for AI Infrastructure: A Cross-Layer Taxonomy Integrating Performance, Efficiency, and Cost",
+      "arxiv_id": "2511.21772",
+      "doi": null,
+      "publicationDate": "2025-11-26",
+      "year": 2025
+    },
+    {
+      "title": "Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management",
+      "arxiv_id": "2511.20172",
+      "doi": "10.1145/3786627",
+      "publicationDate": "2025-11-25",
+      "year": 2025
+    },
+    {
+      "title": "CATCH: A Modular Cross-domain Adaptive Template with Hook",
+      "arxiv_id": "2510.26582",
+      "doi": "10.48550/arXiv.2510.26582",
+      "publicationDate": "2025-10-30",
+      "year": 2025
+    },
+    {
+      "title": "LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference",
+      "arxiv_id": "2510.09665",
+      "doi": "10.48550/arXiv.2510.09665",
+      "publicationDate": "2025-10-08",
+      "year": 2025
+    },
+    {
+      "title": "Reasoning-Enhanced Domain-Adaptive Pretraining of Multimodal Large Language Models for Short Video Content Governance",
+      "arxiv_id": "2509.21486",
+      "doi": "10.18653/v1/2025.emnlp-industry.77",
+      "publicationDate": "2025-09-25",
+      "year": 2025
+    },
+    {
+      "title": "EvolKV: Evolutionary KV Cache Compression for LLM Inference",
+      "arxiv_id": "2509.08315",
+      "doi": "10.48550/arXiv.2509.08315",
+      "publicationDate": "2025-09-10",
+      "year": 2025
+    },
+    {
+      "title": "KVCompose: Efficient Structured KV Cache Compression with Composite Tokens",
+      "arxiv_id": "2509.05165",
+      "doi": "10.48550/arXiv.2509.05165",
+      "publicationDate": "2025-09-05",
+      "year": 2025
+    },
+    {
+      "title": "SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning",
+      "arxiv_id": "2508.06447",
+      "doi": "10.48550/arXiv.2508.06447",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "KV Cache Compression for Inference Efficiency in LLMs: A Review",
+      "arxiv_id": "2508.06297",
+      "doi": "10.1145/3778534.3778567",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows",
+      "arxiv_id": "2507.07400",
+      "doi": "10.48550/arXiv.2507.07400",
+      "publicationDate": "2025-07-09",
+      "year": 2025
+    },
+    {
+      "title": "CommVQ: Commutative Vector Quantization for KV Cache Compression",
+      "arxiv_id": "2506.18879",
+      "doi": "10.48550/arXiv.2506.18879",
+      "publicationDate": "2025-06-23",
+      "year": 2025
+    },
+    {
+      "title": "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration",
+      "arxiv_id": "2505.24357",
+      "doi": "10.48550/arXiv.2505.24357",
+      "publicationDate": "2025-05-30",
+      "year": 2025
+    },
+    {
+      "title": "NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache",
+      "arxiv_id": "2505.18231",
+      "doi": "10.48550/arXiv.2505.18231",
+      "publicationDate": "2025-05-23",
+      "year": 2025
+    },
+    {
+      "title": "FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving",
+      "arxiv_id": "2505.17685",
+      "doi": "10.48550/arXiv.2505.17685",
+      "publicationDate": "2025-05-23",
+      "year": 2025
+    },
+    {
+      "title": "SepPrune: Structured Pruning for Efficient Deep Speech Separation",
+      "arxiv_id": "2505.12079",
+      "doi": "10.48550/arXiv.2505.12079",
+      "publicationDate": "2025-05-17",
+      "year": 2025
+    },
+    {
+      "title": "Accurate KV Cache Quantization with Outlier Tokens Tracing",
+      "arxiv_id": "2505.10938",
+      "doi": "10.48550/arXiv.2505.10938",
+      "publicationDate": "2025-05-16",
+      "year": 2025
+    },
+    {
+      "title": "Taming the Titans: A Survey of Efficient LLM Inference Serving",
+      "arxiv_id": "2504.19720",
+      "doi": "10.48550/arXiv.2504.19720",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching",
+      "arxiv_id": "2504.06319",
+      "doi": "10.48550/arXiv.2504.06319",
+      "publicationDate": "2025-04-08",
+      "year": 2025
+    },
+    {
+      "title": "SQuat: Subspace-orthogonal KV Cache Quantization",
+      "arxiv_id": "2503.24358",
+      "doi": "10.48550/arXiv.2503.24358",
+      "publicationDate": "2025-03-31",
+      "year": 2025
+    },
+    {
+      "title": "CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences",
+      "arxiv_id": "2503.12491",
+      "doi": "10.48550/arXiv.2503.12491",
+      "publicationDate": "2025-03-16",
+      "year": 2025
+    },
+    {
+      "title": "VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference",
+      "arxiv_id": "2503.02236",
+      "doi": "10.1109/HPCA61900.2025.00112",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Enhancing spatiotemporal prediction through the integration of Mamba state space models and Diffusion Transformers",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.113347",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System",
+      "arxiv_id": "2502.15470",
+      "doi": "10.1145/3676641.3716009",
+      "publicationDate": "2025-02-21",
+      "year": 2025
+    },
+    {
+      "title": "RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression",
+      "arxiv_id": "2502.14051",
+      "doi": "10.48550/arXiv.2502.14051",
+      "publicationDate": "2025-02-19",
+      "year": 2025
+    },
+    {
+      "title": "Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications",
+      "arxiv_id": "2502.13358",
+      "doi": "10.48550/arXiv.2502.13358",
+      "publicationDate": "2025-02-19",
+      "year": 2025
+    },
+    {
+      "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+      "arxiv_id": "2502.11089",
+      "doi": "10.48550/arXiv.2502.11089",
+      "publicationDate": "2025-02-16",
+      "year": 2025
+    },
+    {
+      "title": "PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving",
+      "arxiv_id": "2501.08192",
+      "doi": "10.48550/arXiv.2501.08192",
+      "publicationDate": "2025-01-14",
+      "year": 2025
+    },
+    {
+      "title": "FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving",
+      "arxiv_id": "2501.01005",
+      "doi": "10.48550/arXiv.2501.01005",
+      "publicationDate": "2025-01-02",
+      "year": 2025
+    },
+    {
+      "title": "A Survey on Large Language Model Acceleration based on KV Cache Management",
+      "arxiv_id": "2412.19442",
+      "doi": "10.48550/arXiv.2412.19442",
+      "publicationDate": "2024-12-27",
+      "year": 2024
+    },
+    {
+      "title": "DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs",
+      "arxiv_id": "2412.14838",
+      "doi": "10.48550/arXiv.2412.14838",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator",
+      "arxiv_id": "2412.12094",
+      "doi": "10.48550/arXiv.2412.12094",
+      "publicationDate": "2024-12-16",
+      "year": 2024
+    },
+    {
+      "title": "DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction",
+      "arxiv_id": "2412.03131",
+      "doi": "10.1145/3731569.3764810",
+      "publicationDate": "2024-12-04",
+      "year": 2024
+    },
+    {
+      "title": "ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression",
+      "arxiv_id": "2412.03213",
+      "doi": "10.1109/DAC63849.2025.11132479",
+      "publicationDate": "2024-12-04",
+      "year": 2024
+    },
+    {
+      "title": "Reassessing Layer Pruning in LLMs: New Insights and Methods",
+      "arxiv_id": "2411.15558",
+      "doi": "10.48550/arXiv.2411.15558",
+      "publicationDate": "2024-11-23",
+      "year": 2024
+    },
+    {
+      "title": "RefreshKV: Updating Small KV Cache During Long-form Generation",
+      "arxiv_id": "2411.05787",
+      "doi": "10.18653/v1/2025.acl-long.1211",
+      "publicationDate": "2024-11-08",
+      "year": 2024
+    },
+    {
+      "title": "TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection",
+      "arxiv_id": "2411.02886",
+      "doi": "10.48550/arXiv.2411.02886",
+      "publicationDate": "2024-11-05",
+      "year": 2024
+    },
+    {
+      "title": "NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference",
+      "arxiv_id": "2411.01142",
+      "doi": "10.48550/arXiv.2411.01142",
+      "publicationDate": "2024-11-02",
+      "year": 2024
+    },
+    {
+      "title": "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators",
+      "arxiv_id": "2411.00136",
+      "doi": "10.1109/SCW63240.2024.00178",
+      "publicationDate": "2024-10-31",
+      "year": 2024
+    },
+    {
+      "title": "BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference",
+      "arxiv_id": "2410.23079",
+      "doi": "10.1145/3810942",
+      "publicationDate": "2024-10-30",
+      "year": 2024
+    },
+    {
+      "title": "ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference",
+      "arxiv_id": "2410.21465",
+      "doi": "10.48550/arXiv.2410.21465",
+      "publicationDate": "2024-10-28",
+      "year": 2024
+    },
+    {
+      "title": "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction",
+      "arxiv_id": "2410.19937",
+      "doi": "10.48550/arXiv.2410.19937",
+      "publicationDate": "2024-10-25",
+      "year": 2024
+    },
+    {
+      "title": "KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing",
+      "arxiv_id": "2410.18517",
+      "doi": "10.48550/arXiv.2410.18517",
+      "publicationDate": "2024-10-24",
+      "year": 2024
+    },
+    {
+      "title": "Fast Inference for Augmented Large Language Models",
+      "arxiv_id": "2410.18248",
+      "doi": "10.48550/arXiv.2410.18248",
+      "publicationDate": "2024-10-23",
+      "year": 2024
+    },
+    {
+      "title": "MagicPIG: LSH Sampling for Efficient LLM Generation",
+      "arxiv_id": "2410.16179",
+      "doi": "10.48550/arXiv.2410.16179",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models",
+      "arxiv_id": "2410.14720",
+      "doi": "10.48550/arXiv.2410.14720",
+      "publicationDate": "2024-10-14",
+      "year": 2024
+    },
+    {
+      "title": "Improving Throughput-Oriented LLM Inference with CPU Computations",
+      "arxiv_id": null,
+      "doi": "10.1145/3656019.3676949",
+      "publicationDate": "2024-10-13",
+      "year": 2024
+    },
+    {
+      "title": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy",
+      "arxiv_id": "2410.03111",
+      "doi": "10.48550/arXiv.2410.03111",
+      "publicationDate": "2024-10-04",
+      "year": 2024
+    },
+    {
+      "title": "LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management",
+      "arxiv_id": "2410.00428",
+      "doi": "10.48550/arXiv.2410.00428",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "TwinPilots: A New Computing Paradigm for GPU-CPU Parallel LLM Inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3688351.3689164",
+      "publicationDate": "2024-09-16",
+      "year": 2024
+    },
+    {
+      "title": "InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference",
+      "arxiv_id": "2409.04992",
+      "doi": "10.48550/arXiv.2409.04992",
+      "publicationDate": "2024-09-08",
+      "year": 2024
+    },
+    {
+      "title": "YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving",
+      "arxiv_id": "2409.03320",
+      "doi": "10.1145/3707402.3707404",
+      "publicationDate": "2024-09-05",
+      "year": 2024
+    },
+    {
+      "title": "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression",
+      "arxiv_id": "2408.05646",
+      "doi": "10.48550/arXiv.2408.05646",
+      "publicationDate": "2024-08-10",
+      "year": 2024
+    },
+    {
+      "title": "NACL: A General and Effective KV Cache Eviction Framework for LLM at Inference Time",
+      "arxiv_id": "2408.03675",
+      "doi": "10.48550/arXiv.2408.03675",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Palu: KV-Cache Compression with Low-Rank Projection",
+      "arxiv_id": "2407.21118",
+      "doi": null,
+      "publicationDate": "2024-07-30",
+      "year": 2024
+    },
+    {
+      "title": "ThinK: Thinner Key Cache by Query-Driven Pruning",
+      "arxiv_id": "2407.21018",
+      "doi": "10.48550/arXiv.2407.21018",
+      "publicationDate": "2024-07-30",
+      "year": 2024
+    },
+    {
+      "title": "Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption",
+      "arxiv_id": "2407.18003",
+      "doi": "10.48550/arXiv.2407.18003",
+      "publicationDate": "2024-07-25",
+      "year": 2024
+    },
+    {
+      "title": "vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving",
+      "arxiv_id": "2407.15309",
+      "doi": "10.48550/arXiv.2407.15309",
+      "publicationDate": "2024-07-22",
+      "year": 2024
+    },
+    {
+      "title": "LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference",
+      "arxiv_id": "2407.14057",
+      "doi": "10.48550/arXiv.2407.14057",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference",
+      "arxiv_id": "2407.11550",
+      "doi": "10.48550/arXiv.2407.11550",
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks",
+      "arxiv_id": "2407.08454",
+      "doi": "10.48550/arXiv.2407.08454",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "Regulating Model Reliance on Non-Robust Features by Smoothing Input Marginal Density",
+      "arxiv_id": "2407.04370",
+      "doi": "10.48550/arXiv.2407.04370",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "PQCache: Product Quantization-based KVCache for Long Context LLM Inference",
+      "arxiv_id": "2407.12820",
+      "doi": "10.1145/3725338",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management",
+      "arxiv_id": "2406.19707",
+      "doi": "10.48550/arXiv.2406.19707",
+      "publicationDate": "2024-06-28",
+      "year": 2024
+    },
+    {
+      "title": "MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool",
+      "arxiv_id": "2406.17565",
+      "doi": "10.48550/arXiv.2406.17565",
+      "publicationDate": "2024-06-25",
+      "year": 2024
+    },
+    {
+      "title": "Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving",
+      "arxiv_id": "2407.00079",
+      "doi": "10.1145/3773772",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters",
+      "arxiv_id": "2406.12335",
+      "doi": "10.48550/arXiv.2406.12335",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "A Simple and Effective L\\_2 Norm-Based Strategy for KV Cache Compression",
+      "arxiv_id": "2406.11430",
+      "doi": "10.48550/arXiv.2406.11430",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference",
+      "arxiv_id": "2406.10774",
+      "doi": "10.48550/arXiv.2406.10774",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead",
+      "arxiv_id": "2406.03482",
+      "doi": "10.48550/arXiv.2406.03482",
+      "publicationDate": "2024-06-05",
+      "year": 2024
+    },
+    {
+      "title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling",
+      "arxiv_id": "2406.02069",
+      "doi": "10.48550/arXiv.2406.02069",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "Loki: Low-Rank Keys for Efficient Sparse Attention",
+      "arxiv_id": "2406.02542",
+      "doi": "10.48550/arXiv.2406.02542",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence",
+      "arxiv_id": "2405.18786",
+      "doi": "10.48550/arXiv.2405.18786",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification",
+      "arxiv_id": "2405.14256",
+      "doi": "10.48550/arXiv.2405.14256",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference",
+      "arxiv_id": "2405.12532",
+      "doi": "10.48550/arXiv.2405.12532",
+      "publicationDate": "2024-05-21",
+      "year": 2024
+    },
+    {
+      "title": "Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression",
+      "arxiv_id": "2405.12591",
+      "doi": "10.48550/arXiv.2405.12591",
+      "publicationDate": "2024-05-21",
+      "year": 2024
+    },
+    {
+      "title": "Preble: Efficient Distributed Prompt Scheduling for LLM Serving",
+      "arxiv_id": "2407.00023",
+      "doi": "10.48550/arXiv.2407.00023",
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving",
+      "arxiv_id": "2405.04532",
+      "doi": "10.48550/arXiv.2405.04532",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention",
+      "arxiv_id": "2405.04437",
+      "doi": "10.1145/3669940.3707256",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization",
+      "arxiv_id": "2405.03917",
+      "doi": "10.48550/arXiv.2405.03917",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+      "arxiv_id": "2405.04434",
+      "doi": "10.48550/arXiv.2405.04434",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "AttAcc! Unleashing the Power of PIM for Batched Transformer-based Generative Model Inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3620665.3640422",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "SnapKV: LLM Knows What You are Looking for Before Generation",
+      "arxiv_id": "2404.14469",
+      "doi": "10.48550/arXiv.2404.14469",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation",
+      "arxiv_id": "2404.12457",
+      "doi": "10.1145/3768628",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism",
+      "arxiv_id": "2404.09526",
+      "doi": "10.1145/3694715.3695948",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention",
+      "arxiv_id": "2403.19708",
+      "doi": null,
+      "publicationDate": "2024-03-23",
+      "year": 2024
+    },
+    {
+      "title": "FastDecode: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines",
+      "arxiv_id": "2403.11421",
+      "doi": "10.48550/arXiv.2403.11421",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference",
+      "arxiv_id": "2403.09054",
+      "doi": "10.48550/arXiv.2403.09054",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "CHAI: Clustered Head Attention for Efficient LLM Inference",
+      "arxiv_id": "2403.08058",
+      "doi": "10.48550/arXiv.2403.08058",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM",
+      "arxiv_id": "2403.05527",
+      "doi": "10.48550/arXiv.2403.05527",
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "QAQ: Quality Adaptive Quantization for LLM KV Cache",
+      "arxiv_id": "2403.04643",
+      "doi": "10.1109/ICCVW69036.2025.00267",
+      "publicationDate": "2024-03-07",
+      "year": 2024
+    },
+    {
+      "title": "DéjàVu: KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving",
+      "arxiv_id": "2403.01876",
+      "doi": "10.48550/arXiv.2403.01876",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization",
+      "arxiv_id": "2402.18096",
+      "doi": "10.48550/arXiv.2402.18096",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "LLM Inference Unveiled: Survey and Roofline Model Insights",
+      "arxiv_id": "2402.16363",
+      "doi": "10.48550/arXiv.2402.16363",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition",
+      "arxiv_id": "2402.15220",
+      "doi": "10.48550/arXiv.2402.15220",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens",
+      "arxiv_id": "2402.13753",
+      "doi": "10.48550/arXiv.2402.13753",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More",
+      "arxiv_id": "2402.12065",
+      "doi": "10.48550/arXiv.2402.12065",
+      "publicationDate": "2024-02-19",
+      "year": 2024
+    },
+    {
+      "title": "InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory",
+      "arxiv_id": "2402.04617",
+      "doi": "10.52202/079017-3801",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+      "arxiv_id": "2401.18079",
+      "doi": "10.48550/arXiv.2401.18079",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "SliceGPT: Compress Large Language Models by Deleting Rows and Columns",
+      "arxiv_id": "2401.15024",
+      "doi": "10.48550/arXiv.2401.15024",
+      "publicationDate": "2024-01-26",
+      "year": 2024
+    },
+    {
+      "title": "Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads",
+      "arxiv_id": "2401.11181",
+      "doi": "10.48550/arXiv.2401.11181",
+      "publicationDate": "2024-01-20",
+      "year": 2024
+    },
+    {
+      "title": "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving",
+      "arxiv_id": "2401.09670",
+      "doi": "10.48550/arXiv.2401.09670",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
+      "arxiv_id": "2401.08092",
+      "doi": "10.48550/arXiv.2401.08092",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache",
+      "arxiv_id": "2401.02669",
+      "doi": "10.48550/arXiv.2401.02669",
+      "publicationDate": "2024-01-05",
+      "year": 2024
+    },
+    {
+      "title": "Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems",
+      "arxiv_id": "2312.15234",
+      "doi": "10.1145/3754448",
+      "publicationDate": "2023-12-23",
+      "year": 2023
+    },
+    {
+      "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+      "arxiv_id": "2312.07104",
+      "doi": "10.52202/079017-2000",
+      "publicationDate": "2023-12-12",
+      "year": 2023
+    },
+    {
+      "title": "Stateful Large Language Model Serving with Pensieve",
+      "arxiv_id": "2312.05516",
+      "doi": "10.1145/3689031.3696086",
+      "publicationDate": "2023-12-09",
+      "year": 2023
+    },
+    {
+      "title": "SparQ Attention: Bandwidth-Efficient LLM Inference",
+      "arxiv_id": "2312.04985",
+      "doi": "10.48550/arXiv.2312.04985",
+      "publicationDate": "2023-12-08",
+      "year": 2023
+    },
+    {
+      "title": "Splitwise: Efficient Generative LLM Inference Using Phase Splitting",
+      "arxiv_id": "2311.18677",
+      "doi": "10.1109/ISCA59077.2024.00019",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Prompt Cache: Modular Attention Reuse for Low-Latency Inference",
+      "arxiv_id": "2311.04934",
+      "doi": "10.48550/arXiv.2311.04934",
+      "publicationDate": "2023-11-07",
+      "year": 2023
+    },
+    {
+      "title": "Atom: Low-bit Quantization for Efficient and Accurate LLM Serving",
+      "arxiv_id": "2310.19102",
+      "doi": "10.48550/arXiv.2310.19102",
+      "publicationDate": "2023-10-29",
+      "year": 2023
+    },
+    {
+      "title": "CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving",
+      "arxiv_id": "2310.07240",
+      "doi": "10.1145/3651890.3672274",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs",
+      "arxiv_id": "2310.01801",
+      "doi": "10.48550/arXiv.2310.01801",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Streaming Language Models with Attention Sinks",
+      "arxiv_id": "2309.17453",
+      "doi": "10.48550/arXiv.2309.17453",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "arxiv_id": "2309.06180",
+      "doi": "10.1145/3600006.3613165",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "arxiv_id": "2307.13854",
+      "doi": "10.48550/arXiv.2307.13854",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time",
+      "arxiv_id": "2305.17118",
+      "doi": "10.48550/arXiv.2305.17118",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "Hong Kong World: Leveraging Structural Regularity for Line-Based SLAM",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2023.3276204",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "High-throughput Generative Inference of Large Language Models with a Single GPU",
+      "arxiv_id": "2303.06865",
+      "doi": "10.48550/arXiv.2303.06865",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale",
+      "arxiv_id": "2207.00032",
+      "doi": "10.1109/SC41404.2022.00051",
+      "publicationDate": "2022-06-30",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "MLPerf Inference Benchmark",
+      "arxiv_id": "1911.02549",
+      "doi": "10.1109/ISCA45697.2020.00045",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+      "arxiv_id": "1910.02054",
+      "doi": "10.1109/SC41405.2020.00024",
+      "publicationDate": "2019-10-04",
+      "year": 2019
+    },
+    {
+      "title": "Gandiva: Introspective Cluster Scheduling for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-10-08",
+      "year": 2018
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Axiomatic Attribution for Deep Networks",
+      "arxiv_id": "1703.01365",
+      "doi": null,
+      "publicationDate": "2017-03-04",
+      "year": 2017
+    },
+    {
+      "title": "The tail at scale",
+      "arxiv_id": null,
+      "doi": "10.1145/2408776.2408794",
+      "publicationDate": "2013-02-01",
+      "year": 2013
+    },
+    {
+      "title": "OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ClusterAttn: KV Cache Compression under Intrinsic Attention Clustering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.703",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "xKV: Cross-Layer SVD for KV-Cache Compression",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2503.18893",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Trustworthy Machine Learning: From Data to Models",
+      "arxiv_id": null,
+      "doi": "10.1561/3300000043",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-3595",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "CaM: Cache Merging for Memory-efficient LLMs Inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.10340",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Power-aware Deep Learning Model Serving with μ-Serve",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Re-calibrating Feature Attributions for Model Interpretation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "sensAI: ConvNets Decomposition via Class Parallelism for Fast Inference on Live Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Improving Language Understanding by Generative Pre-Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "techniques by their operational impact along spatial, and structural dimensions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Vector Quantization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-17885-1_101450",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "2023. Fast distributed inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Beyond efficiency: A systematic survey of resource-efficient large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024d. KIVI: A tuning-free asymmetric 2bit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. MuxServe: Flexible spatial-temporal",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Transformers are multi-state RNNs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. On the efficacy of eviction policy for key-value constrained generative language model inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024 Fastswitch: Optimizing context switching efficiency in fairness-aware large language model serving arXiv preprint",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. LaCache Ladder-shaped KV caching for efficient long-context modeling of large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024a. MiniCache",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025b. IMPRESS: An importance-informed multi-tier prefix KV storage system for large language model inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. SmoothQuant: Accurate and efficient post-training quantization for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025d. A comprehensive survey on multimodal RAG: all combinations of modalities as input and output",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Fast inference for probabilistic graphical models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Long-context task workloads to test KV cache placement and migration when memory and I/O become bottlenecks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024a. LLM inference serving: Survey of recent advances and opportunities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025b. CCMA: A framework for cascading cooperative multi-agent in autonomous driving merging using large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Effi-ciently scaling transformer inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023a. Local path integration for attribution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "the self-attention operation is applied to each tuple ( Q i , K i , V i ) and get the output of Z i : Z i = attention( Q i , K i , V i ) = softmax( Q i K ⊤ i √ d k ) V i ,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. MFTFormer: Meteorological-frequency-temporal transformer with block-aligned fusion for traffic flow prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "where d k is the dimension of the keys. Finally",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025b. NVIDIA NIM LLMs benchmarking NVIDIA Docs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "multiplexing for multiple LLM serving",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Surgical gaussian surfels: Highly accurate real-time surgical scene rendering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Accuracy vs. memory curves for structural methods to reveal the trade-offs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. CARPRT: Class-aware zero-shot prompt reweighting for vision-language model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025c. JanusVLN: Decoupling semantics and spatiality with dual implicit memory for vision-language navigation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. GPT-4 technical report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Detailed hardware and topology setups, especially for temporal and spatial methods",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Fast parallel Bayesian network structure learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025a. HeMoRa: Unsupervised heuristic consensus sampling for robust point cloud registration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Overview of multi-modal generation for recommender systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025c. MMT-ARD: Multimodal multi-teacher adversarial distillation for robust vision-language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVIDIA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

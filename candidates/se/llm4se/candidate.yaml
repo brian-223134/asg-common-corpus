@@ -1,0 +1,8 @@
+topic: A survey on large language models for software engineering
+domain: se
+gt:
+  arxiv_id: null
+  doi: "10.1007/s11432-025-4670-0"
+  title: "A survey on large language models for software engineering"
+  published: "2026-03-05"
+notes: "4차: D5 표적 재모집 (arXiv-활성 하위영역). venue: SCIS. 출처: OpenAlex API (arXiv API 503 중 대체)"

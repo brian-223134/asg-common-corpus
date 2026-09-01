@@ -172,7 +172,14 @@ def main() -> None:
     else:
         raise SystemExit("candidate.yaml gt에 arxiv_id 또는 doi가 필요")
     log.info("extracting refs for %s (%s)", cdir, key)
-    out = extract_s2(key)
+    import urllib.error
+    try:
+        out = extract_s2(key)
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            raise
+        log.warning("S2 404 (미색인) — fallback으로 진행")
+        out = {"gt_s2": {"note": "s2-404"}, "refs": []}
     source = "semanticscholar-graph-api"
     if not out["refs"] and gt.get("arxiv_id"):
         log.warning("S2 references 미색인 — arXiv 소스 파싱으로 fallback")
