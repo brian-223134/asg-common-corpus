@@ -22,7 +22,7 @@ ASG agent들은 각자 다른 corpus(수집 시점·범위·metadata 품질이 �
 5. corpus snapshot의 재현 가능성 (전 단계 manifest + sha256 체인)
 
 반면 각 agent의 retrieval·임베딩·outline·memory 등 고유 처리는 그대로 둔다.
-**핵심 설계 원칙: Metadata-first + Lazy Full-text Resolution** — 검색은 title/abstract metadata로 하고,
+**핵심 설계 원칙: Metadata-first + Lazy Full-text Resolution** - 검색은 title/abstract metadata로 하고,
 full text는 실제로 선택된 논문만 사후에 획득·동결한다.
 
 ## 2. Science Data Lake에서 차용한 것 / 하지 않은 것
@@ -34,7 +34,7 @@ Science Data Lake는 8개 학술 소스(OpenAlex, S2AG, SciSciNet, PwC 등)를 D
 |---|---|
 | **데이터 소스** | `openalex.*` 스키마만 (works 479M, works_topics, works_locations, topics 계층). CC0라 보관·재배포 제약 없음 |
 | **접근 방식** | views-over-Parquet + DuckDB. HuggingFace 배포판(`J0nasW/science-datalake`)을 원격 attach 하거나 로컬 미러에 동일 뷰명으로 attach |
-| **snapshot 규율** | dataset revision pinning (우리 pin: `cd87dd0…`, OpenAlex snapshot **2026-02-03**) — `latest`를 암묵적으로 쓰지 않는다 |
+| **snapshot 규율** | dataset revision pinning (우리 pin: `cd87dd0…`, OpenAlex snapshot **2026-02-03**) - `latest`를 암묵적으로 쓰지 않는다 |
 | **전처리 결과** | abstract 평문(inverted index 아님), `valid_title_abstract` 품질 플래그, topic 4계층(domain→field→subfield→topic) |
 
 차용하지 **않은** 것과 그 이유:
@@ -43,7 +43,7 @@ Science Data Lake는 8개 학술 소스(OpenAlex, S2AG, SciSciNet, PwC 등)를 D
 |---|---|
 | S2AG / SciSciNet / RoS / xref.unified_papers | v1 정책: metadata·citation·topic 모두 OpenAlex 단일 소스. S2AG는 HF 배포판에 미포함(라이선스)이기도 함 |
 | 960GB 전체 로컬 설치 | 불필요. 빌더가 읽는 4개 테이블 ≈ **150GB만 선택적 미러** (아래 §3) |
-| 원격 쿼리 상시 사용 | **실측상 불가능한 개발 방식** — works.parquet(134.8GB)는 id 정렬이 없어 어떤 필터도 전체 스캔이고, 원격 point lookup 320s / 8GB 필터 스캔 20분+ 이었다. 원격은 `doctor`·스모크 전용 |
+| 원격 쿼리 상시 사용 | **실측상 불가능한 개발 방식** - works.parquet(134.8GB)는 id 정렬이 없어 어떤 필터도 전체 스캔이고, 원격 point lookup 320s / 8GB 필터 스캔 20분+ 이었다. 원격은 `doctor`·스모크 전용 |
 | arXiv 카테고리 | Science Data Lake에 없음. CS 정의는 OpenAlex field로 통일(§5 D1). arXiv id는 `works_locations`의 URL에서 추출(`works_ids`에는 arXiv 컬럼이 없음) |
 
 ## 3. DB 아키텍처
@@ -55,7 +55,7 @@ HuggingFace: J0nasW/science-datalake @ cd87dd0  (read-only upstream)
 [L0] data/upstream/cd87dd0/            openalex/{works, works_topics, works_locations, topics…}.parquet
         │                              + upstream_manifest.json
         │  CorpusBuilder: CS pool(topic) → arXiv id 추출 → 필터 → dedup → temporal 해상
-        ▼                               (works 1회 스캔, 전 필터 단계 감사 카운트 — 무음 폐기 금지)
+        ▼                               (works 1회 스캔, 전 필터 단계 감사 카운트 - 무음 폐기 금지)
 [L1] data/corpus/v0.1-poc/             papers.parquet (947,716편, PaperRecord v0.1)
         │                              paper_topics.parquet (2.7M행) + manifest.json
         │  CorpusView: cutoff(first_public_date) + GT version-family 제외
@@ -69,7 +69,7 @@ HuggingFace: J0nasW/science-datalake @ cd87dd0  (read-only upstream)
         ▼
      각 agent가 자기 도구로 임베딩/FAISS 빌드 → --db_path 교체 (agent 코드 수정 0줄)
 
-[별도 축] FullTextResolver — 선택된 논문만 arXiv e-print lazy fetch
+[별도 축] FullTextResolver - 선택된 논문만 arXiv e-print lazy fetch
           → data/fulltext_cache/arxiv/<id>/{text.txt, metadata.json}  (version+sha256 동결)
 ```
 
@@ -83,7 +83,7 @@ HuggingFace: J0nasW/science-datalake @ cd87dd0  (read-only upstream)
 | impact | `citation_count`(OpenAlex, snapshot 2026-02-03 고정) |
 | provenance | `metadata_source` · `source_snapshot` · full-text hint |
 
-`first_public_date` 해상 규칙(우선순위): ① 로컬 arXiv 스냅샷 날짜 — 단 **id에 인코딩된 연월(YYMM)과
+`first_public_date` 해상 규칙(우선순위): ① 로컬 arXiv 스냅샷 날짜 - 단 **id에 인코딩된 연월(YYMM)과
 같은 달일 때만** day 정밀도로 채택(v2+ 날짜 혼입 방지) ② id 연월(month 정밀도) ③ OpenAlex fallback.
 month 정밀도는 view의 cutoff 판정에서 **월말 기준(strict)** 으로 비교해 temporal leakage를 막는다.
 
@@ -105,27 +105,27 @@ L1 빌드(`common_corpus.cli build`)는 5개 SQL 스테이지를 한 DuckDB 세�
 
 | 파일 | 역할 |
 |---|---|
-| `src/common_corpus/providers/science_lake.py` | `ScienceLakeClient` — hf:// 원격 / 로컬 미러를 같은 뷰명으로 attach |
+| `src/common_corpus/providers/science_lake.py` | `ScienceLakeClient` - hf:// 원격 / 로컬 미러를 같은 뷰명으로 attach |
 | `src/common_corpus/builders/mirror.py` | 선택적 미러: 재개 가능 다운로드 + HF LFS sha256 검증 + upstream_manifest |
 | `src/common_corpus/builders/corpus_builder.py` | L1 오케스트레이션 + 감사 카운트 + manifest 생성 |
-| `src/common_corpus/corpus/view.py` | L2 CorpusView — cutoff(strict month-end)·GT 제외·불변식 검증 |
+| `src/common_corpus/corpus/view.py` | L2 CorpusView - cutoff(strict month-end)·GT 제외·불변식 검증 |
 | `src/common_corpus/fulltext/{providers,parser,resolver}.py` | arXiv e-print(LaTeX tar/단일/PDF) → latex-v1 파서 → 캐시 freeze |
-| `src/common_corpus/integrations/survey_search.py` | L3 export — agent TinyDB(`cs_paper_info`) 포맷 생성 |
+| `src/common_corpus/integrations/survey_search.py` | L3 export - agent TinyDB(`cs_paper_info`) 포맷 생성 |
 | `scripts/run_detached.sh` | setsid nohup 실행 (SSH 무관), logs/에 로그·pid |
 | `scripts/audit_coverage.py` | GT(SurveyBench·SurGE) reference coverage 감사 |
 | `scripts/extract_gt_refs.py` | 후보 GT ref 추출: S2 API → arXiv .bbl/.bib → Crossref 3단 fallback |
 | `scripts/audit_candidates.py` | 후보 감사: post-cutoff·eligible(이중 키 매칭)·D1·쌍둥이 탐지 |
 
 
-### 시각화 — DB 계층·쿼리 흐름 (Mermaid)
+### 시각화 - DB 계층·쿼리 흐름 (Mermaid)
 
 ```mermaid
 flowchart TB
-    subgraph UP["Upstream (read-only) — HuggingFace"]
+    subgraph UP["Upstream (read-only) - HuggingFace"]
         HF["J0nasW/science-datalake @ cd87dd0<br/>OpenAlex snapshot 2026-02-03"]
     end
 
-    subgraph L0["L0 · data/upstream/cd87dd0 — 선택적 미러 150GB"]
+    subgraph L0["L0 · data/upstream/cd87dd0 - 선택적 미러 150GB"]
         W["openalex/works.parquet 134.8GB<br/>479M works"]
         WT["works_topics.parquet 8.2GB"]
         WL["works_locations.parquet 17.3GB"]
@@ -133,7 +133,7 @@ flowchart TB
         UM["upstream_manifest.json<br/>(revision + 파일별 sha256)"]
     end
 
-    subgraph BUILD["CorpusBuilder — DuckDB, works 단일 스캔 (~6min)"]
+    subgraph BUILD["CorpusBuilder - DuckDB, works 단일 스캔 (~6min)"]
         S1["① CS pool: works_topics ⋈ topics<br/>field=CS → 36.97M work_id"]
         S2["② arXiv id 추출: locations URL 정규식"]
         S3["③ candidates: 필터 플래그 + canonical 컬럼"]
@@ -141,23 +141,23 @@ flowchart TB
         S5["⑤ 필터 + arxiv_id dedup(citation 최다) + ORDER BY"]
     end
 
-    subgraph L1["L1 · data/corpus/v0.1-poc — canonical corpus"]
+    subgraph L1["L1 · data/corpus/v0.1-poc - canonical corpus"]
         P["papers.parquet<br/>947,716편 · PaperRecord v0.1"]
         PT["paper_topics.parquet 2.7M행"]
         CM["manifest.json<br/>(감사 카운트·sha256·code commit)"]
     end
 
-    subgraph L2["L2 · data/views/&lt;name&gt; — benchmark view"]
+    subgraph L2["L2 · data/views/&lt;name&gt; - benchmark view"]
         V["paper_ids.parquet<br/>cutoff(first_public_date, strict month-end)<br/>+ GT/쌍둥이 exclusion"]
         VM["view_manifest.json (base sha 체인)"]
     end
 
-    subgraph L3["L3 · data/exports — agent-native export"]
+    subgraph L3["L3 · data/exports - agent-native export"]
         EA["&lt;view&gt;.autosurvey.json<br/>TinyDB cs_paper_info"]
         ES["&lt;view&gt;.surveyforge.json<br/>+ citation_count"]
     end
 
-    FT["FullTextResolver (lazy)<br/>arXiv e-print → latex-v1 파서<br/>data/fulltext_cache — version+sha 동결"]
+    FT["FullTextResolver (lazy)<br/>arXiv e-print → latex-v1 파서<br/>data/fulltext_cache - version+sha 동결"]
 
     HF -- "mirror (1회, 재개 가능, sha 검증)" --> L0
     HF -. "doctor/스모크만 hf:// 원격 뷰<br/>(대량 스캔 금지: point lookup 320s 실측)" .-> BUILD
@@ -168,7 +168,19 @@ flowchart TB
     P -. "arxiv_id 조회" .-> FT
 ```
 
-### 시각화 — 4개 ASG Agent의 adaptation (Mermaid)
+단계별 한 줄 설명:
+
+| 단계 | 무엇을 하는가 |
+|---|---|
+| Upstream | HuggingFace의 Science Data Lake를 revision 고정 상태로 읽기 전용 사용 |
+| L0 미러 | 빌더가 읽는 4종 테이블만 1회 내려받아 sha256 검증 후 보관. 이후 모든 작업은 로컬 |
+| CorpusBuilder | DuckDB로 works를 한 번만 스캔하며 CS 필터, arXiv id 추출, 날짜 해상, 중복 제거를 수행 |
+| L1 corpus | 검색 가능한 논문 universe의 확정본. 모든 agent가 공유하는 canonical metadata |
+| L2 view | 실험별 cutoff와 GT 제외만 적용한 논리적 부분집합. 물리 복사 없음 |
+| L3 export | 각 agent가 원래 읽던 파일 포맷으로 변환한 출력 |
+| FullTextResolver | 검색 이후 실제 선택된 논문만 원문을 받아 버전과 해시를 고정 저장 |
+
+### 시각화 - 4개 ASG Agent의 adaptation (Mermaid)
 
 각 agent는 **retrieval·임베딩 스택을 원형 그대로 유지**하고, 입력 데이터만 Common Corpus view로 교체한다.
 
@@ -179,27 +191,27 @@ flowchart LR
     V --> DQ["DuckDB 직접 JOIN<br/>papers ⋈ view"]
     FT["FullTextResolver<br/>(lazy full text)"]
 
-    subgraph A1["../AutoSurvey — 코드 수정 0줄"]
+    subgraph A1["../AutoSurvey - 코드 수정 0줄"]
         AB["scripts/build_index.py<br/>nomic-768d FAISS 재구축"]
         AD["database_commoncorpus-&lt;view&gt;/<br/>TinyDB + FAISS ×2 + id map"]
         AM["main.py --db_path 교체<br/>title/abs 임베딩 → 1200→60편"]
     end
     EA --> AB --> AD --> AM
 
-    subgraph A2["../SurveyForge — 원 retrieval stack 유지"]
+    subgraph A2["../SurveyForge - 원 retrieval stack 유지"]
         SB["gte-large-1024d FAISS 재구축"]
         SD["SURVEYFORGE_DB_DIR 교체<br/>citation_count 재랭킹 유지"]
     end
     ES --> SB --> SD
 
-    subgraph A3["../SurveyX — DataFetcher 대체"]
+    subgraph A3["../SurveyX - DataFetcher 대체"]
         XF["common_corpus_fetcher.py<br/>search_on_arxiv = ILIKE 스캔(papers ⋈ view)<br/>search_on_google = 비활성(빈 목록)"]
-        XT["fill_md_text() — 필터 통과분만<br/>FullTextResolver 지연 확보 → AttributeTree"]
+        XT["fill_md_text() - 필터 통과분만<br/>FullTextResolver 지연 확보 → AttributeTree"]
     end
     DQ --> XF --> XT
     FT --> XT
 
-    subgraph A4["../LLMxMapReduce-v2 — 2-stage 입력 빌더"]
+    subgraph A4["../LLMxMapReduce-v2 - 2-stage 입력 빌더"]
         M1["scripts/retrieve_pool.py<br/>AutoSurvey retrieval stack 재사용<br/>topic별 ranked pool"]
         M2["scripts/build_corpus_input.py<br/>pool 상위 → full text 확보<br/>→ input JSONL (EncodePipeline)"]
     end
@@ -208,6 +220,10 @@ flowchart LR
 
     style FT fill:#f5e6cc,stroke:#c90
 ```
+
+Agent별 한 줄 설명: AutoSurvey는 DB 경로만 바꾸고, SurveyForge는 DB 디렉터리만 바꾸며,
+SurveyX는 검색 클래스 하나를 corpus 조회로 대체하고, LLM×MapReduce-V2는 입력 파일을
+corpus에서 생성해 넣는다. 네 경우 모두 agent의 검색·생성 로직 자체는 손대지 않는다.
 
 Agent별 요점:
 | Agent | 교체 지점 | 유지되는 고유 스택 | full text |
@@ -240,10 +256,10 @@ agent run  →  export manifest  →  view_manifest  →  corpus manifest  →  
 
 ## 5. 주요 설계 결정 (요약)
 
-- **D1 — CS scope**: OpenAlex `field = Computer Science` ∧ arXiv 링크 보유. arXiv cs.* 세계의 약 84%를
+- **D1 - CS scope**: OpenAlex `field = Computer Science` ∧ arXiv 링크 보유. arXiv cs.* 세계의 약 84%를
   담으며, GT 기준 분류 불일치 유실이 topic 평균 4%대(임계 10% 미달)라 유지 확정
-- **D2 — temporal**: 위 §3의 해상 규칙 + strict month cutoff
-- **D3 — agent 연결**: 어댑터 계층 없이 **agent 원 DB 포맷을 직접 생성**, agent는 입력 경로만 교체.
+- **D2 - temporal**: 위 §3의 해상 규칙 + strict month cutoff
+- **D3 - agent 연결**: 어댑터 계층 없이 **agent 원 DB 포맷을 직접 생성**, agent는 입력 경로만 교체.
   임베딩 모델은 agent별 통제 변수로 유지(공통화하지 않음)
 - **dedup**: 같은 arXiv 논문의 복수 OpenAlex work(6.6%)는 citation 최다 기준 결정적으로 1건 채택
 
