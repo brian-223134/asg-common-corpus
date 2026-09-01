@@ -1,0 +1,8 @@
+topic: Certificate Revocation in the TLS Ecosystem
+domain: security
+gt:
+  arxiv_id: null
+  doi: "10.1145/3785653"
+  title: "Certificate Revocation in the TLS Ecosystem: A Survey"
+  published: "2026-02-03"
+notes: "smoke-test candidate (DOI 경로); ACM Computing Surveys 2026"

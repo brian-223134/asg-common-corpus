@@ -1,0 +1,841 @@
+{
+  "candidate": {
+    "topic": "Certificate Revocation in the TLS Ecosystem",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3785653",
+      "title": "Certificate Revocation in the TLS Ecosystem: A Survey",
+      "published": "2026-02-03"
+    },
+    "notes": "smoke-test candidate (DOI 경로); ACM Computing Surveys 2026"
+  },
+  "extracted_at": "2026-09-01T01:44:51+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 115,
+    "arxiv_resolvable": 0,
+    "doi_only": 56,
+    "unresolved": 59
+  },
+  "gt_s2": {
+    "paperId": "1cf27f7d74e6f0197299bfd7f7deaa15206fb770",
+    "externalIds": {
+      "DBLP": "journals/csur/KwonKKHH26",
+      "DOI": "10.1145/3785653",
+      "CorpusId": 283935929
+    },
+    "title": "Certificate Revocation in the TLS Ecosystem: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 104,
+    "publicationDate": "2025-12-19"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc6066",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3214303",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2810103.2813707",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Detecting Certificate Authority compromises and web browser collusion",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "DigiNotar SSL certificate hack amounts to cyberwar, says expert",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Rogue web certificate could have been used to attack Iran dissidents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "USENIX Security Symposium",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc8555",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Your Apps and Evolving Network Security Standards",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3134383.3134389",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2023.3299357",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2976749.2978423",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/362686.362692",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc5280",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-19571-6_16",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Another fraudulent certificate raises the same old questions about certificate authorities",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "How the comodo certificate fraud calls CA trust into question",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Black tulip report of the investigation into the DigiNotar certificate authority breach",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "SEC 4: Elliptic curve Qu-Vanstone implicit certificate scheme (ECQV)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom.2017.8057065",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/infocom.2018.8486344",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/eurosp48549.2020.00046",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cns.2015.7346853",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3278532.3278543",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sp.2013.41",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Introducing Certificate Transparency and Nimbus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Internet X. 509 public key infrastructure certificate and certificate revocation list (CRL) profile.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2019.2914453",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5555/1251375.1251396",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2663716.2663755",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2504730.2504755",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "22nd  \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security Symposium ( \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security 13)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Transport layer security (TLS) extensions: Extension definitions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Iranian hackers obtain fraudulent HTTPS certificates: How close to a Web security meltdown did we get?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "A Syrian Man-In-The-Middle Attack against Facebook",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Introducing Oak, a Free and Open Certificate Transparency Log",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Let’s Encrypt Certificates Issued Per Day",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Baseline requirements documents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/hpcc-smartcity-dss50907.2020.00108",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tit.1966.1053907",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Symantec employees fired for issuing rogue HTTPS certificate for Google",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Revoking Intermediate Certificates: Introducing OneCRL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "CRLSet Tools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc7633",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2022.100531",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "21st  \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security Symposium ( \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security 12)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2068816.2068856",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Alexa Top 1,000,000 Sites",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "A public-key cryptosystem suitable for digital multisignatures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1983
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "European Symposium on Research in Computer Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3178081",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3323640",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3433210.3453100",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sp.2018.00015",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Revocation Checking And Chrome’s CRL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "No, don’t enable revocation checking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Revocation still doesn’t work",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3548606.3560594",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sp.2017.17",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2659897",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc6962",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Trustwave admits crafting SSL snooping certificate",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icc.2011.5962925",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2815675.2815685",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "On the complexity of the web’s PKI: Evaluating certificate validation of mobile browsers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "A Survey and Security Strength Classification of PKI Certificate Revocation Management Implementations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2015.2408597",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Conference on the Theory and Application of Cryptographic Techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1987
+    },
+    {
+      "title": "23rd  \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security Symposium ( \\(\\lbrace\\) USENIX \\(\\rbrace\\)  Security 14)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "What is Microsoft Edge Legacy?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "This POODLE bites: Exploiting the SSL 3.0 fallback",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2987443.2987446",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "CA: Revocation Plan",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "OneCRL Tools",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Mozilla Security Blog",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc2560",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/49.839932",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deflate compression algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Binary diff/patch utility",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "SSL and TLS: designing and building secure systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc8446",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17487/rfc5246",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Security Protocol and Data Model (SPDM) Specification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "PHONY SSL CERTIFICATES ISSUED FOR GOOGLE, YAHOO, SKYPE, OTHERS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "How do browsers handle revoked SSL/TLS certificates?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2014.23379",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.7524",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-40453-5_28",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2660267.2660376",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "International Workshop on Selected Areas in Cryptography",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/.2006.1629442",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "27th Annual Network and Distributed System Security Symposium, NDSS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "International Conference on Financial Cryptography and Data Security",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "DV, OV, IV, and EV Certificates",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Second firm warns of concern after Dutch hack",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "MS01-017: Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icdcs.2016.91",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/surv.2011.031611.00024",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Google boots China’s main digital certificate authority CNNIC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icicse.2009.19",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Blockchain-based certificate transparency and revocation transparency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-01244-0_38",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/compsac.2017.240",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/357744.357892",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2018.2889898",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/1644893.1644896",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2663716.2663758",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10207-021-00572-5",
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}
