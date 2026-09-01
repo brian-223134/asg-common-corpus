@@ -87,6 +87,35 @@ HuggingFace: J0nasW/science-datalake @ cd87dd0  (read-only upstream)
 같은 달일 때만** day 정밀도로 채택(v2+ 날짜 혼입 방지) ② id 연월(month 정밀도) ③ OpenAlex fallback.
 month 정밀도는 view의 cutoff 판정에서 **월말 기준(strict)** 으로 비교해 temporal leakage를 막는다.
 
+### 빌드 파이프라인 상세 (SQL/스크립트 단위)
+
+L1 빌드(`common_corpus.cli build`)는 5개 SQL 스테이지를 한 DuckDB 세션에서 순차 실행한다.
+모든 스테이지는 소요 시간과 폐기 건수를 manifest에 남긴다 (무음 폐기 금지).
+
+| 순서 | SQL / 모듈 | 하는 일 | 실측 (warm) |
+|---|---|---|---|
+| 1 | `sql/build_cs_pool.sql` | `works_topics ⋈ topics(field=CS)` → CS work_id 36.97M | 2 s |
+| 2 | `sql/extract_arxiv_ids.sql` | `works_locations` URL 정규식 → work당 arXiv base id 1개(min 결정적, 충돌 797건 기록) | 6~40 s |
+| 3 | `sql/build_candidates.sql` | **works.parquet 단일 스캔**으로 후보 temp table (canonical 컬럼 + 필터 플래그, publication_date VARCHAR→DATE 캐스팅) | 36~260 s |
+| 4 | `sql/resolve_temporal.sql` | arXiv 스냅샷 날짜(id 연월과 같은 달일 때만 day) + id 연월(month) 결합 | 0.3 s |
+| 5 | `sql/build_papers.sql` | 필터(valid/en/clean/arXiv) → **arxiv_id별 dedup**(citation 최다, QUALIFY) → ORDER BY 결정적 출력 | 2 s |
+| 6 | `sql/build_topics.sql` | 선정 논문의 paper_topics relation | 9~47 s |
+
+주요 모듈/스크립트:
+
+| 파일 | 역할 |
+|---|---|
+| `src/common_corpus/providers/science_lake.py` | `ScienceLakeClient` — hf:// 원격 / 로컬 미러를 같은 뷰명으로 attach |
+| `src/common_corpus/builders/mirror.py` | 선택적 미러: 재개 가능 다운로드 + HF LFS sha256 검증 + upstream_manifest |
+| `src/common_corpus/builders/corpus_builder.py` | L1 오케스트레이션 + 감사 카운트 + manifest 생성 |
+| `src/common_corpus/corpus/view.py` | L2 CorpusView — cutoff(strict month-end)·GT 제외·불변식 검증 |
+| `src/common_corpus/fulltext/{providers,parser,resolver}.py` | arXiv e-print(LaTeX tar/단일/PDF) → latex-v1 파서 → 캐시 freeze |
+| `src/common_corpus/integrations/survey_search.py` | L3 export — agent TinyDB(`cs_paper_info`) 포맷 생성 |
+| `scripts/run_detached.sh` | setsid nohup 실행 (SSH 무관), logs/에 로그·pid |
+| `scripts/audit_coverage.py` | GT(SurveyBench·SurGE) reference coverage 감사 |
+| `scripts/extract_gt_refs.py` | 후보 GT ref 추출: S2 API → arXiv .bbl/.bib → Crossref 3단 fallback |
+| `scripts/audit_candidates.py` | 후보 감사: post-cutoff·eligible(이중 키 매칭)·D1·쌍둥이 탐지 |
+
 ### 재현성: manifest 체인
 
 ```
