@@ -47,16 +47,21 @@ BIB_ARXIV = re.compile(
 BIB_DOI = re.compile(r"\b10\.\d{4,9}/[^\s,}{\\\"']+")
 
 
-def s2_get(path: str, params: dict, tries: int = 6) -> dict:
+def s2_get(path: str, params: dict, tries: int = 8) -> dict:
+    """키 사용 시도 -> 429면 익명으로 전환 (2026-09-01 실측: 키가 쿼터 제한, 익명은 통과)."""
     url = S2 + path + "?" + urllib.parse.urlencode(params)
+    keyed = _s2_headers()
+    variants = [keyed, UA] if "x-api-key" in keyed else [UA]
     for i in range(tries):
+        headers = variants[min(i, len(variants) - 1)]
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=_s2_headers()), timeout=60) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=60) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503) and i < tries - 1:
-                wait = min(15 * 2 ** i, 240)
-                log.warning("S2 %s — %ds 후 재시도 (%d/%d)", e.code, wait, i + 1, tries)
+                wait = 3 if i == 0 and len(variants) > 1 else min(10 * 2 ** i, 180)
+                log.warning("S2 %s (%s) — %ds 후 재시도 (%d/%d)", e.code,
+                            "keyed" if "x-api-key" in headers else "anon", wait, i + 1, tries)
                 time.sleep(wait)
                 continue
             raise
