@@ -64,11 +64,20 @@ def export_agent_db(view_dir: Path, corpus_dir: Path, fmt: str, out_path: Path,
             f.write(chunk)
             h.update(chunk.encode())
         f.write("}}")
+    # content_sha256(h)은 레코드 청크만 덮고 JSON 껍데기('{"cs_paper_info": {', '}}')
+    # 를 제외한다 — 파일 지문이 아니다. 소비자가 sha256sum으로 그대로 대조할 수
+    # 있도록 파일 전체 해시를 따로 싣는다 (SurveyForge 빌드가 이 차이를 파일
+    # 지문으로 오독해 중단된 적 있음, 2026-08-31).
+    fh = hashlib.sha256()
+    with open(out_path, "rb") as rf:
+        for blk in iter(lambda: rf.read(1 << 24), b""):
+            fh.update(blk)
     manifest = {
         "format": fmt,
         "created_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "records": len(rows),
         "content_sha256": h.hexdigest(),
+        "file_sha256": fh.hexdigest(),
         "view": {"name": view_manifest["view_name"], "files_sha256": view_manifest["files_sha256"]},
         "base_corpus_sha256": view_manifest["base_corpus"]["papers_sha256"],
         "id_convention": "arxiv base id (no version suffix)",
