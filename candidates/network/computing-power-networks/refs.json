@@ -1,0 +1,1100 @@
+{
+  "candidate": {
+    "topic": "A Survey on Computing Power Networks",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/tnse.2026.3655188",
+      "title": "A Survey on Computing Power Networks: Architecture, Resource Allocation, and AI Services",
+      "published": "2026-01-01"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: OpenAlex/COMST·TNSE 2026"
+  },
+  "extracted_at": "2026-09-01T05:26:56+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 152,
+    "arxiv_resolvable": 1,
+    "doi_only": 129,
+    "unresolved": 22
+  },
+  "gt_s2": {
+    "paperId": "73ee59147bad3229864e3030395486df6ba26e20",
+    "externalIds": {
+      "DBLP": "journals/tnse/ZhaoYMK26",
+      "DOI": "10.1109/TNSE.2026.3655188",
+      "CorpusId": 284898373
+    },
+    "title": "A Survey on Computing Power Networks: Architecture, Resource Allocation, and AI Services Enablement",
+    "venue": "IEEE Transactions on Network Science and Engineering",
+    "year": 2026,
+    "referenceCount": 147,
+    "publicationDate": null
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.23919/jcc.ja.2021-0776",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3014845",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3542428",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2024.3460063",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccrd54409.2022.9730377",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Benchmarking GPU and TPU performance with graph neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Artificial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.23919/jcc.2021.02.011",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icicn62625.2024.10761814",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Computing power and the governance of artificial intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cac59555.2023.10450820",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3581912",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3502762",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tii.2021.3073066",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3338153",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cac59555.2023.10450820",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3587225",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2024.03.005",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110903",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1631/fitee.2400098",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2018.2837161",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/sec.1737",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2020.3036826",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2023.3322805",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tetc.2025.3598369",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2017.2691349",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2627422",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The resource-as-a-service (RAAS) cloud",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/1735970.1736047",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3358379",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/hpcc64274.2024.00208",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcan.2025.03.011",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3443252",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsc.2024.3489433",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1057/s41599-024-02963-0",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1080/1369118x.2025.2516545",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AI and GAIA-X",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.011.2000319",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3218527",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.005.2300256",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcsvt.2025.3566695",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "5G Mobile Communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tii.2019.2908210",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmsy.2024.06.002",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3389/fonc.2019.00984",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2025.3560003",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2019.2957804",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccworkshops57953.2023.10283537",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3223690",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2020.2979807",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3372016",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2024.110850",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3564620",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tc.2020.2969148",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2022.3167396",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2023.3326239",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3081694",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3063509",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2022.103520",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3550592",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3215805",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2024.3403714",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.120.2200086",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3583120.3586955",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/sec54971.2022.00019",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2023.3328996",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mlsp55844.2023.10285956",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2021.3103416",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2023.3320104",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deterministic computing power networking: Architecture, technologies and prospects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2024.3454256",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3329027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcc.2023.3336540",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tgcn.2024.3442910",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-23374-7_3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/electronics14040663",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2023.103648",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3393230",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Themis: Fair and efficient GPU cluster scheduling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3544216.3544265",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/2741948.2741964",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3601339",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tc.2017.2709742",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3526606",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2026.3655801",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3440754",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.55041/ijsrem27335",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3744746",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Improving language understanding by generative pre-training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Llama: Open and efficient foundation language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Scaling laws for neural language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2025.3595688",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpds.2023.3281931",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Measuring the effects of data parallelism on neural network training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Model parallelism on distributed infrastructure: A literature review from theory to LLM case-studies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": "1811.06965",
+      "doi": "10.48550/arxiv.1811.06965",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3406703",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Smoothquant: Accurate and efficient post-training quantization for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Keep the cost down: A review on methods to optimize LLM’s KV-cache consumption",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3600006.3613165",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Fast inference from transformers via speculative decoding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Deepspeed-moe: Advancing mixture-of-experts inference and training to power next-generation AI scale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/9780470544839.ch42",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3397781",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Green distributed ai training: Orchestrating compute across renewable-powered micro datacenters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3635867",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iwqos57198.2023.10188789",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/ett.4706",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnsm.2024.3434997",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-96-9884-4_41",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2024.3414853",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3406325.3451077",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/18.850663",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2021.3084519",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/dsn-w65791.2025.00031",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3417315",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11263-021-01453-z",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iccv.2019.00489",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey on large language model acceleration based on KV cache management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2025.3554028",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2022.3192050",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3769270.3770122",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Revisiting distributed synchronous SGD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3427324",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.64509/jicn.12.39",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/fi17060243",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2024.3404999",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Computing Power Network  Framework and Architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcomm.2025.3600213",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2020.3018691",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10044-014-0411-9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.23919/iconac.2017.8082036",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Error-Correcting Codes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1972
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpami.2024.3367329",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3735633",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/imcec59810.2024.10574966",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/vtc2024-spring62846.2024.10683650",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnse.2025.3554100",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsg.2024.3498945",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2025.06.026",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.011.2000567",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/widm.1507",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/globecom52923.2024.10901134",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2019.2916583",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1002/9780470455432.ch1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1504/ijwgs.2018.095647",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2004.842784",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2022.3160691",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s41928-019-0355-6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2025.3593918",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/twc.2019.2946140",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/nphoton.2007.22",
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

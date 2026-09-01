@@ -1,0 +1,2053 @@
+{
+  "candidate": {
+    "topic": "ML-Enabled Open RAN",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": "2604.01239",
+      "doi": null,
+      "title": "ML-Enabled Open RAN: A Comprehensive Survey of Architectures, Challenges, and Opportunities",
+      "published": "2026-03-27"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: arXiv cs.NI 2026"
+  },
+  "extracted_at": "2026-09-01T05:49:34+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 288,
+    "arxiv_resolvable": 80,
+    "doi_only": 189,
+    "unresolved": 19
+  },
+  "gt_s2": {
+    "paperId": "729b393ccf1cac95f63bfd7f82aa30d05571af95",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2604-01239",
+      "ArXiv": "2604.01239",
+      "DOI": "10.1109/COMST.2026.3660649",
+      "CorpusId": 285370374
+    },
+    "title": "ML-Enabled Open RAN: A Comprehensive Survey of Architectures, Challenges, and Opportunities",
+    "venue": "IEEE Communications Surveys and Tutorials",
+    "year": 2026,
+    "referenceCount": 288,
+    "publicationDate": "2026-03-27"
+  },
+  "refs": [
+    {
+      "title": "DRL-Driven Edge-Aware Utility Optimization for Multi-Slice 6G Networks",
+      "arxiv_id": "2605.23056",
+      "doi": "10.1109/LNET.2025.3614549",
+      "publicationDate": "2026-05-21",
+      "year": 2026
+    },
+    {
+      "title": "Development of open radio access networks (O-RAN) for real-time robotic teleoperation",
+      "arxiv_id": null,
+      "doi": "10.1038/s44172-025-00524-0",
+      "publicationDate": "2025-10-21",
+      "year": 2025
+    },
+    {
+      "title": "Evaluation of a GAN-Based Method for Anomaly Detection in Open RAN Based on Experimental 5G Data",
+      "arxiv_id": null,
+      "doi": "10.1109/ACTEA66485.2025.11189958",
+      "publicationDate": "2025-09-24",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing URLLC in Open RAN: A Deep Reinforcement Learning-Based Trade-Off Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOMSTD.2025.3572604",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Differential Privacy Federated Edge Learning-assisted for Securing RAN Intelligent Controller in O-RAN 6G Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/APWCS67981.2025.11151868",
+      "publicationDate": "2025-08-20",
+      "year": 2025
+    },
+    {
+      "title": "Resource Allocation for Network Slicing in Open RAN: A Hierarchical Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2024.3524641",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "An Open RAN Development Framework with Network Energy Saving rApp Implementation",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit63408.2025.11037045",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "Decentralized Federated Learning for GNN-Based Channel Estimation With DM-RS in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ICMLCN64995.2025.11140565",
+      "publicationDate": "2025-05-26",
+      "year": 2025
+    },
+    {
+      "title": "Quantum-Aided Active User Detection for Energy-Efficient CD-NOMA in Cognitive Radio Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/IWCMC65282.2025.11059714",
+      "publicationDate": "2025-05-12",
+      "year": 2025
+    },
+    {
+      "title": "Contrastive Learning for Distortion Tolerable Network Slice Prediction in Open RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC61545.2025.10978529",
+      "publicationDate": "2025-03-24",
+      "year": 2025
+    },
+    {
+      "title": "An Overview for Designing 6G Networks: Technologies, Spectrum Management, Enhanced Air Interface, and AI/ML Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3505617",
+      "publicationDate": "2025-03-15",
+      "year": 2025
+    },
+    {
+      "title": "O-RAN Xapps Conflict Prediction Using Graph Convolutional Networks",
+      "arxiv_id": "2503.03523",
+      "doi": "10.1109/TMC.2026.3665440",
+      "publicationDate": "2025-03-05",
+      "year": 2025
+    },
+    {
+      "title": "Toward 6G-Enabled URLLCs: Digital Twin, Open Ran, and Semantic Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOMSTD.0001.2300054",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Dynamic Synergy: Leveraging RIS and Reinforcement Learning for Secure, Adaptive Underlay Cognitive Radio Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/GIIS64151.2025.10921906",
+      "publicationDate": "2025-02-25",
+      "year": 2025
+    },
+    {
+      "title": "Joint Resource Allocation and Power Efficiency Optimization for O-RAN Based ISAC",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAIIC64266.2025.10920786",
+      "publicationDate": "2025-02-18",
+      "year": 2025
+    },
+    {
+      "title": "Open RAN Slicing with Quantum Optimization",
+      "arxiv_id": "2502.00142",
+      "doi": "10.1109/GIIS64151.2025.10921752",
+      "publicationDate": "2025-01-31",
+      "year": 2025
+    },
+    {
+      "title": "Fortifying Lifelong Security for O-RAN Ecosystem: An Incremental Learning Framework for NextG Seamless Networking",
+      "arxiv_id": null,
+      "doi": "10.1109/ICOIN63865.2025.10992883",
+      "publicationDate": "2025-01-15",
+      "year": 2025
+    },
+    {
+      "title": "Demo: Enabling Deep Reinforcement Learning Research for Energy Saving in Open RAN",
+      "arxiv_id": "2601.02240",
+      "doi": "10.1109/CCNC54725.2025.10975928",
+      "publicationDate": "2025-01-10",
+      "year": 2025
+    },
+    {
+      "title": "Energy Efficient Orchestration for O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM52923.2024.10901461",
+      "publicationDate": "2024-12-08",
+      "year": 2024
+    },
+    {
+      "title": "A review on 5G and beyond wireless communication channel models: Applications and challenges",
+      "arxiv_id": null,
+      "doi": "10.1016/j.phycom.2024.102488",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Cognitive Networks: Reinforcement Learning Meets Energy Harvesting Over Cascaded Channels",
+      "arxiv_id": "2507.06981",
+      "doi": "10.1109/JSYST.2024.3442017",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Cell Throughput Prediction Using AI Models: Insights from the O-RAN Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/NILES63360.2024.10753234",
+      "publicationDate": "2024-10-19",
+      "year": 2024
+    },
+    {
+      "title": "Design and Evaluation of Deep Reinforcement Learning for Energy Saving in Open RAN",
+      "arxiv_id": "2410.14021",
+      "doi": "10.1109/CCNC54725.2025.10976108",
+      "publicationDate": "2024-10-17",
+      "year": 2024
+    },
+    {
+      "title": "DDoS Detection and Mitigation Using d/xApp in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/FNWF63303.2024.11028717",
+      "publicationDate": "2024-10-15",
+      "year": 2024
+    },
+    {
+      "title": "DRL-based xApps for Dynamic RAN and MEC Resource Allocation and Slicing in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/NoF62948.2024.10741435",
+      "publicationDate": "2024-10-02",
+      "year": 2024
+    },
+    {
+      "title": "Meta Reinforcement Learning Approach for Adaptive Resource Optimization in O-RAN",
+      "arxiv_id": "2410.03737",
+      "doi": "10.1109/WCNC61545.2025.10978365",
+      "publicationDate": "2024-09-30",
+      "year": 2024
+    },
+    {
+      "title": "Machine Learning-Enabled Traffic Steering in O-RAN: A Case Study on Hierarchical Learning Approach",
+      "arxiv_id": "2409.20391",
+      "doi": "10.1109/MCOM.002.2300526",
+      "publicationDate": "2024-09-30",
+      "year": 2024
+    },
+    {
+      "title": "LatentQGAN: A Hybrid QGAN with Classical Convolutional Autoencoder",
+      "arxiv_id": "2409.14622",
+      "doi": "10.1109/WF-IoT62078.2024.10811384",
+      "publicationDate": "2024-09-22",
+      "year": 2024
+    },
+    {
+      "title": "DiReDi: Distillation and Reverse Distillation for AIoT Applications",
+      "arxiv_id": "2409.08308",
+      "doi": "10.1109/OJCS.2024.3505195",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "Towards Resilient 6G O-RAN: An Energy-Efficient URLLC Resource Allocation Framework",
+      "arxiv_id": "2409.05553",
+      "doi": "10.1109/OJCOMS.2024.3510273",
+      "publicationDate": "2024-09-09",
+      "year": 2024
+    },
+    {
+      "title": "A comprehensive review of model compression techniques in machine learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s10489-024-05747-w",
+      "publicationDate": "2024-09-02",
+      "year": 2024
+    },
+    {
+      "title": "AdapShare: An RL-Based Dynamic Spectrum Sharing Solution for O-RAN",
+      "arxiv_id": "2408.16842",
+      "doi": "10.1109/CCNC54725.2025.10976195",
+      "publicationDate": "2024-08-29",
+      "year": 2024
+    },
+    {
+      "title": "QuaCK-TSF: Quantum-Classical Kernelized Time Series Forecasting",
+      "arxiv_id": "2408.12007",
+      "doi": "10.1109/QCE60285.2024.00190",
+      "publicationDate": "2024-08-21",
+      "year": 2024
+    },
+    {
+      "title": "Communication Efficient Compressed and Accelerated Federated Learning in Open RAN Intelligent Controllers",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2024.3384839",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "PRORL: Proactive Resource Orchestrator for Open RANs Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3373606",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Maximizing Reliability in Overlay Radio Networks With Time Switching and Power Splitting Energy Harvesting",
+      "arxiv_id": "2507.06983",
+      "doi": "10.1109/TCCN.2024.3375500",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Enabling Reusable and Comparable xApps in the Machine Learning-Driven Open RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/HPSR62440.2024.10635962",
+      "publicationDate": "2024-07-22",
+      "year": 2024
+    },
+    {
+      "title": "Explainable AI Based Statistical Learning Scheme for Joint Abnormal Detection and Power Control in O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCE-Taiwan62264.2024.10674311",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "Securing Cognitive IoT Networks: Reinforcement Learning for Adaptive Physical Layer Defense",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCSPA61559.2024.10794361",
+      "publicationDate": "2024-07-08",
+      "year": 2024
+    },
+    {
+      "title": "xApp Distillation: AI-based Conflict Mitigation in B5G O-RAN",
+      "arxiv_id": "2407.03068",
+      "doi": "10.48550/arXiv.2407.03068",
+      "publicationDate": "2024-07-03",
+      "year": 2024
+    },
+    {
+      "title": "Federated Deep Reinforcement Learning for Efficient Jamming Attack Mitigation in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2024.3359998",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Energy-Efficient Resource Allocation in LEO-assisted Open RAN architecture towards 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/BMSB62888.2024.10608373",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "A Hierarchical Federated Learning Paradigm in O-RAN for Resource-Constrained IoT Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC51166.2024.10623078",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks",
+      "arxiv_id": "2507.06997",
+      "doi": "10.1109/ICC51166.2024.10622458",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Federated Learning for Anomaly Detection in Open RAN: Security Architecture Within a Digital Twin",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit60053.2024.10597083",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "AI/ML Enabled Automation System for Software Defined Disaggregated Open Radio Access Networks: Transforming Telecommunication Business",
+      "arxiv_id": null,
+      "doi": "10.26599/bdma.2023.9020033",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Energy Consumption Evaluation of NOMA-based Sustainable Scheduling in 6G O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/IWCMC61514.2024.10592553",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Securing Next-Generation Networks against Eavesdroppers: FL-Enabled DRL Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/IWCMC61514.2024.10592377",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Federated learning for efficient spectrum allocation in open RAN",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04500-9",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Energy Efficiency in O-RAN Through Intelligent xApps Deployment",
+      "arxiv_id": "2405.10116",
+      "doi": "10.1109/WINCOM62286.2024.10658116",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "Open RAN Slicing for MVNOs With Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3365665",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Distributed Deep Reinforcement Learning for Radio Resource Management in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ICEE63041.2024.10667952",
+      "publicationDate": "2024-05-14",
+      "year": 2024
+    },
+    {
+      "title": "Towards intent-based management for Open Radio Access Networks: an agile framework for detecting service-level agreement conflicts",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-024-01035-3",
+      "publicationDate": "2024-05-10",
+      "year": 2024
+    },
+    {
+      "title": "PACIFISTA: Conflict Evaluation and Management in Open RAN",
+      "arxiv_id": "2405.04395",
+      "doi": "10.1109/TMC.2025.3570632",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "Securing O-RAN Open Interfaces",
+      "arxiv_id": "2404.15076",
+      "doi": "10.1109/TMC.2024.3393430",
+      "publicationDate": "2024-04-23",
+      "year": 2024
+    },
+    {
+      "title": "ProSAS: An O-RAN Approach to Spectrum Sharing Between NR and LTE",
+      "arxiv_id": "2404.09110",
+      "doi": "10.1109/ICC51166.2024.10623021",
+      "publicationDate": "2024-04-14",
+      "year": 2024
+    },
+    {
+      "title": "Strengthening Supply Chain Security with Fine-Grained Safe Patch Identification",
+      "arxiv_id": null,
+      "doi": "10.1145/3597503.3639104",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "A survey of public datasets for O-RAN: fostering the development of machine learning models",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-024-01029-1",
+      "publicationDate": "2024-04-05",
+      "year": 2024
+    },
+    {
+      "title": "ALAP: Availability- and Latency-Aware Protection for O-RAN: A Deep Q-Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3339302",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "On the extraction of RF fingerprints from LSTM hidden-state values for robust open-set detection",
+      "arxiv_id": null,
+      "doi": "10.52953/mogl1293",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "Misconfiguration in O-RAN: Analysis of the impact of AI/ML",
+      "arxiv_id": "2403.01180",
+      "doi": "10.1016/j.comnet.2024.110455",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Preserving Data Privacy for ML-driven Applications in Open Radio Access Networks",
+      "arxiv_id": "2402.09710",
+      "doi": "10.1109/DySPAN60163.2024.10632857",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "System-level Analysis of Adversarial Attacks and Defenses on Intelligence in O-RAN based Cellular Networks",
+      "arxiv_id": "2402.06846",
+      "doi": "10.1145/3643833.3656119",
+      "publicationDate": "2024-02-10",
+      "year": 2024
+    },
+    {
+      "title": "Proactive VNF Scaling and Placement in 5G O-RAN Using ML",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3292986",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Edge-AI Empowered Dynamic VNF Splitting in O-RAN Slicing: A Federated DRL Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2023.3341302",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Machine learning in cybersecurity: A review of threat detection and defense mechanisms",
+      "arxiv_id": null,
+      "doi": "10.30574/wjarr.2024.21.1.0315",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Real-Time AI-Enabled CSI Feedback Experimentation with Open RAN",
+      "arxiv_id": null,
+      "doi": "10.23919/WONS60642.2024.10449603",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "Machine Learning-based xApp for Dynamic Resource Allocation in O-RAN Networks",
+      "arxiv_id": "2401.07643",
+      "doi": "10.1109/ICMLCN59089.2024.10625184",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "Robotic and Cyber-Attack Classification Using Artificial Intelligence and Machine Learning Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAECT60202.2024.10469153",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "Performance Assessment of an ITU-T Compliant Machine Learning Enhancements for 5G RAN Network Slicing",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2022.3228286",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Cyber Security Through Machine Learning: A Comprehensive Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCAKM58659.2023.10449547",
+      "publicationDate": "2023-12-12",
+      "year": 2023
+    },
+    {
+      "title": "Securing Overlay Cognitive Radio Networks Over Cascaded Channels with Energy Harvesting",
+      "arxiv_id": null,
+      "doi": "10.1109/GCWkshps58843.2023.10464644",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Digital Twin Assisted Closed-Loops for Energy-Efficient Open RAN-Based Fixed Wireless Access Provisioning in Rural Areas",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM54140.2023.10437288",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Digital Twin and DRL-Driven Semantic Dissemination for 6G Autonomous Driving Service",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM54140.2023.10437455",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Federated Learning Integration in O- RAN: A Concise Review",
+      "arxiv_id": null,
+      "doi": "10.1109/ITNAC59571.2023.10368561",
+      "publicationDate": "2023-11-29",
+      "year": 2023
+    },
+    {
+      "title": "Open Radio Access Networks for Smart IoT Systems: State of Art and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.3390/fi15120380",
+      "publicationDate": "2023-11-27",
+      "year": 2023
+    },
+    {
+      "title": "AI-based evaluation system for supply chain vulnerabilities and resilience amidst external shocks: An empirical approach",
+      "arxiv_id": null,
+      "doi": "10.31181/rme040122112023m",
+      "publicationDate": "2023-11-23",
+      "year": 2023
+    },
+    {
+      "title": "Radio Resource Allocation in Low-to Medium-Load Regimes for Energy Minimization With C-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/WPMC59531.2023.10338839",
+      "publicationDate": "2023-11-19",
+      "year": 2023
+    },
+    {
+      "title": "Toward Secure and Efficient O-RAN Deployments: Secure Slicing xApp Use Case",
+      "arxiv_id": null,
+      "doi": "10.1109/FNWF58287.2023.10520548",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "OpenAI dApp: An Open AI Platform for Distributed Federated Reinforcement Learning Apps in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/FNWF58287.2023.10520642",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "AIRIC: Orchestration of Virtualized Radio Access Networks With Noisy Neighbours",
+      "arxiv_id": "2311.04649",
+      "doi": "10.1109/JSAC.2023.3339749",
+      "publicationDate": "2023-11-08",
+      "year": 2023
+    },
+    {
+      "title": "5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks",
+      "arxiv_id": "2311.03206",
+      "doi": "10.1109/MCOM.001.2300675",
+      "publicationDate": "2023-11-06",
+      "year": 2023
+    },
+    {
+      "title": "A Brief Survey of Open Radio Access Network (O-RAN) Security",
+      "arxiv_id": "2311.02311",
+      "doi": "10.48550/arXiv.2311.02311",
+      "publicationDate": "2023-11-04",
+      "year": 2023
+    },
+    {
+      "title": "Digital Twin for Open RAN: Toward Intelligent and Resilient 6G Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.003.2200879",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Energy-Aware Dynamic VNF Splitting in O-RAN Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/LWC.2023.3298548",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "End-to-End O-RAN Control-Loop For Radio Resource Allocation in SDR-Based 5G Network",
+      "arxiv_id": null,
+      "doi": "10.1109/MILCOM58377.2023.10356316",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Quantum Leap: Exploring the Potential of Quantum Machine Learning for Communication Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3616388.3625543",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Recent Advances in Machine Learning for Network Automation in the O-RAN",
+      "arxiv_id": null,
+      "doi": "10.3390/s23218792",
+      "publicationDate": "2023-10-28",
+      "year": 2023
+    },
+    {
+      "title": "EXPLORA: AI/ML EXPLainability for the Open RAN",
+      "arxiv_id": "2310.13667",
+      "doi": "10.1145/3629141",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "Moving Towards Open Radio Access Networks with Blockchain Technologies",
+      "arxiv_id": null,
+      "doi": "10.1109/BRAINS59668.2023.10316961",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on AI-Empowered Security Solutions for 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTC58733.2023.10393595",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "Intelligent O-RAN-Based Proactive Handover in Vehicular Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTC58733.2023.10392738",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "Deep Reinforcement Learning-Based Resource Management for 5G Networks: Optimizing eMBB Throughput and URLLC Latency",
+      "arxiv_id": null,
+      "doi": "10.1109/VTC2023-Fall60731.2023.10333608",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "Successive Data Injection in Conditional Quantum GAN Applied to Time Series Anomaly Detection",
+      "arxiv_id": "2310.05307",
+      "doi": "10.48550/arXiv.2310.05307",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Safe and Accelerated Deep Reinforcement Learning-Based O-RAN Slicing: A Hybrid Transfer Learning Approach",
+      "arxiv_id": "2309.07265",
+      "doi": "10.1109/JSAC.2023.3336191",
+      "publicationDate": "2023-09-13",
+      "year": 2023
+    },
+    {
+      "title": "Experimental Study of Adversarial Attacks on ML-Based xApps in O-RAN",
+      "arxiv_id": "2309.03844",
+      "doi": "10.1109/GLOBECOM54140.2023.10437125",
+      "publicationDate": "2023-09-07",
+      "year": 2023
+    },
+    {
+      "title": "UE Centric DU Placement with Carrier Aggregation in O-RAN using Deep Q-Network Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/PIMRC56721.2023.10293958",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "Comprehensive survey study on fifth-generation wireless network and the internet of things",
+      "arxiv_id": null,
+      "doi": "10.4108/eetiot.v9i3.2213",
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "Federated Learning Assisted Deep Q-Learning for Joint Task Offloading and Fronthaul Segment Routing in Open RAN",
+      "arxiv_id": "2308.07258",
+      "doi": "10.1109/TNSM.2023.3245544",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic MAC Scheduling in O-RAN using Federated Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/SmartNets58706.2023.10216125",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "Intent-driven Intelligent Control and Orchestration in O-RAN Via Hierarchical Reinforcement Learning",
+      "arxiv_id": "2307.02754",
+      "doi": "10.1109/MASS58611.2023.00015",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "Explainable AI in 6G O-RAN: A Tutorial and Survey on Architecture, Use Cases, Challenges, and Future Research",
+      "arxiv_id": "2307.00319",
+      "doi": "10.1109/COMST.2024.3510543",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Optimized Resource and Deep Learning Model Allocation in O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/WiMob58348.2023.10187766",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Adaptive Retraining of AI/ML Model for Beyond 5G Networks: A Predictive Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft57336.2023.10175451",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning",
+      "arxiv_id": "2505.14581",
+      "doi": "10.1109/IWCMC58020.2023.10182973",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "A Machine Learning-based xAPP for 5G O-RAN to Mitigate Co-tier Interference and Improve QoE for Various Services in a HetNet Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/BMSB58369.2023.10211189",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "ACROSS: Automated zero-touch cross-layer provisioning framework for 5G and beyond vertical services",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit58263.2023.10188293",
+      "publicationDate": "2023-06-06",
+      "year": 2023
+    },
+    {
+      "title": "On the Application of Q-learning for Mobility Load Balancing in Realistic Vehicular Scenarios",
+      "arxiv_id": null,
+      "doi": "10.1109/VTC2023-Spring57618.2023.10201091",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Accelerating Reinforcement Learning via Predictive Policy Transfer in 6G RAN Slicing",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3258692",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Deep Autoencoder Design for RF Anomaly Detection in 5G O-RAN Near-RT RIC via xApps",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCWorkshops57953.2023.10283501",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Collaborative Game Theory and Deep Learning Closed-Loop Automation In O-RAN 5G Network Slicing For Smart Grid Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC45041.2023.10279158",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Securing Cognitive Radio Networks via Relay and Jammer-Based Energy Harvesting on Cascaded Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC45041.2023.10278964",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "xApp for Traffic Steering and Load Balancing in the O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC45041.2023.10278921",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "A Multi-Agent Deep Reinforcement Learning Approach for RAN Resource Allocation in O-RAN",
+      "arxiv_id": "2307.02414",
+      "doi": "10.1109/INFOCOMWKSHPS57453.2023.10226154",
+      "publicationDate": "2023-05-20",
+      "year": 2023
+    },
+    {
+      "title": "Developing xApps for Rogue Base Station Detection in SDR-Enabled O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS57453.2023.10225868",
+      "publicationDate": "2023-05-20",
+      "year": 2023
+    },
+    {
+      "title": "Bayesian Inference-Assisted Machine Learning for Near Real-Time Jamming Detection and Classification in 5G New Radio (NR)",
+      "arxiv_id": "2304.13660",
+      "doi": "10.1109/TWC.2023.3337058",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "Implementing and Evaluating Security in O-RAN: Interfaces, Intelligence, and Platforms",
+      "arxiv_id": "2304.11125",
+      "doi": "10.1109/MNET.2024.3434419",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "Detecting Supply Chain Attacks with Unsupervised Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASI57738.2023.10179583",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "Intelligent Load Balancing and Resource Allocation in O-RAN: A Multi-Agent Multi-Armed Bandit Approach",
+      "arxiv_id": "2303.14355",
+      "doi": "10.1109/PIMRC56721.2023.10293795",
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "Beam Management Driven by Radio Environment Maps in O-RAN Architecture",
+      "arxiv_id": "2303.11742",
+      "doi": "10.1109/ICCWorkshops57953.2023.10283527",
+      "publicationDate": "2023-03-21",
+      "year": 2023
+    },
+    {
+      "title": "Quality of service‐aware adaptive radio resource management based on deep federated Q‐learning for multi‐access edge computing in beyond 5G cloud‐radio access network",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.4762",
+      "publicationDate": "2023-03-14",
+      "year": 2023
+    },
+    {
+      "title": "Open Radio Access Network challenges for Next Generation Mobile Network",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIN56760.2023.10073507",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions",
+      "arxiv_id": null,
+      "doi": "10.1007/s10916-023-01906-7",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "An Open Approach to Autonomous Ran Fault Management",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.004.2200244",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "User Trajectory Prediction in Mobile Wireless Networks Using Quantum Reservoir Computing",
+      "arxiv_id": "2301.08796",
+      "doi": "10.48550/arXiv.2301.08796",
+      "publicationDate": "2023-01-20",
+      "year": 2023
+    },
+    {
+      "title": "Open RAN: Evolution of Architecture, Deployment Aspects, and Future Directions",
+      "arxiv_id": "2301.06713",
+      "doi": "10.48550/arXiv.2301.06713",
+      "publicationDate": "2023-01-17",
+      "year": 2023
+    },
+    {
+      "title": "Technology Trends for Massive MIMO towards 6G",
+      "arxiv_id": "2301.01703",
+      "doi": "10.3390/s23136062",
+      "publicationDate": "2023-01-04",
+      "year": 2023
+    },
+    {
+      "title": "QoE-Driven Optimization in 5G O-RAN-Enabled HetNets for Enhanced Video Service Quality",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.003.2200229",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "5G-Enabled Distributed Intelligence Based on O-RAN for Distributed IoT Systems",
+      "arxiv_id": null,
+      "doi": "10.3390/s23010133",
+      "publicationDate": "2022-12-23",
+      "year": 2022
+    },
+    {
+      "title": "Predicting Cyber Threats Using Machine Learning for Improving Cyber Supply Chain Security",
+      "arxiv_id": null,
+      "doi": "10.1109/NCCC57165.2022.10067692",
+      "publicationDate": "2022-12-17",
+      "year": 2022
+    },
+    {
+      "title": "Coexistence of eMBB and URLLC in Open Radio Access Networks: A Distributed Learning Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM48099.2022.10001021",
+      "publicationDate": "2022-12-04",
+      "year": 2022
+    },
+    {
+      "title": "Open RAN Security: Challenges and Opportunities",
+      "arxiv_id": "2212.01510",
+      "doi": "10.48550/arXiv.2212.01510",
+      "publicationDate": "2022-12-03",
+      "year": 2022
+    },
+    {
+      "title": "5G-NIDD: A Comprehensive Network Intrusion Detection Dataset Generated over 5G Wireless Network",
+      "arxiv_id": "2212.01298",
+      "doi": "10.48550/arXiv.2212.01298",
+      "publicationDate": "2022-12-02",
+      "year": 2022
+    },
+    {
+      "title": "Baseband-Function Placement With Multi-Task Traffic Prediction for 5G Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3190059",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Reinforcement Learning-Based Joint User Association and CU–DU Placement in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2022.3221670",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Analysis of Reinforcement Learning Schemes for Trajectory Optimization of an Aerial Radio Unit",
+      "arxiv_id": "2211.10524",
+      "doi": "10.1109/ICC45041.2023.10279738",
+      "publicationDate": "2022-11-18",
+      "year": 2022
+    },
+    {
+      "title": "Reinforcement Learning Based Resource Allocation for Network Slices in O-RAN Midhaul",
+      "arxiv_id": "2211.07466",
+      "doi": "10.1109/CCNC51644.2023.10059966",
+      "publicationDate": "2022-11-14",
+      "year": 2022
+    },
+    {
+      "title": "Machine Learning Routing Protocol in Mobile IoT based on Software-Defined Networking",
+      "arxiv_id": null,
+      "doi": "10.1109/NFV-SDN56302.2022.9974791",
+      "publicationDate": "2022-11-14",
+      "year": 2022
+    },
+    {
+      "title": "Policy-Gradient-Based Reinforcement Learning for Computing Resources Allocation in O-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/CloudNet55617.2022.9978863",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "On the Specialization of FDRL Agents for Scalable and Distributed 6G RAN Slicing Orchestration",
+      "arxiv_id": "2211.03088",
+      "doi": "10.1109/TVT.2022.3218158",
+      "publicationDate": "2022-11-06",
+      "year": 2022
+    },
+    {
+      "title": "Spectrum allocation using multiparameter optimization in elastic optical networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109478",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Can Open and AI-Enabled 6G RAN Be Secured?",
+      "arxiv_id": null,
+      "doi": "10.1109/MCE.2022.3205145",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Age of Processing-Based Data Offloading for Autonomous Vehicles in MultiRATs Open RAN",
+      "arxiv_id": "2308.07242",
+      "doi": "10.1109/TITS.2022.3192098",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Universal Vertical Applications Adaptation for Open RAN: A Deep Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/WPMC55625.2022.10014755",
+      "publicationDate": "2022-10-30",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Agent Actor-Critic for Cooperative Resource Allocation in Vehicular Networks",
+      "arxiv_id": null,
+      "doi": "10.23919/WMNC56391.2022.9954301",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Programmable and Customized Intelligence for Traffic Steering in 5G Networks Using Open RAN Architectures",
+      "arxiv_id": "2209.14171",
+      "doi": "10.1109/TMC.2023.3266642",
+      "publicationDate": "2022-09-28",
+      "year": 2022
+    },
+    {
+      "title": "Actor-Critic Network for O-RAN Resource Allocation: xApp Design, Deployment, and Analysis",
+      "arxiv_id": "2210.04604",
+      "doi": "10.1109/GCWkshps56602.2022.10008713",
+      "publicationDate": "2022-09-26",
+      "year": 2022
+    },
+    {
+      "title": "Federated Meta-Learning for Traffic Steering in O-RAN",
+      "arxiv_id": "2209.05874",
+      "doi": "10.1109/VTC2022-Fall57202.2022.10012789",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Transmit Power Control for Indoor Small Cells: A Method Based on Federated Reinforcement Learning",
+      "arxiv_id": "2209.13536",
+      "doi": "10.1109/VTC2022-Fall57202.2022.10012956",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN",
+      "arxiv_id": "2208.14394",
+      "doi": "10.48550/arXiv.2208.14394",
+      "publicationDate": "2022-08-30",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Aware Scheduling of Virtualized Base Stations in O-RAN with Online Learning",
+      "arxiv_id": "2208.09956",
+      "doi": "10.1109/GLOBECOM48099.2022.10001330",
+      "publicationDate": "2022-08-21",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Open Radio Access Networks: Challenges, Research Directions, and Open Source Approaches",
+      "arxiv_id": "2208.09125",
+      "doi": "10.3390/s24031038",
+      "publicationDate": "2022-08-19",
+      "year": 2022
+    },
+    {
+      "title": "O-RAN Intelligent Application for Cellular Mobility Management",
+      "arxiv_id": null,
+      "doi": "10.1109/ICISS55894.2022.9915221",
+      "publicationDate": "2022-08-10",
+      "year": 2022
+    },
+    {
+      "title": "Federated Deep Reinforcement Learning for Resource Allocation in O-RAN Slicing",
+      "arxiv_id": "2208.01736",
+      "doi": "10.1109/GLOBECOM48099.2022.10001658",
+      "publicationDate": "2022-08-02",
+      "year": 2022
+    },
+    {
+      "title": "A tenant-driven slicing enforcement scheme based on Pervasive Intelligence in the Radio Access Network",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4022195",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Research on Anomaly Identification and Screening and Metallogenic Prediction Based on Semisupervised Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1155/2022/8745036",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "On the Implementation of a Reinforcement Learning-based Capacity Sharing Algorithm in O-RAN",
+      "arxiv_id": "2207.10390",
+      "doi": "10.1109/GCWkshps56602.2022.10008506",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "Reinforcement Learning Framework for Dynamic Power Transmission in Cloud RAN Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/CONECCT55679.2022.9865681",
+      "publicationDate": "2022-07-08",
+      "year": 2022
+    },
+    {
+      "title": "Energy-Aware Dynamic DU Selection and NF Relocation in O-RAN Using Actor–Critic Learning",
+      "arxiv_id": null,
+      "doi": "10.3390/s22135029",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Agent Team Learning in Virtualized Open Radio Access Networks (O-RAN)",
+      "arxiv_id": null,
+      "doi": "10.3390/s22145375",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "On the Training of Reinforcement Learning-based Algorithms in 5G and Beyond Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft54395.2022.9844032",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Intelligent Admission and Placement of O-RAN Slices Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft54395.2022.9844089",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Federated Deep Reinforcement Learning for Open RAN Slicing in 6G Networks",
+      "arxiv_id": "2206.11328",
+      "doi": "10.1109/MCOM.007.2200555",
+      "publicationDate": "2022-06-22",
+      "year": 2022
+    },
+    {
+      "title": "Towards Improving the Security of Cognitive Radio Networks-Based Energy Harvesting",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC45855.2022.9838746",
+      "publicationDate": "2022-05-16",
+      "year": 2022
+    },
+    {
+      "title": "Joint Route Selection and Content Caching in O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC51071.2022.9771623",
+      "publicationDate": "2022-04-10",
+      "year": 2022
+    },
+    {
+      "title": "Communication and Computation O-RAN Resource Slicing for URLLC Services Using Deep Reinforcement Learning",
+      "arxiv_id": "2202.06439",
+      "doi": "10.1109/MCOMSTD.0002.2100078",
+      "publicationDate": "2022-02-13",
+      "year": 2022
+    },
+    {
+      "title": "Cooperative spectrum sensing in cognitive radio networks using machine learning techniques",
+      "arxiv_id": null,
+      "doi": "10.1007/s13204-021-02261-0",
+      "publicationDate": "2022-02-05",
+      "year": 2022
+    },
+    {
+      "title": "Predictive Closed-Loop Service Automation in O-RAN Based Network Slicing",
+      "arxiv_id": "2202.01966",
+      "doi": "10.1109/MCOMSTD.0001.2200017",
+      "publicationDate": "2022-02-04",
+      "year": 2022
+    },
+    {
+      "title": "Understanding O-RAN: Architecture, Interfaces, Algorithms, Security, and Research Challenges",
+      "arxiv_id": "2202.01032",
+      "doi": "10.1109/COMST.2023.3239220",
+      "publicationDate": "2022-02-02",
+      "year": 2022
+    },
+    {
+      "title": "Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3165809",
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "Team Learning-Based Resource Allocation for Open Radio Access Network (O-RAN)",
+      "arxiv_id": "2201.07385",
+      "doi": "10.1109/ICC45855.2022.9838763",
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "Evaluating the Security of Open Radio Access Networks",
+      "arxiv_id": "2201.06080",
+      "doi": null,
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "When Machine Learning Meets Spectrum Sharing Security: Methodologies and Challenges",
+      "arxiv_id": "2201.04677",
+      "doi": "10.1109/ojcoms.2022.3146364",
+      "publicationDate": "2022-01-12",
+      "year": 2022
+    },
+    {
+      "title": "Open RAN—Radio Access Network Evolution, Benefits and Market Trends",
+      "arxiv_id": null,
+      "doi": "10.3390/app12010408",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "ColO-RAN: Developing Machine Learning-Based xApps for Open RAN Closed-Loop Control on Programmable Experimental Platforms",
+      "arxiv_id": "2112.09559",
+      "doi": "10.1109/TMC.2022.3188013",
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "Hybrid Controlled User Association and Resource Management for Energy-Efficient Green RANs With Limited Fronthaul",
+      "arxiv_id": "2112.03611",
+      "doi": "10.1109/ACCESS.2022.3140814",
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "Machine learning for 5G security: Architecture, recent advances, and challenges",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2021.102667",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "O-RAN AI/ML Workflow Implementation of Personalized Network Optimization via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/GCWkshps52748.2021.9681936",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Physical-Layer Security on Maximal Ratio Combining for SIMO Cognitive Radio Networks Over Cascaded κ-μ Fading Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2021.3074178",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Toward Next Generation Open Radio Access Networks: What O-RAN Can and Cannot Do!",
+      "arxiv_id": "2111.13754",
+      "doi": "10.1109/MNET.108.2100659",
+      "publicationDate": "2021-11-26",
+      "year": 2021
+    },
+    {
+      "title": "RLOps: Development Life-Cycle of Reinforcement Learning Aided Open RAN",
+      "arxiv_id": "2111.06978",
+      "doi": "10.1109/ACCESS.2022.3217511",
+      "publicationDate": "2021-11-12",
+      "year": 2021
+    },
+    {
+      "title": "On-demand network bandwidth reservation combining machine learning and linear programming",
+      "arxiv_id": null,
+      "doi": "10.23919/CNSM52442.2021.9615572",
+      "publicationDate": "2021-10-25",
+      "year": 2021
+    },
+    {
+      "title": "Machine Learning-Enabled Software-Defined Networks for QoE Management",
+      "arxiv_id": null,
+      "doi": "10.1109/aict52120.2021.9628961",
+      "publicationDate": "2021-09-21",
+      "year": 2021
+    },
+    {
+      "title": "Machine Learning-Based Network Intrusion Detection System",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-16-3728-5_13",
+      "publicationDate": "2021-09-14",
+      "year": 2021
+    },
+    {
+      "title": "Supervised Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4899-7687-1_803",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Review on Supervised and Unsupervised Learning Techniques for Electrical Power Systems: Algorithms and Applications",
+      "arxiv_id": null,
+      "doi": "10.1002/tee.23452",
+      "publicationDate": "2021-08-02",
+      "year": 2021
+    },
+    {
+      "title": "Elastic O-RAN Slicing for Industrial Monitoring and Control: A Distributed Matching Game and Deep Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2022.3188217",
+      "publicationDate": "2021-07-20",
+      "year": 2021
+    },
+    {
+      "title": "A Deep Reinforcement Learning Framework for Spectrum Management in Dynamic Spectrum Access",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3052691",
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "Intrusion detection system in Software defined Network using machine learning approach - Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCES51350.2021.9489141",
+      "publicationDate": "2021-07-08",
+      "year": 2021
+    },
+    {
+      "title": "An RL Approach for Radio Resource Management in the O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/SECON52354.2021.9491579",
+      "publicationDate": "2021-07-06",
+      "year": 2021
+    },
+    {
+      "title": "Dynamic traffic forecasting and fuzzy-based optimized admission control in federated 5G-open RAN networks",
+      "arxiv_id": null,
+      "doi": "10.1007/s00521-021-06206-0",
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "Software Project Management Using Machine Learning Technique—A Review",
+      "arxiv_id": null,
+      "doi": "10.3390/APP11115183",
+      "publicationDate": "2021-06-02",
+      "year": 2021
+    },
+    {
+      "title": "Federated Deep Reinforcement Learning for User Access Control in Open Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC42927.2021.9500603",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Secrecy Analysis for Energy Harvesting-Enabled Cognitive Radio Networks in Cascaded Fading Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC42927.2021.9500621",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Network and Physical Layer Attacks and countermeasures to AI-Enabled 6G O-RAN",
+      "arxiv_id": "2106.02494",
+      "doi": null,
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Intelligent zero trust architecture for 5G/6G networks: Principles, challenges, and the role of machine learning in the context of O-RAN",
+      "arxiv_id": "2105.01478",
+      "doi": "10.1016/j.comnet.2022.109358",
+      "publicationDate": "2021-05-04",
+      "year": 2021
+    },
+    {
+      "title": "An Overview and Future Directions on Physical-Layer Security for Cognitive Radio Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.011.2000507",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "An RL Approach to Radio Resource Management in Heterogeneous Virtual RANs",
+      "arxiv_id": null,
+      "doi": "10.23919/WONS51326.2021.9415591",
+      "publicationDate": "2021-03-09",
+      "year": 2021
+    },
+    {
+      "title": "Self-play Learning Strategies for Resource Assignment in Open-RAN Networks",
+      "arxiv_id": "2103.02649",
+      "doi": "10.1016/j.comnet.2021.108682",
+      "publicationDate": "2021-03-03",
+      "year": 2021
+    },
+    {
+      "title": "CR-IoTNet: Machine learning based joint spectrum sensing and allocation for cognitive radio enabled IoT cellular networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2020.102390",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "How to Attack and Defend NextG Radio Access Network Slicing With Reinforcement Learning",
+      "arxiv_id": "2101.05768",
+      "doi": "10.1109/OJVT.2022.3229229",
+      "publicationDate": "2021-01-14",
+      "year": 2021
+    },
+    {
+      "title": "Physical-Layer Security for Cognitive Radio Networks over Cascaded Rayleigh Fading Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM42002.2020.9348134",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Hosting AI/ML Workflows on O-RAN RIC Platform",
+      "arxiv_id": null,
+      "doi": "10.1109/GCWkshps50303.2020.9367572",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "A comprehensive survey on machine learning approaches for dynamic spectrum access in cognitive radio networks",
+      "arxiv_id": null,
+      "doi": "10.1080/0952813X.2020.1818291",
+      "publicationDate": "2020-10-14",
+      "year": 2020
+    },
+    {
+      "title": "Downtime Data Classification Using Naïve Bayes Algorithm on 2008 ESEC Engine",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAE50557.2020.9350377",
+      "publicationDate": "2020-10-07",
+      "year": 2020
+    },
+    {
+      "title": "Framework for Slice-Aware Radio Resource Management Utilizing Artificial Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3026164",
+      "publicationDate": "2020-09-23",
+      "year": 2020
+    },
+    {
+      "title": "Federated Edge Learning: Design Issues and Challenges",
+      "arxiv_id": "2009.00081",
+      "doi": "10.1109/MNET.011.2000478",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "Spectrum utilization efficiency in the cognitive radio enabled 5G-based IoT",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2020.102686",
+      "publicationDate": "2020-08-15",
+      "year": 2020
+    },
+    {
+      "title": "Model-Based or Model-Free, a Review of Approaches in Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/CDS49703.2020.00051",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Overview of Security of Virtual Mobile Networks",
+      "arxiv_id": "2007.08871",
+      "doi": null,
+      "publicationDate": "2020-07-17",
+      "year": 2020
+    },
+    {
+      "title": "5G Radio Access Network Architecture for Terrestrial Broadcast Services",
+      "arxiv_id": "2004.03261",
+      "doi": "10.1109/TBC.2020.2985906",
+      "publicationDate": "2020-04-07",
+      "year": 2020
+    },
+    {
+      "title": "Flexible Resource Block Allocation to Multiple Slices for Radio Access Network Slicing Using Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2986050",
+      "publicationDate": "2020-04-06",
+      "year": 2020
+    },
+    {
+      "title": "The Evolution of Radio Access Network Towards Open-RAN: Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNCW48565.2020.9124820",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Slicing Resource Allocation for eMBB and URLLC in 5G RAN",
+      "arxiv_id": null,
+      "doi": "10.1155/2020/6290375",
+      "publicationDate": "2020-01-31",
+      "year": 2020
+    },
+    {
+      "title": "Joint uplink and downlink delay‐aware resource allocation in C‐RAN",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.3778",
+      "publicationDate": "2019-12-06",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for RF Signal Classification in Unknown and Dynamic Spectrum Environments",
+      "arxiv_id": "1909.11800",
+      "doi": "10.1109/DySPAN.2019.8935684",
+      "publicationDate": "2019-09-25",
+      "year": 2019
+    },
+    {
+      "title": "Technical Issues on Cognitive Radio-Based Internet of Things Systems: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2929915",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "A Comprehensive Survey of RAN Architectures Toward 5G Mobile Communication System",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2919657",
+      "publicationDate": "2019-05-28",
+      "year": 2019
+    },
+    {
+      "title": "Intelligent Environments Based on Ultra-massive Mimo Platforms for Wireless Communication in Millimeter Wave and Terahertz Bands",
+      "arxiv_id": "1904.07958",
+      "doi": "10.1109/ICASSP.2019.8683394",
+      "publicationDate": "2019-04-16",
+      "year": 2019
+    },
+    {
+      "title": "Statistical Multiplexing Gain Analysis of Processing Resources in Centralized Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2899663",
+      "publicationDate": "2019-02-15",
+      "year": 2019
+    },
+    {
+      "title": "Mobile Edge Computing: A Promising Paradigm for Future Communication Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TENCON.2018.8650169",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "An Assessment of QoS Comparison for 802.11 b/g/n Voice Over WLAN in Indoor Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/INCAE.2018.8579399",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Power Minimization-Based Joint Task Scheduling and Resource Allocation in Downlink C-RAN",
+      "arxiv_id": "1808.03435",
+      "doi": "10.1109/TWC.2018.2865955",
+      "publicationDate": "2018-08-10",
+      "year": 2018
+    },
+    {
+      "title": "Deep Reinforcement Learning for Resource Management in Network Slicing",
+      "arxiv_id": "1805.06591",
+      "doi": "10.1109/ACCESS.2018.2881964",
+      "publicationDate": "2018-05-17",
+      "year": 2018
+    },
+    {
+      "title": "Comparison of Facial Feature Extraction on Stress and Normal Using Principal Component Analysis(PCA) Method",
+      "arxiv_id": null,
+      "doi": "10.1109/ICICI-BME.2017.8537776",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "Routing and spectrum allocation in elastic optical networks using bee colony optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/s11107-017-0706-z",
+      "publicationDate": "2017-07-22",
+      "year": 2017
+    },
+    {
+      "title": "Cloud RAN challenges and solutions",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-017-0584-5",
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Towards the deployment of a fully centralized Cloud-RAN architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/IWCMC.2017.7986431",
+      "publicationDate": "2017-06-01",
+      "year": 2017
+    },
+    {
+      "title": "Virtual Radio Access Network opportunities and challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/SARNOF.2015.7324637",
+      "publicationDate": "2015-11-12",
+      "year": 2015
+    },
+    {
+      "title": "Resource sharing in heterogeneous cloud radio access networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.2015.7143329",
+      "publicationDate": "2015-07-06",
+      "year": 2015
+    },
+    {
+      "title": "Cloud RAN for Mobile Networks—A Technology Overview",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2014.2355255",
+      "publicationDate": "2015-01-21",
+      "year": 2015
+    },
+    {
+      "title": "A survey on the spectrum trading in dynamic spectrum access networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ELMAR.2014.6923334",
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "RAN architecture options and performance for 5G network evolution",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNCW.2014.6934902",
+      "publicationDate": "2014-04-06",
+      "year": 2014
+    },
+    {
+      "title": "Maximum entropy (MaxEnt) routing and spectrum assignment for flexgrid-based elastic optical networking",
+      "arxiv_id": null,
+      "doi": "10.1364/OFC.2014.TH4E.7",
+      "publicationDate": "2014-03-09",
+      "year": 2014
+    },
+    {
+      "title": "5G on the Horizon: Key Challenges for the Radio-Access Network",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2013.2269187",
+      "publicationDate": "2013-07-25",
+      "year": 2013
+    },
+    {
+      "title": "A Tutorial on O-RAN Deployment Solutions for 5G: From Simulation to Emulated and Real Testbeds",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2025.3577687",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Secure Distributed Federated Learning for Cyberattacks Detection in B5G Open Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3523468",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "User Handover Aware Hierarchical Federated Learning for Open RAN-Based Next-Generation Mobile Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TMLCN.2025.3587205",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Descriptor: 5G Wireless Network Intrusion Detection Dataset (5G-NIDD)",
+      "arxiv_id": null,
+      "doi": "10.1109/IEEEDATA.2025.3592888",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "FCC Technological Advisory Council",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "AI-RAN in 6G Networks: State-of-the-Art and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2023.3343069",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Survey for Intrusion Detection Systems in Open RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3408690",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "QoE Prediction for Gaming Video Streaming in O-RAN Using Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3362275",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "RAN Virtualization: How Hard Is It to Fully Achieve?",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3375749",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Energy Consumption of Machine Learning Enhanced Open RAN: A Comprehensive Review",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3412758",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "O-RAN Decoupled SMO Architecture 3.0",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "“Machine learning to predict workability and compressive strength of Low-and high-calcium ﬂy ash–based geopolymers,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Resource Allocation Based on Radio Intelligence Controller for Open RAN Toward 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3311888",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning Applied to Anomaly Detection on 5G O-RAN Architecture",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2023.08.146",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multi-agent Deep Reinforcement Learning-based Task Scheduling and Resource Sharing for O-RAN-empowered Multi-UAV-assisted Wireless Sensor Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2023.3330661",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "5G Technology is Revolutionizing the Wireless Industry with Unparalleled Efficiency",
+      "arxiv_id": null,
+      "doi": "10.61925/swb.2023.1303",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Empowering Security and Trust in 5G and Beyond: A Deep Reinforcement Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2023.3313352",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Toward an Efficient and Dynamic Allocation of Radio Access Network Slicing Resources for 5G Era",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3309294",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning for Millimeter Wave and Terahertz Beam Management: A Survey and Open Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3242582",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "“E ﬀ ective multitask deep learning for IoT malware detection and identiﬁcation using behavioral tra ﬃ c analysis,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Supporting Intelligence in Disaggregated Open Radio Access Networks: Architectural Principles, AI/ML Workflow and Use Cases",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3166160",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Applications of Machine Learning in Resource Management for RAN-Slicing in 5G and Beyond Networks: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3210254",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Deep Learning for B5G Open Radio Access Network: Evolution, Survey, Case Studies, and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/ojcoms.2022.3146618",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "ML-Based Radio Resource Management in 5G and Beyond Networks: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3196657",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Service Based Virtual RAN Architecture for Next Generation Cellular Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3144534",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Overlay Cognitive Radio Networks Enabled Energy Harvesting With Random AF Relays",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3216308",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Toward Integrating Intelligence and Programmability in Open Radio Access Networks: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3183989",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "“Discrete time Markov chain for Drone’s bu ﬀ er data exchange in an autonomous swarm,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Report on Challenges To the Development of O-RAN Technology and Recommendations on How To Overcome Them",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "“Analytical Model of Data Transmission through NarrowBand-IoT Technology,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Primary User Spectrum Prediction Based on Super-vised Model Using Deep Radio",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Distributed Learning Assisted Fronthaul Compression for Multi-Antenna C-RAN",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3104660",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Multi-Task Learning for Efficient Management of Beyond 5G Radio Access Network Architectures",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2021.3130740",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Applications of Deep Learning in Cloud Radio Access Network",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3074180",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Cyber Threat Predictive Analytics for Improving Cyber Supply Chain Security",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3087109",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "On Securing Cognitive Radio Networks-Enabled SWIPT over Cascaded-Fading Channels with Multiple Eavesdroppers",
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2021.3127321",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Power Consumption Optimization Using Gradient Boosting Aided Deep Q-Network in C-RANs",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2978935",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Energy Efficient SCMA Supported Downlink Cloud-RANs for 5G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2960490",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Joint Allocation on Communication and Computing Resources for Fog Radio Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3000832",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Blind Spectrum Sensing Approaches for Interweaved Cognitive Radio System: A Tutorial and Short Course",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2018.2863681",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "5G New Radio Fronthaul Network Design for eCPRI-IEEE 802.1CM and Extreme Latency Percentiles",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2923020",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "“Joint computation o ﬄ oading and resource allocation in C-RAN with MEC based on spectrum e ﬃ ciency,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Multi-access Edge Computing: A Survey",
+      "arxiv_id": null,
+      "doi": "10.2197/IPSJJIP.26.87",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Towards an Open and Smart RAN",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Technical Speciﬁcation Group Services and System Aspects; Release 14 Description; Summary of Rel-14 Work Items , document TR 21.914, 3rd Generation Partnership Project, May",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Using Mobile Edge Computing To Improve Mobile Network Performance and Proﬁtability , Saguna and Intel, Santa Clara, CA, USA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Evolution of O-RAN Near-RT RIC toward 6G",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Modeling of the CSMA / CA multiple access procedure for Internet of Things applications,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Survey on 5G second phase RAN architectures and functional splits,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Open RAN overview,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Digital Twin Empowered Open RAN of 6G Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Energy e ﬃ ciency in open RAN: RF channel reconﬁguration use case,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "O-RAN Use Cases Analysis Report 18",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

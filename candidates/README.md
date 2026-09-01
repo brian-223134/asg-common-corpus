@@ -46,8 +46,10 @@ DOI 전용 후보(CSUR 등)는 감사가 corpus에서 preprint 쌍둥이(제목 
 
 ## 1. 모집단 (candidate pool)
 
-**ACM Computing Surveys(CSUR, ISSN 0360-0300) 2026-01-01 ~ 2026-08-31 게재분 259편 전수**
-(Crossref API로 수집, DOI·게재일·ref 수 확보).
+1차 모집단은 **ACM Computing Surveys(CSUR) 2026-01~08 게재분 259편 전수**(Crossref API).
+이후 도메인 재정의(D5/D6)에 따라 **분야 대표 survey venue와 arXiv를 표적 확장**:
+IEEE COMST(네트워킹의 CSUR 격) · TOSEM · TKDE · ACL Findings · arXiv cs.{SE,DB,NI,CR,DC} 2026.
+발굴 도구: Crossref(저널 전수) · arXiv API(카테고리 검색) · OpenAlex API(주제 검색, arXiv 장애 시 대체).
 
 CSUR을 1차 모집단으로 삼은 이유:
 - **품질 신호**: 2026년 신간은 citation이 구조적으로 무정보(수개월 차)라 인용수를 품질 기준으로
@@ -110,8 +112,18 @@ Crossref fallback은 arXiv id 식별률이 낮아(~50%) 수치가 하한임 — 
 - 감사 결과: `data/audit/candidates_report.json` (실행마다 갱신).
 - 최종 선정표는 확정 시 이 디렉터리에 `SELECTION.md`로 고정한다.
 
-## 7. 1차 전수 감사 결과 (2026-09-01)
+## 7. 모집 차수 이력과 전수 감사 결과 (2026-09-01, 최종 79편)
 
-32편 감사 완료: 통과 1편(ai/instruction-tuning-llms, eligible 89%). 주 탈락 원인은 post-cutoff가
-아니라 eligible coverage(비-arXiv venue 문헌). 원인 분석과 처리 안건(선정층 vs corpus층)은
-`docs/benchmark-topic-selection.md` §4, 수치는 `data/audit/candidates_report.json`.
+| 차수 | 목적 | 결과 → 배운 것 |
+|---|---|---|
+| 1차 (27) | CSUR 전수에서 도메인별 대표 topic | 통과 1편 — 탈락 원인은 post-cutoff가 아니라 **비-arXiv venue 정전**(eligible coverage) |
+| probe (3) | 암호(HE/FHE)·HPC의 "arXiv 친화성" prior 검증 | 4~18%로 prior 실측 확정 |
+| 2차 (16) | 약한 도메인을 arXiv-heavy 하위분야로 재모집 | LLM4SE·LLM-data 계열이 2~3배 높음 → **하위영역이 결정 변수** |
+| 3차 (4) | 정통 OS/분산/스토리지 보강 (사용자 지적) | 4~28% — 정통 systems는 구조적 미달 확정 → D5 재정의 |
+| 4차 (6) | D5 표적: TOSEM·TKDE·ACL 등 저널 GT | systems 4편 본선권 확보 |
+| 5·6차 (14) | network 신설(D6): CSUR+COMST+CS측 edge | ○2 — 무선-PHY·IEEE 정전 낮음 |
+| 7차 (8) | network 광역 재발굴 (AI×networking 교차) | wireless-foundation-models 60% 추가 → **○3** |
+
+최종: **79편 감사, 본선(coverage≥50% ∧ eligible≥60) 통과 — ai 8 · security 5 · systems 4 · se 3 · network 3 · (db 1, 보류)**.
+원인 분석·안건은 `docs/benchmark-topic-selection.md` §4, 수치 원본은 `data/audit/candidates_report.json`,
+도메인별 최종 선정은 `SELECTION-draft.md`.

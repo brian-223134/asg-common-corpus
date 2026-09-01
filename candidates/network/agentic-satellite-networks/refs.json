@@ -1,0 +1,2354 @@
+{
+  "candidate": {
+    "topic": "Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2026.3660854",
+      "title": "Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey",
+      "published": "2026-01-01"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: OpenAlex/COMST·TNSE 2026"
+  },
+  "extracted_at": "2026-09-01T05:26:37+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 331,
+    "arxiv_resolvable": 122,
+    "doi_only": 193,
+    "unresolved": 16
+  },
+  "gt_s2": {
+    "paperId": "47ecc1178b26405ebcb32a8186f827bbdafde2b8",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2507-14633",
+      "ArXiv": "2507.14633",
+      "DOI": "10.1109/COMST.2026.3660854",
+      "CorpusId": 280279225
+    },
+    "title": "Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey on Generative Approaches",
+    "venue": "IEEE Communications Surveys and Tutorials",
+    "year": 2025,
+    "referenceCount": 331,
+    "publicationDate": "2025-07-19"
+  },
+  "refs": [
+    {
+      "title": "A dual-layer bilevel optimization model to complete algorithm evolution in agile satellite task scheduling problem using Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2026.115533",
+      "publicationDate": "2026-10-01",
+      "year": 2026
+    },
+    {
+      "title": "Joint Trajectory, Resource, and Access Optimization in Multi-UAV Collaborative Mobile Edge Computing Networks for Low-Altitude Economy",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3645730",
+      "publicationDate": "2026-03-01",
+      "year": 2026
+    },
+    {
+      "title": "Performance Evaluation for Latency-Stability Tradeoff in Satellite-Terrestrial Integrated Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TON.2025.3578240",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "Toward AI-Native Task Orchestration for Collaborative Computing in SAGSINs",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.004.2400304",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "Revolutionizing Spectrum Management: Data-Driven Strategies",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.004.2500029",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "Robust Secure UAV Communications With the Aid of Jamming Beamforming",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2025.3566977",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "Unleashing the Potential of LLMs in Space-Based IoT Networks: Opportunities, Challenges, and Outlooks",
+      "arxiv_id": null,
+      "doi": "10.1109/MIOT.2025.3583128",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "Secrecy Energy Efficiency Maximization in Space-Air-Ground Networks With an Aerial Eavesdropper",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2025.3577346",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "AgentCyTE: Leveraging Agentic AI to Generate Cybersecurity Training & Experimentation Scenarios",
+      "arxiv_id": "2510.25189",
+      "doi": "10.1109/ACSACW69556.2025.00073",
+      "publicationDate": "2025-10-29",
+      "year": 2025
+    },
+    {
+      "title": "A Lightweight Transformer-Based Collision Detection and Load Estimation Scheme for Massive Random Access in 6G Satellite-Ground Integrated Vehicular Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2025.3527073",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Over-the-Air Edge Inference for Low-Altitude Airspace: Generative AI-Aided Multi-Task Batching and Beamforming Design",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2025.3563657",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Free Space Optical Semantic Communication for Satellite Remote Sensing Image Transmission",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2025.3562356",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "A Synergy of Computing Power Networks and Low-Altitude Economy Intelligent Communications: Challenges, Design Principles, and Research Directions",
+      "arxiv_id": "2509.23810",
+      "doi": "10.48550/arXiv.2509.23810",
+      "publicationDate": "2025-09-28",
+      "year": 2025
+    },
+    {
+      "title": "Generative AI-Driven Multiagent DRL for Task Allocation in UAV-Assisted EMPD Within 6G-Enabled SAGIN Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3579780",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Transformer-Based Distributed Task Offloading and Resource Management in Cloud-Edge Computing Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2025.3574611",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Utilizing Large Language Models for Advanced Optimization and Intelligent Management in Space-Air-Ground Integrated Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3519664",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "LLM-QL: A LLM-Enhanced Q-Learning Approach for Scheduling Multiple Parallel Drones",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2025.3579386",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Dynamic Trajectory Optimization and Power Control for Hierarchical UAV Swarms in 6G Aerial Access Network",
+      "arxiv_id": "2508.18702",
+      "doi": "10.1109/TWC.2025.3603432",
+      "publicationDate": "2025-08-26",
+      "year": 2025
+    },
+    {
+      "title": "SCNOC-Agentic: A Network Operation and Control Agentic for Satellite Communication Systems",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics14163320",
+      "publicationDate": "2025-08-20",
+      "year": 2025
+    },
+    {
+      "title": "DeepFleet: Multi-Agent Foundation Models for Mobile Robots",
+      "arxiv_id": "2508.08574",
+      "doi": "10.48550/arXiv.2508.08574",
+      "publicationDate": "2025-08-12",
+      "year": 2025
+    },
+    {
+      "title": "Emerging Trends in UAVs: From Placement, Semantic Communications to Generative AI for Mission-Critical Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2024.3434971",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "Dependency-Elimination MADRL: Scalable On-Board Resource Allocation for Feeder- and User-Link Integrated Satellite Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2025.3529212",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "Trusted Routing for Blockchain-Empowered UAV Networks via Multi-Agent Deep Reinforcement Learning",
+      "arxiv_id": "2508.00938",
+      "doi": "10.1109/TCOMM.2025.3597655",
+      "publicationDate": "2025-07-31",
+      "year": 2025
+    },
+    {
+      "title": "RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication",
+      "arxiv_id": "2507.12166",
+      "doi": "10.1109/TNSE.2025.3590545",
+      "publicationDate": "2025-07-16",
+      "year": 2025
+    },
+    {
+      "title": "Diffusion-Based Reinforcement Learning for Cooperative Offloading and Resource Allocation in Multi-UAV Assisted Edge-Enabled Metaverse",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2025.3544879",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing AIGC Services Using Learning-Based Stackelberg Game in Vehicular Metaverses",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2025.3544227",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "GS3D: Signal Recovery in 3-D Wireless Networks With Gaussian Splatting-Synergized Stable Diffusion",
+      "arxiv_id": null,
+      "doi": "10.1109/LWC.2025.3561522",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Joint UAV Deployment, Power Allocation, and Coalition Formation for Physical Layer Security in Heterogeneous Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2025.3548987",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Robust Attacks Detection Model for Internet of Flying Things Based on Generative Adversarial Network (GAN) and Adversarial Training",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3555202",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Lightweight Target Detection for UAVs Based on YOLOv8 and AirSim",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAITA67588.2025.11137823",
+      "publicationDate": "2025-06-27",
+      "year": 2025
+    },
+    {
+      "title": "The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication",
+      "arxiv_id": "2506.19781",
+      "doi": "10.48550/arXiv.2506.19781",
+      "publicationDate": "2025-06-24",
+      "year": 2025
+    },
+    {
+      "title": "Time-Variant Radio Map Reconstruction With Optimized Distributed Sensors in Dynamic Spectrum Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3545542",
+      "publicationDate": "2025-06-15",
+      "year": 2025
+    },
+    {
+      "title": "Hierarchical and Collaborative LLM-Based Control for Multi-UAV Motion and Communication in Integrated Terrestrial and Non-Terrestrial Networks",
+      "arxiv_id": "2506.06532",
+      "doi": "10.48550/arXiv.2506.06532",
+      "publicationDate": "2025-06-06",
+      "year": 2025
+    },
+    {
+      "title": "TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems",
+      "arxiv_id": "2506.04133",
+      "doi": "10.48550/arXiv.2506.04133",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "Editorial: Advances, opportunities and challenges of using modern AGI and AIGC technologies in depression and related disorders",
+      "arxiv_id": null,
+      "doi": "10.3389/fpsyt.2025.1625579",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2025.3560042",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Physical Layer Authentication via Conditional Variational Auto-Encoder for AIS",
+      "arxiv_id": null,
+      "doi": "10.1109/TGCN.2024.3439536",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Cooperative Generative AI for UAV-Based Scenarios: An Intelligent Cooperative Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2025.3544817",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Industrial Agentic AI and generative modeling in complex systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.coche.2025.101150",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Generative Artificial Intelligence-Empowered Multidomain Internet of Vehicles Systems: Scalability, Efficiency, and Suitability",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2025.3534973",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Multi-Satellite MIMO Systems for Direct Satellite-to-Device Communications: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2024.3449430",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Empowering Intelligent Low-Altitude Economy With Large AI Model Deployment",
+      "arxiv_id": "2505.22343",
+      "doi": "10.1109/MWC.2025.3631765",
+      "publicationDate": "2025-05-28",
+      "year": 2025
+    },
+    {
+      "title": "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.3390/s25113352",
+      "publicationDate": "2025-05-26",
+      "year": 2025
+    },
+    {
+      "title": "Comparative Analysis of Open-Source Frameworks for Agentic AI Systems: Capabilities, Design Philosophies, and Development Experiences",
+      "arxiv_id": null,
+      "doi": "10.1142/s2811004824500015",
+      "publicationDate": "2025-05-23",
+      "year": 2025
+    },
+    {
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "arxiv_id": "2505.10468",
+      "doi": "10.1016/j.inffus.2025.103599",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "Generative AI-Aided Vertical Handover Decision in SAGIN for IoT With Integrated Sensing and Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2025.3536640",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "Distributionally Robust Optimization for Aerial Multi-Access Edge Computing via Cooperation of UAVs and HAPs",
+      "arxiv_id": "2506.01972",
+      "doi": "10.1109/TMC.2025.3571023",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "Internet of Agents: Fundamentals, Applications, and Challenges",
+      "arxiv_id": "2505.07176",
+      "doi": "10.1109/TCCN.2025.3623369",
+      "publicationDate": "2025-05-12",
+      "year": 2025
+    },
+    {
+      "title": "SatGuard: Satellite Networks Penetration Testing and Vulnerability Risk Assessment Methods",
+      "arxiv_id": null,
+      "doi": "10.3390/aerospace12050431",
+      "publicationDate": "2025-05-12",
+      "year": 2025
+    },
+    {
+      "title": "An LLM-Based Self-Evolving Security Framework for 6G Space-Air-Ground Integrated Networks",
+      "arxiv_id": "2505.03161",
+      "doi": "10.1109/MCOM.003.2400695",
+      "publicationDate": "2025-05-06",
+      "year": 2025
+    },
+    {
+      "title": "Diffusion-Enabled Digital Twin Synchronization for AIGC Services in Space–Air–Ground-Integrated Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3523324",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Efficient PMU Data Compression Using Enhanced Graph Filtering Enabled Principal Component Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2025.3544768",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Carrier Aggregation, Load Balancing, and Backhauling in Non-Terrestrial Networks: Generative Diffusion Model-Based Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2025.3542126",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Digital Twin of Channel: Diffusion Model for Sensing-Assisted Statistical Channel State Information Generation",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2025.3542429",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "The role of agentic AI in shaping a smart future: A systematic review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.array.2025.100399",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Ultra-Wideband Nonstationary Channel Modeling for UAV-to-Ground Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2025.3537766",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Generative Diffusion-Based Contract Design for Efficient AI Twin Migration in Vehicular Embodied AI Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2025.3526230",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Privacy-Preserving Federated Learning for Space–Air–Ground Integrated Networks: A Bi-Level Reinforcement Learning and Adaptive Transfer Learning Optimization Framework",
+      "arxiv_id": null,
+      "doi": "10.3390/s25092828",
+      "publicationDate": "2025-04-30",
+      "year": 2025
+    },
+    {
+      "title": "Combining GCN Structural Learning with LLM Chemical Knowledge for Enhanced Virtual Screening",
+      "arxiv_id": "2504.17497",
+      "doi": "10.48550/arXiv.2504.17497",
+      "publicationDate": "2025-04-24",
+      "year": 2025
+    },
+    {
+      "title": "Agentic AI for Cloud Troubleshooting: A Review of Multi Agent System for Automated Cloud Support",
+      "arxiv_id": null,
+      "doi": "10.1109/ICICT64420.2025.11005005",
+      "publicationDate": "2025-04-23",
+      "year": 2025
+    },
+    {
+      "title": "Security and Privacy Challenges of AIGC in Metaverse: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1145/3729419",
+      "publicationDate": "2025-04-18",
+      "year": 2025
+    },
+    {
+      "title": "Enhancing generative AI reliability via agentic AI in 6G-enabled edge computing",
+      "arxiv_id": null,
+      "doi": "10.1038/s44287-025-00169-3",
+      "publicationDate": "2025-04-14",
+      "year": 2025
+    },
+    {
+      "title": "Secure Physical Layer Communications for Low-Altitude Economy Networking: A Survey",
+      "arxiv_id": "2504.09153",
+      "doi": "10.1109/COMST.2025.3634768",
+      "publicationDate": "2025-04-12",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing Attention for Efficient LLM Inference: A Review",
+      "arxiv_id": null,
+      "doi": "10.1109/WCCCT65447.2025.11027973",
+      "publicationDate": "2025-04-11",
+      "year": 2025
+    },
+    {
+      "title": "Routing for Space-Air-Ground Integrated Network With GAN-Powered Deep Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2024.3522579",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Space-air-ground Integrated Networks With Task-driven Connected Intelligence",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.006.2400132",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "From Predictive and Generative to Agentic AI: Shaping the Future of Marketing Operations and Strategies",
+      "arxiv_id": null,
+      "doi": "10.1109/mc.2025.3530304",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Generative AI-Enabled Wireless Communications for Robust Low-Altitude Economy Networking",
+      "arxiv_id": "2502.18118",
+      "doi": "10.1109/MWC.2025.3597910",
+      "publicationDate": "2025-02-25",
+      "year": 2025
+    },
+    {
+      "title": "MBGPIN: Multi-Branch Generative Prior Integration Network for Super-Resolution Satellite Imagery",
+      "arxiv_id": null,
+      "doi": "10.3390/rs17050805",
+      "publicationDate": "2025-02-25",
+      "year": 2025
+    },
+    {
+      "title": "Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking",
+      "arxiv_id": "2502.16866",
+      "doi": "10.1109/MCOM.001.2500073",
+      "publicationDate": "2025-02-24",
+      "year": 2025
+    },
+    {
+      "title": "An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning",
+      "arxiv_id": "2502.16198",
+      "doi": "10.1109/MCOM.001.2400526",
+      "publicationDate": "2025-02-22",
+      "year": 2025
+    },
+    {
+      "title": "SC-GAN: A spectrum cartography with satellite Internet based on Pix2Pix generative adversarial network",
+      "arxiv_id": null,
+      "doi": "10.23919/JCC.fa.2024-0269.202502",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Transfer Optimization for Heterogeneous Drone Delivery and Pickup Problem",
+      "arxiv_id": null,
+      "doi": "10.1109/TETCI.2024.3406689",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "When Software Security Meets Large Language Models: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/JAS.2024.124971",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Integration of LLM and Human–AI Coordination for Power Dispatching With Connected Electric Vehicles Under SAGVNs",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2024.3434969",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "A Survey on Random Access Protocols in Direct-Access LEO Satellite-Based IoT Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2024.3385347",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Low-Altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-Enabled Deep Reinforcement Learning",
+      "arxiv_id": "2501.15468",
+      "doi": "10.1109/TMC.2025.3631861",
+      "publicationDate": "2025-01-26",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model Agents for Radio Map Generation and Wireless Network Planning",
+      "arxiv_id": "2501.11283",
+      "doi": "10.1109/LNET.2025.3539829",
+      "publicationDate": "2025-01-20",
+      "year": 2025
+    },
+    {
+      "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "arxiv_id": "2501.09136",
+      "doi": "10.48550/arXiv.2501.09136",
+      "publicationDate": "2025-01-15",
+      "year": 2025
+    },
+    {
+      "title": "Constructing 4D Radio Map in LEO Satellite Networks with Limited Samples",
+      "arxiv_id": "2501.02775",
+      "doi": "10.1109/INFOCOM55648.2025.11044496",
+      "publicationDate": "2025-01-06",
+      "year": 2025
+    },
+    {
+      "title": "UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility",
+      "arxiv_id": "2501.02341",
+      "doi": "10.1016/j.inffus.2025.103158",
+      "publicationDate": "2025-01-04",
+      "year": 2025
+    },
+    {
+      "title": "Dynamic Weighted Energy Minimization for Aerial Edge Computing Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3470116",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Communications in Space-Air-Ground Integrated Networks: An Overview",
+      "arxiv_id": null,
+      "doi": "10.34133/space.0199",
+      "publicationDate": "2024-12-21",
+      "year": 2024
+    },
+    {
+      "title": "A Tutorial on Non-Terrestrial Networks: Towards Global and Ubiquitous 6G Connectivity",
+      "arxiv_id": "2412.16611",
+      "doi": "10.48550/arXiv.2412.16611",
+      "publicationDate": "2024-12-21",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Onboard Signaling Processing for Satellite-Terrestrial Integrated Core Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3450899",
+      "publicationDate": "2024-12-15",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model-Based Wireless Network Design",
+      "arxiv_id": null,
+      "doi": "10.1109/LWC.2024.3462556",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "An Overview of Trustworthy AI: Advances in IP Protection, Privacy-Preserving Federated Learning, Security Verification, and GAI Safety Alignment",
+      "arxiv_id": null,
+      "doi": "10.1109/JETCAS.2024.3477348",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Urban Vehicle Trajectory Generation Based on Generative Adversarial Imitation Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2024.3437412",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Distributed solar generation forecasting using attention-based deep neural networks for cloud movement prediction",
+      "arxiv_id": "2411.10921",
+      "doi": "10.48550/arXiv.2411.10921",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "CWGAN-Based Channel Modeling of Convolutional Autoencoder-Aided SCMA for Satellite-Terrestrial Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3425470",
+      "publicationDate": "2024-11-15",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models and Artificial Intelligence Generated Content Technologies Meet Communication Networks",
+      "arxiv_id": "2411.06193",
+      "doi": "10.1109/JIOT.2024.3496491",
+      "publicationDate": "2024-11-09",
+      "year": 2024
+    },
+    {
+      "title": "LTE: Lightweight Transformer Encoder for Orbit Prediction",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13224371",
+      "publicationDate": "2024-11-07",
+      "year": 2024
+    },
+    {
+      "title": "Unauthorized UAV Countermeasure for Low-Altitude Economy: Joint Communications and Jamming Based on MIMO Cellular Systems",
+      "arxiv_id": "2410.22746",
+      "doi": "10.1109/JIOT.2024.3491796",
+      "publicationDate": "2024-10-30",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Resource Allocation in Integrated Terrestrial-Satellite Networks: An Elastic Decision Transformer Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/WCSP62071.2024.10827284",
+      "publicationDate": "2024-10-24",
+      "year": 2024
+    },
+    {
+      "title": "Conditional Diffusion Model for Anti-Interference in Train Satellite Navigation Receiver Signals",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCIS63642.2024.10779377",
+      "publicationDate": "2024-10-18",
+      "year": 2024
+    },
+    {
+      "title": "Intrusion Detection with Federated Learning and Conditional Generative Adversarial Network in Satellite-Terrestrial Integrated Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/s11036-024-02435-4",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI-Powered Aerial Access Networks: Recent Studies and Future Outlook",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTC62082.2024.10827504",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Transformer-Based Channel Prediction for Rate-Splitting Multiple Access-Enabled Vehicle-to-Everything Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2024.3395670",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "A Novel Graph-Based Multi-Layer Framework for Managing Drone BVLoS Operations",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2024.3401175",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Joint UAV Trajectory and Power Allocation With Hybrid FSO/RF for Secure Space–Air–Ground Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3419264",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Path Loss Prediction in Urban Environments With Sionna-RT Based on Accurate Propagation Scene Models at 2.8 GHz",
+      "arxiv_id": null,
+      "doi": "10.1109/TAP.2024.3451214",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "High-Altitude-UAV-Relayed Satellite D2D Communications for 6G IoT Network",
+      "arxiv_id": null,
+      "doi": "10.3390/drones8100532",
+      "publicationDate": "2024-09-29",
+      "year": 2024
+    },
+    {
+      "title": "Towards a Heuristic Optimizer for a Target Time Management System in Air Traffic Flow Management",
+      "arxiv_id": null,
+      "doi": "10.1109/DASC62030.2024.10749250",
+      "publicationDate": "2024-09-29",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning",
+      "arxiv_id": "2409.18718",
+      "doi": "10.48550/arXiv.2409.18718",
+      "publicationDate": "2024-09-27",
+      "year": 2024
+    },
+    {
+      "title": "On-Air Deep Learning Integrated Semantic Inference Models for Enhanced Earth Observation Satellite Networks",
+      "arxiv_id": "2409.15246",
+      "doi": "10.48550/arXiv.2409.15246",
+      "publicationDate": "2024-09-23",
+      "year": 2024
+    },
+    {
+      "title": "Low-Earth orbit satellite constellations for global communication network connectivity",
+      "arxiv_id": null,
+      "doi": "10.1038/s44287-024-00088-9",
+      "publicationDate": "2024-09-13",
+      "year": 2024
+    },
+    {
+      "title": "WirelessAgent: Large language model agents for intelligent wireless networks",
+      "arxiv_id": "2409.07964",
+      "doi": "10.23919/JCC.fa.2025-0163.202603",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models",
+      "arxiv_id": "2409.02597",
+      "doi": "10.1109/LWC.2024.3515656",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "Covert LEO satellite communication aided by generative adversarial network based cooperative UAV jamming",
+      "arxiv_id": null,
+      "doi": "10.23919/JCC.fa.2023-0063.202409",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "A Distributed Conditional Wasserstein Deep Convolutional Relativistic Loss Generative Adversarial Network With Improved Convergence",
+      "arxiv_id": null,
+      "doi": "10.1109/TAI.2024.3386500",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Variational AutoEncoder-Based Radio Frequency Fingerprinting for GPS Anti-spoofing",
+      "arxiv_id": null,
+      "doi": "10.1109/NaNA63151.2024.00035",
+      "publicationDate": "2024-08-09",
+      "year": 2024
+    },
+    {
+      "title": "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging",
+      "arxiv_id": "2408.03624",
+      "doi": "10.1109/TMC.2025.3564163",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Generative adversarial imitation learning assisted virtual network embedding algorithm for space-air-ground integrated network",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2024.107936",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Cross-Modal Information Recovery and Enhancement Using Multiple-Input–Multiple-Output Variational Autoencoder",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3396401",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "The Potential of Low-Altitude Airspace: The Future of Urban Air Transportation",
+      "arxiv_id": null,
+      "doi": "10.1109/TIV.2024.3483889",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Recent Advances in Generative AI and Large Language Models: Current Status, Challenges, and Perspectives",
+      "arxiv_id": "2407.14962",
+      "doi": "10.1109/TAI.2024.3444742",
+      "publicationDate": "2024-07-20",
+      "year": 2024
+    },
+    {
+      "title": "AIGC for Industrial Time Series: From Deep-Generative Models to Large-Generative Models",
+      "arxiv_id": "2407.11480",
+      "doi": "10.1109/TSMC.2025.3598252",
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-Enabled Deep Reinforcement Learning",
+      "arxiv_id": "2407.08914",
+      "doi": "10.1109/TMC.2024.3502685",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Symbolic Knowledge Distillation of Large Language Models",
+      "arxiv_id": "2408.10210",
+      "doi": "10.1109/TAI.2024.3428519",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions",
+      "arxiv_id": "2407.04581",
+      "doi": "10.1109/OJCOMS.2024.3522103",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "Deep Reinforcement Learning-Based Energy Efficiency Optimization for RIS-Aided Integrated Satellite-Aerial-Terrestrial Relay Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2024.3370618",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Mitigation of Hallucinations in Language Models in Education: A New Approach of Comparative and Cross-Verification",
+      "arxiv_id": null,
+      "doi": "10.1109/icalt61570.2024.00066",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging Large Language Models for Intelligent Control of 6G Integrated TN-NTN With IoT Service",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3384013",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Generative Diffusion Model-Based Deep Reinforcement Learning for Uplink Rate-Splitting Multiple Access in LEO Satellite Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCC61673.2024.10733704",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "Networked ISAC for Low-Altitude Economy: Coordinated Transmit Beamforming and UAV Trajectory Design",
+      "arxiv_id": "2406.16946",
+      "doi": "10.1109/TCOMM.2025.3541027",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "RAG-Based Crowdsourcing Task Decomposition via Masked Contrastive Learning With Prompts",
+      "arxiv_id": "2406.06577",
+      "doi": "10.1109/TCSS.2024.3501316",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for Deep Reinforcement Learning: Framework, Analysis, and Use Cases",
+      "arxiv_id": "2405.20568",
+      "doi": "10.1109/MWC.001.2400176",
+      "publicationDate": "2024-05-31",
+      "year": 2024
+    },
+    {
+      "title": "Applications of Generative AI (GAI) for Mobile and Wireless Networking: A Survey",
+      "arxiv_id": "2405.20024",
+      "doi": "10.1109/JIOT.2024.3487627",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for the Optimization of Next-Generation Wireless Networks: Basics, State-of-the-Art, and Open Challenges",
+      "arxiv_id": "2405.17454",
+      "doi": "10.1109/COMST.2025.3535554",
+      "publicationDate": "2024-05-22",
+      "year": 2024
+    },
+    {
+      "title": "PLLM-CS: Pre-trained Large Language Model (LLM) for Cyber Threat Detection in Satellite Networks",
+      "arxiv_id": "2405.05469",
+      "doi": "10.48550/arXiv.2405.05469",
+      "publicationDate": "2024-05-09",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion Model-Based Signal Recovery in Coexisting Satellite and Terrestrial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC57260.2024.10570763",
+      "publicationDate": "2024-04-21",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+      "arxiv_id": "2404.10981",
+      "doi": "10.1145/3805774",
+      "publicationDate": "2024-04-17",
+      "year": 2024
+    },
+    {
+      "title": "LENS: A LEO Satellite Network Measurement Dataset",
+      "arxiv_id": null,
+      "doi": "10.1145/3625468.3652170",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI Agents With Large Language Model for Satellite Networks via a Mixture of Experts Transmission",
+      "arxiv_id": "2404.09134",
+      "doi": "10.1109/JSAC.2024.3459037",
+      "publicationDate": "2024-04-14",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives",
+      "arxiv_id": "2404.08926",
+      "doi": "10.1109/TGRS.2024.3464685",
+      "publicationDate": "2024-04-13",
+      "year": 2024
+    },
+    {
+      "title": "Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions",
+      "arxiv_id": "2404.04898",
+      "doi": "10.1109/MWC.015.2300595",
+      "publicationDate": "2024-04-07",
+      "year": 2024
+    },
+    {
+      "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+      "arxiv_id": "2404.00282",
+      "doi": "10.1109/TNNLS.2024.3497992",
+      "publicationDate": "2024-03-30",
+      "year": 2024
+    },
+    {
+      "title": "Language Models are Spacecraft Operators",
+      "arxiv_id": "2404.00413",
+      "doi": "10.48550/arXiv.2404.00413",
+      "publicationDate": "2024-03-30",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN",
+      "arxiv_id": "2403.17400",
+      "doi": "10.1109/COMST.2024.3421523",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "Intention-Aware Denoising Diffusion Model for Trajectory Prediction",
+      "arxiv_id": "2403.09190",
+      "doi": "10.1109/TITS.2025.3553125",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "Resource Allocation for Space-Air-Ground Integrated Networks: A Comprehensive Review",
+      "arxiv_id": null,
+      "doi": "10.23919/jcin.2024.10494938",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Generative adversarial network based resource optimization for UAV jamming assisted cognitive covert communication",
+      "arxiv_id": null,
+      "doi": "10.1088/1742-6596/2717/1/012013",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Deep Reinforcement Learning-Based Resource Allocation for RSMA in LEO Satellite-Terrestrial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2023.3331021",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "T-SPP: Improving GNSS Single-Point Positioning Performance Using Transformer-Based Correction",
+      "arxiv_id": null,
+      "doi": "10.1155/2024/6643723",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for Unmanned Vehicle Swarms: Challenges, Applications and Opportunities",
+      "arxiv_id": "2402.18062",
+      "doi": "10.48550/arXiv.2402.18062",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "WetLinks: A Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data",
+      "arxiv_id": "2402.16448",
+      "doi": "10.23919/TMA62044.2024.10558998",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for Secure Physical Layer Communications: A Survey",
+      "arxiv_id": "2402.13553",
+      "doi": "10.1109/TCCN.2024.3438379",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "Spatially Consistent Air-to-Ground Channel Modeling via Generative Neural Networks",
+      "arxiv_id": "2402.03517",
+      "doi": "10.1109/LWC.2024.3363653",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence",
+      "arxiv_id": "2402.18587",
+      "doi": "10.1109/OJCOMS.2024.3362271",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "Machine and Representation Learning-Based GNSS Spoofing Detectors Utilizing Feature Set From Generic GNSS Receivers",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2023.3346287",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Transformer-based anomaly detection in P-LEO constellations: A dynamic graph approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.actaastro.2024.02.019",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Res-GAN for Behavioral Modeling and Pre-Distortion of Power Amplifiers in OFDM-Based Satellite Communication System",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2023.3315016",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "When geoscience meets generative AI and large language models: Foundations, trends, and future challenges",
+      "arxiv_id": "2402.03349",
+      "doi": "10.1111/exsy.13654",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "Interactive AI With Retrieval-Augmented Generation for Next Generation Networking",
+      "arxiv_id": "2401.11391",
+      "doi": "10.1109/MNET.2024.3401159",
+      "publicationDate": "2024-01-21",
+      "year": 2024
+    },
+    {
+      "title": "On the Interplay of Artificial Intelligence and Space-Air-Ground Integrated Networks: A Survey",
+      "arxiv_id": "2402.00881",
+      "doi": "10.1109/OJCOMS.2024.3429198",
+      "publicationDate": "2024-01-20",
+      "year": 2024
+    },
+    {
+      "title": "UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization",
+      "arxiv_id": "2401.05971",
+      "doi": "10.1109/3DV62453.2024.00156",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI-Driven Semantic Communication Networks: Architecture, Technologies, and Applications",
+      "arxiv_id": "2401.00124",
+      "doi": "10.1109/TCCN.2024.3435524",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Near-Space Communications: The Last Piece of 6G Space-Air-Ground-Sea Integrated Network Puzzle",
+      "arxiv_id": "2401.00283",
+      "doi": "10.48550/arXiv.2401.00283",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Space-Based Electromagnetic Spectrum Sensing and Situation Awareness",
+      "arxiv_id": null,
+      "doi": "10.34133/space.0109",
+      "publicationDate": "2023-12-28",
+      "year": 2023
+    },
+    {
+      "title": "Resource-Efficient Generative Mobile Edge Networks in 6G Era: Fundamentals, Framework and Case Study",
+      "arxiv_id": "2312.12063",
+      "doi": "10.1109/MWC.007.2300582",
+      "publicationDate": "2023-12-19",
+      "year": 2023
+    },
+    {
+      "title": "Resilient Path Planning for UAVs in Data Collection Under Adversarial Attacks",
+      "arxiv_id": "2401.08634",
+      "doi": "10.1109/TIFS.2023.3266699",
+      "publicationDate": "2023-12-11",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI for Physical Layer Communications: A Survey",
+      "arxiv_id": "2312.05594",
+      "doi": "10.1109/TCCN.2024.3384500",
+      "publicationDate": "2023-12-09",
+      "year": 2023
+    },
+    {
+      "title": "High-precision reconstruction method based on MTS-GAN for electromagnetic environment data in SAGIoT",
+      "arxiv_id": null,
+      "doi": "10.1186/s13634-023-01085-0",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI for Space-Air-Ground Integrated Networks",
+      "arxiv_id": "2311.06523",
+      "doi": "10.1109/MWC.016.2300547",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "TFL-DT: A Trust Evaluation Scheme for Federated Learning in Digital Twin for Mobile Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2023.3310094",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Conditional Denoising Diffusion Probabilistic Models for Data Reconstruction Enhancement in Wireless Communications",
+      "arxiv_id": "2310.19460",
+      "doi": "10.1109/TMLCN.2024.3522872",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Broadcast Secrecy Rate Maximization in UAV-Empowered IRS Backscatter Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2023.3243270",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference",
+      "arxiv_id": "2310.03003",
+      "doi": "10.1109/HPEC58863.2023.10363447",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications",
+      "arxiv_id": "2309.08895",
+      "doi": "10.1109/TWC.2024.3379244",
+      "publicationDate": "2023-09-16",
+      "year": 2023
+    },
+    {
+      "title": "NOMA-Based Grant-Free Massive Access for Latency-Critical Internet of Things: A Scalable and Reliable Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/IOTM.001.2300091",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Transformer Neural Network for Throughput Improvement in Non-Terrestrial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/NMITCON58196.2023.10276347",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI in mobile networks: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-023-00980-9",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+      "arxiv_id": "2308.08155",
+      "doi": null,
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models for Telecom: Forthcoming Impact on the Industry",
+      "arxiv_id": "2308.06013",
+      "doi": "10.1109/MCOM.001.2300473",
+      "publicationDate": "2023-08-11",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization",
+      "arxiv_id": "2308.05384",
+      "doi": "10.1109/COMST.2024.3400011",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "Self-induced collision risk of the Starlink constellation based on long-term orbital evolution analysis",
+      "arxiv_id": null,
+      "doi": "10.1007/s42064-023-0171-7",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "Radio Anomaly Detection Based on Improved Denoising Diffusion Probabilistic Models",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2023.3290813",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Empowering Authenticated and Efficient Queries for STK Transaction-Based Blockchains",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2023.3241263",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+      "arxiv_id": "2308.00352",
+      "doi": "10.48550/arXiv.2308.00352",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Digital Twin Development for the Airspace of the Future",
+      "arxiv_id": null,
+      "doi": "10.3390/drones7070484",
+      "publicationDate": "2023-07-23",
+      "year": 2023
+    },
+    {
+      "title": "ChatDev: Communicative Agents for Software Development",
+      "arxiv_id": "2307.07924",
+      "doi": "10.18653/v1/2024.acl-long.810",
+      "publicationDate": "2023-07-16",
+      "year": 2023
+    },
+    {
+      "title": "HyperHeight Lidar Compressive Sampling and Machine Learning Reconstruction of Forested Landscapes",
+      "arxiv_id": null,
+      "doi": "10.1109/IGARSS52108.2023.10281718",
+      "publicationDate": "2023-07-16",
+      "year": 2023
+    },
+    {
+      "title": "3D Radio Map Reconstruction Based on Generative Adversarial Networks Under Constrained Aircraft Trajectories",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2023.3239556",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic SFC Embedding Algorithm Assisted by Federated Learning in Space–Air–Ground-Integrated Network Resource Allocation Scenario",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3222200",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Fusion and Reconstruction for Communication and Sensing Signals in Green IoT Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3222513",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Event-Triggered Model Predictive Control for Autonomous Vehicle Path Tracking: Validation Using CARLA Simulator",
+      "arxiv_id": null,
+      "doi": "10.1109/TIV.2023.3266941",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "How Generative Models Improve LOS Estimation in 6G Non-Terrestrial Networks",
+      "arxiv_id": "2305.18845",
+      "doi": "10.48550/arXiv.2305.18845",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Time-Series Pre-Trained Models",
+      "arxiv_id": "2305.10716",
+      "doi": "10.1109/TKDE.2024.3475809",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "A Residual Learning-Aided Convolutional Autoencoder for SCMA",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2023.3260881",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks",
+      "arxiv_id": "2304.03446",
+      "doi": "10.1109/MNET.006.2300223",
+      "publicationDate": "2023-04-07",
+      "year": 2023
+    },
+    {
+      "title": "Parallel Emergency Management of Incidents by Integrating OODA and PREA Loops: The C2 Mechanism and Modes",
+      "arxiv_id": null,
+      "doi": "10.1109/TSMC.2022.3229036",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study",
+      "arxiv_id": "2303.17114",
+      "doi": "10.1109/MWC.009.2300165",
+      "publicationDate": "2023-03-30",
+      "year": 2023
+    },
+    {
+      "title": "Learning-Based Traffic Scheduling in Non-Stationary Multipath 5G Non-Terrestrial Networks",
+      "arxiv_id": null,
+      "doi": "10.3390/rs15071842",
+      "publicationDate": "2023-03-30",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services",
+      "arxiv_id": "2303.16129",
+      "doi": "10.1109/COMST.2024.3353265",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion-Based Reinforcement Learning for Edge-Enabled AI-Generated Content Services",
+      "arxiv_id": "2303.13052",
+      "doi": "10.1109/TMC.2024.3356178",
+      "publicationDate": "2023-03-23",
+      "year": 2023
+    },
+    {
+      "title": "Revolutionizing Future Connectivity: A Contemporary Survey on AI-Empowered Satellite-Based Non-Terrestrial Networks in 6G",
+      "arxiv_id": "2303.01633",
+      "doi": "10.1109/COMST.2023.3347145",
+      "publicationDate": "2023-03-02",
+      "year": 2023
+    },
+    {
+      "title": "Structured Pruning for Deep Convolutional Neural Networks: A Survey",
+      "arxiv_id": "2303.00566",
+      "doi": "10.1109/TPAMI.2023.3334614",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "SpectrumChain: a disruptive dynamic spectrum-sharing framework for 6G",
+      "arxiv_id": null,
+      "doi": "10.1007/s11432-022-3692-5",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "An Enhanced AI-Based Network Intrusion Detection System Using Generative Adversarial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3211346",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Physical-Layer Authentication Based on Hierarchical Variational Autoencoder for Industrial Internet of Things",
+      "arxiv_id": "2508.06794",
+      "doi": "10.1109/JIOT.2022.3213593",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "eVAE: Evolutionary Variational Autoencoder",
+      "arxiv_id": "2301.00011",
+      "doi": "10.1109/TNNLS.2024.3359275",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network",
+      "arxiv_id": "2212.12817",
+      "doi": "10.1109/JIOT.2023.3278235",
+      "publicationDate": "2022-12-24",
+      "year": 2022
+    },
+    {
+      "title": "Hierarchical Domain-Based Multicontroller Deployment Strategy in SDN-Enabled Space–Air–Ground Integrated Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TAES.2022.3199191",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "UAV-Assisted Space-Air-Ground Integrated Networks: A Technical Review of Recent Learning Algorithms",
+      "arxiv_id": "2211.14931",
+      "doi": "10.1109/OJVT.2024.3434486",
+      "publicationDate": "2022-11-27",
+      "year": 2022
+    },
+    {
+      "title": "A Survey of Knowledge Enhanced Pre-Trained Language Models",
+      "arxiv_id": "2211.05994",
+      "doi": "10.1109/TKDE.2023.3310002",
+      "publicationDate": "2022-11-11",
+      "year": 2022
+    },
+    {
+      "title": "Machine Learning-Aided Operations and Communications of Unmanned Aerial Vehicles: A Contemporary Survey",
+      "arxiv_id": "2211.04324",
+      "doi": "10.1109/COMST.2023.3312221",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Joint UAV Deployment and Power Allocation for Secure Space-Air-Ground Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2022.3203471",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Delay-Aware and Energy-Efficient Carrier Aggregation in 5G Using Double Deep Q-Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2022.3204846",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+      "arxiv_id": "2209.14687",
+      "doi": "10.48550/arXiv.2209.14687",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "Robust Information Bottleneck for Task-Oriented Communication With Digital Modulation",
+      "arxiv_id": "2209.10382",
+      "doi": "10.1109/JSAC.2023.3288252",
+      "publicationDate": "2022-09-21",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Generative Diffusion Models",
+      "arxiv_id": "2209.02646",
+      "doi": "10.1109/TKDE.2024.3361474",
+      "publicationDate": "2022-09-06",
+      "year": 2022
+    },
+    {
+      "title": "Explainable AI (XAI): Core Ideas, Techniques, and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1145/3561048",
+      "publicationDate": "2022-09-04",
+      "year": 2022
+    },
+    {
+      "title": "A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions",
+      "arxiv_id": "2209.00491",
+      "doi": "10.1109/JSAC.2023.3242718",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Generative Models in the Industrial Internet of Things: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/tii.2022.3155656",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Reliable and Low-Overhead Clustering in LEO Small Satellite Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2021.3114423",
+      "publicationDate": "2022-08-15",
+      "year": 2022
+    },
+    {
+      "title": "LSTM–GAN based cloud movement prediction in satellite images for PV forecast",
+      "arxiv_id": null,
+      "doi": "10.1007/s12652-022-04333-7",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "Artificial Intelligence Techniques for Next-Generation Massive Satellite Networks",
+      "arxiv_id": "2207.00414",
+      "doi": "10.1109/MCOM.004.2300277",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "A Comprehensive Survey on Model Quantization for Deep Neural Networks in Image Classification",
+      "arxiv_id": "2205.07877",
+      "doi": "10.1145/3623402",
+      "publicationDate": "2022-05-14",
+      "year": 2022
+    },
+    {
+      "title": "LSTM-Based Distributed Conditional Generative Adversarial Network for Data-Driven 5G-Enabled Maritime UAV Communications",
+      "arxiv_id": "2205.04196",
+      "doi": "10.1109/TITS.2022.3187941",
+      "publicationDate": "2022-05-09",
+      "year": 2022
+    },
+    {
+      "title": "TensoRF: Tensorial Radiance Fields",
+      "arxiv_id": "2203.09517",
+      "doi": "10.48550/arXiv.2203.09517",
+      "publicationDate": "2022-03-17",
+      "year": 2022
+    },
+    {
+      "title": "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction",
+      "arxiv_id": "2203.01880",
+      "doi": "10.48550/arXiv.2203.01880",
+      "publicationDate": "2022-03-03",
+      "year": 2022
+    },
+    {
+      "title": "Network security situation assessment with network attack behavior classification",
+      "arxiv_id": null,
+      "doi": "10.1002/int.22867",
+      "publicationDate": "2022-03-02",
+      "year": 2022
+    },
+    {
+      "title": "AI-Based Cloud-Edge-Device Collaboration in 6G Space-Air-Ground Integrated Power IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.001.00254",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "Combining residual attention mechanisms and generative adversarial networks for hippocampus segmentation",
+      "arxiv_id": null,
+      "doi": "10.26599/TST.2020.9010056",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "A Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization",
+      "arxiv_id": "2201.09206",
+      "doi": "10.1109/TCSVT.2021.3135013",
+      "publicationDate": "2022-01-23",
+      "year": 2022
+    },
+    {
+      "title": "Dual Spoof Disentanglement Generation for Face Anti-Spoofing With Depth Uncertainty Learning",
+      "arxiv_id": "2112.00568",
+      "doi": "10.1109/TCSVT.2021.3133620",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Improved UCB-based Energy-Efficient Channel Selection in Hybrid-Band Wireless Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685996",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Wireless Networks for Future Aerial Communications (FACOM)",
+      "arxiv_id": "2111.04175",
+      "doi": "10.1109/COMST.2021.3103044",
+      "publicationDate": "2021-11-07",
+      "year": 2021
+    },
+    {
+      "title": "GNSS Spoofing Jamming Detection Based on Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1109/jsen.2021.3105404",
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Machine-Learning-Based 3-D Channel Modeling for U2V mmWave Communications",
+      "arxiv_id": "2109.02104",
+      "doi": "10.1109/JIOT.2022.3155773",
+      "publicationDate": "2021-09-05",
+      "year": 2021
+    },
+    {
+      "title": "Satellite Orbit Prediction Using Big Data and Soft Computing Techniques to Avoid Space Collisions",
+      "arxiv_id": null,
+      "doi": "10.3390/math9172040",
+      "publicationDate": "2021-08-25",
+      "year": 2021
+    },
+    {
+      "title": "Federated Learning on Non-IID Data: A Survey",
+      "arxiv_id": "2106.06843",
+      "doi": "10.1016/j.neucom.2021.07.098",
+      "publicationDate": "2021-06-12",
+      "year": 2021
+    },
+    {
+      "title": "Generative Adversarial Network-Based Transfer Reinforcement Learning for Routing With Prior Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2021.3077249",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Technologies, Standards and Open Challenges in Satellite IoT",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3078433",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "Three-Dimensional Trajectory Optimization for Energy-Constrained UAV-Enabled IoT System in Probabilistic LoS Channel",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3079363",
+      "publicationDate": "2021-05-11",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Spoofer Detection Techniques via Radio Frequency Fingerprinting with Focus on the GNSS Pre-Correlation Sampled Data",
+      "arxiv_id": null,
+      "doi": "10.3390/s21093012",
+      "publicationDate": "2021-04-25",
+      "year": 2021
+    },
+    {
+      "title": "A network security situation assessment method based on adversarial deep learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2021.107096",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "PrecipGAN: Merging Microwave and Infrared Data for Satellite Precipitation Estimation Using Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1029/2020GL092032",
+      "publicationDate": "2021-03-16",
+      "year": 2021
+    },
+    {
+      "title": "Edge–Cloud Resource Scheduling in Space–Air–Ground-Integrated Networks for Internet of Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3065583",
+      "publicationDate": "2021-03-11",
+      "year": 2021
+    },
+    {
+      "title": "Channel Estimation Enhancement With Generative Adversarial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2020.3013257",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Interference Geolocation in Satellite Communications Systems: An Overview",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2020.3002525",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Distributed Conditional Generative Adversarial Networks (GANs) for Data-Driven Millimeter Wave Communications in UAV Networks",
+      "arxiv_id": "2102.01751",
+      "doi": "10.1109/TWC.2021.3103971",
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Spatiotemporal Dilated Convolution With Uncertain Matching for Video-Based Crowd Estimation",
+      "arxiv_id": "2101.12439",
+      "doi": "10.1109/TMM.2021.3050059",
+      "publicationDate": "2021-01-29",
+      "year": 2021
+    },
+    {
+      "title": "ESR-GAN: Environmental Signal Reconstruction Learning With Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.3018621",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Generative Neural Network Channel Modeling for Millimeter-Wave UAV Communication",
+      "arxiv_id": "2012.09133",
+      "doi": "10.1109/twc.2022.3176480",
+      "publicationDate": "2020-12-16",
+      "year": 2020
+    },
+    {
+      "title": "A Security Awareness and Protection System for 5G Smart Healthcare Based on Zero-Trust Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.3041042",
+      "publicationDate": "2020-11-30",
+      "year": 2020
+    },
+    {
+      "title": "LEO-Satellite-Assisted UAV: Joint Trajectory and Data Collection for Internet of Remote Things in 6G Aerial Access Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.3021255",
+      "publicationDate": "2020-09-02",
+      "year": 2020
+    },
+    {
+      "title": "Attack of the Tails: Yes, You Really Can Backdoor Federated Learning",
+      "arxiv_id": "2007.05084",
+      "doi": null,
+      "publicationDate": "2020-07-09",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Learning of Generative Models via Finite-Difference Score Matching",
+      "arxiv_id": "2007.03317",
+      "doi": null,
+      "publicationDate": "2020-07-07",
+      "year": 2020
+    },
+    {
+      "title": "Hash-Chain-Based Cross-Regional Safety Authentication for Space-Air-Ground Integrated VANETs",
+      "arxiv_id": null,
+      "doi": "10.3390/app10124206",
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "GNSS Integrity Monitoring Schemes for Terrestrial Applications in Harsh Signal Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/MITS.2020.2994076",
+      "publicationDate": "2020-06-10",
+      "year": 2020
+    },
+    {
+      "title": "RarePlanes: Synthetic Data Takes Flight",
+      "arxiv_id": "2006.02963",
+      "doi": "10.1109/WACV48630.2021.00025",
+      "publicationDate": "2020-06-04",
+      "year": 2020
+    },
+    {
+      "title": "Review of research on lightweight convolutional neural networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ITOEC49072.2020.9141847",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Enhanced GANs for satellite behavior discovery",
+      "arxiv_id": null,
+      "doi": "10.1117/12.2560546",
+      "publicationDate": "2020-05-18",
+      "year": 2020
+    },
+    {
+      "title": "A Comprehensive Simulation Platform for Space-Air-Ground Integrated Network",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.001.1900072",
+      "publicationDate": "2020-02-01",
+      "year": 2020
+    },
+    {
+      "title": "A Review of Radio Frequency Fingerprinting Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/JRFID.2020.2968369",
+      "publicationDate": "2020-01-27",
+      "year": 2020
+    },
+    {
+      "title": "Detection and Tracking Meet Drones Challenge",
+      "arxiv_id": "2001.06303",
+      "doi": "10.1109/TPAMI.2021.3119563",
+      "publicationDate": "2020-01-16",
+      "year": 2020
+    },
+    {
+      "title": "Experienced Deep Reinforcement Learning With Generative Adversarial Networks (GANs) for Model-Free Ultra Reliable Low Latency Communication",
+      "arxiv_id": "1911.03264",
+      "doi": "10.1109/TCOMM.2020.3031930",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Secrecy and Covert Communications Against UAV Surveillance via Multi-Hop Networks",
+      "arxiv_id": "1910.09197",
+      "doi": "10.1109/TCOMM.2019.2950940",
+      "publicationDate": "2019-10-21",
+      "year": 2019
+    },
+    {
+      "title": "Learning Guided Convolutional Network for Depth Completion",
+      "arxiv_id": "1908.01238",
+      "doi": "10.1109/TIP.2020.3040528",
+      "publicationDate": "2019-08-03",
+      "year": 2019
+    },
+    {
+      "title": "Machine Learning for Resource Management in Cellular and IoT Networks: Potentials, Current Solutions, and Open Challenges",
+      "arxiv_id": "1907.08965",
+      "doi": "10.1109/COMST.2020.2964534",
+      "publicationDate": "2019-07-21",
+      "year": 2019
+    },
+    {
+      "title": "Recent Progress on Generative Adversarial Networks (GANs): A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2905015",
+      "publicationDate": "2019-03-14",
+      "year": 2019
+    },
+    {
+      "title": "DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications",
+      "arxiv_id": "1902.06435",
+      "doi": null,
+      "publicationDate": "2019-02-18",
+      "year": 2019
+    },
+    {
+      "title": "Resource Allocation for Ultra-Reliable and Enhanced Mobile Broadband IoT Applications in Fog Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2018.2870888",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "Recurrent Variational Autoencoders for Learning Nonlinear Generative Models in the Presence of Outliers",
+      "arxiv_id": null,
+      "doi": "10.1109/JSTSP.2018.2876995",
+      "publicationDate": "2018-10-19",
+      "year": 2018
+    },
+    {
+      "title": "Low‐complexity GNSS anti‐spoofing technique based on Doppler frequency difference monitoring",
+      "arxiv_id": null,
+      "doi": "10.1049/IET-RSN.2018.5151",
+      "publicationDate": "2018-07-13",
+      "year": 2018
+    },
+    {
+      "title": "Space-Air-Ground Integrated Network: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2018.2841996",
+      "publicationDate": "2018-05-29",
+      "year": 2018
+    },
+    {
+      "title": "Decentralized Detection of GPS Spoofing in Vehicular Ad Hoc Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2018.2814983",
+      "publicationDate": "2018-03-12",
+      "year": 2018
+    },
+    {
+      "title": "Novel Node-Ranking Approach and Multiple Topology Attributes-Based Embedding Algorithm for Single-Domain Virtual Network Embedding",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2017.2773489",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/MSP.2017.2765695",
+      "publicationDate": "2018-01-10",
+      "year": 2018
+    },
+    {
+      "title": "Generative Adversarial Networks: An Overview",
+      "arxiv_id": "1710.07035",
+      "doi": "10.1109/MSP.2017.2765202",
+      "publicationDate": "2017-10-19",
+      "year": 2017
+    },
+    {
+      "title": "Improved Message Passing Algorithms for Sparse Code Multiple Access",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2017.2741525",
+      "publicationDate": "2017-08-18",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Scalability Analysis of Large-Scale LoRaWAN Networks in ns-3",
+      "arxiv_id": "1705.05899",
+      "doi": "10.1109/JIOT.2017.2768498",
+      "publicationDate": "2017-05-16",
+      "year": 2017
+    },
+    {
+      "title": "Image reconstruction by domain-transform manifold learning",
+      "arxiv_id": "1704.08841",
+      "doi": "10.1038/nature25988",
+      "publicationDate": "2017-04-28",
+      "year": 2017
+    },
+    {
+      "title": "GNSS Signal Authentication Via Power and Distortion Monitoring",
+      "arxiv_id": "1702.06554",
+      "doi": "10.1109/TAES.2017.2765258",
+      "publicationDate": "2017-02-21",
+      "year": 2017
+    },
+    {
+      "title": "Survey of Inter-Satellite Communication for Small Satellite Systems: Physical Layer to Network Layer View",
+      "arxiv_id": "1609.08583",
+      "doi": "10.1109/COMST.2016.2564990",
+      "publicationDate": "2016-09-27",
+      "year": 2016
+    },
+    {
+      "title": "Visual data completion via local sensitive low rank tensor learning",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN.2016.7727537",
+      "publicationDate": "2016-07-24",
+      "year": 2016
+    },
+    {
+      "title": "Learning to Communicate with Deep Multi-Agent Reinforcement Learning",
+      "arxiv_id": "1605.06676",
+      "doi": null,
+      "publicationDate": "2016-05-21",
+      "year": 2016
+    },
+    {
+      "title": "Bringing up OpenSky: A large-scale ADS-B sensor network for research",
+      "arxiv_id": null,
+      "doi": "10.1109/IPSN.2014.6846743",
+      "publicationDate": "2014-04-15",
+      "year": 2014
+    },
+    {
+      "title": "GPS spoofer countermeasure effectiveness based on signal strength, noise power, and C/N0 measurements",
+      "arxiv_id": null,
+      "doi": "10.1002/sat.1012",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "Evaporation Correction Methods for Microwave Retrievals of Surface Precipitation Rate",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2011.2161875",
+      "publicationDate": "2011-12-22",
+      "year": 2011
+    },
+    {
+      "title": "Partially observable Markov decision processes for spoken dialog systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.csl.2006.06.008",
+      "publicationDate": "2007-04-01",
+      "year": 2007
+    },
+    {
+      "title": "SatSim-a simulator for mobile satellite network",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPWC.1999.759645",
+      "publicationDate": "1999-02-17",
+      "year": 1999
+    },
+    {
+      "title": "Engineering",
+      "arxiv_id": null,
+      "doi": "10.1038/123373d0",
+      "publicationDate": "1929-03-01",
+      "year": 1929
+    },
+    {
+      "title": "From Nodes to Roads: Surveying DRL Applications in MEC-Enhanced Terrestrial Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2025.3568035",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Artificial Intelligence for Satellite Communication: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2025.3534617",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2026.3660010",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "A Multi-Agent Complex-Valued LSTM Framework for mmWave Coordinated Beamforming in Interference Networks via Sub-6 GHz CSI",
+      "arxiv_id": null,
+      "doi": "10.1109/TCCN.2025.3632415",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Near-Field Terahertz Covert Communications With Noise Uncertainty",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2025.3631844",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Hierarchical Optimization for Task Execution Cost Minimization in D2D-Assisted Mobile Edge Computing Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2025.3585293",
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "“Intention recognition of space noncooperative targets using large language models,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A Synthetic Data-Assisted Satellite Terrestrial Integrated Network Intrusion Detection Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/TIFS.2025.3530676",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Super-Resolved 3-D Satellite Lidar Imaging of Earth via Generative Diffusion Models",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2025.3543670",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3532853",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Toward Proactive, Secure and Efficient Space-Air-Ground Communications: Generative AI-Based DRL Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2025.3539355",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A Novel Transformer-Based Multiscale Siamese Framework for High-Resolution Remote Sensing Change Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/JSTARS.2025.3569104",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Generative AI in Intrusion Detection Systems for Internet of Things: A Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2025.3573194",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "“Energy-e ﬃ cient power control in D2D networks: A distributed ADMM approach with dynamic penalty coe ﬃ cient,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A Deep Learning Based Induced GNSS Spoof Detection Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/TMLCN.2024.3386649",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "GenAI-Based Models for NGSO Satellites Interference Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/TMLCN.2024.3418933",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Jamming Waveform Generation Method Based on Generative Adversarial Network Model",
+      "arxiv_id": null,
+      "doi": "10.1109/LSP.2024.3386491",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Radio Frequency Fingerprint Identification Based on Variational Autoencoder for GNSS",
+      "arxiv_id": null,
+      "doi": "10.1109/LGRS.2024.3413962",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Semantics-Empowered Communications: A Tutorial-Cum-Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2023.3333342",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Toward a Fully-Observable Markov Decision Process With Generative Models for Integrated 6G-Non-Terrestrial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2023.3307209",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Tabular Variational Auto Encoder-Based Hybrid Model for Imbalanced Data Classification With Feature Selection",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3329139",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "The State of Urban Air Mobility Research: An Assessment of Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4341268",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "QIS-GAN: A Lightweight Adversarial Network With Quadtree Implicit Sampling for Multispectral and Hyperspectral Image Fusion",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2023.3332176",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "AVO Inversion Based on Closed-Loop Multitask Conditional Wasserstein Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2023.3260908",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Artificial Intelligence for Unmanned Aerial Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/OJVT.2023.3316181",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Survey on Machine Learning for Intelligent End-to-End Communication Toward 6G: From Network Access, Routing to Traffic Control and Streaming Adaption",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3073009",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ICARUS: Attacking low Earth orbit satellite networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Unsupervised Algorithms to Detect Zero-Day Attacks: Strategy and Application",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2021.3090957",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Performance Determinants in LoRa Networks: A Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2021.3090409",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Distributed Network Intrusion Detection System in Satellite-Terrestrial Integrated Networks Using Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3041641",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Simu5G–An OMNeT++ Library for End-to-End Performance Evaluation of 5G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3028550",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "GENERATIVE ADVERSARIAL NETS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "英语-翻译-Internet",
+      "arxiv_id": null,
+      "doi": "10.1036/1097-8542.757467",
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "Communications survey.",
+      "arxiv_id": null,
+      "doi": "10.1016/s1046-9095(05)80422-2",
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "Diﬀusion-based Reinforcement Learning for Edge-enabled AI-Generated Content Services",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MSIT Launches the K-Network 2030 Strategy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Trust-aware benchmarking of GAN, VAE, and di ﬀ usion models for synthetic data in image and tabular domains,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "China Moves To Boost Low-Altitude Economy Through Legislation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proof-of-Concept Achieved for Satellite-5G Networks Utilizing Adaptive Routing and Quality Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Siemens Introduces AI Agents for Industrial Automation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Amazon Launches a New AI Foundation Model to Power Its Robotic Fleet and Deploys Its 1 Millionth Robot .",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "received B.Eng. degree from Henan University (HENU China",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Langchain V0.3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Cognitive architectures for tomor-row: A comprehensive survey of memory management paradigms in agentic AI systems,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Industrial Copilots: Generative AI-Powered Value Chain Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AGENTIC SLAETNs: A SURVEY ON GENERATIVE APPROACHES",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

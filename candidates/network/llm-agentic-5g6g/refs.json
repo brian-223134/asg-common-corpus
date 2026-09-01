@@ -1,0 +1,1356 @@
+{
+  "candidate": {
+    "topic": "LLM-Powered Agentic AI for 5G/6G Networks",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": "2607.16066",
+      "doi": null,
+      "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey",
+      "published": "2026-07-17"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: arXiv cs.NI 2026"
+  },
+  "extracted_at": "2026-09-01T05:38:21+00:00",
+  "source": "arxiv-src-bib",
+  "summary": {
+    "refs": 190,
+    "arxiv_resolvable": 19,
+    "doi_only": 19,
+    "unresolved": 152
+  },
+  "gt_s2": {
+    "note": "s2-429"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2014.2328098",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.001.1900287",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/TMLCN.2025.3576727",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ICMLCN64995.2025.11140130",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.001.1900334",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2022.3215919",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2500366",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/MIS.2025.3544940",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2026.3651702",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2402.13116",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ICC52391.2025.11161544",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.08244",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2304.03442",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2305.11598",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2025.3564333",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3608736",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2103.02823",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2508.17778",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2512.12400",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2512.20640",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2512.04405",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2510.13031",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2504.00341",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2504.18062",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2503.11933",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2511.22933",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2511.09087",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2504.11233",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/NGDN66208.2025.11182150",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2511.00460",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2025.3642642",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ISNCC58260.2023.10323894",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/TMC.2024.3415661",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft60951.2024.10588921",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3703155",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ICECA66444.2025.11383190",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2511.02532",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2507.06850",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,2186 @@
+{
+  "candidate": {
+    "topic": "Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": "2601.03181",
+      "doi": null,
+      "title": "Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey",
+      "published": "2026-01-06"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: arXiv cs.NI 2026"
+  },
+  "extracted_at": "2026-09-01T05:49:41+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 307,
+    "arxiv_resolvable": 217,
+    "doi_only": 68,
+    "unresolved": 22
+  },
+  "gt_s2": {
+    "paperId": "6d8c8ef39b0bc65ffbd458ceac8a6835efc47b06",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2601-03181",
+      "ArXiv": "2601.03181",
+      "DOI": "10.1109/COMST.2025.3648785",
+      "CorpusId": 284315268
+    },
+    "title": "Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey",
+    "venue": "IEEE Communications Surveys and Tutorials",
+    "year": 2026,
+    "referenceCount": 307,
+    "publicationDate": "2026-01-06"
+  },
+  "refs": [
+    {
+      "title": "ChannelGPT: A Large Model toward Real-World Channel Foundation Model for 6G Environment Intelligence Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2400780",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Hierarchical Federated Foundation Models over Wireless Networks for Multi-Modal Multi-Task Intelligence: Integration of Edge Learning with D2D/P2P-Enabled Fog Learning Architectures",
+      "arxiv_id": "2509.03695",
+      "doi": "10.1109/MCOM.001.2500502",
+      "publicationDate": "2025-09-03",
+      "year": 2025
+    },
+    {
+      "title": "TPI-LLM: Serving 70B-Scale LLMs Efficiently on Low-Resource Mobile Devices",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2025.3596892",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "GraphFedAI framework for DDoS attack detection in IoT systems using federated learning and graph based artificial intelligence",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-10826-0",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "Foundation Model-Aided Deep Reinforcement Learning for RIS-Assisted Wireless Communication",
+      "arxiv_id": "2506.09855",
+      "doi": "10.1109/PIMRC62392.2025.11274561",
+      "publicationDate": "2025-06-11",
+      "year": 2025
+    },
+    {
+      "title": "IQFM A Wireless Foundational Model for I/Q Streams in AI-Native 6G",
+      "arxiv_id": "2506.06718",
+      "doi": "10.48550/arXiv.2506.06718",
+      "publicationDate": "2025-06-07",
+      "year": 2025
+    },
+    {
+      "title": "Conditional Denoising Diffusion for ISAC Enhanced Channel Estimation in Cell-Free 6G",
+      "arxiv_id": "2506.06942",
+      "doi": "10.1109/PIMRC62392.2025.11275520",
+      "publicationDate": "2025-06-07",
+      "year": 2025
+    },
+    {
+      "title": "EdgeShard: Efficient LLM Inference via Collaborative Edge Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3524255",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "A Multi-Task Foundation Model for Wireless Channel Representation Using Contrastive and Masked Autoencoder Learning",
+      "arxiv_id": "2505.09160",
+      "doi": "10.1109/JSAC.2026.3677157",
+      "publicationDate": "2025-05-14",
+      "year": 2025
+    },
+    {
+      "title": "KlonetAI: Automating (Com)2Nets Management With Human Language Intents",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3507801",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Models Empower Multimodal Integrated Sensing and Communication",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.004.2400281",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "Solving AI Foundational Model Latency with Telco Infrastructure",
+      "arxiv_id": "2504.03708",
+      "doi": "10.48550/arXiv.2504.03708",
+      "publicationDate": "2025-03-27",
+      "year": 2025
+    },
+    {
+      "title": "Intelligent Orchestration of Distributed Large Foundation Model Inference at the Edge",
+      "arxiv_id": "2504.03668",
+      "doi": "10.37256/cnc.3220256807",
+      "publicationDate": "2025-03-19",
+      "year": 2025
+    },
+    {
+      "title": "Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning",
+      "arxiv_id": "2503.08937",
+      "doi": "10.1109/ICCWorkshops67674.2025.11162434",
+      "publicationDate": "2025-03-11",
+      "year": 2025
+    },
+    {
+      "title": "Distributed on-Device LLM Inference with Over-the-Air Computation",
+      "arxiv_id": "2502.12559",
+      "doi": "10.1109/ICC52391.2025.11161391",
+      "publicationDate": "2025-02-18",
+      "year": 2025
+    },
+    {
+      "title": "Agentic AI: Autonomy, Accountability, and the Algorithmic Society",
+      "arxiv_id": "2502.00289",
+      "doi": "10.48550/arXiv.2502.00289",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Spatio-Temporal 3D Point Clouds from Wi-Fi-CSI Data via Transformer Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JCS64661.2025.10880635",
+      "publicationDate": "2025-01-28",
+      "year": 2025
+    },
+    {
+      "title": "Generative AI-Enabled Blockage Prediction for Robust Dual-Band mmWave Communication",
+      "arxiv_id": "2501.11763",
+      "doi": "10.1109/ICC52391.2025.11161462",
+      "publicationDate": "2025-01-20",
+      "year": 2025
+    },
+    {
+      "title": "NetOrchLLM: Mastering Wireless Network Orchestration with Large Language Models",
+      "arxiv_id": "2412.10107",
+      "doi": "10.48550/arXiv.2412.10107",
+      "publicationDate": "2024-12-13",
+      "year": 2024
+    },
+    {
+      "title": "WiFo: wireless foundation model for channel prediction",
+      "arxiv_id": "2412.08908",
+      "doi": "10.1007/s11432-025-4349-0",
+      "publicationDate": "2024-12-12",
+      "year": 2024
+    },
+    {
+      "title": "Large Wireless Model (LWM): A Foundation Model for Wireless Channels",
+      "arxiv_id": "2411.08872",
+      "doi": "10.48550/arXiv.2411.08872",
+      "publicationDate": "2024-11-13",
+      "year": 2024
+    },
+    {
+      "title": "Game-theoretic LLM: Agent Workflow for Negotiation Games",
+      "arxiv_id": "2411.05990",
+      "doi": "10.48550/arXiv.2411.05990",
+      "publicationDate": "2024-11-08",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Modal Transformer and Reinforcement Learning-Based Beam Management",
+      "arxiv_id": "2410.19859",
+      "doi": "10.1109/LNET.2024.3486260",
+      "publicationDate": "2024-10-22",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model Based Multi-Objective Optimization for Integrated Sensing and Communications in UAV Networks",
+      "arxiv_id": "2410.05062",
+      "doi": "10.1109/LWC.2025.3529082",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Spatio-Temporal 3D Point Clouds from WiFi-CSI Data via Transformer Networks",
+      "arxiv_id": "2410.16303",
+      "doi": "10.48550/arXiv.2410.16303",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Radio Foundation Models: Pre-training Transformers for 5G-based Indoor Localization",
+      "arxiv_id": "2410.00617",
+      "doi": "10.1109/IPIN62893.2024.10786154",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Sensing and Computer Vision-Aided Mobility Management for 6G Millimeter and Terahertz Communication Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2024.3392799",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "LLM Agents as 6G Orchestrator: A Paradigm for Task-Oriented Physical-Layer Automation",
+      "arxiv_id": "2410.03688",
+      "doi": "10.1109/GCWkshp64532.2024.11101226",
+      "publicationDate": "2024-09-21",
+      "year": 2024
+    },
+    {
+      "title": "WirelessAgent: Large language model agents for intelligent wireless networks",
+      "arxiv_id": "2409.07964",
+      "doi": "10.23919/JCC.fa.2025-0163.202603",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model",
+      "arxiv_id": "2409.02322",
+      "doi": "10.48550/arXiv.2409.02322",
+      "publicationDate": "2024-09-03",
+      "year": 2024
+    },
+    {
+      "title": "Telecom’s Artificial General Intelligence (AGI) Vision: Beyond the GenAI Frontier",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3425594",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Mobile-LLaMA: Instruction Fine-Tuning Open-Source LLM for Network Analysis in 5G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3421306",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Enabling Mobile AI Agent in 6G Era: Architecture and Key Technologies",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2024.3422309",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "On-Device Language Models: A Comprehensive Review",
+      "arxiv_id": "2409.00088",
+      "doi": "10.48550/arXiv.2409.00088",
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning With LiDAR Sensing",
+      "arxiv_id": "2408.12252",
+      "doi": "10.1109/TVT.2025.3555130",
+      "publicationDate": "2024-08-22",
+      "year": 2024
+    },
+    {
+      "title": "Self-Refined Generative Foundation Models for Wireless Traffic Prediction",
+      "arxiv_id": "2408.10390",
+      "doi": "10.1109/TVT.2025.3637245",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "Open Spatio-Temporal Foundation Models for Traffic Prediction",
+      "arxiv_id": "2408.10269",
+      "doi": "10.1145/3773912",
+      "publicationDate": "2024-08-16",
+      "year": 2024
+    },
+    {
+      "title": "Beyond Supervised: The Rise of Self-Supervised Learning in Autonomous Systems",
+      "arxiv_id": null,
+      "doi": "10.3390/info15080491",
+      "publicationDate": "2024-08-16",
+      "year": 2024
+    },
+    {
+      "title": "Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models",
+      "arxiv_id": "2408.08210",
+      "doi": "10.48550/arXiv.2408.08210",
+      "publicationDate": "2024-08-15",
+      "year": 2024
+    },
+    {
+      "title": "Multimodal Sensory Data Fusion-aided Channel modelling: An End-to-End Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCC62479.2024.10682002",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Vision Foundation Models in Remote Sensing: A Survey",
+      "arxiv_id": "2408.03464",
+      "doi": null,
+      "publicationDate": "2024-08-06",
+      "year": 2024
+    },
+    {
+      "title": "Recent Advances in Data-driven Intelligent Control for Wireless Communication: A Comprehensive Survey",
+      "arxiv_id": "2408.02943",
+      "doi": null,
+      "publicationDate": "2024-08-06",
+      "year": 2024
+    },
+    {
+      "title": "Telecom Foundation Models: Applications, Challenges, and Future Trends",
+      "arxiv_id": "2408.03964",
+      "doi": "10.48550/arXiv.2408.03964",
+      "publicationDate": "2024-08-02",
+      "year": 2024
+    },
+    {
+      "title": "Recent Advances in Generative AI and Large Language Models: Current Status, Challenges, and Perspectives",
+      "arxiv_id": "2407.14962",
+      "doi": "10.1109/TAI.2024.3444742",
+      "publicationDate": "2024-07-20",
+      "year": 2024
+    },
+    {
+      "title": "GraphFM: A generalist graph transformer that learns transferable representations across diverse domains",
+      "arxiv_id": "2407.11907",
+      "doi": null,
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "Inference Optimization of Foundation Models on AI Accelerators",
+      "arxiv_id": "2407.09111",
+      "doi": "10.1145/3637528.3671465",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Edge Graph Intelligence: Reciprocally Empowering Edge Networks With Graph Intelligence",
+      "arxiv_id": "2407.15320",
+      "doi": "10.1109/COMST.2025.3527561",
+      "publicationDate": "2024-07-07",
+      "year": 2024
+    },
+    {
+      "title": "A Generalized Transformer-based Radio Link Failure Prediction Framework in 5G RANs",
+      "arxiv_id": "2407.05197",
+      "doi": "10.48550/arXiv.2407.05197",
+      "publicationDate": "2024-07-06",
+      "year": 2024
+    },
+    {
+      "title": "3D Environment Reconstruction Based on ISAC Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/Ucom62433.2024.10695938",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "Edge AI: A Taxonomy, Systematic Review and Future Directions",
+      "arxiv_id": "2407.04053",
+      "doi": "10.1007/s10586-024-04686-y",
+      "publicationDate": "2024-07-04",
+      "year": 2024
+    },
+    {
+      "title": "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks",
+      "arxiv_id": "2407.02924",
+      "doi": "10.1109/TWC.2025.3531128",
+      "publicationDate": "2024-07-03",
+      "year": 2024
+    },
+    {
+      "title": "Scatterer Recognition for Multi-Modal Intelligent Vehicular Channel Modeling via Synesthesia of Machines",
+      "arxiv_id": "2406.19072",
+      "doi": "10.1109/LWC.2025.3558059",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "ViT LoS V2X: Vision Transformers for Environment-Aware LoS Blockage Prediction for 6G Vehicular Networks",
+      "arxiv_id": "2407.15023",
+      "doi": "10.1109/ACCESS.2024.3460480",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "Point-SAM: Promptable 3D Segmentation Model for Point Clouds",
+      "arxiv_id": "2406.17741",
+      "doi": "10.48550/arXiv.2406.17741",
+      "publicationDate": "2024-06-25",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging LLMs to eXplain DRL Decisions for Transparent 6G Network Slicing",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft60951.2024.10588921",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "Root Cause Analysis of Anomalies in 5G RAN Using Graph Neural Network and Transformer",
+      "arxiv_id": "2406.15638",
+      "doi": "10.48550/arXiv.2406.15638",
+      "publicationDate": "2024-06-21",
+      "year": 2024
+    },
+    {
+      "title": "GraphFM: A Comprehensive Benchmark for Graph Foundation Model",
+      "arxiv_id": "2406.08310",
+      "doi": "10.48550/arXiv.2406.08310",
+      "publicationDate": "2024-06-12",
+      "year": 2024
+    },
+    {
+      "title": "LLM-Based Intent Processing and Network Optimization Using Attention-Based Hierarchical Reinforcement Learning",
+      "arxiv_id": "2406.06059",
+      "doi": "10.1109/WCNC61545.2025.10978505",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks",
+      "arxiv_id": "2406.04276",
+      "doi": "10.48550/arXiv.2406.04276",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "CSI-GPT: Integrating Generative Pre-Trained Transformer With Federated-Tuning to Acquire Downlink Massive MIMO Channels",
+      "arxiv_id": "2406.03438",
+      "doi": "10.1109/TVT.2024.3493463",
+      "publicationDate": "2024-06-05",
+      "year": 2024
+    },
+    {
+      "title": "RayProNet: A Neural Point Field Framework for Radio Propagation Modeling in 3D Environments",
+      "arxiv_id": "2406.16907",
+      "doi": "10.1109/JMMCT.2024.3464373",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "Safeguarding large language models: a survey",
+      "arxiv_id": "2406.02622",
+      "doi": "10.1007/s10462-025-11389-2",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "LLM4CP: Adapting Large Language Models for Channel Prediction",
+      "arxiv_id": "2406.14440",
+      "doi": "10.23919/jcin.2024.10582829",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "An Autonomous Parallelization of Transformer Model Inference on Heterogeneous Edge Devices",
+      "arxiv_id": null,
+      "doi": "10.1145/3650200.3656628",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference",
+      "arxiv_id": "2405.17245",
+      "doi": "10.1109/INFOCOM52122.2024.10621342",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI Empowered LiDAR Point Cloud Generation with Multimodal Transformer",
+      "arxiv_id": "2406.18542",
+      "doi": "10.1109/GLOBECOM52923.2024.10901692",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities",
+      "arxiv_id": "2405.10825",
+      "doi": "10.1109/COMST.2024.3465447",
+      "publicationDate": "2024-05-17",
+      "year": 2024
+    },
+    {
+      "title": "Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting",
+      "arxiv_id": "2405.10216",
+      "doi": "10.1145/3678957.3685724",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "Many-Shot In-Context Learning in Multimodal Foundation Models",
+      "arxiv_id": "2405.09798",
+      "doi": "10.48550/arXiv.2405.09798",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "An Overview of Machine Learning-Enabled Optimization for Reconfigurable Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language Models",
+      "arxiv_id": "2405.17439",
+      "doi": "10.48550/arXiv.2405.17439",
+      "publicationDate": "2024-05-09",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Camera Views Based Beam Searching and BS Selection With Reduced Training Overhead",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2024.3351748",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Artificial General Intelligence (AGI)-Native Wireless Systems: A Journey Beyond 6G",
+      "arxiv_id": "2405.02336",
+      "doi": "10.1109/JPROC.2025.3526887",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation",
+      "arxiv_id": "2404.11858",
+      "doi": "10.1109/MWC.006.2400131",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for Game Theory-Based Mobile Networking",
+      "arxiv_id": "2404.09699",
+      "doi": "10.1109/MWC.007.2400133",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Decision Transformers For Wireless Communications: A New Paradigm Of Resource Management",
+      "arxiv_id": "2404.05199",
+      "doi": "10.1109/MWC.007.2400124",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Towards explainable traffic flow prediction with large language models",
+      "arxiv_id": "2404.02937",
+      "doi": "10.1016/j.commtr.2024.100150",
+      "publicationDate": "2024-04-03",
+      "year": 2024
+    },
+    {
+      "title": "Using Large Language Models to Understand Telecom Standards",
+      "arxiv_id": "2404.02929",
+      "doi": "10.1109/ICMLCN59089.2024.10624786",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "Automating Cloud Deployment for Real-Time Online Foundation Model Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2023.3321967",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs",
+      "arxiv_id": "2403.20041",
+      "doi": "10.48550/arXiv.2403.20041",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i21.30383",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Large language models in 6G security: challenges and opportunities",
+      "arxiv_id": "2403.12239",
+      "doi": "10.48550/arXiv.2403.12239",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Transformer-Based Wireless Traffic Prediction and Network Optimization in O-RAN",
+      "arxiv_id": "2403.10808",
+      "doi": "10.1109/ICCWorkshops59551.2024.10615438",
+      "publicationDate": "2024-03-16",
+      "year": 2024
+    },
+    {
+      "title": "Exploring the potential of AI-driven optimization in enhancing network performance and efficiency",
+      "arxiv_id": null,
+      "doi": "10.30574/msarr.2024.10.1.0028",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI for Secure Physical Layer Communications: A Survey",
+      "arxiv_id": "2402.13553",
+      "doi": "10.1109/TCCN.2024.3438379",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "MOMENT: A Family of Open Time-series Foundation Models",
+      "arxiv_id": "2402.03885",
+      "doi": "10.48550/arXiv.2402.03885",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Position: Graph Foundation Models Are Already Here",
+      "arxiv_id": "2402.02216",
+      "doi": null,
+      "publicationDate": "2024-02-03",
+      "year": 2024
+    },
+    {
+      "title": "At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence",
+      "arxiv_id": "2402.18587",
+      "doi": "10.1109/OJCOMS.2024.3362271",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "Large Multi-Modal Models (LMMs) as Universal Foundation Models for AI-Native Wireless Systems",
+      "arxiv_id": "2402.01748",
+      "doi": "10.1109/MNET.2024.3427313",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment",
+      "arxiv_id": "2401.07764",
+      "doi": "10.1109/MWC.005.2400019",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "Agent AI: Surveying the Horizons of Multimodal Interaction",
+      "arxiv_id": "2401.03568",
+      "doi": "10.48550/arXiv.2401.03568",
+      "publicationDate": "2024-01-07",
+      "year": 2024
+    },
+    {
+      "title": "Few-shot adaptation of multi-modal foundation models: a survey",
+      "arxiv_id": "2401.01736",
+      "doi": "10.1007/s10462-024-10915-y",
+      "publicationDate": "2024-01-03",
+      "year": 2024
+    },
+    {
+      "title": "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding",
+      "arxiv_id": "2312.14074",
+      "doi": "10.48550/arXiv.2312.14074",
+      "publicationDate": "2023-12-21",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Reasoning with Foundation Models",
+      "arxiv_id": "2312.11562",
+      "doi": "10.48550/arXiv.2312.11562",
+      "publicationDate": "2023-12-17",
+      "year": 2023
+    },
+    {
+      "title": "LiFT: Unsupervised Reinforcement Learning with Foundation Models as Teachers",
+      "arxiv_id": "2312.08958",
+      "doi": "10.48550/arXiv.2312.08958",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "Foundation models in robotics: Applications, challenges, and the future",
+      "arxiv_id": "2312.07843",
+      "doi": "10.1177/02783649241281508",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model Enhanced Multi-Agent Systems for 6G Communications",
+      "arxiv_id": "2312.07850",
+      "doi": "10.1109/MWC.016.2300600",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "A Spatial-Temporal Transformer Network for City-Level Cellular Traffic Analysis and Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2023.3270441",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices",
+      "arxiv_id": "2312.00388",
+      "doi": "10.48550/arXiv.2312.00388",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+      "arxiv_id": "2312.00752",
+      "doi": null,
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Applications of Deep Reinforcement Learning in Wireless Networks-A Recent Review",
+      "arxiv_id": null,
+      "doi": "10.1109/IC2EM59347.2023.10419512",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "Understanding the Role of Textual Prompts in LLM for Time Series Forecasting: an Adapter View",
+      "arxiv_id": "2311.14782",
+      "doi": null,
+      "publicationDate": "2023-11-24",
+      "year": 2023
+    },
+    {
+      "title": "EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge",
+      "arxiv_id": "2311.10986",
+      "doi": "10.1145/3625687.3625793",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "Device-Edge Cooperative Fine-Tuning of Foundation Models as a 6G Service",
+      "arxiv_id": "2310.18602",
+      "doi": "10.1109/MWC.008.2300516",
+      "publicationDate": "2023-10-28",
+      "year": 2023
+    },
+    {
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "arxiv_id": "2310.10688",
+      "doi": "10.48550/arXiv.2310.10688",
+      "publicationDate": "2023-10-14",
+      "year": 2023
+    },
+    {
+      "title": "Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting",
+      "arxiv_id": "2310.08278",
+      "doi": null,
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting",
+      "arxiv_id": "2310.04948",
+      "doi": "10.48550/arXiv.2310.04948",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "The Role of Federated Learning in a Wireless World with Foundation Models",
+      "arxiv_id": "2310.04003",
+      "doi": "10.1109/MWC.005.2300481",
+      "publicationDate": "2023-10-06",
+      "year": 2023
+    },
+    {
+      "title": "Toward a Foundation Model for Time Series Data",
+      "arxiv_id": "2310.03916",
+      "doi": "10.1145/3583780.3615155",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "TimeGPT-1",
+      "arxiv_id": "2310.03589",
+      "doi": null,
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)",
+      "arxiv_id": "2310.02561",
+      "doi": "10.1109/TWC.2024.3401686",
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "Reinforcement Learning with Foundation Priors: Let Embodied Agent Efficiently Learn on Its Own",
+      "arxiv_id": "2310.02635",
+      "doi": null,
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "Pushing Large Language Models to the 6G Edge: Vision, Challenges, and Opportunities",
+      "arxiv_id": "2309.16739",
+      "doi": "10.1109/MCOM.001.2400764",
+      "publicationDate": "2023-09-28",
+      "year": 2023
+    },
+    {
+      "title": "Text2Reward: Reward Shaping with Language Models for Reinforcement Learning",
+      "arxiv_id": "2309.11489",
+      "doi": null,
+      "publicationDate": "2023-09-20",
+      "year": 2023
+    },
+    {
+      "title": "CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications",
+      "arxiv_id": "2309.08895",
+      "doi": "10.1109/TWC.2024.3379244",
+      "publicationDate": "2023-09-16",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Hallucination in Large Foundation Models",
+      "arxiv_id": "2309.05922",
+      "doi": "10.48550/arXiv.2309.05922",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "Are Emergent Abilities in Large Language Models just In-Context Learning?",
+      "arxiv_id": "2309.01809",
+      "doi": "10.48550/arXiv.2309.01809",
+      "publicationDate": "2023-09-04",
+      "year": 2023
+    },
+    {
+      "title": "ML-Based 5G Traffic Generation for Practical Simulations Using Open Datasets",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2200679",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "PointLLM: Empowering Large Language Models to Understand Point Clouds",
+      "arxiv_id": "2308.16911",
+      "doi": "10.48550/arXiv.2308.16911",
+      "publicationDate": "2023-08-31",
+      "year": 2023
+    },
+    {
+      "title": "Sensiverse: A dataset for ISAC study",
+      "arxiv_id": "2308.13789",
+      "doi": null,
+      "publicationDate": "2023-08-26",
+      "year": 2023
+    },
+    {
+      "title": "A survey on large language model based autonomous agents",
+      "arxiv_id": "2308.11432",
+      "doi": "10.1007/s11704-024-40231-1",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI in mobile networks: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-023-00980-9",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters",
+      "arxiv_id": "2308.08469",
+      "doi": "10.1145/3719207",
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions",
+      "arxiv_id": "2308.06250",
+      "doi": "10.1109/MWC.015.2300404",
+      "publicationDate": "2023-08-11",
+      "year": 2023
+    },
+    {
+      "title": "Large Decision Models",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2023/808",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "QoE Analysis and Resource Allocation for Wireless Metaverse Services",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2023.3282594",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "The Power of Generative AI: A Review of Requirements, Models, Input-Output Formats, Evaluation Metrics, and Challenges",
+      "arxiv_id": null,
+      "doi": "10.3390/fi15080260",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "6G Network Business Support System",
+      "arxiv_id": "2307.10004",
+      "doi": "10.48550/arXiv.2307.10004",
+      "publicationDate": "2023-07-19",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Towards A Unified Agent with Foundation Models",
+      "arxiv_id": "2307.09668",
+      "doi": "10.48550/arXiv.2307.09668",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Overview of Large Language Models",
+      "arxiv_id": "2307.06435",
+      "doi": "10.1145/3744746",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Evaluation of Large Language Models",
+      "arxiv_id": "2307.03109",
+      "doi": "10.1145/3641289",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "When Foundation Model Meets Federated Learning: Motivations, Challenges, and Future Directions",
+      "arxiv_id": "2306.15546",
+      "doi": "10.48550/arXiv.2306.15546",
+      "publicationDate": "2023-06-27",
+      "year": 2023
+    },
+    {
+      "title": "Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines",
+      "arxiv_id": "2306.14143",
+      "doi": "10.1109/COMST.2023.3336917",
+      "publicationDate": "2023-06-25",
+      "year": 2023
+    },
+    {
+      "title": "Attention-Refined Unrolling for Sparse Sequential Micro-Doppler Reconstruction",
+      "arxiv_id": "2306.14233",
+      "doi": "10.1109/JSTSP.2024.3408041",
+      "publicationDate": "2023-06-25",
+      "year": 2023
+    },
+    {
+      "title": "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration",
+      "arxiv_id": "2306.14125",
+      "doi": "10.23919/JCC.fa.2023-0268.202311",
+      "publicationDate": "2023-06-25",
+      "year": 2023
+    },
+    {
+      "title": "A survey on multimodal large language models",
+      "arxiv_id": "2306.13549",
+      "doi": "10.1093/nsr/nwae403",
+      "publicationDate": "2023-06-23",
+      "year": 2023
+    },
+    {
+      "title": "DISC: A Dataset for Integrated Sensing and Communications in mmWave Systems",
+      "arxiv_id": "2306.09469",
+      "doi": "10.1109/MCOM.002.2400687",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Meta-Learning for Image-Guided Millimeter-Wave Beam Selection in Unseen Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP49357.2023.10096315",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+      "arxiv_id": "2305.16291",
+      "doi": "10.48550/arXiv.2305.16291",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "RWKV: Reinventing RNNs for the Transformer Era",
+      "arxiv_id": "2305.13048",
+      "doi": "10.18653/v1/2023.findings-emnlp.936",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "Radio Frequency Signal Dataset Generation Based on LTE System and Variable Channels",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS57453.2023.10225784",
+      "publicationDate": "2023-05-20",
+      "year": 2023
+    },
+    {
+      "title": "ImageBind One Embedding Space to Bind Them All",
+      "arxiv_id": "2305.05665",
+      "doi": "10.1109/CVPR52729.2023.01457",
+      "publicationDate": "2023-05-09",
+      "year": 2023
+    },
+    {
+      "title": "In-Context Learning Unlocked for Diffusion Models",
+      "arxiv_id": "2305.01115",
+      "doi": "10.48550/arXiv.2305.01115",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations",
+      "arxiv_id": "2304.11267",
+      "doi": "10.1109/CVPRW59228.2023.00490",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "DINOv2: Learning Robust Visual Features without Supervision",
+      "arxiv_id": "2304.07193",
+      "doi": "10.48550/arXiv.2304.07193",
+      "publicationDate": "2023-04-14",
+      "year": 2023
+    },
+    {
+      "title": "Segment Anything",
+      "arxiv_id": "2304.02643",
+      "doi": "10.1109/ICCV51070.2023.00371",
+      "publicationDate": "2023-04-05",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs",
+      "arxiv_id": "2303.16434",
+      "doi": "10.48550/arXiv.2303.16434",
+      "publicationDate": "2023-03-29",
+      "year": 2023
+    },
+    {
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "arxiv_id": "2303.12712",
+      "doi": null,
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Generative Artificial Intelligence Techniques",
+      "arxiv_id": null,
+      "doi": "10.58496/bjai/2023/003",
+      "publicationDate": "2023-03-10",
+      "year": 2023
+    },
+    {
+      "title": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection",
+      "arxiv_id": "2303.05499",
+      "doi": "10.48550/arXiv.2303.05499",
+      "publicationDate": "2023-03-09",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT",
+      "arxiv_id": "2303.04226",
+      "doi": "10.48550/arXiv.2303.04226",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Foundation Models for Decision Making: Problems, Methods, and Opportunities",
+      "arxiv_id": "2303.04129",
+      "doi": "10.48550/arXiv.2303.04129",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping",
+      "arxiv_id": "2303.02617",
+      "doi": null,
+      "publicationDate": "2023-03-05",
+      "year": 2023
+    },
+    {
+      "title": "Artificial intelligence foundation and pre-trained models: Fundamentals, applications, opportunities, and social impacts",
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2023.102754",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Streamlining Multimodal Data Fusion in Wireless Communication and Sensor Networks",
+      "arxiv_id": "2302.12636",
+      "doi": "10.1109/TCCN.2023.3322983",
+      "publicationDate": "2023-02-24",
+      "year": 2023
+    },
+    {
+      "title": "One Fits All: Power General Time Series Analysis by Pretrained LM",
+      "arxiv_id": "2302.11939",
+      "doi": "10.52202/075280-1877",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+      "arxiv_id": "2302.09419",
+      "doi": "10.48550/arXiv.2302.09419",
+      "publicationDate": "2023-02-18",
+      "year": 2023
+    },
+    {
+      "title": "Self-Supervised and Invariant Representations for Wireless Localization",
+      "arxiv_id": "2302.07000",
+      "doi": "10.1109/TWC.2023.3348203",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "Less is More: Selective Layer Finetuning with SubTuning",
+      "arxiv_id": "2302.06354",
+      "doi": null,
+      "publicationDate": "2023-02-13",
+      "year": 2023
+    },
+    {
+      "title": "Transformer models: an introduction and catalog",
+      "arxiv_id": "2302.07730",
+      "doi": "10.48550/arXiv.2302.07730",
+      "publicationDate": "2023-02-12",
+      "year": 2023
+    },
+    {
+      "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+      "arxiv_id": "2302.04761",
+      "doi": "10.48550/arXiv.2302.04761",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Self-Supervised Learning: Algorithms, Applications, and Future Trends",
+      "arxiv_id": "2301.05712",
+      "doi": "10.1109/TPAMI.2024.3415112",
+      "publicationDate": "2023-01-13",
+      "year": 2023
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces",
+      "arxiv_id": "2301.01821",
+      "doi": "10.48550/arXiv.2301.01821",
+      "publicationDate": "2023-01-04",
+      "year": 2023
+    },
+    {
+      "title": "Emergent analogical reasoning in large language models",
+      "arxiv_id": "2212.09196",
+      "doi": "10.1038/s41562-023-01659-w",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Scalable Diffusion Models with Transformers",
+      "arxiv_id": "2212.09748",
+      "doi": "10.1109/ICCV51070.2023.00387",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Graph Representation Learning for Wireless Communications",
+      "arxiv_id": "2212.01904",
+      "doi": "10.1109/MCOM.001.2200810",
+      "publicationDate": "2022-12-04",
+      "year": 2022
+    },
+    {
+      "title": "DeepSense 6G: A Large-Scale Real-World Multi-Modal Sensing and Communication Dataset",
+      "arxiv_id": "2211.09769",
+      "doi": "10.1109/MCOM.006.2200730",
+      "publicationDate": "2022-11-17",
+      "year": 2022
+    },
+    {
+      "title": "Camera Aided Reconfigurable Intelligent Surfaces: Computer Vision Based Fast Beam Selection",
+      "arxiv_id": "2211.07563",
+      "doi": "10.1109/ICC45041.2023.10279112",
+      "publicationDate": "2022-11-14",
+      "year": 2022
+    },
+    {
+      "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+      "arxiv_id": "2211.05100",
+      "doi": null,
+      "publicationDate": "2022-11-09",
+      "year": 2022
+    },
+    {
+      "title": "Multimodality in mmWave MIMO Beam Selection Using Deep Learning: Datasets and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.002.2200028",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Camera-Sensing-Assisted Fast mmWave Beam Tracking for Connected Automated Vehicles",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2022.3176025",
+      "publicationDate": "2022-10-15",
+      "year": 2022
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Mobile Network Traffic Prediction Based on Seasonal Adjacent Windows Sampling and Conditional Probability Estimation",
+      "arxiv_id": null,
+      "doi": "10.1109/TBDATA.2020.3014049",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Modal Beam Prediction Challenge 2022: Towards Generalization",
+      "arxiv_id": "2209.07519",
+      "doi": "10.48550/arXiv.2209.07519",
+      "publicationDate": "2022-09-15",
+      "year": 2022
+    },
+    {
+      "title": "Toward Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-Aided Beamforming",
+      "arxiv_id": "2209.02258",
+      "doi": "10.1109/MWC.007.2200155",
+      "publicationDate": "2022-09-06",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications",
+      "arxiv_id": "2209.00796",
+      "doi": "10.1145/3626235",
+      "publicationDate": "2022-09-02",
+      "year": 2022
+    },
+    {
+      "title": "PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models – Federated Learning in Age of Foundation Model",
+      "arxiv_id": "2208.11625",
+      "doi": "10.1109/TMC.2023.3302410",
+      "publicationDate": "2022-08-24",
+      "year": 2022
+    },
+    {
+      "title": "Artificial Intelligence-Based Medical Data Mining",
+      "arxiv_id": null,
+      "doi": "10.3390/jpm12091359",
+      "publicationDate": "2022-08-24",
+      "year": 2022
+    },
+    {
+      "title": "Emergent Abilities of Large Language Models",
+      "arxiv_id": "2206.07682",
+      "doi": "10.48550/arXiv.2206.07682",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "Language Models are General-Purpose Interfaces",
+      "arxiv_id": "2206.06336",
+      "doi": "10.48550/arXiv.2206.06336",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "Deep Transfer Learning Across Cities for Mobile Traffic Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/tnet.2021.3136707",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "arxiv_id": "2205.14135",
+      "doi": "10.52202/068431-1189",
+      "publicationDate": "2022-05-27",
+      "year": 2022
+    },
+    {
+      "title": "GraphMAE: Self-Supervised Masked Graph Autoencoders",
+      "arxiv_id": "2205.10803",
+      "doi": "10.1145/3534678.3539321",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "A Generalist Agent",
+      "arxiv_id": "2205.06175",
+      "doi": "10.48550/arXiv.2205.06175",
+      "publicationDate": "2022-05-12",
+      "year": 2022
+    },
+    {
+      "title": "FLASH: Federated Learning for Automated Selection of High-band mmWave Sectors",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM48880.2022.9796865",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+      "arxiv_id": "2204.06125",
+      "doi": "10.48550/arXiv.2204.06125",
+      "publicationDate": "2022-04-13",
+      "year": 2022
+    },
+    {
+      "title": "Tools, Models and Dataset for IEEE 802.11ay CSI-based Sensing",
+      "arxiv_id": null,
+      "doi": "10.1109/WCNC51071.2022.9771569",
+      "publicationDate": "2022-04-10",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Graph Neural Networks for Wireless Communications: From Theory to Practice",
+      "arxiv_id": "2203.10800",
+      "doi": "10.1109/TWC.2022.3219840",
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "LiDAR Aided Future Beam Prediction in Real-World Millimeter Wave V2I Communications",
+      "arxiv_id": "2203.05548",
+      "doi": "10.1109/LWC.2022.3219409",
+      "publicationDate": "2022-03-10",
+      "year": 2022
+    },
+    {
+      "title": "Computer Vision Aided Blockage Prediction in Real-World Millimeter Wave Deployments",
+      "arxiv_id": "2203.01907",
+      "doi": "10.1109/GCWkshps56602.2022.10008524",
+      "publicationDate": "2022-03-03",
+      "year": 2022
+    },
+    {
+      "title": "Pre-Trained Language Models for Interactive Decision-Making",
+      "arxiv_id": "2202.01771",
+      "doi": "10.52202/068431-2262",
+      "publicationDate": "2022-02-03",
+      "year": 2022
+    },
+    {
+      "title": "GEMEL: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge",
+      "arxiv_id": "2201.07705",
+      "doi": null,
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "Deep Learning on Multimodal Sensor Data at the Wireless Edge for Vehicular Network",
+      "arxiv_id": "2201.04712",
+      "doi": "10.1109/TVT.2022.3170733",
+      "publicationDate": "2022-01-12",
+      "year": 2022
+    },
+    {
+      "title": "Profit-Aware Edge Server Placement",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2021.3082898",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+      "arxiv_id": "2112.10752",
+      "doi": "10.1109/CVPR52688.2022.01042",
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP",
+      "arxiv_id": "2112.10508",
+      "doi": null,
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "Radio Link Failure Prediction in 5G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685587",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling",
+      "arxiv_id": "2111.14819",
+      "doi": "10.1109/CVPR52688.2022.01871",
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "Computer Vision Aided Beam Tracking in A Real-World Millimeter Wave Deployment",
+      "arxiv_id": "2111.14803",
+      "doi": "10.1109/GCWkshps56602.2022.10008648",
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "Towards artificial general intelligence via a multimodal foundation model",
+      "arxiv_id": "2110.14378",
+      "doi": "10.1038/s41467-022-30761-2",
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "Fast Model Editing at Scale",
+      "arxiv_id": "2110.11309",
+      "doi": null,
+      "publicationDate": "2021-10-21",
+      "year": 2021
+    },
+    {
+      "title": "UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning",
+      "arxiv_id": "2110.07577",
+      "doi": "10.18653/v1/2022.acl-long.433",
+      "publicationDate": "2021-10-14",
+      "year": 2021
+    },
+    {
+      "title": "Pre-trained Language Models in Biomedical Domain: A Systematic Survey",
+      "arxiv_id": "2110.05006",
+      "doi": "10.1145/3611651",
+      "publicationDate": "2021-10-11",
+      "year": 2021
+    },
+    {
+      "title": "Towards a Unified View of Parameter-Efficient Transfer Learning",
+      "arxiv_id": "2110.04366",
+      "doi": null,
+      "publicationDate": "2021-10-08",
+      "year": 2021
+    },
+    {
+      "title": "Large-scale real-world radio signal recognition with deep learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cja.2021.08.016",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Robust Transmit Power Control With Imperfect CSI Using a Deep Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1109/TVT.2021.3113051",
+      "publicationDate": "2021-09-16",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Domain Adaptation of Language Models via Adaptive Tokenization",
+      "arxiv_id": "2109.07460",
+      "doi": "10.18653/v1/2021.sustainlp-1.16",
+      "publicationDate": "2021-09-15",
+      "year": 2021
+    },
+    {
+      "title": "Vision-Aided Beam Tracking: Explore the Proper Use of Camera Images with Deep Learning",
+      "arxiv_id": "2109.14686",
+      "doi": "10.1109/VTC2021-Fall52928.2021.9625195",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "UTMobileNetTraffic2021: A Labeled Public Network Traffic Dataset",
+      "arxiv_id": null,
+      "doi": "10.1109/LNET.2021.3098455",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Generative Adversarial Networks",
+      "arxiv_id": "2203.00667",
+      "doi": "10.1109/ICCCNT56998.2023.10306417",
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic",
+      "arxiv_id": "2108.08307",
+      "doi": "10.1145/3459637.3482152",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "On the Opportunities and Risks of Foundation Models",
+      "arxiv_id": "2108.07258",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "An Overview on the Application of Graph Neural Networks in Wireless Networks",
+      "arxiv_id": "2107.03029",
+      "doi": "10.1109/ojcoms.2021.3128637",
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Monash Time Series Forecasting Archive",
+      "arxiv_id": "2105.06643",
+      "doi": null,
+      "publicationDate": "2021-05-14",
+      "year": 2021
+    },
+    {
+      "title": "Realtime Mobile Bandwidth and Handoff Predictions in 4G/5G Networks",
+      "arxiv_id": "2104.12959",
+      "doi": "10.1016/j.comnet.2021.108736",
+      "publicationDate": "2021-04-27",
+      "year": 2021
+    },
+    {
+      "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+      "arxiv_id": "2104.08691",
+      "doi": "10.18653/v1/2021.emnlp-main.243",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "Edge Server Quantification and Placement for Offloading Social Media Services in Industrial Cognitive IoV",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2020.2987994",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "E-GraphSAGE: A Graph Neural Network based Intrusion Detection System for IoT",
+      "arxiv_id": "2103.16329",
+      "doi": "10.1109/NOMS54207.2022.9789878",
+      "publicationDate": "2021-03-30",
+      "year": 2021
+    },
+    {
+      "title": "CvT: Introducing Convolutions to Vision Transformers",
+      "arxiv_id": "2103.15808",
+      "doi": "10.1109/ICCV48922.2021.00009",
+      "publicationDate": "2021-03-29",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Quantization Methods for Efficient Neural Network Inference",
+      "arxiv_id": "2103.13630",
+      "doi": "10.1201/9781003162810-13",
+      "publicationDate": "2021-03-25",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Zero-Shot Text-to-Image Generation",
+      "arxiv_id": "2102.12092",
+      "doi": null,
+      "publicationDate": "2021-02-24",
+      "year": 2021
+    },
+    {
+      "title": "Vision-Aided 6G Wireless Communications: Blockage Prediction and Proactive Handoff",
+      "arxiv_id": "2102.09527",
+      "doi": "10.1109/TVT.2021.3104219",
+      "publicationDate": "2021-02-18",
+      "year": 2021
+    },
+    {
+      "title": "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning",
+      "arxiv_id": "2101.05265",
+      "doi": null,
+      "publicationDate": "2021-01-13",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Contrastive Self-supervised Learning",
+      "arxiv_id": "2011.00362",
+      "doi": "10.3390/technologies9010002",
+      "publicationDate": "2020-10-31",
+      "year": 2020
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Using vision-based object detection for link quality prediction in 5.6-GHz channel",
+      "arxiv_id": null,
+      "doi": "10.1186/s13638-020-01829-8",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "Rethinking Attention with Performers",
+      "arxiv_id": "2009.14794",
+      "doi": null,
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+      "arxiv_id": "2006.16236",
+      "doi": null,
+      "publicationDate": "2020-06-29",
+      "year": 2020
+    },
+    {
+      "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments",
+      "arxiv_id": "2006.09882",
+      "doi": null,
+      "publicationDate": "2020-06-17",
+      "year": 2020
+    },
+    {
+      "title": "A graph neural network method for distributed anomaly detection in IoT",
+      "arxiv_id": null,
+      "doi": "10.1007/s12530-020-09347-0",
+      "publicationDate": "2020-06-15",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Graph Transformer",
+      "arxiv_id": "2003.01332",
+      "doi": "10.1145/3366423.3380027",
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for RF Fingerprinting: A Massive Experimental Study",
+      "arxiv_id": null,
+      "doi": "10.1109/IOTM.0001.1900065",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Online Data-Driven Proactive 5G Network Optimisation Using Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2975004",
+      "publicationDate": "2020-02-19",
+      "year": 2020
+    },
+    {
+      "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+      "arxiv_id": "2002.05709",
+      "doi": null,
+      "publicationDate": "2020-02-13",
+      "year": 2020
+    },
+    {
+      "title": "ViWi Vision-Aided mmWave Beam Tracking: Dataset, Task, and Baseline Solutions",
+      "arxiv_id": "2002.02445",
+      "doi": null,
+      "publicationDate": "2020-02-06",
+      "year": 2020
+    },
+    {
+      "title": "Scaling Laws for Neural Language Models",
+      "arxiv_id": "2001.08361",
+      "doi": null,
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "Channel State Information Prediction for 5G Wireless Communications: A Deep Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2018.2848960",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for 3D Point Clouds: A Survey",
+      "arxiv_id": "1912.12033",
+      "doi": "10.1109/TPAMI.2020.3005434",
+      "publicationDate": "2019-12-27",
+      "year": 2019
+    },
+    {
+      "title": "Millimeter Wave Base Stations with Cameras: Vision-Aided Beam and Blockage Prediction",
+      "arxiv_id": "1911.06255",
+      "doi": "10.1109/VTC2020-Spring48590.2020.9129369",
+      "publicationDate": "2019-11-14",
+      "year": 2019
+    },
+    {
+      "title": "Passive Radar at the Roadside Unit to Configure Millimeter Wave Vehicle-to-Infrastructure Links",
+      "arxiv_id": "1910.10817",
+      "doi": "10.1109/TVT.2020.3027636",
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "Machine Learning and Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.35940/ijitee.l3550.1081219",
+      "publicationDate": "2019-10-10",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6 GHz Channels",
+      "arxiv_id": "1910.02900",
+      "doi": "10.1109/TCOMM.2020.3003670",
+      "publicationDate": "2019-10-07",
+      "year": 2019
+    },
+    {
+      "title": "Language Models as Knowledge Bases?",
+      "arxiv_id": "1909.01066",
+      "doi": "10.18653/v1/D19-1250",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "A Graph Neural Network Approach for Scalable Wireless Power Control",
+      "arxiv_id": "1907.08487",
+      "doi": "10.1109/GCWkshps45667.2019.9024538",
+      "publicationDate": "2019-07-19",
+      "year": 2019
+    },
+    {
+      "title": "AI-Enabled Future Wireless Networks: Challenges, Opportunities, and Open Issues",
+      "arxiv_id": "2103.04536",
+      "doi": "10.1109/MVT.2019.2919236",
+      "publicationDate": "2019-07-10",
+      "year": 2019
+    },
+    {
+      "title": "Cellular Traffic Prediction and Classification: a comparative evaluation of LSTM and ARIMA",
+      "arxiv_id": "1906.00939",
+      "doi": "10.1007/978-3-030-33778-0_11",
+      "publicationDate": "2019-06-03",
+      "year": 2019
+    },
+    {
+      "title": "LIDAR Data for Deep Learning-Based mmWave Beam-Selection",
+      "arxiv_id": "1908.07488",
+      "doi": "10.1109/LWC.2019.2899571",
+      "publicationDate": "2019-02-14",
+      "year": 2019
+    },
+    {
+      "title": "Parameter-Efficient Transfer Learning for NLP",
+      "arxiv_id": "1902.00751",
+      "doi": null,
+      "publicationDate": "2019-02-02",
+      "year": 2019
+    },
+    {
+      "title": "Cross and Learn: Cross-Modal Self-Supervision",
+      "arxiv_id": "1811.03879",
+      "doi": "10.1007/978-3-030-12939-2_17",
+      "publicationDate": "2018-10-09",
+      "year": 2018
+    },
+    {
+      "title": "Hardware-Aware Machine Learning: Modeling and Optimization",
+      "arxiv_id": "1809.05476",
+      "doi": "10.1145/3240765.3243479",
+      "publicationDate": "2018-09-14",
+      "year": 2018
+    },
+    {
+      "title": "Channel Charting: Locating Users Within the Radio Environment Using Channel State Information",
+      "arxiv_id": "1807.05247",
+      "doi": "10.1109/ACCESS.2018.2866979",
+      "publicationDate": "2018-07-13",
+      "year": 2018
+    },
+    {
+      "title": "Representation Learning with Contrastive Predictive Coding",
+      "arxiv_id": "1807.03748",
+      "doi": null,
+      "publicationDate": "2018-07-10",
+      "year": 2018
+    },
+    {
+      "title": "Beyond throughput: a 4G LTE dataset with channel and context metrics",
+      "arxiv_id": null,
+      "doi": "10.1145/3204949.3208123",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Variational Autoencoders for Collaborative Filtering",
+      "arxiv_id": "1802.05814",
+      "doi": "10.1145/3178876.3186150",
+      "publicationDate": "2018-02-16",
+      "year": 2018
+    },
+    {
+      "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+      "arxiv_id": "1712.05877",
+      "doi": "10.1109/CVPR.2018.00286",
+      "publicationDate": "2017-12-15",
+      "year": 2017
+    },
+    {
+      "title": "Over-the-Air Deep Learning Based Radio Signal Classification",
+      "arxiv_id": "1712.04578",
+      "doi": "10.1109/JSTSP.2018.2797022",
+      "publicationDate": "2017-12-13",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "User-Centric Methodology for Objective Assessment of Service Quality in Established Wireless Mobile Communication Networks",
+      "arxiv_id": null,
+      "doi": "10.15866/IRECAP.V7I1.10475",
+      "publicationDate": "2017-02-28",
+      "year": 2017
+    },
+    {
+      "title": "An Overview on Data Representation Learning: From Traditional Feature Learning to Recent Deep Learning",
+      "arxiv_id": "1611.08331",
+      "doi": "10.1016/J.JFDS.2017.05.001",
+      "publicationDate": "2016-11-25",
+      "year": 2016
+    },
+    {
+      "title": "A multi-source dataset of urban life in the city of Milan and the Province of Trentino",
+      "arxiv_id": null,
+      "doi": "10.1038/sdata.2015.55",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "Analyzing and modeling spatio-temporal dependence of cellular traffic at city scale",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC.2015.7248881",
+      "publicationDate": "2015-06-08",
+      "year": 2015
+    },
+    {
+      "title": "A Survey on Transfer Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2009.191",
+      "publicationDate": "2010-10-01",
+      "year": 2010
+    },
+    {
+      "title": "Multimodal Wireless Networks: Communication and Surveillance on the Same Infrastructure",
+      "arxiv_id": null,
+      "doi": "10.1109/TIFS.2007.904944",
+      "publicationDate": "2007-09-01",
+      "year": 2007
+    },
+    {
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2501.12948",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "“Democratizing on-device generative ai with sub-10 billion parameter models,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2410.15322",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Evolution and Prospects of Foundation Models: From Large Language Models to Large Multimodal Models",
+      "arxiv_id": null,
+      "doi": "10.32604/cmc.2024.052618",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Decision Transformer for Wireless Communications: A New Paradigm of Resource Management",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2404.05199",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Data Reconstruction and Protection in Federated Learning for Fine-Tuning Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/tbdata.2024.3524105",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Lens: A Foundation Model for Network Traffic in Cybersecurity",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.03646",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ALYMPICS: Language Agents Meet Game Theory",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.03220",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Graph Foundation Models: A Survey and Beyond",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.11829",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.10508",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "RingMo: A Remote Sensing Foundation Model With Masked Image Modeling",
+      "arxiv_id": null,
+      "doi": "10.1109/TGRS.2022.3194732",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Lag-Llama: Towards Foundation Models for Time Series Forecasting",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.08278",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "G. Gerganov and Contributors",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "“What makes for good tok-enizers in vision transformer?”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "“Scal-able power control/beamforming in heterogeneous wireless networks with graph neural networks,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Beyond Throughput: The Next Generation a 5G Dataset with Channel and Context Metrics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Improving Language Understanding by Generative Pre-Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A Survey on Context Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2016.2614508",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "The Radio Frequency Spectrum + Machine Learning = A New Wave in Radio Technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Large Language Models: A Comprehensive Survey of its Applications, Challenges, Limitations, and Future Prospects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Learn from model beyond fine-tuning: A survey,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Foundation models: A new paradigm for artificial intelligence,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MLC Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“llama.cpp: Llm inference in pure c/c++,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "MULTI-MODAL DATA-ENHANCED FOUNDATION MODELS FOR PREDICTION AND CONTROL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Distributed llama,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“NVIDIA Isaac GR00T N1: An Open Foundation Model for Humanoid Robots,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "GPT-4o: The Cutting-Edge Advancement in Multimodal LLM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "license agreement with IEEE. Restrictions apply",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“6g-path wp1 dataset uc-cities-1 experimental ran traffic it,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“PS-002 WALDO,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Gemini: A family of highly capable multimodal models,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "EXO: Run Your Own AI Cluster at Home With Everyday Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

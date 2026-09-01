@@ -1,0 +1,975 @@
+{
+  "candidate": {
+    "topic": "A Survey on AI for 6G",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": "2604.02370",
+      "doi": null,
+      "title": "A Survey on AI for 6G: Challenges and Opportunities",
+      "published": "2026-03-30"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: arXiv cs.NI 2026"
+  },
+  "extracted_at": "2026-09-01T05:26:46+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 134,
+    "arxiv_resolvable": 32,
+    "doi_only": 53,
+    "unresolved": 49
+  },
+  "gt_s2": {
+    "paperId": "34caa64fa76d04710dc31ebfc5fb98f34d9121d1",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2604-02370",
+      "ArXiv": "2604.02370",
+      "DOI": "10.1109/OJCOMS.2026.3677293",
+      "CorpusId": 286818605
+    },
+    "title": "A Survey on AI for 6G: Challenges and Opportunities",
+    "venue": "IEEE Open Journal of the Communications Society",
+    "year": 2026,
+    "referenceCount": 134,
+    "publicationDate": "2026-03-30"
+  },
+  "refs": [
+    {
+      "title": "Towards Native AI in 6G Standardization: The Roadmap of Semantic Communication",
+      "arxiv_id": "2509.12758",
+      "doi": "10.48550/arXiv.2509.12758",
+      "publicationDate": "2025-09-16",
+      "year": 2025
+    },
+    {
+      "title": "Empowering AI-Native 6G Wireless Networks with Quantum Federated Learning",
+      "arxiv_id": "2509.10559",
+      "doi": "10.48550/arXiv.2509.10559",
+      "publicationDate": "2025-09-09",
+      "year": 2025
+    },
+    {
+      "title": "Towards AI-Driven RANs for 6G and Beyond: Architectural Advancements and Future Horizons",
+      "arxiv_id": "2506.16070",
+      "doi": null,
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "6G Wireless Communications and Artificial Intelligence-Controlled Reconfigurable Intelligent Surfaces: From Supervised to Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.3390/app15063252",
+      "publicationDate": "2025-03-17",
+      "year": 2025
+    },
+    {
+      "title": "AI-driven 6G Air Interface: Technical Usage Scenarios and Balanced Design Methodology",
+      "arxiv_id": "2503.12308",
+      "doi": null,
+      "publicationDate": "2025-03-16",
+      "year": 2025
+    },
+    {
+      "title": "Evolving Towards Artificial-Intelligence-Driven Sixth-Generation Mobile Networks: An End-to-End Framework, Key Technologies, and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.3390/app15062920",
+      "publicationDate": "2025-03-07",
+      "year": 2025
+    },
+    {
+      "title": "Collaborative Deep Reinforcement Learning in 6G Integrated Satellite-Terrestrial Networks: Paradigm, Solutions, and Trends",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.002.2300721",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Overview of AI and communication for 6G network: fundamentals, challenges, and future research opportunities",
+      "arxiv_id": "2412.14538",
+      "doi": "10.1007/s11432-024-4337-1",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "AI-Enhanced Digital Twin Framework for Cyber-Resilient 6G Internet of Vehicles Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2024.3455089",
+      "publicationDate": "2024-11-15",
+      "year": 2024
+    },
+    {
+      "title": "Federated Learning With Privacy-Preserving Incentives for Aerial Computing Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSE.2023.3333887",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "AI-Enabled 6G Internet of Things: Opportunities, Key Technologies, Challenges, and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.3390/telecom5030041",
+      "publicationDate": "2024-08-16",
+      "year": 2024
+    },
+    {
+      "title": "Blockchain and AI for Collaborative Intrusion Detection in 6G-enabled IoT Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/HPSR62440.2024.10635989",
+      "publicationDate": "2024-07-22",
+      "year": 2024
+    },
+    {
+      "title": "Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation",
+      "arxiv_id": "2407.10186",
+      "doi": "10.1109/OJCOMS.2024.3466225",
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "Reinforcement Learning Based Resource Management for 6G-Enabled mIoT With Hypergraph Interference Model",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOMM.2024.3372892",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "AI-Empowered Multiple Access for 6G: A Survey of Spectrum Sensing, Protocol Designs, and Optimizations",
+      "arxiv_id": "2406.13335",
+      "doi": "10.1109/JPROC.2024.3417332",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Towards Trustworthy Reinforcement Learning-based Resource Management in Beyond 5G",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit60053.2024.10597001",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Explainable and Robust Artificial Intelligence for Trustworthy Resource Management in 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2300172",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "6G Networks and the AI Revolution—Exploring Technologies, Applications, and Emerging Challenges",
+      "arxiv_id": null,
+      "doi": "10.3390/s24061888",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence",
+      "arxiv_id": "2402.18587",
+      "doi": "10.1109/OJCOMS.2024.3362271",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "AI-Assisted Edge Computing for Multi-Tenant Management of Edge Devices in 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/6GNet58894.2023.10317735",
+      "publicationDate": "2023-10-18",
+      "year": 2023
+    },
+    {
+      "title": "Advancing Federated Learning in 6G: A Trusted Architecture with Graph-Based Analysis",
+      "arxiv_id": "2309.05525",
+      "doi": "10.1109/GLOBECOM54140.2023.10436772",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Toward Bridging the FL Performance-Explainability Tradeoff: A Trustworthy 6G RAN Slicing Use-Case",
+      "arxiv_id": "2307.12903",
+      "doi": "10.1109/TVT.2024.3364363",
+      "publicationDate": "2023-07-24",
+      "year": 2023
+    },
+    {
+      "title": "Quality of Things' Experience for 6G Artificial Intelligent Internet of Things with IEEE P2668",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2200498",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "AI System Security and Privacy Risks in Sixth-Generation (6G) Mobile Cloud Using High-Performance Computing Implementation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICACITE57410.2023.10183326",
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning for 6G Enhanced Ultra-Reliable and Low-Latency Services",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.006.2200407",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Generative AI for Cyber Threat-Hunting in 6G-enabled IoT Networks",
+      "arxiv_id": "2303.11751",
+      "doi": "10.1109/CCGridW59191.2023.00018",
+      "publicationDate": "2023-03-21",
+      "year": 2023
+    },
+    {
+      "title": "AI-Enabled Network-Functions Virtualization and Software-Defined Architectures for Customized Statistical QoS Over 6G Massive MIMO Mobile Wireless Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.005.2200408",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Optimization Design for Federated Learning in Heterogeneous 6G Networks",
+      "arxiv_id": "2303.08322",
+      "doi": "10.1109/MNET.006.2200437",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "New areas and problems for 6G network security and privacy",
+      "arxiv_id": null,
+      "doi": "10.1109/AISC56616.2023.10085595",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning for Large-Scale Optimization in 6G Wireless Networks",
+      "arxiv_id": "2301.03377",
+      "doi": "10.1109/COMST.2023.3300664",
+      "publicationDate": "2023-01-03",
+      "year": 2023
+    },
+    {
+      "title": "AI in 6G: Energy-Efficient Distributed Machine Learning for Multilayer Heterogeneous Networks",
+      "arxiv_id": "2207.00415",
+      "doi": "10.1109/MNET.104.2100422",
+      "publicationDate": "2022-06-04",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks",
+      "arxiv_id": "2205.05036",
+      "doi": "10.1109/TWC.2022.3207918",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "AI-empowered Secure Data Communication in V2X Environment with 6G Network",
+      "arxiv_id": null,
+      "doi": "10.1109/infocomwkshps54753.2022.9797928",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Deep Learning-Aided 6G Wireless Networks: A Comprehensive Survey of Revolutionary PHY Architectures",
+      "arxiv_id": "2201.03866",
+      "doi": "10.1109/OJCOMS.2022.3210648",
+      "publicationDate": "2022-01-11",
+      "year": 2022
+    },
+    {
+      "title": "Liquid Software-Based Edge Intelligence for Future 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.011.2000654",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Reinforcement Learning Based Big Data Resource Management for 5G/6G Communications",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM46510.2021.9685098",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Integrated Sensing and Communications: Toward Dual-Functional Wireless Networks for 6G and Beyond",
+      "arxiv_id": "2108.07165",
+      "doi": "10.1109/jsac.2022.3156632",
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "6G Security Challenges and Potential Solutions",
+      "arxiv_id": null,
+      "doi": "10.1109/EuCNC/6GSummit51104.2021.9482609",
+      "publicationDate": "2021-06-08",
+      "year": 2021
+    },
+    {
+      "title": "Joint Coding and Scheduling Optimization for Distributed Learning over Wireless Edge Networks",
+      "arxiv_id": "2103.04303",
+      "doi": "10.1109/jsac.2021.3118432",
+      "publicationDate": "2021-03-07",
+      "year": 2021
+    },
+    {
+      "title": "Machine Learning for 6G Wireless Networks: Carrying Forward Enhanced Bandwidth, Massive Access, and Ultrareliable/Low-Latency Service",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2020.3019650",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Toward Self-Learning Edge Intelligence in 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.001.2000388",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Towards artificial intelligence enabled 6G: State of the art, challenges, and opportunities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2020.107556",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Ten Challenges in Advancing Machine Learning Technologies toward 6G",
+      "arxiv_id": null,
+      "doi": "10.1109/MWC.001.1900476",
+      "publicationDate": "2020-04-08",
+      "year": 2020
+    },
+    {
+      "title": "Toward the 6G Network Era: Opportunities and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/MITP.2019.2963491",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "6G Wireless Communication Systems: Applications, Requirements, Technologies, Challenges, and Research Directions",
+      "arxiv_id": "1909.11315",
+      "doi": "10.1109/ojcoms.2020.3010270",
+      "publicationDate": "2019-09-25",
+      "year": 2019
+    },
+    {
+      "title": "Federated Learning: Challenges, Methods, and Future Directions",
+      "arxiv_id": "1908.07873",
+      "doi": "10.1109/MSP.2020.2975749",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "6G Wireless Networks: Vision, Requirements, Architecture, and Key Technologies",
+      "arxiv_id": null,
+      "doi": "10.1109/MVT.2019.2921208",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "Wireless Communications and Applications Above 100 GHz: Opportunities and Challenges for 6G and Beyond",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2921522",
+      "publicationDate": "2019-06-06",
+      "year": 2019
+    },
+    {
+      "title": "What should 6G be?",
+      "arxiv_id": null,
+      "doi": "10.1038/s41928-019-0355-6",
+      "publicationDate": "2019-05-09",
+      "year": 2019
+    },
+    {
+      "title": "The Roadmap to 6G - AI Empowered Wireless Networks",
+      "arxiv_id": "1904.11686",
+      "doi": null,
+      "publicationDate": "2019-04-26",
+      "year": 2019
+    },
+    {
+      "title": "A Vision of 6G Wireless Systems: Applications, Trends, Technologies, and Open Research Problems",
+      "arxiv_id": "1902.10265",
+      "doi": "10.1109/MNET.001.1900287",
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2870052",
+      "publicationDate": "2018-09-17",
+      "year": 2018
+    },
+    {
+      "title": "On the effectiveness of machine and deep learning for cyber security",
+      "arxiv_id": null,
+      "doi": "10.23919/CYCON.2018.8405026",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "A blockchain-based PKI management framework",
+      "arxiv_id": null,
+      "doi": "10.1109/NOMS.2018.8406325",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "Wireless Access for Ultra-Reliable Low-Latency Communication: Principles and Building Blocks",
+      "arxiv_id": null,
+      "doi": "10.1109/MNET.2018.1700258",
+      "publicationDate": "2018-04-02",
+      "year": 2018
+    },
+    {
+      "title": "Hyperledger fabric: a distributed operating system for permissioned blockchains",
+      "arxiv_id": "1801.10228",
+      "doi": "10.1145/3190508.3190538",
+      "publicationDate": "2018-01-30",
+      "year": 2018
+    },
+    {
+      "title": "Quantum Computing in the NISQ era and beyond",
+      "arxiv_id": "1801.00862",
+      "doi": "10.22331/q-2018-08-06-79",
+      "publicationDate": "2018-01-02",
+      "year": 2018
+    },
+    {
+      "title": "Deep Learning for IoT Big Data and Streaming Analytics: A Survey",
+      "arxiv_id": "1712.04301",
+      "doi": "10.1109/COMST.2018.2844341",
+      "publicationDate": "2017-12-09",
+      "year": 2017
+    },
+    {
+      "title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3133956.3133982",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers",
+      "arxiv_id": "1708.09757",
+      "doi": "10.1088/2058-9565/aab859",
+      "publicationDate": "2017-08-31",
+      "year": 2017
+    },
+    {
+      "title": "Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-63688-7_12",
+      "publicationDate": "2017-08-20",
+      "year": 2017
+    },
+    {
+      "title": "Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation",
+      "arxiv_id": null,
+      "doi": "10.2139/SSRN.2903469",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "A Survey on Mobile Edge Computing: The Communication Perspective",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2017.2745201",
+      "publicationDate": "2017-01-04",
+      "year": 2017
+    },
+    {
+      "title": "Federated Optimization: Distributed Machine Learning for On-Device Intelligence",
+      "arxiv_id": "1610.02527",
+      "doi": null,
+      "publicationDate": "2016-10-08",
+      "year": 2016
+    },
+    {
+      "title": "Deep Learning with Differential Privacy",
+      "arxiv_id": "1607.00133",
+      "doi": "10.1145/2976749.2978318",
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "The Limitations of Deep Learning in Adversarial Settings",
+      "arxiv_id": "1511.07528",
+      "doi": "10.1109/EUROSP.2016.36",
+      "publicationDate": "2015-11-24",
+      "year": 2015
+    },
+    {
+      "title": "Privacy-preserving deep learning",
+      "arxiv_id": null,
+      "doi": "10.1145/2810103.2813687",
+      "publicationDate": "2015-09-01",
+      "year": 2015
+    },
+    {
+      "title": "Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2015.2444095",
+      "publicationDate": "2015-06-15",
+      "year": 2015
+    },
+    {
+      "title": "A Quantum Approximate Optimization Algorithm",
+      "arxiv_id": "1411.4028",
+      "doi": null,
+      "publicationDate": "2014-11-14",
+      "year": 2014
+    },
+    {
+      "title": "An introduction to quantum machine learning",
+      "arxiv_id": "1409.3097",
+      "doi": "10.1080/00107514.2014.964942",
+      "publicationDate": "2014-09-10",
+      "year": 2014
+    },
+    {
+      "title": "Internet of Things (IoT): A vision, architectural elements, and future directions",
+      "arxiv_id": "1207.0203",
+      "doi": "10.1016/j.future.2013.01.010",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "Efficient Fully Homomorphic Encryption from (Standard) LWE",
+      "arxiv_id": null,
+      "doi": "10.1109/FOCS.2011.12",
+      "publicationDate": "2011-10-22",
+      "year": 2011
+    },
+    {
+      "title": "Noncooperative Cellular Wireless with Unlimited Numbers of Base Station Antennas",
+      "arxiv_id": null,
+      "doi": "10.1109/TWC.2010.092810.091092",
+      "publicationDate": "2010-11-01",
+      "year": 2010
+    },
+    {
+      "title": "Algorithms for quantum computation: discrete logarithms and factoring",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1994.365700",
+      "publicationDate": "1994-11-20",
+      "year": 1994
+    },
+    {
+      "title": "Advancing 6G: Survey for Explainable AI on Communications and Network Slicing",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2025.3534626",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Federated Learning for 6G Networks: Navigating Privacy Benefits and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3513832",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Explainable AI for 6G Use Cases: Technical Aspects and Research Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3386872",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Intelligence-Endogenous Network: Architecture and Technologies for Future 6G",
+      "arxiv_id": null,
+      "doi": "10.23919/icn.2024.0005",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advancing 6G Network Performance: AI/ML Framework for Proactive Management and Dynamic Optimal Routing",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCS.2024.3398540",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advanced Deep Learning Models for 6G: Overview, Opportunities, and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3418900",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AI-RAN in 6G Networks: State-of-the-Art and Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2023.3343069",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Machine Learning Empowered Emerging Wireless Networks in 6G: Recent Advancements, Challenges and Future Trends",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3302250",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Real-Time Clustering Based on Deep Embeddings for Threat Detection in 6G Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3325721",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘AI-enhanced terahertz channel modeling and propagation,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘Neural network based beamforming optimization in 6G mmWave and terahertz networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘AI-augmented beam training in millimeter-wave and terahertz bands for 6G,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘Graph neural networks for resource allocation in 6G wireless systems,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘AI-driven spectrum management for 6G networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "‘‘Learning-assisted resource allocation for 6G networks: A deep reinforcement learning framework,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Secure multi-party computations for privacy-preserving machine learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2022.11.100",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Autoencoder-based channel estimation for terahertz communications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Energy-efficient 6G network planning via reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Terahertz communications for 6G: Challenges, requirements, and technologies,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Security and privacy in AI-assisted 6G: Threats, opportunities, and future directions,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Deep learning based multicast scheduling in 6G cellular networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘AI-enabled multi-access edge computing for 6G: Architecture and performance trade-offs,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "‘‘Machine learning-enabled intelligent 6G networking: A survey,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "‘‘Edge AI in 6G: A survey on communication, computing, and learning,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "‘‘AI-enabled SDN and NFV for 6G: A comprehensive survey,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "‘‘Efficient deep reinforcement learning for secure and trustworthy service in 6G,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "‘‘AI-based joint sensing, communication, and control for 6G: From theory to practice,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Ai -native air interface toward 6g: Design and challenges,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "‘‘Heteroge-neous networks with wireless backhaul: A deep reinforcement learning approach,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "‘‘Toward efficient and scalable neural network inference in 6G networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "‘‘Joint communication, sensing, and computing in 6G: A catalyst for signal processing in converged domains,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "‘‘AI-based resource allocation in future wireless networks: A survey,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Blockchain for AI: Review and Open Research Challenges",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2890507",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "‘‘The application of artificial intelligence in spectrum management and the analytics of frequency data using big data technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "‘‘AI-assisted health-aware resource allocation in 6G networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "FPGAs and high-speed memory enabling flexible software-defined operation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "‘‘Task offloading and resource allocation in 6G-enabled edge intelligence networks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Low-complexity hardware architectures and lightweight algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "electrical and computer engineering from National Technical University of Athens, M.Sc. degree in",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "intelligent AI-driven intrusion detection, anomaly detection, and adversarial ML techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“SNS Pub - lications Portal.”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Collaborative and decentralized learning reducing data transmission and computation overhead",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Open Access publication of this article",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Experiential networked intelligence (eni); system architec - ture,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AI-assisted beamforming, adaptive antennas, and RIS-enabled hardware",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Patras,Greece,in2023.ShewasaTeachingAssistantwiththeNational andKapodistrianUniversityofAthensandworksasaPrivateTutorandafreelancerinAthens,Greece",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Programmable SDN/NFV-capable hardware enabling AI-driven control",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Joint hardware – software co-design optimized for AI workloads",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "engineering,6Gnetworks,wirelesscommunication,artificialintelligence,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AI-enabled security approaches replacing static detection with adaptive learning-based defense",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AI-assisted analysis of biological data and exposure modeling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Distributed server infrastructures with energy-efficient processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Framework and Overall Objectives of the Future Development of IMT for 2030 and Beyond",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Blockchain, DLTs, SMPC, FL, and differential privacy for secure decentralized AI operation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Distributed learning for scalable 6g network control,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "‘‘Intelligent surfaces empowered 6G: A deep learning approach for channel state estimation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SURVEY ON AI FOR 6G: CHALLENGES AND OPPORTUNITIES",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "‘‘AI-basedjointcarrieraggregationandschedulingforultra-dense6Gnetworks,’’",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Study on Artificial Intelligence and Machine Learning for the Radio Access Network",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

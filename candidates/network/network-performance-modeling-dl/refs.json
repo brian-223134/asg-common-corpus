@@ -1,0 +1,1003 @@
+{
+  "candidate": {
+    "topic": "From Simulation to Deep Learning",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": "2603.28394",
+      "doi": null,
+      "title": "From Simulation to Deep Learning: Survey on Network Performance Modeling Approaches",
+      "published": "2026-03-30"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: arXiv cs.NI 2026"
+  },
+  "extracted_at": "2026-09-01T05:49:37+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 138,
+    "arxiv_resolvable": 21,
+    "doi_only": 108,
+    "unresolved": 9
+  },
+  "gt_s2": {
+    "paperId": "585dd5274d31d7baed98f856aa27588b4210f6fd",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2603-28394",
+      "ArXiv": "2603.28394",
+      "DOI": "10.1016/j.comnet.2026.112253",
+      "CorpusId": 286842944
+    },
+    "title": "From simulation to deep learning: Survey on network performance modeling approaches",
+    "venue": "Comput. Networks",
+    "year": 2026,
+    "referenceCount": 138,
+    "publicationDate": "2026-03-01"
+  },
+  "refs": [
+    {
+      "title": "SplitSim: Towards Practical Large-Scale Full-System Simulation for Systems Research",
+      "arxiv_id": null,
+      "doi": "10.1145/3768999",
+      "publicationDate": "2025-11-24",
+      "year": 2025
+    },
+    {
+      "title": "NSX: Large-Scale Network Simulation on an AI Server",
+      "arxiv_id": null,
+      "doi": "10.1145/3748273.3749199",
+      "publicationDate": "2025-09-08",
+      "year": 2025
+    },
+    {
+      "title": "Queue-Informed Neural Network Model for Estimating Queuing Delay in PON-Based Aggregation Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/NetSoft64993.2025.11080627",
+      "publicationDate": "2025-06-23",
+      "year": 2025
+    },
+    {
+      "title": "Quantitative delay analysis of GI/G/1 queues with heavy-tailed traffic by means of Alpha Theory",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2025.111394",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Real-time latency prediction for cloud gaming applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2025.111235",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "GNNetSlice: A GNN-based performance model to support network slicing in B5G networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2025.108044",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Delay estimation based on multiple stage message passing with attention mechanism using a real network communication dataset",
+      "arxiv_id": null,
+      "doi": "10.52953/rbne4256",
+      "publicationDate": "2024-12-10",
+      "year": 2024
+    },
+    {
+      "title": "Digital twin opportunities with leveraging graph neural networks on real network data",
+      "arxiv_id": null,
+      "doi": "10.52953/zoem2142",
+      "publicationDate": "2024-12-10",
+      "year": 2024
+    },
+    {
+      "title": "Wavelet-Enhanced Graph Neural Networks: Towards Non-Parametric Network Traffic Modeling",
+      "arxiv_id": null,
+      "doi": "10.1145/3694811.3697823",
+      "publicationDate": "2024-12-09",
+      "year": 2024
+    },
+    {
+      "title": "Sim2HW: Modeling Latency Offset Between Network Simulations and Hardware Measurements",
+      "arxiv_id": null,
+      "doi": "10.1145/3694811.3697820",
+      "publicationDate": "2024-12-09",
+      "year": 2024
+    },
+    {
+      "title": "m3: Accurate Flow-Level Performance Estimation using Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3651890.3672243",
+      "publicationDate": "2024-08-04",
+      "year": 2024
+    },
+    {
+      "title": "Meta Learner-Based Transfer Learning: Bridging Simulation and Actual Router Metrics",
+      "arxiv_id": null,
+      "doi": "10.1109/HPSR62440.2024.10635943",
+      "publicationDate": "2024-07-22",
+      "year": 2024
+    },
+    {
+      "title": "Generation of a network slicing dataset: The foundations for AI-based B5G resource management",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dib.2024.110738",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "FlowSeer: A Novel Framework for Generalized Network Performance Estimation at Flow Level",
+      "arxiv_id": null,
+      "doi": "10.1109/CSCWD61410.2024.10580262",
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "Unison: A Parallel-Efficient and User-Transparent Network Simulation Kernel",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3629574",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "xNet: Modeling Network Performance With Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2023.3329357",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Performance Evaluation of Graph Neural Network-Based RouteNet Model with Attention Mechanism",
+      "arxiv_id": null,
+      "doi": "10.3390/fi16040116",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "Predicting Latency Quantiles using Network Calculus-assisted GNNs",
+      "arxiv_id": null,
+      "doi": "10.1145/3630049.3630173",
+      "publicationDate": "2023-12-05",
+      "year": 2023
+    },
+    {
+      "title": "Solving Max-Min Fair Resource Allocations Quickly on Large Graphs",
+      "arxiv_id": "2310.09699",
+      "doi": "10.48550/arXiv.2310.09699",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization",
+      "arxiv_id": null,
+      "doi": "10.1145/3603269.3604844",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "EAGLE: Heterogeneous GNN-based Network Performance Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/IWQoS57198.2023.10188804",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Machine Learning for Large-Scale Optimization in 6G Wireless Networks",
+      "arxiv_id": "2301.03377",
+      "doi": "10.1109/COMST.2023.3300664",
+      "publicationDate": "2023-01-03",
+      "year": 2023
+    },
+    {
+      "title": "RouteNet-Fermi: Network Modeling With Graph Neural Networks",
+      "arxiv_id": "2212.12070",
+      "doi": "10.1109/TNET.2023.3269983",
+      "publicationDate": "2022-12-22",
+      "year": 2022
+    },
+    {
+      "title": "Modeling TCP performance using graph neural networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3565473.3569190",
+      "publicationDate": "2022-12-06",
+      "year": 2022
+    },
+    {
+      "title": "Explainable AI (XAI): Core Ideas, Techniques, and Solutions",
+      "arxiv_id": null,
+      "doi": "10.1145/3561048",
+      "publicationDate": "2022-09-04",
+      "year": 2022
+    },
+    {
+      "title": "DeepQueueNet: towards scalable and generalized network performance estimation with packet-level visibility",
+      "arxiv_id": null,
+      "doi": "10.1145/3544216.3544248",
+      "publicationDate": "2022-08-22",
+      "year": 2022
+    },
+    {
+      "title": "QT-Routenet: Improved GNN generalization to larger 5G networks by fine-tuning predictions from queueing theory",
+      "arxiv_id": "2207.06336",
+      "doi": "10.52953/FBRB3688",
+      "publicationDate": "2022-07-13",
+      "year": 2022
+    },
+    {
+      "title": "A new hope for network model generalization",
+      "arxiv_id": "2207.05843",
+      "doi": "10.1145/3563766.3564104",
+      "publicationDate": "2022-07-12",
+      "year": 2022
+    },
+    {
+      "title": "HVNet: Hardware-Assisted Virtual Networking on a Single Physical Host",
+      "arxiv_id": null,
+      "doi": "10.1109/infocomwkshps54753.2022.9798351",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Exploring the Limitations of Current Graph Neural Networks for Network Modeling",
+      "arxiv_id": null,
+      "doi": "10.1109/NOMS54207.2022.9789708",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation",
+      "arxiv_id": "2202.13956",
+      "doi": "10.1109/INFOCOM48880.2022.9796944",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "Data-Driven Network Path Simulation with iBox",
+      "arxiv_id": null,
+      "doi": "10.1145/3508026",
+      "publicationDate": "2022-02-24",
+      "year": 2022
+    },
+    {
+      "title": "CausalSim: A Causal Framework for Unbiased Trace-Driven Simulation",
+      "arxiv_id": "2201.01811",
+      "doi": null,
+      "publicationDate": "2022-01-05",
+      "year": 2022
+    },
+    {
+      "title": "An Analysis of Cloud Gaming Platforms Behavior under Different Network Constraints",
+      "arxiv_id": null,
+      "doi": "10.23919/CNSM52442.2021.9615562",
+      "publicationDate": "2021-10-25",
+      "year": 2021
+    },
+    {
+      "title": "Toward formally verifying congestion control behavior",
+      "arxiv_id": null,
+      "doi": "10.1145/3452296.3472912",
+      "publicationDate": "2021-08-09",
+      "year": 2021
+    },
+    {
+      "title": "MimicNet: fast performance estimates for data center networks with machine learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3452296.3472926",
+      "publicationDate": "2021-08-09",
+      "year": 2021
+    },
+    {
+      "title": "The graph neural networking challenge",
+      "arxiv_id": "2107.12433",
+      "doi": "10.1145/3477482.3477485",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Graph-based Deep Learning for Communication Networks: A Survey",
+      "arxiv_id": "2106.02533",
+      "doi": "10.1016/j.comcom.2021.12.015",
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "SimBricks: end-to-end network system evaluation with modular simulation",
+      "arxiv_id": "2012.14219",
+      "doi": "10.1145/3544216.3544253",
+      "publicationDate": "2020-12-28",
+      "year": 2020
+    },
+    {
+      "title": "Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2020.3016838",
+      "publicationDate": "2020-08-26",
+      "year": 2020
+    },
+    {
+      "title": "Internet Traffic Volumes are Not Gaussian—They are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction",
+      "arxiv_id": "2007.10150",
+      "doi": "10.1109/TNET.2021.3059542",
+      "publicationDate": "2020-07-17",
+      "year": 2020
+    },
+    {
+      "title": "End-to-end Delay Prediction Based on Traffic Matrix Sampling",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOMWKSHPS50562.2020.9162765",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "On Estimating Communication Delays using Graph Convolutional Networks with Semi-Supervised Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICOIN48656.2020.9016603",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Towards more realistic network models based on Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3360468.3366773",
+      "publicationDate": "2019-12-09",
+      "year": 2019
+    },
+    {
+      "title": "On the Robustness of Deep Learning-predicted Contention Models for Network Calculus",
+      "arxiv_id": "1911.10522",
+      "doi": "10.1109/ISCC50000.2020.9219693",
+      "publicationDate": "2019-11-24",
+      "year": 2019
+    },
+    {
+      "title": "RouteNet: Leveraging Graph Neural Networks for Network Modeling and Optimization in SDN",
+      "arxiv_id": "1910.01508",
+      "doi": "10.1109/JSAC.2020.3000405",
+      "publicationDate": "2019-10-03",
+      "year": 2019
+    },
+    {
+      "title": "Challenging the generalization capabilities of Graph Neural Networks for network modeling",
+      "arxiv_id": null,
+      "doi": "10.1145/3342280.3342327",
+      "publicationDate": "2019-08-19",
+      "year": 2019
+    },
+    {
+      "title": "Learning in situ: a randomized experiment in video streaming",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-06-03",
+      "year": 2019
+    },
+    {
+      "title": "DeepComNet: Performance evaluation of network topologies using graph-based deep learning",
+      "arxiv_id": null,
+      "doi": "10.1016/J.PEVA.2018.12.003",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "DeepTMA: Predicting Effective Contention Models for Network Calculus using Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2019.8737496",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN",
+      "arxiv_id": "1901.08113",
+      "doi": "10.1145/3314148.3314357",
+      "publicationDate": "2019-01-23",
+      "year": 2019
+    },
+    {
+      "title": "Deep-Q: Traffic-driven QoS Inference using Deep Generative Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3229543.3229549",
+      "publicationDate": "2018-08-07",
+      "year": 2018
+    },
+    {
+      "title": "Understanding the Modeling of Computer Network Delays using Neural Networks",
+      "arxiv_id": "1807.08652",
+      "doi": "10.1145/3229607.3229613",
+      "publicationDate": "2018-07-23",
+      "year": 2018
+    },
+    {
+      "title": "Copa: Practical Delay-Based Congestion Control for the Internet",
+      "arxiv_id": null,
+      "doi": "10.1145/3232755.3232783",
+      "publicationDate": "2018-07-16",
+      "year": 2018
+    },
+    {
+      "title": "Pantheon: the training ground for Internet congestion-control research",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-07-11",
+      "year": 2018
+    },
+    {
+      "title": "Deep Learning for Intelligent Wireless Networks: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2018.2846401",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Neural Network Meets DCN",
+      "arxiv_id": null,
+      "doi": "10.1145/3224421",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Empirical Performance of Weibull Self-Similar Tele-traffic Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Quality and Cost of Deterministic Network Calculus",
+      "arxiv_id": null,
+      "doi": "10.1145/3084453",
+      "publicationDate": "2017-06-13",
+      "year": 2017
+    },
+    {
+      "title": "Inductive Representation Learning on Large Graphs",
+      "arxiv_id": "1706.02216",
+      "doi": null,
+      "publicationDate": "2017-06-07",
+      "year": 2017
+    },
+    {
+      "title": "Neural Message Passing for Quantum Chemistry",
+      "arxiv_id": "1704.01212",
+      "doi": null,
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "Modeling Relational Data with Graph Convolutional Networks",
+      "arxiv_id": "1703.06103",
+      "doi": "10.1007/978-3-319-93417-4_38",
+      "publicationDate": "2017-03-17",
+      "year": 2017
+    },
+    {
+      "title": "Achieving Efficiency without Sacrificing Model Accuracy: Network Calculus on Compact Domains",
+      "arxiv_id": null,
+      "doi": "10.1109/MASCOTS.2016.9",
+      "publicationDate": "2016-09-01",
+      "year": 2016
+    },
+    {
+      "title": "Gated Graph Sequence Neural Networks",
+      "arxiv_id": "1511.05493",
+      "doi": null,
+      "publicationDate": "2015-11-17",
+      "year": 2015
+    },
+    {
+      "title": "Congestion Control for Large-Scale RDMA Deployments",
+      "arxiv_id": null,
+      "doi": "10.1145/2785956.2787484",
+      "publicationDate": "2015-08-17",
+      "year": 2015
+    },
+    {
+      "title": "Inside the Social Network's (Datacenter) Network",
+      "arxiv_id": null,
+      "doi": "10.1145/2785956.2787472",
+      "publicationDate": "2015-08-17",
+      "year": 2015
+    },
+    {
+      "title": "Mahimahi: Accurate Record-and-Replay for HTTP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-08",
+      "year": 2015
+    },
+    {
+      "title": "A Guide to the Stochastic Network Calculus",
+      "arxiv_id": null,
+      "doi": "10.1109/COMST.2014.2337060",
+      "publicationDate": "2015-01-21",
+      "year": 2015
+    },
+    {
+      "title": "Answering: techniques and deployment experience",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2012.2230448",
+      "publicationDate": "2013-02-01",
+      "year": 2013
+    },
+    {
+      "title": "Network traffic from Anarchy Online: analysis, statistics and applications: a server-side traffic trace",
+      "arxiv_id": null,
+      "doi": "10.1145/2155555.2155571",
+      "publicationDate": "2012-02-22",
+      "year": 2012
+    },
+    {
+      "title": "An end-to-end stochastic network calculus with effective bandwidth and effective capacity",
+      "arxiv_id": "1110.5098",
+      "doi": "10.1016/j.comnet.2012.09.003",
+      "publicationDate": "2011-10-23",
+      "year": 2011
+    },
+    {
+      "title": "The Internet Topology Zoo",
+      "arxiv_id": null,
+      "doi": "10.1109/JSAC.2011.111002",
+      "publicationDate": "2011-09-26",
+      "year": 2011
+    },
+    {
+      "title": "Performance evaluation of integrated OTN/DWDM networks with single-stage multiplexing of optical channel data units",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTON.2011.5970940",
+      "publicationDate": "2011-06-26",
+      "year": 2011
+    },
+    {
+      "title": "The gem5 simulator",
+      "arxiv_id": null,
+      "doi": "10.1145/2024716.2024718",
+      "publicationDate": "2011-05-31",
+      "year": 2011
+    },
+    {
+      "title": "Quantitative system evaluation with Java modeling tools",
+      "arxiv_id": null,
+      "doi": "10.1145/1958746.1958813",
+      "publicationDate": "2011-03-14",
+      "year": 2011
+    },
+    {
+      "title": "Modeling and Tools for Network Simulation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12331-3",
+      "publicationDate": "2010-09-23",
+      "year": 2010
+    },
+    {
+      "title": "Data center TCP (DCTCP)",
+      "arxiv_id": null,
+      "doi": "10.1145/1851182.1851192",
+      "publicationDate": "2010-08-16",
+      "year": 2010
+    },
+    {
+      "title": "A Performance Modeling Scheme for Multistage Switch Networks With Phase-Type and Bursty Traffic",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2009.2036437",
+      "publicationDate": "2010-08-01",
+      "year": 2010
+    },
+    {
+      "title": "Searching for Tight Performance Bounds in Feed-Forward Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12104-3_18",
+      "publicationDate": "2010-03-15",
+      "year": 2010
+    },
+    {
+      "title": "On the Impact of TCP and Per-Flow Scheduling on Internet Performance",
+      "arxiv_id": "0908.2721",
+      "doi": "10.1109/INFCOM.2010.5461973",
+      "publicationDate": "2009-08-19",
+      "year": 2009
+    },
+    {
+      "title": "Survey of deterministic and stochastic service curve models in the network calculus",
+      "arxiv_id": null,
+      "doi": "10.1109/SURV.2010.020110.00019",
+      "publicationDate": "2009-06-17",
+      "year": 2009
+    },
+    {
+      "title": "Delay Bounds under Arbitrary Multiplexing: When Network Calculus Leaves You in the Lurch...",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM.2008.228",
+      "publicationDate": "2008-04-13",
+      "year": 2008
+    },
+    {
+      "title": "A Machine Learning Approach to TCP Throughput Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2009.2037812",
+      "publicationDate": "2007-06-12",
+      "year": 2007
+    },
+    {
+      "title": "Modeling Communication Networks With Hybrid Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2007.893090",
+      "publicationDate": "2007-06-01",
+      "year": 2007
+    },
+    {
+      "title": "A basic stochastic network calculus",
+      "arxiv_id": null,
+      "doi": "10.1145/1159913.1159929",
+      "publicationDate": "2006-08-11",
+      "year": 2006
+    },
+    {
+      "title": "On the predictability of large transfer TCP throughput",
+      "arxiv_id": null,
+      "doi": "10.1145/1080091.1080110",
+      "publicationDate": "2005-08-22",
+      "year": 2005
+    },
+    {
+      "title": "Jobshop-Like Queueing Systems",
+      "arxiv_id": null,
+      "doi": "10.1287/MNSC.1040.0268",
+      "publicationDate": "2004-12-01",
+      "year": 2004
+    },
+    {
+      "title": "Closed queueing network models of interacting long-lived TCP flows",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2004.826297",
+      "publicationDate": "2004-04-01",
+      "year": 2004
+    },
+    {
+      "title": "Using partial differential equations to model TCP mice and elephants in large IP networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2005.860102",
+      "publicationDate": "2004-03-07",
+      "year": 2004
+    },
+    {
+      "title": "On integrating fluid models with packet simulation",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2004.1354702",
+      "publicationDate": "2004-03-07",
+      "year": 2004
+    },
+    {
+      "title": "Flow level simulation of large IP networks",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2003.1209213",
+      "publicationDate": "2003-07-09",
+      "year": 2003
+    },
+    {
+      "title": "Fluid models and solutions for large-scale IP networks",
+      "arxiv_id": null,
+      "doi": "10.1145/781027.781039",
+      "publicationDate": "2003-06-11",
+      "year": 2003
+    },
+    {
+      "title": "A hybrid systems modeling framework for fast and accurate simulation of data communication networks",
+      "arxiv_id": null,
+      "doi": "10.1145/781027.781036",
+      "publicationDate": "2003-06-11",
+      "year": 2003
+    },
+    {
+      "title": "Simple Explanation of the No-Free-Lunch Theorem and Its Implications",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1021251113462",
+      "publicationDate": "2002-12-01",
+      "year": 2002
+    },
+    {
+      "title": "AIMD, fairness and fractal scaling of TCP traffic",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2002.1019264",
+      "publicationDate": "2002-11-07",
+      "year": 2002
+    },
+    {
+      "title": "Application of network calculus to general topologies using turn-prohibition",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2002.1019365",
+      "publicationDate": "2002-11-07",
+      "year": 2002
+    },
+    {
+      "title": "Difficulties in simulating the internet",
+      "arxiv_id": null,
+      "doi": "10.1109/90.944338",
+      "publicationDate": "2001-08-01",
+      "year": 2001
+    },
+    {
+      "title": "A detailed and accurate closed queueing network model of many interacting TCP flows",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.2001.916668",
+      "publicationDate": "2001-04-22",
+      "year": 2001
+    },
+    {
+      "title": "G-WiN - the Gbit/s infrastructure for the German scientific community",
+      "arxiv_id": null,
+      "doi": "10.1016/S1389-1286(00)00165-1",
+      "publicationDate": "2000-12-01",
+      "year": 2000
+    },
+    {
+      "title": "Delay Bounds in a Network with Aggregate Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-39939-9_1",
+      "publicationDate": "2000-09-25",
+      "year": 2000
+    },
+    {
+      "title": "Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED",
+      "arxiv_id": null,
+      "doi": "10.1145/347059.347421",
+      "publicationDate": "2000-08-28",
+      "year": 2000
+    },
+    {
+      "title": "Traffic Data Repository at the WIDE Project",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2000-06-18",
+      "year": 2000
+    },
+    {
+      "title": "Modeling TCP Reno performance: a simple model and its empirical validation",
+      "arxiv_id": null,
+      "doi": "10.1109/90.842137",
+      "publicationDate": "2000-04-01",
+      "year": 2000
+    },
+    {
+      "title": "Network simulations with OPNET",
+      "arxiv_id": null,
+      "doi": "10.1109/WSC.1999.823089",
+      "publicationDate": "1999-12-01",
+      "year": 1999
+    },
+    {
+      "title": "Comparison of TCP Reno and TCP Vegas: Efficiency and Fairness",
+      "arxiv_id": null,
+      "doi": "10.1016/S0166-5316(99)00037-1",
+      "publicationDate": "1999-08-01",
+      "year": 1999
+    },
+    {
+      "title": "A Sigma GIi/D/1/infinity queue with heterogeneous input/output slot times",
+      "arxiv_id": null,
+      "doi": "10.1016/S0140-3664(99)00079-1",
+      "publicationDate": "1999-07-01",
+      "year": 1999
+    },
+    {
+      "title": "Performance bonds for flow control protocols",
+      "arxiv_id": null,
+      "doi": "10.1109/90.779197",
+      "publicationDate": "1999-06-01",
+      "year": 1999
+    },
+    {
+      "title": "Rate control for communication networks: shadow prices, proportional fairness and stability",
+      "arxiv_id": null,
+      "doi": "10.1057/PALGRAVE.JORS.2600523",
+      "publicationDate": "1998-04-07",
+      "year": 1998
+    },
+    {
+      "title": "Why We Don't Know How To Simulate The Internet",
+      "arxiv_id": null,
+      "doi": "10.1145/268437.268737",
+      "publicationDate": "1997-12-01",
+      "year": 1997
+    },
+    {
+      "title": "Long Short-Term Memory",
+      "arxiv_id": null,
+      "doi": "10.1162/neco.1997.9.8.1735",
+      "publicationDate": "1997-11-01",
+      "year": 1997
+    },
+    {
+      "title": "The performance of TCP/IP for networks with high bandwidth-delay products and random loss",
+      "arxiv_id": null,
+      "doi": "10.1109/90.611099",
+      "publicationDate": "1997-06-01",
+      "year": 1997
+    },
+    {
+      "title": "D-BIND: an accurate traffic model for providing QoS guarantees to VBR traffic",
+      "arxiv_id": null,
+      "doi": "10.1109/90.588085",
+      "publicationDate": "1997-04-01",
+      "year": 1997
+    },
+    {
+      "title": "Stability, queue length, and delay of deterministic and stochastic queueing networks",
+      "arxiv_id": null,
+      "doi": "10.1109/9.284868",
+      "publicationDate": "1994-05-01",
+      "year": 1994
+    },
+    {
+      "title": "APPROXIMATIONS FOR THE GI/G/m QUEUE",
+      "arxiv_id": null,
+      "doi": "10.1111/j.1937-5956.1993.tb00094.x",
+      "publicationDate": "1993-06-01",
+      "year": 1993
+    },
+    {
+      "title": "Local Area Network Traffic Characteristics, with Implications for Broadband Network Congestion Management",
+      "arxiv_id": null,
+      "doi": "10.1109/49.103559",
+      "publicationDate": "1991-09-01",
+      "year": 1991
+    },
+    {
+      "title": "Fairness in network optimal flow control: optimality of product forms",
+      "arxiv_id": null,
+      "doi": "10.1109/26.87140",
+      "publicationDate": "1991-05-01",
+      "year": 1991
+    },
+    {
+      "title": "Parallel Discrete Event Simulation",
+      "arxiv_id": null,
+      "doi": "10.1145/76738.76741",
+      "publicationDate": "1989-10-01",
+      "year": 1989
+    },
+    {
+      "title": "REAL: A Network Simulator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1988-12-01",
+      "year": 1988
+    },
+    {
+      "title": "Computational algorithms for product form queueing networks",
+      "arxiv_id": null,
+      "doi": "10.1145/359015.359020",
+      "publicationDate": "1980-10-01",
+      "year": 1980
+    },
+    {
+      "title": "Mean-Value Analysis of Closed Multichain Queuing Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/322186.322195",
+      "publicationDate": "1980-04-01",
+      "year": 1980
+    },
+    {
+      "title": "Network Calculus",
+      "arxiv_id": null,
+      "doi": "10.1109/tr.1970.5216446",
+      "publicationDate": "1970-11-01",
+      "year": 1970
+    },
+    {
+      "title": "Meta Learner-Based Transfer Learning: Bridging Simulation and Actual Router Metrics",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2025.3564954",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Network Digital Twins: A Systematic Review",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3453034",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Formal Methods for Network Performance Analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "pd-gem5: Simulation Infrastructure for Parallel/Distributed Computer Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/LCA.2015.2438295",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Tight performance bounds in the worst-case analysis of feed-forward networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Synchronization methods in parallel and distributed discrete-event simulation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2012.08.003",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Perspectives on network calculus: no free lunch, but still good value",
+      "arxiv_id": null,
+      "doi": "10.1145/2377677.2377747",
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "OMNeT++",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12331-3_3",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "The ns-3 Network Simulator",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12331-3_2",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "IKR Simulation Library",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12331-3_4",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "The Graph Neural Network Model",
+      "arxiv_id": null,
+      "doi": "10.1109/TNN.2008.2005605",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Internet research needs better models",
+      "arxiv_id": null,
+      "doi": "10.1145/774763.774767",
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Parallel and distributed simulation systems",
+      "arxiv_id": null,
+      "doi": "10.1109/WSC.2001.977259",
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "A calculus for network delay, Part I: Network elements in isolation",
+      "arxiv_id": null,
+      "doi": "10.1109/18.61109",
+      "publicationDate": null,
+      "year": 1991
+    },
+    {
+      "title": "A calculus for network delay, Part II: Network analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/18.61110",
+      "publicationDate": null,
+      "year": 1991
+    },
+    {
+      "title": "Fat-trees: Universal networks for hardware-efficient supercomputing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1985
+    },
+    {
+      "title": "Queueing Models for Computer Communications System Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/TCOM.1977.1093702",
+      "publicationDate": null,
+      "year": 1977
+    }
+  ]
+}

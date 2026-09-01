@@ -1,0 +1,873 @@
+{
+  "candidate": {
+    "topic": "Bridging the gap",
+    "domain": "network",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1007/s44443-026-00522-y",
+      "title": "Bridging the gap: A comprehensive survey on AI-driven digital twin networks",
+      "published": "2026-02-03"
+    },
+    "notes": "7차: network 광역 재발굴 (AI×networking 교차). 출처: OpenAlex/COMST·TNSE 2026"
+  },
+  "extracted_at": "2026-09-01T05:27:04+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 121,
+    "arxiv_resolvable": 11,
+    "doi_only": 76,
+    "unresolved": 34
+  },
+  "gt_s2": {
+    "note": "s2-404"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.solener.2024.112942",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcomstd.0001.2000041",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3171465",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/bigdata62323.2024.10825899",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2506.22793",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1049/pbte109e_ch4",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3190508.3190538",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsen.2024.3440412",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2410.18002",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-00337-3",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/su17083560",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467078",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.03.052",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/computers14040124",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3565843",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.rcim.2024.102729",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.36227/techrxiv.171838975.53667263/v1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tgcn.2025.3574143",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/fi16110431",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2023.3314929",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.014.2300116",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3423400",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mwc.012.2100587",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comnet.2022.109329",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3526195",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2024.112174",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10845-022-01971-8",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ojcoms.2025.3535959",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2405.06507",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2504.04592",
+      "doi": "10.1109/tnsm.2026.3670040",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2023.107620",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.datak.2024.102304",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2019.2949954",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-11738-9",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmsy.2021.05.011",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2025.103179",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2024.3445177",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2023.3310089",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2020.2986024",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2200830",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/itsc.2018.8569938",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/app14198665",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icc.2018.8422442",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": "2504.09059",
+      "doi": "10.2139/ssrn.5214458",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2024.3490178",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2021.03.039",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cyswater.2016.7469060",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1802.02041",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2022.3208773",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s12243-021-00872-w",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/telecom6020035",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-02759-5",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": "2503.00331",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tmc.2024.3482985",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-58523-4_12",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2025.108219",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsc.2024.3382952",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-12331-3_2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "1811.04017",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/camad62243.2024.10942746",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.07.017",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/iacis61494.2024.10721892",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2024.102485",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3395123",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2025.3544694",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2019.01.014",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eng.2019.01.014",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2501.03001",
+      "doi": "10.1109/tmc.2025.3546507",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.icte.2025.01.002",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2961740",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s44443-025-00048-9",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2916648",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.4108/icst.simutools2008.3027",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tim.2025.3555673",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2400213",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1631/fitee.1900527",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcom.001.2400578",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2025.3628267",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/comst.2023.3297395",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": "2501.03824",
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.cma.2024.117075",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tvt.2024.3492183",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mnet.2024.3504520",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tccn.2025.3567096",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jsac.2023.3310046",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": "2401.01288",
+      "doi": "10.1109/mwc.015.2300603",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmapro.2023.07.061",
+      "publicationDate": null,
+      "year": 2023
+    }
+  ]
+}
