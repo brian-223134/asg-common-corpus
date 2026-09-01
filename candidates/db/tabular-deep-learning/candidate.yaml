@@ -1,0 +1,8 @@
+topic: A Survey on Tabular Data
+domain: db
+gt:
+  arxiv_id: null
+  doi: "10.1145/3807777"
+  title: "A Survey on Tabular Data: From Tree-based Methods to Tabular Deep Learning"
+  published: "2026-04-08"
+notes: "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"

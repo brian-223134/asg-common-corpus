@@ -1,0 +1,1030 @@
+{
+  "candidate": {
+    "topic": "Garbage Collection Techniques in Solid-State Drives (SSDs)",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3816041",
+      "title": "Garbage Collection Techniques in Solid-State Drives (SSDs)",
+      "published": "2026-06-24"
+    },
+    "notes": "3차: 정통 OS/분산/스토리지 (사용자 지적 — systems에 AI 과다 반영)"
+  },
+  "extracted_at": "2026-09-01T03:14:17+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 142,
+    "arxiv_resolvable": 8,
+    "doi_only": 99,
+    "unresolved": 35
+  },
+  "gt_s2": {
+    "paperId": "073b1b5be31045125df87d8b03ea1aaa34ac3dc0",
+    "externalIds": {
+      "DBLP": "journals/csur/SerajehhassaniGHLS26",
+      "DOI": "10.1145/3816041",
+      "CorpusId": 289127385
+    },
+    "title": "Garbage Collection Techniques in Solid-State Drives (SSDs)",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 142,
+    "publicationDate": "2026-06-08"
+  },
+  "refs": [
+    {
+      "title": "Simplicity as the Ultimate Principle: The Art of Garbage Collection Management in SSDs Inspired by Natural Data Behavior",
+      "arxiv_id": null,
+      "doi": "10.1145/3725219",
+      "publicationDate": "2025-03-19",
+      "year": 2025
+    },
+    {
+      "title": "A Survey on Flash-Memory Storage Systems: A Host-Side Perspective",
+      "arxiv_id": null,
+      "doi": "10.1145/3723167",
+      "publicationDate": "2025-03-17",
+      "year": 2025
+    },
+    {
+      "title": "Overlapping Aware Data Placement Optimizations for LSM Tree-Based Store on ZNS SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3721287",
+      "publicationDate": "2025-03-04",
+      "year": 2025
+    },
+    {
+      "title": "Garbage collection optimization with data separation for large data storage in deep learning applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.mejo.2025.106620",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "A survey of SSD simulators and emulators",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-025-07078-0",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs",
+      "arxiv_id": "2503.11665",
+      "doi": "10.1145/3689031.3696091",
+      "publicationDate": "2025-02-21",
+      "year": 2025
+    },
+    {
+      "title": "RDA: A Read-Request Driven Adaptive Allocation Scheme for Improving SSD Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2024.3435681",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Storage Abstractions for SSDs: The Past, Present, and Future",
+      "arxiv_id": null,
+      "doi": "10.1145/3708992",
+      "publicationDate": "2024-12-30",
+      "year": 2024
+    },
+    {
+      "title": "Towards A Unified Garbage Collection Strategy in ZNS Key-Value Store File Systems Using Same-Victim GC",
+      "arxiv_id": null,
+      "doi": "10.1109/MASCOTS64422.2024.10786550",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping",
+      "arxiv_id": null,
+      "doi": "10.1145/3689336",
+      "publicationDate": "2024-08-20",
+      "year": 2024
+    },
+    {
+      "title": "Highly VM-Scalable SSD in Cloud Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2023.3305573",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)",
+      "arxiv_id": "2310.19094",
+      "doi": "10.1109/CLUSTER52292.2023.00018",
+      "publicationDate": "2023-10-29",
+      "year": 2023
+    },
+    {
+      "title": "Is Garbage Collection Overhead Gone? Case study of F2FS on ZNS SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3599691.3603409",
+      "publicationDate": "2023-07-09",
+      "year": 2023
+    },
+    {
+      "title": "Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses",
+      "arxiv_id": "2305.07768",
+      "doi": "10.1145/3579371.3589071",
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "On-Demand Garbage Collection Algorithm with Prioritized Victim Blocks for SSDs",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics12092142",
+      "publicationDate": "2023-05-07",
+      "year": 2023
+    },
+    {
+      "title": "A survey on design and application of open-channel solid-state drives",
+      "arxiv_id": null,
+      "doi": "10.1631/FITEE.2200317",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "ReCA-FTL: Resource Contention Aware Flash Translation Layer",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS55553.2022.9925368",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "CATDOG: Cost-Age-Time Data Organized Garbage Collection",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS55553.2022.9925402",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Networked SSD: Flash Memory Interconnection Network for High-Bandwidth SSD",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO56248.2022.00038",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Optimal Bias Condition of Dummy WL for Sub-Block GIDL Erase Operation in 3D NAND Flash Memory",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics11172738",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "A Latency-Aware Garbage Collection Strategy",
+      "arxiv_id": null,
+      "doi": "10.1109/AEECA55500.2022.9919001",
+      "publicationDate": "2022-08-20",
+      "year": 2022
+    },
+    {
+      "title": "Lifetime-leveling LSM-tree compaction for ZNS SSD",
+      "arxiv_id": null,
+      "doi": "10.1145/3538643.3539741",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Lifespan-based garbage collection to improve SSD's reliability and performance",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2022.02.006",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Garbage Collection Algorithm for Low Latency SSD",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics11071084",
+      "publicationDate": "2022-03-30",
+      "year": 2022
+    },
+    {
+      "title": "Uniform scheduling of interruptible garbage collection and request IO to improve performance and wear-leveling of SSDs",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-021-04294-2",
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "A Supervised-Learning-Based Garbage Collection in Solid-State Drives (SSDs)",
+      "arxiv_id": null,
+      "doi": "10.1109/MITP.2021.3106173",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Constant Time Garbage Collection in SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/nas51552.2021.9605386",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3460433",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "Observation and Optimization on Garbage Collection of Flash Memories: The View in Performance Cliff",
+      "arxiv_id": null,
+      "doi": "10.3390/mi12070846",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Decoupled SSD: Reducing Data Movement on NAND-Based Flash SSD",
+      "arxiv_id": null,
+      "doi": "10.1109/lca.2021.3118688",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Performance Modeling and Practical Use Cases for Black-Box SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3440022",
+      "publicationDate": "2021-06-07",
+      "year": 2021
+    },
+    {
+      "title": "Caching-Aware Garbage Collection to Improve Performance and Lifetime for NAND Flash SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/TCE.2021.3067604",
+      "publicationDate": "2021-03-22",
+      "year": 2021
+    },
+    {
+      "title": "An Efficient Data Migration Scheme to Optimize Garbage Collection in SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2020.3001262",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Garbage Collection Algorithms in Flash-Based Solid State Drives",
+      "arxiv_id": null,
+      "doi": "10.35940/ijitee.k7819.1091220",
+      "publicationDate": "2020-10-10",
+      "year": 2020
+    },
+    {
+      "title": "SSW: A strictly sequential writing method for open-channel SSD",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2020.101828",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "DA-GC: A Dynamic Adjustment Garbage Collection Method Considering Wear-leveling for SSD",
+      "arxiv_id": null,
+      "doi": "10.1145/3386263.3406943",
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "Evanesco: Architectural Support for Efficient Data Sanitization in Modern Flash-Based Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3373376.3378490",
+      "publicationDate": "2020-03-09",
+      "year": 2020
+    },
+    {
+      "title": "Comparative Study of Wear-leveling in Solid-State Drive with NTFS File System",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData47090.2019.9006067",
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Indexing in flash storage devices: a survey on challenges, current approaches, and future trends",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-019-00559-8",
+      "publicationDate": "2019-08-03",
+      "year": 2019
+    },
+    {
+      "title": "TRIM, Wear Levelling and Garbage Collection on Solid State Drives: A Prediction Model for Forensic Investigators",
+      "arxiv_id": null,
+      "doi": "10.1109/TrustCom/BigDataSE.2019.00063",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Thermo-GC: Reducing Write Amplification by Tagging Migrated Pages during Garbage Collection",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS.2019.8834722",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Overcome the GC-Induced Performance Variability in SSD-Based RAIDs With Request Redirection",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2018.2834407",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "CARS: A Multi-layer Conflict-Aware Request Scheduler for NVMe SSDs",
+      "arxiv_id": null,
+      "doi": "10.23919/DATE.2019.8715070",
+      "publicationDate": "2019-03-25",
+      "year": 2019
+    },
+    {
+      "title": "SSD QoS Improvements through Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3267809.3275453",
+      "publicationDate": "2018-10-11",
+      "year": 2018
+    },
+    {
+      "title": "CachedGC: Cache-Assisted Garbage Collection in Modern Solid State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/MASCOTS.2018.00015",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Forensic Analysis of Wear Leveling on Solid-State Media",
+      "arxiv_id": null,
+      "doi": "10.1109/TrustCom/BigDataSE.2018.00256",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Time-efficient Garbage Collection in SSDs",
+      "arxiv_id": "1807.09313",
+      "doi": null,
+      "publicationDate": "2018-07-24",
+      "year": 2018
+    },
+    {
+      "title": "Enabling Intra-Plane Parallel Block Erase in NAND Flash to Alleviate the Impact of Garbage Collection",
+      "arxiv_id": null,
+      "doi": "10.1145/3218603.3218627",
+      "publicationDate": "2018-07-23",
+      "year": 2018
+    },
+    {
+      "title": "Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation",
+      "arxiv_id": "1807.05140",
+      "doi": "10.1145/3224432",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Parallelizing garbage collection with I/O to improve flash resource utilization",
+      "arxiv_id": null,
+      "doi": "10.1145/3208040.3208048",
+      "publicationDate": "2018-06-11",
+      "year": 2018
+    },
+    {
+      "title": "FastGC: Accelerate Garbage Collection via an Efficient Copyback-based Data Migration in SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3195970.3196051",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "FLIN: Enabling Fairness and Enhancing Performance in Modern NVMe Solid State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA.2018.00041",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Dynamic Management of Key States for Reinforcement Learning-assisted Garbage Collection to Reduce Long Tail Latency in SSD",
+      "arxiv_id": null,
+      "doi": "10.1145/3195970.3196034",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "SSD Garbage Collection Detection and Management with Machine Learning Algorithm",
+      "arxiv_id": null,
+      "doi": "10.14257/IJCA.2018.11.4.18",
+      "publicationDate": "2018-04-30",
+      "year": 2018
+    },
+    {
+      "title": "MQSim: A Framework for Enabling Realistic Studies of Modern Multi-Queue SSD Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-02-12",
+      "year": 2018
+    },
+    {
+      "title": "Age Aware Pre-emptive Garbage Collection for SSD RAID",
+      "arxiv_id": null,
+      "doi": "10.1016/j.micpro.2017.10.008",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "Exploiting Chip Idleness for Minimizing Garbage Collection—Induced Chip Access Conflict on SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3131850",
+      "publicationDate": "2017-12-21",
+      "year": 2017
+    },
+    {
+      "title": "Reinforcement Learning-Assisted Garbage Collection to Mitigate Long-Tail Latency in SSD",
+      "arxiv_id": null,
+      "doi": "10.1145/3126537",
+      "publicationDate": "2017-09-27",
+      "year": 2017
+    },
+    {
+      "title": "Enhancing SSD performance with LDPC-aware garbage collection",
+      "arxiv_id": null,
+      "doi": "10.1109/NVMSA.2017.8064481",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Error Characterization, Mitigation, and Recovery in Flash-Memory-Based Solid-State Drives",
+      "arxiv_id": "1706.08642",
+      "doi": "10.1109/JPROC.2017.2713127",
+      "publicationDate": "2017-06-27",
+      "year": 2017
+    },
+    {
+      "title": "AutoStream: automatic stream management for multi-streamed SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3078468.3078469",
+      "publicationDate": "2017-05-22",
+      "year": 2017
+    },
+    {
+      "title": "Parallelism and Garbage Collection Aware I/O Scheduler with Improved SSD Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2017.55",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Reviewing the Evolution of the NAND Flash Technology",
+      "arxiv_id": null,
+      "doi": "10.1109/JPROC.2017.2665781",
+      "publicationDate": "2017-03-28",
+      "year": 2017
+    },
+    {
+      "title": "LightNVM: The Linux Open-Channel SSD Subsystem",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-02-27",
+      "year": 2017
+    },
+    {
+      "title": "Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-02-27",
+      "year": 2017
+    },
+    {
+      "title": "Vulnerabilities in MLC NAND Flash Memory Programming: Experimental Analysis, Exploits, and Mitigation Techniques",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2017.61",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "Exploring the Potentials of Parallel Garbage Collection in SSDs for Enterprise Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2016.47",
+      "publicationDate": "2016-11-13",
+      "year": 2016
+    },
+    {
+      "title": "How to enable software isolation and boost system performance with sub-block erase over 3D flash memory",
+      "arxiv_id": null,
+      "doi": "10.1145/2968456.2968475",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Enabling sub-blocks erase management to boost the performance of 3D NAND flash memory",
+      "arxiv_id": null,
+      "doi": "10.1145/2897937.2898018",
+      "publicationDate": "2016-06-05",
+      "year": 2016
+    },
+    {
+      "title": "GCaR: Garbage Collection aware Cache Management with Improved Performance for Flash-based SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/2925426.2926263",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "Stable Greedy",
+      "arxiv_id": null,
+      "doi": "10.1145/2820613",
+      "publicationDate": "2016-01-13",
+      "year": 2016
+    },
+    {
+      "title": "Lazy-RTGC: A Real-Time Lazy Garbage Collection Mechanism with Jointly Optimizing Average and Worst Performance for NAND Flash Memory Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2746236",
+      "publicationDate": "2015-06-24",
+      "year": 2015
+    },
+    {
+      "title": "Optimize Unsynchronized Garbage Collection in an SSD Array",
+      "arxiv_id": "1506.07566",
+      "doi": null,
+      "publicationDate": "2015-06-24",
+      "year": 2015
+    },
+    {
+      "title": "To collect or not to collect: Just-in-time garbage collection for high-performance SSDs with long lifetimes",
+      "arxiv_id": null,
+      "doi": "10.1145/2744769.2744918",
+      "publicationDate": "2015-06-07",
+      "year": 2015
+    },
+    {
+      "title": "F2FS: A New File System for Flash Storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-02-16",
+      "year": 2015
+    },
+    {
+      "title": "Garbage collection and wear leveling for flash memory: Past and future",
+      "arxiv_id": null,
+      "doi": "10.1109/SMARTCOMP.2014.7043841",
+      "publicationDate": "2014-11-01",
+      "year": 2014
+    },
+    {
+      "title": "Design for scalability in enterprise SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/2628071.2628098",
+      "publicationDate": "2014-08-24",
+      "year": 2014
+    },
+    {
+      "title": "The Multi-streamed Solid-State Drive",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-06-17",
+      "year": 2014
+    },
+    {
+      "title": "Design and implementation of an efficient flash-based SSD architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIST.2014.6920336",
+      "publicationDate": "2014-04-26",
+      "year": 2014
+    },
+    {
+      "title": "Reducing SSD access latency via NAND flash program and erase suspension",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2013.12.002",
+      "publicationDate": "2014-04-01",
+      "year": 2014
+    },
+    {
+      "title": "Coordinating Garbage Collectionfor Arrays of Solid-State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2012.256",
+      "publicationDate": "2014-04-01",
+      "year": 2014
+    },
+    {
+      "title": "Lifetime improvement of NAND flash-based storage systems using dynamic program and erase scaling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-02-17",
+      "year": 2014
+    },
+    {
+      "title": "Reducing asynchrony in channel garbage-collection for improving internal parallelism of multichannel solid-state disks",
+      "arxiv_id": null,
+      "doi": "10.1145/2544375.2544383",
+      "publicationDate": "2014-01-27",
+      "year": 2014
+    },
+    {
+      "title": "Garbage Collection Algorithms for NAND Flash Memory Devices -- An Overview",
+      "arxiv_id": null,
+      "doi": "10.1109/EMS.2013.14",
+      "publicationDate": "2013-11-20",
+      "year": 2013
+    },
+    {
+      "title": "BAGC: Buffer-Aware Garbage Collection for Flash-Based Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2012.227",
+      "publicationDate": "2013-11-01",
+      "year": 2013
+    },
+    {
+      "title": "Measuring and Analyzing Write Amplification Characteristics of Solid State Disks",
+      "arxiv_id": null,
+      "doi": "10.1109/MASCOTS.2013.29",
+      "publicationDate": "2013-08-14",
+      "year": 2013
+    },
+    {
+      "title": "Preemptible I/O Scheduling of Garbage Collection for Solid State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2012.2227479",
+      "publicationDate": "2013-02-01",
+      "year": 2013
+    },
+    {
+      "title": "Taking Garbage Collection Overheads Off the Critical Path in SSDs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-35170-9_9",
+      "publicationDate": "2012-12-03",
+      "year": 2012
+    },
+    {
+      "title": "Making Garbage Collection Wear Conscious for Flash SSD",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS.2012.20",
+      "publicationDate": "2012-06-28",
+      "year": 2012
+    },
+    {
+      "title": "GC-ARM: Garbage Collection-Aware RAM Management for Flash Based Solid State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS.2012.22",
+      "publicationDate": "2012-06-28",
+      "year": 2012
+    },
+    {
+      "title": "On benchmarking embedded Linux flash file systems",
+      "arxiv_id": "1208.6391",
+      "doi": "10.1145/2318836.2318844",
+      "publicationDate": "2012-06-01",
+      "year": 2012
+    },
+    {
+      "title": "MNFTL: An efficient flash translation layer for MLC NAND flash memory storage systems",
+      "arxiv_id": null,
+      "doi": "10.1145/2024724.2024730",
+      "publicationDate": "2011-06-05",
+      "year": 2011
+    },
+    {
+      "title": "Harmonia: A globally coordinated garbage collector for arrays of Solid-State Drives",
+      "arxiv_id": null,
+      "doi": "10.1109/MSST.2011.5937224",
+      "publicationDate": "2011-05-23",
+      "year": 2011
+    },
+    {
+      "title": "Inside NAND Flash Memories",
+      "arxiv_id": null,
+      "doi": "10.1007/978-90-481-9431-5",
+      "publicationDate": "2010-08-18",
+      "year": 2010
+    },
+    {
+      "title": "FASTer FTL for Enterprise-Class Flash Memory SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/SNAPI.2010.9",
+      "publicationDate": "2010-05-03",
+      "year": 2010
+    },
+    {
+      "title": "Flash SSD vs HDD: High performance oriented modern embedded and multimedia storage systems",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCET.2010.5485421",
+      "publicationDate": "2010-04-16",
+      "year": 2010
+    },
+    {
+      "title": "Advances in flash memory SSD technology for enterprise database applications",
+      "arxiv_id": null,
+      "doi": "10.1145/1559845.1559937",
+      "publicationDate": "2009-06-29",
+      "year": 2009
+    },
+    {
+      "title": "FTL design exploration in reconfigurable high-performance SSD for server applications",
+      "arxiv_id": null,
+      "doi": "10.1145/1542275.1542324",
+      "publicationDate": "2009-06-08",
+      "year": 2009
+    },
+    {
+      "title": "Write amplification analysis in flash-based solid state drives",
+      "arxiv_id": null,
+      "doi": "10.1145/1534530.1534544",
+      "publicationDate": "2009-05-04",
+      "year": 2009
+    },
+    {
+      "title": "DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings",
+      "arxiv_id": null,
+      "doi": "10.1145/1508244.1508271",
+      "publicationDate": "2009-02-28",
+      "year": 2009
+    },
+    {
+      "title": "Design Tradeoffs for SSD Performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2008-06-22",
+      "year": 2008
+    },
+    {
+      "title": "Improving NAND Flash Based Disk Caches",
+      "arxiv_id": null,
+      "doi": "10.1145/1394608.1382149",
+      "publicationDate": "2008-06-01",
+      "year": 2008
+    },
+    {
+      "title": "Endurance Enhancement of Flash-Memory Storage, Systems: An Efficient Static Wear Leveling Design",
+      "arxiv_id": null,
+      "doi": "10.1145/1278480.1278533",
+      "publicationDate": "2007-06-04",
+      "year": 2007
+    },
+    {
+      "title": "A new flash memory management for flash storage system",
+      "arxiv_id": null,
+      "doi": "10.1109/CMPSAC.1999.812717",
+      "publicationDate": "1999-10-19",
+      "year": 1999
+    },
+    {
+      "title": "The LaTeX Web Companion: Integrating TeX, HTML, and XML",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1999-06-20",
+      "year": 1999
+    },
+    {
+      "title": "Using data clustering to improve cleaning performance for flash memory",
+      "arxiv_id": null,
+      "doi": "10.1002/(SICI)1097-024X(199903)29:3<267::AID-SPE233>3.0.CO;2-T",
+      "publicationDate": "1999-03-01",
+      "year": 1999
+    },
+    {
+      "title": "eNVy: a NonVolatile main memory storage system",
+      "arxiv_id": null,
+      "doi": "10.1145/195473.195506",
+      "publicationDate": "1993-10-14",
+      "year": 1993
+    },
+    {
+      "title": "The design and implementation of a log-structured file system",
+      "arxiv_id": null,
+      "doi": "10.1145/121132.121137",
+      "publicationDate": "1991-09-01",
+      "year": 1991
+    },
+    {
+      "title": "Method of optimizing quality of service (QOS) in solid-state drives (SSDS) and an SSD thereof",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "SSD Wear Leveling with Optimal Guarantees",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9781611977936.28",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "NVMeVirt: A Versatile Software-defined Virtual NVMe Device",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Benefits of Flexible Data Placement Using Aerospike",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Efficient Data Placement for Zoned Namespaces (ZNS) SSDs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-21395-3_28",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ".Light-GC:Alightweight andefficientgarbagecollectionschemeforembeddedfilesystems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Optimizing Garbage Collection Overhead of Host-level Flash Translation Layer for Journaling Filesystems",
+      "arxiv_id": null,
+      "doi": "10.7236/IJIBC.2021.13.2.27",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Open-Channel SSD (What is it Good For)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "A Preliminary Study: Towards Parallel Garbage Collection for NAND Flash-Based SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.3043123",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "A New LSM-style Garbage Collection Scheme for ZNS SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Multi-stream ssd qos management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Client vs. Data Center SSDs: A Guide to Understanding Performance Use Cases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Zoned Storage: Now Encompasses Both HDD & SSD Technologies . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Fully Automatic Stream Management for Multi-Streamed SSDs Using Program Contexts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Reducing Garbage Collection Overhead in SSD Based on Workload Prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Alleviating Garbage Collection Interference Through Spatial Separation in All Flash Arrays",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "A comprehensive survey of issues in solid state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "vStream: Virtual Stream Management for Multi-streamed SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "ShadowGC: Cooperative garbage collectionwithmulti-levelbufferforperformanceimprovementinNANDflash-basedSSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "SSD Architecture and PCI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Multi-ware smart SSD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Tiny-tail flash: Near-perfect elimination of garbage collection tail latencies in NAND SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "A Real-Time Flash Translation Layer for NAND Flash Memory Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TMSCS.2016.2516015",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Sustained performance for Samsung data center SSDs . Technical Report.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Samsung SSD 845DC: Quality of Service (QoS) . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "SSD Market Overview",
+      "arxiv_id": null,
+      "doi": "10.1007/978-94-007-5146-0_1",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Intel Solid-State Drive 710 Series . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Forensic analysis of the android file system YAFFS2",
+      "arxiv_id": null,
+      "doi": "10.4225/75/57B2C23A40CF1",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "An inter-disk wear-leveling strategy for flash SSD disk arrays",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Research and Summary on Various Mapping Methods in FTL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "May 2025; revised 3 January 2026; accepted 24 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024.AERO: AdaptiveeraseoperationforimprovinglifetimeandperformanceofmodernNANDflash-basedSSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVM Express Workgroup",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

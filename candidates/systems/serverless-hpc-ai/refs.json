@@ -1,0 +1,1584 @@
+{
+  "candidate": {
+    "topic": "High-Performance Serverless Computing",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": "2601.09334",
+      "doi": null,
+      "title": "High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC and AI",
+      "published": "2026-01-15"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:59:27+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 221,
+    "arxiv_resolvable": 53,
+    "doi_only": 143,
+    "unresolved": 25
+  },
+  "gt_s2": {
+    "paperId": "003d94f267746c5c1a48f216b006fba23b954301",
+    "externalIds": {
+      "DBLP": "journals/access/BesozziBDD25",
+      "ArXiv": "2601.09334",
+      "DOI": "10.1109/ACCESS.2025.3633989",
+      "CorpusId": 283123290
+    },
+    "title": "High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data",
+    "venue": "IEEE Access",
+    "year": 2026,
+    "referenceCount": 221,
+    "publicationDate": "2026-01-14"
+  },
+  "refs": [
+    {
+      "title": "Meta’s Hyperscale Infrastructure: Overview and Insights",
+      "arxiv_id": null,
+      "doi": "10.1145/3701296",
+      "publicationDate": "2025-01-22",
+      "year": 2025
+    },
+    {
+      "title": "Survey and perspective on verification, validation, and uncertainty quantification of digital twins for precision medicine",
+      "arxiv_id": null,
+      "doi": "10.1038/s41746-025-01447-y",
+      "publicationDate": "2025-01-17",
+      "year": 2025
+    },
+    {
+      "title": "Unveiling Serverless: A Systematic Review of Software Architectures",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAISD63055.2024.10895318",
+      "publicationDate": "2024-11-25",
+      "year": 2024
+    },
+    {
+      "title": "Process-as-a-Service: Unifying Elastic and Stateful Clouds with Serverless Processes",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698567",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "FAAStloop: Optimizing Loop-Based Applications for Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698560",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "Serverless Computing for Dynamic HPC Workflows",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00262",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41406.2024.00044",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Laminar 2.0: Serverless Stream Processing with Enhanced Code Search and Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00261",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Enabling HPC Scientific Workflows for Serverless",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00022",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive Cost",
+      "arxiv_id": null,
+      "doi": "10.1109/SCW63240.2024.00021",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "SAS: Speculative Locality Aware Scheduling for I/O intensive scientific analysis in clouds",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.107622",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing HPC with Serverless Computing: Lithops on MareNostrum5",
+      "arxiv_id": null,
+      "doi": "10.1109/ICNP61940.2024.10858564",
+      "publicationDate": "2024-10-28",
+      "year": 2024
+    },
+    {
+      "title": "SwitchFlow: Optimizing HPC Workflow Performance with Heterogeneous Serverless Frameworks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS63350.2024.00045",
+      "publicationDate": "2024-10-10",
+      "year": 2024
+    },
+    {
+      "title": "SeBS-Flow: Benchmarking Serverless Cloud Function Workflows",
+      "arxiv_id": "2410.03480",
+      "doi": "10.1145/3689031.3717465",
+      "publicationDate": "2024-10-04",
+      "year": 2024
+    },
+    {
+      "title": "YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud",
+      "arxiv_id": null,
+      "doi": "10.1145/3651890.3672216",
+      "publicationDate": "2024-08-04",
+      "year": 2024
+    },
+    {
+      "title": "Efficient and scalable covariate drift detection in machine learning systems with serverless computing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.07.010",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows",
+      "arxiv_id": null,
+      "doi": "10.1145/3673660.3655082",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "Faast: An Efficient Serverless Framework Made Snapshot-based Function Response Fast",
+      "arxiv_id": null,
+      "doi": "10.1145/3625549.3658681",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Paldia: Enabling SLO-Compliant and Cost-Effective Serverless Computing on Heterogeneous Hardware",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS57955.2024.00018",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Pattern-based serverless data processing pipelines for Function-as-a-Service orchestration systems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.12.026",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3620666.3651327",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3620665.3640361",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs",
+      "arxiv_id": "2404.16812",
+      "doi": "10.1145/3625549.3658657",
+      "publicationDate": "2024-04-25",
+      "year": 2024
+    },
+    {
+      "title": "Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3629567",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2024.104891",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "UniFaaS: Programming across Distributed Cyberinfrastructure with Federated Function Serving",
+      "arxiv_id": "2403.19257",
+      "doi": "10.1109/IPDPS57955.2024.00027",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "FSD-Inference: Fully Serverless Distributed Inference with Scalable Cloud Communication",
+      "arxiv_id": "2403.15195",
+      "doi": "10.1109/ICDE60146.2024.00168",
+      "publicationDate": "2024-03-22",
+      "year": 2024
+    },
+    {
+      "title": "Are Unikernels Ready for Serverless on the Edge?",
+      "arxiv_id": "2403.00515",
+      "doi": "10.1109/IC2E61754.2024.00022",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Cold start latency mitigation mechanisms in serverless computing: Taxonomy, review, and future directions",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2024.103115",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "A survey on the scheduling mechanisms in serverless computing: a taxonomy, challenges, and trends",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-023-04264-8",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "Serverless-like platform for container-based YARN clusters",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2024.02.013",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Software Resource Disaggregation for HPC with Serverless Computing",
+      "arxiv_id": "2401.10852",
+      "doi": "10.1109/IPDPS57955.2024.00021",
+      "publicationDate": "2024-01-19",
+      "year": 2024
+    },
+    {
+      "title": "XaaS: Acceleration as a Service to Enable Productive High-Performance Cloud Computing",
+      "arxiv_id": "2401.04552",
+      "doi": "10.1109/MCSE.2024.3382154",
+      "publicationDate": "2024-01-09",
+      "year": 2024
+    },
+    {
+      "title": "Towards High-Performance Data Loading in Cloud-Native Deep Learning Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/COMSNETS59351.2024.10427257",
+      "publicationDate": "2024-01-03",
+      "year": 2024
+    },
+    {
+      "title": "Predicting Heterogeneity and Serverless Principles of Converged High-Performance Computing, Artificial Intelligence, and Workflows",
+      "arxiv_id": null,
+      "doi": "10.1109/mc.2023.3332973",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "DAGit: A Platform For Enabling Serverless Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC58850.2023.00054",
+      "publicationDate": "2023-12-18",
+      "year": 2023
+    },
+    {
+      "title": "The globus compute dataset: An open function-as-a-service dataset from the edge to the cloud",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.12.007",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Kernel-as-a-Service: A Serverless Programming Model for Heterogeneous Hardware Accelerators",
+      "arxiv_id": null,
+      "doi": "10.1145/3590140.3629115",
+      "publicationDate": "2023-11-27",
+      "year": 2023
+    },
+    {
+      "title": "TaskVine: Managing In-Cluster Storage for High-Throughput Data Intensive Workflows",
+      "arxiv_id": null,
+      "doi": "10.1145/3624062.3624277",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "Fine-grained accelerator partitioning for Machine Learning and Scientific Computing in Function as a Service Platform",
+      "arxiv_id": null,
+      "doi": "10.1145/3624062.3624238",
+      "publicationDate": "2023-11-12",
+      "year": 2023
+    },
+    {
+      "title": "Rethinking Deployment for Serverless Functions: A Performance-first Perspective",
+      "arxiv_id": null,
+      "doi": "10.1145/3581784.3613211",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2023.11.013",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Polymorphic Cloud Application Design Assisted by Open Source Software Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/CECCC59577.2023.10560739",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "A Preliminary Review of Function as a Service Platform Running with AWS Spot Instances",
+      "arxiv_id": null,
+      "doi": "10.1109/SBAC-PADW60351.2023.00024",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Cold Start Latency in Serverless Computing: A Systematic Review, Taxonomy, and Future Directions",
+      "arxiv_id": "2310.08437",
+      "doi": "10.1145/3700875",
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "Hardware-Accelerated FaaS for the Edge-Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/ICNP59255.2023.10355594",
+      "publicationDate": "2023-10-10",
+      "year": 2023
+    },
+    {
+      "title": "ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance",
+      "arxiv_id": "2309.15471",
+      "doi": "10.1145/3631295.3631393",
+      "publicationDate": "2023-09-27",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Build Time of Shoc Workloads",
+      "arxiv_id": null,
+      "doi": "10.51408/csit2023_20",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Exploring FPGA Acceleration for Distributed Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/FPL60245.2023.00059",
+      "publicationDate": "2023-09-04",
+      "year": 2023
+    },
+    {
+      "title": "A Seer knows best: Auto-tuned object storage shuffling for serverless analytics",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2023.104763",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Electrocardiogram Stream Processing in Federated Clouds With Lambda Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/MC.2023.3281873",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion",
+      "arxiv_id": "2309.00584",
+      "doi": "10.1145/3624062.3624280",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Computing: What It Is, and What It Is Not?",
+      "arxiv_id": null,
+      "doi": "10.1145/3587249",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "Ilúvatar: A Fast Control Plane for Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3588195.3592995",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "Fine-Grained Heterogeneous Execution Framework with Energy Aware Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD60044.2023.00014",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Disaggregated GPU Acceleration for Serverless Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3606557.3606560",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "WebAssembly as an Enabler for Next Generation Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s10723-023-09669-8",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers",
+      "arxiv_id": null,
+      "doi": "10.1145/3593856.3595897",
+      "publicationDate": "2023-06-22",
+      "year": 2023
+    },
+    {
+      "title": "A reference architecture for quantum computing as a service",
+      "arxiv_id": "2306.04578",
+      "doi": "10.1016/j.jksuci.2024.102094",
+      "publicationDate": "2023-06-03",
+      "year": 2023
+    },
+    {
+      "title": "High-Performance Serverless Request Generator: Capable of Generating a Hundred Thousand Requests Per Second",
+      "arxiv_id": null,
+      "doi": "10.23919/MIPRO57284.2023.10159882",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "Accelerating Communications in Federated Applications with Transparent Object Proxies",
+      "arxiv_id": "2305.09593",
+      "doi": "10.1145/3581784.3607047",
+      "publicationDate": "2023-05-16",
+      "year": 2023
+    },
+    {
+      "title": "FMI: Fast and Cheap Message Passing for Serverless Functions",
+      "arxiv_id": "2305.08763",
+      "doi": "10.1145/3577193.3593718",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "Aggregate VM: Why Reduce or Evict VM's Resources When You Can Borrow Them From Other Nodes?",
+      "arxiv_id": null,
+      "doi": "10.1145/3552326.3587452",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "A Study of Orchestration Approaches for Scientific Workflows in Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3592533.3592809",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "Serverless FPGA: Work-In-Progress",
+      "arxiv_id": null,
+      "doi": "10.1145/3592533.3592804",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "HeROfake: Heterogeneous Resources Orchestration in a Serverless Cloud – An Application to Deepfake Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid57682.2023.00024",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Approach to Sensitivity Analysis of Computational Models",
+      "arxiv_id": "2304.08190",
+      "doi": "10.1109/CCGrid57682.2023.00064",
+      "publicationDate": "2023-04-17",
+      "year": 2023
+    },
+    {
+      "title": "On the Acceleration of FaaS Using Remote GPU Virtualization",
+      "arxiv_id": null,
+      "doi": "10.1145/3578245.3584933",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Towards Sustainable Serverless Processing of Massive Graphs on the Computing Continuum",
+      "arxiv_id": null,
+      "doi": "10.1145/3578245.3585331",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Cloud Services Enable Efficient AI-Guided Simulation Workflows across Heterogeneous Resources",
+      "arxiv_id": "2303.08803",
+      "doi": "10.1109/IPDPSW59300.2023.00018",
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "GPU-enabled Function-as-a-Service for Machine Learning Inference",
+      "arxiv_id": "2303.05601",
+      "doi": "10.1109/IPDPS54959.2023.00096",
+      "publicationDate": "2023-03-09",
+      "year": 2023
+    },
+    {
+      "title": "In-Storage Domain-Specific Acceleration for Serverless Computing",
+      "arxiv_id": "2303.03483",
+      "doi": "10.1145/3620665.3640413",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Computing: State-of-the-Art, Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2022.3166553",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Faabric: Fine-Grained Distribution of Scientific Workloads in the Cloud",
+      "arxiv_id": "2302.11358",
+      "doi": "10.48550/arXiv.2302.11358",
+      "publicationDate": "2023-02-22",
+      "year": 2023
+    },
+    {
+      "title": "Outsourcing Data Processing Jobs With Lithops",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2021.3129000",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "SMPI: Scalable Serverless MPI Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/IPCCC55026.2022.9894339",
+      "publicationDate": "2022-11-11",
+      "year": 2022
+    },
+    {
+      "title": "A seer knows best: optimized object storage shuffling for serverless analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/3528535.3565241",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00027",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "CardioHPC: Serverless Approaches for Real-Time Heart Monitoring of Thousands of Patients",
+      "arxiv_id": null,
+      "doi": "10.1109/WORKS56498.2022.00015",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Canary: Fault-Tolerant FaaS for Stateful Time-Sensitive Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00046",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Using Unused: Non-Invasive Dynamic FaaS Infrastructure with HPC-Whisk",
+      "arxiv_id": "2211.00717",
+      "doi": "10.1109/SC41404.2022.00045",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Network Powered by Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/MoNeTec55448.2022.9960771",
+      "publicationDate": "2022-10-27",
+      "year": 2022
+    },
+    {
+      "title": "Towards Extreme and Sustainable Graph Processing for Urgent Societal Challenges in Europe",
+      "arxiv_id": null,
+      "doi": "10.1109/CloudSummit54781.2022.00010",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Serverless Machine Learning Platform: A Case for Real-Time Crisis Detection over Social Media",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCSEA54677.2022.9936459",
+      "publicationDate": "2022-09-08",
+      "year": 2022
+    },
+    {
+      "title": "Serverless High-Performance Computing over Cloud",
+      "arxiv_id": null,
+      "doi": "10.2478/cait-2022-0029",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "HARDLESS: A Generalized Serverless Compute Architecture for Hardware Processing Accelerators",
+      "arxiv_id": "2208.03192",
+      "doi": "10.1109/IC2E55432.2022.00016",
+      "publicationDate": "2022-08-05",
+      "year": 2022
+    },
+    {
+      "title": "Performance Evaluation of Open-Source Serverless Platforms for Kubernetes",
+      "arxiv_id": null,
+      "doi": "10.3390/a15070234",
+      "publicationDate": "2022-07-02",
+      "year": 2022
+    },
+    {
+      "title": "Serverless Computing for Scientific Applications",
+      "arxiv_id": "2309.01681",
+      "doi": "10.1109/MIC.2022.3168810",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "iSeSA: Towards Migrating HPC and AI Workloads to Serverless Platform",
+      "arxiv_id": null,
+      "doi": "10.1145/3526058.3535455",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Rise of the Planet of Serverless Computing: A Systematic Review",
+      "arxiv_id": "2206.12275",
+      "doi": "10.1145/3579643",
+      "publicationDate": "2022-06-24",
+      "year": 2022
+    },
+    {
+      "title": "TUFA: A TOSCA extension for the specification of accelerator-aware applications in the Cloud Continuum",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC54236.2022.00185",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "QFaaS: A Serverless Function-as-a-Service Framework for Quantum Computing",
+      "arxiv_id": "2205.14845",
+      "doi": "10.1016/j.future.2024.01.018",
+      "publicationDate": "2022-05-30",
+      "year": 2022
+    },
+    {
+      "title": "Transparent Serverless execution of Python multiprocessing applications",
+      "arxiv_id": "2205.08818",
+      "doi": "10.1016/j.future.2022.10.038",
+      "publicationDate": "2022-05-18",
+      "year": 2022
+    },
+    {
+      "title": "DGSF: Disaggregated GPUs for Serverless Functions",
+      "arxiv_id": null,
+      "doi": "10.1109/ipdps53621.2022.00077",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Pushing Serverless to the Edge with WebAssembly Runtimes",
+      "arxiv_id": null,
+      "doi": "10.1109/ccgrid54584.2022.00023",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Enabling Dynamic and Intelligent Workflows for HPC, Data Analytics, and AI Convergence",
+      "arxiv_id": "2204.09287",
+      "doi": "10.1016/j.future.2022.04.014",
+      "publicationDate": "2022-04-20",
+      "year": 2022
+    },
+    {
+      "title": "Mashup: making serverless computing useful for HPC workflows via hybrid execution",
+      "arxiv_id": null,
+      "doi": "10.1145/3503221.3508407",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Transactions across serverless functions leveraging stateful dataflows",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2022.102015",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Serverless computing on heterogeneous computers",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507732",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "IceBreaker: warming serverless functions better with heterogeneity",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507750",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "INFless: a native serverless system for low-latency, high-throughput inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3503222.3507709",
+      "publicationDate": "2022-02-28",
+      "year": 2022
+    },
+    {
+      "title": "Chapter 1: Introduction",
+      "arxiv_id": null,
+      "doi": "10.9783/9780812207828.1",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "FaaSter: Accelerated Functions-as-a-Service with Heterogeneous GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/HiPC53243.2021.00057",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Data-Intensive Workload Consolidation in Serverless (Lambda/FaaS) Platforms",
+      "arxiv_id": null,
+      "doi": "10.1109/nca53618.2021.9685244",
+      "publicationDate": "2021-11-23",
+      "year": 2021
+    },
+    {
+      "title": "Optimizing Goodput of Real-time Serverless Functions using Dynamic Slicing with vGPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/ic2e52221.2021.00020",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD53106.2021.00091",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "A Case for Function-as-a-Service with Disaggregated FPGAs",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD53861.2021.00047",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Survey on serverless computing",
+      "arxiv_id": null,
+      "doi": "10.1186/s13677-021-00253-7",
+      "publicationDate": "2021-07-12",
+      "year": 2021
+    },
+    {
+      "title": "rFaaS: Enabling High Performance Serverless with RDMA and Leases",
+      "arxiv_id": "2106.13859",
+      "doi": "10.1109/IPDPS54959.2023.00094",
+      "publicationDate": "2021-06-25",
+      "year": 2021
+    },
+    {
+      "title": "A Serverless Framework for Distributed Bulk Metadata Extraction",
+      "arxiv_id": null,
+      "doi": "10.1145/3431379.3460636",
+      "publicationDate": "2021-06-21",
+      "year": 2021
+    },
+    {
+      "title": "Analyzing Open-Source Serverless Platforms: Characteristics and Performance",
+      "arxiv_id": "2106.03601",
+      "doi": "10.18293/SEKE2021-129",
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "WfCommons: A Framework for Enabling Scientific Workflow Research and Development",
+      "arxiv_id": "2105.14352",
+      "doi": "10.1016/j.future.2021.09.043",
+      "publicationDate": "2021-05-29",
+      "year": 2021
+    },
+    {
+      "title": "OpenDC 2.0: Convenient Modeling and Simulation of Emerging Technologies in Cloud Datacenters",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid51090.2021.00055",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices",
+      "arxiv_id": null,
+      "doi": "10.1145/3445814.3446701",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "FaasCache: keeping serverless computing alive with greedy-dual caching",
+      "arxiv_id": null,
+      "doi": "10.1145/3445814.3446757",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "MLIR: Scaling Compiler Infrastructure for Domain Specific Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/CGO51591.2021.9370308",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "BeFaaS: An Application-Centric Benchmarking Framework for FaaS Platforms",
+      "arxiv_id": "2102.12770",
+      "doi": "10.1109/ic2e52221.2021.00014",
+      "publicationDate": "2021-02-25",
+      "year": 2021
+    },
+    {
+      "title": "SeBS: a serverless benchmark suite for function-as-a-service computing",
+      "arxiv_id": "2012.14132",
+      "doi": "10.1145/3464298.3476133",
+      "publicationDate": "2020-12-28",
+      "year": 2020
+    },
+    {
+      "title": "BATCH: Machine Learning Inference Serving on Serverless Platforms with Adaptive Batching",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41405.2020.00073",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Serverless Straggler Mitigation using Error-Correcting Codes",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS47774.2020.00019",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "A Lightweight Design for Serverless Function as a Service",
+      "arxiv_id": "2010.07115",
+      "doi": "10.1109/MS.2020.3028991",
+      "publicationDate": "2020-10-13",
+      "year": 2020
+    },
+    {
+      "title": "Wukong: a scalable and locality-enhanced framework for serverless parallel computing",
+      "arxiv_id": "2010.07268",
+      "doi": "10.1145/3419111.3421286",
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "Serverless Applications: Why, When, and How?",
+      "arxiv_id": "2009.08173",
+      "doi": "10.1109/MS.2020.3023302",
+      "publicationDate": "2020-09-09",
+      "year": 2020
+    },
+    {
+      "title": "Cold Start in Serverless Computing: Current Trends and Mitigation Strategies",
+      "arxiv_id": null,
+      "doi": "10.1109/COINS49042.2020.9191377",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2020.3006751",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "SLATE: Managing Heterogeneous Cloud Functions",
+      "arxiv_id": null,
+      "doi": "10.1109/ASAP49362.2020.00032",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Efficient GPU Sharing for Serverless Workflows",
+      "arxiv_id": null,
+      "doi": "10.1145/3452413.3464785",
+      "publicationDate": "2020-06-25",
+      "year": 2020
+    },
+    {
+      "title": "SLA-aware Workload Scheduling Using Hybrid Cloud Services",
+      "arxiv_id": null,
+      "doi": "10.1145/3452413.3464789",
+      "publicationDate": "2020-06-25",
+      "year": 2020
+    },
+    {
+      "title": "Towards Lightweight Serverless Computing via Unikernel as a Function",
+      "arxiv_id": null,
+      "doi": "10.1109/IWQoS49365.2020.9213020",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Microsoft Azure",
+      "arxiv_id": null,
+      "doi": "10.3139/9783446460812.064",
+      "publicationDate": "2020-05-11",
+      "year": 2020
+    },
+    {
+      "title": "funcX: A Federated Function Serving Fabric for Science",
+      "arxiv_id": "2005.04215",
+      "doi": "10.1145/3369583.3392683",
+      "publicationDate": "2020-05-07",
+      "year": 2020
+    },
+    {
+      "title": "Accelerated serverless computing based on GPU virtualization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2020.01.004",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "SEUSS: skip redundant paths to make serverless fast",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3392698",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Real-time resource scaling platform for Big Data workloads on serverless environments",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2019.11.037",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider",
+      "arxiv_id": "2003.03423",
+      "doi": null,
+      "publicationDate": "2020-03-06",
+      "year": 2020
+    },
+    {
+      "title": "GiantVM: a type-II hypervisor implementing many-to-one virtualization",
+      "arxiv_id": null,
+      "doi": "10.1145/3381052.3381324",
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "BlastFunction: an FPGA-as-a-Service system for Accelerated Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.23919/DATE48585.2020.9116333",
+      "publicationDate": "2020-03-01",
+      "year": 2020
+    },
+    {
+      "title": "Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing",
+      "arxiv_id": "2002.09344",
+      "doi": null,
+      "publicationDate": "2020-02-21",
+      "year": 2020
+    },
+    {
+      "title": "HPC in the cloud: Performance comparison of function as a service (FaaS) vs infrastructure as a service (IaaS)",
+      "arxiv_id": null,
+      "doi": "10.1002/itl2.137",
+      "publicationDate": "2019-12-11",
+      "year": 2019
+    },
+    {
+      "title": "Lambada: Interactive Data Analytics on Cold Data Using Serverless Cloud Infrastructure",
+      "arxiv_id": "1912.00937",
+      "doi": "10.1145/3318464.3389758",
+      "publicationDate": "2019-12-02",
+      "year": 2019
+    },
+    {
+      "title": "Adaptive Function Launching Acceleration in Serverless Computing Platforms",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS47876.2019.00011",
+      "publicationDate": "2019-12-01",
+      "year": 2019
+    },
+    {
+      "title": "Serverless Computing: A Survey of Opportunities, Challenges, and Applications",
+      "arxiv_id": "1911.01296",
+      "doi": "10.1145/3510611",
+      "publicationDate": "2019-11-04",
+      "year": 2019
+    },
+    {
+      "title": "Performance Characterization and Modeling of Serverless and HPC Streaming Applications",
+      "arxiv_id": "1909.06055",
+      "doi": "10.1109/BigData47090.2019.9006530",
+      "publicationDate": "2019-09-13",
+      "year": 2019
+    },
+    {
+      "title": "An Event-Driven Approach to Serverless Seismic Imaging in the Cloud",
+      "arxiv_id": "1909.01279",
+      "doi": "10.1109/TPDS.2020.2982626",
+      "publicationDate": "2019-09-03",
+      "year": 2019
+    },
+    {
+      "title": "Event-driven workflows for large-scale seismic imaging in the cloud",
+      "arxiv_id": null,
+      "doi": "10.1190/SEGAM2019-3215069.1",
+      "publicationDate": "2019-08-28",
+      "year": 2019
+    },
+    {
+      "title": "A framework and a performance assessment for serverless MapReduce on AWS Lambda",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FUTURE.2019.02.057",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Singularity: Simple, secure containers for compute-driven workloads",
+      "arxiv_id": null,
+      "doi": "10.1145/3332186.3332192",
+      "publicationDate": "2019-07-28",
+      "year": 2019
+    },
+    {
+      "title": "Microsoft",
+      "arxiv_id": null,
+      "doi": "10.4135/9781452218557.n359",
+      "publicationDate": "2019-07-17",
+      "year": 2019
+    },
+    {
+      "title": "On-Premises Serverless Computing for Event-Driven Data Processing Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD.2019.00073",
+      "publicationDate": "2019-07-08",
+      "year": 2019
+    },
+    {
+      "title": "Exploiting Serverless Runtimes for Large-Scale Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD.2019.00090",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "The rise of serverless computing",
+      "arxiv_id": "1906.02888",
+      "doi": "10.1145/3368454",
+      "publicationDate": "2019-06-07",
+      "year": 2019
+    },
+    {
+      "title": "Graphless: Toward Serverless Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/ISPDC.2019.00012",
+      "publicationDate": "2019-06-03",
+      "year": 2019
+    },
+    {
+      "title": "Improving Robustness of Heterogeneous Serverless Computing Systems via Probabilistic Task Pruning",
+      "arxiv_id": "1905.04456",
+      "doi": "10.1109/IPDPSW.2019.00012",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Amazon Web Services",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-3084-8_3",
+      "publicationDate": "2019-04-30",
+      "year": 2019
+    },
+    {
+      "title": "Container Security: Issues, Challenges, and the Road Ahead",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2911732",
+      "publicationDate": "2019-04-17",
+      "year": 2019
+    },
+    {
+      "title": "An execution model for serverless functions at the edge",
+      "arxiv_id": null,
+      "doi": "10.1145/3302505.3310084",
+      "publicationDate": "2019-04-15",
+      "year": 2019
+    },
+    {
+      "title": "Cloud Programming Simplified: A Berkeley View on Serverless Computing",
+      "arxiv_id": "1902.03383",
+      "doi": null,
+      "publicationDate": "2019-02-09",
+      "year": 2019
+    },
+    {
+      "title": "Serverless Computing: One Step Forward, Two Steps Back",
+      "arxiv_id": "1812.03651",
+      "doi": null,
+      "publicationDate": "2018-12-10",
+      "year": 2018
+    },
+    {
+      "title": "Serverless Data Analytics in the IBM Cloud",
+      "arxiv_id": null,
+      "doi": "10.1145/3284028.3284029",
+      "publicationDate": "2018-12-10",
+      "year": 2018
+    },
+    {
+      "title": "OverSketch: Approximate Matrix Multiplication for the Cloud",
+      "arxiv_id": "1811.02653",
+      "doi": "10.1109/BigData.2018.8622139",
+      "publicationDate": "2018-11-06",
+      "year": 2018
+    },
+    {
+      "title": "Unikernels vs Containers: An In-Depth Benchmarking Study in the Context of Microservice Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/SC2.2018.00008",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Autonomous Resource Scheduling for Real-Time and Stream Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/SmartWorld.2018.00205",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "FaaStest - Machine Learning Based Cost and Performance FaaS Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-13342-9_15",
+      "publicationDate": "2018-09-18",
+      "year": 2018
+    },
+    {
+      "title": "Serverless is More: From PaaS to Present Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/MIC.2018.053681358",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "SOCK: Rapid Task Provisioning with Serverless-Optimized Containers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-07-11",
+      "year": 2018
+    },
+    {
+      "title": "Serverless computing for container-based architectures",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2018.01.022",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "GPU Enabled Serverless Computing Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/PDP2018.2018.00090",
+      "publicationDate": "2018-03-21",
+      "year": 2018
+    },
+    {
+      "title": "Pilot-Streaming: A Stream Processing Framework for High-Performance Computing",
+      "arxiv_id": "1801.08648",
+      "doi": "10.1109/eScience.2018.00033",
+      "publicationDate": "2018-01-26",
+      "year": 2018
+    },
+    {
+      "title": "The SPEC cloud group's research vision on FaaS and serverless architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/3154847.3154848",
+      "publicationDate": "2017-12-11",
+      "year": 2017
+    },
+    {
+      "title": "Serverless execution of scientific workflows: Experiments with HyperFlow, AWS Lambda and Google Cloud Functions",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FUTURE.2017.10.029",
+      "publicationDate": "2017-11-04",
+      "year": 2017
+    },
+    {
+      "title": "The serverless trilemma: function composition for serverless computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3133850.3133855",
+      "publicationDate": "2017-10-25",
+      "year": 2017
+    },
+    {
+      "title": "HPC Cloud for Scientific and Business Applications",
+      "arxiv_id": "1710.08731",
+      "doi": "10.1145/3150224",
+      "publicationDate": "2017-10-24",
+      "year": 2017
+    },
+    {
+      "title": "Serving Deep Learning Models in a Serverless Platform",
+      "arxiv_id": "1710.08460",
+      "doi": "10.1109/IC2E.2018.00052",
+      "publicationDate": "2017-10-23",
+      "year": 2017
+    },
+    {
+      "title": "FaaSter, Better, Cheaper: The Prospect of Serverless Scientific Computing and HPC",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-73353-1_11",
+      "publicationDate": "2017-09-20",
+      "year": 2017
+    },
+    {
+      "title": "Next generation cloud computing: New trends and research directions",
+      "arxiv_id": "1707.07452",
+      "doi": "10.1016/j.future.2017.09.020",
+      "publicationDate": "2017-07-24",
+      "year": 2017
+    },
+    {
+      "title": "GPU: the biggest key processor for AI and parallel processing",
+      "arxiv_id": null,
+      "doi": "10.1117/12.2279088",
+      "publicationDate": "2017-07-13",
+      "year": 2017
+    },
+    {
+      "title": "Serverless Computing: Current Trends and Open Problems",
+      "arxiv_id": "1706.03178",
+      "doi": "10.1007/978-981-10-5026-8_1",
+      "publicationDate": "2017-06-10",
+      "year": 2017
+    },
+    {
+      "title": "Singularity: Scientific containers for mobility of compute",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0177459",
+      "publicationDate": "2017-05-11",
+      "year": 2017
+    },
+    {
+      "title": "Serverless Computation with OpenLambda",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-06-20",
+      "year": 2016
+    },
+    {
+      "title": "HyperFlow: A model of computation, programming approach and enactment engine for complex distributed workflows",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2015.08.015",
+      "publicationDate": "2016-02-01",
+      "year": 2016
+    },
+    {
+      "title": "dispel4py: A Python framework for data-intensive scientific computing",
+      "arxiv_id": null,
+      "doi": "10.1109/DISCS.2014.12",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/2601248.2601268",
+      "publicationDate": "2014-05-13",
+      "year": 2014
+    },
+    {
+      "title": "Orleans: Distributed Virtual Actors for Programmability and Scalability",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-03-24",
+      "year": 2014
+    },
+    {
+      "title": "Docker: lightweight Linux containers for consistent development and deployment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "Unikernels: Rise of the Virtual Library Operating System",
+      "arxiv_id": null,
+      "doi": "10.1145/2557963.2566628",
+      "publicationDate": "2013-12-15",
+      "year": 2013
+    },
+    {
+      "title": "The APACHE Project",
+      "arxiv_id": "1303.1275",
+      "doi": "10.1051/epjconf/20134703006",
+      "publicationDate": "2013-03-06",
+      "year": 2013
+    },
+    {
+      "title": "Cloud",
+      "arxiv_id": null,
+      "doi": "10.1080/20519842.2013.11415337",
+      "publicationDate": "2013-01-01",
+      "year": 2013
+    },
+    {
+      "title": "Dark silicon and the end of multicore scaling",
+      "arxiv_id": null,
+      "doi": "10.1145/2000064.2000108",
+      "publicationDate": "2011-06-04",
+      "year": 2011
+    },
+    {
+      "title": "A unified approach to mapping and clustering of bibliometric networks",
+      "arxiv_id": "1006.1032",
+      "doi": "10.1016/J.JOI.2010.07.002",
+      "publicationDate": "2010-06-05",
+      "year": 2010
+    },
+    {
+      "title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+      "arxiv_id": null,
+      "doi": "10.1007/s11192-009-0146-3",
+      "publicationDate": "2009-12-31",
+      "year": 2009
+    },
+    {
+      "title": "Montage: a grid portal and software toolkit for science-grade astronomical image mosaicking",
+      "arxiv_id": "1005.4454",
+      "doi": "10.1504/IJCSE.2009.026999",
+      "publicationDate": "2009-07-01",
+      "year": 2009
+    },
+    {
+      "title": "Large-scale deep unsupervised learning using graphics processors",
+      "arxiv_id": null,
+      "doi": "10.1145/1553374.1553486",
+      "publicationDate": "2009-06-14",
+      "year": 2009
+    },
+    {
+      "title": "Performing systematic literature reviews in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134500",
+      "publicationDate": "2006-05-28",
+      "year": 2006
+    },
+    {
+      "title": "Qualitative Methods in Empirical Studies of Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/32.799955",
+      "publicationDate": "1999-07-01",
+      "year": 1999
+    },
+    {
+      "title": "GRANNY: Granular Management of Compute-Intensive Applications in the Cloud",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Serverlesslibrary.net",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "BriskChain: Decentralized Function Composition for High-Performance Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3439695",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Serverless on Machine Learning: A Systematic Mapping Study",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2022.3206366",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Helastic: On combining threshold-based and Serverless elasticity approaches for optimizing the execution of bioinformatics applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jocs.2021.101407",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Azure Functions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-4104-2",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "The Art of Coding and Thematic Exploration in Qualitative Research",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "SAND: Towards High-Performance Serverless Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A HPC Cloud for Scientific and Business Applications : Taxonomy , Vision , and Research Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "An Outlook of High Performance Computing Infrastructures for Scientific Computing",
+      "arxiv_id": null,
+      "doi": "10.1016/B978-0-12-408089-8.00003-3",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "What if all the software layers in a virtual appliance were compiled within the same safe , high-level language framework ?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "MapReduce: simplified data processing on large clusters",
+      "arxiv_id": null,
+      "doi": "10.1145/1327452.1327492",
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Web services,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "High Performance Cluster Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1999
+    },
+    {
+      "title": "Cluster 10 : Formed by Marc Sánchez-Artigas from the Universitat Rovira i Virgili",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Cluster 8 : Formed by Maciej Malawski from the AGH University of Krakow. His research focuses",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "High-Performance Serverless Computing ings of the ACM SIGCOMM 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Cluster 6 : Formed by 2 nodes ( 6 . 5% )",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Knative",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IBM code engine",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "IBM Quantum",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Nuclio",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "OpenFaaS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Cluster 5 : Formed by 2 nodes ( 6 . 5% ). It comprises researchers from the University of California San Diego and Indian Institute of Technology Bombay",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "‘‘High-performanceserverlesscomputing:AsystematicliteraturereviewonserverlessforHPC, AI,andbigdata",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

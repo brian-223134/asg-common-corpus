@@ -1,0 +1,345 @@
+{
+  "candidate": {
+    "topic": "LLM-Assisted Empirical Software Engineering",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": "2604.26192",
+      "doi": null,
+      "title": "LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda",
+      "published": "2026-04-29"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:57:49+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 44,
+    "arxiv_resolvable": 13,
+    "doi_only": 20,
+    "unresolved": 11
+  },
+  "gt_s2": {
+    "paperId": "98af155274a3ed66074620e1d6d0b1e9331ac795",
+    "externalIds": {
+      "ArXiv": "2604.26192",
+      "DBLP": "journals/corr/abs-2604-26192",
+      "DOI": "10.48550/arXiv.2604.26192",
+      "CorpusId": 287874312
+    },
+    "title": "LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda",
+    "venue": "arXiv.org",
+    "year": 2026,
+    "referenceCount": 44,
+    "publicationDate": "2026-04-29"
+  },
+  "refs": [
+    {
+      "title": "Large Language Models (LLMs) for Requirements Engineering (RE): A Systematic Literature Review",
+      "arxiv_id": "2509.11446",
+      "doi": "10.48550/arXiv.2509.11446",
+      "publicationDate": "2025-09-14",
+      "year": 2025
+    },
+    {
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+      "arxiv_id": null,
+      "doi": "10.1038/s44387-025-00019-5",
+      "publicationDate": "2025-08-05",
+      "year": 2025
+    },
+    {
+      "title": "Exploring the use of LLMs for the selection phase in systematic literature studies",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2025.107757",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "A Framework for Using LLMs for Repository Mining Studies in Empirical Software Engineering",
+      "arxiv_id": "2411.09974",
+      "doi": "10.1109/WSESE66602.2025.00008",
+      "publicationDate": "2024-11-15",
+      "year": 2024
+    },
+    {
+      "title": "Towards Evaluation Guidelines for Empirical Studies Involving LLMs",
+      "arxiv_id": "2411.07668",
+      "doi": "10.1109/WSESE66602.2025.00011",
+      "publicationDate": "2024-11-12",
+      "year": 2024
+    },
+    {
+      "title": "Green Runner: A tool for efficient deep learning component selection",
+      "arxiv_id": "2401.15810",
+      "doi": "10.1145/3644815.3644942",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "Adaptoring: Adapter Generation to Provide an Alternative API for a Library",
+      "arxiv_id": "2401.07053",
+      "doi": "10.1109/SANER60148.2024.00027",
+      "publicationDate": "2024-01-13",
+      "year": 2024
+    },
+    {
+      "title": "ChatGPT outperforms crowd workers for text-annotation tasks",
+      "arxiv_id": "2303.15056",
+      "doi": "10.1073/pnas.2305016120",
+      "publicationDate": "2023-03-27",
+      "year": 2023
+    },
+    {
+      "title": "Successful combination of database search and snowballing for identification of primary studies in systematic literature studies",
+      "arxiv_id": "2307.02612",
+      "doi": "10.1016/j.infsof.2022.106908",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "Ethical and social risks of harm from Language Models",
+      "arxiv_id": "2112.04359",
+      "doi": null,
+      "publicationDate": "2021-12-08",
+      "year": 2021
+    },
+    {
+      "title": "Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions",
+      "arxiv_id": "2108.09293",
+      "doi": "10.1145/3610721",
+      "publicationDate": "2021-08-20",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜",
+      "arxiv_id": null,
+      "doi": "10.1145/3442188.3445922",
+      "publicationDate": "2021-03-03",
+      "year": 2021
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering",
+      "arxiv_id": "2004.09741",
+      "doi": "10.1016/j.infsof.2020.106294",
+      "publicationDate": "2020-04-21",
+      "year": 2020
+    },
+    {
+      "title": "Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy",
+      "arxiv_id": "2002.04087",
+      "doi": "10.1080/10447318.2020.1741118",
+      "publicationDate": "2020-02-10",
+      "year": 2020
+    },
+    {
+      "title": "Guidelines for Human-AI Interaction",
+      "arxiv_id": null,
+      "doi": "10.1145/3290605.3300233",
+      "publicationDate": "2019-05-02",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Software Quality for Machine Learning Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSTW.2018.00061",
+      "publicationDate": "2018-04-09",
+      "year": 2018
+    },
+    {
+      "title": "Repeatability in computer systems research",
+      "arxiv_id": null,
+      "doi": "10.1145/2812803",
+      "publicationDate": "2016-02-25",
+      "year": 2016
+    },
+    {
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/2601248.2601268",
+      "publicationDate": "2014-05-13",
+      "year": 2014
+    },
+    {
+      "title": "Relating requirements to implementation via topic analysis: Do topics extracted from requirements make sense to managers and developers?",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSM.2012.6405278",
+      "publicationDate": "2012-09-23",
+      "year": 2012
+    },
+    {
+      "title": "Systematic literature studies: Database searches vs. backward snowballing",
+      "arxiv_id": null,
+      "doi": "10.1145/2372251.2372257",
+      "publicationDate": "2012-09-19",
+      "year": 2012
+    },
+    {
+      "title": "Experimentation in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-29044-2",
+      "publicationDate": "2012-06-16",
+      "year": 2012
+    },
+    {
+      "title": "Recommended Steps for Thematic Synthesis in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/ESEM.2011.36",
+      "publicationDate": "2011-09-22",
+      "year": 2011
+    },
+    {
+      "title": "Guidelines for conducting and reporting case study research in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-008-9102-8",
+      "publicationDate": "2009-04-01",
+      "year": 2009
+    },
+    {
+      "title": "The road ahead for Mining Software Repositories",
+      "arxiv_id": null,
+      "doi": "10.1109/FOSM.2008.4659248",
+      "publicationDate": "2008-10-24",
+      "year": 2008
+    },
+    {
+      "title": "Systematic Mapping Studies in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.14236/EWIC/EASE2008.8",
+      "publicationDate": "2008-06-26",
+      "year": 2008
+    },
+    {
+      "title": "Guide to Advanced Empirical Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-84800-044-5",
+      "publicationDate": "2007-10-01",
+      "year": 2007
+    },
+    {
+      "title": "Performing systematic literature reviews in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134500",
+      "publicationDate": "2006-05-28",
+      "year": 2006
+    },
+    {
+      "title": "Evidence-based software engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2004.1317449",
+      "publicationDate": "2004-05-23",
+      "year": 2004
+    },
+    {
+      "title": "Mining version histories to guide software changes",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2004.1317478",
+      "publicationDate": "2004-05-23",
+      "year": 2004
+    },
+    {
+      "title": "Preliminary Guidelines for Empirical Research in Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2002.1027796",
+      "publicationDate": "2002-08-01",
+      "year": 2002
+    },
+    {
+      "title": "A model for types and levels of human interaction with automation",
+      "arxiv_id": null,
+      "doi": "10.1109/3468.844354",
+      "publicationDate": "2000-05-01",
+      "year": 2000
+    },
+    {
+      "title": "2023. Large language models for qualitative research in software engineering: exploring opportunities and challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Human-Level Alignment and Evaluation Quality emphasizes the extent to which LLM outputs approximate human judgment and",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. Guidelines for Empirical Studies in Software Engineering involving Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Analytical Performance and Capability captures the analytical value attributed to LLMs, particularly their ability to support cognitively demanding tasks such as",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Analysis & Synthesis: Involves interpreting processed data to derive insights via statistical analysis, qualitative coding, or synthesis across primary studies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Planning & Design: Encompasses scoping, research question formulation, and selection of study protocols, instruments, and experimental designs to establish the theoretical and procedural framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Reporting: Entails structured documentation, visualization of results, discussion of threats to validity, and dissemination to ensure reproducibility and communicability",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Chain-of-thought prompting elicits reasoning in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Efficiency Gains and Scalability in Empirical Workflows highlights the role of LLMs in",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Gomes et",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

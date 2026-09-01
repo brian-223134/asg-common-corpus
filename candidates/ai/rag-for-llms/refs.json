@@ -1,0 +1,1437 @@
+{
+  "candidate": {
+    "topic": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3805774",
+      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+      "published": "2026-05-15"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T02:22:31+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 200,
+    "arxiv_resolvable": 144,
+    "doi_only": 31,
+    "unresolved": 25
+  },
+  "gt_s2": {
+    "paperId": "94034fd2ed4b6cf41113abb7adc9ae469313c958",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2404-10981",
+      "ArXiv": "2404.10981",
+      "DOI": "10.1145/3805774",
+      "CorpusId": 269188036
+    },
+    "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 200,
+    "publicationDate": "2024-04-17"
+  },
+  "refs": [
+    {
+      "title": "Synthesizing scientific literature with retrieval-augmented language models",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-025-10072-4",
+      "publicationDate": "2026-02-04",
+      "year": 2026
+    },
+    {
+      "title": "SageRAG: Query rewriting for retrieval enhancement and retrieval-augmented generation for grounded responses in AI research assistance",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2026.131160",
+      "publicationDate": "2026-01-01",
+      "year": 2026
+    },
+    {
+      "title": "An LLM-based cross-domain knowledge retrieval augmented generation method for bio-inspired solution design",
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2025.104017",
+      "publicationDate": "2026-01-01",
+      "year": 2026
+    },
+    {
+      "title": "Redefining Retrieval Evaluation in the Era of LLMs",
+      "arxiv_id": "2510.21440",
+      "doi": "10.48550/arXiv.2510.21440",
+      "publicationDate": "2025-10-24",
+      "year": 2025
+    },
+    {
+      "title": "REFRAG: Rethinking RAG based Decoding",
+      "arxiv_id": "2509.01092",
+      "doi": "10.48550/arXiv.2509.01092",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism",
+      "arxiv_id": null,
+      "doi": "10.1145/3690624.3709194",
+      "publicationDate": "2025-07-20",
+      "year": 2025
+    },
+    {
+      "title": "Do RAG Systems Really Suffer From Positional Bias?",
+      "arxiv_id": "2505.15561",
+      "doi": "10.18653/v1/2025.emnlp-main.1422",
+      "publicationDate": "2025-05-21",
+      "year": 2025
+    },
+    {
+      "title": "Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey",
+      "arxiv_id": "2504.14891",
+      "doi": "10.48550/arXiv.2504.14891",
+      "publicationDate": "2025-04-21",
+      "year": 2025
+    },
+    {
+      "title": "Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation",
+      "arxiv_id": "2504.05731",
+      "doi": "10.1145/3726302.3730075",
+      "publicationDate": "2025-04-08",
+      "year": 2025
+    },
+    {
+      "title": "Improving RAG for Personalization with Author Features and Contrastive Examples",
+      "arxiv_id": "2504.08745",
+      "doi": "10.1007/978-3-031-88714-7_40",
+      "publicationDate": "2025-03-24",
+      "year": 2025
+    },
+    {
+      "title": "Does RAG Really Perform Bad For Long-Context Processing?",
+      "arxiv_id": "2502.11444",
+      "doi": "10.48550/arXiv.2502.11444",
+      "publicationDate": "2025-02-17",
+      "year": 2025
+    },
+    {
+      "title": "Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control",
+      "arxiv_id": "2502.12145",
+      "doi": "10.48550/arXiv.2502.12145",
+      "publicationDate": "2025-02-17",
+      "year": 2025
+    },
+    {
+      "title": "Enhancing Retrieval-Augmented Generation: A Study of Best Practices",
+      "arxiv_id": "2501.07391",
+      "doi": "10.48550/arXiv.2501.07391",
+      "publicationDate": "2025-01-13",
+      "year": 2025
+    },
+    {
+      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "arxiv_id": "2410.05779",
+      "doi": "10.48550/arXiv.2410.05779",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG",
+      "arxiv_id": "2410.05983",
+      "doi": "10.48550/arXiv.2410.05983",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation",
+      "arxiv_id": "2409.05591",
+      "doi": "10.1145/3696410.3714805",
+      "publicationDate": "2024-09-09",
+      "year": 2024
+    },
+    {
+      "title": "In Defense of RAG in the Era of Long-Context Language Models",
+      "arxiv_id": "2409.01666",
+      "doi": "10.48550/arXiv.2409.01666",
+      "publicationDate": "2024-09-03",
+      "year": 2024
+    },
+    {
+      "title": "Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks",
+      "arxiv_id": "2407.21059",
+      "doi": "10.1145/3837856",
+      "publicationDate": "2024-07-26",
+      "year": 2024
+    },
+    {
+      "title": "Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach",
+      "arxiv_id": "2407.16833",
+      "doi": "10.48550/arXiv.2407.16833",
+      "publicationDate": "2024-07-23",
+      "year": 2024
+    },
+    {
+      "title": "PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents",
+      "arxiv_id": "2407.09394",
+      "doi": "10.48550/arXiv.2407.09394",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Learning Retrieval Augmentation for Personalized Dialogue Generation",
+      "arxiv_id": "2406.18847",
+      "doi": "10.18653/v1/2023.emnlp-main.154",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers",
+      "arxiv_id": "2406.12430",
+      "doi": "10.48550/arXiv.2406.12430",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection",
+      "arxiv_id": "2405.16178",
+      "doi": "10.48550/arXiv.2405.16178",
+      "publicationDate": "2024-05-25",
+      "year": 2024
+    },
+    {
+      "title": "xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token",
+      "arxiv_id": "2405.13792",
+      "doi": "10.48550/arXiv.2405.13792",
+      "publicationDate": "2024-05-22",
+      "year": 2024
+    },
+    {
+      "title": "IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues",
+      "arxiv_id": "2405.13021",
+      "doi": "10.1145/3626772.3657760",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Reconsidering Tree based Methods for k-Maximum Inner-Product Search: The LRUS-CoverTree",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00355",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Evaluation of Retrieval-Augmented Generation: A Survey",
+      "arxiv_id": "2405.07437",
+      "doi": "10.1007/978-981-96-1024-2_8",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization",
+      "arxiv_id": "2405.06683",
+      "doi": "10.3233/FAIA240748",
+      "publicationDate": "2024-05-06",
+      "year": 2024
+    },
+    {
+      "title": "AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free Information Retrieval",
+      "arxiv_id": "2404.06004",
+      "doi": "10.48550/arXiv.2404.06004",
+      "publicationDate": "2024-04-09",
+      "year": 2024
+    },
+    {
+      "title": "Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation",
+      "arxiv_id": "2404.05970",
+      "doi": "10.1145/3626772.3657783",
+      "publicationDate": "2024-04-09",
+      "year": 2024
+    },
+    {
+      "title": "Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation",
+      "arxiv_id": "2403.14952",
+      "doi": "10.48550/arXiv.2403.14952",
+      "publicationDate": "2024-03-22",
+      "year": 2024
+    },
+    {
+      "title": "SPLADE-v3: New baselines for SPLADE",
+      "arxiv_id": "2403.06789",
+      "doi": "10.48550/arXiv.2403.06789",
+      "publicationDate": "2024-03-11",
+      "year": 2024
+    },
+    {
+      "title": "PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design",
+      "arxiv_id": "2403.05676",
+      "doi": "10.48550/arXiv.2403.05676",
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+      "arxiv_id": "2402.19473",
+      "doi": "10.48550/arXiv.2402.19473",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Benchmarking Retrieval-Augmented Generation for Medicine",
+      "arxiv_id": "2402.13178",
+      "doi": "10.48550/arXiv.2402.13178",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "BlendFilter: Advancing Retrieval-Augmented Large Language Models via Query Generation Blending and Knowledge Filtering",
+      "arxiv_id": "2402.11129",
+      "doi": "10.48550/arXiv.2402.11129",
+      "publicationDate": "2024-02-16",
+      "year": 2024
+    },
+    {
+      "title": "List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation",
+      "arxiv_id": "2402.02764",
+      "doi": "10.1145/3589334.3645336",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval",
+      "arxiv_id": "2401.18059",
+      "doi": "10.48550/arXiv.2401.18059",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "The Power of Noise: Redefining Retrieval for RAG Systems",
+      "arxiv_id": "2401.14887",
+      "doi": "10.1145/3626772.3657834",
+      "publicationDate": "2024-01-26",
+      "year": 2024
+    },
+    {
+      "title": "SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling",
+      "arxiv_id": "2312.15166",
+      "doi": "10.48550/arXiv.2312.15166",
+      "publicationDate": "2023-12-23",
+      "year": 2023
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+      "arxiv_id": "2312.10997",
+      "doi": null,
+      "publicationDate": "2023-12-18",
+      "year": 2023
+    },
+    {
+      "title": "LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData59044.2023.10386517",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2311.09476",
+      "doi": "10.48550/arXiv.2311.09476",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge",
+      "arxiv_id": "2311.08147",
+      "doi": "10.48550/arXiv.2311.08147",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Learning to Filter Context for Retrieval-Augmented Generation",
+      "arxiv_id": "2311.08377",
+      "doi": "10.48550/arXiv.2311.08377",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter",
+      "arxiv_id": "2310.18347",
+      "doi": "10.48550/arXiv.2310.18347",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Retrieval-augmented Reader Models via Token Elimination",
+      "arxiv_id": "2310.13682",
+      "doi": "10.48550/arXiv.2310.13682",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+      "arxiv_id": "2310.11511",
+      "doi": null,
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models",
+      "arxiv_id": "2310.09949",
+      "doi": "10.14778/3696435.3696439",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "Fine-Tuning LLaMA for Multi-Stage Text Retrieval",
+      "arxiv_id": "2310.08319",
+      "doi": "10.1145/3626772.3657951",
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading",
+      "arxiv_id": "2310.05029",
+      "doi": "10.48550/arXiv.2310.05029",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation",
+      "arxiv_id": "2310.04408",
+      "doi": "10.48550/arXiv.2310.04408",
+      "publicationDate": "2023-10-06",
+      "year": 2023
+    },
+    {
+      "title": "RA-DIT: Retrieval-Augmented Dual Instruction Tuning",
+      "arxiv_id": "2310.01352",
+      "doi": "10.48550/arXiv.2310.01352",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Retrieval-Augmented Text-to-Audio Generation",
+      "arxiv_id": "2309.08051",
+      "doi": "10.1109/ICASSP48485.2024.10447898",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "C-Pack: Packed Resources For General Chinese Embeddings",
+      "arxiv_id": "2309.07597",
+      "doi": "10.1145/3626772.3657878",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases",
+      "arxiv_id": "2308.11761",
+      "doi": "10.48550/arXiv.2308.11761",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models for Information Retrieval: A Survey",
+      "arxiv_id": "2308.07107",
+      "doi": "10.1145/3748304",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Lost in the Middle: How Language Models Use Long Contexts",
+      "arxiv_id": "2307.03172",
+      "doi": "10.1162/tacl_a_00638",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting",
+      "arxiv_id": "2306.17563",
+      "doi": "10.48550/arXiv.2306.17563",
+      "publicationDate": "2023-06-30",
+      "year": 2023
+    },
+    {
+      "title": "Evaluation of ChatGPT on Biomedical Tasks: A Zero-Shot Comparison with Fine-Tuned Generative Transformers",
+      "arxiv_id": "2306.04504",
+      "doi": "10.48550/arXiv.2306.04504",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation",
+      "arxiv_id": "2305.18846",
+      "doi": "10.48550/arXiv.2305.18846",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets",
+      "arxiv_id": "2305.18486",
+      "doi": "10.48550/arXiv.2305.18486",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In",
+      "arxiv_id": "2305.17331",
+      "doi": "10.48550/arXiv.2305.17331",
+      "publicationDate": "2023-05-27",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy",
+      "arxiv_id": "2305.15294",
+      "doi": "10.48550/arXiv.2305.15294",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources",
+      "arxiv_id": "2305.13269",
+      "doi": null,
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "Augmented Large Language Models with Parametric Knowledge Guiding",
+      "arxiv_id": "2305.04757",
+      "doi": "10.48550/arXiv.2305.04757",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory",
+      "arxiv_id": "2305.02437",
+      "doi": "10.48550/arXiv.2305.02437",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation",
+      "arxiv_id": "2303.08518",
+      "doi": "10.48550/arXiv.2303.08518",
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "Naver Labs Europe (SPLADE) @ TREC NeuCLIR 2022",
+      "arxiv_id": "2303.11171",
+      "doi": "10.48550/arXiv.2303.11171",
+      "publicationDate": "2023-03-10",
+      "year": 2023
+    },
+    {
+      "title": "How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval",
+      "arxiv_id": "2302.07452",
+      "doi": "10.48550/arXiv.2302.07452",
+      "publicationDate": "2023-02-15",
+      "year": 2023
+    },
+    {
+      "title": "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning",
+      "arxiv_id": "2302.04858",
+      "doi": "10.48550/arXiv.2302.04858",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "In-Context Retrieval-Augmented Language Models",
+      "arxiv_id": "2302.00083",
+      "doi": "10.1162/tacl_a_00605",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "REPLUG: Retrieval-Augmented Black-Box Language Models",
+      "arxiv_id": "2301.12652",
+      "doi": "10.48550/arXiv.2301.12652",
+      "publicationDate": "2023-01-30",
+      "year": 2023
+    },
+    {
+      "title": "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP",
+      "arxiv_id": "2212.14024",
+      "doi": "10.48550/arXiv.2212.14024",
+      "publicationDate": "2022-12-28",
+      "year": 2022
+    },
+    {
+      "title": "Precise Zero-Shot Dense Retrieval without Relevance Labels",
+      "arxiv_id": "2212.10496",
+      "doi": "10.18653/v1/2023.acl-long.99",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+      "arxiv_id": "2212.10509",
+      "doi": "10.48550/arXiv.2212.10509",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories",
+      "arxiv_id": "2212.10511",
+      "doi": "10.18653/v1/2023.acl-long.546",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "Reveal: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory",
+      "arxiv_id": "2212.05221",
+      "doi": "10.1109/CVPR52729.2023.02238",
+      "publicationDate": "2022-12-10",
+      "year": 2022
+    },
+    {
+      "title": "Text Embeddings by Weakly-Supervised Contrastive Pre-training",
+      "arxiv_id": "2212.03533",
+      "doi": null,
+      "publicationDate": "2022-12-07",
+      "year": 2022
+    },
+    {
+      "title": "XRR: Extreme multi-label text classification with candidate retrieving and deep ranking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2022.11.158",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Dense Text Retrieval Based on Pretrained Language Models: A Survey",
+      "arxiv_id": "2211.14876",
+      "doi": "10.1145/3637870",
+      "publicationDate": "2022-11-27",
+      "year": 2022
+    },
+    {
+      "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+      "arxiv_id": "2211.05100",
+      "doi": null,
+      "publicationDate": "2022-11-09",
+      "year": 2022
+    },
+    {
+      "title": "Scaling Instruction-Finetuned Language Models",
+      "arxiv_id": "2210.11416",
+      "doi": "10.48550/arXiv.2210.11416",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses",
+      "arxiv_id": "2210.10634",
+      "doi": "10.1145/3539618.3592047",
+      "publicationDate": "2022-10-12",
+      "year": 2022
+    },
+    {
+      "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
+      "arxiv_id": "2210.02928",
+      "doi": "10.48550/arXiv.2210.02928",
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Re-Imagen: Retrieval-Augmented Text-to-Image Generator",
+      "arxiv_id": "2209.14491",
+      "doi": "10.48550/arXiv.2209.14491",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation",
+      "arxiv_id": "2209.14290",
+      "doi": "10.1145/3539618.3591687",
+      "publicationDate": "2022-09-28",
+      "year": 2022
+    },
+    {
+      "title": "Promptagator: Few-shot Dense Retrieval From 8 Examples",
+      "arxiv_id": "2209.11755",
+      "doi": "10.48550/arXiv.2209.11755",
+      "publicationDate": "2022-09-23",
+      "year": 2022
+    },
+    {
+      "title": "Generate rather than Retrieve: Large Language Models are Strong Context Generators",
+      "arxiv_id": "2209.10063",
+      "doi": null,
+      "publicationDate": "2022-09-21",
+      "year": 2022
+    },
+    {
+      "title": "Few-shot Learning with Retrieval Augmented Language Models",
+      "arxiv_id": "2208.03299",
+      "doi": null,
+      "publicationDate": "2022-08-05",
+      "year": 2022
+    },
+    {
+      "title": "Retrieval-Augmented Transformer for Image Captioning",
+      "arxiv_id": "2207.13162",
+      "doi": "10.1145/3549555.3549585",
+      "publicationDate": "2022-07-26",
+      "year": 2022
+    },
+    {
+      "title": "RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder",
+      "arxiv_id": "2205.12035",
+      "doi": "10.18653/v1/2022.emnlp-main.35",
+      "publicationDate": "2022-05-24",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Autoregressive Search Engines: Generating Substrings as Document Identifiers",
+      "arxiv_id": "2204.10628",
+      "doi": "10.48550/arXiv.2204.10628",
+      "publicationDate": "2022-04-22",
+      "year": 2022
+    },
+    {
+      "title": "GPT-NeoX-20B: An Open-Source Autoregressive Language Model",
+      "arxiv_id": "2204.06745",
+      "doi": "10.48550/arXiv.2204.06745",
+      "publicationDate": "2022-04-14",
+      "year": 2022
+    },
+    {
+      "title": "GERE: Generative Evidence Retrieval for Fact Verification",
+      "arxiv_id": "2204.05511",
+      "doi": "10.1145/3477495.3531827",
+      "publicationDate": "2022-04-12",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "SGPT: GPT Sentence Embeddings for Semantic Search",
+      "arxiv_id": "2202.08904",
+      "doi": null,
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation",
+      "arxiv_id": "2202.07654",
+      "doi": "10.18653/v1/2022.emnlp-main.20",
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Transformer Memory as a Differentiable Search Index",
+      "arxiv_id": "2202.06991",
+      "doi": "10.52202/068431-1587",
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Retrieval-Augmented Text Generation",
+      "arxiv_id": "2202.01110",
+      "doi": null,
+      "publicationDate": "2022-02-02",
+      "year": 2022
+    },
+    {
+      "title": "WebFormer: The Web-page Transformer for Structure Information Extraction",
+      "arxiv_id": "2202.00217",
+      "doi": "10.1145/3485447.3512032",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "WebGPT: Browser-assisted question-answering with human feedback",
+      "arxiv_id": "2112.09332",
+      "doi": null,
+      "publicationDate": "2021-12-17",
+      "year": 2021
+    },
+    {
+      "title": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+      "arxiv_id": "2112.09118",
+      "doi": null,
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "Large Dual Encoders Are Generalizable Retrievers",
+      "arxiv_id": "2112.07899",
+      "doi": "10.18653/v1/2022.emnlp-main.669",
+      "publicationDate": "2021-12-15",
+      "year": 2021
+    },
+    {
+      "title": "Learning to Retrieve Passages without Supervision",
+      "arxiv_id": "2112.07708",
+      "doi": "10.18653/v1/2022.naacl-main.193",
+      "publicationDate": "2021-12-14",
+      "year": 2021
+    },
+    {
+      "title": "Improving language models by retrieving from trillions of tokens",
+      "arxiv_id": "2112.04426",
+      "doi": null,
+      "publicationDate": "2021-12-08",
+      "year": 2021
+    },
+    {
+      "title": "Understanding Jargon: Combining Extraction and Generation for Definition Modeling",
+      "arxiv_id": "2111.07267",
+      "doi": "10.18653/v1/2022.emnlp-main.266",
+      "publicationDate": "2021-11-14",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+      "arxiv_id": "2104.08821",
+      "doi": "10.18653/v1/2021.emnlp-main.552",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "GPT-Neo: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.5297715",
+      "publicationDate": "2021-03-21",
+      "year": 2021
+    },
+    {
+      "title": "GLM: General Language Model Pretraining with Autoregressive Blank Infilling",
+      "arxiv_id": "2103.10360",
+      "doi": "10.18653/v1/2022.acl-long.26",
+      "publicationDate": "2021-03-18",
+      "year": 2021
+    },
+    {
+      "title": "Semantic Models for the First-Stage Retrieval: A Comprehensive Review",
+      "arxiv_id": "2103.04831",
+      "doi": "10.1145/3486250",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Locality Sensitive Hashing Algorithms and their Applications",
+      "arxiv_id": "2102.08942",
+      "doi": null,
+      "publicationDate": "2021-02-17",
+      "year": 2021
+    },
+    {
+      "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+      "arxiv_id": "2101.00027",
+      "doi": null,
+      "publicationDate": "2020-12-31",
+      "year": 2020
+    },
+    {
+      "title": "WSL-DS: Weakly Supervised Learning with Distant Supervision for Query Focused Multi-Document Abstractive Summarization",
+      "arxiv_id": "2011.01421",
+      "doi": "10.18653/V1/2020.COLING-MAIN.495",
+      "publicationDate": "2020-11-03",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Knowledge-enhanced Text Generation",
+      "arxiv_id": "2010.04389",
+      "doi": "10.1145/3512467",
+      "publicationDate": "2020-10-09",
+      "year": 2020
+    },
+    {
+      "title": "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams",
+      "arxiv_id": "2009.13081",
+      "doi": "10.20944/PREPRINTS202105.0498.V1",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Graph Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.2200/S01045ED1V01Y202009AIM046",
+      "publicationDate": "2020-09-15",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+      "arxiv_id": "2009.02252",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.200",
+      "publicationDate": "2020-09-04",
+      "year": 2020
+    },
+    {
+      "title": "PARADE: Passage Representation Aggregation forDocument Reranking",
+      "arxiv_id": "2008.09093",
+      "doi": "10.1145/3600088",
+      "publicationDate": "2020-08-20",
+      "year": 2020
+    },
+    {
+      "title": "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering",
+      "arxiv_id": "2007.01282",
+      "doi": "10.18653/v1/2021.eacl-main.74",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval",
+      "arxiv_id": "2007.00808",
+      "doi": null,
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Few-Shot Generative Conversational Query Rewriting",
+      "arxiv_id": "2006.05009",
+      "doi": "10.1145/3397271.3401323",
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "arxiv_id": "2005.11401",
+      "doi": null,
+      "publicationDate": "2020-05-22",
+      "year": 2020
+    },
+    {
+      "title": "Query Focused Abstractive Summarization via Incorporating Query Relevance and Transfer Learning with Transformer Models",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-47358-7_35",
+      "publicationDate": "2020-05-13",
+      "year": 2020
+    },
+    {
+      "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+      "arxiv_id": "2004.12832",
+      "doi": "10.1145/3397271.3401075",
+      "publicationDate": "2020-04-27",
+      "year": 2020
+    },
+    {
+      "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+      "arxiv_id": "2004.04906",
+      "doi": "10.18653/v1/2020.emnlp-main.550",
+      "publicationDate": "2020-04-10",
+      "year": 2020
+    },
+    {
+      "title": "Document Ranking with a Pretrained Sequence-to-Sequence Model",
+      "arxiv_id": "2003.06713",
+      "doi": "10.18653/v1/2020.findings-emnlp.63",
+      "publicationDate": "2020-03-14",
+      "year": 2020
+    },
+    {
+      "title": "REALM: Retrieval-Augmented Language Model Pre-Training",
+      "arxiv_id": "2002.08909",
+      "doi": null,
+      "publicationDate": "2020-02-10",
+      "year": 2020
+    },
+    {
+      "title": "Unsupervised Cross-lingual Representation Learning at Scale",
+      "arxiv_id": "1911.02116",
+      "doi": "10.18653/v1/2020.acl-main.747",
+      "publicationDate": "2019-11-05",
+      "year": 2019
+    },
+    {
+      "title": "Generalization through Memorization: Nearest Neighbor Language Models",
+      "arxiv_id": "1911.00172",
+      "doi": null,
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Stage Document Ranking with BERT",
+      "arxiv_id": "1910.14424",
+      "doi": null,
+      "publicationDate": "2019-10-31",
+      "year": 2019
+    },
+    {
+      "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+      "arxiv_id": "1910.13461",
+      "doi": "10.18653/v1/2020.acl-main.703",
+      "publicationDate": "2019-10-29",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "PubMedQA: A Dataset for Biomedical Research Question Answering",
+      "arxiv_id": "1909.06146",
+      "doi": "10.18653/v1/D19-1259",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Natural Questions: A Benchmark for Question Answering Research",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00276",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+      "arxiv_id": "1905.00537",
+      "doi": null,
+      "publicationDate": "2019-05-02",
+      "year": 2019
+    },
+    {
+      "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents",
+      "arxiv_id": "1811.01241",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+      "arxiv_id": "1809.09600",
+      "doi": "10.18653/v1/D18-1259",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "T-REx: A Large Scale Alignment of Natural Language with Knowledge Base Triples",
+      "arxiv_id": null,
+      "doi": "10.63317/2yu5nu76n7bu",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Learning a Deep Listwise Context Model for Ranking Refinement",
+      "arxiv_id": "1804.05936",
+      "doi": "10.1145/3209978.3209985",
+      "publicationDate": "2018-04-16",
+      "year": 2018
+    },
+    {
+      "title": "EventKG: A Multilingual Event-Centric Temporal Knowledge Graph",
+      "arxiv_id": "1804.04526",
+      "doi": "10.1007/978-3-319-93417-4_18",
+      "publicationDate": "2018-04-12",
+      "year": 2018
+    },
+    {
+      "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification",
+      "arxiv_id": "1803.05355",
+      "doi": "10.18653/v1/N18-1074",
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+      "arxiv_id": "1705.03551",
+      "doi": "10.18653/v1/P17-1147",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Billion-Scale Similarity Search with GPUs",
+      "arxiv_id": "1702.08734",
+      "doi": "10.1109/tbdata.2019.2921572",
+      "publicationDate": "2017-02-28",
+      "year": 2017
+    },
+    {
+      "title": "Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs",
+      "arxiv_id": "1603.09320",
+      "doi": "10.1109/TPAMI.2018.2889473",
+      "publicationDate": "2016-03-30",
+      "year": 2016
+    },
+    {
+      "title": "An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition",
+      "arxiv_id": null,
+      "doi": "10.1186/s12859-015-0564-6",
+      "publicationDate": "2015-04-30",
+      "year": 2015
+    },
+    {
+      "title": "Beyond Locality-Sensitive Hashing",
+      "arxiv_id": "1306.1547",
+      "doi": "10.1137/1.9781611973402.76",
+      "publicationDate": "2013-06-06",
+      "year": 2013
+    },
+    {
+      "title": "High performance query expansion using adaptive co-training",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2012.08.002",
+      "publicationDate": "2013-03-01",
+      "year": 2013
+    },
+    {
+      "title": "Finding a good query-related topic for boosting pseudo-relevance feedback",
+      "arxiv_id": null,
+      "doi": "10.1002/ASI.21501",
+      "publicationDate": "2011-04-01",
+      "year": 2011
+    },
+    {
+      "title": "Comparing the sensitivity of information retrieval metrics",
+      "arxiv_id": null,
+      "doi": "10.1145/1835449.1835560",
+      "publicationDate": "2010-07-19",
+      "year": 2010
+    },
+    {
+      "title": "A bayesian learning approach to promoting diversity in ranking for biomedical information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/1571941.1571995",
+      "publicationDate": "2009-07-19",
+      "year": 2009
+    },
+    {
+      "title": "The Probabilistic Relevance Framework: BM25 and Beyond",
+      "arxiv_id": null,
+      "doi": "10.1561/1500000019",
+      "publicationDate": "2009-04-01",
+      "year": 2009
+    },
+    {
+      "title": "Applying Data Mining to Pseudo-Relevance Feedback for High Performance Text Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2006.22",
+      "publicationDate": "2006-12-18",
+      "year": 2006
+    },
+    {
+      "title": "Evaluating the information quality of Web sites: A methodology based on fuzzy computing with words",
+      "arxiv_id": null,
+      "doi": "10.1002/asi.20308",
+      "publicationDate": "2006-02-15",
+      "year": 2006
+    },
+    {
+      "title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-07-25",
+      "year": 2004
+    },
+    {
+      "title": "Locality-sensitive hashing scheme based on p-stable distributions",
+      "arxiv_id": null,
+      "doi": "10.1145/997817.997857",
+      "publicationDate": "2004-06-08",
+      "year": 2004
+    },
+    {
+      "title": "Investigating the Relationship between Word Segmentation Performance and Retrieval Performance in Chinese IR",
+      "arxiv_id": null,
+      "doi": "10.3115/1072228.1072376",
+      "publicationDate": "2002-08-24",
+      "year": 2002
+    },
+    {
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+      "arxiv_id": null,
+      "doi": "10.3115/1073083.1073135",
+      "publicationDate": "2002-07-06",
+      "year": 2002
+    },
+    {
+      "title": "An optimal algorithm for approximate nearest neighbor searching fixed dimensions",
+      "arxiv_id": null,
+      "doi": "10.1145/293347.293348",
+      "publicationDate": "1998-11-01",
+      "year": 1998
+    },
+    {
+      "title": "American",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1898-05-01",
+      "year": 1898
+    },
+    {
+      "title": "Enhancing Retrieval-Augmented Generation via Evidence Tree Search",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.1175",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". ExploringChatGPTforNext-generationInformationRetrieval:Opportunities and Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Retrieval Augmented Generation with Rich Answer Encoding",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.ijcnlp-main.65",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Diversified Prior Knowledge Enhanced General Language Model for Biomedical Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.3233/FAIA230385",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data Only",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "2023. The RefinedWeb Dataset for Falcon LLM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "An Introduction to Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-39314-3_1",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Effective Pattern Discovery for Text Mining",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2010.211",
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Product Quantization for Nearest Neighbor Search",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2010.57",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Patterns of query reformulation during Web searching",
+      "arxiv_id": null,
+      "doi": "10.1002/asi.21071",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "revised 12 March 2009; accepted 5 June 2009 , Vol. 1, No. 1, Article",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Evaluating the Information Quality of Web Sites : A Methodology Based on Fuzzy Computing With Words",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Proceedings of Sheffield SIGIR, 2004, July 25th-29th : the Twenty-Seventh Annual International ACM SIGIR Conference on Research and Development in information Retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Okapi at TREC-5",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": "Combination of Multiple Searches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1993
+    },
+    {
+      "title": "2024. DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Query2doc: Query Expansion with Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Re2G: Retrieve, Rerank, Generate",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Chain-of-verification reduces hallucination in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. “Knowing when you don’t Know”: A multilingual relevance assessment dataset for robust Retrieval-Augmented Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Phoenix: Democratizing ChatGPT across Languages",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Instruction tuning with gpt-4",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Landmark embedding: A chunking-free embedding method for retrieval augmented long-context large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Survey of hallucination in natural language generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. UL2: Unifying Language Learning Paradigms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

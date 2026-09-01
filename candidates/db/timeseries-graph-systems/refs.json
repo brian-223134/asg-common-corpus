@@ -1,0 +1,597 @@
+{
+  "candidate": {
+    "topic": "Combining Time-Series and Graph Data",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": "2601.00304",
+      "doi": null,
+      "title": "Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches",
+      "published": "2026-01-01"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T03:02:36+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 80,
+    "arxiv_resolvable": 11,
+    "doi_only": 41,
+    "unresolved": 28
+  },
+  "gt_s2": {
+    "paperId": "99f36fbc03755b79e1a9c58069b43a284fc6e493",
+    "externalIds": {
+      "ArXiv": "2601.00304",
+      "DBLP": "journals/corr/abs-2601-00304",
+      "DOI": "10.48550/arXiv.2601.00304",
+      "CorpusId": 284475939
+    },
+    "title": "Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches",
+    "venue": "arXiv.org",
+    "year": 2026,
+    "referenceCount": 80,
+    "publicationDate": "2026-01-01"
+  },
+  "refs": [
+    {
+      "title": "Survey: On the Landscape of Graph Databases",
+      "arxiv_id": "2505.24758",
+      "doi": null,
+      "publicationDate": "2025-05-30",
+      "year": 2025
+    },
+    {
+      "title": "Managing data of sensor-equipped transportation networks using graph databases",
+      "arxiv_id": null,
+      "doi": "10.5194/gi-13-353-2024",
+      "publicationDate": "2024-11-27",
+      "year": 2024
+    },
+    {
+      "title": "Understanding Graph Databases: A Comprehensive Tutorial and Survey",
+      "arxiv_id": "2411.09999",
+      "doi": "10.48550/arXiv.2411.09999",
+      "publicationDate": "2024-11-15",
+      "year": 2024
+    },
+    {
+      "title": "An Empirical Evaluation of Temporal Graph Benchmark",
+      "arxiv_id": "2307.12510",
+      "doi": "10.48550/arXiv.2307.12510",
+      "publicationDate": "2023-07-24",
+      "year": 2023
+    },
+    {
+      "title": "TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications",
+      "arxiv_id": null,
+      "doi": "10.14778/3611479.3611532",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting",
+      "arxiv_id": "2306.08259",
+      "doi": "10.48550/arXiv.2306.08259",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "Multi-model query languages: taming the variety of big data",
+      "arxiv_id": null,
+      "doi": "10.1007/s10619-023-07433-1",
+      "publicationDate": "2023-05-31",
+      "year": 2023
+    },
+    {
+      "title": "Polyglot Data Management: State of the Art & Open Challenges",
+      "arxiv_id": null,
+      "doi": "10.14778/3554821.3554891",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting",
+      "arxiv_id": "2206.09113",
+      "doi": "10.1145/3534678.3539396",
+      "publicationDate": "2022-06-18",
+      "year": 2022
+    },
+    {
+      "title": "HTAP Databases: What is New and What is Next",
+      "arxiv_id": null,
+      "doi": "10.1145/3514221.3522565",
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "PostgreSQL",
+      "arxiv_id": null,
+      "doi": "10.3139/9783446473157",
+      "publicationDate": "2022-06-07",
+      "year": 2022
+    },
+    {
+      "title": "Anomaly Detection in Time Series: A Comprehensive Evaluation",
+      "arxiv_id": null,
+      "doi": "10.14778/3538598.3538602",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Clock-G: A temporal graph management system with space-efficient storage technique",
+      "arxiv_id": null,
+      "doi": "10.1109/icde53745.2022.00215",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "SciTS: A Benchmark for Time-Series Databases in Scientific Experiments and Industrial Internet of Things",
+      "arxiv_id": "2204.09795",
+      "doi": "10.1145/3538712.3538723",
+      "publicationDate": "2022-04-20",
+      "year": 2022
+    },
+    {
+      "title": "Graph Pattern Matching in GQL and SQL/PGQ",
+      "arxiv_id": "2112.06217",
+      "doi": "10.1145/3514221.3526057",
+      "publicationDate": "2021-12-12",
+      "year": 2021
+    },
+    {
+      "title": "Time-Series Database Benchmarking Framework for Power Measurement Data",
+      "arxiv_id": null,
+      "doi": "10.1109/RI2C51727.2021.9559822",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Graph",
+      "arxiv_id": null,
+      "doi": "10.1201/9781003093886-6",
+      "publicationDate": "2021-08-19",
+      "year": 2021
+    },
+    {
+      "title": "A Comparative Study of MongoDB, ArangoDB and CouchDB for Big Data Storage",
+      "arxiv_id": null,
+      "doi": "10.1145/3481646.3481648",
+      "publicationDate": "2021-08-13",
+      "year": 2021
+    },
+    {
+      "title": "A model and query language for temporal graph databases",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-021-00675-4",
+      "publicationDate": "2021-05-12",
+      "year": 2021
+    },
+    {
+      "title": "TS-Benchmark: A Benchmark for Time Series Databases",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE51399.2021.00057",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "RDF for temporal data management – a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s12145-021-00574-w",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "MySQL",
+      "arxiv_id": null,
+      "doi": "10.1017/9781108560412.008",
+      "publicationDate": "2020-02-29",
+      "year": 2020
+    },
+    {
+      "title": "Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries",
+      "arxiv_id": "1910.09017",
+      "doi": "10.1145/3604932",
+      "publicationDate": "2019-10-20",
+      "year": 2019
+    },
+    {
+      "title": "STanford EArthquake Dataset (STEAD): A Global Data Set of Seismic Signals for AI",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2947848",
+      "publicationDate": "2019-10-16",
+      "year": 2019
+    },
+    {
+      "title": "A Review of Polyglot Persistence in the Big Data World",
+      "arxiv_id": null,
+      "doi": "10.3390/INFO10040141",
+      "publicationDate": "2019-04-16",
+      "year": 2019
+    },
+    {
+      "title": "UniBench: A Benchmark for Multi-model Database Management Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-11404-6_2",
+      "publicationDate": "2018-08-31",
+      "year": 2018
+    },
+    {
+      "title": "Time Series Management Systems: A Survey",
+      "arxiv_id": "1710.01077",
+      "doi": "10.1109/TKDE.2017.2740932",
+      "publicationDate": "2017-10-03",
+      "year": 2017
+    },
+    {
+      "title": "Temporal graph algebra",
+      "arxiv_id": null,
+      "doi": "10.1145/3122831.3122838",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Time-Constrained Graph Pattern Matching in a Large Temporal Graph",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-63579-8_9",
+      "publicationDate": "2017-07-07",
+      "year": 2017
+    },
+    {
+      "title": "Analyzing Complex Data in Motion at Scale with Temporal Graphs",
+      "arxiv_id": null,
+      "doi": "10.18293/SEKE2017-048",
+      "publicationDate": "2017-07-05",
+      "year": 2017
+    },
+    {
+      "title": "Graph Data: The Next Frontier in Big Data Modeling for Various Domains",
+      "arxiv_id": null,
+      "doi": "10.17485/IJST/2017/V10I21/112828",
+      "publicationDate": "2017-06-20",
+      "year": 2017
+    },
+    {
+      "title": "UDBMS: Road to Unification for Multi-model Data Management",
+      "arxiv_id": "1612.08050",
+      "doi": "10.1007/978-3-030-01391-2_33",
+      "publicationDate": "2016-12-23",
+      "year": 2016
+    },
+    {
+      "title": "TGraph: A Temporal Graph Data Management System",
+      "arxiv_id": null,
+      "doi": "10.1145/2983323.2983335",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "LDBC Graphalytics: A Benchmark for Large-Scale Graph Analysis on Parallel and Distributed Platforms",
+      "arxiv_id": null,
+      "doi": "10.14778/3007263.3007270",
+      "publicationDate": "2016-09-01",
+      "year": 2016
+    },
+    {
+      "title": "Graph Databases: Their Power and Limitations",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-24369-6_5",
+      "publicationDate": "2015-09-24",
+      "year": 2015
+    },
+    {
+      "title": "ImmortalGraph: A System for Storage and Analysis of Temporal Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/2700302",
+      "publicationDate": "2015-07-29",
+      "year": 2015
+    },
+    {
+      "title": "An Introduction to Temporal Graphs: An Algorithmic Perspective*",
+      "arxiv_id": "1503.00278",
+      "doi": "10.1080/15427951.2016.1177801",
+      "publicationDate": "2015-03-01",
+      "year": 2015
+    },
+    {
+      "title": "Review on time series databases and recent research trends in Time Series Mining",
+      "arxiv_id": null,
+      "doi": "10.1109/CONFLUENCE.2014.6949290",
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Path Problems in Temporal Graphs",
+      "arxiv_id": null,
+      "doi": "10.14778/2732939.2732945",
+      "publicationDate": "2014-05-01",
+      "year": 2014
+    },
+    {
+      "title": "Streaming the Web: Reasoning over dynamic data",
+      "arxiv_id": null,
+      "doi": "10.1016/J.WEBSEM.2014.02.001",
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "A comparison of a graph database and a relational database: a data provenance perspective",
+      "arxiv_id": null,
+      "doi": "10.1145/1900008.1900067",
+      "publicationDate": "2010-04-15",
+      "year": 2010
+    },
+    {
+      "title": "Cassandra: a decentralized structured storage system",
+      "arxiv_id": null,
+      "doi": "10.1145/1773912.1773922",
+      "publicationDate": "2010-04-14",
+      "year": 2010
+    },
+    {
+      "title": "Oracle",
+      "arxiv_id": null,
+      "doi": "10.1145/1504271.1504311",
+      "publicationDate": "2008-12-10",
+      "year": 2008
+    },
+    {
+      "title": "Integrating a Stream Processing Engine and Databases for Persistent Streaming Data Management",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-74469-6_41",
+      "publicationDate": "2007-09-03",
+      "year": 2007
+    },
+    {
+      "title": "The 8 requirements of real-time stream processing",
+      "arxiv_id": null,
+      "doi": "10.1145/1107499.1107504",
+      "publicationDate": "2005-12-01",
+      "year": 2005
+    },
+    {
+      "title": "Towards Hybrid Graphs: Unifying Property Graphs and Time Series",
+      "arxiv_id": null,
+      "doi": "10.48786/edbt.2025.79",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Aion: Efficient Temporal Graph Data Management",
+      "arxiv_id": null,
+      "doi": "10.48786/edbt.2024.43",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Evolution of Degree Metrics in Large Temporal Graphs",
+      "arxiv_id": null,
+      "doi": "10.18420/BTW2023-23",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "MM-quecat: A Tool for Unified Querying of Multi-Model Data",
+      "arxiv_id": null,
+      "doi": "10.48786/edbt.2023.76",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Revisiting Polyglot Persistence: From Principles to Practice",
+      "arxiv_id": null,
+      "doi": "10.14569/ijacsa.2022.0130599",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "The next generation multi-model database supporting graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Temporal Data Representation and Querying Based on RDF",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2924550",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "MongoDB",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-4391-6_6",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Survey and Comparison of Open Source Time Series Databases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Polyglot Database Architectures = Polyglot Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "“overcoming sql strain and sql pain ”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Nosql databases polyglot persistence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "P2 Graph-TS Index mechanisms: Indexing support for graph and time series data as well as for composite indexing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "kairosDB",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "surrealdb",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Q3 ACID transactions across data types: Atomic, consistent updates that span graph and time-series entities in the same transaction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "D3 Temporal evolution: Support is needed for both current and historical data to capture how graphs and time series evolve over time",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "P1 Storage structure of graph and TS data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "D4 Streaming data support: The system should support ingestion, processing, and querying of unbounded high-velocity data streams",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards polyglot data stores–",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Kafka: an open-source distributed event streaming platform",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Introduction to redis streams",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": ": A persistent key-value store for fast storage environments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "couchbase",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "RedisTimeSeries. Ingest and query time series data with redis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Etl pipeline",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "P3 In-memory and disk storage: Support for in-memory storage and processing (e.g., for fast analysis) and external storage for persistence and durability",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "D1 Individual model coverage: There should be data model support for graph data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Analysis of financial time series data using mariadb columnstore, 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "P6 Active database support to react to changes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Bitemporal modeling: implementations, performance and use cases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Datastax graph as an extension of",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "P7 Openness. Commercial vs. open-source license. Systems released under an OSI-approved license [ (e.g., Apache 2.0, GPL, PostgreSQL license, MIT, BSD)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "P5 Retention policy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "timetraveldb",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

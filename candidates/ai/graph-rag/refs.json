@@ -1,0 +1,1843 @@
+{
+  "candidate": {
+    "topic": "Graph-Based Approaches and Functionalities in Retrieval-Augmented Generation",
+    "domain": "ai",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3795880",
+      "title": "Graph-Based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey",
+      "published": "2026-04-03"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T02:22:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 258,
+    "arxiv_resolvable": 173,
+    "doi_only": 53,
+    "unresolved": 32
+  },
+  "gt_s2": {
+    "paperId": "ea5e49b4e746793dee2f082b14062b85e6d9879b",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2504-10499",
+      "ArXiv": "2504.10499",
+      "DOI": "10.1145/3795880",
+      "CorpusId": 277786905
+    },
+    "title": "Graph-Based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 258,
+    "publicationDate": "2025-04-08"
+  },
+  "refs": [
+    {
+      "title": "Right Answer at the Right Time - Temporal Retrieval-Augmented Generation via Graph Summarization",
+      "arxiv_id": "2510.16715",
+      "doi": "10.48550/arXiv.2510.16715",
+      "publicationDate": "2025-10-19",
+      "year": 2025
+    },
+    {
+      "title": "DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning",
+      "arxiv_id": "2507.13396",
+      "doi": "10.48550/arXiv.2507.13396",
+      "publicationDate": "2025-07-16",
+      "year": 2025
+    },
+    {
+      "title": "Long Context vs. RAG: Strategies for Processing Long Documents in LLMs",
+      "arxiv_id": null,
+      "doi": "10.1145/3726302.3731690",
+      "publicationDate": "2025-07-13",
+      "year": 2025
+    },
+    {
+      "title": "RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning",
+      "arxiv_id": "2503.12759",
+      "doi": "10.18653/v1/2026.findings-eacl.294",
+      "publicationDate": "2025-03-17",
+      "year": 2025
+    },
+    {
+      "title": "Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning",
+      "arxiv_id": "2501.15228",
+      "doi": "10.48550/arXiv.2501.15228",
+      "publicationDate": "2025-01-25",
+      "year": 2025
+    },
+    {
+      "title": "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+      "arxiv_id": "2501.13958",
+      "doi": "10.48550/arXiv.2501.13958",
+      "publicationDate": "2025-01-21",
+      "year": 2025
+    },
+    {
+      "title": "Retrieval-Augmented Generation with Graphs (GraphRAG)",
+      "arxiv_id": "2501.00309",
+      "doi": "10.48550/arXiv.2501.00309",
+      "publicationDate": "2024-12-31",
+      "year": 2024
+    },
+    {
+      "title": "TimeRAG: Boosting LLM Time Series Forecasting via Retrieval-Augmented Generation",
+      "arxiv_id": "2412.16643",
+      "doi": "10.1109/ICASSP49660.2025.10889933",
+      "publicationDate": "2024-12-21",
+      "year": 2024
+    },
+    {
+      "title": "Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs",
+      "arxiv_id": "2412.07618",
+      "doi": "10.48550/arXiv.2412.07618",
+      "publicationDate": "2024-12-10",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective",
+      "arxiv_id": "2411.14258",
+      "doi": "10.1016/j.websem.2024.100844",
+      "publicationDate": "2024-11-21",
+      "year": 2024
+    },
+    {
+      "title": "RAGraph: A General Retrieval-Augmented Graph Learning Framework",
+      "arxiv_id": "2410.23855",
+      "doi": "10.48550/arXiv.2410.23855",
+      "publicationDate": "2024-10-31",
+      "year": 2024
+    },
+    {
+      "title": "GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph",
+      "arxiv_id": null,
+      "doi": "10.1145/3691620.3695054",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "Time-Sensitve Retrieval-Augmented Generation for Question Answering",
+      "arxiv_id": null,
+      "doi": "10.1145/3627673.3679800",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely",
+      "arxiv_id": "2409.14924",
+      "doi": "10.48550/arXiv.2409.14924",
+      "publicationDate": "2024-09-23",
+      "year": 2024
+    },
+    {
+      "title": "Trustworthiness in Retrieval-Augmented Generation Systems: A Survey",
+      "arxiv_id": "2409.10102",
+      "doi": "10.48550/arXiv.2409.10102",
+      "publicationDate": "2024-09-16",
+      "year": 2024
+    },
+    {
+      "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
+      "arxiv_id": "2409.12177",
+      "doi": "10.1145/3711896.3737028",
+      "publicationDate": "2024-09-05",
+      "year": 2024
+    },
+    {
+      "title": "Retrieval Augmented Generation for Dynamic Graph Modeling",
+      "arxiv_id": "2408.14523",
+      "doi": "10.1145/3726302.3729958",
+      "publicationDate": "2024-08-26",
+      "year": 2024
+    },
+    {
+      "title": "Topology-monitorable Contrastive Learning on Dynamic Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671777",
+      "publicationDate": "2024-08-24",
+      "year": 2024
+    },
+    {
+      "title": "GraphWiz: An Instruction-Following Language Model for Graph Computational Problems",
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3672010",
+      "publicationDate": "2024-08-24",
+      "year": 2024
+    },
+    {
+      "title": "Graph Retrieval-Augmented Generation: A Survey",
+      "arxiv_id": "2408.08921",
+      "doi": "10.1145/3777378",
+      "publicationDate": "2024-08-15",
+      "year": 2024
+    },
+    {
+      "title": "Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals",
+      "arxiv_id": "2408.07453",
+      "doi": "10.48550/arXiv.2408.07453",
+      "publicationDate": "2024-08-14",
+      "year": 2024
+    },
+    {
+      "title": "HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction",
+      "arxiv_id": "2408.04948",
+      "doi": "10.1145/3677052.3698671",
+      "publicationDate": "2024-08-09",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive Retrieval-Augmented Generation for Conversational Systems",
+      "arxiv_id": "2407.21712",
+      "doi": "10.48550/arXiv.2407.21712",
+      "publicationDate": "2024-07-31",
+      "year": 2024
+    },
+    {
+      "title": "RelBench: A Benchmark for Deep Learning on Relational Databases",
+      "arxiv_id": "2407.20060",
+      "doi": "10.48550/arXiv.2407.20060",
+      "publicationDate": "2024-07-29",
+      "year": 2024
+    },
+    {
+      "title": "Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base",
+      "arxiv_id": "2408.00798",
+      "doi": "10.48550/arXiv.2408.00798",
+      "publicationDate": "2024-07-20",
+      "year": 2024
+    },
+    {
+      "title": "Retrieval-augmented generation for natural language processing: a survey",
+      "arxiv_id": "2407.13193",
+      "doi": "10.1007/s10462-026-11605-7",
+      "publicationDate": "2024-07-18",
+      "year": 2024
+    },
+    {
+      "title": "Evaluation of Question-Answering Based Text Summarization using LLM Invited Paper",
+      "arxiv_id": null,
+      "doi": "10.1109/AITest62860.2024.00025",
+      "publicationDate": "2024-07-15",
+      "year": 2024
+    },
+    {
+      "title": "GLBench: A Comprehensive Benchmark for Graph with Large Language Models",
+      "arxiv_id": "2407.07457",
+      "doi": "10.48550/arXiv.2407.07457",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions",
+      "arxiv_id": "2407.05868",
+      "doi": "10.48550/arXiv.2407.05868",
+      "publicationDate": "2024-07-08",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement",
+      "arxiv_id": "2407.01461",
+      "doi": "10.48550/arXiv.2407.01461",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge Graph-Enhanced Large Language Models via Path Selection",
+      "arxiv_id": "2406.13862",
+      "doi": "10.48550/arXiv.2406.13862",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Bridging Local Details and Global Context in Text-Attributed Graphs",
+      "arxiv_id": "2406.12608",
+      "doi": "10.48550/arXiv.2406.12608",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations",
+      "arxiv_id": "2406.10303",
+      "doi": "10.48550/arXiv.2406.10303",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "EWEK-QA: Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems",
+      "arxiv_id": "2406.10393",
+      "doi": "10.48550/arXiv.2406.10393",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model",
+      "arxiv_id": "2406.07003",
+      "doi": "10.48550/arXiv.2406.07003",
+      "publicationDate": "2024-06-11",
+      "year": 2024
+    },
+    {
+      "title": "GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning",
+      "arxiv_id": "2405.20139",
+      "doi": "10.48550/arXiv.2405.20139",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "Calibrating Reasoning in Language Models with Internal Consistency",
+      "arxiv_id": "2405.18711",
+      "doi": "10.48550/arXiv.2405.18711",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+      "arxiv_id": "2405.14831",
+      "doi": "10.48550/arXiv.2405.14831",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Personalized PageRanks over Dynamic Graphs - The Case for Optimizing Quality of Service",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00038",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Evaluation of Retrieval-Augmented Generation: A Survey",
+      "arxiv_id": "2405.07437",
+      "doi": "10.1007/978-981-96-1024-2_8",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Multi-hop Question Answering over Knowledge Graphs using Large Language Models",
+      "arxiv_id": "2404.19234",
+      "doi": null,
+      "publicationDate": "2024-04-30",
+      "year": 2024
+    },
+    {
+      "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+      "arxiv_id": "2404.16130",
+      "doi": null,
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases",
+      "arxiv_id": "2404.13207",
+      "doi": "10.48550/arXiv.2404.13207",
+      "publicationDate": "2024-04-19",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+      "arxiv_id": "2404.10981",
+      "doi": "10.1145/3805774",
+      "publicationDate": "2024-04-17",
+      "year": 2024
+    },
+    {
+      "title": "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+      "arxiv_id": "2404.07103",
+      "doi": "10.48550/arXiv.2404.07103",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)",
+      "arxiv_id": "2404.00579",
+      "doi": "10.1145/3637528.3671474",
+      "publicationDate": "2024-03-31",
+      "year": 2024
+    },
+    {
+      "title": "Multi-hop Question Answering under Temporal Knowledge Editing",
+      "arxiv_id": "2404.00492",
+      "doi": "10.48550/arXiv.2404.00492",
+      "publicationDate": "2024-03-30",
+      "year": 2024
+    },
+    {
+      "title": "Generative AI in Education: A Study of Educators' Awareness, Sentiments, and Influencing Factors",
+      "arxiv_id": "2403.15586",
+      "doi": "10.1109/FIE61694.2024.10892891",
+      "publicationDate": "2024-03-22",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+      "arxiv_id": "2403.14403",
+      "doi": "10.48550/arXiv.2403.14403",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "AlphaFin: Benchmarking Financial Analysis with Retrieval-Augmented Stock-Chain Framework",
+      "arxiv_id": "2403.12582",
+      "doi": "10.48550/arXiv.2403.12582",
+      "publicationDate": "2024-03-19",
+      "year": 2024
+    },
+    {
+      "title": "KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques",
+      "arxiv_id": "2403.05881",
+      "doi": "10.48550/arXiv.2403.05881",
+      "publicationDate": "2024-03-09",
+      "year": 2024
+    },
+    {
+      "title": "Graph-Oriented Instruction Tuning of Large Language Models for Generic Graph Mining",
+      "arxiv_id": "2403.04780",
+      "doi": "10.1109/TPAMI.2025.3603062",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models",
+      "arxiv_id": "2402.16568",
+      "doi": "10.48550/arXiv.2402.16568",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "GraphWiz: An Instruction-Following Language Model for Graph Problems",
+      "arxiv_id": "2402.16029",
+      "doi": "10.48550/arXiv.2402.16029",
+      "publicationDate": "2024-02-25",
+      "year": 2024
+    },
+    {
+      "title": "Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge",
+      "arxiv_id": "2402.12352",
+      "doi": "10.48550/arXiv.2402.12352",
+      "publicationDate": "2024-02-19",
+      "year": 2024
+    },
+    {
+      "title": "KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph",
+      "arxiv_id": "2402.11163",
+      "doi": "10.48550/arXiv.2402.11163",
+      "publicationDate": "2024-02-17",
+      "year": 2024
+    },
+    {
+      "title": "LLaGA: Large Language and Graph Assistant",
+      "arxiv_id": "2402.08170",
+      "doi": "10.48550/arXiv.2402.08170",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks",
+      "arxiv_id": "2402.07197",
+      "doi": "10.1145/3589334.3645682",
+      "publicationDate": "2024-02-11",
+      "year": 2024
+    },
+    {
+      "title": "REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models",
+      "arxiv_id": "2402.07016",
+      "doi": "10.48550/arXiv.2402.07016",
+      "publicationDate": "2024-02-10",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models: A Survey",
+      "arxiv_id": "2402.06196",
+      "doi": "10.48550/arXiv.2402.06196",
+      "publicationDate": "2024-02-09",
+      "year": 2024
+    },
+    {
+      "title": "Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques",
+      "arxiv_id": "2402.05952",
+      "doi": "10.48550/arXiv.2402.05952",
+      "publicationDate": "2024-02-04",
+      "year": 2024
+    },
+    {
+      "title": "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models",
+      "arxiv_id": "2401.17043",
+      "doi": "10.1145/3701228",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Corrective Retrieval Augmented Generation",
+      "arxiv_id": "2401.15884",
+      "doi": "10.48550/arXiv.2401.15884",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Tuning and Inference for Large Language Models on Textual Graphs",
+      "arxiv_id": "2401.15569",
+      "doi": "10.48550/arXiv.2401.15569",
+      "publicationDate": "2024-01-28",
+      "year": 2024
+    },
+    {
+      "title": "MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries",
+      "arxiv_id": "2401.15391",
+      "doi": null,
+      "publicationDate": "2024-01-27",
+      "year": 2024
+    },
+    {
+      "title": "Demystifying Chains, Trees, and Graphs of Thoughts",
+      "arxiv_id": "2401.14295",
+      "doi": "10.1109/TPAMI.2025.3598182",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning",
+      "arxiv_id": "2401.12863",
+      "doi": "10.48550/arXiv.2401.12863",
+      "publicationDate": "2024-01-23",
+      "year": 2024
+    },
+    {
+      "title": "DB-GPT: Large Language Model Meets Database",
+      "arxiv_id": null,
+      "doi": "10.1007/s41019-023-00235-6",
+      "publicationDate": "2024-01-19",
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models",
+      "arxiv_id": "2401.01313",
+      "doi": "10.48550/arXiv.2401.01313",
+      "publicationDate": "2024-01-02",
+      "year": 2024
+    },
+    {
+      "title": "keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM",
+      "arxiv_id": "2401.00426",
+      "doi": "10.48550/arXiv.2401.00426",
+      "publicationDate": "2023-12-31",
+      "year": 2023
+    },
+    {
+      "title": "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+      "arxiv_id": "2312.15880",
+      "doi": "10.1007/s40747-024-01527-8",
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses",
+      "arxiv_id": "2312.15883",
+      "doi": null,
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models on Graphs: A Comprehensive Survey",
+      "arxiv_id": "2312.02783",
+      "doi": "10.1109/TKDE.2024.3469578",
+      "publicationDate": "2023-12-05",
+      "year": 2023
+    },
+    {
+      "title": "Large Knowledge Model: Perspectives and Challenges",
+      "arxiv_id": "2312.02706",
+      "doi": "10.3724/2096-7004.di.2024.0001",
+      "publicationDate": "2023-12-05",
+      "year": 2023
+    },
+    {
+      "title": "WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0584",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Foundation and large language models: fundamentals, challenges, opportunities, and social impacts",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-023-04203-7",
+      "publicationDate": "2023-11-27",
+      "year": 2023
+    },
+    {
+      "title": "ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science",
+      "arxiv_id": "2311.12289",
+      "doi": "10.48550/arXiv.2311.12289",
+      "publicationDate": "2023-11-21",
+      "year": 2023
+    },
+    {
+      "title": "Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey",
+      "arxiv_id": "2311.07914",
+      "doi": "10.18653/v1/2024.naacl-long.219",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA",
+      "arxiv_id": "2310.15484",
+      "doi": "10.48550/arXiv.2310.15484",
+      "publicationDate": "2023-10-24",
+      "year": 2023
+    },
+    {
+      "title": "FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction",
+      "arxiv_id": "2310.13848",
+      "doi": "10.1145/3625007.3627505",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "GraphGPT: Graph Instruction Tuning for Large Language Models",
+      "arxiv_id": "2310.13023",
+      "doi": "10.1145/3626772.3657775",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+      "arxiv_id": "2310.11511",
+      "doi": null,
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+      "arxiv_id": "2310.11220",
+      "doi": "10.48550/arXiv.2310.11220",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Talk like a Graph: Encoding Graphs for Large Language Models",
+      "arxiv_id": "2310.04560",
+      "doi": "10.48550/arXiv.2310.04560",
+      "publicationDate": "2023-10-06",
+      "year": 2023
+    },
+    {
+      "title": "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning",
+      "arxiv_id": "2310.01061",
+      "doi": "10.48550/arXiv.2310.01061",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "GraphText: Graph Reasoning in Text Space",
+      "arxiv_id": "2310.01089",
+      "doi": "10.48550/arXiv.2310.01089",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model Alignment: A Survey",
+      "arxiv_id": "2309.15025",
+      "doi": "10.48550/arXiv.2309.15025",
+      "publicationDate": "2023-09-26",
+      "year": 2023
+    },
+    {
+      "title": "Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering",
+      "arxiv_id": "2309.11206",
+      "doi": "10.48550/arXiv.2309.11206",
+      "publicationDate": "2023-09-20",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Hallucination in Large Foundation Models",
+      "arxiv_id": "2309.05922",
+      "doi": "10.48550/arXiv.2309.05922",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs",
+      "arxiv_id": "2309.03118",
+      "doi": "10.48550/arXiv.2309.03118",
+      "publicationDate": "2023-09-06",
+      "year": 2023
+    },
+    {
+      "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "arxiv_id": "2309.01219",
+      "doi": "10.1162/coli.a.16",
+      "publicationDate": "2023-09-03",
+      "year": 2023
+    },
+    {
+      "title": "Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA",
+      "arxiv_id": "2308.14436",
+      "doi": "10.1145/3583780.3615150",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering",
+      "arxiv_id": "2308.13259",
+      "doi": "10.48550/arXiv.2308.13259",
+      "publicationDate": "2023-08-25",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Graph Prompting for Multi-Document Question Answering",
+      "arxiv_id": "2308.11730",
+      "doi": "10.48550/arXiv.2308.11730",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt",
+      "arxiv_id": "2308.10173",
+      "doi": "10.48550/arXiv.2308.10173",
+      "publicationDate": "2023-08-20",
+      "year": 2023
+    },
+    {
+      "title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
+      "arxiv_id": "2308.09687",
+      "doi": "10.1609/aaai.v38i16.29720",
+      "publicationDate": "2023-08-18",
+      "year": 2023
+    },
+    {
+      "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases",
+      "arxiv_id": "2308.11761",
+      "doi": "10.48550/arXiv.2308.11761",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models for Information Retrieval: A Survey",
+      "arxiv_id": "2308.07107",
+      "doi": "10.1145/3748304",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models and Knowledge Graphs: Opportunities and Challenges",
+      "arxiv_id": "2308.06374",
+      "doi": "10.48550/arXiv.2308.06374",
+      "publicationDate": "2023-08-11",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Overview of Large Language Models",
+      "arxiv_id": "2307.06435",
+      "doi": "10.1145/3744746",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models",
+      "arxiv_id": "2307.05782",
+      "doi": "10.1007/978-981-96-6259-3",
+      "publicationDate": "2023-07-11",
+      "year": 2023
+    },
+    {
+      "title": "Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs",
+      "arxiv_id": "2307.03393",
+      "doi": "10.1145/3655103.3655110",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Improving Complex Knowledge Base Question Answering with Relation-Aware Subgraph Retrieval and Reasoning Network",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN54540.2023.10191339",
+      "publicationDate": "2023-06-18",
+      "year": 2023
+    },
+    {
+      "title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+      "arxiv_id": "2306.08302",
+      "doi": "10.1109/TKDE.2024.3352100",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling",
+      "arxiv_id": "2306.06872",
+      "doi": "10.48550/arXiv.2306.06872",
+      "publicationDate": "2023-06-12",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering",
+      "arxiv_id": "2306.04136",
+      "doi": "10.18653/v1/2023.matching-1.7",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Single-Source Personalized PageRanks With Workload Robustness",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2022.3175814",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models",
+      "arxiv_id": "2305.16582",
+      "doi": null,
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking",
+      "arxiv_id": "2305.15066",
+      "doi": null,
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Direct Fact Retrieval from Knowledge Graphs without Entity Linking",
+      "arxiv_id": "2305.12416",
+      "doi": "10.18653/v1/2023.acl-long.558",
+      "publicationDate": "2023-05-21",
+      "year": 2023
+    },
+    {
+      "title": "Can Language Models Solve Graph Problems in Natural Language?",
+      "arxiv_id": "2305.10037",
+      "doi": "10.48550/arXiv.2305.10037",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "StructGPT: A General Framework for Large Language Model to Reason over Structured Data",
+      "arxiv_id": "2305.09645",
+      "doi": "10.48550/arXiv.2305.09645",
+      "publicationDate": "2023-05-16",
+      "year": 2023
+    },
+    {
+      "title": "FactKG: Fact Verification via Reasoning on Knowledge Graphs",
+      "arxiv_id": "2305.06590",
+      "doi": "10.48550/arXiv.2305.06590",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "Active Retrieval Augmented Generation",
+      "arxiv_id": "2305.06983",
+      "doi": "10.48550/arXiv.2305.06983",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+      "arxiv_id": "2305.01210",
+      "doi": "10.52202/075280-0943",
+      "publicationDate": "2023-05-02",
+      "year": 2023
+    },
+    {
+      "title": "Complex Logical Reasoning over Knowledge Graphs using Large Language Models",
+      "arxiv_id": "2305.01157",
+      "doi": "10.48550/arXiv.2305.01157",
+      "publicationDate": "2023-05-02",
+      "year": 2023
+    },
+    {
+      "title": "Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3543507.3583376",
+      "publicationDate": "2023-04-30",
+      "year": 2023
+    },
+    {
+      "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond",
+      "arxiv_id": "2304.13712",
+      "doi": "10.1145/3649506",
+      "publicationDate": "2023-04-26",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering",
+      "arxiv_id": "2303.12320",
+      "doi": "10.1145/3543873.3587651",
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "arxiv_id": "2303.12712",
+      "doi": null,
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering",
+      "arxiv_id": "2303.10395",
+      "doi": "10.48550/arXiv.2303.10395",
+      "publicationDate": "2023-03-18",
+      "year": 2023
+    },
+    {
+      "title": "Modeling Health Stage Development of Patients With Dynamic Attributed Graphs in Online Health Communities",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2022.3144083",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Towards Reasoning in Large Language Models: A Survey",
+      "arxiv_id": "2212.10403",
+      "doi": "10.48550/arXiv.2212.10403",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "A Retrieve-and-Read Framework for Knowledge Graph Link Prediction",
+      "arxiv_id": "2212.09724",
+      "doi": "10.1145/3583780.3614769",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph",
+      "arxiv_id": "2212.00959",
+      "doi": "10.48550/arXiv.2212.00959",
+      "publicationDate": "2022-12-02",
+      "year": 2022
+    },
+    {
+      "title": "Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval",
+      "arxiv_id": "2211.10991",
+      "doi": "10.1145/3539597.3570415",
+      "publicationDate": "2022-11-20",
+      "year": 2022
+    },
+    {
+      "title": "Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering",
+      "arxiv_id": "2211.08380",
+      "doi": "10.48550/arXiv.2211.08380",
+      "publicationDate": "2022-11-15",
+      "year": 2022
+    },
+    {
+      "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+      "arxiv_id": "2210.03350",
+      "doi": "10.48550/arXiv.2210.03350",
+      "publicationDate": "2022-10-07",
+      "year": 2022
+    },
+    {
+      "title": "Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering",
+      "arxiv_id": "2210.01613",
+      "doi": "10.48550/arXiv.2210.01613",
+      "publicationDate": "2022-10-04",
+      "year": 2022
+    },
+    {
+      "title": "DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases",
+      "arxiv_id": "2210.00063",
+      "doi": "10.48550/arXiv.2210.00063",
+      "publicationDate": "2022-09-30",
+      "year": 2022
+    },
+    {
+      "title": "ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs",
+      "arxiv_id": "2208.06501",
+      "doi": null,
+      "publicationDate": "2022-08-12",
+      "year": 2022
+    },
+    {
+      "title": "SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization",
+      "arxiv_id": "2207.09179",
+      "doi": "10.14778/3551793.3551866",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Vision GNN: An Image is Worth Graph of Nodes",
+      "arxiv_id": "2206.00272",
+      "doi": "10.48550/arXiv.2206.00272",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Neural Open Information Extraction: Current Status and Future Directions",
+      "arxiv_id": "2205.11725",
+      "doi": "10.48550/arXiv.2205.11725",
+      "publicationDate": "2022-05-24",
+      "year": 2022
+    },
+    {
+      "title": "ArcaneQA: Dynamic Program Induction and Contextualized Encoding for Knowledge Base Question Answering",
+      "arxiv_id": "2204.08109",
+      "doi": "10.48550/arXiv.2204.08109",
+      "publicationDate": "2022-04-17",
+      "year": 2022
+    },
+    {
+      "title": "BioRED: a rich biomedical relation extraction dataset",
+      "arxiv_id": "2204.04263",
+      "doi": "10.1093/bib/bbac282",
+      "publicationDate": "2022-04-08",
+      "year": 2022
+    },
+    {
+      "title": "Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering",
+      "arxiv_id": "2202.13296",
+      "doi": "10.18653/v1/2022.acl-long.396",
+      "publicationDate": "2022-02-27",
+      "year": 2022
+    },
+    {
+      "title": "QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers",
+      "arxiv_id": "2202.00120",
+      "doi": "10.1109/ICSC52841.2022.00045",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Graph-augmented Learning to Rank for Querying Large-scale Knowledge Graph",
+      "arxiv_id": "2111.10541",
+      "doi": "10.18653/v1/2022.aacl-main.7",
+      "publicationDate": "2021-11-20",
+      "year": 2021
+    },
+    {
+      "title": "RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering",
+      "arxiv_id": "2109.08678",
+      "doi": "10.18653/v1/2022.acl-long.417",
+      "publicationDate": "2021-09-17",
+      "year": 2021
+    },
+    {
+      "title": "End-to-End Entity Resolution and Question Answering Using Differentiable Knowledge Graphs",
+      "arxiv_id": "2109.05817",
+      "doi": "10.18653/v1/2021.emnlp-main.345",
+      "publicationDate": "2021-09-13",
+      "year": 2021
+    },
+    {
+      "title": "CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge",
+      "arxiv_id": "2109.01653",
+      "doi": null,
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation",
+      "arxiv_id": "2108.06712",
+      "doi": "10.18653/v1/2022.acl-long.78",
+      "publicationDate": "2021-08-15",
+      "year": 2021
+    },
+    {
+      "title": "EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks",
+      "arxiv_id": "2108.05233",
+      "doi": "10.1145/3485447.3512173",
+      "publicationDate": "2021-08-11",
+      "year": 2021
+    },
+    {
+      "title": "Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data",
+      "arxiv_id": "2108.01099",
+      "doi": null,
+      "publicationDate": "2021-08-02",
+      "year": 2021
+    },
+    {
+      "title": "ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2021.acl-demo.39",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Edge Representation Learning with Hypergraphs",
+      "arxiv_id": "2106.15845",
+      "doi": null,
+      "publicationDate": "2021-06-30",
+      "year": 2021
+    },
+    {
+      "title": "Question Answering Over Temporal Knowledge Graphs",
+      "arxiv_id": "2106.01515",
+      "doi": "10.18653/v1/2021.acl-long.520",
+      "publicationDate": "2021-06-03",
+      "year": 2021
+    },
+    {
+      "title": "Retrieval Augmentation Reduces Hallucination in Conversation",
+      "arxiv_id": "2104.07567",
+      "doi": "10.18653/v1/2021.findings-emnlp.320",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering",
+      "arxiv_id": "2104.06378",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.45",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals",
+      "arxiv_id": "2101.03737",
+      "doi": "10.1145/3437963.3441753",
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge",
+      "arxiv_id": "2101.00376",
+      "doi": "10.18653/v1/2021.findings-acl.131",
+      "publicationDate": "2021-01-02",
+      "year": 2021
+    },
+    {
+      "title": "Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases",
+      "arxiv_id": "2011.07743",
+      "doi": "10.1145/3442381.3449992",
+      "publicationDate": "2020-11-16",
+      "year": 2020
+    },
+    {
+      "title": "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams",
+      "arxiv_id": "2009.13081",
+      "doi": "10.20944/PREPRINTS202105.0498.V1",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification",
+      "arxiv_id": "2009.03509",
+      "doi": "10.24963/ijcai.2021/214",
+      "publicationDate": "2020-09-08",
+      "year": 2020
+    },
+    {
+      "title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+      "arxiv_id": "2009.02252",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.200",
+      "publicationDate": "2020-09-04",
+      "year": 2020
+    },
+    {
+      "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+      "arxiv_id": "2007.15779",
+      "doi": "10.1145/3458754",
+      "publicationDate": "2020-07-31",
+      "year": 2020
+    },
+    {
+      "title": "Feedback Loop and Bias Amplification in Recommender Systems",
+      "arxiv_id": "2007.13019",
+      "doi": "10.1145/3340531.3412152",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "TUDataset: A collection of benchmark datasets for learning with graphs",
+      "arxiv_id": "2007.08663",
+      "doi": null,
+      "publicationDate": "2020-07-16",
+      "year": 2020
+    },
+    {
+      "title": "Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.acl-main.91",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering",
+      "arxiv_id": "2005.00646",
+      "doi": "10.18653/v1/2020.emnlp-main.99",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Graph Transformer",
+      "arxiv_id": "2003.01332",
+      "doi": "10.1145/3366423.3380027",
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "Unbiased Scene Graph Generation From Biased Training",
+      "arxiv_id": "2002.11949",
+      "doi": "10.1109/cvpr42600.2020.00377",
+      "publicationDate": "2020-02-27",
+      "year": 2020
+    },
+    {
+      "title": "5分で分かる!? 有名論文ナナメ読み：Jacob Devlin et al. : BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-02-15",
+      "year": 2020
+    },
+    {
+      "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+      "arxiv_id": "1911.11641",
+      "doi": "10.1609/AAAI.V34I05.6239",
+      "publicationDate": "2019-11-26",
+      "year": 2019
+    },
+    {
+      "title": "MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video",
+      "arxiv_id": null,
+      "doi": "10.1145/3343031.3351034",
+      "publicationDate": "2019-10-15",
+      "year": 2019
+    },
+    {
+      "title": "KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning",
+      "arxiv_id": "1909.02151",
+      "doi": "10.18653/v1/D19-1282",
+      "publicationDate": "2019-09-04",
+      "year": 2019
+    },
+    {
+      "title": "PubMedQA: A Dataset for Biomedical Research Question Answering",
+      "arxiv_id": "1909.06146",
+      "doi": "10.18653/v1/D19-1259",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Natural Questions: A Benchmark for Question Answering Research",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00276",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+      "arxiv_id": "1907.11692",
+      "doi": null,
+      "publicationDate": "2019-07-26",
+      "year": 2019
+    },
+    {
+      "title": "Zero-Shot Entity Linking by Reading Entity Descriptions",
+      "arxiv_id": "1906.07348",
+      "doi": "10.18653/v1/p19-1335",
+      "publicationDate": "2019-06-18",
+      "year": 2019
+    },
+    {
+      "title": "FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/N19-1028",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-relational Poincaré Graph Embeddings",
+      "arxiv_id": "1905.09791",
+      "doi": null,
+      "publicationDate": "2019-05-23",
+      "year": 2019
+    },
+    {
+      "title": "PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text",
+      "arxiv_id": "1904.09537",
+      "doi": "10.18653/v1/D19-1242",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+      "arxiv_id": "1809.09600",
+      "doi": "10.18653/v1/D18-1259",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
+      "arxiv_id": "1809.02789",
+      "doi": "10.18653/v1/D18-1260",
+      "publicationDate": "2018-08-13",
+      "year": 2018
+    },
+    {
+      "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+      "arxiv_id": "1806.08804",
+      "doi": null,
+      "publicationDate": "2018-06-22",
+      "year": 2018
+    },
+    {
+      "title": "T-REx: A Large Scale Alignment of Natural Language with Knowledge Base Triples",
+      "arxiv_id": null,
+      "doi": "10.63317/2yu5nu76n7bu",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs",
+      "arxiv_id": "1803.08035",
+      "doi": "10.1109/CVPR.2018.00717",
+      "publicationDate": "2018-03-21",
+      "year": 2018
+    },
+    {
+      "title": "The Web as a Knowledge-Base for Answering Complex Questions",
+      "arxiv_id": "1803.06643",
+      "doi": "10.18653/v1/N18-1059",
+      "publicationDate": "2018-03-18",
+      "year": 2018
+    },
+    {
+      "title": "Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning",
+      "arxiv_id": "1711.05851",
+      "doi": null,
+      "publicationDate": "2017-11-15",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Variational Reasoning for Question Answering with Knowledge Graph",
+      "arxiv_id": "1709.04071",
+      "doi": "10.1609/aaai.v32i1.12057",
+      "publicationDate": "2017-09-12",
+      "year": 2017
+    },
+    {
+      "title": "Convolutional 2D Knowledge Graph Embeddings",
+      "arxiv_id": "1707.01476",
+      "doi": "10.1609/aaai.v32i1.11573",
+      "publicationDate": "2017-07-05",
+      "year": 2017
+    },
+    {
+      "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+      "arxiv_id": "1705.03551",
+      "doi": "10.18653/v1/P17-1147",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Biomedical Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1162/COLI_r_00281",
+      "publicationDate": "2017-04-05",
+      "year": 2017
+    },
+    {
+      "title": "Visual Translation Embedding Network for Visual Relation Detection",
+      "arxiv_id": "1702.08319",
+      "doi": "10.1109/CVPR.2017.331",
+      "publicationDate": "2017-02-27",
+      "year": 2017
+    },
+    {
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "arxiv_id": "1609.02907",
+      "doi": null,
+      "publicationDate": "2016-09-09",
+      "year": 2016
+    },
+    {
+      "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-2033",
+      "publicationDate": "2016-08-07",
+      "year": 2016
+    },
+    {
+      "title": "Leveraging Linguistic Structure For Open Domain Information Extraction",
+      "arxiv_id": null,
+      "doi": "10.3115/v1/P15-1034",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Large-scale Simple Question Answering with Memory Networks",
+      "arxiv_id": "1506.02075",
+      "doi": null,
+      "publicationDate": "2015-06-05",
+      "year": 2015
+    },
+    {
+      "title": "Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1145/2629489",
+      "publicationDate": "2014-09-23",
+      "year": 2014
+    },
+    {
+      "title": "Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.1177/1527476412450193",
+      "publicationDate": "2014-02-01",
+      "year": 2014
+    },
+    {
+      "title": "Semantic Parsing on Freebase from Question-Answer Pairs",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d13-1160",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "Robust Disambiguation of Named Entities in Text",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-07-27",
+      "year": 2011
+    },
+    {
+      "title": "TAGME: on-the-fly annotation of short text fragments (by wikipedia entities)",
+      "arxiv_id": null,
+      "doi": "10.1145/1871437.1871689",
+      "publicationDate": "2010-06-17",
+      "year": 2010
+    },
+    {
+      "title": "Context-aware systems: A literature review and classification",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2008.10.071",
+      "publicationDate": "2009-05-01",
+      "year": 2009
+    },
+    {
+      "title": "Freebase: a collaboratively created graph database for structuring human knowledge",
+      "arxiv_id": null,
+      "doi": "10.1145/1376616.1376746",
+      "publicationDate": "2008-06-09",
+      "year": 2008
+    },
+    {
+      "title": "DBpedia: A Nucleus for a Web of Open Data",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-76298-0_52",
+      "publicationDate": "2007-11-11",
+      "year": 2007
+    },
+    {
+      "title": "YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.1145/1242572.1242667",
+      "publicationDate": "2007-05-08",
+      "year": 2007
+    },
+    {
+      "title": "Open Information Extraction from the Web",
+      "arxiv_id": null,
+      "doi": "10.1145/1409360.1409378",
+      "publicationDate": "2007-01-06",
+      "year": 2007
+    },
+    {
+      "title": "Network neighborhood analysis with the multi-node topological overlap measure",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btl581",
+      "publicationDate": "2007-01-05",
+      "year": 2007
+    },
+    {
+      "title": "ON A ROUTING PROBLEM",
+      "arxiv_id": null,
+      "doi": "10.1017/S0269964804183046",
+      "publicationDate": "2004-07-01",
+      "year": 2004
+    },
+    {
+      "title": "Fractional Graph Theory: A Rational Approach to the Theory of Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1997-09-08",
+      "year": 1997
+    },
+    {
+      "title": "A note on the prize collecting traveling salesman problem",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01581256",
+      "publicationDate": "1993-05-07",
+      "year": 1993
+    },
+    {
+      "title": "A note on two problems in connexion with graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3544585.3544600",
+      "publicationDate": "1959-12-01",
+      "year": 1959
+    },
+    {
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2501.12948",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.115",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A RAG-based Question Answering System Proposal for Understanding Islam: MufassirQAS LLM",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4707470",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "D-LLM: A Token Adaptive Computing Resource Allocation Strategy for Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-0055",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Improving LLM-based Machine Translation with Systematic Self-Correction",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.16379",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2410.17600",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.06572",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2407.10805",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "MVP-Tuning: Multi-View Knowledge Retrieval with Prompt Tuning for Commonsense Reasoning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.750",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Graph-augmented Language Models for Complex Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.nlrse-1.1",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2305.09958",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multi-granularity Temporal Question Answering over Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.637",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0755",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2307.07697",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Graph Foundation Models: A Survey and Beyond",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.11829",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Knowledge-Consistent Dialogue Generation with Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "C-GCN: Correlation Based Graph Convolutional Network for Audio-Video Emotion Recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/tmm.2020.3032037",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+      "arxiv_id": "1811.00937",
+      "doi": "10.18653/v1/N19-1421",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "SocialIQA: Commonsense Reasoning about Social Interactions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Developing metaweb-enabled web applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Adaptive query processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "与阳光同步 金毛寻回猎犬Golden Retriever",
+      "arxiv_id": null,
+      "doi": "10.1201/b16185-81",
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Astoria-Megler Bridge",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Retrieval-augmented generation for",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Da-net:Distributedattentionnetworkfortemporalknowledgegraphreasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Grapheval2000: Benchmarking and improving large language models on graph datasets",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. GPT-4 Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Chatkbqa",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "local details and global context",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Go for a walk and arrive at Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "review of modern recommender systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A hypothesis knowledge graph",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Graph Machine Learning in the Era of Large Language Models (LLMs)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards safe",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dynagrag:Improvinglanguageunderstandingandgenerationthroughdynamicsubgraphrepresentationingraphretrieval-augmented Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ATOMIC: an atlas of machine commonsenseforif-thenreasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dynamic co-augmentation of llms and kg to answer alzheimer’s disease",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. TabGraphs: A benchmark and strong baselines for learning on graphs with tabular node features",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Graph-based Approaches and Functionalities in Retrieval-Augmented",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Memorag: Moving towards next-gen rag via memory-inspired knowledge discovery",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Knowledge graph prompting sparks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "llms to search for domain knowledge",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Connecting the dots: Inferring patent phrase similarity with retrieved phrase graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

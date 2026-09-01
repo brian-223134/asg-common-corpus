@@ -1,0 +1,828 @@
+{
+  "candidate": {
+    "topic": "Adversarial Attacks on Multimodal Large Language Models",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": "2603.27918",
+      "doi": null,
+      "title": "Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey",
+      "published": "2026-03-30"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:46:38+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 113,
+    "arxiv_resolvable": 99,
+    "doi_only": 10,
+    "unresolved": 4
+  },
+  "gt_s2": {
+    "paperId": "f3e20174248dc1caa7d42d48be9060d9cde5250a",
+    "externalIds": {
+      "DBLP": "journals/tmlr/JainAT26",
+      "ArXiv": "2603.27918",
+      "DOI": "10.48550/arXiv.2603.27918",
+      "CorpusId": 286974083
+    },
+    "title": "Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey",
+    "venue": "Trans. Mach. Learn. Res.",
+    "year": 2026,
+    "referenceCount": 113,
+    "publicationDate": "2026-03-30"
+  },
+  "refs": [
+    {
+      "title": "AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents",
+      "arxiv_id": "2509.07764",
+      "doi": "10.1145/3719027.3765064",
+      "publicationDate": "2025-09-09",
+      "year": 2025
+    },
+    {
+      "title": "Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs",
+      "arxiv_id": "2509.05883",
+      "doi": "10.48550/arXiv.2509.05883",
+      "publicationDate": "2025-09-07",
+      "year": 2025
+    },
+    {
+      "title": "Defending Against Prompt Injection With a Few DefensiveTokens",
+      "arxiv_id": "2507.07974",
+      "doi": "10.1145/3733799.3762982",
+      "publicationDate": "2025-07-10",
+      "year": 2025
+    },
+    {
+      "title": "How Not to Detect Prompt Injections with an LLM",
+      "arxiv_id": "2507.05630",
+      "doi": "10.1145/3733799.3762980",
+      "publicationDate": "2025-07-08",
+      "year": 2025
+    },
+    {
+      "title": "Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection",
+      "arxiv_id": "2507.02844",
+      "doi": "10.48550/arXiv.2507.02844",
+      "publicationDate": "2025-07-03",
+      "year": 2025
+    },
+    {
+      "title": "Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities",
+      "arxiv_id": "2506.00548",
+      "doi": "10.48550/arXiv.2506.00548",
+      "publicationDate": "2025-05-31",
+      "year": 2025
+    },
+    {
+      "title": "Evaluating Robustness of Large Audio Language Models to Audio Injection: An Empirical Study",
+      "arxiv_id": "2505.19598",
+      "doi": "10.48550/arXiv.2505.19598",
+      "publicationDate": "2025-05-26",
+      "year": 2025
+    },
+    {
+      "title": "Attention! Your Vision Language Model Could Be Maliciously Manipulated",
+      "arxiv_id": "2505.19911",
+      "doi": "10.52202/085713-4285",
+      "publicationDate": "2025-05-26",
+      "year": 2025
+    },
+    {
+      "title": "Security Concerns for Large Language Models: A Survey",
+      "arxiv_id": "2505.18889",
+      "doi": "10.48550/arXiv.2505.18889",
+      "publicationDate": "2025-05-24",
+      "year": 2025
+    },
+    {
+      "title": "Mind Mapping Prompt Injection: Visual Prompt Injection Attacks in Modern Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics14101907",
+      "publicationDate": "2025-05-08",
+      "year": 2025
+    },
+    {
+      "title": "Manipulating Multimodal Agents via Cross-Modal Prompt Injection",
+      "arxiv_id": "2504.14348",
+      "doi": "10.1145/3746027.3755211",
+      "publicationDate": "2025-04-19",
+      "year": 2025
+    },
+    {
+      "title": "QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models",
+      "arxiv_id": "2504.11038",
+      "doi": "10.48550/arXiv.2504.11038",
+      "publicationDate": "2025-04-15",
+      "year": 2025
+    },
+    {
+      "title": "Multilingual and Multi-Accent Jailbreaking of Audio LLMs",
+      "arxiv_id": "2504.01094",
+      "doi": "10.48550/arXiv.2504.01094",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy",
+      "arxiv_id": "2503.20823",
+      "doi": "10.1109/CVPR52734.2025.02786",
+      "publicationDate": "2025-03-26",
+      "year": 2025
+    },
+    {
+      "title": "BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models",
+      "arxiv_id": "2503.16023",
+      "doi": "10.1109/CVPR52734.2025.02785",
+      "publicationDate": "2025-03-20",
+      "year": 2025
+    },
+    {
+      "title": "Embodied large language models enable robots to complete complex tasks in unpredictable environments",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-025-01005-x",
+      "publicationDate": "2025-03-19",
+      "year": 2025
+    },
+    {
+      "title": "MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents",
+      "arxiv_id": "2503.10809",
+      "doi": "10.52202/085713-0625",
+      "publicationDate": "2025-03-13",
+      "year": 2025
+    },
+    {
+      "title": "Words or Vision: Do Vision-Language Models Have Blind Faith in Text?",
+      "arxiv_id": "2503.02199",
+      "doi": "10.1109/CVPR52734.2025.00366",
+      "publicationDate": "2025-03-04",
+      "year": 2025
+    },
+    {
+      "title": "Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models",
+      "arxiv_id": "2502.18290",
+      "doi": "10.1109/CVPR52734.2025.02333",
+      "publicationDate": "2025-02-25",
+      "year": 2025
+    },
+    {
+      "title": "Distraction is All You Need for Multimodal Large Language Model Jailbreaking",
+      "arxiv_id": "2502.10794",
+      "doi": "10.1109/CVPR52734.2025.00884",
+      "publicationDate": "2025-02-15",
+      "year": 2025
+    },
+    {
+      "title": "Prompt injection attacks on vision language models in oncology",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-024-55631-x",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models",
+      "arxiv_id": "2412.05934",
+      "doi": "10.1109/ICCV51701.2025.00258",
+      "publicationDate": "2024-12-08",
+      "year": 2024
+    },
+    {
+      "title": "PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization",
+      "arxiv_id": "2412.05892",
+      "doi": "10.48550/arXiv.2412.05892",
+      "publicationDate": "2024-12-08",
+      "year": 2024
+    },
+    {
+      "title": "Jailbreak Large Vision-Language Models Through Multi-Modal Linkage",
+      "arxiv_id": "2412.00473",
+      "doi": "10.48550/arXiv.2412.00473",
+      "publicationDate": "2024-11-30",
+      "year": 2024
+    },
+    {
+      "title": "SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments",
+      "arxiv_id": "2412.00114",
+      "doi": "10.1109/CVPR52734.2025.02332",
+      "publicationDate": "2024-11-28",
+      "year": 2024
+    },
+    {
+      "title": "Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models",
+      "arxiv_id": "2411.18000",
+      "doi": "10.48550/arXiv.2411.18000",
+      "publicationDate": "2024-11-27",
+      "year": 2024
+    },
+    {
+      "title": "Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks",
+      "arxiv_id": "2411.15720",
+      "doi": "10.1109/CVPR52734.2025.01368",
+      "publicationDate": "2024-11-24",
+      "year": 2024
+    },
+    {
+      "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+      "arxiv_id": "2411.02391",
+      "doi": "10.48550/arXiv.2411.02391",
+      "publicationDate": "2024-11-04",
+      "year": 2024
+    },
+    {
+      "title": "Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models",
+      "arxiv_id": "2410.23861",
+      "doi": "10.48550/arXiv.2410.23861",
+      "publicationDate": "2024-10-31",
+      "year": 2024
+    },
+    {
+      "title": "Ideator: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves",
+      "arxiv_id": "2411.00827",
+      "doi": "10.1109/ICCV51701.2025.00830",
+      "publicationDate": "2024-10-29",
+      "year": 2024
+    },
+    {
+      "title": "AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation",
+      "arxiv_id": "2410.09040",
+      "doi": "10.48550/arXiv.2410.09040",
+      "publicationDate": "2024-10-11",
+      "year": 2024
+    },
+    {
+      "title": "Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models",
+      "arxiv_id": "2410.06699",
+      "doi": "10.1145/3664647.3680779",
+      "publicationDate": "2024-10-09",
+      "year": 2024
+    },
+    {
+      "title": "SecAlign: Defending Against Prompt Injection with Preference Optimization",
+      "arxiv_id": "2410.05451",
+      "doi": "10.1145/3719027.3744836",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+      "arxiv_id": "2410.02644",
+      "doi": "10.48550/arXiv.2410.02644",
+      "publicationDate": "2024-10-03",
+      "year": 2024
+    },
+    {
+      "title": "Backdooring Vision-Language Models with Out-Of-Distribution Data",
+      "arxiv_id": "2410.01264",
+      "doi": "10.48550/arXiv.2410.01264",
+      "publicationDate": "2024-10-02",
+      "year": 2024
+    },
+    {
+      "title": "TrojVLM: Backdoor Attack Against Vision Language Models",
+      "arxiv_id": "2409.19232",
+      "doi": "10.48550/arXiv.2409.19232",
+      "publicationDate": "2024-09-28",
+      "year": 2024
+    },
+    {
+      "title": "EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage",
+      "arxiv_id": "2409.11295",
+      "doi": "10.48550/arXiv.2409.11295",
+      "publicationDate": "2024-09-17",
+      "year": 2024
+    },
+    {
+      "title": "PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning",
+      "arxiv_id": "2408.16769",
+      "doi": "10.48550/arXiv.2408.16769",
+      "publicationDate": "2024-08-29",
+      "year": 2024
+    },
+    {
+      "title": "Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection",
+      "arxiv_id": "2408.03554",
+      "doi": "10.48550/arXiv.2408.03554",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",
+      "arxiv_id": "2407.15050",
+      "doi": "10.1145/3664647.3681379",
+      "publicationDate": "2024-07-21",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Attacks on Large Vision–Language Models: Resources, Advances, and Future Trends",
+      "arxiv_id": "2407.07403",
+      "doi": "10.1109/TNNLS.2025.3592935",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift",
+      "arxiv_id": "2406.18844",
+      "doi": "10.1109/CVPR52734.2025.00885",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "PromptShield: Deployable Detection for Prompt Injection Attacks",
+      "arxiv_id": "2501.15145",
+      "doi": "10.1145/3714393.3726501",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+      "arxiv_id": "2406.12814",
+      "doi": null,
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
+      "arxiv_id": "2406.04031",
+      "doi": "10.1109/TIFS.2025.3583249",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "White-box Multimodal Jailbreaks Against Large Vision-Language Models",
+      "arxiv_id": "2405.17894",
+      "doi": "10.1145/3664647.3681092",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Medical MLLM Is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models",
+      "arxiv_id": "2405.20775",
+      "doi": "10.1609/aaai.v39i4.32396",
+      "publicationDate": "2024-05-26",
+      "year": 2024
+    },
+    {
+      "title": "Defending Language Models Against Image-Based Prompt Attacks via User-Provided Specifications",
+      "arxiv_id": null,
+      "doi": "10.1109/SPW63631.2024.00017",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Backdooring Multimodal Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/SP54263.2024.00031",
+      "publicationDate": "2024-05-19",
+      "year": 2024
+    },
+    {
+      "title": "FMM-Attack: A Flow-based Multi-modal Adversarial Attack on Video-based LLMs",
+      "arxiv_id": "2403.13507",
+      "doi": "10.48550/arXiv.2403.13507",
+      "publicationDate": "2024-03-20",
+      "year": 2024
+    },
+    {
+      "title": "Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models",
+      "arxiv_id": "2403.09792",
+      "doi": "10.48550/arXiv.2403.09792",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "ImgTrojan: Jailbreaking Vision-Language Models with ONE Image",
+      "arxiv_id": "2403.02910",
+      "doi": "10.18653/v1/2025.naacl-long.360",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "LoRATK: LoRA Once, Backdoor Everywhere in the Share-and-Play Ecosystem",
+      "arxiv_id": "2403.00108",
+      "doi": "10.48550/arXiv.2403.00108",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model",
+      "arxiv_id": "2402.19150",
+      "doi": "10.48550/arXiv.2402.19150",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models",
+      "arxiv_id": "2402.13851",
+      "doi": "10.48550/arXiv.2402.13851",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models",
+      "arxiv_id": "2402.12336",
+      "doi": "10.48550/arXiv.2402.12336",
+      "publicationDate": "2024-02-19",
+      "year": 2024
+    },
+    {
+      "title": "Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast",
+      "arxiv_id": "2402.08567",
+      "doi": "10.48550/arXiv.2402.08567",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models",
+      "arxiv_id": "2402.06659",
+      "doi": "10.48550/arXiv.2402.06659",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks",
+      "arxiv_id": "2402.00626",
+      "doi": "10.48550/arXiv.2402.00626",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "On the Robustness of Large Multimodal Models Against Image Adversarial Attacks",
+      "arxiv_id": "2312.03777",
+      "doi": "10.1109/CVPR52733.2024.02325",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models",
+      "arxiv_id": "2311.17600",
+      "doi": "10.1007/978-3-031-72992-8_22",
+      "publicationDate": "2023-11-29",
+      "year": 2023
+    },
+    {
+      "title": "Adversarial Prompt Tuning for Vision-Language Models",
+      "arxiv_id": "2311.11261",
+      "doi": "10.48550/arXiv.2311.11261",
+      "publicationDate": "2023-11-19",
+      "year": 2023
+    },
+    {
+      "title": "Adversarial Attacks to Multi-Modal Models",
+      "arxiv_id": "2409.06793",
+      "doi": "10.48550/arXiv.2409.06793",
+      "publicationDate": "2023-11-19",
+      "year": 2023
+    },
+    {
+      "title": "Fast Certification of Vision-Language Models Using Incremental Randomized Smoothing",
+      "arxiv_id": "2311.09024",
+      "doi": "10.1109/SaTML59370.2024.00019",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts",
+      "arxiv_id": "2311.05608",
+      "doi": "10.48550/arXiv.2311.05608",
+      "publicationDate": "2023-11-09",
+      "year": 2023
+    },
+    {
+      "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses",
+      "arxiv_id": "2310.12815",
+      "doi": null,
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks",
+      "arxiv_id": "2310.10844",
+      "doi": "10.48550/arXiv.2310.10844",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models",
+      "arxiv_id": "2310.04655",
+      "doi": "10.48550/arXiv.2310.04655",
+      "publicationDate": "2023-10-07",
+      "year": 2023
+    },
+    {
+      "title": "Misusing Tools in Large Language Models With Visual Adversarial Examples",
+      "arxiv_id": "2310.03185",
+      "doi": "10.48550/arXiv.2310.03185",
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "How Robust is Google's Bard to Adversarial Image Attacks?",
+      "arxiv_id": "2309.11751",
+      "doi": "10.48550/arXiv.2309.11751",
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "Multimodal Foundation Models: From Specialists to General-Purpose Assistants",
+      "arxiv_id": "2309.10020",
+      "doi": "10.48550/arXiv.2309.10020",
+      "publicationDate": "2023-09-18",
+      "year": 2023
+    },
+    {
+      "title": "Adversarial Illusions in Multi-Modal Embeddings",
+      "arxiv_id": "2308.11804",
+      "doi": null,
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models",
+      "arxiv_id": "2307.14539",
+      "doi": null,
+      "publicationDate": "2023-07-26",
+      "year": 2023
+    },
+    {
+      "title": "(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs",
+      "arxiv_id": "2307.10490",
+      "doi": "10.48550/arXiv.2307.10490",
+      "publicationDate": "2023-07-19",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Evaluation of Large Language Models",
+      "arxiv_id": "2307.03109",
+      "doi": "10.1145/3641289",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "Jailbroken: How Does LLM Safety Training Fail?",
+      "arxiv_id": "2307.02483",
+      "doi": "10.48550/arXiv.2307.02483",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Visual Adversarial Examples Jailbreak Aligned Large Language Models",
+      "arxiv_id": "2306.13213",
+      "doi": "10.1609/aaai.v38i19.30150",
+      "publicationDate": "2023-06-22",
+      "year": 2023
+    },
+    {
+      "title": "On Evaluating Adversarial Robustness of Large Vision-Language Models",
+      "arxiv_id": "2305.16934",
+      "doi": "10.48550/arXiv.2305.16934",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "Ignore Previous Prompt: Attack Techniques For Language Models",
+      "arxiv_id": "2211.09527",
+      "doi": "10.48550/arXiv.2211.09527",
+      "publicationDate": "2022-11-17",
+      "year": 2022
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations",
+      "arxiv_id": "2006.11477",
+      "doi": null,
+      "publicationDate": "2020-06-20",
+      "year": 2020
+    },
+    {
+      "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+      "arxiv_id": "1908.02265",
+      "doi": null,
+      "publicationDate": "2019-08-06",
+      "year": 2019
+    },
+    {
+      "title": "Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/SP.2019.00031",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "STRIP: a defence against trojan attacks on deep neural networks",
+      "arxiv_id": "1902.06531",
+      "doi": "10.1145/3359789.3359790",
+      "publicationDate": "2019-02-18",
+      "year": 2019
+    },
+    {
+      "title": "Certified Adversarial Robustness via Randomized Smoothing",
+      "arxiv_id": "1902.02918",
+      "doi": null,
+      "publicationDate": "2019-02-08",
+      "year": 2019
+    },
+    {
+      "title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+      "arxiv_id": "1901.08573",
+      "doi": null,
+      "publicationDate": "2019-01-24",
+      "year": 2019
+    },
+    {
+      "title": "Spectral Signatures in Backdoor Attacks",
+      "arxiv_id": "1811.00636",
+      "doi": null,
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks",
+      "arxiv_id": "1805.12185",
+      "doi": "10.1007/978-3-030-00470-5_13",
+      "publicationDate": "2018-05-30",
+      "year": 2018
+    },
+    {
+      "title": "Black-box Adversarial Attacks with Limited Queries and Information",
+      "arxiv_id": "1804.08598",
+      "doi": null,
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "Audio Adversarial Examples: Targeted Attacks on Speech-to-Text",
+      "arxiv_id": "1801.01944",
+      "doi": "10.1109/SPW.2018.00009",
+      "publicationDate": "2018-01-05",
+      "year": 2018
+    },
+    {
+      "title": "DolphinAttack: Inaudible Voice Commands",
+      "arxiv_id": "1708.09537",
+      "doi": "10.1145/3133956.3134052",
+      "publicationDate": "2017-08-31",
+      "year": 2017
+    },
+    {
+      "title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+      "arxiv_id": "1708.06733",
+      "doi": null,
+      "publicationDate": "2017-08-22",
+      "year": 2017
+    },
+    {
+      "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+      "arxiv_id": "1706.06083",
+      "doi": null,
+      "publicationDate": "2017-06-19",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Multimodal Machine Learning: A Survey and Taxonomy",
+      "arxiv_id": "1705.09406",
+      "doi": "10.1109/TPAMI.2018.2798607",
+      "publicationDate": "2017-05-26",
+      "year": 2017
+    },
+    {
+      "title": "Look, Listen and Learn",
+      "arxiv_id": "1705.08168",
+      "doi": "10.1109/ICCV.2017.73",
+      "publicationDate": "2017-05-23",
+      "year": 2017
+    },
+    {
+      "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+      "arxiv_id": "1704.01155",
+      "doi": "10.14722/ndss.2018.23198",
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "Adversarial examples in the physical world",
+      "arxiv_id": "1607.02533",
+      "doi": "10.1201/9781351251389-8",
+      "publicationDate": "2016-07-08",
+      "year": 2016
+    },
+    {
+      "title": "Practical Black-Box Attacks against Machine Learning",
+      "arxiv_id": "1602.02697",
+      "doi": "10.1145/3052973.3053009",
+      "publicationDate": "2016-02-08",
+      "year": 2016
+    },
+    {
+      "title": "Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/2810103.2813677",
+      "publicationDate": "2015-10-12",
+      "year": 2015
+    },
+    {
+      "title": "VQA: Visual Question Answering",
+      "arxiv_id": "1505.00468",
+      "doi": "10.1007/s11263-016-0966-6",
+      "publicationDate": "2015-05-03",
+      "year": 2015
+    },
+    {
+      "title": "Explaining and Harnessing Adversarial Examples",
+      "arxiv_id": "1412.6572",
+      "doi": null,
+      "publicationDate": "2014-12-19",
+      "year": 2014
+    },
+    {
+      "title": "Show and tell: A neural image caption generator",
+      "arxiv_id": "1411.4555",
+      "doi": "10.1109/CVPR.2015.7298935",
+      "publicationDate": "2014-11-17",
+      "year": 2014
+    },
+    {
+      "title": "Intriguing properties of neural networks",
+      "arxiv_id": "1312.6199",
+      "doi": null,
+      "publicationDate": "2013-12-20",
+      "year": 2013
+    },
+    {
+      "title": "Shadow-Activated Backdoor Attacks on Multimodal Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.findings-acl.248",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Cloak, Honey, Trap: Proactive Defenses Against LLM Agents",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2501.01042",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-1652",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Christodoulopoulos Christos Fang",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Poisoned-eye: Knowledge poisoning attack on retrieval-augmented generation based large vision-language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Web artifact attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -99,9 +99,11 @@ def main() -> None:
 
     corpus_titles = None  # lazy: DOI 전용 GT가 있을 때만 적재
     rows, domain_stats = [], {}
+    import yaml
     for f in cands:
         d = json.loads(f.read_text())
-        cand, refs = d["candidate"], d["refs"]
+        refs = d["refs"]
+        cand = yaml.safe_load((f.parent / "candidate.yaml").read_text())  # 정본은 yaml (재분류 반영)
         dom, gt = cand["domain"], cand["gt"]
         n = len(refs)
         arx = [r["arxiv_id"] for r in refs if r.get("arxiv_id")]

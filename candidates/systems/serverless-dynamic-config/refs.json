@@ -1,0 +1,709 @@
+{
+  "candidate": {
+    "topic": "Dynamic Function Configuration and its Management in Serverless Computing",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3821534",
+      "title": "Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions",
+      "published": "2026-07-10"
+    },
+    "notes": "3차: 정통 OS/분산/스토리지 (사용자 지적 — systems에 AI 과다 반영)"
+  },
+  "extracted_at": "2026-09-01T03:14:13+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 96,
+    "arxiv_resolvable": 20,
+    "doi_only": 51,
+    "unresolved": 25
+  },
+  "gt_s2": {
+    "paperId": "65105d17f4ee3143b1c815cf4f79950946613585",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2510-02404",
+      "ArXiv": "2510.02404",
+      "DOI": "10.1145/3821534",
+      "CorpusId": 281829375
+    },
+    "title": "Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 96,
+    "publicationDate": "2025-10-02"
+  },
+  "refs": [
+    {
+      "title": "In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies",
+      "arxiv_id": null,
+      "doi": "10.1145/3767295.3769377",
+      "publicationDate": "2026-04-26",
+      "year": 2026
+    },
+    {
+      "title": "Edge-Assisted Adaptive Configuration for Serverless-Based Video Analytics",
+      "arxiv_id": null,
+      "doi": "10.1109/TON.2024.3523956",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Estimating the Carbon Footprint of Serverless Functions on a Public Cloud Platform",
+      "arxiv_id": null,
+      "doi": "10.1145/3721465.3721863",
+      "publicationDate": "2025-03-30",
+      "year": 2025
+    },
+    {
+      "title": "Bridging the Sustainability Gap in Serverless through Observability and Carbon-Aware Pricing",
+      "arxiv_id": null,
+      "doi": "10.1145/3727200.3727218",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "FaPES: Enabling Efficient Elastic Scaling for Serverless Machine Learning Platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698548",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "Accountable Carbon Footprints and Energy Profiling For Serverless Functions",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698531",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "The Hidden Carbon Footprint of Serverless Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3698038.3698546",
+      "publicationDate": "2024-11-20",
+      "year": 2024
+    },
+    {
+      "title": "Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions",
+      "arxiv_id": "2411.07444",
+      "doi": "10.1109/UCC63386.2024.00055",
+      "publicationDate": "2024-11-12",
+      "year": 2024
+    },
+    {
+      "title": "X86 vs. ARM64: An Investigation of Factors Influencing Serverless Performance",
+      "arxiv_id": null,
+      "doi": "10.1145/3631295.3631394",
+      "publicationDate": "2023-12-11",
+      "year": 2023
+    },
+    {
+      "title": "Understanding Cost Dynamics of Serverless Computing: An Empirical Study",
+      "arxiv_id": "2311.13242",
+      "doi": "10.48550/arXiv.2311.13242",
+      "publicationDate": "2023-11-22",
+      "year": 2023
+    },
+    {
+      "title": "Parrotfish: Parametric Regression for Optimizing Serverless Functions",
+      "arxiv_id": null,
+      "doi": "10.1145/3620678.3624654",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads",
+      "arxiv_id": "2312.10127",
+      "doi": "10.1145/3620678.3624783",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Cold Start Latency in Serverless Computing: A Systematic Review, Taxonomy, and Future Directions",
+      "arxiv_id": "2310.08437",
+      "doi": "10.1145/3700875",
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "A Review of Deep Reinforcement Learning in Serverless Computing: Function Scheduling and Resource Auto-Scaling",
+      "arxiv_id": "2311.12839",
+      "doi": "10.48550/arXiv.2311.12839",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Prediction-driven resource provisioning for serverless container runtimes",
+      "arxiv_id": "2410.19215",
+      "doi": "10.1109/ACSOS58161.2023.00033",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "A probabilistic modeling and evolutionary optimization approach for serverless workflow configuration",
+      "arxiv_id": null,
+      "doi": "10.1002/spe.3268",
+      "publicationDate": "2023-09-15",
+      "year": 2023
+    },
+    {
+      "title": "FireFace: Leveraging Internal Function Features for Configuration of Functions on Serverless Edge Platforms",
+      "arxiv_id": null,
+      "doi": "10.3390/s23187829",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Computing: What It Is, and What It Is Not?",
+      "arxiv_id": null,
+      "doi": "10.1145/3587249",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "Resource Management in Serverless Computing - Review, Research Challenges, and Prospects",
+      "arxiv_id": null,
+      "doi": "10.1109/ICoAC59537.2023.10249574",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "Configuration and Placement of Serverless Applications Using Statistical Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNSM.2023.3254437",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "QoS-Aware and Cost-Efficient Dynamic Resource Allocation for Serverless ML Workflows",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS54959.2023.00093",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Optimizing Memory Allocation in a Serverless Architecture through Function Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGridW59191.2023.00056",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Serverless Computing: State-of-the-Art, Challenges and Opportunities",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2022.3166553",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "AQUATOPE: QoS-and-Uncertainty-Aware Resource Management for Multi-stage Serverless Workflows",
+      "arxiv_id": null,
+      "doi": "10.1145/3567955.3567960",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "CharmSeeker: Automated Pipeline Configuration for Serverless Video Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/TNET.2022.3183231",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Cypress: input size-sensitive container provisioning and request scheduling for serverless platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3542929.3563464",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Performance Modeling of Serverless Computing Platforms",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2020.3033373",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Time‐cost efficient memory configuration for serverless workflow applications",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.7308",
+      "publicationDate": "2022-09-21",
+      "year": 2022
+    },
+    {
+      "title": "Function Memory Optimization for Heterogeneous Serverless Platforms with CPU Time Accounting",
+      "arxiv_id": null,
+      "doi": "10.1109/IC2E55432.2022.00019",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "A Preliminary Study of Serverless Platforms for Latency Sensitive Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/CONECCT55679.2022.9865790",
+      "publicationDate": "2022-07-08",
+      "year": 2022
+    },
+    {
+      "title": "SLAM: SLO-Aware Memory Optimization for Serverless Applications",
+      "arxiv_id": "2207.06183",
+      "doi": "10.1109/CLOUD55607.2022.00019",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "WISEFUSE",
+      "arxiv_id": null,
+      "doi": "10.1145/3530892",
+      "publicationDate": "2022-05-26",
+      "year": 2022
+    },
+    {
+      "title": "StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows",
+      "arxiv_id": null,
+      "doi": "10.1109/infocom48880.2022.9796962",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "LatEst: Vertical elasticity for millisecond serverless execution",
+      "arxiv_id": null,
+      "doi": "10.1109/ccgrid54584.2022.00105",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Performance Modeling of Metric-Based Serverless Computing Platforms",
+      "arxiv_id": "2202.11247",
+      "doi": "10.1109/TCC.2022.3169619",
+      "publicationDate": "2022-02-23",
+      "year": 2022
+    },
+    {
+      "title": "The Serverless Computing Survey: A Technical Primer for Design Architecture",
+      "arxiv_id": "2112.12921",
+      "doi": "10.1145/3508360",
+      "publicationDate": "2021-12-24",
+      "year": 2021
+    },
+    {
+      "title": "Estimating the capacities of function-as-a-service functions",
+      "arxiv_id": "2201.11454",
+      "doi": "10.1145/3492323.3495628",
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "Kraken: Adaptive Container Provisioning for Deploying Dynamic DAGs in Serverless Platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3472883.3486992",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "The State of Serverless Applications: Collection, Characterization, and Community Consensus",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2021.3113940",
+      "publicationDate": "2021-09-21",
+      "year": 2021
+    },
+    {
+      "title": "RDOF: Deployment Optimization for Function as a Service",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD53861.2021.00066",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "An empirical study on challenges of application development in serverless computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3468264.3468558",
+      "publicationDate": "2021-08-18",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Serverless Computing",
+      "arxiv_id": "2106.11773",
+      "doi": null,
+      "publicationDate": "2021-06-20",
+      "year": 2021
+    },
+    {
+      "title": "With Great Freedom Comes Great Opportunity: Rethinking Resource Allocation for Serverless Functions",
+      "arxiv_id": "2105.14845",
+      "doi": "10.1145/3552326.3567506",
+      "publicationDate": "2021-05-31",
+      "year": 2021
+    },
+    {
+      "title": "A Holistic View on Resource Management in Serverless Computing Environments: Taxonomy and Future Directions",
+      "arxiv_id": "2105.11592",
+      "doi": "10.1145/3510412",
+      "publicationDate": "2021-05-25",
+      "year": 2021
+    },
+    {
+      "title": "What serverless computing is and should become",
+      "arxiv_id": null,
+      "doi": "10.1145/3406011",
+      "publicationDate": "2021-04-26",
+      "year": 2021
+    },
+    {
+      "title": "OFC: an opportunistic caching system for FaaS platforms",
+      "arxiv_id": null,
+      "doi": "10.1145/3447786.3456239",
+      "publicationDate": "2021-04-21",
+      "year": 2021
+    },
+    {
+      "title": "Cost minimization for deploying serverless functions",
+      "arxiv_id": null,
+      "doi": "10.1145/3412841.3442069",
+      "publicationDate": "2021-03-22",
+      "year": 2021
+    },
+    {
+      "title": "Modeling and Optimization of Performance and Cost of Serverless Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2020.3028841",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines",
+      "arxiv_id": "2102.01887",
+      "doi": "10.1145/3472883.3486972",
+      "publicationDate": "2021-02-03",
+      "year": 2021
+    },
+    {
+      "title": "Resource Management for Cloud Functions with Memory Tracing, Profiling and Autotuning",
+      "arxiv_id": null,
+      "doi": "10.1145/3429880.3430094",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "Sizeless: predicting the optimal size of serverless functions",
+      "arxiv_id": "2010.15162",
+      "doi": "10.1145/3464298.3493398",
+      "publicationDate": "2020-10-28",
+      "year": 2020
+    },
+    {
+      "title": "Lambdata: Optimizing Serverless Computing by Making Data Intents Explicit",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD49709.2020.00049",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "ENSURE: Efficient Scheduling and Autonomous Resource Management in Serverless Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/ACSOS49614.2020.00020",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Implications of Programming Language Selection for Serverless Data Processing Pipelines",
+      "arxiv_id": null,
+      "doi": "10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00120",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "COSE: Configuring Serverless Functions using Statistical Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM41043.2020.9155363",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Automated Fine-Grained CPU Cap Control in Serverless Computing Platform",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2020.2989771",
+      "publicationDate": "2020-04-23",
+      "year": 2020
+    },
+    {
+      "title": "Predicting the Costs of Serverless Workflows",
+      "arxiv_id": null,
+      "doi": "10.1145/3358960.3379133",
+      "publicationDate": "2020-04-20",
+      "year": 2020
+    },
+    {
+      "title": "Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider",
+      "arxiv_id": "2003.03423",
+      "doi": null,
+      "publicationDate": "2020-03-06",
+      "year": 2020
+    },
+    {
+      "title": "Serverless Computing: A Survey of Opportunities, Challenges, and Applications",
+      "arxiv_id": "1911.01296",
+      "doi": "10.1145/3510611",
+      "publicationDate": "2019-11-04",
+      "year": 2019
+    },
+    {
+      "title": "Architectural Implications of Function-as-a-Service Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/3352460.3358296",
+      "publicationDate": "2019-10-12",
+      "year": 2019
+    },
+    {
+      "title": "Video processing with serverless computing: a measurement study",
+      "arxiv_id": null,
+      "doi": "10.1145/3304112.3325608",
+      "publicationDate": "2019-06-21",
+      "year": 2019
+    },
+    {
+      "title": "Serverless",
+      "arxiv_id": null,
+      "doi": "10.1201/9780429278594-7",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "Amazon Web Services",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-3084-8_3",
+      "publicationDate": "2019-04-30",
+      "year": 2019
+    },
+    {
+      "title": "Cloud Programming Simplified: A Berkeley View on Serverless Computing",
+      "arxiv_id": "1902.03383",
+      "doi": null,
+      "publicationDate": "2019-02-09",
+      "year": 2019
+    },
+    {
+      "title": "Serverless Computing: One Step Forward, Two Steps Back",
+      "arxiv_id": "1812.03651",
+      "doi": null,
+      "publicationDate": "2018-12-10",
+      "year": 2018
+    },
+    {
+      "title": "Costless: Optimizing Cost of Serverless Computing through Function Fusion and Placement",
+      "arxiv_id": "1811.09721",
+      "doi": "10.1109/SEC.2018.00029",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Evaluation of Production Serverless Computing Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/CLOUD.2018.00062",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Serverless Computing: An Investigation of Factors Influencing Microservice Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/IC2E.2018.00039",
+      "publicationDate": "2018-04-17",
+      "year": 2018
+    },
+    {
+      "title": "Serverless Computing and Scheduling Tasks on Cloud: A Review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-03-03",
+      "year": 2018
+    },
+    {
+      "title": ". AWS Lambda - Run code without thinking about servers or clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Welcome to Serverless Land",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". AWS re:Invent 2023 - Best practices for serverless developers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". How does language, memory and package size afect cold starts of AWS Lambda?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Capital One Saves Developer Time and Reduces Costs by Going Serverless on AWS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "ORION and the Three Rights: Sizing, Bundling, and Prewarming for Serverless DAGs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2022.3172069",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "MAFF: Self-adaptive Memory Optimization for Serverless Functions",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-04718-3_9",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Serverless Boom or Bust? An Analysis of Economic Incentives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "lambda ś compare coldstart time with diferent languages, memory and code sizes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "OpenFaaS-Serverless function, made simple",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "OpenWhisk - Open Source Serverless Cloud Platform",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "OpenWhisk system details",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "google,我,萨娜",
+      "arxiv_id": null,
+      "doi": "10.1201/b18055-8",
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Web services,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "2024. Knative is an Open-Source Enterprise-level solution to build Serverless and Event Driven Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CloudRunFunctions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Azure Functions Consumption Plan",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CPUallocation(services)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. AzureDurableFunctionsdocumentation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Introducing AWS Lambda Managed Instances: Serverless Simplicity with EC2 Flexibility",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Decomposing and executing serverless applications as resource graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Profiling functions with AWS Lambda Power Tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Understanding and Remediating",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dynamic Function Configuration and its Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Agarwal,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. The Next Era of Serverless: How IBM is Enabling Serverless 2.0",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

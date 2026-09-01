@@ -1,0 +1,8 @@
+topic: From IO-Proxies to Ephemeral IO-Services
+domain: systems
+gt:
+  arxiv_id: null
+  doi: "10.1145/3807445"
+  title: "From IO-Proxies to Ephemeral IO-Services: Reconciling Hardware Advances and Application Requirements"
+  published: "2026-05-15"
+notes: "3차: 정통 OS/분산/스토리지 (사용자 지적 — systems에 AI 과다 반영)"

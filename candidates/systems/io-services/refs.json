@@ -1,0 +1,1079 @@
+{
+  "candidate": {
+    "topic": "From IO-Proxies to Ephemeral IO-Services",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3807445",
+      "title": "From IO-Proxies to Ephemeral IO-Services: Reconciling Hardware Advances and Application Requirements",
+      "published": "2026-05-15"
+    },
+    "notes": "3차: 정통 OS/분산/스토리지 (사용자 지적 — systems에 AI 과다 반영)"
+  },
+  "extracted_at": "2026-09-01T03:14:04+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 149,
+    "arxiv_resolvable": 6,
+    "doi_only": 71,
+    "unresolved": 72
+  },
+  "gt_s2": {
+    "paperId": "ca75da1385cac06bcc33f996ac8b97a6ec9bcb88",
+    "externalIds": {
+      "DBLP": "journals/csur/DenielZ26",
+      "DOI": "10.1145/3807445",
+      "CorpusId": 288337911
+    },
+    "title": "From IO-Proxies to Ephemeral IO-Services: Reconciling Hardware Advances and Application Requirements",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 149,
+    "publicationDate": "2026-05-15"
+  },
+  "refs": [
+    {
+      "title": "F-DATA: A Fugaku Workload Dataset for Job-centric Predictive Modelling in HPC Systems",
+      "arxiv_id": null,
+      "doi": "10.1038/s41597-025-05633-1",
+      "publicationDate": "2025-07-30",
+      "year": 2025
+    },
+    {
+      "title": "Data Lakehouse: A survey and experimental study",
+      "arxiv_id": null,
+      "doi": "10.1016/j.is.2024.102460",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "IO-SEA: Storage I/O and Data Management for Exascale Architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/3637543.3654620",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "Frontier: Exploring Exascale The System Architecture of the First Exascale Supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1145/3581784.3607089",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER51413.2022.00044",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "ESSA 2022 Invited Speaker DAOS: Nextgen Storage Stack for HPC and AI",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPSW55747.2022.00180",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "A Brief Introduction to Redis",
+      "arxiv_id": "2203.06559",
+      "doi": null,
+      "publicationDate": "2022-03-13",
+      "year": 2022
+    },
+    {
+      "title": "Past, Present and Future of Computational Storage: A Survey",
+      "arxiv_id": "2112.09691",
+      "doi": null,
+      "publicationDate": "2021-12-13",
+      "year": 2021
+    },
+    {
+      "title": "RocksDB: Evolution of Development Priorities in a Key-value Store Serving Large-scale Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3483840",
+      "publicationDate": "2021-11-30",
+      "year": 2021
+    },
+    {
+      "title": "The Advanced Performance of Improved LevelDB on NUMA Systems: Three Practical Approaches",
+      "arxiv_id": null,
+      "doi": "10.1145/3474944.3474946",
+      "publicationDate": "2021-01-16",
+      "year": 2021
+    },
+    {
+      "title": "Towards On-Demand I/O Forwarding in HPC Platforms",
+      "arxiv_id": null,
+      "doi": "10.1109/PDSW51947.2020.00007",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Los Alamos National Laboratory",
+      "arxiv_id": null,
+      "doi": "10.2172/1633562",
+      "publicationDate": "2020-06-16",
+      "year": 2020
+    },
+    {
+      "title": "Remote Direct Memory Access - Connection Manager (RDMA-CM) Private Data for RPC-over-RDMA Version 1",
+      "arxiv_id": null,
+      "doi": "10.17487/rfc8797",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Impact of etcd deployment on Kubernetes, Istio, and application performance",
+      "arxiv_id": "2004.00372",
+      "doi": "10.1002/spe.2885",
+      "publicationDate": "2020-03-05",
+      "year": 2020
+    },
+    {
+      "title": "Network File System (NFS) Version 4 Minor Version 1 Protocol",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC8881",
+      "publicationDate": "2020-01-28",
+      "year": 2020
+    },
+    {
+      "title": "MongoDB - The Definitive Guide: Powerful and Scalable Data Storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-12-09",
+      "year": 2019
+    },
+    {
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "arxiv_id": "1912.01703",
+      "doi": null,
+      "publicationDate": "2019-12-03",
+      "year": 2019
+    },
+    {
+      "title": "Big Data Network Flow Processing Using Apache Spark",
+      "arxiv_id": null,
+      "doi": "10.1145/3352700.3352709",
+      "publicationDate": "2019-09-02",
+      "year": 2019
+    },
+    {
+      "title": "Adapting TPC-C Benchmark to Measure Performance of Multi-Document Transactions in MongoDB",
+      "arxiv_id": null,
+      "doi": "10.14778/3352063.3352140",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "SQL & NoSQL Databases",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-658-24549-8",
+      "publicationDate": "2019-07-05",
+      "year": 2019
+    },
+    {
+      "title": "The Lustre Storage Architecture",
+      "arxiv_id": "1903.01955",
+      "doi": null,
+      "publicationDate": "2019-03-05",
+      "year": 2019
+    },
+    {
+      "title": "Slurm Simulator: Improving Slurm Scheduler Performance on Large HPC systems by Utilization of Multiple Controllers and Node Sharing",
+      "arxiv_id": null,
+      "doi": "10.1145/3219104.3219111",
+      "publicationDate": "2018-07-22",
+      "year": 2018
+    },
+    {
+      "title": "Survey of Storage Systems for High-Performance Computing",
+      "arxiv_id": null,
+      "doi": "10.14529/JSFI180103",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "Open source slurm computer cluster system design and a sample application",
+      "arxiv_id": null,
+      "doi": "10.1109/UBMK.2017.8093424",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "REST based API",
+      "arxiv_id": null,
+      "doi": "10.31142/IJTSRD2200",
+      "publicationDate": "2017-06-27",
+      "year": 2017
+    },
+    {
+      "title": "Design Space Exploration of the Dragonfly Topology",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-67630-2_5",
+      "publicationDate": "2017-06-18",
+      "year": 2017
+    },
+    {
+      "title": "Network File System (NFS) Upper-Layer Binding to RPC-over-RDMA Version 1",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC8267",
+      "publicationDate": "2016-09-28",
+      "year": 2016
+    },
+    {
+      "title": "The BXI routing architecture for exascale supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-016-1755-2",
+      "publicationDate": "2016-05-24",
+      "year": 2016
+    },
+    {
+      "title": "Knights Landing: Second-Generation Intel Xeon Phi Product",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2016.25",
+      "publicationDate": "2016-03-01",
+      "year": 2016
+    },
+    {
+      "title": "BurstFS: A Distributed Burst Buffer File System for Scientific Applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-01-27",
+      "year": 2016
+    },
+    {
+      "title": "Kubernetes and the path to cloud native",
+      "arxiv_id": null,
+      "doi": "10.1145/2806777.2809955",
+      "publicationDate": "2015-08-27",
+      "year": 2015
+    },
+    {
+      "title": "Knights landing (KNL): 2nd Generation Intel® Xeon Phi processor",
+      "arxiv_id": null,
+      "doi": "10.1109/HOTCHIPS.2015.7477467",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "Kickstarting high-performance energy-efficient manycore architectures with Epiphany",
+      "arxiv_id": "1412.5538",
+      "doi": "10.1109/ACSSC.2014.7094761",
+      "publicationDate": "2014-11-01",
+      "year": 2014
+    },
+    {
+      "title": "OpenStack Swift: Using, Administering, and Developing for Swift Object Storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-10-27",
+      "year": 2014
+    },
+    {
+      "title": "FusionFS: Toward supporting data-intensive scientific applications on extreme-scale high-performance computing systems",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData.2014.7004214",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.1177/1527476412450193",
+      "publicationDate": "2014-02-01",
+      "year": 2014
+    },
+    {
+      "title": "A 1 PB/s file system to checkpoint three million MPI tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/2462902.2462908",
+      "publicationDate": "2013-06-17",
+      "year": 2013
+    },
+    {
+      "title": "I/O Forwarding on Livermore Computing Commodity Linux Clusters",
+      "arxiv_id": null,
+      "doi": "10.2172/1070157",
+      "publicationDate": "2012-12-28",
+      "year": 2012
+    },
+    {
+      "title": "The NoSQL Principles and Basic Application of Cassandra Model",
+      "arxiv_id": null,
+      "doi": "10.1109/CSSS.2012.336",
+      "publicationDate": "2012-08-11",
+      "year": 2012
+    },
+    {
+      "title": "On the role of burst buffers in leadership-class storage systems",
+      "arxiv_id": null,
+      "doi": "10.1109/MSST.2012.6232369",
+      "publicationDate": "2012-04-16",
+      "year": 2012
+    },
+    {
+      "title": "REST API Design Rulebook",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-10-31",
+      "year": 2011
+    },
+    {
+      "title": "DASH: a Recipe for a Flash-based Data Intensive Supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2010.16",
+      "publicationDate": "2010-11-13",
+      "year": 2010
+    },
+    {
+      "title": "Design, Modeling, and Evaluation of a Scalable Multi-level Checkpointing System",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2010.18",
+      "publicationDate": "2010-11-13",
+      "year": 2010
+    },
+    {
+      "title": "Accelerating I/O Forwarding in IBM Blue Gene/P Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2010.8",
+      "publicationDate": "2010-11-01",
+      "year": 2010
+    },
+    {
+      "title": "Dynamic fractional resource scheduling for HPC workloads",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2010.5470356",
+      "publicationDate": "2010-04-19",
+      "year": 2010
+    },
+    {
+      "title": "Cassandra: a decentralized structured storage system",
+      "arxiv_id": null,
+      "doi": "10.1145/1773912.1773922",
+      "publicationDate": "2010-04-14",
+      "year": 2010
+    },
+    {
+      "title": "HyperX: topology, routing, and packaging of efficient large-scale networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1654059.1654101",
+      "publicationDate": "2009-11-14",
+      "year": 2009
+    },
+    {
+      "title": "Scalable I/O forwarding framework for high-performance computing systems",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTR.2009.5289188",
+      "publicationDate": "2009-10-16",
+      "year": 2009
+    },
+    {
+      "title": "Network File System (NFS) Remote Direct Memory Access (RDMA) Problem Statement",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC5532",
+      "publicationDate": "2009-05-01",
+      "year": 2009
+    },
+    {
+      "title": "Portably solving file races with hardness amplification",
+      "arxiv_id": null,
+      "doi": "10.1145/1416944.1416948",
+      "publicationDate": "2008-11-01",
+      "year": 2008
+    },
+    {
+      "title": "Technology-Driven, Highly-Scalable Dragonfly Topology",
+      "arxiv_id": null,
+      "doi": "10.1145/1394608.1382129",
+      "publicationDate": "2008-06-01",
+      "year": 2008
+    },
+    {
+      "title": "RADOS: a scalable, reliable storage service for petabyte-scale storage clusters",
+      "arxiv_id": null,
+      "doi": "10.1145/1374596.1374606",
+      "publicationDate": "2007-11-11",
+      "year": 2007
+    },
+    {
+      "title": "A Remote Direct Memory Access Protocol Specification",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC5040",
+      "publicationDate": "2007-10-01",
+      "year": 2007
+    },
+    {
+      "title": "Flattened butterfly: a cost-efficient topology for high-radix networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1250662.1250679",
+      "publicationDate": "2007-06-09",
+      "year": 2007
+    },
+    {
+      "title": "GANESHA, a multiusage with large cache NFSv4 server",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-02-13",
+      "year": 2007
+    },
+    {
+      "title": "Designing a Highly-Scalable Operating System: The Blue Gene/L Story",
+      "arxiv_id": null,
+      "doi": "10.1145/1188455.1188578",
+      "publicationDate": "2006-11-11",
+      "year": 2006
+    },
+    {
+      "title": "Ceph: a scalable, high-performance distributed file system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2006-11-06",
+      "year": 2006
+    },
+    {
+      "title": "TOCTTOU vulnerabilities in UNIX-style file systems: an anatomical study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-12-13",
+      "year": 2005
+    },
+    {
+      "title": "High performance storage system scalability: architecture, implementation and experience",
+      "arxiv_id": null,
+      "doi": "10.1109/MSST.2005.17",
+      "publicationDate": "2005-04-11",
+      "year": 2005
+    },
+    {
+      "title": "QEMU, a Fast and Portable Dynamic Translator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-04-10",
+      "year": 2005
+    },
+    {
+      "title": "Nix: A Safe and Policy-Free System for Software Deployment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-11-19",
+      "year": 2004
+    },
+    {
+      "title": "Unlocking the Performance of the BlueGene/L Supercomputer",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2004.63",
+      "publicationDate": "2004-11-06",
+      "year": 2004
+    },
+    {
+      "title": "SLURM: Simple Linux Utility for Resource Management",
+      "arxiv_id": null,
+      "doi": "10.1007/10968987_3",
+      "publicationDate": "2003-06-24",
+      "year": 2003
+    },
+    {
+      "title": "Network File System (NFS) Version 4 Protocol",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC7530",
+      "publicationDate": "2003-04-01",
+      "year": 2003
+    },
+    {
+      "title": "Performance analysis of three implementation strategies for distributed lock management",
+      "arxiv_id": null,
+      "doi": "10.1049/IP-CDT:20010664",
+      "publicationDate": "2001-07-01",
+      "year": 2001
+    },
+    {
+      "title": "NFS Illustrated",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1999-12-24",
+      "year": 1999
+    },
+    {
+      "title": "Semantic acid properties in multidatabases using remote procedure calls and update propagations",
+      "arxiv_id": null,
+      "doi": "10.1002/(SICI)1097-024X(199801)28:1<77::AID-SPE148>3.0.CO;2-R",
+      "publicationDate": "1998-01-01",
+      "year": 1998
+    },
+    {
+      "title": "RPCSEC_GSS Protocol Specification",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC2203",
+      "publicationDate": "1997-09-01",
+      "year": 1997
+    },
+    {
+      "title": "Memory Usage in the LANL CM-5 Workload",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-63574-2_17",
+      "publicationDate": "1997-04-05",
+      "year": 1997
+    },
+    {
+      "title": "XDR: External Data Representation Standard",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC1832",
+      "publicationDate": "1995-08-01",
+      "year": 1995
+    },
+    {
+      "title": "Binding Protocols for ONC RPC Version 2",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC1833",
+      "publicationDate": "1995-08-01",
+      "year": 1995
+    },
+    {
+      "title": "NFS Version 3 Protocol Specification",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC1813",
+      "publicationDate": "1995-06-01",
+      "year": 1995
+    },
+    {
+      "title": "Striping in a RAID level 5 disk array",
+      "arxiv_id": null,
+      "doi": "10.1145/223587.223603",
+      "publicationDate": "1995-05-01",
+      "year": 1995
+    },
+    {
+      "title": "The Kerberos Network Authentication Service (V5)",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC1510",
+      "publicationDate": "1993-09-01",
+      "year": 1993
+    },
+    {
+      "title": "GRPC: a communication cooperation mechanism in distributed systems",
+      "arxiv_id": null,
+      "doi": "10.1145/155870.155881",
+      "publicationDate": "1993-07-01",
+      "year": 1993
+    },
+    {
+      "title": "Leases: an efficient fault-tolerant mechanism for distributed file cache consistency",
+      "arxiv_id": null,
+      "doi": "10.1145/74851.74870",
+      "publicationDate": "1989-11-01",
+      "year": 1989
+    },
+    {
+      "title": "NFS: Network File System Protocol specification",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC1094",
+      "publicationDate": "1989-03-01",
+      "year": 1989
+    },
+    {
+      "title": "Mass storage reference model special topics",
+      "arxiv_id": null,
+      "doi": "10.1109/MASS.1988.72774",
+      "publicationDate": "1988-10-31",
+      "year": 1988
+    },
+    {
+      "title": "User Datagram Protocol",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC0768",
+      "publicationDate": "1980-08-01",
+      "year": 1980
+    },
+    {
+      "title": "File Transfer Protocol specification",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC0765",
+      "publicationDate": "1980-06-01",
+      "year": 1980
+    },
+    {
+      "title": "The Argonne National Laboratory",
+      "arxiv_id": null,
+      "doi": "10.1080/00963402.1948.11460209",
+      "publicationDate": "1948-06-01",
+      "year": 1948
+    },
+    {
+      "title": "Received 23 April 2025; revised 24 February 2026; accepted 24 March 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "LQCD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "TSMP",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Parquet’s columnar storage advantage: A case study in big data analytics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ECMWF",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "fedora",
+      "arxiv_id": null,
+      "doi": "10.5040/9781501365287.1057",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "CryoEM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Learn Docker in a Month of Lunches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Chrome OS is getting Linux app support",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Mero : Co-Designing an Object Store for Extreme Scale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A case for redundant arrays of inexpensive disks (RAID)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "BurstMem: A high-performance burst buffer system for scientific applications",
+      "arxiv_id": null,
+      "doi": "10.1109/BigData.2014.7004215",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Industry trade group",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Author manuscript, published in \"European Lisp Symposium (2013)\" Functional Package Management with Guix",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Intel Xeon Phi Coprocessor System Software Developers Guide",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Mpi-io",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-09766-4_297",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "OEMs show systems with Intel MIC chips",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Haskell 2010 Language Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Storage",
+      "arxiv_id": null,
+      "doi": "10.3362/9781780444321",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Object-Based Parallel NFS (pNFS) Operations",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC5664",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "SCSI Object-Based Storage Device Commands -2 (OSD-2)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "YAML Ain’t Markup Language (YAML) (tm) Version 1.2 . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "The Transport Layer Security (TLS) Protocol Version 1.2",
+      "arxiv_id": null,
+      "doi": "10.17487/RFC5246",
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "9P RDMA Transport",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Status of This Memo The Transport Layer Security (TLS) Protocol",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Introduction à la GSSAPI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Plan 9 from Bell Labs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1995
+    },
+    {
+      "title": "MPI: A message - passing interface standard",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "GenericSecurityServiceApplicationProgramInterface",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1993
+    },
+    {
+      "title": "Beyond Unix: Plan 9",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1990
+    },
+    {
+      "title": "Is plan 9 sci-fi or UNIX for the future?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1990
+    },
+    {
+      "title": "RPC: Remote Procedure Call Protocol specification: Version 2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1988
+    },
+    {
+      "title": "An Introduction to Microcomputers: Volume 1: Basic Concepts (2nd ed.) . Vol. 1",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1980
+    },
+    {
+      "title": "Proceedings of the Fast 2002 Conference on File and Storage Technologies Gpfs: a Shared-disk File System for Large Computing Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Internet Engineering Task Force (ietf) Securing Block Storage Protocols over Ip: Rfc 3723 Requirements Update for Ipsec V3",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Under Consideration for Publication in J. Functional Programming Nixos: a Purely Functional Linux Distribution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ZeroCopy : Techniques , Benefits and Pitfalls",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Linux-KVM Team (website)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ceph Project",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Tianhe-2",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Aurora Supercomputer Is Installed: 2 ExaFLOPS, Tens of Thousands of CPUs and GPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "the gRPC developement team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Slurm Plug-in Architecture for Node and job (K)control",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "From IO-Proxies to Ephemeral",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Seaweedfs Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Installation of Sierra Supercomputer Steams Along at LLNL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "tee(2) Linux User’s Manual",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. IO – Software for Exascale Architectures, Final report on applications experience . Technical Report 955811",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NERSC and the HPC Community Bid Farewell to Cori Supercomputer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DASI Github repository",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DAOS: The Open-Source Storage Platform for AI & HPC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hashi Corp. 2024.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ChromeOS - The Cloud-First, Secure OS for your Business",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DAOS Fundation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "sendfile(2)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The OSDFS Filesystem",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVM Express Work Group",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "process_vm_readv(2)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "HPCS Terrsys. 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "the IO-Proxy launches a 9p server to expose the chosen directory inside Lustre",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "When the computation ends, operations are performed in a reverse order",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The KVSNS layer consists in a libray offering a POSIX-like API to manage the tree-based structure that contains files, directories, symbolic and hard links",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Glen Overby",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "LINPACK",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. ACID: Abstractive, Content-Based IDs for Document Retrieval with Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "copy_file_range(2)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Seagate",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

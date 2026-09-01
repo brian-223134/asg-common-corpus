@@ -1,0 +1,534 @@
+{
+  "candidate": {
+    "topic": "An Empirical Survey and Benchmark of Learned Distance Indexes for Road Networks",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": "2602.04068",
+      "doi": null,
+      "title": "An Empirical Survey and Benchmark of Learned Distance Indexes for Road Networks",
+      "published": "2026-02-03"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:23:38+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 71,
+    "arxiv_resolvable": 15,
+    "doi_only": 39,
+    "unresolved": 17
+  },
+  "gt_s2": {
+    "paperId": "bebc8d4b49838cf53789fced9afd23406bd78674",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2602-04068",
+      "ArXiv": "2602.04068",
+      "DOI": "10.48550/arXiv.2602.04068",
+      "CorpusId": 285286306
+    },
+    "title": "An Empirical Survey and Benchmark of Learned Distance Indexes for Road Networks",
+    "venue": "arXiv.org",
+    "year": 2026,
+    "referenceCount": 71,
+    "publicationDate": "2026-02-03"
+  },
+  "refs": [
+    {
+      "title": "A Survey on Temporal Knowledge Graph: Representation Learning and Applications",
+      "arxiv_id": "2403.04782",
+      "doi": "10.48550/arXiv.2403.04782",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "City-scale Vehicle Trajectory Data from Traffic Camera Videos",
+      "arxiv_id": null,
+      "doi": "10.1038/s41597-023-02589-y",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "ANEDA: Adaptable Node Embeddings for Shortest Path Distance Approximation",
+      "arxiv_id": null,
+      "doi": "10.1109/HPEC58863.2023.10363460",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "Ndist2vec: Node with Landmark and New Distance to Vector Method for Predicting Shortest Path Distance along Road Networks",
+      "arxiv_id": null,
+      "doi": "10.3390/ijgi11100514",
+      "publicationDate": "2022-10-09",
+      "year": 2022
+    },
+    {
+      "title": "Unified Route Planning for Shared Mobility: An Insertion-based Framework",
+      "arxiv_id": null,
+      "doi": "10.1145/3488723",
+      "publicationDate": "2022-03-31",
+      "year": 2022
+    },
+    {
+      "title": "Context-aware road travel time estimation by coupled tensor decomposition based on trajectory data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2022.108596",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "RNE: computing shortest paths using road network embedding",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-021-00705-1",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3482293",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "An Experimental Evaluation and Guideline for Path Finding in Weighted Dynamic Network",
+      "arxiv_id": null,
+      "doi": "10.14778/3476249.3476267",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Graph-based Deep Learning for Communication Networks: A Survey",
+      "arxiv_id": "2106.02533",
+      "doi": "10.1016/j.comcom.2021.12.015",
+      "publicationDate": "2021-06-04",
+      "year": 2021
+    },
+    {
+      "title": "Sketch-based Algorithms for Approximate Shortest Paths in Road Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3442381.3450083",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Biological network analysis with deep learning",
+      "arxiv_id": null,
+      "doi": "10.1093/bib/bbaa257",
+      "publicationDate": "2020-11-10",
+      "year": 2020
+    },
+    {
+      "title": "Learning Effective Road Network Representation with Hierarchical Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403043",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Architecture-Intact Oracle for Fastest Path and Time Queries on Dynamic Spatial Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3318464.3389718",
+      "publicationDate": "2020-05-29",
+      "year": 2020
+    },
+    {
+      "title": "Making Fast Graph-based Algorithms with Graph Metric Embeddings",
+      "arxiv_id": "1906.07040",
+      "doi": "10.18653/v1/P19-1325",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Route Recommendations on Road Networks for Arbitrary User Preference Functions",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00060",
+      "publicationDate": "2019-04-08",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Spatial Crowdsourcing",
+      "arxiv_id": null,
+      "doi": "10.1145/3291933",
+      "publicationDate": "2019-03-15",
+      "year": 2019
+    },
+    {
+      "title": "Fast Graph Representation Learning with PyTorch Geometric",
+      "arxiv_id": "1903.02428",
+      "doi": null,
+      "publicationDate": "2019-03-06",
+      "year": 2019
+    },
+    {
+      "title": "Travel Time Prediction of Taxis using Tensor Factorization",
+      "arxiv_id": null,
+      "doi": "10.1145/3297001.3297049",
+      "publicationDate": "2019-01-03",
+      "year": 2019
+    },
+    {
+      "title": "Shortest Path Distance Approximation Using Deep Learning Techniques",
+      "arxiv_id": "2002.05257",
+      "doi": "10.1109/ASONAM.2018.8508763",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "A Unified Approach to Route Planning for Shared Mobility",
+      "arxiv_id": null,
+      "doi": "10.14778/3236187.3236211",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "DeepTravel: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision",
+      "arxiv_id": "1802.02147",
+      "doi": "10.24963/ijcai.2018/508",
+      "publicationDate": "2018-02-06",
+      "year": 2018
+    },
+    {
+      "title": "When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v32i1.11877",
+      "publicationDate": "2018-01-16",
+      "year": 2018
+    },
+    {
+      "title": "An Experimental Study on Hub Labeling based Shortest Path Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/3186728.3164141",
+      "publicationDate": "2017-12-01",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "A Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip",
+      "arxiv_id": "1710.04350",
+      "doi": null,
+      "publicationDate": "2017-10-12",
+      "year": 2017
+    },
+    {
+      "title": "Inductive Representation Learning on Large Graphs",
+      "arxiv_id": "1706.02216",
+      "doi": null,
+      "publicationDate": "2017-06-07",
+      "year": 2017
+    },
+    {
+      "title": "Poincaré Embeddings for Learning Hierarchical Representations",
+      "arxiv_id": "1705.08039",
+      "doi": null,
+      "publicationDate": "2017-05-22",
+      "year": 2017
+    },
+    {
+      "title": "A Survey of Shortest-Path Algorithms",
+      "arxiv_id": "1705.02044",
+      "doi": null,
+      "publicationDate": "2017-05-04",
+      "year": 2017
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "Analytical queries on road networks: an experimental evaluation of two system architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/2820783.2820806",
+      "publicationDate": "2015-11-03",
+      "year": 2015
+    },
+    {
+      "title": "GraRep: Learning Graph Representations with Global Structural Information",
+      "arxiv_id": null,
+      "doi": "10.1145/2806416.2806512",
+      "publicationDate": "2015-10-17",
+      "year": 2015
+    },
+    {
+      "title": "Traffic Flow Prediction for Road Transportation Networks With Limited Traffic Data",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2014.2337238",
+      "publicationDate": "2015-04-01",
+      "year": 2015
+    },
+    {
+      "title": "LINE: Large-scale Information Network Embedding",
+      "arxiv_id": "1503.03578",
+      "doi": "10.1145/2736277.2741093",
+      "publicationDate": "2015-03-11",
+      "year": 2015
+    },
+    {
+      "title": "GloVe: Global Vectors for Word Representation",
+      "arxiv_id": null,
+      "doi": "10.3115/v1/D14-1162",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Adaptive Landmark Selection Strategies for Fast Shortest Path Computation in Large Real-World Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/WI-IAT.2014.13",
+      "publicationDate": "2014-08-11",
+      "year": 2014
+    },
+    {
+      "title": "Shortest-path queries in static networks",
+      "arxiv_id": null,
+      "doi": "10.1145/2530531",
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "Customizable Contraction Hierarchies",
+      "arxiv_id": "1402.0402",
+      "doi": "10.1145/2886843",
+      "publicationDate": "2014-02-03",
+      "year": 2014
+    },
+    {
+      "title": "Toward a Distance Oracle for Billion-Node Graphs",
+      "arxiv_id": null,
+      "doi": "10.14778/2732219.2732225",
+      "publicationDate": "2013-09-01",
+      "year": 2013
+    },
+    {
+      "title": "Shortest Path and Distance Queries on Road Networks: An Experimental Evaluation",
+      "arxiv_id": "1201.6564",
+      "doi": "10.14778/2140436.2140438",
+      "publicationDate": "2012-01-01",
+      "year": 2012
+    },
+    {
+      "title": "Geolife GPS trajectory dataset - User Guide",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-07-26",
+      "year": 2011
+    },
+    {
+      "title": "A Hub-Based Labeling Algorithm for Shortest Paths in Road Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-20662-7_20",
+      "publicationDate": "2011-05-05",
+      "year": 2011
+    },
+    {
+      "title": "Fast and accurate estimation of shortest paths in large graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/1871437.1871503",
+      "publicationDate": "2010-10-26",
+      "year": 2010
+    },
+    {
+      "title": "Improvement of Dijkstra's algorithm and its application in route planning",
+      "arxiv_id": null,
+      "doi": "10.1109/FSKD.2010.5569452",
+      "publicationDate": "2010-09-09",
+      "year": 2010
+    },
+    {
+      "title": "Understanding the difficulty of training deep feedforward neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-03-31",
+      "year": 2010
+    },
+    {
+      "title": "Fast shortest path distance estimation in large networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1645953.1646063",
+      "publicationDate": "2009-11-02",
+      "year": 2009
+    },
+    {
+      "title": "Distance Oracles for Spatial Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2009.53",
+      "publicationDate": "2009-03-29",
+      "year": 2009
+    },
+    {
+      "title": "Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-68552-4_24",
+      "publicationDate": "2008-05-30",
+      "year": 2008
+    },
+    {
+      "title": "Proximity queries in large traffic networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1341012.1341040",
+      "publicationDate": "2007-11-07",
+      "year": 2007
+    },
+    {
+      "title": "Measuring the Structure of Road Networks",
+      "arxiv_id": null,
+      "doi": "10.1111/J.1538-4632.2007.00707.X",
+      "publicationDate": "2007-07-01",
+      "year": 2007
+    },
+    {
+      "title": "Efficient query processing on spatial networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1097064.1097093",
+      "publicationDate": "2005-11-04",
+      "year": 2005
+    },
+    {
+      "title": "Computing the shortest path: A search meets graph theory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-01-23",
+      "year": 2005
+    },
+    {
+      "title": "Stochastic Estimation of the Maximum of a Regression Function",
+      "arxiv_id": null,
+      "doi": "10.1214/AOMS/1177729392",
+      "publicationDate": "1952-09-01",
+      "year": 1952
+    },
+    {
+      "title": "A Stochastic Approximation Method",
+      "arxiv_id": null,
+      "doi": "10.1214/AOMS/1177729586",
+      "publicationDate": "1951-09-01",
+      "year": 1951
+    },
+    {
+      "title": "RGCNdist2vec: Using Graph Convolutional Networks and Distance2Vector to Estimate Shortest Path Distance Along Road Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-97-2966-1_13",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Shortest Path Distance Prediction Based on CatBoost",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-87571-8_12",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A Learning Based Approach to Predict Shortest-Path Distances",
+      "arxiv_id": null,
+      "doi": "10.5441/002/edbt.2020.34",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "The simpler the better: an indexing approach for shared-route planning queries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "On estimatingcommunicationdelaysusinggraphconvolutionalnetworkswithsemi-supervisedlearning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Pytorch:Animperativestyle,high-performancedeeplearninglibrary",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Semi-supervisedclassificationwithgraphconvolutionalnetworks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "2016 Green Taxi Trip Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A method for stochastic optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Efficient estimationofwordrepresentationsinvectorspace",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "HierarchicalHubLabelingsforShortestPaths",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Highway Hierarchies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "METIS: A software package for partitioning unstructured graphs, partitioning meshes, and computing fill-reducing orderings of sparse matrices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1997
+    },
+    {
+      "title": "2023. Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SNAP: Stanford Network Analysis Project",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Succinct graphrepresentationsasdistanceoracles:anexperimentalevaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Taxi Trips - 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

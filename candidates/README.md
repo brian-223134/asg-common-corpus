@@ -65,6 +65,9 @@ CSUR을 1차 모집단으로 삼은 이유:
 경계 사례 규칙:
 - ML 기법을 다루더라도 **문제가 속한 분야**를 따른다 (예: "DP Federated Learning" → security,
   "GPU-Centric Communication" → systems).
+- **systems는 인프라 자체(OS·분산·스토리지·네트워크·서버리스)가 대상인 것으로 한정**한다.
+  ML workload를 위한 시스템(모델 서빙·추론 최적화·모델 압축)은 ai로 분류한다 (2026-09-01 사용자 확정 —
+  moe-inference-optimization·lm-compression은 ai로 재분류됨).
 - 비-CS 응용 분야(의료·재료·음악·사회과학 응용)와 하드웨어 설계(EDA·실리콘·FPGA)는 제외 —
   대상 agent들의 corpus(CS arXiv)와 문헌 생태가 다르다.
 

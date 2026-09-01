@@ -1,0 +1,1787 @@
+{
+  "candidate": {
+    "topic": "A Survey on Inference Optimization Techniques for Mixture of Experts Models",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3794845",
+      "title": "A Survey on Inference Optimization Techniques for Mixture of Experts Models",
+      "published": "2026-03-09"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T02:59:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 250,
+    "arxiv_resolvable": 171,
+    "doi_only": 37,
+    "unresolved": 42
+  },
+  "gt_s2": {
+    "paperId": "da638f23a68d45527b0a96c5395f9632b8d7f8f7",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2412-14219",
+      "ArXiv": "2412.14219",
+      "DOI": "10.1145/3794845",
+      "CorpusId": 274859865
+    },
+    "title": "A Survey on Inference Optimization Techniques for Mixture of Experts Models",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 250,
+    "publicationDate": "2024-12-18"
+  },
+  "refs": [
+    {
+      "title": "Knowledge Distillation for Large Language Models",
+      "arxiv_id": "2603.13765",
+      "doi": "10.48550/arXiv.2603.13765",
+      "publicationDate": "2026-03-14",
+      "year": 2026
+    },
+    {
+      "title": "MoE-Prism: Disentangling Monolithic Experts for Elastic MoE Services via Model-System Co-Designs",
+      "arxiv_id": "2510.19366",
+      "doi": null,
+      "publicationDate": "2025-10-22",
+      "year": 2025
+    },
+    {
+      "title": "gpt-oss-120b&gpt-oss-20b Model Card",
+      "arxiv_id": "2508.10925",
+      "doi": null,
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+      "arxiv_id": "2508.06471",
+      "doi": "10.48550/arXiv.2508.06471",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "Serving MoE Models on Resource-Constrained Edge Devices via Dynamic Expert Swapping",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2025.3575905",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "Qwen3 Technical Report",
+      "arxiv_id": "2505.09388",
+      "doi": null,
+      "publicationDate": "2025-05-14",
+      "year": 2025
+    },
+    {
+      "title": "Improving Efficiency in Multi-Modal Autonomous Embedded Systems Through Adaptive Gating",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2024.3500382",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models",
+      "arxiv_id": "2501.11873",
+      "doi": "10.48550/arXiv.2501.11873",
+      "publicationDate": "2025-01-21",
+      "year": 2025
+    },
+    {
+      "title": "MiniMax-01: Scaling Foundation Models with Lightning Attention",
+      "arxiv_id": "2501.08313",
+      "doi": null,
+      "publicationDate": "2025-01-14",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing",
+      "arxiv_id": "2501.05313",
+      "doi": "10.1109/INFOCOM55648.2025.11044553",
+      "publicationDate": "2025-01-09",
+      "year": 2025
+    },
+    {
+      "title": "Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference",
+      "arxiv_id": "2412.00099",
+      "doi": "10.48550/arXiv.2412.00099",
+      "publicationDate": "2024-11-27",
+      "year": 2024
+    },
+    {
+      "title": "MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs",
+      "arxiv_id": "2411.11217",
+      "doi": "10.1145/3669940.3707267",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection",
+      "arxiv_id": "2411.08982",
+      "doi": "10.48550/arXiv.2411.08982",
+      "publicationDate": "2024-11-13",
+      "year": 2024
+    },
+    {
+      "title": "LiteMoE: Customizing On-device LLM Serving via Proxy Submodel Tuning",
+      "arxiv_id": null,
+      "doi": "10.1145/3666025.3699355",
+      "publicationDate": "2024-11-04",
+      "year": 2024
+    },
+    {
+      "title": "HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference",
+      "arxiv_id": "2411.01433",
+      "doi": "10.48550/arXiv.2411.01433",
+      "publicationDate": "2024-11-03",
+      "year": 2024
+    },
+    {
+      "title": "MoE-I²: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition",
+      "arxiv_id": "2411.01016",
+      "doi": "10.18653/v1/2024.findings-emnlp.612",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in Large Language Models",
+      "arxiv_id": "2411.00918",
+      "doi": "10.48550/arXiv.2411.00918",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "ProMoE: Fast MoE-based LLM Serving using Proactive Caching",
+      "arxiv_id": "2410.22134",
+      "doi": "10.48550/arXiv.2410.22134",
+      "publicationDate": "2024-10-29",
+      "year": 2024
+    },
+    {
+      "title": "Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design",
+      "arxiv_id": "2410.19123",
+      "doi": "10.48550/arXiv.2410.19123",
+      "publicationDate": "2024-10-24",
+      "year": 2024
+    },
+    {
+      "title": "Optimizing Mixture-of-Experts Inference Time Combining Model Deployment and Communication Scheduling",
+      "arxiv_id": "2410.17043",
+      "doi": "10.48550/arXiv.2410.17043",
+      "publicationDate": "2024-10-22",
+      "year": 2024
+    },
+    {
+      "title": "EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference",
+      "arxiv_id": "2410.12247",
+      "doi": "10.48550/arXiv.2410.12247",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "MoH: Multi-Head Attention as Mixture-of-Head Attention",
+      "arxiv_id": "2410.11842",
+      "doi": "10.48550/arXiv.2410.11842",
+      "publicationDate": "2024-10-15",
+      "year": 2024
+    },
+    {
+      "title": "MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router",
+      "arxiv_id": "2410.12013",
+      "doi": "10.48550/arXiv.2410.12013",
+      "publicationDate": "2024-10-15",
+      "year": 2024
+    },
+    {
+      "title": "MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts",
+      "arxiv_id": "2410.07348",
+      "doi": "10.48550/arXiv.2410.07348",
+      "publicationDate": "2024-10-09",
+      "year": 2024
+    },
+    {
+      "title": "MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More",
+      "arxiv_id": "2410.06270",
+      "doi": "10.48550/arXiv.2410.06270",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective",
+      "arxiv_id": "2410.04466",
+      "doi": "10.48550/arXiv.2410.04466",
+      "publicationDate": "2024-10-06",
+      "year": 2024
+    },
+    {
+      "title": "LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences",
+      "arxiv_id": "2410.02950",
+      "doi": "10.1145/3757892.3757901",
+      "publicationDate": "2024-10-03",
+      "year": 2024
+    },
+    {
+      "title": "GRIN: GRadient-INformed MoE",
+      "arxiv_id": "2409.12136",
+      "doi": "10.48550/arXiv.2409.12136",
+      "publicationDate": "2024-09-18",
+      "year": 2024
+    },
+    {
+      "title": "STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning",
+      "arxiv_id": "2409.06211",
+      "doi": "10.48550/arXiv.2409.06211",
+      "publicationDate": "2024-09-10",
+      "year": 2024
+    },
+    {
+      "title": "DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models",
+      "arxiv_id": "2409.06669",
+      "doi": "10.48550/arXiv.2409.06669",
+      "publicationDate": "2024-09-10",
+      "year": 2024
+    },
+    {
+      "title": "Revisiting SMoE Language Models by Evaluating Inefficiencies with Task Specific Expert Pruning",
+      "arxiv_id": "2409.01483",
+      "doi": "10.48550/arXiv.2409.01483",
+      "publicationDate": "2024-09-02",
+      "year": 2024
+    },
+    {
+      "title": "Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching",
+      "arxiv_id": "2409.01141",
+      "doi": "10.1109/MICRO61859.2024.00105",
+      "publicationDate": "2024-09-02",
+      "year": 2024
+    },
+    {
+      "title": "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation",
+      "arxiv_id": "2408.15881",
+      "doi": "10.48550/arXiv.2408.15881",
+      "publicationDate": "2024-08-28",
+      "year": 2024
+    },
+    {
+      "title": "AdapMoE: Adaptive Sensitivity-Based Expert Gating and Management for Efficient MoE Inference",
+      "arxiv_id": "2408.10284",
+      "doi": "10.1145/3676536.3676741",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts",
+      "arxiv_id": "2408.08274",
+      "doi": "10.48550/arXiv.2408.08274",
+      "publicationDate": "2024-08-15",
+      "year": 2024
+    },
+    {
+      "title": "MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training",
+      "arxiv_id": "2408.04307",
+      "doi": "10.1145/3676641.3716006",
+      "publicationDate": "2024-08-08",
+      "year": 2024
+    },
+    {
+      "title": "LaDiMo: Layer-wise Distillation Inspired MoEfier",
+      "arxiv_id": "2408.04278",
+      "doi": "10.48550/arXiv.2408.04278",
+      "publicationDate": "2024-08-08",
+      "year": 2024
+    },
+    {
+      "title": "Mixture of Experts with Mixture of Precisions for Tuning Quality of Service",
+      "arxiv_id": "2407.14417",
+      "doi": "10.1109/ICRC64395.2024.10937027",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "LLM Inference Serving: Survey of Recent Advances and Opportunities",
+      "arxiv_id": "2407.12391",
+      "doi": "10.1109/HPEC62836.2024.10938426",
+      "publicationDate": "2024-07-17",
+      "year": 2024
+    },
+    {
+      "title": "Qwen2 Technical Report",
+      "arxiv_id": "2407.10671",
+      "doi": "10.48550/arXiv.2407.10671",
+      "publicationDate": "2024-07-15",
+      "year": 2024
+    },
+    {
+      "title": "Diversifying the Expert Knowledge for Task-Agnostic Pruning in Sparse Mixture-of-Experts",
+      "arxiv_id": "2407.09590",
+      "doi": "10.48550/arXiv.2407.09590",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement",
+      "arxiv_id": "2407.04656",
+      "doi": "10.48550/arXiv.2407.04656",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs",
+      "arxiv_id": "2407.00945",
+      "doi": "10.48550/arXiv.2407.00945",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Innovating for Tomorrow: The Convergence of SE and Green AI",
+      "arxiv_id": "2406.18142",
+      "doi": "10.48550/arXiv.2406.18142",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-Training",
+      "arxiv_id": "2406.16554",
+      "doi": "10.48550/arXiv.2406.16554",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "FLAME: Fully Leveraging MoE Sparsity for Transformer on FPGA",
+      "arxiv_id": null,
+      "doi": "10.1145/3649329.3656507",
+      "publicationDate": "2024-06-23",
+      "year": 2024
+    },
+    {
+      "title": "Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models",
+      "arxiv_id": "2406.06563",
+      "doi": "10.48550/arXiv.2406.06563",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "MPMoE: Memory Efficient MoE for Pre-Trained Models With Adaptive Pipeline Parallelism",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2024.3385639",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models",
+      "arxiv_id": "2405.18832",
+      "doi": "10.1145/3649329.3655951",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "Yuan 2.0-M32: Mixture of Experts with Attention Router",
+      "arxiv_id": "2405.17976",
+      "doi": "10.48550/arXiv.2405.17976",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Inference Offloading for Mixture-of-Experts Large Language Models in Internet of Medical Things",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13112077",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts",
+      "arxiv_id": "2405.16646",
+      "doi": "10.48550/arXiv.2405.16646",
+      "publicationDate": "2024-05-26",
+      "year": 2024
+    },
+    {
+      "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+      "arxiv_id": "2405.16039",
+      "doi": "10.48550/arXiv.2405.16039",
+      "publicationDate": "2024-05-25",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models",
+      "arxiv_id": "2405.14297",
+      "doi": "10.48550/arXiv.2405.14297",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules",
+      "arxiv_id": "2407.00599",
+      "doi": "10.1109/INFOCOM52122.2024.10621327",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Learning More Generalized Experts by Merging Experts in Mixture-of-Experts",
+      "arxiv_id": "2405.11530",
+      "doi": "10.48550/arXiv.2405.11530",
+      "publicationDate": "2024-05-19",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+      "arxiv_id": "2405.04434",
+      "doi": "10.48550/arXiv.2405.04434",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts",
+      "arxiv_id": "2405.00361",
+      "doi": "10.48550/arXiv.2405.00361",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Prediction Is All MoE Needs: Expert Load Distribution Goes from Fluctuating to Stabilizing",
+      "arxiv_id": "2404.16914",
+      "doi": "10.48550/arXiv.2404.16914",
+      "publicationDate": "2024-04-25",
+      "year": 2024
+    },
+    {
+      "title": "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts",
+      "arxiv_id": "2404.15247",
+      "doi": "10.48550/arXiv.2404.15247",
+      "publicationDate": "2024-04-23",
+      "year": 2024
+    },
+    {
+      "title": "Green and sustainable AI research: an integrated thematic and topic modeling analysis",
+      "arxiv_id": null,
+      "doi": "10.1186/s40537-024-00920-x",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+      "arxiv_id": "2404.14219",
+      "doi": "10.48550/arXiv.2404.14219",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3650083",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Efficient Inference for Large Language Models",
+      "arxiv_id": "2404.14294",
+      "doi": "10.48550/arXiv.2404.14294",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "JetMoE: Reaching Llama2 Performance with 0.1M Dollars",
+      "arxiv_id": "2404.07413",
+      "doi": "10.48550/arXiv.2404.07413",
+      "publicationDate": "2024-04-11",
+      "year": 2024
+    },
+    {
+      "title": "Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models",
+      "arxiv_id": "2404.05567",
+      "doi": "10.48550/arXiv.2404.05567",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Shortcut-connected Expert Parallelism for Accelerating Mixture-of-Experts",
+      "arxiv_id": "2404.05019",
+      "doi": "10.48550/arXiv.2404.05019",
+      "publicationDate": "2024-04-07",
+      "year": 2024
+    },
+    {
+      "title": "SEER-MoE: Sparse Expert Efficiency through Regularization for Mixture-of-Experts",
+      "arxiv_id": "2404.05089",
+      "doi": "10.48550/arXiv.2404.05089",
+      "publicationDate": "2024-04-07",
+      "year": 2024
+    },
+    {
+      "title": "Jamba: A Hybrid Transformer-Mamba Language Model",
+      "arxiv_id": "2403.19887",
+      "doi": "10.48550/arXiv.2403.19887",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerators",
+      "arxiv_id": "2403.14806",
+      "doi": "10.1109/JLT.2024.3427716",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression",
+      "arxiv_id": "2403.07378",
+      "doi": "10.48550/arXiv.2403.07378",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM",
+      "arxiv_id": "2403.07816",
+      "doi": "10.48550/arXiv.2403.07816",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+      "arxiv_id": "2403.05530",
+      "doi": null,
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "ShortGPT: Layers in Large Language Models are More Redundant Than You Expect",
+      "arxiv_id": "2403.03853",
+      "doi": "10.48550/arXiv.2403.03853",
+      "publicationDate": "2024-03-06",
+      "year": 2024
+    },
+    {
+      "title": "Enabling Large Dynamic Neural Network Training with Learning-based Memory Management",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA57654.2024.00066",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "XMoE: Sparse Models with Fine-grained and Adaptive Expert Selection",
+      "arxiv_id": "2403.18926",
+      "doi": "10.18653/v1/2024.findings-acl.694",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "LLM Inference Unveiled: Survey and Roofline Model Insights",
+      "arxiv_id": "2402.16363",
+      "doi": "10.48550/arXiv.2402.16363",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models",
+      "arxiv_id": "2402.14800",
+      "doi": "10.48550/arXiv.2402.14800",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "Green AI: A Preliminary Empirical Study on Energy Consumption in DL Models Across Different Runtime Infrastructures",
+      "arxiv_id": "2402.13640",
+      "doi": "10.1145/3644815.3644967",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts",
+      "arxiv_id": "2402.12656",
+      "doi": "10.18653/v1/2024.acl-long.571",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models",
+      "arxiv_id": "2402.12851",
+      "doi": "10.48550/arXiv.2402.12851",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "20.8 Space-Mate: A 303.5mW Real-Time Sparse Mixture-of-Experts-Based NeRF-SLAM Processor for Mobile Spatial Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSCC49657.2024.10454487",
+      "publicationDate": "2024-02-18",
+      "year": 2024
+    },
+    {
+      "title": "Higher Layers Need More LoRA Experts",
+      "arxiv_id": "2402.08562",
+      "doi": "10.48550/arXiv.2402.08562",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models",
+      "arxiv_id": "2402.07033",
+      "doi": "10.48550/arXiv.2402.07033",
+      "publicationDate": "2024-02-10",
+      "year": 2024
+    },
+    {
+      "title": "OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models",
+      "arxiv_id": "2402.01739",
+      "doi": "10.48550/arXiv.2402.01739",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "LocMoE: A Low-overhead MoE for Large Language Model Training",
+      "arxiv_id": "2401.13920",
+      "doi": "10.48550/arXiv.2401.13920",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
+      "arxiv_id": "2401.08092",
+      "doi": "10.48550/arXiv.2401.08092",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference",
+      "arxiv_id": "2401.08383",
+      "doi": "10.1109/IPDPS57955.2024.00086",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+      "arxiv_id": "2401.06066",
+      "doi": "10.48550/arXiv.2401.06066",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "Mixtral of Experts",
+      "arxiv_id": "2401.04088",
+      "doi": "10.48550/arXiv.2401.04088",
+      "publicationDate": "2024-01-08",
+      "year": 2024
+    },
+    {
+      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
+      "arxiv_id": "2401.00625",
+      "doi": "10.48550/arXiv.2401.00625",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Fast Inference of Mixture-of-Experts Language Models with Offloading",
+      "arxiv_id": "2312.17238",
+      "doi": "10.48550/arXiv.2312.17238",
+      "publicationDate": "2023-12-28",
+      "year": 2023
+    },
+    {
+      "title": "SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention",
+      "arxiv_id": "2312.07987",
+      "doi": "10.48550/arXiv.2312.07987",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models",
+      "arxiv_id": "2312.05821",
+      "doi": "10.48550/arXiv.2312.05821",
+      "publicationDate": "2023-12-10",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Large Language Models: A Survey",
+      "arxiv_id": "2312.03863",
+      "doi": "10.48550/arXiv.2312.03863",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "Green Edge AI: A Contemporary Survey",
+      "arxiv_id": "2312.00333",
+      "doi": "10.1109/JPROC.2024.3437365",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Prophet: Fine-grained Load Balancing for Parallel Training of Large-scale MoE Models",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER52292.2023.00015",
+      "publicationDate": "2023-10-31",
+      "year": 2023
+    },
+    {
+      "title": "SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models",
+      "arxiv_id": "2310.18859",
+      "doi": "10.48550/arXiv.2310.18859",
+      "publicationDate": "2023-10-29",
+      "year": 2023
+    },
+    {
+      "title": "QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models",
+      "arxiv_id": "2310.16795",
+      "doi": "10.48550/arXiv.2310.16795",
+      "publicationDate": "2023-10-25",
+      "year": 2023
+    },
+    {
+      "title": "When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications",
+      "arxiv_id": "2310.18339",
+      "doi": "10.1145/3626772.3657722",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "BitNet: Scaling 1-bit Transformers for Large Language Models",
+      "arxiv_id": "2310.11453",
+      "doi": "10.48550/arXiv.2310.11453",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Merging Experts into One: Improving Computational Efficiency of Mixture of Experts",
+      "arxiv_id": "2310.09832",
+      "doi": "10.48550/arXiv.2310.09832",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "Sparse Universal Transformer",
+      "arxiv_id": "2310.07096",
+      "doi": "10.48550/arXiv.2310.07096",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "Mixture of Quantized Experts (MoQE): Complementary Effect of Low-bit Quantization and Robustness",
+      "arxiv_id": "2310.02410",
+      "doi": "10.48550/arXiv.2310.02410",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy",
+      "arxiv_id": "2310.01334",
+      "doi": "10.48550/arXiv.2310.01334",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+      "arxiv_id": "2309.12284",
+      "doi": null,
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "arxiv_id": "2309.06180",
+      "doi": "10.1145/3600006.3613165",
+      "publicationDate": "2023-09-12",
+      "year": 2023
+    },
+    {
+      "title": "Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3603269.3604869",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "EdgeMoE: Empowering Sparse Large Language Models on Mobile Devices",
+      "arxiv_id": "2308.14352",
+      "doi": "10.1109/TMC.2025.3546466",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference",
+      "arxiv_id": "2308.12066",
+      "doi": "10.1109/ISCA59077.2024.00078",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "Compressed MoE ASR Model Based on Knowledge Distillation and Quantization",
+      "arxiv_id": null,
+      "doi": "10.21437/interspeech.2023-2544",
+      "publicationDate": "2023-08-20",
+      "year": 2023
+    },
+    {
+      "title": "Experts Weights Averaging: A New General Training Scheme for Vision Transformers",
+      "arxiv_id": "2308.06093",
+      "doi": "10.48550/arXiv.2308.06093",
+      "publicationDate": "2023-08-11",
+      "year": 2023
+    },
+    {
+      "title": "From Sparse to Soft Mixtures of Experts",
+      "arxiv_id": "2308.00951",
+      "doi": "10.48550/arXiv.2308.00951",
+      "publicationDate": "2023-08-02",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the Potential of LLMs for Quantum Computing: A Study in Quantum Architecture Design",
+      "arxiv_id": "2307.08191",
+      "doi": null,
+      "publicationDate": "2023-07-17",
+      "year": 2023
+    },
+    {
+      "title": "On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes",
+      "arxiv_id": "2306.13649",
+      "doi": null,
+      "publicationDate": "2023-06-23",
+      "year": 2023
+    },
+    {
+      "title": "LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation",
+      "arxiv_id": "2306.11222",
+      "doi": "10.48550/arXiv.2306.11222",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks",
+      "arxiv_id": "2306.04073",
+      "doi": "10.48550/arXiv.2306.04073",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search",
+      "arxiv_id": "2306.02824",
+      "doi": "10.1145/3580305.3599278",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Lightening-Transformer: A Dynamically-Operated Optically-Interconnected Photonic Transformer Accelerator",
+      "arxiv_id": "2305.19533",
+      "doi": "10.1109/HPCA57654.2024.00059",
+      "publicationDate": "2023-05-31",
+      "year": 2023
+    },
+    {
+      "title": "Edge-MoE: Memory-Efficient Multi-Task Vision Transformer Architecture with Task-Level Sparsity via Mixture-of-Experts",
+      "arxiv_id": "2305.18691",
+      "doi": "10.1109/ICCAD57390.2023.10323651",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "LIMA: Less Is More for Alignment",
+      "arxiv_id": "2305.11206",
+      "doi": "10.52202/075280-2400",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining",
+      "arxiv_id": null,
+      "doi": "10.1109/INFOCOM53939.2023.10228874",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement",
+      "arxiv_id": "2304.03946",
+      "doi": "10.1145/3588964",
+      "publicationDate": "2023-04-08",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "High-throughput Generative Inference of Large Language Models with a Single GPU",
+      "arxiv_id": "2303.06865",
+      "doi": "10.48550/arXiv.2303.06865",
+      "publicationDate": "2023-03-13",
+      "year": 2023
+    },
+    {
+      "title": "A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training",
+      "arxiv_id": "2303.06318",
+      "doi": "10.1145/3577193.3593704",
+      "publicationDate": "2023-03-11",
+      "year": 2023
+    },
+    {
+      "title": "Towards MoE Deployment: Mitigating Inefficiencies in Mixture-of-Expert (MoE) Inference",
+      "arxiv_id": "2303.06182",
+      "doi": "10.48550/arXiv.2303.06182",
+      "publicationDate": "2023-03-10",
+      "year": 2023
+    },
+    {
+      "title": "TA-MoE: Topology-Aware Large Scale Mixture-of-Expert Training",
+      "arxiv_id": "2302.09915",
+      "doi": "10.48550/arXiv.2302.09915",
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "Scaling Vision Transformers to 22 Billion Parameters",
+      "arxiv_id": "2302.05442",
+      "doi": "10.48550/arXiv.2302.05442",
+      "publicationDate": "2023-02-10",
+      "year": 2023
+    },
+    {
+      "title": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning",
+      "arxiv_id": "2301.13688",
+      "doi": "10.48550/arXiv.2301.13688",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "Reproducible Scaling Laws for Contrastive Language-Image Learning",
+      "arxiv_id": "2212.07143",
+      "doi": "10.1109/CVPR52729.2023.00276",
+      "publicationDate": "2022-12-14",
+      "year": 2022
+    },
+    {
+      "title": "MMBench: Benchmarking End-to-End Multi-modal DNNs and Understanding Their Hardware-Software Implications",
+      "arxiv_id": "2212.01241",
+      "doi": "10.1109/IISWC59245.2023.00014",
+      "publicationDate": "2022-12-02",
+      "year": 2022
+    },
+    {
+      "title": "Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production",
+      "arxiv_id": "2211.10017",
+      "doi": "10.48550/arXiv.2211.10017",
+      "publicationDate": "2022-11-18",
+      "year": 2022
+    },
+    {
+      "title": "Accelerating large-scale distributed neural network training with SPMD parallelism",
+      "arxiv_id": null,
+      "doi": "10.1145/3542929.3563487",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Accelerating Distributed MoE Training and Inference with Lina",
+      "arxiv_id": "2210.17223",
+      "doi": null,
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+      "arxiv_id": "2210.17323",
+      "doi": null,
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design",
+      "arxiv_id": "2210.14793",
+      "doi": "10.48550/arXiv.2210.14793",
+      "publicationDate": "2022-10-26",
+      "year": 2022
+    },
+    {
+      "title": "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design",
+      "arxiv_id": "2210.09573",
+      "doi": "10.1109/HPCA56546.2023.10071027",
+      "publicationDate": "2022-10-18",
+      "year": 2022
+    },
+    {
+      "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
+      "arxiv_id": "2210.05144",
+      "doi": "10.48550/arXiv.2210.05144",
+      "publicationDate": "2022-10-11",
+      "year": 2022
+    },
+    {
+      "title": "Revisiting Neural Scaling Laws in Language and Vision",
+      "arxiv_id": "2209.06640",
+      "doi": "10.48550/arXiv.2209.06640",
+      "publicationDate": "2022-09-13",
+      "year": 2022
+    },
+    {
+      "title": "A Review of Sparse Expert Models in Deep Learning",
+      "arxiv_id": "2209.01667",
+      "doi": "10.48550/arXiv.2209.01667",
+      "publicationDate": "2022-09-04",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Methods for Natural Language Processing: A Survey",
+      "arxiv_id": "2209.00099",
+      "doi": "10.1162/tacl_a_00577",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models",
+      "arxiv_id": "2208.03306",
+      "doi": "10.48550/arXiv.2208.03306",
+      "publicationDate": "2022-08-05",
+      "year": 2022
+    },
+    {
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation",
+      "arxiv_id": "2207.04672",
+      "doi": "10.48550/arXiv.2207.04672",
+      "publicationDate": "2022-07-11",
+      "year": 2022
+    },
+    {
+      "title": "Tutel: Adaptive Mixture-of-Experts at Scale",
+      "arxiv_id": "2206.03382",
+      "doi": "10.48550/arXiv.2206.03382",
+      "publicationDate": "2022-06-07",
+      "year": 2022
+    },
+    {
+      "title": "Task-Specific Expert Pruning for Sparse Mixture-of-Experts",
+      "arxiv_id": "2206.00277",
+      "doi": "10.48550/arXiv.2206.00277",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers",
+      "arxiv_id": "2205.14336",
+      "doi": "10.48550/arXiv.2205.14336",
+      "publicationDate": "2022-05-28",
+      "year": 2022
+    },
+    {
+      "title": "MoESys: A Distributed and Efficient Mixture-of-Experts Training and Inference System for Internet Services",
+      "arxiv_id": "2205.10034",
+      "doi": "10.1109/TSC.2024.3399654",
+      "publicationDate": "2022-05-20",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00082",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "BaGuaLu: targeting brain scale pretrained models with over 37 million cores",
+      "arxiv_id": null,
+      "doi": "10.1145/3503221.3508417",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System",
+      "arxiv_id": "2203.14685",
+      "doi": "10.48550/arXiv.2203.14685",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models",
+      "arxiv_id": null,
+      "doi": "10.1145/3503221.3508418",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models",
+      "arxiv_id": "2203.01104",
+      "doi": "10.48550/arXiv.2203.01104",
+      "publicationDate": "2022-03-02",
+      "year": 2022
+    },
+    {
+      "title": "Mixture-of-Experts with Expert Choice Routing",
+      "arxiv_id": "2202.09368",
+      "doi": "10.52202/068431-0515",
+      "publicationDate": "2022-02-18",
+      "year": 2022
+    },
+    {
+      "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+      "arxiv_id": "2202.03052",
+      "doi": null,
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "One Student Knows All Experts Know: From Sparse to Dense",
+      "arxiv_id": "2201.10890",
+      "doi": null,
+      "publicationDate": "2022-01-26",
+      "year": 2022
+    },
+    {
+      "title": "VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer",
+      "arxiv_id": "2201.06618",
+      "doi": null,
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale",
+      "arxiv_id": "2201.05596",
+      "doi": null,
+      "publicationDate": "2022-01-14",
+      "year": 2022
+    },
+    {
+      "title": "Opportunities for neuromorphic computing algorithms and applications",
+      "arxiv_id": null,
+      "doi": "10.1038/s43588-021-00184-y",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Efficient Large Scale Language Modeling with Mixtures of Experts",
+      "arxiv_id": "2112.10684",
+      "doi": "10.18653/v1/2022.emnlp-main.804",
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+      "arxiv_id": "2112.06905",
+      "doi": null,
+      "publicationDate": "2021-12-13",
+      "year": 2021
+    },
+    {
+      "title": "ViT-YOLO:Transformer-Based YOLO for Object Detection",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCVW54120.2021.00314",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+      "arxiv_id": "2107.07651",
+      "doi": null,
+      "publicationDate": "2021-07-16",
+      "year": 2021
+    },
+    {
+      "title": "Carbon-Aware Computing for Datacenters",
+      "arxiv_id": "2106.11750",
+      "doi": "10.1109/TPWRS.2022.3173250",
+      "publicationDate": "2021-06-11",
+      "year": 2021
+    },
+    {
+      "title": "Hash Layers For Large Sparse Models",
+      "arxiv_id": "2106.04426",
+      "doi": null,
+      "publicationDate": "2021-06-08",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+      "arxiv_id": "2104.04473",
+      "doi": "10.1145/3458817.3476209",
+      "publicationDate": "2021-04-09",
+      "year": 2021
+    },
+    {
+      "title": "BASE Layers: Simplifying Training of Large, Sparse Models",
+      "arxiv_id": "2103.16716",
+      "doi": null,
+      "publicationDate": "2021-03-30",
+      "year": 2021
+    },
+    {
+      "title": "FastMoE: A Fast Mixture-of-Expert Training System",
+      "arxiv_id": "2103.13262",
+      "doi": null,
+      "publicationDate": "2021-03-24",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+      "arxiv_id": "2101.03961",
+      "doi": null,
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+      "arxiv_id": "2006.16668",
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "A Mixture of h - 1 Heads is Better than h Heads",
+      "arxiv_id": "2005.06537",
+      "doi": "10.18653/v1/2020.acl-main.587",
+      "publicationDate": "2020-05-13",
+      "year": 2020
+    },
+    {
+      "title": "Scaling Laws for Neural Language Models",
+      "arxiv_id": "2001.08361",
+      "doi": null,
+      "publicationDate": "2020-01-23",
+      "year": 2020
+    },
+    {
+      "title": "MLPerf Inference Benchmark",
+      "arxiv_id": "1911.02549",
+      "doi": "10.1109/ISCA45697.2020.00045",
+      "publicationDate": "2019-11-06",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+      "arxiv_id": "1910.02054",
+      "doi": "10.1109/SC41405.2020.00024",
+      "publicationDate": "2019-10-04",
+      "year": 2019
+    },
+    {
+      "title": "WinoGrande",
+      "arxiv_id": "1907.10641",
+      "doi": "10.1145/3474381",
+      "publicationDate": "2019-07-24",
+      "year": 2019
+    },
+    {
+      "title": "Embedding",
+      "arxiv_id": null,
+      "doi": "10.1201/9780429275678-4",
+      "publicationDate": "2019-06-04",
+      "year": 2019
+    },
+    {
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+      "arxiv_id": "1809.09600",
+      "doi": "10.18653/v1/D18-1259",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "Beyond Data and Model Parallelism for Deep Neural Networks",
+      "arxiv_id": "1807.05358",
+      "doi": null,
+      "publicationDate": "2018-07-14",
+      "year": 2018
+    },
+    {
+      "title": "Deep Mixture of Experts via Shallow Embedding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/N18-1023",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+      "arxiv_id": "1804.07461",
+      "doi": "10.18653/v1/W18-5446",
+      "publicationDate": "2018-04-20",
+      "year": 2018
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "A Survey of Neuromorphic Computing and Neural Networks in Hardware",
+      "arxiv_id": "1705.06963",
+      "doi": null,
+      "publicationDate": "2017-05-19",
+      "year": 2017
+    },
+    {
+      "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+      "arxiv_id": "1701.06538",
+      "doi": null,
+      "publicationDate": "2017-01-23",
+      "year": 2017
+    },
+    {
+      "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+      "arxiv_id": "1606.05250",
+      "doi": "10.18653/v1/D16-1264",
+      "publicationDate": "2016-06-16",
+      "year": 2016
+    },
+    {
+      "title": "WikiQA: A Challenge Dataset for Open-Domain Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D15-1237",
+      "publicationDate": "2015-09-21",
+      "year": 2015
+    },
+    {
+      "title": "ImageNet Large Scale Visual Recognition Challenge",
+      "arxiv_id": "1409.0575",
+      "doi": "10.1007/s11263-015-0816-y",
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Learning Factored Representations in a Deep Mixture of Experts",
+      "arxiv_id": "1312.4314",
+      "doi": null,
+      "publicationDate": "2013-12-16",
+      "year": 2013
+    },
+    {
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d13-1170",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-03-20",
+      "year": 2011
+    },
+    {
+      "title": "Quantum computing",
+      "arxiv_id": null,
+      "doi": "10.1007/BF03037303",
+      "publicationDate": "2003-04-01",
+      "year": 2003
+    },
+    {
+      "title": "Quantum computing",
+      "arxiv_id": "quant-ph/9708022",
+      "doi": "10.1088/0034-4885/61/2/002",
+      "publicationDate": "1997-08-12",
+      "year": 1997
+    },
+    {
+      "title": "The Meta-Pi Network: Building Distributed Knowledge Representations for Robust Multisource Pattern Recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/34.142911",
+      "publicationDate": "1992-07-01",
+      "year": 1992
+    },
+    {
+      "title": "Adaptive Mixtures of Local Experts",
+      "arxiv_id": null,
+      "doi": "10.1162/neco.1991.3.1.79",
+      "publicationDate": "1991-03-01",
+      "year": 1991
+    },
+    {
+      "title": "Received 21 January 2025; revised 5 November 2025; accepted 8 January 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2501.12948",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ERNIE 4.5 Technical Report. https://ernie.baidu.com/blog/publication/ERNIE_Technical_Report.pdf",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation. https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Kimi K2: Open Agentic Intelligence. https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Tencent Hunyuan Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2412.07067",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2410.17954",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.acl-long.106",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.08155",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "MoE-Infinity: Activation-Aware Expert Offloading for Efficient MoE Serving",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2401.14361",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-V3 Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Mixture of Experts",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2407.06204",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Introducing dbrx: A new state-of-the-art open llm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "ModuleFormer: Learning Modular Large Language Models From Uncurated Data",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2306.04640",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SCoMoE: Efficient Mixtures of Experts with Structured Communication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2308.14352",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "MOELoRA: An MOE-based Parameter Efficient Fine-Tuning Method for Multi-task Medical Applications",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.18339",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": ". Transformers: State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Distillation for Mixture of Experts Models in Speech Recognition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "An Adversarial Winograd Schema Challenge at Scale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Facebook AI Research",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "NVIDIA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Learning Multiple Layers of Features from Tiny Images",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Automatically Constructing a Corpus of Sentential Paraphrases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "Mixtures of Gaussian Processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "Q. Jiang",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023.Moduleformer:Learningmodularlargelanguagemodelsfromuncurateddata.arXiv:2306.04640.Retrievedfromhttps://arxiv.org/abs/2306.04640 (2023)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Optimizing dynamic neural networks with brainstorm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Claude 3 Model Family: Opus, Sonnet, Haiku",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The Mosaic Research Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Snowflake Arctic: The Best LLM for Enterprise AI – Efficiently Intelligent, Truly Open",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Alpa: Automating inter-and intra-operator parallelism for distributed deep learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Huggingface",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Flexgen: High-throughput generative Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "INFOCOM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Hunyuan-large: An open-source MoE model with 52 Billion activated parameters by Tencent arXiv",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Conference (San Francisco, CA, USA) (DAC ’24)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Stanford alpaca: An instruction-following llama model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Fusingmodelswithcomplementaryexpertise",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Llmcarbon: Modeling the end-to-end carbon footprint of large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "instruction-following",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Refactorizing llms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Quantum computing and AI in the cloud",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Retraining-free merging of sparse mixture-of-experts via hierarchical clustering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Google Brain Team",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Open Release of Grok-1",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

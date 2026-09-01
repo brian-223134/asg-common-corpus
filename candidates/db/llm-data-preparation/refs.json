@@ -1,0 +1,1171 @@
+{
+  "candidate": {
+    "topic": "Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": "2601.17058",
+      "doi": null,
+      "title": "Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs",
+      "published": "2026-01-22"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:24:08+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 162,
+    "arxiv_resolvable": 85,
+    "doi_only": 46,
+    "unresolved": 31
+  },
+  "gt_s2": {
+    "paperId": "377ea62c1dbee3e6f5dcf7550a405930e7af5c2f",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2601-17058",
+      "ArXiv": "2601.17058",
+      "DOI": "10.48550/arXiv.2601.17058",
+      "CorpusId": 285050835
+    },
+    "title": "Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs",
+    "venue": "arXiv.org",
+    "year": 2026,
+    "referenceCount": 162,
+    "publicationDate": "2026-01-22"
+  },
+  "refs": [
+    {
+      "title": "Octopus: A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval",
+      "arxiv_id": "2601.02304",
+      "doi": "10.48550/arXiv.2601.02304",
+      "publicationDate": "2026-01-05",
+      "year": 2026
+    },
+    {
+      "title": "HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery",
+      "arxiv_id": "2601.01015",
+      "doi": "10.48550/arXiv.2601.01015",
+      "publicationDate": "2026-01-03",
+      "year": 2026
+    },
+    {
+      "title": "Robust LLM-based Column Type Annotation via Prompt Augmentation with LoRA Tuning",
+      "arxiv_id": "2512.22742",
+      "doi": "10.48550/arXiv.2512.22742",
+      "publicationDate": "2025-12-28",
+      "year": 2025
+    },
+    {
+      "title": "Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection",
+      "arxiv_id": "2512.07246",
+      "doi": "10.48550/arXiv.2512.07246",
+      "publicationDate": "2025-12-08",
+      "year": 2025
+    },
+    {
+      "title": "A Survey of Data Agents: Emerging Paradigm or Overstated Hype?",
+      "arxiv_id": "2510.23587",
+      "doi": "10.48550/arXiv.2510.23587",
+      "publicationDate": "2025-10-27",
+      "year": 2025
+    },
+    {
+      "title": "PALADIN: Self-Correcting Language Model Agents to Cure Tool-Failure Cases",
+      "arxiv_id": "2509.25238",
+      "doi": "10.48550/arXiv.2509.25238",
+      "publicationDate": "2025-09-25",
+      "year": 2025
+    },
+    {
+      "title": "Fine-tuning large language models with contrastive margin ranking loss for selective entity matching in product data integration",
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2025.103538",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "An LLM Agent-Based Complex Semantic Table Annotation Approach",
+      "arxiv_id": "2508.12868",
+      "doi": "10.48550/arXiv.2508.12868",
+      "publicationDate": "2025-08-18",
+      "year": 2025
+    },
+    {
+      "title": "Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models",
+      "arxiv_id": "2508.09403",
+      "doi": "10.48550/arXiv.2508.09403",
+      "publicationDate": "2025-08-13",
+      "year": 2025
+    },
+    {
+      "title": "Empowering Tabular Data Preparation with Language Models: Why and How?",
+      "arxiv_id": "2508.01556",
+      "doi": "10.48550/arXiv.2508.01556",
+      "publicationDate": "2025-08-03",
+      "year": 2025
+    },
+    {
+      "title": "Quantum-Accelerated Neural Imputation with Large Language Models (LLMs)",
+      "arxiv_id": "2507.08255",
+      "doi": "10.48550/arXiv.2507.08255",
+      "publicationDate": "2025-07-10",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Matcher: A Name-Based Schema Matching Tool using Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3722212.3725112",
+      "publicationDate": "2025-06-22",
+      "year": 2025
+    },
+    {
+      "title": "Hierarchical Table Semantics for Exploratory Table Discovery",
+      "arxiv_id": null,
+      "doi": "10.1145/3736733.3736746",
+      "publicationDate": "2025-06-22",
+      "year": 2025
+    },
+    {
+      "title": "LDI: Localized Data Imputation for Text-Rich Tables",
+      "arxiv_id": "2506.16616",
+      "doi": null,
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling",
+      "arxiv_id": "2506.16393",
+      "doi": "10.48550/arXiv.2506.16393",
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation",
+      "arxiv_id": "2506.03857",
+      "doi": "10.48550/arXiv.2506.03857",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "Does Prompt Design Impact Quality of Data Imputation by LLMs?",
+      "arxiv_id": "2506.04172",
+      "doi": "10.48550/arXiv.2506.04172",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "In-context Clustering-based Entity Resolution with Large Language Models: A Design Space Exploration",
+      "arxiv_id": "2506.02509",
+      "doi": "10.1145/3749170",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "Data Imputation with Limited Data Redundancy Using Data Lakes",
+      "arxiv_id": null,
+      "doi": "10.14778/3748191.3748200",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Towards Scalable Schema Mapping using Large Language Models",
+      "arxiv_id": "2505.24716",
+      "doi": "10.1145/3737412.3743490",
+      "publicationDate": "2025-05-30",
+      "year": 2025
+    },
+    {
+      "title": "Establishing data governance for sharing and access to real-world data: a case study",
+      "arxiv_id": null,
+      "doi": "10.1093/jamiaopen/ooaf041",
+      "publicationDate": "2025-05-02",
+      "year": 2025
+    },
+    {
+      "title": "LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation",
+      "arxiv_id": "2508.09594",
+      "doi": "10.14778/3746405.3746433",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "A Comprehensive Survey of Synthetic Tabular Data Generation",
+      "arxiv_id": "2504.16506",
+      "doi": "10.48550/arXiv.2504.16506",
+      "publicationDate": "2025-04-23",
+      "year": 2025
+    },
+    {
+      "title": "LLMs as Data Annotators: How Close Are We to Human Performance",
+      "arxiv_id": "2504.15022",
+      "doi": "10.48550/arXiv.2504.15022",
+      "publicationDate": "2025-04-21",
+      "year": 2025
+    },
+    {
+      "title": "Pneuma: Leveraging LLMs for Tabular Data Representation and Retrieval in an End-to-End System",
+      "arxiv_id": "2504.09207",
+      "doi": "10.1145/3725337",
+      "publicationDate": "2025-04-12",
+      "year": 2025
+    },
+    {
+      "title": "ZeroED: Hybrid Zero-Shot Error Detection Through Large Language Model Reasoning",
+      "arxiv_id": "2504.05345",
+      "doi": "10.1109/ICDE65448.2025.00234",
+      "publicationDate": "2025-04-06",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts",
+      "arxiv_id": "2503.15571",
+      "doi": "10.48550/arXiv.2503.15571",
+      "publicationDate": "2025-03-19",
+      "year": 2025
+    },
+    {
+      "title": "Synthetic Data Generation Using Large Language Models: Advances in Text and Code",
+      "arxiv_id": "2503.14023",
+      "doi": "10.1109/ACCESS.2025.3589503",
+      "publicationDate": "2025-03-18",
+      "year": 2025
+    },
+    {
+      "title": "Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets",
+      "arxiv_id": "2503.06664",
+      "doi": "10.48550/arXiv.2503.06664",
+      "publicationDate": "2025-03-09",
+      "year": 2025
+    },
+    {
+      "title": "Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation",
+      "arxiv_id": "2503.02718",
+      "doi": "10.48550/arXiv.2503.02718",
+      "publicationDate": "2025-03-04",
+      "year": 2025
+    },
+    {
+      "title": "BIRDIE: Natural Language-Driven Table Discovery Using Differentiable Search Index",
+      "arxiv_id": "2504.21282",
+      "doi": "10.14778/3734839.3734845",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "LEDD: Large Language Model-Empowered Data Discovery in Data Lakes",
+      "arxiv_id": "2502.15182",
+      "doi": "10.48550/arXiv.2502.15182",
+      "publicationDate": "2025-02-21",
+      "year": 2025
+    },
+    {
+      "title": "Interactive Data Harmonization with LLM Agents",
+      "arxiv_id": "2502.07132",
+      "doi": "10.1145/3735079.3735324",
+      "publicationDate": "2025-02-10",
+      "year": 2025
+    },
+    {
+      "title": "AutoDDG: Automated Dataset Description Generation using Large Language Models",
+      "arxiv_id": "2502.01050",
+      "doi": "10.1145/3786626",
+      "publicationDate": "2025-02-03",
+      "year": 2025
+    },
+    {
+      "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+      "arxiv_id": "2501.08686",
+      "doi": "10.48550/arXiv.2501.08686",
+      "publicationDate": "2025-01-15",
+      "year": 2025
+    },
+    {
+      "title": "On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing",
+      "arxiv_id": "2501.02191",
+      "doi": "10.14778/3748191.3748205",
+      "publicationDate": "2025-01-04",
+      "year": 2025
+    },
+    {
+      "title": "Mind the Data Gap: Bridging LLMs to Enterprise Data Integration",
+      "arxiv_id": "2412.20331",
+      "doi": "10.48550/arXiv.2412.20331",
+      "publicationDate": "2024-12-29",
+      "year": 2024
+    },
+    {
+      "title": "GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3698811",
+      "publicationDate": "2024-12-18",
+      "year": 2024
+    },
+    {
+      "title": "Magneto: Combining Small and Large Language Models for Schema Matching",
+      "arxiv_id": "2412.08194",
+      "doi": "10.14778/3742728.3742757",
+      "publicationDate": "2024-12-11",
+      "year": 2024
+    },
+    {
+      "title": "AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark",
+      "arxiv_id": "2412.06724",
+      "doi": "10.48550/arXiv.2412.06724",
+      "publicationDate": "2024-12-09",
+      "year": 2024
+    },
+    {
+      "title": "Towards Data Governance of Frontier AI Models",
+      "arxiv_id": "2412.03824",
+      "doi": "10.48550/arXiv.2412.03824",
+      "publicationDate": "2024-12-05",
+      "year": 2024
+    },
+    {
+      "title": "The Promises and Pitfalls of LLM Annotations in Dataset Labeling: a Case Study on Media Bias Detection",
+      "arxiv_id": "2411.11081",
+      "doi": "10.48550/arXiv.2411.11081",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "TableGPT2: A Large Multimodal Model with Tabular Data Integration",
+      "arxiv_id": "2411.02059",
+      "doi": "10.48550/arXiv.2411.02059",
+      "publicationDate": "2024-11-04",
+      "year": 2024
+    },
+    {
+      "title": "Matchmaker: Self-Improving Large Language Model Programs for Schema Matching",
+      "arxiv_id": "2410.24105",
+      "doi": "10.48550/arXiv.2410.24105",
+      "publicationDate": "2024-10-31",
+      "year": 2024
+    },
+    {
+      "title": "LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation",
+      "arxiv_id": "2410.21520",
+      "doi": "10.18653/v1/2025.findings-acl.361",
+      "publicationDate": "2024-10-28",
+      "year": 2024
+    },
+    {
+      "title": "Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation",
+      "arxiv_id": "2410.17462",
+      "doi": "10.48550/arXiv.2410.17462",
+      "publicationDate": "2024-10-22",
+      "year": 2024
+    },
+    {
+      "title": "Data Cleaning Using Large Language Models",
+      "arxiv_id": "2410.15547",
+      "doi": "10.1109/ICDEW67478.2025.00008",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "KcMF: A Knowledge-compliant Framework for Schema and Entity Matching with Fine-tuning-free LLMs",
+      "arxiv_id": "2410.12480",
+      "doi": "10.48550/arXiv.2410.12480",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph",
+      "arxiv_id": "2409.14556",
+      "doi": "10.48550/arXiv.2409.14556",
+      "publicationDate": "2024-09-22",
+      "year": 2024
+    },
+    {
+      "title": "AnyMatch - Efficient Zero-Shot Entity Matching with a Small Language Model",
+      "arxiv_id": "2409.04073",
+      "doi": "10.48550/arXiv.2409.04073",
+      "publicationDate": "2024-09-06",
+      "year": 2024
+    },
+    {
+      "title": "Schema Matching with Large Language Models: an Experimental Study",
+      "arxiv_id": "2407.11852",
+      "doi": "10.48550/arXiv.2407.11852",
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "Data Imputation using Large Language Model to Accelerate Recommendation System",
+      "arxiv_id": "2407.10078",
+      "doi": null,
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "The Synergy Between Data and Multi-Modal Large Language Models: A Survey From Co-Development Perspective",
+      "arxiv_id": "2407.08583",
+      "doi": "10.1109/TPAMI.2025.3576835",
+      "publicationDate": "2024-07-11",
+      "year": 2024
+    },
+    {
+      "title": "IterClean: An Iterative Data Cleaning Framework with Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3674399.3674436",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking",
+      "arxiv_id": "2407.04020",
+      "doi": "10.1145/3746252.3761156",
+      "publicationDate": "2024-07-04",
+      "year": 2024
+    },
+    {
+      "title": "Anomaly Detection of Tabular Data Using LLMs",
+      "arxiv_id": "2406.16308",
+      "doi": "10.48550/arXiv.2406.16308",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey",
+      "arxiv_id": "2406.15126",
+      "doi": "10.48550/arXiv.2406.15126",
+      "publicationDate": "2024-06-14",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Large Language Models for Code Generation",
+      "arxiv_id": "2406.00515",
+      "doi": "10.1145/3747588",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Cleaning Semi-Structured Errors in Open Data Using Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/SDS60720.2024.00047",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "A Context-Aware Approach for Enhancing Data Imputation with Pre-trained Language Models",
+      "arxiv_id": "2405.17712",
+      "doi": null,
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching",
+      "arxiv_id": "2405.16884",
+      "doi": "10.48550/arXiv.2405.16884",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs",
+      "arxiv_id": "2404.18681",
+      "doi": "10.48550/arXiv.2404.18681",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Cocoon: Semantic Table Profiling Using Large Language Models",
+      "arxiv_id": "2404.12552",
+      "doi": "10.1145/3665939.3665957",
+      "publicationDate": "2024-04-19",
+      "year": 2024
+    },
+    {
+      "title": "Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation",
+      "arxiv_id": "2404.09682",
+      "doi": "10.48550/arXiv.2404.09682",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "CleanAgent: Automating Data Standardization with LLM-based Agents",
+      "arxiv_id": "2403.08291",
+      "doi": "10.48550/arXiv.2403.08291",
+      "publicationDate": "2024-03-13",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+      "arxiv_id": "2402.13446",
+      "doi": "10.18653/v1/2024.emnlp-main.54",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "ChatEL: Entity Linking with Chatbots",
+      "arxiv_id": "2402.14858",
+      "doi": "10.48550/arXiv.2402.14858",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "LLMs with User-defined Prompts as Generic Data Operators for Reliable Data Processing",
+      "arxiv_id": "2312.16351",
+      "doi": "10.1109/BigData59044.2023.10386472",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration",
+      "arxiv_id": "2312.03987",
+      "doi": "10.1109/ICDE60146.2024.00284",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Jellyfish: A Large Language Model for Data Preprocessing",
+      "arxiv_id": "2312.01678",
+      "doi": "10.48550/arXiv.2312.01678",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Agent-OM: Leveraging LLM Agents for Ontology Matching",
+      "arxiv_id": "2312.00326",
+      "doi": "10.14778/3712221.3712222",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "TableLlama: Towards Open Large Generalist Models for Tables",
+      "arxiv_id": "2311.09206",
+      "doi": "10.48550/arXiv.2311.09206",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models",
+      "arxiv_id": "2310.18208",
+      "doi": "10.14778/3665844.3665857",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "Entity Matching using Large Language Models",
+      "arxiv_id": "2310.11244",
+      "doi": "10.48550/arXiv.2310.11244",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning",
+      "arxiv_id": "2309.00363",
+      "doi": "10.1145/3637528.3671573",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as Data Preprocessors",
+      "arxiv_id": "2308.16361",
+      "doi": "10.48550/arXiv.2308.16361",
+      "publicationDate": "2023-08-30",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Open-source LLMs for text annotation: a practical guide for model setting and fine-tuning",
+      "arxiv_id": "2307.02179",
+      "doi": "10.1007/s42001-024-00345-9",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost",
+      "arxiv_id": "2306.15766",
+      "doi": "10.48550/arXiv.2306.15766",
+      "publicationDate": "2023-06-27",
+      "year": 2023
+    },
+    {
+      "title": "CHORUS: Foundation Models for Unified Data Discovery and Exploration",
+      "arxiv_id": "2306.09610",
+      "doi": "10.48550/arXiv.2306.09610",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "Unicorn: A Unified Multi-tasking Model for Supporting Matching Tasks in Data Integration",
+      "arxiv_id": null,
+      "doi": "10.1145/3588938",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table",
+      "arxiv_id": "2305.07288",
+      "doi": "10.18653/v1/2023.findings-acl.526",
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes",
+      "arxiv_id": "2304.09433",
+      "doi": "10.14778/3626292.3626294",
+      "publicationDate": "2023-04-19",
+      "year": 2023
+    },
+    {
+      "title": "WDC Products: A Multi-Dimensional Entity Matching Benchmark",
+      "arxiv_id": "2301.09521",
+      "doi": "10.48550/arXiv.2301.09521",
+      "publicationDate": "2023-01-23",
+      "year": 2023
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Embeddings",
+      "arxiv_id": null,
+      "doi": "10.1201/9781315107233-9",
+      "publicationDate": "2021-12-08",
+      "year": 2021
+    },
+    {
+      "title": "Deep Learning for Blocking in Entity Matching: A Design Space Exploration",
+      "arxiv_id": null,
+      "doi": "10.14778/3476249.3476294",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "FeTaQA: Free-form Table Question Answering",
+      "arxiv_id": "2104.00369",
+      "doi": "10.1162/tacl_a_00446",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Capturing Semantics for Imputation with Pre-trained Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE51399.2021.00013",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+      "arxiv_id": "2004.12832",
+      "doi": "10.1145/3397271.3401075",
+      "publicationDate": "2020-04-27",
+      "year": 2020
+    },
+    {
+      "title": "TaPas: Weakly Supervised Table Parsing via Pre-training",
+      "arxiv_id": "2004.02349",
+      "doi": "10.18653/v1/2020.acl-main.398",
+      "publicationDate": "2020-04-05",
+      "year": 2020
+    },
+    {
+      "title": "Deep entity matching with pre-trained language models",
+      "arxiv_id": "2004.00584",
+      "doi": "10.14778/3421424.3421431",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Raha: A Configuration-Free Error Detection System",
+      "arxiv_id": null,
+      "doi": "10.1145/3299869.3324956",
+      "publicationDate": "2019-06-25",
+      "year": 2019
+    },
+    {
+      "title": "Sherlock: A Deep Learning Approach to Semantic Data Type Detection",
+      "arxiv_id": "1905.10688",
+      "doi": "10.1145/3292500.3330993",
+      "publicationDate": "2019-05-25",
+      "year": 2019
+    },
+    {
+      "title": "Introduction to Data",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-04468-8_1",
+      "publicationDate": "2017-12-31",
+      "year": 2017
+    },
+    {
+      "title": "Distributed Representations of Tuples for Entity Resolution",
+      "arxiv_id": "1710.00597",
+      "doi": "10.14778/3236187.3236198",
+      "publicationDate": "2017-10-02",
+      "year": 2017
+    },
+    {
+      "title": "The MIMIC Code Repository: enabling reproducibility in critical care research",
+      "arxiv_id": null,
+      "doi": "10.1093/jamia/ocx084",
+      "publicationDate": "2017-09-27",
+      "year": 2017
+    },
+    {
+      "title": "Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/W17-4418",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record",
+      "arxiv_id": null,
+      "doi": "10.1093/jamia/ocx079",
+      "publicationDate": "2017-08-30",
+      "year": 2017
+    },
+    {
+      "title": "Character-level Convolutional Networks for Text Classification",
+      "arxiv_id": "1509.01626",
+      "doi": null,
+      "publicationDate": "2015-09-04",
+      "year": 2015
+    },
+    {
+      "title": "Profiling relational data: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-015-0389-y",
+      "publicationDate": "2015-06-01",
+      "year": 2015
+    },
+    {
+      "title": "NADEEF: a commodity data cleaning system",
+      "arxiv_id": null,
+      "doi": "10.1145/2463676.2465327",
+      "publicationDate": "2013-06-22",
+      "year": 2013
+    },
+    {
+      "title": "Holistic data cleaning: Putting violations into context",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2013.6544847",
+      "publicationDate": "2013-04-08",
+      "year": 2013
+    },
+    {
+      "title": "Truth Finding on the Deep Web: Is the Problem Solved?",
+      "arxiv_id": "1503.00303",
+      "doi": "10.14778/2535568.2448943",
+      "publicationDate": "2012-12-01",
+      "year": 2012
+    },
+    {
+      "title": "ChEMBL: a large-scale bioactivity database for drug discovery",
+      "arxiv_id": null,
+      "doi": "10.1093/nar/gkr777",
+      "publicationDate": "2011-09-23",
+      "year": 2011
+    },
+    {
+      "title": "From one tree to a forest: a unified solution for structured web data extraction",
+      "arxiv_id": null,
+      "doi": "10.1145/2009916.2010020",
+      "publicationDate": "2011-07-24",
+      "year": 2011
+    },
+    {
+      "title": "Evaluation of entity resolution approaches on real-world match problems",
+      "arxiv_id": null,
+      "doi": "10.14778/1920841.1920904",
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "Annotating and searching web tables using entities, types and relationships",
+      "arxiv_id": null,
+      "doi": "10.14778/1920841.1921005",
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "Conditional Functional Dependencies for Data Cleaning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2007.367920",
+      "publicationDate": "2007-04-15",
+      "year": 2007
+    },
+    {
+      "title": "An introduction to ROC analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patrec.2005.10.010",
+      "publicationDate": "2006-06-01",
+      "year": 2006
+    },
+    {
+      "title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-07-25",
+      "year": 2004
+    },
+    {
+      "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+      "arxiv_id": "cs/0306050",
+      "doi": "10.3115/1119176.1119195",
+      "publicationDate": "2003-05-31",
+      "year": 2003
+    },
+    {
+      "title": "Missing data: our view of the state of the art.",
+      "arxiv_id": null,
+      "doi": "10.1037/1082-989X.7.2.147",
+      "publicationDate": "2002-05-30",
+      "year": 2002
+    },
+    {
+      "title": "A survey of approaches to automatic schema matching",
+      "arxiv_id": null,
+      "doi": "10.1007/s007780100057",
+      "publicationDate": "2001-12-01",
+      "year": 2001
+    },
+    {
+      "title": "Generic Schema Matching with Cupid",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2001-09-11",
+      "year": 2001
+    },
+    {
+      "title": "Reconciling schemas of disparate data sources: a machine-learning approach",
+      "arxiv_id": null,
+      "doi": "10.1145/375663.375731",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "TANE: An Efficient Algorithm for Discovering Functional and Approximate Dependencies",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/42.2.100",
+      "publicationDate": "1999-02-01",
+      "year": 1999
+    },
+    {
+      "title": "Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1009761603038",
+      "publicationDate": "1998-01-31",
+      "year": 1998
+    },
+    {
+      "title": "Benchmark",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-39940-9_2108",
+      "publicationDate": "1988-09-28",
+      "year": 1988
+    },
+    {
+      "title": "Sharing",
+      "arxiv_id": null,
+      "doi": "10.1177/002234097903300401",
+      "publicationDate": "1979-12-01",
+      "year": 1979
+    },
+    {
+      "title": "A vector space model for automatic indexing",
+      "arxiv_id": null,
+      "doi": "10.1145/361219.361220",
+      "publicationDate": "1975-11-01",
+      "year": 1975
+    },
+    {
+      "title": "INFERENCE AND MISSING DATA",
+      "arxiv_id": null,
+      "doi": "10.1002/J.2333-8504.1975.TB01053.X",
+      "publicationDate": "1975-06-01",
+      "year": 1975
+    },
+    {
+      "title": "A Theory for Record Linkage",
+      "arxiv_id": null,
+      "doi": "10.1080/01621459.1969.10501049",
+      "publicationDate": "1969-12-01",
+      "year": 1969
+    },
+    {
+      "title": "A Deep Dive Into Cross-Dataset Entity Matching with Large and Small Language Models",
+      "arxiv_id": null,
+      "doi": "10.48786/edbt.2025.75",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ZeroNER: Fueling Zero-Shot Named Entity Recognition via Entity Type Descriptions",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.findings-acl.805",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Uncertainty Propagation on LLM Agent",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.302",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "“Is your enterprise data strategy ready for the age of intelligence?” Sponsored Content",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "“GDC-SM: the GDC schema matching benchmark (version 1.0),”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "RetClean: Retrieval-Based Tabular Data Cleaning Using LLMs and Data Lakes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2403.02990",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "AutoLabel: Automated Textual Data Annotation Method Based on Active Learning and Large Language Model",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-97-5501-1_30",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "“Big data management optimization for managerial decision making and business strategy,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "“Hotel booking dataset,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“PPP FOIA,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Ensuring data quality: A critical aspect of business intelligence success,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Tour & travels customer churn prediction,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Data preparation: A survey of commercial tools,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "“TURL: table understanding through representation learning,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Statistical Analysis with Missing Data , 3rd ed",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-68699-8",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“DBSCAN revisited, revisited: Why and how you should (still) use DBSCAN,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Adult income dataset,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "DBpedia - A large-scale, multilingual knowledge base extracted from Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.3233/SW-140134",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Observational Health Data Sciences and Informatics (OHDSI): Opportunities for Observational Researchers",
+      "arxiv_id": null,
+      "doi": "10.3233/978-1-61499-564-7-574",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "An Introduction to Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-39314-3_1",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Foundations of Data Quality Management , ser. Synthesis Lectures on Data Management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Duplicate Record Detection: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2007.9",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Introducing the Enron Corpus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "“Duplicate detection, record linkage, and identity uncertainty: Datasets,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Data Cleaning: Problems and Current Approaches.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "“A survey of LLM x DATA,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "DynoClass: A Dynamic Table-Class Detection System Without the Need for Predefined Ontologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Openrefine: A power tool for working with messy data,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“The hidden cost of poor data quality & governance: Adm turns risk into revenue,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Adventure works sample databases,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Meat consumption per capita dataset,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Chicago open data portal",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Introducing new governance capabilities to scale ai agents with confidence: Unified governance across models, tools, and data,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Worldwide data created, captured, copied, and consumed,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Hetero-geneity in entity matching: A survey and experimental analysis,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“The magellan data repository,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

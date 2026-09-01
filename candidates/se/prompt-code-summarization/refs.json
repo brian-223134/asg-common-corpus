@@ -1,0 +1,835 @@
+{
+  "candidate": {
+    "topic": "Prompt-Driven Code Summarization",
+    "domain": "se",
+    "gt": {
+      "arxiv_id": "2604.15385",
+      "doi": null,
+      "title": "Prompt-Driven Code Summarization: A Systematic Literature Review",
+      "published": "2026-04-16"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: arXiv 2026 초"
+  },
+  "extracted_at": "2026-09-01T02:59:05+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 114,
+    "arxiv_resolvable": 66,
+    "doi_only": 29,
+    "unresolved": 19
+  },
+  "gt_s2": {
+    "paperId": "c78c5e8c240c326885c8c48cb1edd9abfb1d7f05",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2604-15385",
+      "ArXiv": "2604.15385",
+      "DOI": "10.48550/arXiv.2604.15385",
+      "CorpusId": 287607442
+    },
+    "title": "Prompt-Driven Code Summarization: A Systematic Literature Review",
+    "venue": "arXiv.org",
+    "year": 2026,
+    "referenceCount": 114,
+    "publicationDate": "2026-04-16"
+  },
+  "refs": [
+    {
+      "title": "RepoSummary: Feature-Oriented Summarization and Documentation Generation for Code Repositories",
+      "arxiv_id": "2510.11039",
+      "doi": "10.48550/arXiv.2510.11039",
+      "publicationDate": "2025-10-13",
+      "year": 2025
+    },
+    {
+      "title": "Unlocking the Potential of the Prompt Engineering Paradigm in Software Engineering: A Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": "10.3390/ai6090206",
+      "publicationDate": "2025-08-28",
+      "year": 2025
+    },
+    {
+      "title": "On the Effectiveness of LLM-as-a-Judge for Code Generation and Summarization",
+      "arxiv_id": "2507.16587",
+      "doi": "10.1109/TSE.2025.3586082",
+      "publicationDate": "2025-07-22",
+      "year": 2025
+    },
+    {
+      "title": "RaxCS: Towards cross-language code summarization with contrastive pre-training and retrieval augmentation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.infsof.2025.107741",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "Enhanced Prompting Framework for Code Summarization with Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3728949",
+      "publicationDate": "2025-06-22",
+      "year": 2025
+    },
+    {
+      "title": "DLCoG: A Novel Framework for Dual-Level Code Comment Generation Based on Semantic Segmentation and In-Context Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPC66645.2025.00036",
+      "publicationDate": "2025-04-27",
+      "year": 2025
+    },
+    {
+      "title": "Commenting Higher-level Code Unit: Full Code, Reduced Code, or Hierarchical Code Summarization",
+      "arxiv_id": "2503.10737",
+      "doi": "10.48550/arXiv.2503.10737",
+      "publicationDate": "2025-03-13",
+      "year": 2025
+    },
+    {
+      "title": "An Empirical Study on Commit Message Generation Using LLMs via In-Context Learning",
+      "arxiv_id": "2502.18904",
+      "doi": "10.1109/ICSE55347.2025.00091",
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "Code Summarization Beyond Function Level",
+      "arxiv_id": "2502.16704",
+      "doi": "10.1109/LLM4Code66737.2025.00024",
+      "publicationDate": "2025-02-23",
+      "year": 2025
+    },
+    {
+      "title": "Hierarchical Repository-Level Code Summarization for Business Applications Using Local LLMs",
+      "arxiv_id": "2501.07857",
+      "doi": "10.1109/LLM4Code66737.2025.00023",
+      "publicationDate": "2025-01-14",
+      "year": 2025
+    },
+    {
+      "title": "Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?",
+      "arxiv_id": "2411.11401",
+      "doi": "10.1109/ICSE55347.2025.00060",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?",
+      "arxiv_id": "2411.02093",
+      "doi": "10.1145/3771933",
+      "publicationDate": "2024-11-04",
+      "year": 2024
+    },
+    {
+      "title": "Attacks and Defenses for Large Language Models on Coding Tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/3691620.3695297",
+      "publicationDate": "2024-10-27",
+      "year": 2024
+    },
+    {
+      "title": "Promptexp: Multi-Granularity Prompt Explanation of Large Language Models",
+      "arxiv_id": "2410.13073",
+      "doi": "10.1109/AIware69974.2025.00027",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Instructive Code Retriever: Learn from Large Language Model’s Feedback for Code Intelligence Tasks",
+      "arxiv_id": "2410.11300",
+      "doi": "10.1145/3691620.3694997",
+      "publicationDate": "2024-10-15",
+      "year": 2024
+    },
+    {
+      "title": "A review of automatic source code summarization",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-024-10553-6",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Context Conquers Parameters: Outperforming Proprietary Llm in Commit Message Generation",
+      "arxiv_id": "2408.02502",
+      "doi": "10.1109/ICSE55347.2025.00048",
+      "publicationDate": "2024-08-05",
+      "year": 2024
+    },
+    {
+      "title": "Purpose Enhanced Reasoning through Iterative Prompting: Uncover Latent Robustness of ChatGPT on Code Comprehension",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2024/720",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Can Developers Prompt? A Controlled Experiment for Code Documentation Generation",
+      "arxiv_id": "2408.00686",
+      "doi": "10.1109/ICSME58944.2024.00058",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks",
+      "arxiv_id": "2407.12994",
+      "doi": "10.48550/arXiv.2407.12994",
+      "publicationDate": "2024-07-17",
+      "year": 2024
+    },
+    {
+      "title": "Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3643760",
+      "publicationDate": "2024-07-12",
+      "year": 2024
+    },
+    {
+      "title": "Source Code Summarization in the Era of Large Language Models",
+      "arxiv_id": "2407.07959",
+      "doi": "10.48550/arXiv.2407.07959",
+      "publicationDate": "2024-07-09",
+      "year": 2024
+    },
+    {
+      "title": "Project-specific code summarization with in-context learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.112149",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Source Code Summarization & Comment Generation with NLP : A New Index Proposal",
+      "arxiv_id": null,
+      "doi": "10.1109/HORA61326.2024.10550711",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Natural Is the Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models",
+      "arxiv_id": "2405.11196",
+      "doi": "10.1145/3643753",
+      "publicationDate": "2024-05-18",
+      "year": 2024
+    },
+    {
+      "title": "From LLM to NMT: Advancing Low-Resource Machine Translation with Claude",
+      "arxiv_id": "2404.13813",
+      "doi": "10.48550/arXiv.2404.13813",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead",
+      "arxiv_id": "2404.04566",
+      "doi": "10.1145/3708525",
+      "publicationDate": "2024-04-06",
+      "year": 2024
+    },
+    {
+      "title": "DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence",
+      "arxiv_id": "2401.14196",
+      "doi": "10.48550/arXiv.2401.14196",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "Using Large Language Models for Commit Message Generation: A Preliminary Study",
+      "arxiv_id": "2401.05926",
+      "doi": "10.1109/SANER60148.2024.00020",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "A Prompt Learning Framework for Source Code Summarization",
+      "arxiv_id": "2312.16066",
+      "doi": "10.48550/arXiv.2312.16066",
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization",
+      "arxiv_id": "2312.15475",
+      "doi": "10.1145/3597503.3639174",
+      "publicationDate": "2023-12-24",
+      "year": 2023
+    },
+    {
+      "title": "How are Prompts Different in Terms of Sensitivity?",
+      "arxiv_id": "2311.07230",
+      "doi": "10.48550/arXiv.2311.07230",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "Unleashing the potential of prompt engineering for large language models",
+      "arxiv_id": "2310.14735",
+      "doi": "10.1016/j.patter.2025.101260",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "Program Translation via Code Distillation",
+      "arxiv_id": "2310.11476",
+      "doi": "10.48550/arXiv.2310.11476",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Achieving High-Level Software Component Summarization via Hierarchical Chain-of-Thought Prompting and Static Code Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/ICoDSE59534.2023.10292037",
+      "publicationDate": "2023-09-07",
+      "year": 2023
+    },
+    {
+      "title": "Code Llama: Open Foundation Models for Code",
+      "arxiv_id": "2308.12950",
+      "doi": "10.48550/arXiv.2308.12950",
+      "publicationDate": "2023-08-24",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models for Software Engineering: A Systematic Literature Review",
+      "arxiv_id": "2308.10620",
+      "doi": "10.1145/3695988",
+      "publicationDate": "2023-08-21",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Automatic Code Summarization via ChatGPT: How Far Are We?",
+      "arxiv_id": "2305.12865",
+      "doi": "10.48550/arXiv.2305.12865",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation",
+      "arxiv_id": "2305.07922",
+      "doi": "10.48550/arXiv.2305.07922",
+      "publicationDate": "2023-05-13",
+      "year": 2023
+    },
+    {
+      "title": "Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE48619.2023.00076",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning",
+      "arxiv_id": "2304.11384",
+      "doi": "10.1145/3597503.3608134",
+      "publicationDate": "2023-04-22",
+      "year": 2023
+    },
+    {
+      "title": "What Makes Good In-Context Demonstrations for Code Intelligence Tasks with LLMs?",
+      "arxiv_id": "2304.07575",
+      "doi": "10.1109/ASE56229.2023.00109",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "Towards Retrieval-Based Neural Code Summarization: A Meta-Learning Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2023.3238161",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Exploring Distributional Shifts in Large Language Models for Code Analysis",
+      "arxiv_id": "2303.09128",
+      "doi": "10.48550/arXiv.2303.09128",
+      "publicationDate": "2023-03-16",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "An Analysis of the Automatic Bug Fixing Performance of ChatGPT",
+      "arxiv_id": "2301.08653",
+      "doi": "10.1109/APR59189.2023.00012",
+      "publicationDate": "2023-01-20",
+      "year": 2023
+    },
+    {
+      "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+      "arxiv_id": "2212.10560",
+      "doi": "10.48550/arXiv.2212.10560",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages",
+      "arxiv_id": "2212.06742",
+      "doi": "10.48550/arXiv.2212.06742",
+      "publicationDate": "2022-12-13",
+      "year": 2022
+    },
+    {
+      "title": "Large Language Models Are Human-Level Prompt Engineers",
+      "arxiv_id": "2211.01910",
+      "doi": "10.48550/arXiv.2211.01910",
+      "publicationDate": "2022-11-03",
+      "year": 2022
+    },
+    {
+      "title": "Automatic Chain of Thought Prompting in Large Language Models",
+      "arxiv_id": "2210.03493",
+      "doi": null,
+      "publicationDate": "2022-10-07",
+      "year": 2022
+    },
+    {
+      "title": "Automatic Code Documentation Generation Using GPT-3",
+      "arxiv_id": "2209.02235",
+      "doi": "10.1145/3551349.3559548",
+      "publicationDate": "2022-09-06",
+      "year": 2022
+    },
+    {
+      "title": "Few-shot training LLMs for project-specific code-summarization",
+      "arxiv_id": "2207.04237",
+      "doi": "10.1145/3551349.3559555",
+      "publicationDate": "2022-07-09",
+      "year": 2022
+    },
+    {
+      "title": "InCoder: A Generative Model for Code Infilling and Synthesis",
+      "arxiv_id": "2204.05999",
+      "doi": "10.48550/arXiv.2204.05999",
+      "publicationDate": "2022-04-12",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "A systematic evaluation of large language models of code",
+      "arxiv_id": "2202.13169",
+      "doi": "10.1145/3520312.3534862",
+      "publicationDate": "2022-02-26",
+      "year": 2022
+    },
+    {
+      "title": "Competition-level code generation with AlphaCode",
+      "arxiv_id": "2203.07814",
+      "doi": "10.1126/science.abq1158",
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "Finetuned Language Models Are Zero-Shot Learners",
+      "arxiv_id": "2109.01652",
+      "doi": null,
+      "publicationDate": "2021-09-03",
+      "year": 2021
+    },
+    {
+      "title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?",
+      "arxiv_id": "2109.01247",
+      "doi": "10.18653/v1/2022.naacl-main.167",
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation",
+      "arxiv_id": "2109.00859",
+      "doi": "10.18653/v1/2021.emnlp-main.685",
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "Retrieval Augmented Code Generation and Summarization",
+      "arxiv_id": "2108.11601",
+      "doi": "10.18653/v1/2021.findings-emnlp.232",
+      "publicationDate": "2021-08-26",
+      "year": 2021
+    },
+    {
+      "title": "On the Evaluation of Neural Code Summarization",
+      "arxiv_id": "2107.07112",
+      "doi": "10.1145/3510003.3510060",
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Generating Adversarial Computer Programs using Optimized Obfuscations",
+      "arxiv_id": "2103.11882",
+      "doi": null,
+      "publicationDate": "2021-03-18",
+      "year": 2021
+    },
+    {
+      "title": "Unified Pre-training for Program Understanding and Generation",
+      "arxiv_id": "2103.06333",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.211",
+      "publicationDate": "2021-03-10",
+      "year": 2021
+    },
+    {
+      "title": "GraphCodeBERT: Pre-training Code Representations with Data Flow",
+      "arxiv_id": "2009.08366",
+      "doi": null,
+      "publicationDate": "2020-09-17",
+      "year": 2020
+    },
+    {
+      "title": "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark",
+      "arxiv_id": "2009.07810",
+      "doi": "10.18653/v1/2020.emnlp-main.669",
+      "publicationDate": "2020-09-16",
+      "year": 2020
+    },
+    {
+      "title": "A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research",
+      "arxiv_id": "2009.06520",
+      "doi": "10.1145/3485275",
+      "publicationDate": "2020-09-14",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-based Neural Source Code Summarization",
+      "arxiv_id": null,
+      "doi": "10.1145/3377811.3380383",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN",
+      "arxiv_id": "2006.05405",
+      "doi": null,
+      "publicationDate": "2020-06-10",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "Improved Code Summarization via a Graph Neural Network",
+      "arxiv_id": "2004.02843",
+      "doi": "10.1145/3387904.3389268",
+      "publicationDate": "2020-04-06",
+      "year": 2020
+    },
+    {
+      "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+      "arxiv_id": "2002.08155",
+      "doi": "10.18653/v1/2020.findings-emnlp.139",
+      "publicationDate": "2020-02-19",
+      "year": 2020
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "Retrieve and Refine: Exemplar-Based Neural Comment Generation",
+      "arxiv_id": "1910.10419",
+      "doi": "10.1109/ASE.2019.00152",
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "Automatic Code Summarization: A Systematic Literature Review",
+      "arxiv_id": "1909.04352",
+      "doi": null,
+      "publicationDate": "2019-09-10",
+      "year": 2019
+    },
+    {
+      "title": "A Survey of Automatic Generation of Source Code Comments: Algorithms and Techniques",
+      "arxiv_id": "1907.10863",
+      "doi": "10.1109/ACCESS.2019.2931579",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "IEEE Xplore Digital Library",
+      "arxiv_id": null,
+      "doi": "10.1109/tac.2018.2888787",
+      "publicationDate": "2019-01-01",
+      "year": 2019
+    },
+    {
+      "title": "Guidelines for including the grey literature and conducting multivocal literature reviews in software engineering",
+      "arxiv_id": "1707.02553",
+      "doi": null,
+      "publicationDate": "2017-07-09",
+      "year": 2017
+    },
+    {
+      "title": "Deep Reinforcement Learning from Human Preferences",
+      "arxiv_id": "1706.03741",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Semantic Similarity Metrics for Evaluating Source Code Summarization",
+      "arxiv_id": null,
+      "doi": "10.1145/NNNNNNN.NNNNNNN",
+      "publicationDate": "2017-05-10",
+      "year": 2017
+    },
+    {
+      "title": "Summarizing Source Code using a Neural Attention Model",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-1195",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "A Convolutional Attention Network for Extreme Summarization of Source Code",
+      "arxiv_id": "1602.03001",
+      "doi": null,
+      "publicationDate": "2016-02-09",
+      "year": 2016
+    },
+    {
+      "title": "Toward Deep Learning Software Repositories",
+      "arxiv_id": null,
+      "doi": "10.1109/MSR.2015.38",
+      "publicationDate": "2015-05-16",
+      "year": 2015
+    },
+    {
+      "title": "Simulated analysis and hardware implementation of voiceband circular microphone array",
+      "arxiv_id": null,
+      "doi": "10.1109/ICECS.2013.6815464",
+      "publicationDate": "2013-12-01",
+      "year": 2013
+    },
+    {
+      "title": "Automatic generation of natural language summaries for Java classes",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPC.2013.6613830",
+      "publicationDate": "2013-05-20",
+      "year": 2013
+    },
+    {
+      "title": "Automatically documenting program changes",
+      "arxiv_id": null,
+      "doi": "10.1145/1858996.1859005",
+      "publicationDate": "2010-09-20",
+      "year": 2010
+    },
+    {
+      "title": "Performing systematic literature reviews in software engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/1134285.1134500",
+      "publicationDate": "2006-05-28",
+      "year": 2006
+    },
+    {
+      "title": "METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2005-06-01",
+      "year": 2005
+    },
+    {
+      "title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-07-25",
+      "year": 2004
+    },
+    {
+      "title": "May the source be with you.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2003-09-11",
+      "year": 2003
+    },
+    {
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+      "arxiv_id": null,
+      "doi": "10.3115/1073083.1073135",
+      "publicationDate": "2002-07-06",
+      "year": 2002
+    },
+    {
+      "title": "The ACM digital library",
+      "arxiv_id": null,
+      "doi": "10.1145/374308.374363",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Derivation of New Readability Formulas (Automated Readability Index, Fog Count and Flesch Reading Ease Formula) for Navy Enlisted Personnel",
+      "arxiv_id": null,
+      "doi": "10.21236/ada006655",
+      "publicationDate": "1975-02-01",
+      "year": 1975
+    },
+    {
+      "title": "ProConSuL: Project Context for Code Summarization with LLMs",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.emnlp-industry.65",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Integrating Non-Fourier and AST-Structural Relative Position Representations Into Transformer-Based Model for Source Code Summarization",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2024.3354390",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2310.10508",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Prompt Engineering for Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4504303",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Plbart: Pre-training language model for bi-directional attentive representation of code",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Codexglue: A benchmark dataset and open challenge for code intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A comprehensive study of code summarization with neural attention",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Deepcom: Deep comment generation for source code",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Suitabilityofgooglescholarasasourceofscientificinformationandasasourceofdataforscientificevaluation—review of the literature",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Docagent:Amulti-agentsystemforautomatedcodedocumentation generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Automaticsemanticaugmentationoflanguagemodelprompts(forcodesummarization)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Springer Link Online Library",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "c) Snowballing and Manual Addition – Performed backward snowballing by reference analysis and manually added seminal works meeting the inclusion criteria",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "a) Publication Type Filtering – Retained only peer-reviewed journal and full conference papers; excluded non-research formats",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": ": Open models based on gemini research and technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Key challenges in prompt engineering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Venue Quality Assessment – Prioritized inclusion from reputable conferences and journals based on CSRankings and field consensus",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "(a) Quality Assessment – Developed a structured questionnaire to evaluate methodological clarity and reporting trans-parency across studies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

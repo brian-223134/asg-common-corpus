@@ -1,0 +1,2032 @@
+{
+  "candidate": {
+    "topic": "Harmful Fine-tuning Attacks and Defenses for Large Language Models",
+    "domain": "security",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3817114",
+      "title": "Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey",
+      "published": "2026-06-23"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T02:46:35+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 285,
+    "arxiv_resolvable": 223,
+    "doi_only": 18,
+    "unresolved": 44
+  },
+  "gt_s2": {
+    "paperId": "2f4788a62ffa9929c7b399a9bc1e07917cc58b06",
+    "externalIds": {
+      "ArXiv": "2409.18169",
+      "DBLP": "journals/corr/abs-2409-18169",
+      "DOI": "10.1145/3817114",
+      "CorpusId": 272968838
+    },
+    "title": "Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 285,
+    "publicationDate": "2024-09-26"
+  },
+  "refs": [
+    {
+      "title": "Open Technical Problems in Open-Weight AI Model Risk Management",
+      "arxiv_id": "2608.07514",
+      "doi": null,
+      "publicationDate": "2026-07-01",
+      "year": 2026
+    },
+    {
+      "title": "SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance-Diversity Data Selection",
+      "arxiv_id": "2605.28030",
+      "doi": "10.48550/arXiv.2605.28030",
+      "publicationDate": "2026-05-27",
+      "year": 2026
+    },
+    {
+      "title": "One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries",
+      "arxiv_id": "2605.14605",
+      "doi": "10.48550/arXiv.2605.14605",
+      "publicationDate": "2026-05-14",
+      "year": 2026
+    },
+    {
+      "title": "GradShield: Alignment Preserving Finetuning",
+      "arxiv_id": "2605.14194",
+      "doi": "10.48550/arXiv.2605.14194",
+      "publicationDate": "2026-05-13",
+      "year": 2026
+    },
+    {
+      "title": "Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs",
+      "arxiv_id": "2605.10998",
+      "doi": "10.48550/arXiv.2605.10998",
+      "publicationDate": "2026-05-09",
+      "year": 2026
+    },
+    {
+      "title": "Benign Fine-Tuning Breaks Safety Alignment in Audio LLMs",
+      "arxiv_id": "2604.16659",
+      "doi": "10.48550/arXiv.2604.16659",
+      "publicationDate": "2026-04-17",
+      "year": 2026
+    },
+    {
+      "title": "Antibody: Strengthening Defense Against Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Gradient Influence",
+      "arxiv_id": "2603.00498",
+      "doi": "10.48550/arXiv.2603.00498",
+      "publicationDate": "2026-02-28",
+      "year": 2026
+    },
+    {
+      "title": "Limits of Convergence-Rate Control for Open-Weight Safety",
+      "arxiv_id": "2602.18868",
+      "doi": "10.48550/arXiv.2602.18868",
+      "publicationDate": "2026-02-21",
+      "year": 2026
+    },
+    {
+      "title": "NeST: Neuron Selective Tuning for LLM Safety",
+      "arxiv_id": "2602.16835",
+      "doi": "10.48550/arXiv.2602.16835",
+      "publicationDate": "2026-02-18",
+      "year": 2026
+    },
+    {
+      "title": "The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety",
+      "arxiv_id": "2602.15799",
+      "doi": "10.48550/arXiv.2602.15799",
+      "publicationDate": "2026-02-17",
+      "year": 2026
+    },
+    {
+      "title": "Robust Policy Optimization to Prevent Catastrophic Forgetting",
+      "arxiv_id": "2602.08813",
+      "doi": "10.48550/arXiv.2602.08813",
+      "publicationDate": "2026-02-09",
+      "year": 2026
+    },
+    {
+      "title": "TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering",
+      "arxiv_id": "2602.06911",
+      "doi": "10.1145/3770855.3817557",
+      "publicationDate": "2026-02-06",
+      "year": 2026
+    },
+    {
+      "title": "Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink",
+      "arxiv_id": "2602.05228",
+      "doi": "10.48550/arXiv.2602.05228",
+      "publicationDate": "2026-02-05",
+      "year": 2026
+    },
+    {
+      "title": "GRP-Obliteration: Unaligning LLMs With a Single Unlabeled Prompt",
+      "arxiv_id": "2602.06258",
+      "doi": "10.48550/arXiv.2602.06258",
+      "publicationDate": "2026-02-05",
+      "year": 2026
+    },
+    {
+      "title": "Eliciting Harmful Capabilities by Fine-Tuning On Safeguarded Outputs",
+      "arxiv_id": "2601.13528",
+      "doi": "10.48550/arXiv.2601.13528",
+      "publicationDate": "2026-01-20",
+      "year": 2026
+    },
+    {
+      "title": "LSSF: Safety Alignment for Large Language Models through Low-Rank Safety Subspace Fusion",
+      "arxiv_id": "2602.00038",
+      "doi": "10.18653/v1/2025.acl-long.1479",
+      "publicationDate": "2026-01-19",
+      "year": 2026
+    },
+    {
+      "title": "TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning",
+      "arxiv_id": "2601.12460",
+      "doi": "10.48550/arXiv.2601.12460",
+      "publicationDate": "2026-01-18",
+      "year": 2026
+    },
+    {
+      "title": "Understanding and Preserving Safety in Fine-Tuned LLMs",
+      "arxiv_id": "2601.10141",
+      "doi": "10.48550/arXiv.2601.10141",
+      "publicationDate": "2026-01-15",
+      "year": 2026
+    },
+    {
+      "title": "Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment",
+      "arxiv_id": "2601.08089",
+      "doi": "10.48550/arXiv.2601.08089",
+      "publicationDate": "2026-01-13",
+      "year": 2026
+    },
+    {
+      "title": "Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment",
+      "arxiv_id": "2601.07200",
+      "doi": "10.48550/arXiv.2601.07200",
+      "publicationDate": "2026-01-12",
+      "year": 2026
+    },
+    {
+      "title": "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance",
+      "arxiv_id": "2601.01887",
+      "doi": "10.48550/arXiv.2601.01887",
+      "publicationDate": "2026-01-05",
+      "year": 2026
+    },
+    {
+      "title": "Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning",
+      "arxiv_id": "2512.10150",
+      "doi": "10.48550/arXiv.2512.10150",
+      "publicationDate": "2025-12-10",
+      "year": 2025
+    },
+    {
+      "title": "Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education",
+      "arxiv_id": "2511.14423",
+      "doi": "10.48550/arXiv.2511.14423",
+      "publicationDate": "2025-11-18",
+      "year": 2025
+    },
+    {
+      "title": "Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models",
+      "arxiv_id": "2511.09682",
+      "doi": "10.48550/arXiv.2511.09682",
+      "publicationDate": "2025-11-12",
+      "year": 2025
+    },
+    {
+      "title": "Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler",
+      "arxiv_id": "2510.27172",
+      "doi": "10.48550/arXiv.2510.27172",
+      "publicationDate": "2025-10-31",
+      "year": 2025
+    },
+    {
+      "title": "Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models",
+      "arxiv_id": "2510.27629",
+      "doi": "10.48550/arXiv.2510.27629",
+      "publicationDate": "2025-10-31",
+      "year": 2025
+    },
+    {
+      "title": "Detecting Adversarial Fine-tuning with Auditing Agents",
+      "arxiv_id": "2510.16255",
+      "doi": "10.48550/arXiv.2510.16255",
+      "publicationDate": "2025-10-17",
+      "year": 2025
+    },
+    {
+      "title": "A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space",
+      "arxiv_id": "2510.14301",
+      "doi": "10.48550/arXiv.2510.14301",
+      "publicationDate": "2025-10-16",
+      "year": 2025
+    },
+    {
+      "title": "Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning",
+      "arxiv_id": "2510.10085",
+      "doi": "10.48550/arXiv.2510.10085",
+      "publicationDate": "2025-10-11",
+      "year": 2025
+    },
+    {
+      "title": "MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation",
+      "arxiv_id": "2510.07835",
+      "doi": "10.48550/arXiv.2510.07835",
+      "publicationDate": "2025-10-09",
+      "year": 2025
+    },
+    {
+      "title": "Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach",
+      "arxiv_id": "2510.01342",
+      "doi": "10.48550/arXiv.2510.01342",
+      "publicationDate": "2025-10-01",
+      "year": 2025
+    },
+    {
+      "title": "Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents",
+      "arxiv_id": "2509.26354",
+      "doi": "10.48550/arXiv.2509.26354",
+      "publicationDate": "2025-09-30",
+      "year": 2025
+    },
+    {
+      "title": "Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint",
+      "arxiv_id": "2509.06795",
+      "doi": "10.48550/arXiv.2509.06795",
+      "publicationDate": "2025-09-08",
+      "year": 2025
+    },
+    {
+      "title": "MoGU V2: Toward a Higher Pareto Frontier Between Model Usability and Security",
+      "arxiv_id": "2509.06807",
+      "doi": "10.48550/arXiv.2509.06807",
+      "publicationDate": "2025-09-08",
+      "year": 2025
+    },
+    {
+      "title": "AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs",
+      "arxiv_id": "2509.08000",
+      "doi": "10.48550/arXiv.2509.08000",
+      "publicationDate": "2025-09-06",
+      "year": 2025
+    },
+    {
+      "title": "Safe and effective post-fine-tuning alignment in large language models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.114523",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning",
+      "arxiv_id": "2508.20697",
+      "doi": "10.48550/arXiv.2508.20697",
+      "publicationDate": "2025-08-28",
+      "year": 2025
+    },
+    {
+      "title": "Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks",
+      "arxiv_id": "2508.17158",
+      "doi": "10.48550/arXiv.2508.17158",
+      "publicationDate": "2025-08-23",
+      "year": 2025
+    },
+    {
+      "title": "Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation",
+      "arxiv_id": "2508.14031",
+      "doi": "10.48550/arXiv.2508.14031",
+      "publicationDate": "2025-08-19",
+      "year": 2025
+    },
+    {
+      "title": "Rethinking Safety in LLM Fine-tuning: An Optimization Perspective",
+      "arxiv_id": "2508.12531",
+      "doi": "10.48550/arXiv.2508.12531",
+      "publicationDate": "2025-08-17",
+      "year": 2025
+    },
+    {
+      "title": "In-Training Defenses against Emergent Misalignment in Language Models",
+      "arxiv_id": "2508.06249",
+      "doi": "10.48550/arXiv.2508.06249",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs",
+      "arxiv_id": "2508.06601",
+      "doi": "10.48550/arXiv.2508.06601",
+      "publicationDate": "2025-08-08",
+      "year": 2025
+    },
+    {
+      "title": "Estimating Worst-Case Frontier Risks of Open-Weight LLMs",
+      "arxiv_id": "2508.03153",
+      "doi": "10.48550/arXiv.2508.03153",
+      "publicationDate": "2025-08-05",
+      "year": 2025
+    },
+    {
+      "title": "AlignGuard-LoRA: Alignment-Preserving Fine-Tuning via Fisher-Guided Decomposition and Riemannian-Geodesic Collision Regularization",
+      "arxiv_id": "2508.02079",
+      "doi": "10.48550/arXiv.2508.02079",
+      "publicationDate": "2025-08-04",
+      "year": 2025
+    },
+    {
+      "title": "SDD: Self-Degraded Defense against Malicious Fine-tuning",
+      "arxiv_id": "2507.21182",
+      "doi": "10.18653/v1/2025.acl-long.1412",
+      "publicationDate": "2025-07-27",
+      "year": 2025
+    },
+    {
+      "title": "Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment",
+      "arxiv_id": "2507.18631",
+      "doi": "10.48550/arXiv.2507.18631",
+      "publicationDate": "2025-07-24",
+      "year": 2025
+    },
+    {
+      "title": "Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning",
+      "arxiv_id": "2507.16302",
+      "doi": "10.48550/arXiv.2507.16302",
+      "publicationDate": "2025-07-22",
+      "year": 2025
+    },
+    {
+      "title": "Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility",
+      "arxiv_id": "2507.11630",
+      "doi": "10.48550/arXiv.2507.11630",
+      "publicationDate": "2025-07-15",
+      "year": 2025
+    },
+    {
+      "title": "TuCo: Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs",
+      "arxiv_id": "2506.23423",
+      "doi": "10.48550/arXiv.2506.23423",
+      "publicationDate": "2025-06-29",
+      "year": 2025
+    },
+    {
+      "title": "Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs",
+      "arxiv_id": "2506.18931",
+      "doi": "10.48550/arXiv.2506.18931",
+      "publicationDate": "2025-06-21",
+      "year": 2025
+    },
+    {
+      "title": "Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models",
+      "arxiv_id": "2506.16447",
+      "doi": "10.48550/arXiv.2506.16447",
+      "publicationDate": "2025-06-19",
+      "year": 2025
+    },
+    {
+      "title": "AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin",
+      "arxiv_id": "2506.08473",
+      "doi": "10.48550/arXiv.2506.08473",
+      "publicationDate": "2025-06-10",
+      "year": 2025
+    },
+    {
+      "title": "When Style Breaks Safety: Defending LLMs Against Superficial Style Alignment",
+      "arxiv_id": "2506.07452",
+      "doi": null,
+      "publicationDate": "2025-06-09",
+      "year": 2025
+    },
+    {
+      "title": "Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets",
+      "arxiv_id": "2506.05346",
+      "doi": "10.48550/arXiv.2506.05346",
+      "publicationDate": "2025-06-05",
+      "year": 2025
+    },
+    {
+      "title": "Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning",
+      "arxiv_id": "2506.03850",
+      "doi": "10.48550/arXiv.2506.03850",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "SafeTuneBed: A Toolkit for Benchmarking LLM Safety Alignment in Fine-Tuning",
+      "arxiv_id": "2506.00676",
+      "doi": "10.48550/arXiv.2506.00676",
+      "publicationDate": "2025-05-31",
+      "year": 2025
+    },
+    {
+      "title": "SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA",
+      "arxiv_id": "2505.23724",
+      "doi": "10.48550/arXiv.2505.23724",
+      "publicationDate": "2025-05-29",
+      "year": 2025
+    },
+    {
+      "title": "CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning",
+      "arxiv_id": "2505.16559",
+      "doi": "10.48550/arXiv.2505.16559",
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards",
+      "arxiv_id": "2505.16789",
+      "doi": null,
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "Shape it Up! Restoring LLM Safety during Finetuning",
+      "arxiv_id": "2505.17196",
+      "doi": "10.48550/arXiv.2505.17196",
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "Safety Subspaces are Not Linearly Distinct: A Fine-Tuning Case Study",
+      "arxiv_id": "2505.14185",
+      "doi": null,
+      "publicationDate": "2025-05-20",
+      "year": 2025
+    },
+    {
+      "title": "Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets",
+      "arxiv_id": "2505.12038",
+      "doi": "10.48550/arXiv.2505.12038",
+      "publicationDate": "2025-05-17",
+      "year": 2025
+    },
+    {
+      "title": "Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety",
+      "arxiv_id": "2505.06843",
+      "doi": "10.48550/arXiv.2505.06843",
+      "publicationDate": "2025-05-11",
+      "year": 2025
+    },
+    {
+      "title": "Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization",
+      "arxiv_id": "2505.04578",
+      "doi": "10.48550/arXiv.2505.04578",
+      "publicationDate": "2025-05-07",
+      "year": 2025
+    },
+    {
+      "title": "SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging",
+      "arxiv_id": "2503.17239",
+      "doi": "10.18653/v1/2026.findings-acl.1761",
+      "publicationDate": "2025-03-21",
+      "year": 2025
+    },
+    {
+      "title": "Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable",
+      "arxiv_id": "2503.00555",
+      "doi": "10.48550/arXiv.2503.00555",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs",
+      "arxiv_id": "2502.20968",
+      "doi": "10.48550/arXiv.2502.20968",
+      "publicationDate": "2025-02-28",
+      "year": 2025
+    },
+    {
+      "title": "No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data",
+      "arxiv_id": "2502.19537",
+      "doi": null,
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "Single-pass Detection of Jailbreaking Input in Large Language Models",
+      "arxiv_id": "2502.15435",
+      "doi": "10.48550/arXiv.2502.15435",
+      "publicationDate": "2025-02-21",
+      "year": 2025
+    },
+    {
+      "title": "Fundamental Limitations in Pointwise Defences of LLM Finetuning APIs",
+      "arxiv_id": "2502.14828",
+      "doi": "10.52202/085713-2551",
+      "publicationDate": "2025-02-20",
+      "year": 2025
+    },
+    {
+      "title": "To Think or Not to Think: Exploring the Unthinking Vulnerability in Large Reasoning Models",
+      "arxiv_id": "2502.12202",
+      "doi": null,
+      "publicationDate": "2025-02-16",
+      "year": 2025
+    },
+    {
+      "title": "Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond",
+      "arxiv_id": "2502.05374",
+      "doi": "10.48550/arXiv.2502.05374",
+      "publicationDate": "2025-02-07",
+      "year": 2025
+    },
+    {
+      "title": "Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities",
+      "arxiv_id": "2502.05209",
+      "doi": "10.48550/arXiv.2502.05209",
+      "publicationDate": "2025-02-03",
+      "year": 2025
+    },
+    {
+      "title": "The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models",
+      "arxiv_id": "2502.01225",
+      "doi": "10.48550/arXiv.2502.01225",
+      "publicationDate": "2025-02-03",
+      "year": 2025
+    },
+    {
+      "title": "Panacea: Mitigating Harmful Fine-tuning for Large Language Models via Post-fine-tuning Perturbation",
+      "arxiv_id": "2501.18100",
+      "doi": "10.48550/arXiv.2501.18100",
+      "publicationDate": "2025-01-30",
+      "year": 2025
+    },
+    {
+      "title": "Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation",
+      "arxiv_id": "2501.17433",
+      "doi": "10.48550/arXiv.2501.17433",
+      "publicationDate": "2025-01-29",
+      "year": 2025
+    },
+    {
+      "title": "Enhancing AI Safety Through the Fusion of Low Rank Adapters",
+      "arxiv_id": "2501.06208",
+      "doi": "10.1007/978-981-96-8197-6_26",
+      "publicationDate": "2024-12-30",
+      "year": 2024
+    },
+    {
+      "title": "NLSR: Neuron-Level Safety Realignment of Large Language Models Against Harmful Fine-Tuning",
+      "arxiv_id": "2412.12497",
+      "doi": "10.48550/arXiv.2412.12497",
+      "publicationDate": "2024-12-17",
+      "year": 2024
+    },
+    {
+      "title": "Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models",
+      "arxiv_id": "2412.11041",
+      "doi": "10.48550/arXiv.2412.11041",
+      "publicationDate": "2024-12-15",
+      "year": 2024
+    },
+    {
+      "title": "On Evaluating the Durability of Safeguards for Open-Weight LLMs",
+      "arxiv_id": "2412.07097",
+      "doi": "10.48550/arXiv.2412.07097",
+      "publicationDate": "2024-12-10",
+      "year": 2024
+    },
+    {
+      "title": "Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks",
+      "arxiv_id": "2410.18210",
+      "doi": "10.48550/arXiv.2410.18210",
+      "publicationDate": "2024-10-23",
+      "year": 2024
+    },
+    {
+      "title": "The effect of fine-tuning on language model toxicity",
+      "arxiv_id": "2410.15821",
+      "doi": "10.48550/arXiv.2410.15821",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "Locking Down the Finetuned LLMs Safety",
+      "arxiv_id": "2410.10343",
+      "doi": "10.48550/arXiv.2410.10343",
+      "publicationDate": "2024-10-14",
+      "year": 2024
+    },
+    {
+      "title": "Targeted Vaccine: Safety Alignment for Large Language Models Against Harmful Fine-Tuning via Layer-Wise Perturbation",
+      "arxiv_id": "2410.09760",
+      "doi": "10.1109/TIFS.2025.3615412",
+      "publicationDate": "2024-10-13",
+      "year": 2024
+    },
+    {
+      "title": "Safety-Aware Fine-Tuning of Large Language Models",
+      "arxiv_id": "2410.10014",
+      "doi": "10.48550/arXiv.2410.10014",
+      "publicationDate": "2024-10-13",
+      "year": 2024
+    },
+    {
+      "title": "Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models",
+      "arxiv_id": "2410.09047",
+      "doi": "10.48550/arXiv.2410.09047",
+      "publicationDate": "2024-10-11",
+      "year": 2024
+    },
+    {
+      "title": "SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection",
+      "arxiv_id": "2410.07471",
+      "doi": "10.48550/arXiv.2410.07471",
+      "publicationDate": "2024-10-09",
+      "year": 2024
+    },
+    {
+      "title": "Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation",
+      "arxiv_id": "2409.01586",
+      "doi": "10.48550/arXiv.2409.01586",
+      "publicationDate": "2024-09-03",
+      "year": 2024
+    },
+    {
+      "title": "The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs",
+      "arxiv_id": "2409.00787",
+      "doi": "10.48550/arXiv.2409.00787",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "Safety Layers in Aligned Large Language Models: The Key to LLM Security",
+      "arxiv_id": "2408.17003",
+      "doi": null,
+      "publicationDate": "2024-08-30",
+      "year": 2024
+    },
+    {
+      "title": "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning",
+      "arxiv_id": "2408.09600",
+      "doi": "10.48550/arXiv.2408.09600",
+      "publicationDate": "2024-08-18",
+      "year": 2024
+    },
+    {
+      "title": "Scaling Trends for Data Poisoning in LLMs",
+      "arxiv_id": "2408.02946",
+      "doi": "10.1609/aaai.v39i26.34929",
+      "publicationDate": "2024-08-06",
+      "year": 2024
+    },
+    {
+      "title": "Tamper-Resistant Safeguards for Open-Weight LLMs",
+      "arxiv_id": "2408.00761",
+      "doi": "10.48550/arXiv.2408.00761",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Gemma 2: Improving Open Language Models at a Practical Size",
+      "arxiv_id": "2408.00118",
+      "doi": "10.48550/arXiv.2408.00118",
+      "publicationDate": "2024-07-31",
+      "year": 2024
+    },
+    {
+      "title": "Can Editing LLMs Inject Harm?",
+      "arxiv_id": "2407.20224",
+      "doi": "10.48550/arXiv.2407.20224",
+      "publicationDate": "2024-07-29",
+      "year": 2024
+    },
+    {
+      "title": "The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies",
+      "arxiv_id": "2407.19354",
+      "doi": "10.1145/3773080",
+      "publicationDate": "2024-07-28",
+      "year": 2024
+    },
+    {
+      "title": "Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs",
+      "arxiv_id": "2407.15549",
+      "doi": null,
+      "publicationDate": "2024-07-22",
+      "year": 2024
+    },
+    {
+      "title": "Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)",
+      "arxiv_id": "2407.14937",
+      "doi": "10.48550/arXiv.2407.14937",
+      "publicationDate": "2024-07-20",
+      "year": 2024
+    },
+    {
+      "title": "Open Problems in Technical AI Governance",
+      "arxiv_id": "2407.14981",
+      "doi": "10.48550/arXiv.2407.14981",
+      "publicationDate": "2024-07-20",
+      "year": 2024
+    },
+    {
+      "title": "Qwen2 Technical Report",
+      "arxiv_id": "2407.10671",
+      "doi": "10.48550/arXiv.2407.10671",
+      "publicationDate": "2024-07-15",
+      "year": 2024
+    },
+    {
+      "title": "What Makes and Breaks Safety Fine-tuning? A Mechanistic Study",
+      "arxiv_id": "2407.10264",
+      "doi": "10.48550/arXiv.2407.10264",
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "Jailbreak Attacks and Defenses Against Large Language Models: A Survey",
+      "arxiv_id": "2407.04295",
+      "doi": "10.48550/arXiv.2407.04295",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation",
+      "arxiv_id": "2406.20053",
+      "doi": "10.48550/arXiv.2406.20053",
+      "publicationDate": "2024-06-28",
+      "year": 2024
+    },
+    {
+      "title": "BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models",
+      "arxiv_id": "2406.17092",
+      "doi": "10.48550/arXiv.2406.17092",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "Resource- Efficient Transformer Pruning for Finetuning of Large Models",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52733.2024.01534",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "Current state of LLM Risks and AI Guardrails",
+      "arxiv_id": "2406.12934",
+      "doi": "10.48550/arXiv.2406.12934",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+      "arxiv_id": "2406.05946",
+      "doi": "10.48550/arXiv.2406.05946",
+      "publicationDate": "2024-06-10",
+      "year": 2024
+    },
+    {
+      "title": "Improving Alignment and Robustness with Circuit Breakers",
+      "arxiv_id": "2406.04313",
+      "doi": "10.48550/arXiv.2406.04313",
+      "publicationDate": "2024-06-06",
+      "year": 2024
+    },
+    {
+      "title": "Lisa: Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning Attack",
+      "arxiv_id": "2405.18641",
+      "doi": "10.52202/079017-3320",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models",
+      "arxiv_id": "2405.16833",
+      "doi": "10.48550/arXiv.2405.16833",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models",
+      "arxiv_id": "2405.17374",
+      "doi": "10.48550/arXiv.2405.17374",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks",
+      "arxiv_id": "2405.16229",
+      "doi": "10.48550/arXiv.2405.16229",
+      "publicationDate": "2024-05-25",
+      "year": 2024
+    },
+    {
+      "title": "Robustifying Safety-Aligned Large Language Models through Clean Data Curation",
+      "arxiv_id": "2405.19358",
+      "doi": "10.48550/arXiv.2405.19358",
+      "publicationDate": "2024-05-24",
+      "year": 2024
+    },
+    {
+      "title": "A safety realignment framework via subspace-oriented model fusion for large language models",
+      "arxiv_id": "2405.09055",
+      "doi": "10.48550/arXiv.2405.09055",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain",
+      "arxiv_id": null,
+      "doi": "10.1145/3589334.3645352",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "LLM-Mod: Can Large Language Models Assist Content Moderation?",
+      "arxiv_id": null,
+      "doi": "10.1145/3613905.3650828",
+      "publicationDate": "2024-05-02",
+      "year": 2024
+    },
+    {
+      "title": "SafetyPrompts: a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety",
+      "arxiv_id": "2404.05399",
+      "doi": "10.48550/arXiv.2404.05399",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Robust Few-Shot Ensemble Learning with Focal Diversity-Based Pruning",
+      "arxiv_id": "2404.04434",
+      "doi": "10.1145/3746457",
+      "publicationDate": "2024-04-05",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Large Language Model-Based Game Agents",
+      "arxiv_id": "2404.02039",
+      "doi": "10.48550/arXiv.2404.02039",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "What is in Your Safe Data? Identifying Benign Data that Breaks Safety",
+      "arxiv_id": "2404.01099",
+      "doi": null,
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "BadEdit: Backdooring large language models by model editing",
+      "arxiv_id": "2403.13355",
+      "doi": "10.48550/arXiv.2403.13355",
+      "publicationDate": "2024-03-20",
+      "year": 2024
+    },
+    {
+      "title": "Defending Against Unforeseen Failure Modes with Latent Adversarial Training",
+      "arxiv_id": "2403.05030",
+      "doi": "10.48550/arXiv.2403.05030",
+      "publicationDate": "2024-03-08",
+      "year": 2024
+    },
+    {
+      "title": "Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates",
+      "arxiv_id": "2402.18540",
+      "doi": "10.48550/arXiv.2402.18540",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Immunization against harmful fine-tuning attacks",
+      "arxiv_id": "2402.16382",
+      "doi": "10.48550/arXiv.2402.16382",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models",
+      "arxiv_id": "2402.13457",
+      "doi": "10.18653/v1/2024.findings-acl.443",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic",
+      "arxiv_id": "2402.11746",
+      "doi": "10.48550/arXiv.2402.11746",
+      "publicationDate": "2024-02-19",
+      "year": 2024
+    },
+    {
+      "title": "Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey",
+      "arxiv_id": "2402.09283",
+      "doi": "10.48550/arXiv.2402.09283",
+      "publicationDate": "2024-02-14",
+      "year": 2024
+    },
+    {
+      "title": "Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications",
+      "arxiv_id": "2402.05162",
+      "doi": "10.48550/arXiv.2402.05162",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
+      "arxiv_id": "2402.04249",
+      "doi": "10.48550/arXiv.2402.04249",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models",
+      "arxiv_id": "2402.02207",
+      "doi": "10.48550/arXiv.2402.02207",
+      "publicationDate": "2024-02-03",
+      "year": 2024
+    },
+    {
+      "title": "Vaccine: Perturbation-aware Alignment for Large Language Model",
+      "arxiv_id": "2402.01109",
+      "doi": "10.48550/arXiv.2402.01109",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "KTO: Model Alignment as Prospect Theoretic Optimization",
+      "arxiv_id": "2402.01306",
+      "doi": null,
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "Weak-to-Strong Jailbreaking on Large Language Models",
+      "arxiv_id": "2401.17256",
+      "doi": "10.48550/arXiv.2401.17256",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks",
+      "arxiv_id": "2401.17263",
+      "doi": "10.48550/arXiv.2401.17263",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+      "arxiv_id": "2401.05566",
+      "doi": "10.48550/arXiv.2401.05566",
+      "publicationDate": "2024-01-10",
+      "year": 2024
+    },
+    {
+      "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+      "arxiv_id": "2312.06674",
+      "doi": "10.48550/arXiv.2312.06674",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Tree of Attacks: Jailbreaking Black-Box LLMs Automatically",
+      "arxiv_id": "2312.02119",
+      "doi": "10.48550/arXiv.2312.02119",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly",
+      "arxiv_id": "2312.02003",
+      "doi": "10.1016/j.hcc.2024.100211",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "Scalable Extraction of Training Data from (Production) Language Models",
+      "arxiv_id": "2311.17035",
+      "doi": "10.48550/arXiv.2311.17035",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks",
+      "arxiv_id": "2311.12786",
+      "doi": "10.48550/arXiv.2311.12786",
+      "publicationDate": "2023-11-21",
+      "year": 2023
+    },
+    {
+      "title": "Bergeron: Combating Adversarial Attacks through a Conscience-Based Alignment Framework",
+      "arxiv_id": "2312.00029",
+      "doi": "10.48550/arXiv.2312.00029",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "Removing RLHF Protections in GPT-4 via Fine-Tuning",
+      "arxiv_id": "2311.05553",
+      "doi": "10.48550/arXiv.2311.05553",
+      "publicationDate": "2023-11-09",
+      "year": 2023
+    },
+    {
+      "title": "Making Harmful Behaviors Unlearnable for Large Language Models",
+      "arxiv_id": "2311.02105",
+      "doi": "10.48550/arXiv.2311.02105",
+      "publicationDate": "2023-11-02",
+      "year": 2023
+    },
+    {
+      "title": "LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B",
+      "arxiv_id": "2310.20624",
+      "doi": "10.48550/arXiv.2310.20624",
+      "publicationDate": "2023-10-31",
+      "year": 2023
+    },
+    {
+      "title": "Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases",
+      "arxiv_id": "2310.14303",
+      "doi": "10.48550/arXiv.2310.14303",
+      "publicationDate": "2023-10-22",
+      "year": 2023
+    },
+    {
+      "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+      "arxiv_id": "2310.12773",
+      "doi": "10.48550/arXiv.2310.12773",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks",
+      "arxiv_id": "2310.10844",
+      "doi": "10.48550/arXiv.2310.10844",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+      "arxiv_id": "2310.08419",
+      "doi": "10.1109/SaTML64287.2025.00010",
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models",
+      "arxiv_id": "2310.08659",
+      "doi": "10.48550/arXiv.2310.08659",
+      "publicationDate": "2023-10-12",
+      "year": 2023
+    },
+    {
+      "title": "Composite Backdoor Attacks Against Large Language Models",
+      "arxiv_id": "2310.07676",
+      "doi": "10.48550/arXiv.2310.07676",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
+      "arxiv_id": "2310.03684",
+      "doi": "10.48550/arXiv.2310.03684",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+      "arxiv_id": "2310.03693",
+      "doi": "10.48550/arXiv.2310.03693",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models",
+      "arxiv_id": "2310.02949",
+      "doi": "10.48550/arXiv.2310.02949",
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models",
+      "arxiv_id": "2310.04451",
+      "doi": "10.48550/arXiv.2310.04451",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives",
+      "arxiv_id": "2310.01152",
+      "doi": "10.1109/TPS-ISA58951.2023.00044",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment",
+      "arxiv_id": "2310.00212",
+      "doi": "10.48550/arXiv.2310.00212",
+      "publicationDate": "2023-09-30",
+      "year": 2023
+    },
+    {
+      "title": "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks",
+      "arxiv_id": "2309.17410",
+      "doi": "10.48550/arXiv.2309.17410",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model Alignment: A Survey",
+      "arxiv_id": "2309.15025",
+      "doi": "10.48550/arXiv.2309.15025",
+      "publicationDate": "2023-09-26",
+      "year": 2023
+    },
+    {
+      "title": "Watch Your Language: Large Language Models and Content Moderation",
+      "arxiv_id": "2309.14517",
+      "doi": "10.48550/arXiv.2309.14517",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts",
+      "arxiv_id": "2309.10253",
+      "doi": "10.48550/arXiv.2309.10253",
+      "publicationDate": "2023-09-19",
+      "year": 2023
+    },
+    {
+      "title": "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM",
+      "arxiv_id": "2309.14348",
+      "doi": "10.48550/arXiv.2309.14348",
+      "publicationDate": "2023-09-18",
+      "year": 2023
+    },
+    {
+      "title": "Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions",
+      "arxiv_id": "2309.07875",
+      "doi": "10.48550/arXiv.2309.07875",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Baseline Defenses for Adversarial Attacks Against Aligned Language Models",
+      "arxiv_id": "2309.00614",
+      "doi": "10.48550/arXiv.2309.00614",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Robust Principles: Architectural Design Principles for Adversarially Robust CNNs",
+      "arxiv_id": "2308.16258",
+      "doi": "10.48550/arXiv.2308.16258",
+      "publicationDate": "2023-08-30",
+      "year": 2023
+    },
+    {
+      "title": "Fine-tuning can cripple your foundation model; preserving features may be the solution",
+      "arxiv_id": "2308.13320",
+      "doi": "10.48550/arXiv.2308.13320",
+      "publicationDate": "2023-08-25",
+      "year": 2023
+    },
+    {
+      "title": "LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked",
+      "arxiv_id": "2308.07308",
+      "doi": "10.48550/arXiv.2308.07308",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment",
+      "arxiv_id": "2308.05374",
+      "doi": "10.48550/arXiv.2308.05374",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "\"Do Anything Now\": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models",
+      "arxiv_id": "2308.03825",
+      "doi": "10.1145/3658644.3670388",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection",
+      "arxiv_id": "2307.16888",
+      "doi": "10.18653/v1/2024.naacl-long.337",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+      "arxiv_id": "2307.15043",
+      "doi": null,
+      "publicationDate": "2023-07-27",
+      "year": 2023
+    },
+    {
+      "title": "BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset",
+      "arxiv_id": "2307.04657",
+      "doi": "10.48550/arXiv.2307.04657",
+      "publicationDate": "2023-07-10",
+      "year": 2023
+    },
+    {
+      "title": "Jailbroken: How Does LLM Safety Training Fail?",
+      "arxiv_id": "2307.02483",
+      "doi": "10.48550/arXiv.2307.02483",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Preference Ranking Optimization for Human Alignment",
+      "arxiv_id": "2306.17492",
+      "doi": "10.48550/arXiv.2306.17492",
+      "publicationDate": "2023-06-30",
+      "year": 2023
+    },
+    {
+      "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+      "arxiv_id": "2306.11698",
+      "doi": "10.48550/arXiv.2306.11698",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation",
+      "arxiv_id": "2306.11222",
+      "doi": "10.48550/arXiv.2306.11222",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+      "arxiv_id": "2306.05685",
+      "doi": "10.52202/075280-2020",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "Orca: Progressive Learning from Complex Explanation Traces of GPT-4",
+      "arxiv_id": "2306.02707",
+      "doi": "10.48550/arXiv.2306.02707",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+      "arxiv_id": "2305.18290",
+      "doi": "10.52202/075280-2338",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "arxiv_id": "2305.14314",
+      "doi": "10.48550/arXiv.2305.14314",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "A survey of safety and trustworthiness of large language models through the lens of verification and validation",
+      "arxiv_id": "2305.11391",
+      "doi": "10.1007/s10462-024-10824-0",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape",
+      "arxiv_id": "2305.11584",
+      "doi": "10.48550/arXiv.2305.11584",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning",
+      "arxiv_id": "2305.11759",
+      "doi": "10.48550/arXiv.2305.11759",
+      "publicationDate": "2023-05-19",
+      "year": 2023
+    },
+    {
+      "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
+      "arxiv_id": "2304.06767",
+      "doi": "10.48550/arXiv.2304.06767",
+      "publicationDate": "2023-04-13",
+      "year": 2023
+    },
+    {
+      "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+      "arxiv_id": "2304.05302",
+      "doi": "10.48550/arXiv.2304.05302",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection",
+      "arxiv_id": "2303.18138",
+      "doi": "10.1145/3543507.3583345",
+      "publicationDate": "2023-03-29",
+      "year": 2023
+    },
+    {
+      "title": "ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge",
+      "arxiv_id": "2303.14070",
+      "doi": "10.7759/cureus.40895",
+      "publicationDate": "2023-03-24",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "FedSpeed: Larger Local Interval, Less Communication Round, and Higher Generalization Accuracy",
+      "arxiv_id": "2302.10429",
+      "doi": "10.48550/arXiv.2302.10429",
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "Fusion of Global and Local Knowledge for Personalized Federated Learning",
+      "arxiv_id": "2302.11051",
+      "doi": "10.48550/arXiv.2302.11051",
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT",
+      "arxiv_id": "2304.12298",
+      "doi": "10.48550/arXiv.2304.12298",
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "Bag of Tricks for Training Data Extraction from Language Models",
+      "arxiv_id": "2302.04460",
+      "doi": "10.48550/arXiv.2302.04460",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "Chain of Hindsight Aligns Language Models with Feedback",
+      "arxiv_id": "2302.02676",
+      "doi": "10.48550/arXiv.2302.02676",
+      "publicationDate": "2023-02-06",
+      "year": 2023
+    },
+    {
+      "title": "Regulating ChatGPT and other Large Generative AI Models",
+      "arxiv_id": "2302.02337",
+      "doi": "10.1145/3593013.3594067",
+      "publicationDate": "2023-02-05",
+      "year": 2023
+    },
+    {
+      "title": "Adaptive Deep Neural Network Inference Optimization with EENet",
+      "arxiv_id": "2301.07099",
+      "doi": "10.1109/WACV57701.2024.00140",
+      "publicationDate": "2023-01-15",
+      "year": 2023
+    },
+    {
+      "title": "How to Backdoor Diffusion Models?",
+      "arxiv_id": "2212.05400",
+      "doi": "10.1109/CVPR52729.2023.00391",
+      "publicationDate": "2022-12-11",
+      "year": 2022
+    },
+    {
+      "title": "Self-Destructing Models: Increasing the Costs of Harmful Dual Uses of Foundation Models",
+      "arxiv_id": "2211.14946",
+      "doi": "10.1145/3600211.3604690",
+      "publicationDate": "2022-11-27",
+      "year": 2022
+    },
+    {
+      "title": "Measuring Forgetting of Memorized Training Examples",
+      "arxiv_id": "2207.00099",
+      "doi": "10.48550/arXiv.2207.00099",
+      "publicationDate": "2022-06-30",
+      "year": 2022
+    },
+    {
+      "title": "OPT: Open Pre-trained Transformer Language Models",
+      "arxiv_id": "2205.01068",
+      "doi": null,
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+      "arxiv_id": "2204.05862",
+      "doi": "10.48550/arXiv.2204.05862",
+      "publicationDate": "2022-04-12",
+      "year": 2022
+    },
+    {
+      "title": "SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning",
+      "arxiv_id": "2204.00734",
+      "doi": "10.48550/arXiv.2204.00734",
+      "publicationDate": "2022-04-02",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Deduplicating Training Data Mitigates Privacy Risks in Language Models",
+      "arxiv_id": "2202.06539",
+      "doi": null,
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "What Does it Mean for a Language Model to Preserve Privacy?",
+      "arxiv_id": "2202.05520",
+      "doi": "10.1145/3531146.3534642",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+      "arxiv_id": "2201.11903",
+      "doi": "10.52202/068431-1800",
+      "publicationDate": "2022-01-28",
+      "year": 2022
+    },
+    {
+      "title": "Achieving Personalized Federated Learning with Sparse Local Models",
+      "arxiv_id": "2201.11380",
+      "doi": null,
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "Counterfactual Memorization in Neural Language Models",
+      "arxiv_id": "2112.12938",
+      "doi": "10.52202/075280-1708",
+      "publicationDate": "2021-12-24",
+      "year": 2021
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+      "arxiv_id": "2109.07958",
+      "doi": "10.18653/v1/2022.acl-long.229",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "RobustFed: A Truth Inference Approach for Robust Federated Learning",
+      "arxiv_id": "2107.08402",
+      "doi": "10.1145/3511808.3557439",
+      "publicationDate": "2021-07-18",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?",
+      "arxiv_id": "2104.07762",
+      "doi": "10.18653/V1/2021.NAACL-MAIN.73",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "Extracting Training Data from Large Language Models",
+      "arxiv_id": "2012.07805",
+      "doi": null,
+      "publicationDate": "2020-12-14",
+      "year": 2020
+    },
+    {
+      "title": "Measuring Massive Multitask Language Understanding",
+      "arxiv_id": "2009.03300",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "Data Poisoning Attacks Against Federated Learning Systems",
+      "arxiv_id": "2007.08432",
+      "doi": "10.1007/978-3-030-58951-6_24",
+      "publicationDate": "2020-07-16",
+      "year": 2020
+    },
+    {
+      "title": "Attack of the Tails: Yes, You Really Can Backdoor Federated Learning",
+      "arxiv_id": "2007.05084",
+      "doi": null,
+      "publicationDate": "2020-07-09",
+      "year": 2020
+    },
+    {
+      "title": "SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization",
+      "arxiv_id": "1911.12237",
+      "doi": "10.18653/v1/D19-5409",
+      "publicationDate": "2019-11-27",
+      "year": 2019
+    },
+    {
+      "title": "Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification",
+      "arxiv_id": "1909.06335",
+      "doi": null,
+      "publicationDate": "2019-09-13",
+      "year": 2019
+    },
+    {
+      "title": "Federated Learning: Challenges, Methods, and Future Directions",
+      "arxiv_id": "1908.07873",
+      "doi": "10.1109/MSP.2020.2975749",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "Spectral Signatures in Backdoor Attacks",
+      "arxiv_id": "1811.00636",
+      "doi": null,
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "How To Backdoor Federated Learning",
+      "arxiv_id": "1807.00459",
+      "doi": null,
+      "publicationDate": "2018-07-02",
+      "year": 2018
+    },
+    {
+      "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+      "arxiv_id": "1804.07461",
+      "doi": "10.18653/v1/W18-5446",
+      "publicationDate": "2018-04-20",
+      "year": 2018
+    },
+    {
+      "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+      "arxiv_id": "1803.05457",
+      "doi": null,
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+      "arxiv_id": "1803.03635",
+      "doi": null,
+      "publicationDate": "2018-03-09",
+      "year": 2018
+    },
+    {
+      "title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+      "arxiv_id": "1708.06733",
+      "doi": null,
+      "publicationDate": "2017-08-22",
+      "year": 2017
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "arxiv_id": "1707.06347",
+      "doi": null,
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "Certified Defenses for Data Poisoning Attacks",
+      "arxiv_id": "1706.03691",
+      "doi": null,
+      "publicationDate": "2017-06-09",
+      "year": 2017
+    },
+    {
+      "title": "Character-level Convolutional Networks for Text Classification",
+      "arxiv_id": "1509.01626",
+      "doi": null,
+      "publicationDate": "2015-09-04",
+      "year": 2015
+    },
+    {
+      "title": "Policy Shaping: Integrating Human Feedback with Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d13-1170",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "Security-Constrained Fine-tuning: Preventing Knowledge Restoration in Unlearned Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "LearningtoStaySafe:AdaptiveRegularizationAgainstSafetyDegradationduringFine-Tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "2024. Ai safety in generative ai large language models: A survey. arXiv preprint arXiv:2407.18369 (2024)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Tongue-Tied: Breaking LLMs Safety Through New Language Learning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.calcs-1.5",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Safety Misalignment Against Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.14722/ndss.2025.241089",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "On Weaponization-Resistant Large Language Models with Prospect Theoretic Alignment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": ". Emergent misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DefendingMoELLMsagainstHarmfulFine-TuningviaSafetyRoutingAlignment",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Finetuning-activated backdoors in LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "SafeCOMM:Whataboutsafetyalignmentinfine-tunedtelecomlargelanguagemodels",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2405.18641",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks on Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2408.12798",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.14968",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "On the Vulnerability of Safety Alignment in Open-Access LLMs",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.findings-acl.549",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-3658",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Safety Layers of Aligned Large Language Models: The Key to LLM Security",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2408.17003",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Comprehensive Assessment of Jailbreak Attacks Against LLMs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.05668",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Introducing meta",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.02373",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0478",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.09433",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Training Socially Aligned Language Models in Simulated Human Society",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2305.16960",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multitask Learning Strengthens Adversarial Robustness",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "and user",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Safety-alignment preserved low-rank adaptation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Your task may vary: A systematic understanding of alignment and safety degradation when fine-tuning LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Mimicking user data: On mitigating fine-tuning risks in closed large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Exploiting novel gpt-4 apis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Active data pattern extraction attacks on generative language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hashimoto",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 20 December 2024; revised 25 January 2026; accepted 26 March 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Fine-grained safety neurons with training-free continual projection to reduce LLM fine tuning risks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. Guardian-as-an-advisor: Advancing next-generation guardian models for trustworthy LLMs. arXiv preprint arXiv:2604.07655 (2026)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Defending against reverse preference attacks is difficult",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Refusal-feature-guided teacher for safe finetuning via data filtering and alignment distillation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Self-destructive language model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Badchain: Backdoor chain-of-thought prompting for large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Unleashing the unseen: Harnessing benign datasets for jailbreaking large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Selfee: Iterative self-revising llm empowered by self-feedback generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Recent advances in attack and defense approaches of large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. PEFT-as-an-attack! jailbreaking language models during federated parameter-efficient fine-tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Attacker capability",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. The VLLM safety paradox: Dual ease in jailbreak attack and defense",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "inform authors for missing papers on relevant topics. We will update and will also update the pre-print version of the paper to include new xx 2026 Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Safety alignment shouldn’t be complicated",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Representation noising effectively prevents harmful fine-tuning on LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. AlpacaEval: An Automatic Evaluator of Instruction-following Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Alleviating the fear of losing alignment in LLM fine-tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards secure tuning: Mitigating security risks arising from benign instruction fine-tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Gradient surgery for safe llm fine-tuning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Jailbreakzoo: Survey, landscapes, and horizons in jailbreaking large language and vision-language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Hˆ 3 Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

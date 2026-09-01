@@ -1,0 +1,119 @@
+{
+  "candidate": {
+    "topic": "A Survey on Tabular Data",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3807777",
+      "title": "A Survey on Tabular Data: From Tree-based Methods to Tabular Deep Learning",
+      "published": "2026-04-08"
+    },
+    "notes": "2차 모집 (D4-B: arXiv-heavy 하위 분야). 출처: CSUR 2026"
+  },
+  "extracted_at": "2026-09-01T02:24:14+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 12,
+    "arxiv_resolvable": 4,
+    "doi_only": 8,
+    "unresolved": 0
+  },
+  "gt_s2": {
+    "paperId": "e000041f8449b33a1427e16988e1030602ae6a51",
+    "externalIds": {
+      "DOI": "10.1145/3807777",
+      "CorpusId": 287210224
+    },
+    "title": "A Survey on Tabular Data: From Tree-based Methods to Tabular Deep Learning",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 12,
+    "publicationDate": "2026-04-08"
+  },
+  "refs": [
+    {
+      "title": "Accurate predictions on small data with a tabular foundation model",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-024-08328-6",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Calibrating TabTransformer for financial misstatement detection",
+      "arxiv_id": null,
+      "doi": "10.1007/s10489-024-05861-9",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "TabTranSELU: A transformer adaptation for solving tabular data",
+      "arxiv_id": null,
+      "doi": "10.54254/2755-2721/51/20241174",
+      "publicationDate": "2024-03-25",
+      "year": 2024
+    },
+    {
+      "title": "A survey on self-supervised learning for non-sequential tabular data",
+      "arxiv_id": "2402.01204",
+      "doi": "10.1007/s10994-024-06674-0",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "Attention versus contrastive learning of tabular data: a data-centric benchmarking",
+      "arxiv_id": "2401.04266",
+      "doi": "10.1007/s41060-024-00681-z",
+      "publicationDate": "2024-01-08",
+      "year": 2024
+    },
+    {
+      "title": "A methods guideline for deep learning for tabular data in agriculture with a case study to forecast cereal yield",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.3992984",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Deep learning in insurance: Accuracy and model interpretability using TabNet",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2023.119543",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "arxiv_id": null,
+      "doi": "10.1186/s40537-021-00444-8",
+      "publicationDate": "2021-03-31",
+      "year": 2021
+    },
+    {
+      "title": "A New Video-Based Crash Detection Method: Balancing Speed and Accuracy Using a Feature Fusion Deep Learning Framework",
+      "arxiv_id": null,
+      "doi": "10.1155/2020/8848874",
+      "publicationDate": "2020-11-12",
+      "year": 2020
+    },
+    {
+      "title": "TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data",
+      "arxiv_id": "2005.08314",
+      "doi": "10.18653/v1/2020.acl-main.745",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "From Local Explanations to Global Understanding with Explainable AI for Trees",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-019-0138-9",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Optimization of Tree Ensembles",
+      "arxiv_id": "1705.10883",
+      "doi": "10.1287/opre.2019.1928",
+      "publicationDate": "2017-05-30",
+      "year": 2017
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "candidate": {
+    "topic": "High Availability Ultra-Large Cloud-Oriented Storage Systems",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3831665",
+      "title": "High Availability Ultra-Large Cloud-Oriented Storage Systems: A Review, Mind Mapping and Open Research Directions",
+      "published": "2026-08-27"
+    },
+    "notes": "3차: 정통 OS/분산/스토리지 (사용자 지적 — systems에 AI 과다 반영)"
+  },
+  "extracted_at": "2026-09-01T03:13:53+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 101,
+    "arxiv_resolvable": 3,
+    "doi_only": 75,
+    "unresolved": 23
+  },
+  "gt_s2": {
+    "paperId": "3d57713ee51bbf3724e96b55e5e35691b0abc1ea",
+    "externalIds": {
+      "DOI": "10.1145/3831665",
+      "CorpusId": 290372854
+    },
+    "title": "High Availability Ultra-Large Cloud-Oriented Storage Systems: A Review, Mind Mapping and Open Research Directions",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 101,
+    "publicationDate": "2026-07-21"
+  },
+  "refs": [
+    {
+      "title": "Cloud-Native Databases: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2024.3397508",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "The deployment of FPGA Based on Network in Ultra-large-scale Data Center",
+      "arxiv_id": null,
+      "doi": "10.1145/3501409.3501596",
+      "publicationDate": "2021-10-22",
+      "year": 2021
+    },
+    {
+      "title": "Blockchain Technology for Cloud Storage",
+      "arxiv_id": null,
+      "doi": "10.1145/3403954",
+      "publicationDate": "2020-08-03",
+      "year": 2020
+    },
+    {
+      "title": "Linked Data Visualization: Techniques, Tools, and Big Data",
+      "arxiv_id": null,
+      "doi": "10.2200/s00967ed1v01y201911wbe019",
+      "publicationDate": "2020-03-18",
+      "year": 2020
+    },
+    {
+      "title": "DAIS: dynamic access and integration services framework for cloud-oriented storage systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-020-03088-0",
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "MongoDB - The Definitive Guide: Powerful and Scalable Data Storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-12-09",
+      "year": 2019
+    },
+    {
+      "title": "Possession",
+      "arxiv_id": null,
+      "doi": "10.4135/9781483317731.n573",
+      "publicationDate": "2019-08-15",
+      "year": 2019
+    },
+    {
+      "title": "A survey on data storage and placement methodologies for Cloud-Big Data ecosystem",
+      "arxiv_id": null,
+      "doi": "10.1186/s40537-019-0178-3",
+      "publicationDate": "2019-02-11",
+      "year": 2019
+    },
+    {
+      "title": "Utilization-Based Hybrid Overlay for Live Video Streaming in P2P Network",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-10-8639-7_34",
+      "publicationDate": "2018-11-04",
+      "year": 2018
+    },
+    {
+      "title": "High Availability",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4302-1959-0_9",
+      "publicationDate": "2018-10-03",
+      "year": 2018
+    },
+    {
+      "title": "iProX: an integrated proteome resource",
+      "arxiv_id": null,
+      "doi": "10.1093/nar/gky869",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems -- A Systematic Review",
+      "arxiv_id": null,
+      "doi": "10.1145/3212686",
+      "publicationDate": "2018-07-31",
+      "year": 2018
+    },
+    {
+      "title": "A Security Model for Access Control in Graph-Oriented Databases",
+      "arxiv_id": null,
+      "doi": "10.1109/QRS.2018.00027",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "QAAV: Quality of Service-Aware Adaptive Allocation of Virtual Network Functions in Wireless Network",
+      "arxiv_id": null,
+      "doi": "10.1109/ICC.2018.8422757",
+      "publicationDate": "2018-05-20",
+      "year": 2018
+    },
+    {
+      "title": "Online multi-object tracking: multiple instance based target appearance model",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-018-5781-3",
+      "publicationDate": "2018-03-13",
+      "year": 2018
+    },
+    {
+      "title": "Proactive user-centric secure data scheme using attribute-based semantic access controls for mobile clouds in financial industry",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2016.01.006",
+      "publicationDate": "2018-03-01",
+      "year": 2018
+    },
+    {
+      "title": "Cloud storage reliability for Big Data applications: A state of the art survey",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2017.08.011",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "Big data storage technologies: a survey",
+      "arxiv_id": null,
+      "doi": "10.1631/FITEE.1500441",
+      "publicationDate": "2017-10-31",
+      "year": 2017
+    },
+    {
+      "title": "AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both",
+      "arxiv_id": null,
+      "doi": "10.1136/bmj.j4008",
+      "publicationDate": "2017-09-21",
+      "year": 2017
+    },
+    {
+      "title": "Scribe",
+      "arxiv_id": null,
+      "doi": "10.1145/3068663",
+      "publicationDate": "2017-08-23",
+      "year": 2017
+    },
+    {
+      "title": "Industry 4.0: A survey on technologies, applications and open research issues",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JII.2017.04.005",
+      "publicationDate": "2017-06-01",
+      "year": 2017
+    },
+    {
+      "title": "EH-GC: An Efficient and Secure Architecture of Energy Harvesting Green Cloud Infrastructure",
+      "arxiv_id": null,
+      "doi": "10.3390/SU9040673",
+      "publicationDate": "2017-04-24",
+      "year": 2017
+    },
+    {
+      "title": "A survey of cloud computing data integrity schemes: Design challenges, taxonomy and future trends",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COSE.2016.10.006",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "Comparative Analysis of New Hybrid Approach for Overlay Construction in P2P Live Streaming",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-10-4741-1_22",
+      "publicationDate": "2016-07-29",
+      "year": 2016
+    },
+    {
+      "title": "CIDE: An Integrated Development Environment for Microservices",
+      "arxiv_id": null,
+      "doi": "10.1109/SCC.2016.112",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "Self organising cloud cells: a resource efficient network densification strategy",
+      "arxiv_id": null,
+      "doi": "10.1002/ett.2824",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "A Big Data Modeling Methodology for Apache Cassandra",
+      "arxiv_id": null,
+      "doi": "10.1109/BigDataCongress.2015.41",
+      "publicationDate": "2015-06-27",
+      "year": 2015
+    },
+    {
+      "title": "Performance analysis of data intensive cloud systems based on data management and replication: a survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s10619-015-7173-2",
+      "publicationDate": "2015-03-14",
+      "year": 2015
+    },
+    {
+      "title": "Storage system and data writing method",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-09-11",
+      "year": 2014
+    },
+    {
+      "title": "Adaptive Self-Organization in Distributed Tree Topologies",
+      "arxiv_id": null,
+      "doi": "10.4018/ijdst.2014070102",
+      "publicationDate": "2014-07-01",
+      "year": 2014
+    },
+    {
+      "title": "Optical storage arrays: a perspective for future big data storage",
+      "arxiv_id": null,
+      "doi": "10.1038/lsa.2014.58",
+      "publicationDate": "2014-05-01",
+      "year": 2014
+    },
+    {
+      "title": "A Survey of Cloud Database Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/MITP.2013.1",
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "Proxy Provable Data Possession in Public Clouds",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2012.35",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "A Hybrid Cloud Storage Architecture for Service Operational High Availability",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSACW.2013.94",
+      "publicationDate": "2013-07-22",
+      "year": 2013
+    },
+    {
+      "title": "Probabilistic Consolidation of Virtual Machines in Self-Organizing Cloud Data Centers",
+      "arxiv_id": null,
+      "doi": "10.1109/TCC.2013.17",
+      "publicationDate": "2013-07-01",
+      "year": 2013
+    },
+    {
+      "title": "Proofs of retrievability with public verifiability and constant communication cost in cloud",
+      "arxiv_id": null,
+      "doi": "10.1145/2484402.2484408",
+      "publicationDate": "2013-05-08",
+      "year": 2013
+    },
+    {
+      "title": "Proof of Possession for Cloud Storage via Lagrangian Interpolation Techniques",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-34601-9_23",
+      "publicationDate": "2012-11-21",
+      "year": 2012
+    },
+    {
+      "title": "A Decentralized Approach for Implementing Identity Management in Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/CGC.2012.118",
+      "publicationDate": "2012-11-01",
+      "year": 2012
+    },
+    {
+      "title": "Towards efficient proofs of retrievability",
+      "arxiv_id": null,
+      "doi": "10.1145/2414456.2414503",
+      "publicationDate": "2012-05-02",
+      "year": 2012
+    },
+    {
+      "title": "Efficient audit service outsourcing for data integrity in clouds",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2011.12.024",
+      "publicationDate": "2012-05-01",
+      "year": 2012
+    },
+    {
+      "title": "Hybrid Provable Data Possession at Untrusted Stores in Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICPADS.2011.70",
+      "publicationDate": "2011-12-07",
+      "year": 2011
+    },
+    {
+      "title": "Hadoop-HBase for large-scale data",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCSNT.2011.6182030",
+      "publicationDate": "2011-12-01",
+      "year": 2011
+    },
+    {
+      "title": "PC-Cluster based Storage System Architecture for Cloud Storage",
+      "arxiv_id": "1112.2025",
+      "doi": "10.5121/IJCCSA.2011.1309",
+      "publicationDate": "2011-11-30",
+      "year": 2011
+    },
+    {
+      "title": "Delegable Provable Data Possession for Remote Data in the Clouds",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-25243-3_8",
+      "publicationDate": "2011-11-23",
+      "year": 2011
+    },
+    {
+      "title": "CloudFuice: A Flexible Cloud-Based Data Integration System",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-22233-7_21",
+      "publicationDate": "2011-06-20",
+      "year": 2011
+    },
+    {
+      "title": "Microsoft SQL Azure Enterprise Application Development",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-12-09",
+      "year": 2010
+    },
+    {
+      "title": "SOS Cloud: Self-organizing Services in the Cloud",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-32615-8_7",
+      "publicationDate": "2010-12-01",
+      "year": 2010
+    },
+    {
+      "title": "SOPSys: Self-Organizing Decentralized Peer-to-Peer System Based on Well Balanced Multi-Way Trees",
+      "arxiv_id": null,
+      "doi": "10.1109/3PGCIC.2010.61",
+      "publicationDate": "2010-11-04",
+      "year": 2010
+    },
+    {
+      "title": "Research on Resource Self-Organizing Model for Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ITAPP.2010.5566394",
+      "publicationDate": "2010-09-09",
+      "year": 2010
+    },
+    {
+      "title": "Computational solutions to large-scale data management and analysis",
+      "arxiv_id": null,
+      "doi": "10.1038/nrg2857",
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "Google fusion tables: data management, integration and collaboration in the cloud",
+      "arxiv_id": null,
+      "doi": "10.1145/1807128.1807158",
+      "publicationDate": "2010-06-10",
+      "year": 2010
+    },
+    {
+      "title": "A comparison of join algorithms for log processing in MaPreduce",
+      "arxiv_id": null,
+      "doi": "10.1145/1807167.1807273",
+      "publicationDate": "2010-06-06",
+      "year": 2010
+    },
+    {
+      "title": "Enabling Public Verifiability and Data Dynamics for Storage Security in Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-04444-1_22",
+      "publicationDate": "2009-09-21",
+      "year": 2009
+    },
+    {
+      "title": "Robust remote data checking",
+      "arxiv_id": null,
+      "doi": "10.1145/1456469.1456481",
+      "publicationDate": "2008-10-31",
+      "year": 2008
+    },
+    {
+      "title": "PNUTS: Yahoo!'s hosted data serving platform",
+      "arxiv_id": null,
+      "doi": "10.14778/1454159.1454167",
+      "publicationDate": "2008-08-01",
+      "year": 2008
+    },
+    {
+      "title": "MR-PDP: Multiple-Replica Provable Data Possession",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDCS.2008.68",
+      "publicationDate": "2008-06-17",
+      "year": 2008
+    },
+    {
+      "title": "Safari: A self-organizing, hierarchical architecture for scalable ad hoc networking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.adhoc.2007.04.007",
+      "publicationDate": "2008-06-01",
+      "year": 2008
+    },
+    {
+      "title": "Middleware-based database replication: the gaps between theory and practice",
+      "arxiv_id": "0712.2773",
+      "doi": "10.1145/1376616.1376691",
+      "publicationDate": "2007-12-17",
+      "year": 2007
+    },
+    {
+      "title": "Provable data possession at untrusted stores",
+      "arxiv_id": null,
+      "doi": "10.1145/1315245.1315318",
+      "publicationDate": "2007-10-28",
+      "year": 2007
+    },
+    {
+      "title": "Dynamo: amazon's highly available key-value store",
+      "arxiv_id": null,
+      "doi": "10.1145/1294261.1294281",
+      "publicationDate": "2007-10-14",
+      "year": 2007
+    },
+    {
+      "title": "Bigtable: a distributed storage system for structured data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2006-11-06",
+      "year": 2006
+    },
+    {
+      "title": "Hybrid quantum processors: molecular ensembles as quantum memory for solid state circuits.",
+      "arxiv_id": "quant-ph/0604140",
+      "doi": "10.1103/PhysRevLett.97.033003",
+      "publicationDate": "2006-04-19",
+      "year": 2006
+    },
+    {
+      "title": "Making snapshot isolation serializable",
+      "arxiv_id": null,
+      "doi": "10.1145/1071610.1071615",
+      "publicationDate": "2005-06-01",
+      "year": 2005
+    },
+    {
+      "title": "XML Data Stores: Emerging Practices",
+      "arxiv_id": null,
+      "doi": "10.1109/MIC.2005.48",
+      "publicationDate": "2005-03-01",
+      "year": 2005
+    },
+    {
+      "title": "A survey of peer-to-peer content distribution technologies",
+      "arxiv_id": null,
+      "doi": "10.1145/1041680.1041681",
+      "publicationDate": "2004-12-01",
+      "year": 2004
+    },
+    {
+      "title": "Evaluation of a Group Communication Middleware for Clustered J2EE Application Servers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-30469-2_46",
+      "publicationDate": "2004-10-25",
+      "year": 2004
+    },
+    {
+      "title": "Object-based storage",
+      "arxiv_id": null,
+      "doi": "10.1109/MCOM.2003.1222722",
+      "publicationDate": "2003-08-01",
+      "year": 2003
+    },
+    {
+      "title": "S-TREE: self-organizing trees for data clustering and online vector quantization",
+      "arxiv_id": null,
+      "doi": "10.1016/S0893-6080(01)00020-X",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Network attached storage architecture",
+      "arxiv_id": null,
+      "doi": "10.1145/353360.353362",
+      "publicationDate": "2000-11-01",
+      "year": 2000
+    },
+    {
+      "title": "Generalized isolation level definitions",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2000.839388",
+      "publicationDate": "2000-02-29",
+      "year": 2000
+    },
+    {
+      "title": "Scalable Consistency Protocols for Distributed Services",
+      "arxiv_id": null,
+      "doi": "10.1109/71.798314",
+      "publicationDate": "1999-09-01",
+      "year": 1999
+    },
+    {
+      "title": "Towards transparent and efficient software distributed shared memory",
+      "arxiv_id": null,
+      "doi": "10.1145/268998.266673",
+      "publicationDate": "1997-10-01",
+      "year": 1997
+    },
+    {
+      "title": "Sequential consistency versus linearizability",
+      "arxiv_id": null,
+      "doi": "10.1145/176575.176576",
+      "publicationDate": "1994-05-01",
+      "year": 1994
+    },
+    {
+      "title": "Cache coherence in large-scale shared-memory multiprocessors: issues and comparisons",
+      "arxiv_id": null,
+      "doi": "10.1145/158439.158907",
+      "publicationDate": "1993-09-01",
+      "year": 1993
+    },
+    {
+      "title": "Implementing fault-tolerant services using the state machine approach: a tutorial",
+      "arxiv_id": null,
+      "doi": "10.1145/98163.98167",
+      "publicationDate": "1990-11-01",
+      "year": 1990
+    },
+    {
+      "title": "Dynamo",
+      "arxiv_id": null,
+      "doi": "10.1177/003754978003400407",
+      "publicationDate": "1980-04-01",
+      "year": 1980
+    },
+    {
+      "title": "Trees",
+      "arxiv_id": null,
+      "doi": "10.1177/002205749604300912",
+      "publicationDate": "1896-02-01",
+      "year": 1896
+    },
+    {
+      "title": "A comparison of NoSQL database management systems and models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Adjacency Cloud-Oriented Storage Overlay Topology Using Self-organizing M-Way Tree",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-15-0324-5_40",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "on eventually consistent infrastructure given no guarantee of safety? Queue",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "STORAGE DEVICE AND METHOD THEREOF FOR INTEGRATING NETWORK ATTACHED STORAGE WITH CLOUD STORAGE SERVICES",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Data storage management in cloud environments: Taxonomy, survey, and future directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "and industry insight",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Xeround cloud database for MySQL applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Knox: Privacy-preserving auditing for shared data with large groups in v i",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Project voldemort: Reliable distributed storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "MapReduce: a flexible data processing tool",
+      "arxiv_id": null,
+      "doi": "10.1145/1629175.1629198",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "A History of the Virtual Synchrony Replication Model",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-11294-2_6",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "SaaS and Integration Best Practices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Storage Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-39940-9_3698",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Servo Controller Method and Apparatus for High Tracks per Inch Hard Disk Drives using a Delay Accomodating State Estimator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Algorithms for Self-Organization and Adaptive Service Placement in Dynamic Distributed Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": "Enterprise Information Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-94-015-9518-6",
+      "publicationDate": null,
+      "year": 2000
+    },
+    {
+      "title": "2022. Review of interoperability issues influencing acceptance and adoption of cloud computing technology by consumers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1994
+    },
+    {
+      "title": "iv) Load balancing enables the organisation to manage workload demands or application needs by distributing resources on different networks or servers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "v) Fault-tolerance provides the continuity of service after the failure of one system or any part of a system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "i) Horizontal scaling—It connects multiple clouds to integrate and creates single logical cloud. A cloud with a computational affinity might be accessed data from heterogeneous platform",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "vi) Flexibility increases the level of customization and change as needed at any time",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "(cid:51) content-based, data staging and abstraction level . Explanation of data consistency mapping brunches like consistency level, consistency model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "optimizing data transfer speed and efficiency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "vii) High data confidentiality refers to protecting information from being accessed by unau-thorised users",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}
