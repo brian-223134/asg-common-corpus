@@ -261,9 +261,48 @@ agent run  →  export manifest  →  view_manifest  →  corpus manifest  →  
 - **D2 - temporal**: 위 §3의 해상 규칙 + strict month cutoff
 - **D3 - agent 연결**: 어댑터 계층 없이 **agent 원 DB 포맷을 직접 생성**, agent는 입력 경로만 교체.
   임베딩 모델은 agent별 통제 변수로 유지(공통화하지 않음)
+- **D4 - 저-arXiv 후보**: corpus는 불변, 문제는 **topic 선정층에서** 해결. broader-CS(19.6M편) 전환은
+  full-text agent가 비-arXiv 논문을 처리할 수 없어 agent 간 조건 비대칭이 생기므로 보류
+- **D5/D6/D9 - 도메인**: arXiv-활성 하위영역 기준으로 재정의 → 최종 **ai · db · security · systems · network**.
+  algorithm·se는 후보 부족으로 보류(데이터 보존)
+- **D7 - 평가 기준**: "커버리지 최대화"가 아니라 **easy case 회피**. 후보 풀 대비 정답 비율
+  0.07~0.76%로 검색 난이도를 확인했고, GT 인용문헌의 corpus 수동 추가는 하지 않는다
+  (비-arXiv 논문이 corpus에 0편이라 추가 시 "arXiv에 없음 = 정답"이 성립)
+- **D8 - full text**: corpus는 메타데이터만 보유. 비-arXiv 인용문헌 5,692편 중 PDF 확보 가능 25%,
+  cc-by 635편 — 라이선스보다 **수집 채널의 부재**가 1차 제약
 - **dedup**: 같은 arXiv 논문의 복수 OpenAlex work(6.6%)는 citation 최다 기준 결정적으로 1건 채택
 
-## 6. 사용법
+## 6. 벤치마크 인스턴스 `bench-2512`
+
+4개 agent를 비교할 **평가 세트**다. topic을 먼저 정하지 않고, cutoff 이후 publish된 human survey를
+먼저 찾아 그 reference가 corpus에서 재현 가능한지 자동 감사로 판정한 뒤 주제를 역산했다.
+
+```
+후보 105편 등록 (Crossref 15개 저널 2026년분 + OpenAlex API + arXiv)
+   │  자동 게이트: post-cutoff < 15% ∧ eligible coverage >= 50% ∧ eligible >= 60편
+   ▼
+○ 33편 → 도메인당 5편 선정 = 최종 25 topics (5 domains x 5)
+   │
+   ▼
+view bench-2512 : 947,716 → cutoff 947,464 → GT 쌍둥이 제외 947,451편
+```
+
+| 산출물 | 내용 |
+|---|---|
+| `candidates/GT-SURVEYS.md` | 최종 25편의 **topic(agent 입력 문자열)** · GT 제목 · venue · 링크 · recall ceiling |
+| `candidates/SELECTION.md` | 선정 근거, 도메인별 수치, 난이도 공변량, 보류 도메인 재개 조건 |
+| `candidates/gt_exclude.txt` | view 제외 15 id (GT 본체 2 + preprint 쌍둥이 13) |
+| `candidates/<domain>/<slug>/` | 후보 1건 = `candidate.yaml` + `refs.json`(GT 인용문헌, 채점 분모) |
+| `data/audit/candidates_report.json` | 105편 전수 감사 원본 |
+
+도메인별 통과 현황(감사/○): ai 8/8 · db 22/7 · security 11/5 · systems 22/5 · network 22/3 ·
+algorithm 8/3(보류) · se 12/2(보류).
+
+**topic별 recall ceiling(25~89%)을 결과표에 반드시 병기할 것** — GT 인용문헌 중 corpus에
+존재하는 비율이 agent 점수의 상한이다. 탈락 후보의 refs.json과 감사 결과는 삭제하지 않는다
+(탈락 사유가 벤치마크 문서의 근거).
+
+## 7. 사용법
 
 환경: conda env `asg-corpus` (python 3.11 + duckdb/pyarrow/pydantic/typer/huggingface_hub), `pip install -e .`
 
@@ -273,17 +312,29 @@ PY=/data2/chanjoong/miniforge3/envs/asg-corpus/bin/python
 $PY -m common_corpus.cli doctor                 # 원격 연결·미러 상태 점검
 scripts/run_detached.sh mirror                  # L0: 선택적 미러 (1회, SSH 끊겨도 진행, logs/)
 scripts/run_detached.sh build --config config/corpus.yaml   # L1: corpus 빌드
-$PY -m common_corpus.cli create-view --name exp1 \
-    --cutoff 2025-12-31 --exclude-file gt_ids.txt           # L2: benchmark view
-$PY -m common_corpus.cli export-agent-db --view exp1 --format autosurvey  # L3
+$PY -m common_corpus.cli create-view --name bench-2512 \
+    --cutoff 2025-12-31 --exclude-file candidates/gt_exclude.txt          # L2: benchmark view
+$PY -m common_corpus.cli export-agent-db --view bench-2512 --format autosurvey   # L3
+$PY -m common_corpus.cli export-agent-db --view bench-2512 --format surveyforge
 $PY -m common_corpus.cli fetch-fulltext --arxiv-id 2312.10997             # full text 동결
 $PY scripts/audit_coverage.py                   # GT reference coverage audit
+$PY scripts/extract_gt_refs.py --candidate candidates/<domain>/<slug>     # 후보 ref 추출
+$PY scripts/audit_candidates.py --cutoff 2025-12-31                       # 후보 전수 감사
 ```
 
-Agent별 연결 절차는 `docs/autosurvey-usage.md`(경로·명령 포함), 이식 일반론과 함정은
-`docs/integration-guide.md` 참조 (docs/는 로컬 전용).
+**Agent별 연결 절차** (네 문서 모두 `bench-2512` 기준):
 
-## 7. 저장소 구조
+| Agent | 문서 | 교체 지점 |
+|---|---|---|
+| AutoSurvey | `docs/autosurvey-usage.md` | `--db_path` (코드 0줄) |
+| SurveyForge | `docs/surveyforge-usage.md` | DB 디렉터리 + ⚠ `SURVEYFORGE_SURVEY_EXCLUDE_IDS`(Outline DB는 view 밖) |
+| SurveyX | `docs/surveyx-usage.md` | `.env`의 `COMMON_CORPUS_VIEW` (parquet 직접 조회) |
+| LLM×MapReduce-V2 | `docs/llmxmapreduce-v2-usage.md` | 입력 JSONL 2-stage 빌드 |
+
+이식 일반론과 함정은 `docs/integration-guide.md`.
+`docs/`는 로컬 전용이지만 위 `*-usage.md` 4종은 저장소에 추적된다.
+
+## 8. 저장소 구조
 
 ```
 ├── config/          upstream.yaml(revision pin·미러 목록) · corpus.yaml(선택 정책) · benchmark_policy.yaml
@@ -296,12 +347,14 @@ Agent별 연결 절차는 `docs/autosurvey-usage.md`(경로·명령 포함), 이
 │   ├── fulltext/            resolver · parser(latex-v1) · providers
 │   ├── integrations/        export-agent-db (agent DB 포맷 생성)
 │   └── cli.py               doctor · mirror · build · create-view · export-agent-db · fetch-fulltext
-├── scripts/         run_detached.sh · audit_coverage.py
+├── candidates/      벤치마크 GT 후보 등록소 — <domain>/<slug>/{candidate.yaml, refs.json}
+│                    SELECTION.md(최종 선정표) · GT-SURVEYS.md(topic·링크) · gt_exclude.txt
+├── scripts/         run_detached.sh · audit_coverage.py · extract_gt_refs.py · audit_candidates.py
 ├── tests/           14 tests (정규화·view·fulltext·재현성)
 └── data/            (미추적) upstream/ · corpus/ · views/ · exports/ · fulltext_cache/ · audit/
 ```
 
-## 8. 참고
+## 9. 참고
 
 - Science Data Lake: 논문 [arXiv:2603.03126](https://arxiv.org/abs/2603.03126) · [GitHub](https://github.com/J0nasW/science-datalake) · [HF dataset](https://huggingface.co/datasets/J0nasW/science-datalake) (본 저장소 pin: `cd87dd095f86aa7306aef70024e250f4839b1f71`)
 - OpenAlex 데이터는 CC0 1.0. full-text cache는 소스별 라이선스가 달라 metadata corpus와 배포 단위를 분리한다.
