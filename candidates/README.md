@@ -116,6 +116,7 @@ Crossref fallback은 arXiv id 식별률이 낮아(~50%) 수치가 하한임 — 
 - 탈락 후보도 refs.json과 감사 결과를 **삭제하지 않고 보존**한다 (탈락 사유가 곧 벤치마크 문서의 근거).
 - 감사 결과: `data/audit/candidates_report.json` (실행마다 갱신).
 - 최종 선정표는 `SELECTION.md`로 고정됨 (2026-09-02 확정, D9). view 제외 목록은 `gt_exclude.txt`.
+- 선정 25편의 topic·GT 제목·링크는 `GT-SURVEYS.md` (agent 실행 시 입력 문자열의 정본).
 
 ## 7. 모집 차수 이력과 전수 감사 결과 (2026-09-02, 최종 105편)
 

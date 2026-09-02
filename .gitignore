@@ -225,6 +225,9 @@ papers/
 # asg-common-corpus: large or local-only
 data/
 logs/
-docs/
+# docs/는 로컬 전용(결정 로그·HANDOFF·설계 노트)이나,
+# agent 운용 절차서 *-usage.md는 다른 사람이 써야 하므로 추적한다.
+docs/*
+!docs/*-usage.md
 
 common-corpus-v1-development-spec.md
