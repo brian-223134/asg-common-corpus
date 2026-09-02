@@ -1,0 +1,8 @@
+topic: Diffusion Models for Time Series and Spatio-Temporal Data
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1145/3783986
+  title: A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
+  published: '2026-02-04'
+notes: 8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=256

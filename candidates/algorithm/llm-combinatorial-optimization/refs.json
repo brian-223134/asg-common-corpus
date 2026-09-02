@@ -1,0 +1,513 @@
+{
+  "candidate": {
+    "topic": "Large Language Models for Combinatorial Optimization",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3801961",
+      "title": "Large Language Models for Combinatorial Optimization: A Systematic Review",
+      "published": "2026-04-21"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=255"
+  },
+  "extracted_at": "2026-09-02T02:30:20+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 68,
+    "arxiv_resolvable": 20,
+    "doi_only": 48,
+    "unresolved": 0
+  },
+  "gt_s2": {
+    "paperId": "11fe6a2370b53cf57abda8cee35f4067049223e9",
+    "externalIds": {
+      "ArXiv": "2507.03637",
+      "DBLP": "journals/corr/abs-2507-03637",
+      "DOI": "10.1145/3801961",
+      "CorpusId": 280150713
+    },
+    "title": "Large Language Models for Combinatorial Optimization: A Systematic Review",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 68,
+    "publicationDate": "2025-07-04"
+  },
+  "refs": [
+    {
+      "title": "Integrating Large Language Models and Optimization in Semi- Structured Decision Making: Methodology and a Case Study",
+      "arxiv_id": null,
+      "doi": "10.3390/a17120582",
+      "publicationDate": "2024-12-16",
+      "year": 2024
+    },
+    {
+      "title": "A survey on deep learning-based algorithms for the traveling salesman problem",
+      "arxiv_id": null,
+      "doi": "10.1007/s11704-024-40490-y",
+      "publicationDate": "2024-12-12",
+      "year": 2024
+    },
+    {
+      "title": "Integrating genetic algorithms and language models for enhanced enzyme design",
+      "arxiv_id": null,
+      "doi": "10.1093/bib/bbae675",
+      "publicationDate": "2024-11-22",
+      "year": 2024
+    },
+    {
+      "title": "Large language models design sequence-defined macromolecules via evolutionary optimization",
+      "arxiv_id": null,
+      "doi": "10.1038/s41524-024-01449-6",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "Optimization modeling and verification from problem specifications using a multi-agent multi-stage LLM framework",
+      "arxiv_id": null,
+      "doi": "10.1080/03155986.2024.2381306",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges",
+      "arxiv_id": "2407.00092",
+      "doi": "10.48550/arXiv.2407.00092",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "Curriculum-based university course timetabling considering individual course of studies",
+      "arxiv_id": null,
+      "doi": "10.1007/s10100-024-00923-2",
+      "publicationDate": "2024-06-21",
+      "year": 2024
+    },
+    {
+      "title": "Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models - A Case in Optimizing Intermodal Freight Transportation",
+      "arxiv_id": "2405.19255",
+      "doi": "10.3390/smartcities7050094",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "When Large Language Model Meets Optimization",
+      "arxiv_id": "2405.10098",
+      "doi": "10.48550/arXiv.2405.10098",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "Cognitive Biases in Fact-Checking and Their Countermeasures: A Review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2024.103672",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Accuracy and Repeatability of ChatGPT Based on a Set of Multiple-Choice Questions on Objective Tests of Hearing",
+      "arxiv_id": null,
+      "doi": "10.7759/cureus.59857",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "Data-Driven Portfolio Management for Motion Pictures Industry: A New Data-Driven Optimization Methodology Using a Large Language Model as the Expert",
+      "arxiv_id": "2404.07434",
+      "doi": "10.2139/ssrn.4790637",
+      "publicationDate": "2024-04-11",
+      "year": 2024
+    },
+    {
+      "title": "Fifty years of metaheuristics",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ejor.2024.04.004",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "LM4OPT: Unveiling the potential of Large Language Models in formulating mathematical optimization problems",
+      "arxiv_id": "2403.01342",
+      "doi": "10.1080/03155986.2024.2388452",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "ChatGPT performance in prosthodontics: Assessment of accuracy and repeatability in answer generation.",
+      "arxiv_id": null,
+      "doi": "10.1016/j.prosdent.2024.01.018",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Open-ti: open traffic intelligence with augmented language model",
+      "arxiv_id": "2401.00211",
+      "doi": "10.1007/s13042-024-02190-8",
+      "publicationDate": "2023-12-30",
+      "year": 2023
+    },
+    {
+      "title": "Optimized Financial Planning: Integrating Individual and Cooperative Budgeting Models with LLM Recommendations",
+      "arxiv_id": null,
+      "doi": "10.3390/ai5010006",
+      "publicationDate": "2023-12-25",
+      "year": 2023
+    },
+    {
+      "title": "Mathematical discoveries from program search with large language models",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-023-06924-6",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "“I Want It That Way”: Enabling Interactive Decision Support Using Large Language Models and Constraint Programming",
+      "arxiv_id": "2312.06908",
+      "doi": "10.1145/3685053",
+      "publicationDate": "2023-12-12",
+      "year": 2023
+    },
+    {
+      "title": "Biased random-key genetic algorithms: A review",
+      "arxiv_id": "2312.00961",
+      "doi": "10.1016/j.ejor.2024.03.030",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Multi-neighborhood simulated annealing for the capacitated facility location problem with customer incompatibilities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cie.2023.109858",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "The exam location problem: Mathematical formulations and variants",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cor.2023.106438",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Can language models be used for real-world urban-delivery route optimization?",
+      "arxiv_id": null,
+      "doi": "10.1016/j.xinn.2023.100520",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Diagnosing infeasible optimization problems using large language models",
+      "arxiv_id": "2308.12923",
+      "doi": "10.1080/03155986.2024.2385189",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "A survey on large language model based autonomous agents",
+      "arxiv_id": "2308.11432",
+      "doi": "10.1007/s11704-024-40231-1",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "ChatGPT-Based Investment Portfolio Selection",
+      "arxiv_id": "2308.06260",
+      "doi": "10.1007/s43069-023-00277-6",
+      "publicationDate": "2023-08-11",
+      "year": 2023
+    },
+    {
+      "title": "A comprehensive survey on the generalized traveling salesman problem",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ejor.2023.07.022",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Exact methods for the Oven Scheduling Problem",
+      "arxiv_id": null,
+      "doi": "10.1007/s10601-023-09347-2",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "GPT Models in Construction Industry: Opportunities, Limitations, and a Use Case Validation",
+      "arxiv_id": "2305.18997",
+      "doi": "10.1016/j.dibe.2023.100300",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Robot-Enabled Construction Assembly with Automated Sequence Planning based on ChatGPT: RoboGPT",
+      "arxiv_id": "2304.11018",
+      "doi": "10.48550/arXiv.2304.11018",
+      "publicationDate": "2023-04-21",
+      "year": 2023
+    },
+    {
+      "title": "MEALPY: An open-source library for latest meta-heuristic algorithms in Python",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2023.102871",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Opt-out, abstain, unplug. A systematic review of the voluntary digital disconnection literature",
+      "arxiv_id": null,
+      "doi": "10.1016/j.tele.2023.101980",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Solving a real-world nurse rostering problem by Simulated Annealing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.orhc.2023.100379",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Scaling Instruction-Finetuned Language Models",
+      "arxiv_id": "2210.11416",
+      "doi": "10.48550/arXiv.2210.11416",
+      "publicationDate": "2022-10-20",
+      "year": 2022
+    },
+    {
+      "title": "Accelerating material design with the generative toolkit for scientific discovery",
+      "arxiv_id": "2207.03928",
+      "doi": "10.1038/s41524-023-01028-1",
+      "publicationDate": "2022-07-08",
+      "year": 2022
+    },
+    {
+      "title": "Hyper-Heuristics for Personnel Scheduling Domains",
+      "arxiv_id": null,
+      "doi": "10.1609/icaps.v32i1.19832",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "A survey of adaptive large neighborhood search algorithms and applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cor.2022.105903",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Exact and meta-heuristic approaches for the production leveling problem",
+      "arxiv_id": null,
+      "doi": "10.1007/s10951-022-00721-1",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Suicide risk and mortality among patients with cancer",
+      "arxiv_id": null,
+      "doi": "10.1038/s41591-022-01745-y",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Training language models to follow instructions with human feedback",
+      "arxiv_id": "2203.02155",
+      "doi": "10.52202/068431-2011",
+      "publicationDate": "2022-03-04",
+      "year": 2022
+    },
+    {
+      "title": "Educational Timetabling: Problems, Benchmarks, and State-of-the-Art Results",
+      "arxiv_id": "2201.07525",
+      "doi": "10.1016/j.ejor.2022.07.011",
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "Exact and metaheuristic approaches for unrelated parallel machine scheduling",
+      "arxiv_id": null,
+      "doi": "10.1007/s10951-021-00714-6",
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "Search trajectory networks: A tool for analysing and visualising the behaviour of metaheuristics",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ASOC.2021.107492",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "On a conjecture for the university timetabling problem",
+      "arxiv_id": null,
+      "doi": "10.1016/J.DAM.2021.04.010",
+      "publicationDate": "2021-08-15",
+      "year": 2021
+    },
+    {
+      "title": "Recommendation Systems for Education: Systematic Review",
+      "arxiv_id": null,
+      "doi": "10.3390/ELECTRONICS10141611",
+      "publicationDate": "2021-07-06",
+      "year": 2021
+    },
+    {
+      "title": "Machine learning at the service of meta-heuristics for solving combinatorial optimization problems: A state-of-the-art",
+      "arxiv_id": null,
+      "doi": "10.1016/J.EJOR.2021.04.032",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Metaheuristics \"In the Large\"",
+      "arxiv_id": "2011.09821",
+      "doi": "10.1016/j.ejor.2021.05.042",
+      "publicationDate": "2020-11-19",
+      "year": 2020
+    },
+    {
+      "title": "Solving the general employee scheduling problem",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cor.2019.104794",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Revisiting simulated annealing: A component-based analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COR.2018.12.015",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Extending the “Open-Closed Principle” to Automated Algorithm Configuration",
+      "arxiv_id": null,
+      "doi": "10.1162/evco_a_00245",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon",
+      "arxiv_id": "1811.06128",
+      "doi": "10.1016/j.ejor.2020.07.063",
+      "publicationDate": "2018-11-15",
+      "year": 2018
+    },
+    {
+      "title": "Hybrid metaheuristics and multi-agent systems for solving optimization problems: A review of frameworks and a comparative analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ASOC.2018.06.050",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "A comparison of results of empirical studies of supplementary search techniques and recommendations in review methodology handbooks: a methodological review",
+      "arxiv_id": null,
+      "doi": "10.1186/s13643-017-0625-1",
+      "publicationDate": "2017-11-28",
+      "year": 2017
+    },
+    {
+      "title": "Research Techniques Made Simple: Assessing Risk of Bias in Systematic Reviews.",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jid.2016.08.021",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "Factors that influence the implementation of e-health: a systematic review of systematic reviews (an update)",
+      "arxiv_id": null,
+      "doi": "10.1186/s13012-016-0510-7",
+      "publicationDate": "2016-10-26",
+      "year": 2016
+    },
+    {
+      "title": "Approximation-Aware Dependency Parsing by Belief Propagation",
+      "arxiv_id": "1508.02375",
+      "doi": "10.1162/tacl_a_00153",
+      "publicationDate": "2015-08-10",
+      "year": 2015
+    },
+    {
+      "title": "Programming by optimization",
+      "arxiv_id": null,
+      "doi": "10.1145/2076450.2076469",
+      "publicationDate": "2012-02-01",
+      "year": 2012
+    },
+    {
+      "title": "Metaheuristic optimization frameworks: a survey and benchmarking",
+      "arxiv_id": null,
+      "doi": "10.1007/s00500-011-0754-8",
+      "publicationDate": "2011-08-28",
+      "year": 2011
+    },
+    {
+      "title": "Pyomo: modeling and solving mathematical programs in Python",
+      "arxiv_id": null,
+      "doi": "10.1007/S12532-011-0026-8",
+      "publicationDate": "2011-08-10",
+      "year": 2011
+    },
+    {
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement",
+      "arxiv_id": null,
+      "doi": "10.1136/bmj.b2535",
+      "publicationDate": "2009-07-21",
+      "year": 2009
+    },
+    {
+      "title": "Metaheuristics in combinatorial optimization: Overview and conceptual comparison",
+      "arxiv_id": null,
+      "doi": "10.1145/937503.937505",
+      "publicationDate": "2003-09-01",
+      "year": 2003
+    },
+    {
+      "title": "Tabu Search",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4615-6089-0",
+      "publicationDate": "1997-07-31",
+      "year": 1997
+    },
+    {
+      "title": "No free lunch theorems for optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/4235.585893",
+      "publicationDate": "1997-04-01",
+      "year": 1997
+    },
+    {
+      "title": "On genetic algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/225298.225326",
+      "publicationDate": "1995-07-05",
+      "year": 1995
+    },
+    {
+      "title": "Optimization by Simulated Annealing",
+      "arxiv_id": null,
+      "doi": "10.1126/science.220.4598.671",
+      "publicationDate": "1983-05-13",
+      "year": 1983
+    },
+    {
+      "title": "The Complexity of Flowshop and Jobshop Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1287/MOOR.1.2.117",
+      "publicationDate": "1976-05-01",
+      "year": 1976
+    },
+    {
+      "title": "Automatic design of hybrid stochastic local search algorithms for permutation flowshop problems with additional constraints",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ORP.2021.100180",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "The irace package: Iterated racing for automatic algorithm configuration",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ORP.2016.09.002",
+      "publicationDate": null,
+      "year": 2016
+    }
+  ]
+}

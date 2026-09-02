@@ -1,0 +1,924 @@
+{
+  "candidate": {
+    "topic": "Simulation Approaches for Microservice Architectures",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3816152",
+      "title": "Simulation Approaches for Supporting Microservice Architectures: A Systematic Review",
+      "published": "2026-05-22"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=TOSEM, Crossref refs-count=127"
+  },
+  "extracted_at": "2026-09-02T02:32:09+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 127,
+    "arxiv_resolvable": 1,
+    "doi_only": 68,
+    "unresolved": 58
+  },
+  "gt_s2": {
+    "paperId": "907c75cf2f33f1bc23b385a1aad3ec2528c100d1",
+    "externalIds": {
+      "DOI": "10.1145/3816152",
+      "CorpusId": 288626147
+    },
+    "title": "Simulation Approaches for Supporting Microservice Architectures: A Systematic Review",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "year": 2026,
+    "referenceCount": 36,
+    "publicationDate": "2026-05-22"
+  },
+  "refs": [
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3152803",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-020-09910-y",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mcc.2017.4250931",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2019 IEEE International Conference on Software Architecture Companion (ICSA-C). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2019.01.001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2025.112334",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2019 IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Simulation: The Practice of Model Development and Use",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-137-32803-8",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Simulation modeling and analysis: section 6.2. Simulation modeling and analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Discrete event system simulation. Pearson Education India",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "Reussner R. Investigating Performance Metrics for Scaling Microservices in CloudIoT-Environments. In: Proceedings of the 2018 ACM/SPEC, ICPE '18",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2018.09.082",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Microservices architecture enables DevOps: Migration to a cloud-native architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Modelling and simulation of distributed systems (with CD-ROM)",
+      "arxiv_id": null,
+      "doi": "10.1142/7562",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1177/0037549719829828",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2022.102548",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2022.111351",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hoorn A. MiSim: A Simulator for Resilience Assessment of Microservice-Based Architectures. In: 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS). IEEE;",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Quinson M. Automated Performance Prediction of Microservice Applications Using Simulation. In: 2021 29th International Symposium on Modeling, Analysis, and Simulation of Computer MASCOTS. IEEE; 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.csi.2020.103425",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Simulating systems-of-systems with agent-based modeling: a systematic literature review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2022.102511",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Trieste, Italy",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "2016 IEEE 9th International Conference on Service-Oriented Computing and Applications (SOCA). IEEE; 2016",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.5220/0005785501370146",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2021 International Conference on Intelligent Computing, Automation and Systems (ICICAS). IEEE; 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Data management in microservices: State of the practice, challenges, and research directions. arXiv preprint arXiv:2103.00170",
+      "arxiv_id": "2103.00170",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "2023 4th International Conference for Emerging Technology (INCET). IEEE; 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13081452",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2021.3102668",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2021.111014",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/app12115507",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.csi.2025.104116",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsc.2025.3621564",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3389064",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-023-10684-0",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17633/rd.brunel.31325446.v2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17633/rd.brunel.31325641.v1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17633/rd.brunel.31325407.v1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17633/rd.brunel.c.8037727",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.17633/rd.brunel.31325521.v1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3172866",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3464305",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3607179",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering. ACM;",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11192-009-0146-3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Software architecture in practice",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Building microservices: designing fine-grained systems. O’Reilly Media",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Fundamentals of software architecture: an engineering approach. O’Reilly Media",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Software modeling and design: UML, use cases, patterns, and software architectures",
+      "arxiv_id": null,
+      "doi": "10.1017/cbo9780511779183",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Simulation modelling: concepts, tools and practical business applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2018 Winter Simulation Conference (WSC)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2019.2953499",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 2002 Winter Simulation Conference (WSC)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2002
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1057/palgrave.dam.3640007",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2008.03.066",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.peva.2009.07.007",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10922-024-09855-3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2022.111351",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 6th Asia-Pacific Workshop on Networking",
+      "arxiv_id": null,
+      "doi": "10.1145/3542637.3542642",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Hoorn A. MiSim: A Simulator for Resilience Assessment of Microservice-Based Architectures. In: 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS). IEEE; 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "2019 Winter Simulation Conference (WSC). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": "10.1109/wsc40007.2019.9004727",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "2023 IEEE 3rd International Conference on Computer Systems (ICCS). IEEE; 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "2021 IEEE/ACS 18th International Conference on Computer Systems and Applications (AICCSA). IEEE; 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Ross R. A Case Study in Computational Caching Microservices for HPC. In: 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE; 2017",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "2019 IEEE/SICE International Symposium on System Integration (SII). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-42592-9_25",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "WISE 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1881
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3205651.3208253",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022 IEEE International Mediterranean Conference on Communications and Networking (MeditCom). IEEE; 2022",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Giglio A. A Service-in-the-Loop Approach for Business Process Simulation Based on Microservices. In: Proceedings of the 50th Computer Simulation Conference (SummerSim '18)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "2020 IEEE International Conference on Web Services (ICWS). IEEE; 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 11th International Conference on Computer Modeling and Simulation (ICCMS). Association for Computing Machinery;",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/mascots53633.2021.9614260",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-33246-4_31",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Xu C. Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis. In: Proceedings of the ACM Symposium on Cloud Computing (SoCC '21)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-36889-9_11",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Reus N. Data Farming Services: Micro-Services for Facilitating Data Farming in NATO. In: Proceedings of the Winter Simulation Conference (WSC '19)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "2019 8th Mediterranean Conference on Embedded Computing (MECO). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Xue G. Data-Driven Edge Resource Provisioning for Inter-Dependent Microservices with Dynamic Load. In: 2021 IEEE Global Communications Conference (GLOBECOM). IEEE; 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Liu AX. DeepScaling: Microservices Autoscaling for Stable CPU Utilization in Large Scale Cloud Systems. In: Proceedings of the 13th Symposium on Cloud Computing (SoCC '22)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/electronics12214401",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Lyu MR. Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-Source Data. In: Proceedings of the 45th International Conference on Software Engineering (ICSE '23)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3567955.3567964",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Wang Z. EvolutionSim: An Extensible Simulation Toolkit for Microservice System Evolution. In: 2023 IEEE International Conference on Web Services (ICWS). IEEE; 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Szabo C. Jeopardy Assessment for Dynamic Configuration of Collaborative Microservice Architectures. In: Proceedings of the Winter Simulation Conference (WSC '22)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC '23)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Coordination Models and Languages. COORDINATION 2021",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/atmos12091217",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-68884-4_4",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3344341.3368800",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Companion of the 15th ACM/SPEC International Conference on Performance Engineering. ACM;",
+      "arxiv_id": null,
+      "doi": "10.1145/3629527.3653664",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Performance. In: Companion Proceedings of the 10th International Conference on Utility and Cloud Computing (UCC '17 Companion)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3631607",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Gerndt M. Performance Modeling for Cloud Microservice Applications. In: Proceedings of the 2019 ACM/SPEC International Conference on Performance Engineering (ICPE '19)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcc.2021.3058044",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2024.3461149",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s00607-024-01301-1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Service-Oriented Computing. ICSOC 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous '19)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Proceedings of the 7th ACM/SPEC on International Conference on Performance Engineering (ICPE '16)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Engineering Multi-Agent Systems. EMAS 2023",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering (CASCON '23)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/issre55969.2022.00037",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2020.2978600",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE). Coimbra, Portugal: IEEE; 2020",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Wenisch TF. Q-Zilla: A Scheduling Framework and Core Microarchitecture for Tail-Tolerant Microservices. In: 2020 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tsc.2023.3239667",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tcss.2023.3254922",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-68191-6_2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1080/17445760.2023.2242183",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2023.3324222",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpds.2019.2904987",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/access.2021.3081705",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2023.111735",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-48885-6_6",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-68191-6_2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Proceedings of WEBIST. Cham: Springer;",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/cloudcom.2019.00028",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2019 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS). IEEE; 2019",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE; 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE; 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "2024 8th Network Traffic Measurement and Analysis Conference (TMA). IEEE; 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2044
+    },
+    {
+      "title": "2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON). IEEE; 2024",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    }
+  ]
+}

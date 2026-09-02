@@ -1,0 +1,9 @@
+topic: 'Graph Neural Network Acceleration: Algorithms, Systems, Hardware'
+domain: algorithm
+gt:
+  arxiv_id: null
+  doi: 10.1145/3805796
+  title: 'A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and
+    Customized Hardware'
+  published: '2026-04-25'
+notes: 8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=188

@@ -1,0 +1,1864 @@
+{
+  "candidate": {
+    "topic": "Negative Sampling in Recommendation",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3793855",
+      "title": "Negative Sampling in Recommendation",
+      "published": "2026-01-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=?, Crossref refs-count=None"
+  },
+  "extracted_at": "2026-09-02T02:31:33+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 261,
+    "arxiv_resolvable": 143,
+    "doi_only": 106,
+    "unresolved": 12
+  },
+  "gt_s2": {
+    "paperId": "e9e18e5680279ef754771083ed5fd0e4882fcbf7",
+    "externalIds": {
+      "ArXiv": "2409.07237",
+      "DBLP": "journals/tois/MaXMFDSKM26",
+      "DOI": "10.1145/3793855",
+      "CorpusId": 272592915
+    },
+    "title": "Negative Sampling in Recommendation: A Survey and Future Directions",
+    "venue": "ACM Trans. Inf. Syst.",
+    "year": 2024,
+    "referenceCount": 261,
+    "publicationDate": "2024-09-11"
+  },
+  "refs": [
+    {
+      "title": "LLM4DSR: Leveraging Large Language Model for Denoising Sequential Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3762182",
+      "publicationDate": "2025-08-25",
+      "year": 2025
+    },
+    {
+      "title": "Align-for-Fusion: Harmonizing Triple Preferences via Dual-oriented Diffusion for Cross-domain Sequential Recommendation",
+      "arxiv_id": "2508.05074",
+      "doi": "10.1145/3770854.3780258",
+      "publicationDate": "2025-08-07",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training",
+      "arxiv_id": "2504.08949",
+      "doi": "10.48550/arXiv.2504.08949",
+      "publicationDate": "2025-04-11",
+      "year": 2025
+    },
+    {
+      "title": "Cross-Silo Feature Space Alignment for Federated Learning on Clients with Imbalanced Data",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i19.34201",
+      "publicationDate": "2025-04-11",
+      "year": 2025
+    },
+    {
+      "title": "AnyEdit: Edit Any Knowledge Encoded in Language Models",
+      "arxiv_id": "2502.05628",
+      "doi": "10.48550/arXiv.2502.05628",
+      "publicationDate": "2025-02-08",
+      "year": 2025
+    },
+    {
+      "title": "Certified Unlearning for Federated Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3706419",
+      "publicationDate": "2024-12-02",
+      "year": 2024
+    },
+    {
+      "title": "Hyperbolic Graph Learning for Social Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2023.3343402",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Headache to Overstock? Promoting Long-tail Items through Debiased Product Bundling",
+      "arxiv_id": "2411.19107",
+      "doi": "10.48550/arXiv.2411.19107",
+      "publicationDate": "2024-11-28",
+      "year": 2024
+    },
+    {
+      "title": "SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback",
+      "arxiv_id": null,
+      "doi": "10.1145/3627673.3679643",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models",
+      "arxiv_id": "2410.02355",
+      "doi": "10.48550/arXiv.2410.02355",
+      "publicationDate": "2024-10-03",
+      "year": 2024
+    },
+    {
+      "title": "SeeDRec: Sememe-based Diffusion for Sequential Recommendation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2024/251",
+      "publicationDate": "2024-08-01",
+      "year": 2024
+    },
+    {
+      "title": "Improving Global Generalization and Local Personalization for Federated Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2024.3417452",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning",
+      "arxiv_id": "2407.10184",
+      "doi": "10.1145/3637528.3671661",
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "Debiased Recommendation with Noisy Feedback",
+      "arxiv_id": "2406.17182",
+      "doi": "10.1145/3637528.3671915",
+      "publicationDate": "2024-06-24",
+      "year": 2024
+    },
+    {
+      "title": "On Softmax Direct Preference Optimization for Recommendation",
+      "arxiv_id": "2406.09215",
+      "doi": "10.48550/arXiv.2406.09215",
+      "publicationDate": "2024-06-13",
+      "year": 2024
+    },
+    {
+      "title": "Graph Bottlenecked Social Recommendation",
+      "arxiv_id": "2406.08214",
+      "doi": "10.1145/3637528.3671807",
+      "publicationDate": "2024-06-12",
+      "year": 2024
+    },
+    {
+      "title": "ReCODE: Modeling Repeat Consumption with Neural ODE",
+      "arxiv_id": "2405.16550",
+      "doi": "10.1145/3626772.3657936",
+      "publicationDate": "2024-05-26",
+      "year": 2024
+    },
+    {
+      "title": "Fine-Grained Dynamic Framework for Bias-Variance Joint Optimization on Data Missing Not at Random",
+      "arxiv_id": "2405.15403",
+      "doi": "10.48550/arXiv.2405.15403",
+      "publicationDate": "2024-05-24",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge Enhanced Multi-intent Transformer Network for Recommendation",
+      "arxiv_id": "2405.20565",
+      "doi": "10.1145/3589335.3648296",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Modeling User Attention in Music Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00064",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Multimodal Conditioned Diffusion Model for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3589335.3651956",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "HN3S: A Federated AutoEncoder framework for Collaborative Filtering via Hybrid Negative Sampling and Secret Sharing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2023.103580",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "On Practical Diversified Recommendation with Controllable Category Diversity Framework",
+      "arxiv_id": "2402.03801",
+      "doi": "10.1145/3589335.3648323",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Denoising Diffusion Recommender Model",
+      "arxiv_id": "2401.06982",
+      "doi": "10.1145/3626772.3657825",
+      "publicationDate": "2024-01-13",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive Hardness Negative Sampling for Collaborative Filtering",
+      "arxiv_id": "2401.05191",
+      "doi": "10.48550/arXiv.2401.05191",
+      "publicationDate": "2024-01-10",
+      "year": 2024
+    },
+    {
+      "title": "Plug-in Diffusion Model for Sequential Recommendation",
+      "arxiv_id": "2401.02913",
+      "doi": "10.48550/arXiv.2401.02913",
+      "publicationDate": "2024-01-05",
+      "year": 2024
+    },
+    {
+      "title": "BSL: Understanding and Improving Softmax Loss for Recommendation",
+      "arxiv_id": "2312.12882",
+      "doi": "10.1109/ICDE60146.2024.00068",
+      "publicationDate": "2023-12-20",
+      "year": 2023
+    },
+    {
+      "title": "Graph-Augmented Social Translation Model for Next-Item Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2023.3242809",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss",
+      "arxiv_id": "2310.18700",
+      "doi": "10.48550/arXiv.2310.18700",
+      "publicationDate": "2023-10-28",
+      "year": 2023
+    },
+    {
+      "title": "Interpretable User Retention Modeling in Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3604915.3608818",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Towards Robust Fairness-aware Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3604915.3608784",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Exploring False Hard Negative Sample in Cross-Domain Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3604915.3608791",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Prompt-based and weak-modality enhanced multimodal recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2023.101989",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "LKPNR: LLM and KG for Personalized News Recommendation Framework",
+      "arxiv_id": "2308.12028",
+      "doi": "10.48550/arXiv.2308.12028",
+      "publicationDate": "2023-08-23",
+      "year": 2023
+    },
+    {
+      "title": "ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation",
+      "arxiv_id": "2308.11131",
+      "doi": "10.1145/3589334.3645467",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems",
+      "arxiv_id": "2308.08434",
+      "doi": "10.1145/3716393",
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling",
+      "arxiv_id": "2308.07192",
+      "doi": "10.1145/3604915.3608783",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Cross-Silo Prototypical Calibration for Federated Learning with Non-IID Data",
+      "arxiv_id": "2308.03457",
+      "doi": "10.1145/3581783.3612481",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "SLED: Structure Learning based Denoising for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3611385",
+      "publicationDate": "2023-08-05",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Job Recommendation through LLM-based Generative Adversarial Networks",
+      "arxiv_id": "2307.10747",
+      "doi": "10.48550/arXiv.2307.10747",
+      "publicationDate": "2023-07-20",
+      "year": 2023
+    },
+    {
+      "title": "Measuring Item Global Residual Value for Fair Recommendation",
+      "arxiv_id": "2307.08259",
+      "doi": "10.1145/3539618.3591724",
+      "publicationDate": "2023-07-17",
+      "year": 2023
+    },
+    {
+      "title": "Generative-Contrastive Graph Learning for Recommendation",
+      "arxiv_id": "2307.05100",
+      "doi": "10.1145/3539618.3591691",
+      "publicationDate": "2023-07-11",
+      "year": 2023
+    },
+    {
+      "title": "Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation",
+      "arxiv_id": "2307.04571",
+      "doi": "10.1145/3539618.3591636",
+      "publicationDate": "2023-07-10",
+      "year": 2023
+    },
+    {
+      "title": "Negative Can Be Positive: Signed Graph Neural Networks for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2023.103403",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Graph-Augmented Co-Attention Model for Socio-Sequential Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TSMC.2023.3242308",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendation",
+      "arxiv_id": "2306.17256",
+      "doi": "10.1145/3589334.3645494",
+      "publicationDate": "2023-06-29",
+      "year": 2023
+    },
+    {
+      "title": "RSS: Effective and Efficient Training for Sequential Recommendation Using Recency Sampling",
+      "arxiv_id": null,
+      "doi": "10.1145/3604436",
+      "publicationDate": "2023-06-23",
+      "year": 2023
+    },
+    {
+      "title": "Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models",
+      "arxiv_id": "2306.10933",
+      "doi": "10.1145/3640457.3688104",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "CTRL: Connect Collaborative and Language Model for CTR Prediction",
+      "arxiv_id": "2306.02841",
+      "doi": "10.1145/3713080",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model Augmented Narrative Driven Recommendations",
+      "arxiv_id": "2306.02250",
+      "doi": "10.1145/3604915.3608829",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "A survey on large language models for recommendation",
+      "arxiv_id": "2305.19860",
+      "doi": "10.1007/s11280-024-01291-2",
+      "publicationDate": "2023-05-31",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models are Zero-Shot Rankers for Recommender Systems",
+      "arxiv_id": "2305.08845",
+      "doi": "10.48550/arXiv.2305.08845",
+      "publicationDate": "2023-05-15",
+      "year": 2023
+    },
+    {
+      "title": "PALR: Personalization Aware LLMs for Recommendation",
+      "arxiv_id": "2305.07622",
+      "doi": "10.48550/arXiv.2305.07622",
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation",
+      "arxiv_id": "2305.07609",
+      "doi": "10.1145/3604915.3608860",
+      "publicationDate": "2023-05-12",
+      "year": 2023
+    },
+    {
+      "title": "PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training",
+      "arxiv_id": "2305.06622",
+      "doi": "10.1145/3664927",
+      "publicationDate": "2023-05-11",
+      "year": 2023
+    },
+    {
+      "title": "Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction",
+      "arxiv_id": "2305.06474",
+      "doi": null,
+      "publicationDate": "2023-05-10",
+      "year": 2023
+    },
+    {
+      "title": "Quotation Recommendation for Multi-party Online Conversations Based on Semantic and Topic Fusion",
+      "arxiv_id": null,
+      "doi": "10.1145/3594633",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems",
+      "arxiv_id": "2305.02182",
+      "doi": "10.1145/3604915.3610646",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "Cross-domain Recommendation with Behavioral Importance Perception",
+      "arxiv_id": null,
+      "doi": "10.1145/3543507.3583494",
+      "publicationDate": "2023-04-30",
+      "year": 2023
+    },
+    {
+      "title": "Is ChatGPT a Good Recommender? A Preliminary Study",
+      "arxiv_id": "2304.10149",
+      "doi": "10.48550/arXiv.2304.10149",
+      "publicationDate": "2023-04-20",
+      "year": 2023
+    },
+    {
+      "title": "Triple Sequence Learning for Cross-domain Recommendation",
+      "arxiv_id": "2304.05027",
+      "doi": "10.1145/3638351",
+      "publicationDate": "2023-04-11",
+      "year": 2023
+    },
+    {
+      "title": "Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System",
+      "arxiv_id": "2303.14524",
+      "doi": null,
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "Disentangled Negative Sampling for Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.1145/3539597.3570419",
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Simplifying Graph-based Collaborative Filtering for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3539597.3570451",
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "Fairly Adaptive Negative Sampling for Recommendations",
+      "arxiv_id": "2302.08266",
+      "doi": "10.1145/3543507.3583355",
+      "publicationDate": "2023-02-16",
+      "year": 2023
+    },
+    {
+      "title": "Adap-τ : Adaptively Modulating Embedding Magnitude for Recommendation",
+      "arxiv_id": "2302.04775",
+      "doi": "10.1145/3543507.3583363",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "On the Theories Behind Hard Negative Sampling for Recommendation",
+      "arxiv_id": "2302.03472",
+      "doi": "10.1145/3543507.3583223",
+      "publicationDate": "2023-02-07",
+      "year": 2023
+    },
+    {
+      "title": "Towards Reasoning in Large Language Models: A Survey",
+      "arxiv_id": "2212.10403",
+      "doi": "10.48550/arXiv.2212.10403",
+      "publicationDate": "2022-12-20",
+      "year": 2022
+    },
+    {
+      "title": "DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation",
+      "arxiv_id": "2211.10486",
+      "doi": "10.1145/3539597.3570472",
+      "publicationDate": "2022-11-18",
+      "year": 2022
+    },
+    {
+      "title": "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation",
+      "arxiv_id": "2211.06924",
+      "doi": "10.1145/3581783.3611943",
+      "publicationDate": "2022-11-13",
+      "year": 2022
+    },
+    {
+      "title": "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders",
+      "arxiv_id": "2210.12316",
+      "doi": "10.1145/3543507.3583434",
+      "publicationDate": "2022-10-22",
+      "year": 2022
+    },
+    {
+      "title": "Triplet losses-based matrix factorization for robust recommendations",
+      "arxiv_id": "2210.12098",
+      "doi": "10.48550/arXiv.2210.12098",
+      "publicationDate": "2022-10-21",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Behavior Graph Neural Networks for Recommender System",
+      "arxiv_id": "2302.08678",
+      "doi": "10.1109/TNNLS.2022.3204775",
+      "publicationDate": "2022-10-19",
+      "year": 2022
+    },
+    {
+      "title": "Temporal Contrastive Pre-Training for Sequential Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557468",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "An Exploratory Study of Information Cocoon on Short-form Video Platform",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557548",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.1145/3511808.3557368",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Cross-Domain Sequential Recommendation",
+      "arxiv_id": "2304.03891",
+      "doi": "10.1145/3511808.3557262",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation",
+      "arxiv_id": "2209.10163",
+      "doi": "10.1145/3503161.3548072",
+      "publicationDate": "2022-09-21",
+      "year": 2022
+    },
+    {
+      "title": "Don’t recommend the obvious: estimate probability ratios",
+      "arxiv_id": null,
+      "doi": "10.1145/3523227.3546753",
+      "publicationDate": "2022-09-18",
+      "year": 2022
+    },
+    {
+      "title": "ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation",
+      "arxiv_id": "2209.00456",
+      "doi": "10.1145/3511808.3557268",
+      "publicationDate": "2022-08-27",
+      "year": 2022
+    },
+    {
+      "title": "Causal Inference in Recommender Systems: A Survey and Future Directions",
+      "arxiv_id": "2208.12397",
+      "doi": "10.1145/3639048",
+      "publicationDate": "2022-08-26",
+      "year": 2022
+    },
+    {
+      "title": "UFNRec: Utilizing False Negative Samples for Sequential Recommendation",
+      "arxiv_id": "2208.04116",
+      "doi": "10.48550/arXiv.2208.04116",
+      "publicationDate": "2022-08-08",
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Learning with Bidirectional Transformers for Sequential Recommendation",
+      "arxiv_id": "2208.03895",
+      "doi": "10.1145/3511808.3557266",
+      "publicationDate": "2022-08-08",
+      "year": 2022
+    },
+    {
+      "title": "Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation",
+      "arxiv_id": "2208.01709",
+      "doi": "10.1145/3511808.3557229",
+      "publicationDate": "2022-08-02",
+      "year": 2022
+    },
+    {
+      "title": "Knowledge-enhanced Black-box Attacks for Recommendations",
+      "arxiv_id": "2207.10307",
+      "doi": "10.1145/3534678.3539359",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation",
+      "arxiv_id": "2207.05584",
+      "doi": "10.1145/3534678.3539342",
+      "publicationDate": "2022-07-12",
+      "year": 2022
+    },
+    {
+      "title": "Effective and Efficient Training for Sequential Recommendation using Recency Sampling",
+      "arxiv_id": "2207.02643",
+      "doi": "10.1145/3523227.3546785",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "Simple Unsupervised Graph Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v36i7.20748",
+      "publicationDate": "2022-06-28",
+      "year": 2022
+    },
+    {
+      "title": "Towards Universal Sequence Representation Learning for Recommender Systems",
+      "arxiv_id": "2206.05941",
+      "doi": "10.1145/3534678.3539381",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation",
+      "arxiv_id": "2206.00242",
+      "doi": "10.1145/3534678.3539229",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Negative Sampling for Contrastive Representation Learning: A Review",
+      "arxiv_id": "2206.00212",
+      "doi": "10.48550/arXiv.2206.00212",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems",
+      "arxiv_id": "2205.08084",
+      "doi": "10.48550/arXiv.2205.08084",
+      "publicationDate": "2022-05-17",
+      "year": 2022
+    },
+    {
+      "title": "Addressing Confounding Feature Issue for Causal Recommendation",
+      "arxiv_id": "2205.06532",
+      "doi": "10.1145/3559757",
+      "publicationDate": "2022-05-13",
+      "year": 2022
+    },
+    {
+      "title": "Knowledge Graph Contrastive Learning for Recommendation",
+      "arxiv_id": "2205.00976",
+      "doi": "10.1145/3477495.3532009",
+      "publicationDate": "2022-05-02",
+      "year": 2022
+    },
+    {
+      "title": "CLEAR: Contrastive Learning for API Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3510003.3510159",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "A Review-aware Graph Contrastive Learning Framework for Recommendation",
+      "arxiv_id": "2204.12063",
+      "doi": "10.1145/3477495.3531927",
+      "publicationDate": "2022-04-26",
+      "year": 2022
+    },
+    {
+      "title": "GCRec: Graph-Augmented Capsule Network for Next-Item Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2022.3164982",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "A Gain-Tuning Dynamic Negative Sampler for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3485447.3511956",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "Self-Guided Learning to Denoise for Robust Recommendation",
+      "arxiv_id": "2204.06832",
+      "doi": "10.1145/3477495.3532059",
+      "publicationDate": "2022-04-14",
+      "year": 2022
+    },
+    {
+      "title": "ELECRec: Training Sequential Recommenders as Discriminators",
+      "arxiv_id": "2204.02011",
+      "doi": "10.1145/3477495.3531894",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Graph Representation Learning Methods",
+      "arxiv_id": "2204.01855",
+      "doi": "10.1145/3633518",
+      "publicationDate": "2022-04-04",
+      "year": 2022
+    },
+    {
+      "title": "Revisiting Negative Sampling vs. Non-sampling in Implicit Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3522672",
+      "publicationDate": "2022-03-24",
+      "year": 2022
+    },
+    {
+      "title": "Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)",
+      "arxiv_id": "2203.13366",
+      "doi": "10.1145/3523227.3546767",
+      "publicationDate": "2022-03-24",
+      "year": 2022
+    },
+    {
+      "title": "Sequential Recommendation with Multiple Contrast Signals",
+      "arxiv_id": null,
+      "doi": "10.1145/3522673",
+      "publicationDate": "2022-03-14",
+      "year": 2022
+    },
+    {
+      "title": "A Peep into the Future: Adversarial Future Encoding in Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3488560.3498476",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling",
+      "arxiv_id": "2202.04975",
+      "doi": "10.1145/3534678.3539119",
+      "publicationDate": "2022-02-10",
+      "year": 2022
+    },
+    {
+      "title": "Temporal Knowledge Graph Completion: A Survey",
+      "arxiv_id": "2201.08236",
+      "doi": "10.24963/ijcai.2023/734",
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "On the Effectiveness of Sampled Softmax Loss for Item Recommendation",
+      "arxiv_id": "2201.02327",
+      "doi": "10.1145/3637061",
+      "publicationDate": "2022-01-07",
+      "year": 2022
+    },
+    {
+      "title": "Learning Explicit User Interest Boundary for Recommendation",
+      "arxiv_id": "2111.11026",
+      "doi": "10.1145/3485447.3511971",
+      "publicationDate": "2021-11-22",
+      "year": 2021
+    },
+    {
+      "title": "Network representation learning: A macro and micro view",
+      "arxiv_id": "2111.10772",
+      "doi": "10.1016/j.aiopen.2021.02.001",
+      "publicationDate": "2021-11-21",
+      "year": 2021
+    },
+    {
+      "title": "Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3481953",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Learning Unified Embeddings for Recommendation via Meta-path Semantics",
+      "arxiv_id": null,
+      "doi": "10.1145/3474085.3475407",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios",
+      "arxiv_id": "2110.06475",
+      "doi": "10.1145/3459637.3481948",
+      "publicationDate": "2021-10-13",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",
+      "arxiv_id": "2109.12843",
+      "doi": "10.1145/3568022",
+      "publicationDate": "2021-09-27",
+      "year": 2021
+    },
+    {
+      "title": "The Idiosyncratic Effects of Adversarial Training on Bias in Personalized Recommendation Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3460231.3478858",
+      "publicationDate": "2021-09-13",
+      "year": 2021
+    },
+    {
+      "title": "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation",
+      "arxiv_id": "2109.04200",
+      "doi": "10.1145/3459637.3482426",
+      "publicationDate": "2021-09-09",
+      "year": 2021
+    },
+    {
+      "title": "Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation",
+      "arxiv_id": "2109.02859",
+      "doi": "10.1109/ICDM51629.2021.00090",
+      "publicationDate": "2021-09-07",
+      "year": 2021
+    },
+    {
+      "title": "Top-N Recommendation with Counterfactual User Preference Simulation",
+      "arxiv_id": "2109.02444",
+      "doi": "10.1145/3459637.3482305",
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "Generative Adversarial Networks",
+      "arxiv_id": "2203.00667",
+      "doi": "10.1109/ICCCNT56998.2023.10306417",
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467315",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467408",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Feature Translation for Multi-domain Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467176",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467234",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Curriculum Meta-Learning for Next POI Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467132",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Cross-domain Recommendation: Taxonomies, Methods, and Future Directions",
+      "arxiv_id": "2108.03357",
+      "doi": "10.1145/3548455",
+      "publicationDate": "2021-08-07",
+      "year": 2021
+    },
+    {
+      "title": "A Case Study on Sampling Strategies for Evaluating Neural Sequential Item Recommendation Models",
+      "arxiv_id": "2107.13045",
+      "doi": "10.1145/3460231.3475943",
+      "publicationDate": "2021-07-28",
+      "year": 2021
+    },
+    {
+      "title": "Group-Based Deep Transfer Learning with Mixed Gate Control for Cross- Domain Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/IJCNN52387.2021.9533861",
+      "publicationDate": "2021-07-18",
+      "year": 2021
+    },
+    {
+      "title": "Contrastive Learning for Cold-Start Recommendation",
+      "arxiv_id": "2107.05315",
+      "doi": "10.1145/3474085.3475665",
+      "publicationDate": "2021-07-12",
+      "year": 2021
+    },
+    {
+      "title": "Learning Recommender Systems with Implicit Feedback via Soft Target Enhancement",
+      "arxiv_id": null,
+      "doi": "10.1145/3404835.3462863",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation",
+      "arxiv_id": "2109.05261",
+      "doi": "10.1145/3404835.3462908",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization",
+      "arxiv_id": null,
+      "doi": "10.1145/3404835.3462928",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Cross-domain Recommendation with Bridge-Item Embeddings",
+      "arxiv_id": null,
+      "doi": "10.1145/3447683",
+      "publicationDate": "2021-07-03",
+      "year": 2021
+    },
+    {
+      "title": "Unsupervised Path Representation Learning with Curriculum Negative Sampling",
+      "arxiv_id": "2106.09373",
+      "doi": "10.24963/ijcai.2021/452",
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Self-Guided Contrastive Learning for BERT Sentence Representations",
+      "arxiv_id": "2106.07345",
+      "doi": "10.18653/v1/2021.acl-long.197",
+      "publicationDate": "2021-06-03",
+      "year": 2021
+    },
+    {
+      "title": "PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i5.16539",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation",
+      "arxiv_id": "2110.04000",
+      "doi": "10.1609/aaai.v35i5.16576",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "AutoDebias: Learning to Debias for Recommendation",
+      "arxiv_id": "2105.04170",
+      "doi": "10.1145/3404835.3462919",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Efficient Non-Sampling Knowledge Graph Embedding",
+      "arxiv_id": "2104.10796",
+      "doi": "10.1145/3442381.3449859",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Disentangling User Interest and Conformity for Recommendation with Causal Embedding",
+      "arxiv_id": null,
+      "doi": "10.1145/3442381.3449788",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+      "arxiv_id": "2104.08821",
+      "doi": "10.18653/v1/2021.emnlp-main.552",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "Dual Contrastive Learning for Unsupervised Image-to-Image Translation",
+      "arxiv_id": "2104.07689",
+      "doi": "10.1109/CVPRW53098.2021.00084",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "Empowering News Recommendation with Pre-trained Language Models",
+      "arxiv_id": "2104.07413",
+      "doi": "10.1145/3404835.3463069",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Curriculum Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2021.3069908",
+      "publicationDate": "2021-03-31",
+      "year": 2021
+    },
+    {
+      "title": "Semantic Models for the First-Stage Retrieval: A Comprehensive Review",
+      "arxiv_id": "2103.04831",
+      "doi": "10.1145/3486250",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "User Response Models to Improve a REINFORCE Recommender System",
+      "arxiv_id": null,
+      "doi": "10.1145/3437963.3441764",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3437963.3441791",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INS.2021.02.009",
+      "publicationDate": "2021-02-12",
+      "year": 2021
+    },
+    {
+      "title": "FeedRec: News Feed Recommendation with Various User Feedbacks",
+      "arxiv_id": "2102.04903",
+      "doi": "10.1145/3485447.3512082",
+      "publicationDate": "2021-02-09",
+      "year": 2021
+    },
+    {
+      "title": "Leveraging Review Properties for Effective Recommendation",
+      "arxiv_id": "2102.03089",
+      "doi": "10.1145/3442381.3450038",
+      "publicationDate": "2021-02-05",
+      "year": 2021
+    },
+    {
+      "title": "Deep Learning for Instance Retrieval: A Survey",
+      "arxiv_id": "2101.11282",
+      "doi": "10.1109/TPAMI.2022.3218591",
+      "publicationDate": "2021-01-27",
+      "year": 2021
+    },
+    {
+      "title": "HNS: Hierarchical negative sampling for network representation learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2020.07.015",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Paper recommendation based on heterogeneous network embedding",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2020.106438",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "BSPR: Basket-sensitive personalized ranking for product recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2020.06.046",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Negative Sampling in Knowledge Representation Learning: A Mini-Review",
+      "arxiv_id": null,
+      "doi": "10.5121/csit.2020.101519",
+      "publicationDate": "2020-11-28",
+      "year": 2020
+    },
+    {
+      "title": "SamWalker++: Recommendation With Informative Sampling Strategy",
+      "arxiv_id": "2011.07734",
+      "doi": "10.1109/TKDE.2021.3102080",
+      "publicationDate": "2020-11-16",
+      "year": 2020
+    },
+    {
+      "title": "Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph",
+      "arxiv_id": "2011.05061",
+      "doi": "10.1145/3437963.3441773",
+      "publicationDate": "2020-11-10",
+      "year": 2020
+    },
+    {
+      "title": "Self-supervised Graph Learning for Recommendation",
+      "arxiv_id": "2010.10783",
+      "doi": "10.1145/3404835.3462862",
+      "publicationDate": "2020-10-21",
+      "year": 2020
+    },
+    {
+      "title": "Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3340531.3412012",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "DE-RRD: A Knowledge Distillation Framework for Recommender System",
+      "arxiv_id": "2012.04357",
+      "doi": "10.1145/3340531.3412005",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Fusion of Semantic and Collaborative Information for Visually-Aware Food Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3394171.3413598",
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "Simplify and Robustify Negative Sampling for Implicit Collaborative Filtering",
+      "arxiv_id": "2009.03376",
+      "doi": null,
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization",
+      "arxiv_id": "2008.07873",
+      "doi": "10.1145/3340531.3411954",
+      "publicationDate": "2020-08-18",
+      "year": 2020
+    },
+    {
+      "title": "Influence Function for Unbiased Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3397271.3401321",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "Feedback Loop and Bias Amplification in Recommender Systems",
+      "arxiv_id": "2007.13019",
+      "doi": "10.1145/3340531.3412152",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain",
+      "arxiv_id": "2007.13316",
+      "doi": "10.1145/3397271.3401193",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "Geography-Aware Sequential Location Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403252",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "On Sampled Metrics for Item Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403226",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Deep Feedback Network for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/349",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Embedding-based Retrieval in Facebook Search",
+      "arxiv_id": "2006.11632",
+      "doi": "10.1145/3394486.3403305",
+      "publicationDate": "2020-06-20",
+      "year": 2020
+    },
+    {
+      "title": "Disentangling User Interest and Popularity Bias for Recommendation with Causal Embedding",
+      "arxiv_id": "2006.11011",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Implicit Feedback for Recommendation",
+      "arxiv_id": "2006.04153",
+      "doi": "10.1145/3437963.3441800",
+      "publicationDate": "2020-06-07",
+      "year": 2020
+    },
+    {
+      "title": "Contrastive Multi-View Representation Learning on Graphs",
+      "arxiv_id": "2006.05582",
+      "doi": null,
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation",
+      "arxiv_id": "2005.10473",
+      "doi": "10.1145/3397271.3401078",
+      "publicationDate": "2020-05-21",
+      "year": 2020
+    },
+    {
+      "title": "Understanding Negative Sampling in Graph Representation Learning",
+      "arxiv_id": "2005.09863",
+      "doi": "10.1145/3394486.3403218",
+      "publicationDate": "2020-05-20",
+      "year": 2020
+    },
+    {
+      "title": "Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1145/3366424.3386195",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "Personalized Ranking with Importance Sampling",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380187",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380303",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "Fashion Recommendation with Multi-relational Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-47426-3_1",
+      "publicationDate": "2020-04-17",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5329",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2020.3045924",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Group Recommendation with Latent Voting Mechanism",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE48307.2020.00018",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Reinforced Negative Sampling over Knowledge Graph for Recommendation",
+      "arxiv_id": "2003.05753",
+      "doi": "10.1145/3366423.3380098",
+      "publicationDate": "2020-03-12",
+      "year": 2020
+    },
+    {
+      "title": "LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3336191.3371805",
+      "publicationDate": "2020-01-20",
+      "year": 2020
+    },
+    {
+      "title": "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems",
+      "arxiv_id": "2002.09102",
+      "doi": "10.1145/3336191.3371769",
+      "publicationDate": "2020-01-20",
+      "year": 2020
+    },
+    {
+      "title": "Efficient Neural Matrix Factorization without Sampling for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3373807",
+      "publicationDate": "2020-01-14",
+      "year": 2020
+    },
+    {
+      "title": "Does non-hard-sell content really work? Leveraging the value of branded content marketing in brand building",
+      "arxiv_id": null,
+      "doi": "10.1108/JPBM-07-2018-1948",
+      "publicationDate": "2019-11-18",
+      "year": 2019
+    },
+    {
+      "title": "Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling",
+      "arxiv_id": "1911.03883",
+      "doi": "10.1145/3336191.3371842",
+      "publicationDate": "2019-11-10",
+      "year": 2019
+    },
+    {
+      "title": "DRCGR: Deep Reinforcement Learning Framework Incorporating CNN and GAN-Based for Interactive Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2019.00122",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Collaborative Distillation for Top-N Recommendation",
+      "arxiv_id": "1911.05276",
+      "doi": "10.1109/ICDM.2019.00047",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback",
+      "arxiv_id": "1909.03601",
+      "doi": "10.1145/3336191.3371783",
+      "publicationDate": "2019-09-09",
+      "year": 2019
+    },
+    {
+      "title": "Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback",
+      "arxiv_id": "1910.01444",
+      "doi": "10.1145/3397271.3401114",
+      "publicationDate": "2019-09-08",
+      "year": 2019
+    },
+    {
+      "title": "Graph representation learning: a survey",
+      "arxiv_id": "1909.00958",
+      "doi": "10.1017/ATSIP.2020.13",
+      "publicationDate": "2019-09-03",
+      "year": 2019
+    },
+    {
+      "title": "Deep Metric Learning: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/SYM11091066",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "Reinforced Negative Sampling for Recommendation with Exposure Data",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/309",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Counterfactual Fairness: Unidentification, Bound and Algorithm",
+      "arxiv_id": null,
+      "doi": "10.24963/IJCAI.2019/199",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330959",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "IntentGC: A Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation",
+      "arxiv_id": "1907.12377",
+      "doi": "10.1145/3292500.3330686",
+      "publicationDate": "2019-07-24",
+      "year": 2019
+    },
+    {
+      "title": "An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3331184.3331192",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "Joint Representation Learning for Multi-Modal Transportation Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V33I01.33011036",
+      "publicationDate": "2019-07-17",
+      "year": 2019
+    },
+    {
+      "title": "NPA: Neural News Recommendation with Personalized Attention",
+      "arxiv_id": "1907.05559",
+      "doi": "10.1145/3292500.3330665",
+      "publicationDate": "2019-07-12",
+      "year": 2019
+    },
+    {
+      "title": "Neural News Recommendation with Topic-Aware News Representation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P19-1110",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation",
+      "arxiv_id": "1906.03450",
+      "doi": "10.1145/3331184.3331234",
+      "publicationDate": "2019-06-08",
+      "year": 2019
+    },
+    {
+      "title": "Personalized Multimedia Item and Key Frame Recommendation",
+      "arxiv_id": "1906.00246",
+      "doi": "10.24963/ijcai.2019/198",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "KGAT: Knowledge Graph Attention Network for Recommendation",
+      "arxiv_id": "1905.07854",
+      "doi": "10.1145/3292500.3330989",
+      "publicationDate": "2019-05-20",
+      "year": 2019
+    },
+    {
+      "title": "How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313469",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "SamWalker: Social Recommendation with Informative Sampling Strategy",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313582",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Social Influence-Based Group Representation Learning for Group Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00057",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation",
+      "arxiv_id": "1901.08907",
+      "doi": "10.1145/3308558.3313411",
+      "publicationDate": "2019-01-23",
+      "year": 2019
+    },
+    {
+      "title": "Top-K Off-Policy Correction for a REINFORCE Recommender System",
+      "arxiv_id": "1812.02353",
+      "doi": "10.1145/3289600.3290999",
+      "publicationDate": "2018-12-06",
+      "year": 2018
+    },
+    {
+      "title": "An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.1145/3269206.3269264",
+      "publicationDate": "2018-10-17",
+      "year": 2018
+    },
+    {
+      "title": "Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3269206.3271725",
+      "publicationDate": "2018-10-17",
+      "year": 2018
+    },
+    {
+      "title": "Calibrated recommendations",
+      "arxiv_id": null,
+      "doi": "10.1145/3240323.3240372",
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Point-of-Interest Recommendation: Exploiting Self-Attentive Autoencoders with Neighbor-Aware Influence",
+      "arxiv_id": "1809.10770",
+      "doi": "10.1145/3269206.3271733",
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Neural Memory Streaming Recommender Networks with Adversarial Training",
+      "arxiv_id": null,
+      "doi": "10.1145/3219819.3220004",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Leveraging Meta-path based Context for Top- N Recommendation with A Neural Co-Attention Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3219819.3219965",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors",
+      "arxiv_id": "1808.01075",
+      "doi": "10.1145/3219819.3220014",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Graph Convolutional Neural Networks for Web-Scale Recommender Systems",
+      "arxiv_id": "1806.01973",
+      "doi": "10.1145/3219819.3219890",
+      "publicationDate": "2018-06-06",
+      "year": 2018
+    },
+    {
+      "title": "DRN: A Deep Reinforcement Learning Framework for News Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3178876.3185994",
+      "publicationDate": "2018-04-10",
+      "year": 2018
+    },
+    {
+      "title": "Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning",
+      "arxiv_id": "1802.06501",
+      "doi": "10.1145/3219819.3219886",
+      "publicationDate": "2018-02-19",
+      "year": 2018
+    },
+    {
+      "title": "Learning Tree-based Deep Model for Recommender Systems",
+      "arxiv_id": "1801.02294",
+      "doi": "10.1145/3219819.3219826",
+      "publicationDate": "2018-01-08",
+      "year": 2018
+    },
+    {
+      "title": "GraphGAN: Graph Representation Learning with Generative Adversarial Nets",
+      "arxiv_id": "1711.08267",
+      "doi": "10.1609/aaai.v32i1.11872",
+      "publicationDate": "2017-11-22",
+      "year": 2017
+    },
+    {
+      "title": "ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation",
+      "arxiv_id": "1711.06632",
+      "doi": "10.1609/aaai.v32i1.11618",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "Contrastive Learning for Image Captioning",
+      "arxiv_id": "1710.02534",
+      "doi": null,
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3097983.3098094",
+      "publicationDate": "2017-08-04",
+      "year": 2017
+    },
+    {
+      "title": "On Sampling Strategies for Neural Network-based Collaborative Filtering",
+      "arxiv_id": "1706.07881",
+      "doi": "10.1145/3097983.3098202",
+      "publicationDate": "2017-06-23",
+      "year": 2017
+    },
+    {
+      "title": "Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks",
+      "arxiv_id": "1706.04148",
+      "doi": "10.1145/3109859.3109896",
+      "publicationDate": "2017-06-13",
+      "year": 2017
+    },
+    {
+      "title": "Recurrent Neural Networks with Top-k Gains for Session-based Recommendations",
+      "arxiv_id": "1706.03847",
+      "doi": "10.1145/3269206.3271761",
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models",
+      "arxiv_id": "1705.10513",
+      "doi": "10.1145/3077136.3080786",
+      "publicationDate": "2017-05-30",
+      "year": 2017
+    },
+    {
+      "title": "Neural Collaborative Filtering",
+      "arxiv_id": "1708.05031",
+      "doi": "10.1145/3038912.3052569",
+      "publicationDate": "2017-04-03",
+      "year": 2017
+    },
+    {
+      "title": "Context-aware Image Tweet Modelling and Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/2964284.2964291",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Deep Neural Networks for YouTube Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1145/2959100.2959190",
+      "publicationDate": "2016-09-07",
+      "year": 2016
+    },
+    {
+      "title": "Fast Matrix Factorization for Online Recommendation with Implicit Feedback",
+      "arxiv_id": "1708.05024",
+      "doi": "10.1145/2911451.2911489",
+      "publicationDate": "2016-07-07",
+      "year": 2016
+    },
+    {
+      "title": "Mining Product Adopter Information from Online Reviews for Improving Product Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/2842629",
+      "publicationDate": "2016-02-09",
+      "year": 2016
+    },
+    {
+      "title": "Session-based Recommendations with Recurrent Neural Networks",
+      "arxiv_id": "1511.06939",
+      "doi": null,
+      "publicationDate": "2015-11-21",
+      "year": 2015
+    },
+    {
+      "title": "Efficient Latent Link Recommendation in Signed Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/2783258.2783358",
+      "publicationDate": "2015-08-10",
+      "year": 2015
+    },
+    {
+      "title": "Mining affective text to improve social media item recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2014.09.002",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/2623330.2623638",
+      "publicationDate": "2014-08-24",
+      "year": 2014
+    },
+    {
+      "title": "Improving pairwise learning for item recommendation from implicit feedback",
+      "arxiv_id": null,
+      "doi": "10.1145/2556195.2556248",
+      "publicationDate": "2014-02-24",
+      "year": 2014
+    },
+    {
+      "title": "Distributed Representations of Words and Phrases and their Compositionality",
+      "arxiv_id": "1310.4546",
+      "doi": null,
+      "publicationDate": "2013-10-16",
+      "year": 2013
+    },
+    {
+      "title": "Optimizing top-n collaborative filtering via dynamic negative item sampling",
+      "arxiv_id": null,
+      "doi": "10.1145/2484028.2484126",
+      "publicationDate": "2013-07-28",
+      "year": 2013
+    },
+    {
+      "title": "BPR: Bayesian Personalized Ranking from Implicit Feedback",
+      "arxiv_id": "1205.2618",
+      "doi": null,
+      "publicationDate": "2009-06-18",
+      "year": 2009
+    },
+    {
+      "title": "Curriculum learning",
+      "arxiv_id": null,
+      "doi": "10.1145/1553374.1553380",
+      "publicationDate": "2009-06-14",
+      "year": 2009
+    },
+    {
+      "title": "One-Class Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2008.16",
+      "publicationDate": "2008-12-01",
+      "year": 2008
+    },
+    {
+      "title": "A day of great illumination: B. F. Skinner's discovery of shaping.",
+      "arxiv_id": null,
+      "doi": "10.1901/JEAB.2004.82-317",
+      "publicationDate": "2004-11-01",
+      "year": 2004
+    },
+    {
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+      "arxiv_id": null,
+      "doi": "10.1016/S0169-7552(98)00110-X",
+      "publicationDate": "1998-04-01",
+      "year": 1998
+    },
+    {
+      "title": "Enhanced Generative Recommendation via Content and Collaboration Integration",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2403.18480",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Personalized Representation With Contrastive Loss for Recommendation Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2023.3295740",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Self-Supervised Learning for Multimedia Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2022.3187556",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Negative Sampling for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2204.06520",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Curriculum Disentangled Recommendation with Noisy Multi-feedback",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Asurveyonknowledgegraph-basedrecommender systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Knowledgegraphembedding:Asurveyofapproachesandapplications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Personalized Ranking for Non-Uniformly Sampled Items",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "A TTACK S EQ B ENCH : B ENCHMARKING L ARGE L AN - GUAGE M ODELS IN A NALYZING A TTACK S EQUENCES WITHIN C YBER T HREAT I NTELLIGENCE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Fedean: Entity-aware adversarial negative sampling for federated knowledge graph reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Exploring the Landscape of Recommender Systems Evaluation: Practices and Perspectives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Recommender systems in the era of large language models (llms)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Triple sequence learning for",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Making non-overlapping matters: An unsupervised alignment enhanced cross-domain cold-start recommendation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Conference acronym ’XX, June 03–05, 2018,",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

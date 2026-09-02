@@ -1,0 +1,9 @@
+topic: Deep Learning for Time Series Forecasting
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1109/tkde.2026.3671378
+  title: 'A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis
+    and Future Directions'
+  published: '2026-05-01'
+notes: 8차 광역 모집 (2026-09-02). venue=TKDE, Crossref refs-count=201

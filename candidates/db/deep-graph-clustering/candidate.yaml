@@ -1,0 +1,9 @@
+topic: Deep Graph Clustering
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1109/tkde.2026.3669747
+  title: 'A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and
+    Open Resource'
+  published: '2026-06-01'
+notes: 8차 광역 모집 (2026-09-02). venue=TKDE, Crossref refs-count=195

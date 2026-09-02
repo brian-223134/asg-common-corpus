@@ -1,0 +1,813 @@
+{
+  "candidate": {
+    "topic": "SSD Wear Leveling Techniques",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1016/j.cosrev.2025.100891",
+      "title": "A survey on SSD wear leveling techniques",
+      "published": "2026-05-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSR, Crossref refs-count=111"
+  },
+  "extracted_at": "2026-09-02T02:32:16+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 111,
+    "arxiv_resolvable": 0,
+    "doi_only": 23,
+    "unresolved": 88
+  },
+  "gt_s2": {
+    "paperId": "ad411c90722ae51991ef6a68be1e9b1c2de196c7",
+    "externalIds": {
+      "DBLP": "journals/csr/SerajehhassaniGBGZLS26",
+      "DOI": "10.1016/j.cosrev.2025.100891",
+      "CorpusId": 284674293
+    },
+    "title": "A survey on SSD wear leveling techniques",
+    "venue": "Computer Science Review",
+    "year": 2026,
+    "referenceCount": 98,
+    "publicationDate": "2026-05-01"
+  },
+  "refs": [
+    {
+      "title": "On efficient wear leveling for large-scale flash-memory storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Rejuvenator: a static wear leveling algorithm for NAND flash memory with minimized overhead",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "DA-GC: a dynamic adjustment garbage collection method considering wear-leveling for SSD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "PWL: a progressive wear leveling to minimize data migration overheads for NAND flash devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "LLSM: a lifetime-aware wear-leveling for LSM-tree on NAND flash memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Endurance enhancement of flash-memory storage systems: an efficient static wear leveling design",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Improving flash wear-leveling by proactively moving static data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "HAWL: hidden cold block-aware wear leveling using bit-set threshold for NAND flash memory",
+      "arxiv_id": null,
+      "doi": "10.1587/transinf.2015edl8198",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "RRWL: round robin-based wear leveling using block erase table for flash memory",
+      "arxiv_id": null,
+      "doi": "10.1587/transinf.2016edl8228",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "A group-based wear-leveling algorithm for large-capacity flash memory storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "A low-cost wear-leveling algorithm for block-mapping solid-state disks",
+      "arxiv_id": null,
+      "doi": "10.1145/2016603.1967683",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Adaptive switch on wear leveling for enhancing i/o latency and lifetime of high-density SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "SSD wear leveling with optimal guarantees",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Error rate-based wear-leveling for NAND flash memory at highly scaled technology nodes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "New ERA: new efficient reliability-aware wear leveling for endurance enhancement of flash storage devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Program error rate-based wear leveling for NAND flash memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "BER-based wear leveling and bad block management for NAND flash",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Pattern-based write scheduling and read balance-oriented wear-leveling for solid state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Adaptive wear-leveling in flash-based memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Prediction of elapsed time based wear leveling for NAND flash memory in embedded systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Using data clustering to improve cleaning performance for flash memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1999
+    },
+    {
+      "title": "A simulator for next generation SSDs with networked backend architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Operational characteristics of SSDs in enterprise storage systems: a large-scale field study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "On trading wear-leveling with heal-leveling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Parallel all the time: plane level parallelism exploration for high performance SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Reducing solid-state drive read latency by optimizing read-retry",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Error-prediction LDPC and error-recovery schemes for highly reliable solid-state drives (SSDs)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "LDPC-in-SSD: making advanced error correction codes work effectively in solid state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Flash-cosmos: in-flash bulk bitwise operations using inherent computation capability of NAND flash memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Wear leveling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Unified wear-leveling technique for NVM-based buffer of SSD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Ada-wl: an adaptive wear-leveling aware data migration approach for flexible SSD array scaling in clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Observational wear leveling: an efficient algorithm for flash memory management",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Design for scalability in enterprise SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Network-on-SSD: a scalable and high-performance communication design paradigm for ssds",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "A comprehensive survey of issues in solid state drives",
+      "arxiv_id": null,
+      "doi": "10.1016/bs.adcom.2019.02.001",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "AERO: adaptive erase operation for improving lifetime and performance of modern NAND flash-based SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advanced flash memory reliability",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Wear unleveling: improving NAND flash lifetime by balancing page endurance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Exploiting internal parallelism for address translation in solid-state drives",
+      "arxiv_id": null,
+      "doi": "10.1145/3239564",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Algorithms and data structures for efficient free space reclamation in WAFL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Write amplification analysis in flash-based solid state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Fastgc: accelerate garbage collection via an efficient copyback-based data migration in SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Constant time garbage collection in SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Storage abstractions for SSDs: the past, present, and future",
+      "arxiv_id": null,
+      "doi": "10.1145/3708992",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "A survey of SSD simulators and emulators",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-025-07078-0",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Supersim: extensible flit-level simulation of large-scale interconnection networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "A comprehensive review and classification of micro-scale and macro-scale interconnection network simulators for research and education in network-based computing systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-025-08038-4",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A simulator for next generation SSDs with networked backend architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Indexing in flash storage devices: a survey on challenges, current approaches, and future trends",
+      "arxiv_id": null,
+      "doi": "10.1007/s00778-019-00559-8",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "RDA: a read-request driven adaptive allocation scheme for improving SSD performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Advances in flash memory SSD technology for enterprise database applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Reca-FTL: resource contention aware flash translation layer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Design and implementation of an efficient flash-based SSD architecture",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Venice: improving solid-state drive parallelism at low cost via conflict-free accesses",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Nvmevirt: a versatile software-defined virtual nvme device",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "FTL design exploration in reconfigurable high-performance SSD for server applications",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Performance modeling and practical use cases for black-box SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3440022",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Mqsim: a framework for enabling realistic studies of modern multi-queue SSD devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings",
+      "arxiv_id": null,
+      "doi": "10.1145/1508284.1508271",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Faster FTL for enterprise-class flash memory SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "FLIN: enabling fairness and enhancing performance in modern nvme solid state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Design tradeoffs for SSD performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "Error characterization, mitigation, and recovery in flash-memory-based solid-state drives",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Reprogramming 3d TLC flash memory based solid state drives",
+      "arxiv_id": null,
+      "doi": "10.1145/3487064",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Decoupled SSD: reducing data movement on NAND-based flash SSD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Reducing SSD access latency via NAND flash program and erase suspension",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2013.12.002",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Networked SSD: flash memory interconnection network for high-bandwidth SSD",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Practical erase suspension for modern low-latency SSDs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Vulnerabilities in MLC NAND flash memory programming: experimental analysis, exploits, and mitigation techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "SAW: system-assisted wear leveling on the write endurance of NAND flash devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Wear leveling technique using random selection method in flash storage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Retention leveling: leverage retention refreshing and wear leveling techniques to enhance flash reliability with the awareness of temperature",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Wear-aware out-of-order dynamic scheduling for NAND flash-based consumer electronics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "On the cost of near-perfect wear leveling in flash-based SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3576855",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Leveraging static and dynamic wear leveling to prolong the lifespan of solid-state drives",
+      "arxiv_id": null,
+      "doi": "10.3390/app14188186",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "A detailed analysis of issues with solid-state devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Common SSD firmware features",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Comparative study of wear-leveling in solid-state drive with NTFS file system",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Highly VM-scalable SSD in cloud storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Reliability characterization of solid state drives in a scalable production datacenter",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Research and summary on various mapping methods in FTL",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Flash storage technology status and development research",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Flash SSD VS HDD: high performance oriented modern embedded and multimedia storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Reviewing the evolution of the NAND flash technology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "TRIM, wear levelling and garbage collection on solid state drives: a prediction model for forensic investigators",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "NAND flash memory and its role in storage architectures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "MNFTL: an efficient flash translation layer for MLC NAND flash memory storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Lifetime improvement of NAND flash-based storage systems using dynamic program and erase scaling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "A multi-channel architecture for high-performance NAND flash-based storage system",
+      "arxiv_id": null,
+      "doi": "10.1016/j.sysarc.2007.01.010",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "The dirty secret of SSDs: embodied carbon",
+      "arxiv_id": null,
+      "doi": "10.1145/3630614.3630616",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Forensic analysis of wear leveling on solid-state media",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Evanesco: architectural support for efficient data sanitization in modern flash-based storage systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Lazy-WL: a wear-aware load balanced data redistribution method for efficient SSD array scaling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Uniform scheduling of interruptible garbage collection and request IO to improve performance and wear-leveling of SSDs",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-021-04294-2",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Design and implementation of an efficient wear-leveling algorithm for solid-state-disk microcontrollers",
+      "arxiv_id": null,
+      "doi": "10.1145/1640457.1640463",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "SWANS: an interdisk wear-leveling strategy for RAID-0 structured SSD arrays",
+      "arxiv_id": null,
+      "doi": "10.1145/2756555",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Efficient wear-leveling-aware data placement for LSM-tree based key-value store on ZNS SSDs",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jksuci.2024.102156",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Balancing page endurance variation between layers to extend 3d NAND flash memory lifetime",
+      "arxiv_id": null,
+      "doi": "10.3390/mi15121447",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "REO: revisiting erase operation for improving lifetime and performance of modern NAND flash-based SSDs",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics14040738",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Heatwatch: improving 3d NAND flash memory device reliability by exploiting self-recovery and temperature awareness",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+topic: Multi-modal Knowledge Graph Entity Alignment
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1007/s00778-026-00986-4
+  title: 'Multi-modal knowledge graph entity alignment: a comprehensive survey'
+  published: '2026-07-07'
+notes: 8차 광역 모집 (2026-09-02). venue=VLDBJ, Crossref refs-count=150

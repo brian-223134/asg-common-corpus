@@ -1,0 +1,2333 @@
+{
+  "candidate": {
+    "topic": "Multi-Fidelity Methods for Optimization",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3801959",
+      "title": "Multi-Fidelity Methods for Optimization: A Survey",
+      "published": "2026-05-15"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=272"
+  },
+  "extracted_at": "2026-09-02T02:30:24+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 328,
+    "arxiv_resolvable": 79,
+    "doi_only": 221,
+    "unresolved": 28
+  },
+  "gt_s2": {
+    "paperId": "93f79916b344ead604fe8e57ad14b0c11bb8ce9c",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2402-09638",
+      "ArXiv": "2402.09638",
+      "DOI": "10.1145/3801959",
+      "CorpusId": 267682197
+    },
+    "title": "Multi-Fidelity Methods for Optimization: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 328,
+    "publicationDate": "2024-02-15"
+  },
+  "refs": [
+    {
+      "title": "Efficient Hyperparameter Optimization with Adaptive Fidelity Identification",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52733.2024.02474",
+      "publicationDate": "2024-06-16",
+      "year": 2024
+    },
+    {
+      "title": "Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence",
+      "arxiv_id": "2312.03212",
+      "doi": "10.48550/arXiv.2312.03212",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators",
+      "arxiv_id": "2310.17630",
+      "doi": "10.48550/arXiv.2310.17630",
+      "publicationDate": "2023-10-26",
+      "year": 2023
+    },
+    {
+      "title": "LogD7.4 prediction enhanced by transferring knowledge from chromatographic retention time, microscopic pKa and logP",
+      "arxiv_id": null,
+      "doi": "10.1186/s13321-023-00754-4",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "Multi-fidelity data-driven optimization design framework for self-piercing riveting process parameters",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmapro.2023.05.103",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC53210.2023.10254060",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Fidelity Active Learning with GFlowNets",
+      "arxiv_id": "2306.11715",
+      "doi": "10.48550/arXiv.2306.11715",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "An Iterative Two-Stage Multifidelity Optimization Algorithm for Computationally Expensive Problems",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2022.3170970",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Accelerated Design of Architected Materials with Multifidelity Bayesian Optimization",
+      "arxiv_id": null,
+      "doi": "10.1061/jenmdt.emeng-7033",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation CVPR Proceedings",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52729.2023.01183",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Using physical property surrogate models to perform accelerated multi-fidelity optimization of force field parameters",
+      "arxiv_id": null,
+      "doi": "10.1039/d2dd00138a",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "A review of surrogate-assisted evolutionary algorithms for expensive optimization problems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2022.119495",
+      "publicationDate": "2023-05-01",
+      "year": 2023
+    },
+    {
+      "title": "MF-PCBA: Multifidelity High-Throughput Screening Benchmarks for Drug Discovery and Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.2c01569",
+      "publicationDate": "2023-04-14",
+      "year": 2023
+    },
+    {
+      "title": "Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars",
+      "arxiv_id": null,
+      "doi": "10.1109/TETCI.2022.3210998",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Transfer learning-driven inversion method for the imaging problem in electrical capacitance tomography",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2023.120277",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "Improved GNNs for Log D7.4 Prediction by Transferring Knowledge from Low-Fidelity Data",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.2c01564",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "Quality Indicators for Preference-Based Evolutionary Multiobjective Optimization Using a Reference Point: A Review and Analysis",
+      "arxiv_id": "2301.12148",
+      "doi": "10.1109/TEVC.2023.3319009",
+      "publicationDate": "2023-01-28",
+      "year": 2023
+    },
+    {
+      "title": "Multi-fidelity model and reduced-order method for comprehensive hydrodynamic performance optimization and prediction of JBC ship",
+      "arxiv_id": null,
+      "doi": "10.1016/j.oceaneng.2022.113321",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "MTLP-JR: Multi-task learning-based prediction for joint ranking in neural architecture search",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2022.108474",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "A multi-fidelity machine learning approach to high throughput materials screening",
+      "arxiv_id": null,
+      "doi": "10.1038/s41524-022-00947-9",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "A sparse multi-fidelity surrogate-based optimization method with computational awareness",
+      "arxiv_id": null,
+      "doi": "10.1007/s00366-022-01766-8",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Combining Multi-Fidelity Modelling and Asynchronous Batch Bayesian Optimization",
+      "arxiv_id": "2211.06149",
+      "doi": "10.48550/arXiv.2211.06149",
+      "publicationDate": "2022-11-11",
+      "year": 2022
+    },
+    {
+      "title": "A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments",
+      "arxiv_id": "2211.02879",
+      "doi": "10.1109/TEVC.2023.3307244",
+      "publicationDate": "2022-11-05",
+      "year": 2022
+    },
+    {
+      "title": "MF-SuP-pKa: Multi-fidelity modeling with subgraph pooling mechanism for pKa prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.apsb.2022.11.010",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Physics-informed multi-fidelity learning-driven imaging method for electrical capacitance tomography",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2022.105467",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Gaussian Process-based Multi-fidelity Bayesian Optimization for Simulated Chemical Reactors",
+      "arxiv_id": "2210.17213",
+      "doi": "10.48550/arXiv.2210.17213",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Fidelity Bayesian Optimization with Unreliable Information Sources",
+      "arxiv_id": "2210.13937",
+      "doi": "10.48550/arXiv.2210.13937",
+      "publicationDate": "2022-10-25",
+      "year": 2022
+    },
+    {
+      "title": "Integrated optimization design for horizontal well spacing and fracture stage placement in shale gas reservoir",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jngse.2022.104706",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "A Generalized Framework of Multifidelity Max-Value Entropy Search Through Joint Entropy",
+      "arxiv_id": null,
+      "doi": "10.1162/neco_a_01530",
+      "publicationDate": "2022-08-08",
+      "year": 2022
+    },
+    {
+      "title": "A multi-output multi-fidelity Gaussian process model for non-hierarchical low-fidelity data fusion",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2022.109645",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "An intelligent multi-fidelity surrogate-assisted multi-objective reservoir production optimization method based on transfer stacking",
+      "arxiv_id": null,
+      "doi": "10.1007/s10596-022-10160-8",
+      "publicationDate": "2022-07-15",
+      "year": 2022
+    },
+    {
+      "title": "PASHA: Efficient HPO and NAS with Progressive Resource Allocation",
+      "arxiv_id": "2207.06940",
+      "doi": null,
+      "publicationDate": "2022-07-14",
+      "year": 2022
+    },
+    {
+      "title": "Non-Myopic Multifidelity Bayesian Optimization",
+      "arxiv_id": "2207.06325",
+      "doi": "10.1016/j.knosys.2024.111959",
+      "publicationDate": "2022-07-13",
+      "year": 2022
+    },
+    {
+      "title": "Black-box adversarial attack via overlapped shapes",
+      "arxiv_id": null,
+      "doi": "10.1145/3520304.3528934",
+      "publicationDate": "2022-07-09",
+      "year": 2022
+    },
+    {
+      "title": "Adversarial example generation via genetic algorithm: a preliminary result",
+      "arxiv_id": null,
+      "doi": "10.1145/3520304.3528981",
+      "publicationDate": "2022-07-09",
+      "year": 2022
+    },
+    {
+      "title": "A surrogate-assisted evolutionary algorithm with hypervolume triggered fidelity adjustment for noisy multiobjective integer programming",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2022.109263",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Infinite-Fidelity Coregionalization for Physical Simulation",
+      "arxiv_id": "2207.00678",
+      "doi": "10.48550/arXiv.2207.00678",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "DaNuoYi: Evolutionary Multitask Injection Testing on Web Application Firewalls",
+      "arxiv_id": "2206.05743",
+      "doi": "10.1109/TSE.2023.3343716",
+      "publicationDate": "2022-06-12",
+      "year": 2022
+    },
+    {
+      "title": "A multifidelity approach coupling parameter space reduction and nonintrusive POD with application to structural optimization of passenger ship hulls",
+      "arxiv_id": "2206.01243",
+      "doi": "10.1002/nme.7159",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts",
+      "arxiv_id": "2205.14344",
+      "doi": "10.48550/arXiv.2205.14344",
+      "publicationDate": "2022-05-28",
+      "year": 2022
+    },
+    {
+      "title": "Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?",
+      "arxiv_id": "2205.14349",
+      "doi": "10.48550/arXiv.2205.14349",
+      "publicationDate": "2022-05-28",
+      "year": 2022
+    },
+    {
+      "title": "A sequential multi-fidelity surrogate-based optimization methodology based on expected improvement reduction",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-022-03240-x",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Missile aerodynamic shape optimization design using deep neural networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ast.2022.107640",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Analytical Benchmark Problems for Multifidelity Optimization Methods",
+      "arxiv_id": "2204.07867",
+      "doi": "10.48550/arXiv.2204.07867",
+      "publicationDate": "2022-04-16",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Fidelity Gradient-Based Optimization for High-Dimensional Aeroelastic Configurations",
+      "arxiv_id": null,
+      "doi": "10.3390/a15040131",
+      "publicationDate": "2022-04-16",
+      "year": 2022
+    },
+    {
+      "title": "A Multifidelity Approach for Bilevel Optimization With Limited Computing Budget",
+      "arxiv_id": null,
+      "doi": "10.1109/tevc.2021.3120111",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "BERTopic: Neural topic modeling with a class-based TF-IDF procedure",
+      "arxiv_id": "2203.05794",
+      "doi": "10.48550/arXiv.2203.05794",
+      "publicationDate": "2022-03-11",
+      "year": 2022
+    },
+    {
+      "title": "Supervising the Multi-Fidelity Race of Hyperparameter Configurations",
+      "arxiv_id": "2202.09774",
+      "doi": "10.52202/068431-0979",
+      "publicationDate": "2022-02-20",
+      "year": 2022
+    },
+    {
+      "title": "A Data-driven Multi-fidelity Physics-informed Learning Framework for Smart Manufacturing: A Composites Processing Case Study",
+      "arxiv_id": "2202.06139",
+      "doi": "10.1109/ICPS51978.2022.9816983",
+      "publicationDate": "2022-02-12",
+      "year": 2022
+    },
+    {
+      "title": "Deep learning of inverse water waves problems using multi-fidelity data: Application to Serre-Green-Naghdi equations",
+      "arxiv_id": "2202.02899",
+      "doi": "10.1016/j.oceaneng.2022.110775",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "A rapid intelligent multi-fidelity surrogate-assisted multi-objective optimization method for water-flooding reservoir production optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/s12517-022-09575-5",
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "Improving Small Molecule pK a Prediction Using Transfer Learning With Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1101/2022.01.20.476787",
+      "publicationDate": "2022-01-20",
+      "year": 2022
+    },
+    {
+      "title": "Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale",
+      "arxiv_id": "2201.06834",
+      "doi": "10.14778/3514061.3514071",
+      "publicationDate": "2022-01-18",
+      "year": 2022
+    },
+    {
+      "title": "Application of Multi-Fidelity Physics-Informed Neural Network on Transonic Airfoil using Wind Tunnel Measurements",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2022-0386",
+      "publicationDate": "2022-01-03",
+      "year": 2022
+    },
+    {
+      "title": "A multi-fidelity surrogate modeling approach for incorporating multiple non-hierarchical low-fidelity data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2021.101430",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Data-driven multifidelity topology design using a deep generative model: Application to forced convection heat transfer problems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cma.2021.114284",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "GPTuneBand: Multi-task and Multi-fidelity Autotuning for Large-scale High Performance Computing Applications",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9781611977141.1",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "A physics-informed multi-fidelity approach for the estimation of differential equations parameters in low-data or large-noise regimes",
+      "arxiv_id": null,
+      "doi": "10.4171/rlm/943",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "A competitive variable-fidelity surrogate-assisted CMA-ES algorithm using data mining techniques",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ast.2021.107084",
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Computationally efficient integrated design and predictive control of flexible energy systems using multi‐fidelity simulation‐based Bayesian optimization",
+      "arxiv_id": null,
+      "doi": "10.1002/oca.2817",
+      "publicationDate": "2021-11-09",
+      "year": 2021
+    },
+    {
+      "title": "Adaptive active subspace-based efficient multifidelity materials design",
+      "arxiv_id": null,
+      "doi": "10.1016/J.MATDES.2021.110001",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/SMC52423.2021.9659200",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "ADMM-based OPF Problem Against Cyber Attacks in Smart Grid",
+      "arxiv_id": null,
+      "doi": "10.1109/SMC52423.2021.9658699",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "Multi-fidelity prediction of molecular optical peaks with deep learning",
+      "arxiv_id": null,
+      "doi": "10.1039/d1sc05677h",
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion",
+      "arxiv_id": "2109.14860",
+      "doi": "10.1016/j.jcp.2022.111301",
+      "publicationDate": "2021-09-30",
+      "year": 2021
+    },
+    {
+      "title": "Posterior Decision Making Based on Decomposition-Driven Knee Point Identification",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2021.3116121",
+      "publicationDate": "2021-09-28",
+      "year": 2021
+    },
+    {
+      "title": "HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO",
+      "arxiv_id": "2109.06716",
+      "doi": null,
+      "publicationDate": "2021-09-14",
+      "year": 2021
+    },
+    {
+      "title": "Adaptive cost-aware Bayesian optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.107481",
+      "publicationDate": "2021-09-09",
+      "year": 2021
+    },
+    {
+      "title": "YAHPO Gym - An Efficient Multi-Objective Multi-Fidelity Benchmark for Hyperparameter Optimization",
+      "arxiv_id": "2109.03670",
+      "doi": null,
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "Metamodel-based multidisciplinary design optimization methods for aerospace system",
+      "arxiv_id": null,
+      "doi": "10.1007/s42064-021-0109-x",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "An Efficient Surrogate-Based Optimization Method for BWBUG Based on Multifidelity Model and Geometric Constraint Gradients",
+      "arxiv_id": null,
+      "doi": "10.1155/2021/6939863",
+      "publicationDate": "2021-08-24",
+      "year": 2021
+    },
+    {
+      "title": "Neural Architecture Search for Portrait Parsing",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2021.3104872",
+      "publicationDate": "2021-08-19",
+      "year": 2021
+    },
+    {
+      "title": "IMPROVING THE FILM COOLING PERFORMANCE OF A TURBINE ENDWALL WITH MULTI-FIDELITY MODELING CONSIDERING CONJUGATE HEAT TRANSFER",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4052018",
+      "publicationDate": "2021-08-05",
+      "year": 2021
+    },
+    {
+      "title": "Scaling Gaussian Processes with Derivative Information Using Variational Inference",
+      "arxiv_id": "2107.04061",
+      "doi": null,
+      "publicationDate": "2021-07-08",
+      "year": 2021
+    },
+    {
+      "title": "Batch Multi-Fidelity Bayesian Optimization with Deep Auto-Regressive Networks",
+      "arxiv_id": "2106.09884",
+      "doi": null,
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "Deep reinforcement learning-based methods for resource scheduling in cloud computing: a review and future directions",
+      "arxiv_id": "2105.04086",
+      "doi": "10.1007/s10462-024-10756-9",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Multi-fidelity surrogate model-based airfoil optimization at a transitional low Reynolds number",
+      "arxiv_id": null,
+      "doi": "10.1007/s12046-021-01580-w",
+      "publicationDate": "2021-03-24",
+      "year": 2021
+    },
+    {
+      "title": "Optimization design of metamaterial vibration isolator with honeycomb structure based on multi-fidelity surrogate model",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-021-02891-6",
+      "publicationDate": "2021-03-19",
+      "year": 2021
+    },
+    {
+      "title": "An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization",
+      "arxiv_id": "2103.06382",
+      "doi": "10.1007/978-3-030-72062-9_19",
+      "publicationDate": "2021-03-10",
+      "year": 2021
+    },
+    {
+      "title": "Multi-Objective Reinforcement Learning based Multi-Microgrid System Optimisation Problem",
+      "arxiv_id": "2103.06380",
+      "doi": "10.1007/978-3-030-72062-9_54",
+      "publicationDate": "2021-03-10",
+      "year": 2021
+    },
+    {
+      "title": "Efficiently exploiting process-structure-property relationships in material design by multi-information source fusion",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ACTAMAT.2020.116619",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Single- and Multipoint Aerodynamic Shape Optimization Using Multifidelity Models and Manifold Mapping",
+      "arxiv_id": null,
+      "doi": "10.2514/1.C035297",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "GIBBON: General-purpose Information-Based Bayesian OptimisatioN",
+      "arxiv_id": "2102.03324",
+      "doi": null,
+      "publicationDate": "2021-02-05",
+      "year": 2021
+    },
+    {
+      "title": "A fast multi-fidelity method with uncertainty quantification for complex data correlations: Application to vortex-induced vibrations of marine risers",
+      "arxiv_id": "2012.13481",
+      "doi": "10.1016/j.cma.2021.114212",
+      "publicationDate": "2020-12-25",
+      "year": 2020
+    },
+    {
+      "title": "MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements",
+      "arxiv_id": "2012.03011",
+      "doi": "10.1609/aaai.v35i10.17031",
+      "publicationDate": "2020-12-05",
+      "year": 2020
+    },
+    {
+      "title": "Performance Analysis of SDN and NFV enabled Mobile Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/GLOBECOM42002.2020.9322530",
+      "publicationDate": "2020-12-01",
+      "year": 2020
+    },
+    {
+      "title": "Hierarchical regression framework for multi-fidelity modeling",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2020.106587",
+      "publicationDate": "2020-11-10",
+      "year": 2020
+    },
+    {
+      "title": "Multi-fidelity meta-optimization for nature inspired optimization algorithms",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2020.106619",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "The Potential of a Multifidelity Approach to Gas Turbine Combustor Design Optimization",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4048654",
+      "publicationDate": "2020-10-02",
+      "year": 2020
+    },
+    {
+      "title": "Extraction of material properties through multi-fidelity deep learning from molecular dynamics simulation",
+      "arxiv_id": "2009.13106",
+      "doi": "10.1016/j.commatsci.2020.110187",
+      "publicationDate": "2020-09-28",
+      "year": 2020
+    },
+    {
+      "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+      "arxiv_id": null,
+      "doi": "10.1186/s13643-021-01626-4",
+      "publicationDate": "2020-09-14",
+      "year": 2020
+    },
+    {
+      "title": "Multi-fidelity bayesian optimization using model-order reduction for viscoplastic structures",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FINEL.2020.103400",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "BiLO-CPDP: Bi-Level Programming for Automated Model Discovery in Cross-Project Defect Prediction",
+      "arxiv_id": "2008.13489",
+      "doi": "10.1145/3324884.3416617",
+      "publicationDate": "2020-08-31",
+      "year": 2020
+    },
+    {
+      "title": "MF2: A Collection of Multi-Fidelity Benchmark Functions in Python",
+      "arxiv_id": null,
+      "doi": "10.21105/joss.02049",
+      "publicationDate": "2020-08-25",
+      "year": 2020
+    },
+    {
+      "title": "Design optimization of variable stiffness composites by using multi-fidelity surrogate models",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-020-02684-3",
+      "publicationDate": "2020-07-23",
+      "year": 2020
+    },
+    {
+      "title": "Multi-Fidelity Bayesian Optimization via Deep Neural Networks",
+      "arxiv_id": "2007.03117",
+      "doi": null,
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Bandit Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1017/9781108571401",
+      "publicationDate": "2020-07-04",
+      "year": 2020
+    },
+    {
+      "title": "Transfer stacking from low-to high-fidelity: A surrogate-assisted bi-fidelity evolutionary algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2020.106276",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "An adaptive multi-fidelity approach for design optimization of mesostructure-structure systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-020-02501-x",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Surrogate Assisted Evolutionary Algorithm Based on Transfer Learning for Dynamic Expensive Multi-Objective Optimisation Problems",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC48606.2020.9185522",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Overview of Gaussian process based multi-fidelity techniques with variable relationship between fidelities",
+      "arxiv_id": "2006.16728",
+      "doi": "10.1016/j.ast.2020.106339",
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Understanding the Automated Parameter Optimization on Transfer Learning for Cross-Project Defect Prediction: An Empirical Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3377811.3380360",
+      "publicationDate": "2020-06-27",
+      "year": 2020
+    },
+    {
+      "title": "MUMBO: MUlti-task Max-value Bayesian Optimization",
+      "arxiv_id": "2006.12093",
+      "doi": "10.1007/978-3-030-67664-3_27",
+      "publicationDate": "2020-06-22",
+      "year": 2020
+    },
+    {
+      "title": "DeepSQLi: deep semantic learning for testing SQL injection",
+      "arxiv_id": "2005.11728",
+      "doi": "10.1145/3395363.3397375",
+      "publicationDate": "2020-05-24",
+      "year": 2020
+    },
+    {
+      "title": "Transfer learning based multi-fidelity physics informed deep neural network",
+      "arxiv_id": "2005.10614",
+      "doi": "10.1016/j.jcp.2020.109942",
+      "publicationDate": "2020-05-19",
+      "year": 2020
+    },
+    {
+      "title": "A multi-fidelity RBF surrogate-based optimization framework for computationally expensive multi-modal problems with application to capacity planning of manufacturing systems",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-020-02575-7",
+      "publicationDate": "2020-05-17",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive Operator Selection Based on Dynamic Thompson Sampling for MOEA/D",
+      "arxiv_id": "2004.10874",
+      "doi": "10.1007/978-3-030-58115-2_19",
+      "publicationDate": "2020-04-22",
+      "year": 2020
+    },
+    {
+      "title": "Cost-aware Bayesian Optimization",
+      "arxiv_id": "2003.10870",
+      "doi": null,
+      "publicationDate": "2020-03-22",
+      "year": 2020
+    },
+    {
+      "title": "Extraction of mechanical properties of materials through deep learning from instrumented indentation",
+      "arxiv_id": null,
+      "doi": "10.1073/pnas.1922210117",
+      "publicationDate": "2020-03-16",
+      "year": 2020
+    },
+    {
+      "title": "Routing-Led Placement of VNFs in Arbitrary Networks",
+      "arxiv_id": "2001.11565",
+      "doi": "10.1109/CEC48606.2020.9185531",
+      "publicationDate": "2020-01-30",
+      "year": 2020
+    },
+    {
+      "title": "Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1007/s11269-020-02485-9",
+      "publicationDate": "2020-01-07",
+      "year": 2020
+    },
+    {
+      "title": "Multi-Fidelity, Gradient-enhanced, and Locally Optimized Sparse Polynomial Chaos and Kriging Surrogate Models Applied to Benchmark Problems",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2020-0677",
+      "publicationDate": "2020-01-06",
+      "year": 2020
+    },
+    {
+      "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search",
+      "arxiv_id": "2001.00326",
+      "doi": null,
+      "publicationDate": "2020-01-02",
+      "year": 2020
+    },
+    {
+      "title": "Efficient aerodynamic shape optimization using variable-fidelity surrogate models and multilevel computational grids",
+      "arxiv_id": null,
+      "doi": "10.1016/J.CJA.2019.05.001",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Surrogate-based aerodynamic shape optimization of hypersonic flows considering transonic performance",
+      "arxiv_id": null,
+      "doi": "10.1016/J.AST.2019.105345",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "A multiple surrogate assisted multi/many-objective multi-fidelity evolutionary algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INS.2019.06.016",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multiobjective Optimization Using Reference Points",
+      "arxiv_id": "1909.13567",
+      "doi": "10.1109/TEVC.2020.2987559",
+      "publicationDate": "2019-09-30",
+      "year": 2019
+    },
+    {
+      "title": "Application of deep learning based multi-fidelity surrogate model to robust aerodynamic design optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/J.AST.2019.07.002",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "A two-stage adaptive multi-fidelity surrogate model-assisted multi-objective genetic algorithm for computationally expensive problems",
+      "arxiv_id": null,
+      "doi": "10.1007/s00366-019-00844-8",
+      "publicationDate": "2019-08-20",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4044400",
+      "publicationDate": "2019-08-18",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Adaptive multi-fidelity sampling for CFD-based optimisation via radial basis function metamodels",
+      "arxiv_id": null,
+      "doi": "10.1080/10618562.2019.1683164",
+      "publicationDate": "2019-08-09",
+      "year": 2019
+    },
+    {
+      "title": "Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain",
+      "arxiv_id": "1908.02172",
+      "doi": "10.1016/j.ins.2020.12.010",
+      "publicationDate": "2019-08-06",
+      "year": 2019
+    },
+    {
+      "title": "A multi-fidelity surrogate model based on support vector regression",
+      "arxiv_id": "1906.09439",
+      "doi": "10.1007/s00158-020-02522-6",
+      "publicationDate": "2019-06-22",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Fidelity Near-Optimal on-Line Control of a Parallel Hybrid Electric Vehicle Powertrain",
+      "arxiv_id": null,
+      "doi": "10.1109/ITEC.2019.8790634",
+      "publicationDate": "2019-06-19",
+      "year": 2019
+    },
+    {
+      "title": "Multi-Fidelity Global-Local Optimization of a Transonic Compressor Rotor",
+      "arxiv_id": null,
+      "doi": "10.1115/gt2019-91778",
+      "publicationDate": "2019-06-17",
+      "year": 2019
+    },
+    {
+      "title": "A Three-Stage Surrogate Model Assisted Multi-Objective Genetic Algorithm for Computationally Expensive Problems",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC.2019.8790241",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Learning to Decompose: A Paradigm for Decomposition-Based Multiobjective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2018.2865931",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Accelerating extrusion-based additive manufacturing optimization processes with surrogate-based multi-fidelity models",
+      "arxiv_id": null,
+      "doi": "10.1007/S00170-019-03813-Z",
+      "publicationDate": "2019-05-17",
+      "year": 2019
+    },
+    {
+      "title": "Multi-fidelity Kriging-assisted structural optimization of whole engine models employing medial meshes",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-019-02242-6",
+      "publicationDate": "2019-05-11",
+      "year": 2019
+    },
+    {
+      "title": "Multi-fidelity Electro-thermal optimization of Multiport Converter employing SiC MOSFET and Indirect Liquid Cooling",
+      "arxiv_id": null,
+      "doi": "10.1109/EVER.2019.8813599",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Input Mapping for Model Calibration with Application to Wing Aerodynamics",
+      "arxiv_id": null,
+      "doi": "10.2514/1.J057711",
+      "publicationDate": "2019-04-26",
+      "year": 2019
+    },
+    {
+      "title": "Kriging",
+      "arxiv_id": null,
+      "doi": "10.1093/oso/9780198835660.003.0004",
+      "publicationDate": "2019-04-11",
+      "year": 2019
+    },
+    {
+      "title": "An on-line variable-fidelity surrogate-assisted harmony search algorithm with multi-level screening strategy for expensive engineering design optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2019.01.004",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "A radial basis function-based multi-fidelity surrogate model: exploring correlation between high-fidelity and low-fidelity models",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-019-02248-0",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Multi-fidelity model based optimization of shaped film cooling hole and experimental validation",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IJHEATMASSTRANSFER.2018.11.156",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Issues in Deciding Whether to Use Multifidelity Surrogates",
+      "arxiv_id": null,
+      "doi": "10.2514/1.J057750",
+      "publicationDate": "2019-03-19",
+      "year": 2019
+    },
+    {
+      "title": "Deep Gaussian Processes for Multi-fidelity Modeling",
+      "arxiv_id": "1903.07320",
+      "doi": null,
+      "publicationDate": "2019-03-18",
+      "year": 2019
+    },
+    {
+      "title": "Progressive Preference Learning: Proof-of-Principle Results in MOEA/D",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-12598-1_50",
+      "publicationDate": "2019-03-10",
+      "year": 2019
+    },
+    {
+      "title": "A Formal Model for Multi-objective Optimisation of Network Function Virtualisation Placement",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-12598-1_42",
+      "publicationDate": "2019-03-10",
+      "year": 2019
+    },
+    {
+      "title": "Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons",
+      "arxiv_id": "1903.01768",
+      "doi": "10.1109/CEC.2019.8790298",
+      "publicationDate": "2019-03-05",
+      "year": 2019
+    },
+    {
+      "title": "Multifidelity Optimization of Hybrid Wing–Body Aircraft with Stability and Control Requirements",
+      "arxiv_id": null,
+      "doi": "10.2514/1.C034703",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems",
+      "arxiv_id": "1903.00104",
+      "doi": "10.1016/j.jcp.2019.109020",
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "NAS-Bench-101: Towards Reproducible Neural Architecture Search",
+      "arxiv_id": "1902.09635",
+      "doi": null,
+      "publicationDate": "2019-02-25",
+      "year": 2019
+    },
+    {
+      "title": "Which Surrogate Works for Empirical Performance Modelling? A Case Study with Differential Evolution",
+      "arxiv_id": "1901.11120",
+      "doi": "10.1109/CEC.2019.8789984",
+      "publicationDate": "2019-01-30",
+      "year": 2019
+    },
+    {
+      "title": "R-Metric: Evaluating the Performance of Preference-Based Evolutionary Multiobjective Optimization Using Reference Points",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2017.2737781",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "A Generic Test Suite for Evolutionary Multifidelity Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2017.2758360",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "Understanding and Comparing Scalable Gaussian Process Regression for Big Data",
+      "arxiv_id": "1811.01159",
+      "doi": "10.1016/J.KNOSYS.2018.11.002",
+      "publicationDate": "2018-11-03",
+      "year": 2018
+    },
+    {
+      "title": "A System for Massively Parallel Hyperparameter Tuning",
+      "arxiv_id": "1810.05934",
+      "doi": null,
+      "publicationDate": "2018-10-13",
+      "year": 2018
+    },
+    {
+      "title": "Integration of Preferences in Decomposition Multiobjective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TCYB.2018.2859363",
+      "publicationDate": "2018-08-20",
+      "year": 2018
+    },
+    {
+      "title": "Identifying optimal process parameters in deep penetration laser welding by adopting Hierarchical-Kriging model",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INFRARED.2018.07.006",
+      "publicationDate": "2018-08-01",
+      "year": 2018
+    },
+    {
+      "title": "Multi-Information Source Fusion and Optimization to Realize ICME: Application to Dual-Phase Materials",
+      "arxiv_id": "1809.09686",
+      "doi": "10.1115/1.4041034",
+      "publicationDate": "2018-07-17",
+      "year": 2018
+    },
+    {
+      "title": "BOHB: Robust and Efficient Hyperparameter Optimization at Scale",
+      "arxiv_id": "1807.01774",
+      "doi": null,
+      "publicationDate": "2018-07-03",
+      "year": 2018
+    },
+    {
+      "title": "A multi-fidelity shape optimization via surrogate modeling for civil structures",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JWEIA.2018.04.022",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Variable-Fidelity Optimization of Film-Cooling Hole Arrangements Considering Conjugate Heat Transfer",
+      "arxiv_id": null,
+      "doi": "10.2514/1.B36880",
+      "publicationDate": "2018-06-29",
+      "year": 2018
+    },
+    {
+      "title": "Survey of multifidelity methods in uncertainty propagation, inference, and optimization",
+      "arxiv_id": "1806.10761",
+      "doi": "10.1137/16M1082469",
+      "publicationDate": "2018-06-28",
+      "year": 2018
+    },
+    {
+      "title": "Multidisciplinary and Multifidelity Design Optimization of Electric Vehicle Battery Thermal Management System",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4040484",
+      "publicationDate": "2018-06-22",
+      "year": 2018
+    },
+    {
+      "title": "Analysis of dataset selection for multi-fidelity surrogates for a turbine problem",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-018-2001-8",
+      "publicationDate": "2018-05-25",
+      "year": 2018
+    },
+    {
+      "title": "Variable-fidelity expected improvement method for efficient global optimization of expensive functions",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-018-1971-x",
+      "publicationDate": "2018-05-05",
+      "year": 2018
+    },
+    {
+      "title": "An on-line variable fidelity metamodel assisted Multi-objective Genetic Algorithm for engineering design optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2018.02.033",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Multi-fidelity optimization of super-cavitating hydrofoils",
+      "arxiv_id": null,
+      "doi": "10.1016/J.CMA.2017.12.009",
+      "publicationDate": "2018-04-15",
+      "year": 2018
+    },
+    {
+      "title": "Parallelised Bayesian Optimisation via Thompson Sampling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-03-31",
+      "year": 2018
+    },
+    {
+      "title": "The Gaussian Process Autoregressive Regression Model (GPAR)",
+      "arxiv_id": "1802.07182",
+      "doi": "10.17863/CAM.42237",
+      "publicationDate": "2018-02-20",
+      "year": 2018
+    },
+    {
+      "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction",
+      "arxiv_id": "1802.03426",
+      "doi": null,
+      "publicationDate": "2018-02-09",
+      "year": 2018
+    },
+    {
+      "title": "Combination of Hyperband and Bayesian Optimization for Hyperparameter Optimization in Deep Learning",
+      "arxiv_id": "1801.01596",
+      "doi": null,
+      "publicationDate": "2018-01-05",
+      "year": 2018
+    },
+    {
+      "title": "Interactive Decomposition Multiobjective Optimization Via Progressively Learned Value Functions",
+      "arxiv_id": "1801.00609",
+      "doi": "10.1109/TFUZZ.2018.2880700",
+      "publicationDate": "2018-01-02",
+      "year": 2018
+    },
+    {
+      "title": "Kriging-based multi-fidelity optimization via information fusion with uncertainty",
+      "arxiv_id": null,
+      "doi": "10.1007/s12206-017-1225-7",
+      "publicationDate": "2018-01-01",
+      "year": 2018
+    },
+    {
+      "title": "Multi-Fidelity Multi-Objective Efficient Global Optimization Applied to Airfoil Design Problems",
+      "arxiv_id": null,
+      "doi": "10.3390/APP7121318",
+      "publicationDate": "2017-12-18",
+      "year": 2017
+    },
+    {
+      "title": "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations",
+      "arxiv_id": "1711.10561",
+      "doi": null,
+      "publicationDate": "2017-11-28",
+      "year": 2017
+    },
+    {
+      "title": "Two-Archive Evolutionary Algorithm for Constrained Multiobjective Optimization",
+      "arxiv_id": "1711.07907",
+      "doi": "10.1109/TEVC.2018.2855411",
+      "publicationDate": "2017-11-21",
+      "year": 2017
+    },
+    {
+      "title": "A sequential multi-fidelity metamodeling approach for data regression",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2017.07.033",
+      "publicationDate": "2017-10-15",
+      "year": 2017
+    },
+    {
+      "title": "Hyperparameter Importance Across Datasets",
+      "arxiv_id": "1710.04725",
+      "doi": "10.1145/3219819.3220058",
+      "publicationDate": "2017-10-12",
+      "year": 2017
+    },
+    {
+      "title": "A multi-fidelity information fusion metamodeling assisted laser beam welding process parameter optimization approach",
+      "arxiv_id": null,
+      "doi": "10.1016/j.advengsoft.2017.04.001",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Adaptive weights generation for decomposition-based multi-objective optimization using Gaussian process regression",
+      "arxiv_id": null,
+      "doi": "10.1145/3071178.3071339",
+      "publicationDate": "2017-07-01",
+      "year": 2017
+    },
+    {
+      "title": "Multi-Fidelity Uncertainty Analysis in CFD Using Hierarchical Kriging",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2017-3261",
+      "publicationDate": "2017-06-05",
+      "year": 2017
+    },
+    {
+      "title": "Multi-objective Geometry Optimization of a Gas Cyclone Using Triple-Fidelity Co-Kriging Surrogate Models",
+      "arxiv_id": null,
+      "doi": "10.1007/s10957-017-1114-3",
+      "publicationDate": "2017-05-10",
+      "year": 2017
+    },
+    {
+      "title": "Multifidelity surrogate modeling based on radial basis functions",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-017-1703-7",
+      "publicationDate": "2017-05-04",
+      "year": 2017
+    },
+    {
+      "title": "Doubly Stochastic Variational Inference for Deep Gaussian Processes",
+      "arxiv_id": "1705.08933",
+      "doi": null,
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Evolutionary Many-Objective Optimization Based on Adversarial Decomposition",
+      "arxiv_id": "1704.02340",
+      "doi": "10.1109/TCYB.2018.2872803",
+      "publicationDate": "2017-04-07",
+      "year": 2017
+    },
+    {
+      "title": "Performance of Decomposition-Based Many-Objective Algorithms Strongly Depends on Pareto Front Shapes",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2016.2587749",
+      "publicationDate": "2017-04-01",
+      "year": 2017
+    },
+    {
+      "title": "Embedded magnetohydrodynamic liquid metal thermal transport: validated analysis and design optimization",
+      "arxiv_id": null,
+      "doi": "10.1177/1045389X16657429",
+      "publicationDate": "2017-04-01",
+      "year": 2017
+    },
+    {
+      "title": "hdbscan: Hierarchical density based clustering",
+      "arxiv_id": null,
+      "doi": "10.21105/JOSS.00205",
+      "publicationDate": "2017-03-21",
+      "year": 2017
+    },
+    {
+      "title": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+      "arxiv_id": "1703.06240",
+      "doi": null,
+      "publicationDate": "2017-03-18",
+      "year": 2017
+    },
+    {
+      "title": "Multi-fidelity machine learning models for accurate bandgap predictions of solids",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMMATSCI.2016.12.004",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "Remarks on multi-fidelity surrogates",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-016-1550-Y",
+      "publicationDate": "2017-03-01",
+      "year": 2017
+    },
+    {
+      "title": "Nonlinear information fusion algorithms for data-efficient multi-fidelity modelling",
+      "arxiv_id": null,
+      "doi": "10.1098/rspa.2016.0751",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "Adaptive infill sampling criterion for multi-fidelity optimization based on Gappy-POD",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-016-1440-3",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Rapid adjoint-based design optimization of compact microwave structures using multi-fidelity simulation models",
+      "arxiv_id": null,
+      "doi": "10.1109/EUMC.2016.7824306",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Review of multi-fidelity models",
+      "arxiv_id": "1609.07196",
+      "doi": "10.3934/acse.2023015",
+      "publicationDate": "2016-09-23",
+      "year": 2016
+    },
+    {
+      "title": "Matching-Based Selection With Incomplete Lists for Decomposition Multiobjective Optimization",
+      "arxiv_id": "1608.08607",
+      "doi": "10.1109/TEVC.2017.2656922",
+      "publicationDate": "2016-08-30",
+      "year": 2016
+    },
+    {
+      "title": "Dynamic Multiobjectives Optimization With a Changing Number of Objectives",
+      "arxiv_id": "1608.06514",
+      "doi": "10.1109/TEVC.2017.2669638",
+      "publicationDate": "2016-08-23",
+      "year": 2016
+    },
+    {
+      "title": "An active learning metamodeling approach by sequentially exploiting difference information from variable-fidelity models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.aei.2016.04.004",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "Fast Bayesian Optimization of Machine Learning Hyperparameters on Large Datasets",
+      "arxiv_id": "1605.07079",
+      "doi": null,
+      "publicationDate": "2016-05-23",
+      "year": 2016
+    },
+    {
+      "title": "Adaptive infill sampling criterion for multi-fidelity optimization based on Gappy-POD",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-016-1440-3",
+      "publicationDate": "2016-05-20",
+      "year": 2016
+    },
+    {
+      "title": "Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization",
+      "arxiv_id": "1603.06560",
+      "doi": null,
+      "publicationDate": "2016-03-21",
+      "year": 2016
+    },
+    {
+      "title": "Multi-fidelity Gaussian Process Bandit Optimisation",
+      "arxiv_id": "1603.06288",
+      "doi": "10.1613/jair.1.11288",
+      "publicationDate": "2016-03-20",
+      "year": 2016
+    },
+    {
+      "title": "Multi-Information Source Optimization",
+      "arxiv_id": "1603.00389",
+      "doi": null,
+      "publicationDate": "2016-03-01",
+      "year": 2016
+    },
+    {
+      "title": "Parameterized Design Optimization of a Magnetohydrodynamic Liquid Metal Active Cooling Concept",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4032268",
+      "publicationDate": "2016-03-01",
+      "year": 2016
+    },
+    {
+      "title": "Multi-fidelity shape optimization of hydraulic turbine runner blades using a multi-objective mesh adaptive direct search algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/J.APM.2015.09.008",
+      "publicationDate": "2016-01-15",
+      "year": 2016
+    },
+    {
+      "title": "Multi-Fidelity Aerodynamic Shape Optimization Using Manifold Mapping",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2016-0419",
+      "publicationDate": "2016-01-04",
+      "year": 2016
+    },
+    {
+      "title": "Multifidelity Optimization for High-Lift Airfoils",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2016-0557",
+      "publicationDate": "2016-01-04",
+      "year": 2016
+    },
+    {
+      "title": "Variable-Fidelity Surrogate Modeling of Lambda Wing Transonic Aerodynamic Performance",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2016-0294",
+      "publicationDate": "2016-01-04",
+      "year": 2016
+    },
+    {
+      "title": "An adaptive global variable fidelity metamodeling strategy using a support vector regression based scaling function",
+      "arxiv_id": null,
+      "doi": "10.1016/j.simpat.2015.08.002",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "Two-Level Stable Matching-Based Selection in MOEA/D",
+      "arxiv_id": null,
+      "doi": "10.1109/SMC.2015.302",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "An Evolutionary Many-Objective Optimization Algorithm Based on Dominance and Decomposition",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2014.2373386",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "Interrelationship-Based Selection for Decomposition Multiobjective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TCYB.2014.2365354",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "A dual-population paradigm for evolutionary multiobjective optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2015.03.002",
+      "publicationDate": "2015-07-10",
+      "year": 2015
+    },
+    {
+      "title": "Improving variable-fidelity modelling by exploring global design space and radial basis function networks for aerofoil design",
+      "arxiv_id": null,
+      "doi": "10.1080/0305215X.2014.941290",
+      "publicationDate": "2015-07-03",
+      "year": 2015
+    },
+    {
+      "title": "Difference mapping method using least square support vector regression for variable-fidelity metamodelling",
+      "arxiv_id": null,
+      "doi": "10.1080/0305215X.2014.918114",
+      "publicationDate": "2015-06-03",
+      "year": 2015
+    },
+    {
+      "title": "A modified variable complexity modeling for efficient multidisciplinary aircraft conceptual design",
+      "arxiv_id": null,
+      "doi": "10.1007/S11081-014-9273-7",
+      "publicationDate": "2015-06-01",
+      "year": 2015
+    },
+    {
+      "title": "Batch Bayesian Optimization via Local Penalization",
+      "arxiv_id": "1505.08052",
+      "doi": null,
+      "publicationDate": "2015-05-29",
+      "year": 2015
+    },
+    {
+      "title": "Non-stochastic Best Arm Identification and Hyperparameter Optimization",
+      "arxiv_id": "1502.07943",
+      "doi": null,
+      "publicationDate": "2015-02-27",
+      "year": 2015
+    },
+    {
+      "title": "Class-specific soft voting based multiple extreme learning machines ensemble",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2014.02.072",
+      "publicationDate": "2015-02-03",
+      "year": 2015
+    },
+    {
+      "title": "Adjoint quasi-three-dimensional aerodynamic solver for multi-fidelity wing aerodynamic shape optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/J.AST.2014.12.024",
+      "publicationDate": "2015-02-01",
+      "year": 2015
+    },
+    {
+      "title": "Modulus prediction of buckypaper based on multi-fidelity analysis involving latent variables",
+      "arxiv_id": null,
+      "doi": "10.1080/0740817X.2014.917777",
+      "publicationDate": "2015-02-01",
+      "year": 2015
+    },
+    {
+      "title": "Aerodynamic Response Quantification of Complex Hypersonic Configurations using Variable Fidelity Surrogate Modeling",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2015-1703",
+      "publicationDate": "2015-01-05",
+      "year": 2015
+    },
+    {
+      "title": "Some considerations regarding the use of multi-fidelity Kriging in the construction of surrogate models",
+      "arxiv_id": null,
+      "doi": "10.1007/s00158-014-1209-5",
+      "publicationDate": "2014-12-28",
+      "year": 2014
+    },
+    {
+      "title": "A general framework for evolutionary multiobjective optimization via manifold learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2014.03.070",
+      "publicationDate": "2014-12-25",
+      "year": 2014
+    },
+    {
+      "title": "Stable Matching-Based Selection in Evolutionary Multiobjective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2013.2293776",
+      "publicationDate": "2014-12-01",
+      "year": 2014
+    },
+    {
+      "title": "Multifidelity Multidisciplinary Whole-Engine Thermomechanical Design Optimization",
+      "arxiv_id": null,
+      "doi": "10.2514/1.B35128",
+      "publicationDate": "2014-10-20",
+      "year": 2014
+    },
+    {
+      "title": "Multifidelity Control of Aeroelastic Systems: an Immersion and Invariance Approach",
+      "arxiv_id": null,
+      "doi": "10.2514/1.G000329",
+      "publicationDate": "2014-09-11",
+      "year": 2014
+    },
+    {
+      "title": "Improving surrogate-assisted variable fidelity multi-objective optimization using a clustering algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2014.07.022",
+      "publicationDate": "2014-08-14",
+      "year": 2014
+    },
+    {
+      "title": "Integrated multifidelity, multidisciplinary evolutionary design optimization of counterrotating compressors",
+      "arxiv_id": null,
+      "doi": "10.3233/ICA-140463",
+      "publicationDate": "2014-07-01",
+      "year": 2014
+    },
+    {
+      "title": "Multilevel microwave design optimization with automated model fidelity adjustment",
+      "arxiv_id": null,
+      "doi": "10.1002/mmce.20756",
+      "publicationDate": "2014-05-01",
+      "year": 2014
+    },
+    {
+      "title": "Multi-fidelity design optimization of Francis turbine runner blades",
+      "arxiv_id": null,
+      "doi": "10.1088/1755-1315/22/1/012029",
+      "publicationDate": "2014-03-01",
+      "year": 2014
+    },
+    {
+      "title": "A multi-objective variable-fidelity optimization method for genetic algorithms",
+      "arxiv_id": null,
+      "doi": "10.1080/0305215X.2013.786063",
+      "publicationDate": "2014-02-14",
+      "year": 2014
+    },
+    {
+      "title": "Adaptive Operator Selection With Bandits for a Multiobjective Evolutionary Algorithm Based on Decomposition",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2013.2239648",
+      "publicationDate": "2014-02-01",
+      "year": 2014
+    },
+    {
+      "title": "Application of Multifidelity Expected Improvement Algorithms to Aeroelastic Design Optimization",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2014-1490",
+      "publicationDate": "2014-01-13",
+      "year": 2014
+    },
+    {
+      "title": "Multi-Task Bayesian Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "EVOLVING EXTREME LEARNING MACHINE PARADIGM WITH ADAPTIVE OPERATOR SELECTION AND PARAMETER CONTROL",
+      "arxiv_id": null,
+      "doi": "10.1142/S0218488513400229",
+      "publicationDate": "2013-10-31",
+      "year": 2013
+    },
+    {
+      "title": "Multi-fidelity Gaussian process regression for computer experiments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-10-04",
+      "year": 2013
+    },
+    {
+      "title": "Almost Optimal Exploration in Multi-Armed Bandits",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-06-16",
+      "year": 2013
+    },
+    {
+      "title": "Efficient strategy for low nox combustor design in the spatial domain using multi-fidelity solutions",
+      "arxiv_id": null,
+      "doi": "10.1115/GT2013-94317",
+      "publicationDate": "2013-06-03",
+      "year": 2013
+    },
+    {
+      "title": "Research on multi-fidelity aerodynamic optimization methods",
+      "arxiv_id": null,
+      "doi": "10.1016/J.CJA.2013.02.004",
+      "publicationDate": "2013-04-01",
+      "year": 2013
+    },
+    {
+      "title": "Learning paradigm based on jumping genes: A general framework for enhancing exploration in evolutionary multiobjective optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2012.11.002",
+      "publicationDate": "2013-03-01",
+      "year": 2013
+    },
+    {
+      "title": "Computationally Efficient Multi-Fidelity Bayesian Support Vector Regression Modeling of Planar Antenna Input Characteristics",
+      "arxiv_id": null,
+      "doi": "10.1109/TAP.2012.2220513",
+      "publicationDate": "2013-02-01",
+      "year": 2013
+    },
+    {
+      "title": "Multi-objective differential evolution with self-navigation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSMC.2012.6377775",
+      "publicationDate": "2012-12-13",
+      "year": 2012
+    },
+    {
+      "title": "Deep Gaussian Processes",
+      "arxiv_id": "1211.0358",
+      "doi": null,
+      "publicationDate": "2012-11-01",
+      "year": 2012
+    },
+    {
+      "title": "Variable fidelity design based surrogate and artificial bee colony algorithm for sheet metal forming process",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FINEL.2012.04.012",
+      "publicationDate": "2012-10-01",
+      "year": 2012
+    },
+    {
+      "title": "RECURSIVE CO-KRIGING MODEL FOR DESIGN OF COMPUTER EXPERIMENTS WITH MULTIPLE LEVELS OF FIDELITY",
+      "arxiv_id": "1210.0686",
+      "doi": "10.1615/INT.J.UNCERTAINTYQUANTIFICATION.2014006914",
+      "publicationDate": "2012-09-20",
+      "year": 2012
+    },
+    {
+      "title": "Alternative Cokriging Method for Variable-Fidelity Surrogate Modeling",
+      "arxiv_id": null,
+      "doi": "10.2514/1.J051243",
+      "publicationDate": "2012-08-28",
+      "year": 2012
+    },
+    {
+      "title": "A weighted voting method using minimum square error based on Extreme Learning Machine",
+      "arxiv_id": null,
+      "doi": "10.1109/ICMLC.2012.6358949",
+      "publicationDate": "2012-07-15",
+      "year": 2012
+    },
+    {
+      "title": "Constrained multifidelity optimization using model calibration",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-011-0749-1",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "Algorithms for Hyper-Parameter Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-12-12",
+      "year": 2011
+    },
+    {
+      "title": "Combustor Design Optimization Using Co-Kriging of Steady and Unsteady Turbulent Combustion",
+      "arxiv_id": null,
+      "doi": "10.1115/1.4004155",
+      "publicationDate": "2011-12-01",
+      "year": 2011
+    },
+    {
+      "title": "Multi-fidelity optimization for sheet metal forming process",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-010-0596-5",
+      "publicationDate": "2011-07-01",
+      "year": 2011
+    },
+    {
+      "title": "Kernels for Vector-Valued Functions: a Review",
+      "arxiv_id": "1106.6251",
+      "doi": "10.1561/2200000036",
+      "publicationDate": "2011-06-30",
+      "year": 2011
+    },
+    {
+      "title": "Multi-Objective Differential Evolution with Adaptive Control of Parameters and Operators",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-25566-3_37",
+      "publicationDate": "2011-01-17",
+      "year": 2011
+    },
+    {
+      "title": "A comparative study of metamodeling methods considering sample quality merits",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-010-0529-3",
+      "publicationDate": "2010-12-01",
+      "year": 2010
+    },
+    {
+      "title": "Simplified Cross-Correlation Estimation For Multi-Fidelity Surrogate Cokriging Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-12-01",
+      "year": 2010
+    },
+    {
+      "title": "Use of Reduced-Order Modeling Procedures for Production Optimization",
+      "arxiv_id": null,
+      "doi": "10.2118/119057-MS",
+      "publicationDate": "2010-06-01",
+      "year": 2010
+    },
+    {
+      "title": "Multi-fidelity design optimization of transonic airfoils using shape-preserving response prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2010.04.146",
+      "publicationDate": "2010-05-01",
+      "year": 2010
+    },
+    {
+      "title": "A novel algorithm for non-dominated hypervolume-based multiobjective optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSMC.2009.5345983",
+      "publicationDate": "2009-12-04",
+      "year": 2009
+    },
+    {
+      "title": "Optimization of aircraft structural components by using nature-inspired algorithms and multi-fidelity approximations",
+      "arxiv_id": null,
+      "doi": "10.1007/s10898-008-9383-x",
+      "publicationDate": "2009-11-01",
+      "year": 2009
+    },
+    {
+      "title": "Evolutionary Optimization with Dynamic Fidelity Computational Models",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-85984-0_29",
+      "publicationDate": "2008-09-15",
+      "year": 2008
+    },
+    {
+      "title": "A Multifidelity Gradient-Free Optimization Method and Application to Aerodynamic Design",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2008-6020",
+      "publicationDate": "2008-09-10",
+      "year": 2008
+    },
+    {
+      "title": "Multi-fidelity optimization via surrogate modelling",
+      "arxiv_id": null,
+      "doi": "10.1098/rspa.2007.1900",
+      "publicationDate": "2007-12-08",
+      "year": 2007
+    },
+    {
+      "title": "Multilevel optimization strategies based on metamodel-assisted evolutionary algorithms, for computationally expensive problems",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC.2007.4425008",
+      "publicationDate": "2007-09-01",
+      "year": 2007
+    },
+    {
+      "title": "A hybrid multi-fidelity approach to the optimal design of warm forming processes using a knowledge-based artificial neural network",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IJMACHTOOLS.2006.04.007",
+      "publicationDate": "2007-02-01",
+      "year": 2007
+    },
+    {
+      "title": "Variable-fidelity optimization: Efficiency and robustness",
+      "arxiv_id": null,
+      "doi": "10.1007/S11081-006-0351-3",
+      "publicationDate": "2006-12-01",
+      "year": 2006
+    },
+    {
+      "title": "Update strategies for kriging models used in variable fidelity optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-006-0025-Y",
+      "publicationDate": "2006-07-08",
+      "year": 2006
+    },
+    {
+      "title": "Sequential kriging optimization using multiple-fidelity evaluations",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-005-0587-0",
+      "publicationDate": "2006-05-23",
+      "year": 2006
+    },
+    {
+      "title": "Airfoil shape design and optimization using multifidelity analysis and embedded inverse design",
+      "arxiv_id": null,
+      "doi": "10.2514/1.18766",
+      "publicationDate": "2006-05-01",
+      "year": 2006
+    },
+    {
+      "title": "Hybrid Variable Fidelity Optimization by Using a Kriging-Based Scaling Function",
+      "arxiv_id": null,
+      "doi": "10.2514/1.12466",
+      "publicationDate": "2005-11-01",
+      "year": 2005
+    },
+    {
+      "title": "Multi-fidelity optimization of laminated conical shells for buckling",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-004-0506-9",
+      "publicationDate": "2005-03-18",
+      "year": 2005
+    },
+    {
+      "title": "Second-Order Corrections for Surrogate-Based Optimization with Model Hierarchies",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2004-4457",
+      "publicationDate": "2004-08-30",
+      "year": 2004
+    },
+    {
+      "title": "Multilevel Variable Fidelity Optimization of a Morphing Unmanned Aerial Vehicle",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2004-1763",
+      "publicationDate": "2004-04-19",
+      "year": 2004
+    },
+    {
+      "title": "Optimization Using Variable Fidelity Solvers: Exploration of an Approximation Management Framework for Aerodynamic Shape Optimization",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2002-5595",
+      "publicationDate": "2002-09-04",
+      "year": 2002
+    },
+    {
+      "title": "Multi-fidelity design of stiffened composite panel with a crack",
+      "arxiv_id": null,
+      "doi": "10.1007/S00158-002-0195-1",
+      "publicationDate": "2002-06-01",
+      "year": 2002
+    },
+    {
+      "title": "Multifidelity Response Surface Approximations for the Optimum Design of Diffuser Flows",
+      "arxiv_id": null,
+      "doi": "10.1023/A:1016046606831",
+      "publicationDate": "2001-12-01",
+      "year": 2001
+    },
+    {
+      "title": "Approximation and Model Management in Aerodynamic Optimization with Variable-Fidelity Models",
+      "arxiv_id": null,
+      "doi": "10.2514/2.2877",
+      "publicationDate": "2001-11-01",
+      "year": 2001
+    },
+    {
+      "title": "A MULTIGRID APPROACH TO THE OPTIMIZATION OF SYSTEMS GOVERNED BY DIFFERENTIAL EQUATIONS",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2000-4890",
+      "publicationDate": "2000-09-06",
+      "year": 2000
+    },
+    {
+      "title": "Neural space mapping EM optimization of microwave structures",
+      "arxiv_id": null,
+      "doi": "10.1109/MWSYM.2000.863320",
+      "publicationDate": "2000-06-11",
+      "year": 2000
+    },
+    {
+      "title": "Predicting the output from a complex computer code when fast approximations are available",
+      "arxiv_id": null,
+      "doi": "10.1093/BIOMET/87.1.1",
+      "publicationDate": "2000-03-01",
+      "year": 2000
+    },
+    {
+      "title": "Optimization with variable-fidelity models applied to wing design",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2000-841",
+      "publicationDate": "1999-12-01",
+      "year": 1999
+    },
+    {
+      "title": "A comparison of various optimization algorithms on a multilevel problem",
+      "arxiv_id": null,
+      "doi": "10.1016/S0952-1976(99)00033-0",
+      "publicationDate": "1999-10-01",
+      "year": 1999
+    },
+    {
+      "title": "A hybrid aggressive space mapping algorithm for EM optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/22.808991",
+      "publicationDate": "1999-06-13",
+      "year": 1999
+    },
+    {
+      "title": "A trust region aggressive space mapping algorithm for EM optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/22.739229",
+      "publicationDate": "1998-06-07",
+      "year": 1998
+    },
+    {
+      "title": "CORRECTION RESPONSE SURFACE APPROXIMATIONS FOR STRESS INTENSITY FACTORS OF A COMPOSITE STIFFENED PLATE",
+      "arxiv_id": null,
+      "doi": "10.2514/6.1998-2047",
+      "publicationDate": "1998-04-20",
+      "year": 1998
+    },
+    {
+      "title": "A trust-region framework for managing the use of approximation models in optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/BF01197433",
+      "publicationDate": "1997-10-01",
+      "year": 1997
+    },
+    {
+      "title": "A Probabilistic Analysis of the Rocchio Algorithm with TFIDF for Text Categorization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1997-07-08",
+      "year": 1997
+    },
+    {
+      "title": "No free lunch theorems for optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/4235.585893",
+      "publicationDate": "1997-04-01",
+      "year": 1997
+    },
+    {
+      "title": "Understanding Neural Networks as Statistical Tools",
+      "arxiv_id": null,
+      "doi": "10.1080/00031305.1996.10473554",
+      "publicationDate": "1996-11-01",
+      "year": 1996
+    },
+    {
+      "title": "Electromagnetic optimization exploiting aggressive space mapping",
+      "arxiv_id": null,
+      "doi": "10.1109/22.475649",
+      "publicationDate": "1995-12-01",
+      "year": 1995
+    },
+    {
+      "title": "Space mapping technique for electromagnetic optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/22.339794",
+      "publicationDate": "1994-12-01",
+      "year": 1994
+    },
+    {
+      "title": "Sensitivity-based scaling for approximating. Structural response",
+      "arxiv_id": null,
+      "doi": "10.2514/3.48278",
+      "publicationDate": "1993-04-01",
+      "year": 1993
+    },
+    {
+      "title": "Combining global and local approximations",
+      "arxiv_id": null,
+      "doi": "10.2514/3.10768",
+      "publicationDate": "1991-09-01",
+      "year": 1991
+    },
+    {
+      "title": "Variable-Stiffness Composite Optimization Using Dynamic and Exponential Multi-Fidelity Surrogate Models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ijmecsci.2023.108547",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Airfoil Shape Optimisation Using a Multi-Fidelity Surrogate-Assisted Metaheuristic with a New Multi-Objective Infill Sampling Technique",
+      "arxiv_id": null,
+      "doi": "10.32604/cmes.2023.028632",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Sparse Adversarial Attack via Bi-objective Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-27250-9_9",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A Test Suite for Multi-objective Multi-fidelity Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-27250-9_26",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "\"Why Not Looking backward?\" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-1881",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Attention-Based Genetic Algorithm for Adversarial Attack in Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-14714-2_24",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Optimization design of horizontal well fracture stage placement in shale gas reservoirs based on an efficient variable-fidelity surrogate model and intelligent algorithm",
+      "arxiv_id": null,
+      "doi": "10.1016/j.egyr.2022.02.228",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Improving Small Molecule pKa Prediction Using Transfer Learning with Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Efficient aerostructural optimization of helicopter rotors toward aeroacoustic noise reduction using multilevel hierarchical kriging model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Parallel Algorithms for the Multiobjective Virtual Network Function Placement Problem",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-72062-9_56",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Multi-fidelity Modeling for Aerothermal Analysis of Deployable Planetary Entry Technologies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "“Multi-ﬁdelity Bayesian Optimization with Max-value Entropy Search and its Parallelization”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Altruistic Control of Connected Automated Vehicles in Mixed-Autonomy Multi-Lane Highway Traffic",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IFACOL.2020.12.1990",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "MULTI-OBJECTIVE HULL-FORM OPTIMIZATION OF A SWATH CONFIGURATION VIA DESIGN-SPACE DIMENSIONALITY REDUCTION, MULTI-FIDELITY METAMODELS, AND SWARM INTELLIGENCE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Multifidelity statistical machine learning for molecular crystal structure prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "KeyBERT: Minimal keyword extraction with BERT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Hyperparameter optimization of deep neural networks: combining Hperband with Bayesian model selection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Information-Based Multi-Fidelity Bayesian Optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Hyperparameter Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4899-7687-1_100200",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "A Hybrid Aerodynamic Shape Optimization Approach for Axisymmetric Body in Hypersonic Flow",
+      "arxiv_id": null,
+      "doi": "10.1007/978-81-322-2743-4_29",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X16500045",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A multi-fidelity surrogate-model-assisted evolutionary algorithm for computationally expensive optimization problems",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jocs.2015.11.004",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A multi-fidelity adaptive sampling method for metamodel-based uncertainty quantification of computer simulations",
+      "arxiv_id": null,
+      "doi": "10.7712/100016.2252.7741",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Optimization and optimal control in automotive systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-05371-4",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Multidelity methods for multidisciplinary system design",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Simulation-Driven Design of Antennas Using Coarse-Discretization Electromagnetic Models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2011.04.135",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "A How-to Guide for Predicting Properties of Materials with DFT [review of \"Density Functional Theory: A Practical Introduction\" (Sholl, D.S. and Steckel, J.A.; 2009) [Book review]",
+      "arxiv_id": null,
+      "doi": "10.1109/mcse.2010.123",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "A New Variable-Fidelity Optimization Framework Based on Model Fusion and Objective-Oriented Sequential Sampling",
+      "arxiv_id": null,
+      "doi": "10.1115/1.2976449",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Surrogate-Based Optimization using Multifidelity Models with Variable Parameterization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Variable Complexity Response Surface Design of an HSCT Con guration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Response Surface Models Combining Linear and Euler Aerodynamics for Supersonic Transport Design",
+      "arxiv_id": null,
+      "doi": "10.2514/2.2415",
+      "publicationDate": null,
+      "year": 1999
+    },
+    {
+      "title": "The use of MMR, diversity-based reranking for reordering documents and producing summaries",
+      "arxiv_id": null,
+      "doi": "10.1145/290941.291025",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "“Mining geostatistics,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1989
+    },
+    {
+      "title": "Step 2. Data cleaning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Step 1. Data collection : To identify relevant articles for this survey, we conducted a comprehensive search across nine divserse academic databases including ScienceDirect",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Many of the current multi-fidelity benchmark problems do not allow for modifications to fidelity correlations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Multifidelity methods for simulation of wax deposition in single-phase and two-phase flow,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Multitask and Multiidelity Convolutional Encoder-Decoder Networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Multi-fidelity hierarchical neural processes",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Multi-Fidelity Methods for 35 composites processing case study",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Multifidelity methods for uncertainty quantification in cardiovascular hemodynamics,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

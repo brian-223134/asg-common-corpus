@@ -1,0 +1,9 @@
+topic: Collaborative Inference between Edge SLMs and Cloud LLMs
+domain: systems
+gt:
+  arxiv_id: null
+  doi: 10.1145/3838593
+  title: 'Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A
+    Survey of Algorithms, Execution, and Open Challenges'
+  published: '2026-08-24'
+notes: 8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=268

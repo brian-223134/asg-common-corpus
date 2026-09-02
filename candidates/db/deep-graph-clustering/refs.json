@@ -1,0 +1,1430 @@
+{
+  "candidate": {
+    "topic": "Deep Graph Clustering",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2026.3669747",
+      "title": "A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource",
+      "published": "2026-06-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=TKDE, Crossref refs-count=195"
+  },
+  "extracted_at": "2026-09-02T02:31:05+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 199,
+    "arxiv_resolvable": 111,
+    "doi_only": 69,
+    "unresolved": 19
+  },
+  "gt_s2": {
+    "paperId": "23391745a65e9c677e712a4e0f594565ee5aadf1",
+    "externalIds": {
+      "ArXiv": "2211.12875",
+      "DBLP": "journals/tkde/LiuXWZYLFZYLLH26",
+      "DOI": "10.1109/TKDE.2026.3669747",
+      "CorpusId": 261682075
+    },
+    "title": "A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "year": 2022,
+    "referenceCount": 199,
+    "publicationDate": "2022-11-23"
+  },
+  "refs": [
+    {
+      "title": "Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets",
+      "arxiv_id": "2601.12903",
+      "doi": "10.1109/TPAMI.2025.3596609",
+      "publicationDate": "2025-08-07",
+      "year": 2025
+    },
+    {
+      "title": "MHGC: Multi-scale hard sample mining for contrastive deep graph clustering",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2025.104084",
+      "publicationDate": "2025-07-01",
+      "year": 2025
+    },
+    {
+      "title": "From Concrete to Abstract: Multi-View Clustering on Relational Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2025.3582689",
+      "publicationDate": "2025-06-27",
+      "year": 2025
+    },
+    {
+      "title": "THESAURUS: Contrastive Graph Clustering by Swapping Fused Gromov-Wasserstein Couplings",
+      "arxiv_id": "2412.11550",
+      "doi": "10.48550/arXiv.2412.11550",
+      "publicationDate": "2024-12-16",
+      "year": 2024
+    },
+    {
+      "title": "One Node One Model: Featuring the Missing-Half for Graph Clustering",
+      "arxiv_id": "2412.09902",
+      "doi": "10.48550/arXiv.2412.09902",
+      "publicationDate": "2024-12-13",
+      "year": 2024
+    },
+    {
+      "title": "Reliable Node Similarity Matrix Guided Contrastive Graph Clustering",
+      "arxiv_id": "2408.03765",
+      "doi": "10.1109/TKDE.2024.3435887",
+      "publicationDate": "2024-08-07",
+      "year": 2024
+    },
+    {
+      "title": "Improved Dual Correlation Reduction Network With Affinity Recovery",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2024.3406538",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Towards Faster Deep Graph Clustering via Efficient Graph Auto-Encoder",
+      "arxiv_id": null,
+      "doi": "10.1145/3674983",
+      "publicationDate": "2024-06-28",
+      "year": 2024
+    },
+    {
+      "title": "Deep graph clustering by integrating community structure with neighborhood information",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2024.120951",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Attribute-Missing Graph Clustering Network",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i14.29464",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "An Overview of Advanced Deep Graph Node Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSS.2023.3242145",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "An End-to-End Deep Graph Clustering via Online Mutual Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2024.3353217",
+      "publicationDate": "2024-01-23",
+      "year": 2024
+    },
+    {
+      "title": "Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering",
+      "arxiv_id": "2401.06595",
+      "doi": "10.48550/arXiv.2401.06595",
+      "publicationDate": "2024-01-12",
+      "year": 2024
+    },
+    {
+      "title": "DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization",
+      "arxiv_id": "2312.12697",
+      "doi": "10.48550/arXiv.2312.12697",
+      "publicationDate": "2023-12-20",
+      "year": 2023
+    },
+    {
+      "title": "Multi-View Bipartite Graph Clustering With Coupled Noisy Feature Filter",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2023.3268215",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "DealMVC: Dual Contrastive Calibration for Multi-view Clustering",
+      "arxiv_id": "2308.09000",
+      "doi": "10.1145/3581783.3611951",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "CONVERT: Contrastive Graph Clustering with Reliable Augmentation",
+      "arxiv_id": "2308.08963",
+      "doi": "10.1145/3581783.3611809",
+      "publicationDate": "2023-08-17",
+      "year": 2023
+    },
+    {
+      "title": "Reinforcement Graph Clustering with Unknown Cluster Number",
+      "arxiv_id": "2308.06827",
+      "doi": "10.1145/3581783.3612155",
+      "publicationDate": "2023-08-13",
+      "year": 2023
+    },
+    {
+      "title": "Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591711",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Unpaired Multi-View Graph Clustering With Cross-View Structure Matching",
+      "arxiv_id": "2307.03476",
+      "doi": "10.1109/TNNLS.2023.3291696",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Graph clustering network with structure embedding enhanced",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2023.109833",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "CARL-G: Clustering-Accelerated Representation Learning on Graphs",
+      "arxiv_id": "2306.06936",
+      "doi": "10.1145/3580305.3599268",
+      "publicationDate": "2023-06-12",
+      "year": 2023
+    },
+    {
+      "title": "arXiv4TGC: Large-Scale Datasets for Temporal Graph Clustering",
+      "arxiv_id": "2306.04962",
+      "doi": "10.48550/arXiv.2306.04962",
+      "publicationDate": "2023-06-08",
+      "year": 2023
+    },
+    {
+      "title": "Dink-Net: Neural Clustering on Large Graphs",
+      "arxiv_id": "2305.18405",
+      "doi": "10.48550/arXiv.2305.18405",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "ClusterLLM: Large Language Models as a Guide for Text Clustering",
+      "arxiv_id": "2305.14871",
+      "doi": "10.48550/arXiv.2305.14871",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Message Intercommunication for Inductive Relation Reasoning",
+      "arxiv_id": "2305.14074",
+      "doi": "10.48550/arXiv.2305.14074",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Deep Temporal Graph Clustering",
+      "arxiv_id": "2305.10738",
+      "doi": "10.48550/arXiv.2305.10738",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Contrastive Graph Clustering in Curvature Spaces",
+      "arxiv_id": "2305.03555",
+      "doi": "10.48550/arXiv.2305.03555",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering",
+      "arxiv_id": "2305.02931",
+      "doi": "10.48550/arXiv.2305.02931",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "ABSLearn: a GNN-based framework for aliasing and buffer-size information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s10044-023-01142-2",
+      "publicationDate": "2023-02-19",
+      "year": 2023
+    },
+    {
+      "title": "Cluster-guided Contrastive Graph Clustering Network",
+      "arxiv_id": "2301.01098",
+      "doi": "10.48550/arXiv.2301.01098",
+      "publicationDate": "2023-01-03",
+      "year": 2023
+    },
+    {
+      "title": "Hard Sample Aware Network for Contrastive Deep Graph Clustering",
+      "arxiv_id": "2212.08665",
+      "doi": "10.48550/arXiv.2212.08665",
+      "publicationDate": "2022-12-16",
+      "year": 2022
+    },
+    {
+      "title": "A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal",
+      "arxiv_id": "2212.05767",
+      "doi": "10.1109/TPAMI.2024.3417451",
+      "publicationDate": "2022-12-12",
+      "year": 2022
+    },
+    {
+      "title": "GraphLearner: Graph Node Clustering with Fully Learnable Augmentation",
+      "arxiv_id": "2212.03559",
+      "doi": "10.1145/3664647.3680602",
+      "publicationDate": "2022-12-07",
+      "year": 2022
+    },
+    {
+      "title": "An access control model for medical big data based on clustering and risk",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2022.11.102",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Deep Clustering: A Comprehensive Survey",
+      "arxiv_id": "2210.04142",
+      "doi": "10.1109/TNNLS.2024.3403155",
+      "publicationDate": "2022-10-09",
+      "year": 2022
+    },
+    {
+      "title": "Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization",
+      "arxiv_id": "2210.02016",
+      "doi": "10.48550/arXiv.2210.02016",
+      "publicationDate": "2022-10-05",
+      "year": 2022
+    },
+    {
+      "title": "Deep graph clustering with multi-level subspace fusion",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2022.109077",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Multiple Kernel Clustering with Dual Noise Minimization",
+      "arxiv_id": "2207.06041",
+      "doi": "10.1145/3503161.3548334",
+      "publicationDate": "2022-07-13",
+      "year": 2022
+    },
+    {
+      "title": "Local Sample-Weighted Multiple Kernel Clustering With Consensus Discriminative Graph",
+      "arxiv_id": "2207.02846",
+      "doi": "10.1109/TNNLS.2022.3184970",
+      "publicationDate": "2022-07-05",
+      "year": 2022
+    },
+    {
+      "title": "Attributed Graph Clustering with Dual Redundancy Reduction",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2022/418",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Molecular Clustering Analysis of Blood Biomarkers in World Trade Center Exposed Community Members with Persistent Lower Respiratory Symptoms",
+      "arxiv_id": null,
+      "doi": "10.3390/ijerph19138102",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Initializing Then Refining: A Simple Graph Attribute Imputation Network",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2022/485",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Escaping Feature Twist: A Variational Graph Auto-Encoder for Node Clustering",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2022/465",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v36i4.20392",
+      "publicationDate": "2022-06-28",
+      "year": 2022
+    },
+    {
+      "title": "Neighborhood contrastive representation learning for attributed graph clustering",
+      "arxiv_id": "2206.07897",
+      "doi": "10.1016/j.neucom.2023.126880",
+      "publicationDate": "2022-06-16",
+      "year": 2022
+    },
+    {
+      "title": "A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions",
+      "arxiv_id": "2206.07579",
+      "doi": "10.1145/3689036",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "Mixed Graph Contrastive Network for Semi-supervised Node Classification",
+      "arxiv_id": "2206.02796",
+      "doi": "10.1145/3641549",
+      "publicationDate": "2022-06-06",
+      "year": 2022
+    },
+    {
+      "title": "Highly-efficient Incomplete Largescale Multiview Clustering with Consensus Bipartite Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52688.2022.00955",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Collaborative Decision-Reinforced Self-Supervision for Attributed Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2022.3171583",
+      "publicationDate": "2022-05-18",
+      "year": 2022
+    },
+    {
+      "title": "Simple Contrastive Graph Clustering",
+      "arxiv_id": "2205.07865",
+      "doi": "10.1109/TNNLS.2023.3271871",
+      "publicationDate": "2022-05-11",
+      "year": 2022
+    },
+    {
+      "title": "Exploring Temporal Community Structure via Network Embedding",
+      "arxiv_id": null,
+      "doi": "10.1109/TCYB.2022.3168343",
+      "publicationDate": "2022-05-04",
+      "year": 2022
+    },
+    {
+      "title": "SCGC : Self-Supervised Contrastive Graph Clustering",
+      "arxiv_id": "2204.12656",
+      "doi": "10.48550/arXiv.2204.12656",
+      "publicationDate": "2022-04-27",
+      "year": 2022
+    },
+    {
+      "title": "CGC: Contrastive Graph Clustering forCommunity Detection and Tracking",
+      "arxiv_id": "2204.08504",
+      "doi": "10.1145/3485447.3512160",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Embedding Graph Auto-Encoder for Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2022.3158654",
+      "publicationDate": "2022-03-25",
+      "year": 2022
+    },
+    {
+      "title": "Unsupervised Network Embedding Beyond Homophily",
+      "arxiv_id": "2203.10866",
+      "doi": null,
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "Improved Dual Correlation Reduction Network",
+      "arxiv_id": "2202.12533",
+      "doi": null,
+      "publicationDate": "2022-02-25",
+      "year": 2022
+    },
+    {
+      "title": "Interpolation-Based Contrastive Learning for Few-Label Semi-Supervised Learning",
+      "arxiv_id": "2202.11915",
+      "doi": "10.1109/TNNLS.2022.3186512",
+      "publicationDate": "2022-02-24",
+      "year": 2022
+    },
+    {
+      "title": "Graph Neural Networks for Graphs With Heterophily: A Survey",
+      "arxiv_id": "2202.07082",
+      "doi": "10.1109/TKDE.2026.3680353",
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "Cluster-Aware Heterogeneous Information Network Embedding",
+      "arxiv_id": null,
+      "doi": "10.1145/3488560.3498385",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space",
+      "arxiv_id": "2202.03800",
+      "doi": null,
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation",
+      "arxiv_id": "2202.03104",
+      "doi": "10.1145/3485447.3512156",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "Intent Contrastive Learning for Sequential Recommendation",
+      "arxiv_id": "2202.02519",
+      "doi": "10.1145/3485447.3512090",
+      "publicationDate": "2022-02-05",
+      "year": 2022
+    },
+    {
+      "title": "Deep neighbor-aware embedding for node clustering in attributed graphs",
+      "arxiv_id": null,
+      "doi": "10.1016/J.PATCOG.2021.108230",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "Graph Clustering via Variational Graph Embedding",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2021.108334",
+      "publicationDate": "2022-02-01",
+      "year": 2022
+    },
+    {
+      "title": "Towards Unsupervised Deep Graph Structure Learning",
+      "arxiv_id": "2201.06367",
+      "doi": "10.1145/3485447.3512186",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Deep Graph Clustering via Dual Correlation Reduction",
+      "arxiv_id": "2112.14772",
+      "doi": "10.1609/aaai.v36i7.20726",
+      "publicationDate": "2021-12-29",
+      "year": 2021
+    },
+    {
+      "title": "RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning",
+      "arxiv_id": "2112.11696",
+      "doi": "10.1609/aaai.v36i4.20388",
+      "publicationDate": "2021-12-22",
+      "year": 2021
+    },
+    {
+      "title": "Augmentation-Free Self-Supervised Learning on Graphs",
+      "arxiv_id": "2112.02472",
+      "doi": "10.1609/aaai.v36i7.20700",
+      "publicationDate": "2021-12-05",
+      "year": 2021
+    },
+    {
+      "title": "Graph Community Infomax",
+      "arxiv_id": null,
+      "doi": "10.1145/3480244",
+      "publicationDate": "2021-11-13",
+      "year": 2021
+    },
+    {
+      "title": "Deep Attention-Guided Graph Clustering With Dual Self-Supervision",
+      "arxiv_id": "2111.05548",
+      "doi": "10.1109/TCSVT.2022.3232604",
+      "publicationDate": "2021-11-10",
+      "year": 2021
+    },
+    {
+      "title": "Wasserstein Adversarially Regularized Graph Autoencoder",
+      "arxiv_id": "2111.04981",
+      "doi": "10.1016/j.neucom.2023.126235",
+      "publicationDate": "2021-11-09",
+      "year": 2021
+    },
+    {
+      "title": "Multi-view Contrastive Graph Clustering",
+      "arxiv_id": "2110.11842",
+      "doi": null,
+      "publicationDate": "2021-10-22",
+      "year": 2021
+    },
+    {
+      "title": "Self-Consistent Contrastive Attributed Graph Clustering With Pseudo-Label Prompt",
+      "arxiv_id": "2110.08264",
+      "doi": "10.1109/TMM.2022.3213208",
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning",
+      "arxiv_id": "2110.02027",
+      "doi": null,
+      "publicationDate": "2021-10-05",
+      "year": 2021
+    },
+    {
+      "title": "An Empirical Study of Graph Contrastive Learning",
+      "arxiv_id": "2109.01116",
+      "doi": null,
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "Adaptive Hypergraph Auto-Encoder for Relational Data Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3108192",
+      "publicationDate": "2021-08-30",
+      "year": 2021
+    },
+    {
+      "title": "Tensorized Bipartite Graph Learning for Multi-View Clustering",
+      "arxiv_id": "2108.06734",
+      "doi": "10.1109/TPAMI.2022.3187976",
+      "publicationDate": "2021-08-15",
+      "year": 2021
+    },
+    {
+      "title": "Attention-driven Graph Clustering Network",
+      "arxiv_id": "2108.05499",
+      "doi": "10.1145/3474085.3475276",
+      "publicationDate": "2021-08-12",
+      "year": 2021
+    },
+    {
+      "title": "Graph Debiased Contrastive Learning with Joint Representation Clustering",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/473",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Rethinking Graph Auto-Encoder Models for Attributed Graph Clustering",
+      "arxiv_id": "2107.08562",
+      "doi": "10.1109/TKDE.2022.3220948",
+      "publicationDate": "2021-07-19",
+      "year": 2021
+    },
+    {
+      "title": "Self-Supervised Graph Convolutional Network for Multi-View Clustering",
+      "arxiv_id": null,
+      "doi": "10.1109/tmm.2021.3094296",
+      "publicationDate": "2021-07-02",
+      "year": 2021
+    },
+    {
+      "title": "A Comprehensive Survey on Graph Anomaly Detection With Deep Learning",
+      "arxiv_id": "2106.07178",
+      "doi": "10.1109/TKDE.2021.3118815",
+      "publicationDate": "2021-06-14",
+      "year": 2021
+    },
+    {
+      "title": "Automated Self-Supervised Learning for Graphs",
+      "arxiv_id": "2106.05470",
+      "doi": null,
+      "publicationDate": "2021-06-10",
+      "year": 2021
+    },
+    {
+      "title": "Graph Signal Denoising Via Unrolling Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP39728.2021.9415073",
+      "publicationDate": "2021-06-06",
+      "year": 2021
+    },
+    {
+      "title": "A Comprehensive Survey on Community Detection With Deep Learning",
+      "arxiv_id": "2105.12584",
+      "doi": "10.1109/TNNLS.2021.3137396",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning",
+      "arxiv_id": "2105.09111",
+      "doi": "10.1145/3447548.3467415",
+      "publicationDate": "2021-05-19",
+      "year": 2021
+    },
+    {
+      "title": "Graph embedding clustering: Graph attention auto-encoder with cluster-specificity distribution",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neunet.2021.05.008",
+      "publicationDate": "2021-05-08",
+      "year": 2021
+    },
+    {
+      "title": "Graph Contrastive Clustering",
+      "arxiv_id": "2104.01429",
+      "doi": "10.1109/ICCV48922.2021.00909",
+      "publicationDate": "2021-04-03",
+      "year": 2021
+    },
+    {
+      "title": "Barlow Twins: Self-Supervised Learning via Redundancy Reduction",
+      "arxiv_id": "2103.03230",
+      "doi": null,
+      "publicationDate": "2021-03-04",
+      "year": 2021
+    },
+    {
+      "title": "Graph Self-Supervised Learning: A Survey",
+      "arxiv_id": "2103.00111",
+      "doi": "10.1109/TKDE.2022.3172903",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks",
+      "arxiv_id": "2012.08740",
+      "doi": "10.1609/aaai.v35i5.16590",
+      "publicationDate": "2020-12-16",
+      "year": 2020
+    },
+    {
+      "title": "Deep Fusion Clustering Network",
+      "arxiv_id": "2012.09600",
+      "doi": "10.1609/aaai.v35i11.17198",
+      "publicationDate": "2020-12-15",
+      "year": 2020
+    },
+    {
+      "title": "Graph Regularized Autoencoder and its Application in Unsupervised Anomaly Detection",
+      "arxiv_id": "2010.15949",
+      "doi": "10.1109/TPAMI.2021.3066111",
+      "publicationDate": "2020-10-29",
+      "year": 2020
+    },
+    {
+      "title": "Graph Contrastive Learning with Augmentations",
+      "arxiv_id": "2010.13902",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "CommDGI: Community Detection Oriented Deep Graph Infomax",
+      "arxiv_id": null,
+      "doi": "10.1145/3340531.3412042",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "Dirichlet Graph Variational Autoencoder",
+      "arxiv_id": "2010.04408",
+      "doi": null,
+      "publicationDate": "2020-10-09",
+      "year": 2020
+    },
+    {
+      "title": "Learning on Attribute-Missing Graphs",
+      "arxiv_id": "2011.01623",
+      "doi": "10.1109/TPAMI.2020.3032189",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "SAIL: Self-Augmented Graph Contrastive Learning",
+      "arxiv_id": "2009.00934",
+      "doi": "10.1609/aaai.v36i8.20875",
+      "publicationDate": "2020-09-02",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive Graph Encoder for Attributed Graph Embedding",
+      "arxiv_id": "2007.01594",
+      "doi": "10.1145/3394486.3403140",
+      "publicationDate": "2020-07-03",
+      "year": 2020
+    },
+    {
+      "title": "JANE: Jointly Adversarial Network Embedding",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/192",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Autoencoding Keyword Correlation Graph for Document Clustering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.acl-main.366",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Multi-View Attribute Graph Convolution Networks for Clustering",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/411",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Graph Clustering with Graph Neural Networks",
+      "arxiv_id": "2006.16904",
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning",
+      "arxiv_id": "2006.07733",
+      "doi": null,
+      "publicationDate": "2020-06-13",
+      "year": 2020
+    },
+    {
+      "title": "Deep Graph Contrastive Representation Learning",
+      "arxiv_id": "2006.04131",
+      "doi": null,
+      "publicationDate": "2020-06-07",
+      "year": 2020
+    },
+    {
+      "title": "Contrastive Multi-View Representation Learning on Graphs",
+      "arxiv_id": "2006.05582",
+      "doi": null,
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for Community Detection: Progress, Challenges and Opportunities",
+      "arxiv_id": "2005.08225",
+      "doi": "10.24963/IJCAI.2020/693",
+      "publicationDate": "2020-05-17",
+      "year": 2020
+    },
+    {
+      "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+      "arxiv_id": "2005.00687",
+      "doi": null,
+      "publicationDate": "2020-05-02",
+      "year": 2020
+    },
+    {
+      "title": "Graph Auto-Encoder for Graph Signal Denoising",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP40776.2020.9053623",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "One2Multi Graph Autoencoder for Multi-view Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380079",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I04.5843",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Going Deep: Graph Convolutional Ladder-Shape Networks",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I03.5673",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Clustering based Multi-modality Medical Image Fusion",
+      "arxiv_id": null,
+      "doi": "10.1088/1742-6596/1478/1/012024",
+      "publicationDate": "2020-04-01",
+      "year": 2020
+    },
+    {
+      "title": "Adaptive Graph Convolutional Network With Attention Graph Clustering for Co-Saliency Detection",
+      "arxiv_id": "2003.06167",
+      "doi": "10.1109/cvpr42600.2020.00907",
+      "publicationDate": "2020-03-13",
+      "year": 2020
+    },
+    {
+      "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+      "arxiv_id": "2002.05709",
+      "doi": null,
+      "publicationDate": "2020-02-13",
+      "year": 2020
+    },
+    {
+      "title": "Structural Deep Clustering Network",
+      "arxiv_id": "2002.01633",
+      "doi": "10.1145/3366423.3380214",
+      "publicationDate": "2020-02-05",
+      "year": 2020
+    },
+    {
+      "title": "Deep Multi-Graph Clustering via Attentive Cross-Graph Association",
+      "arxiv_id": null,
+      "doi": "10.1145/3336191.3371806",
+      "publicationDate": "2020-01-20",
+      "year": 2020
+    },
+    {
+      "title": "Self-Supervised Learning by Cross-Modal Audio-Video Clustering",
+      "arxiv_id": "1911.12667",
+      "doi": null,
+      "publicationDate": "2019-11-28",
+      "year": 2019
+    },
+    {
+      "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+      "arxiv_id": "1911.05722",
+      "doi": "10.1109/cvpr42600.2020.00975",
+      "publicationDate": "2019-11-13",
+      "year": 2019
+    },
+    {
+      "title": "RWR-GAE: Random Walk Regularization for Graph Auto Encoders",
+      "arxiv_id": "1908.04003",
+      "doi": null,
+      "publicationDate": "2019-08-12",
+      "year": 2019
+    },
+    {
+      "title": "An improved index for clustering validation based on Silhouette index and Calinski-Harabasz index",
+      "arxiv_id": null,
+      "doi": "10.1088/1757-899X/569/5/052024",
+      "publicationDate": "2019-08-09",
+      "year": 2019
+    },
+    {
+      "title": "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning",
+      "arxiv_id": "1908.02441",
+      "doi": "10.1109/ICCV.2019.00662",
+      "publicationDate": "2019-08-07",
+      "year": 2019
+    },
+    {
+      "title": "Network-Specific Variational Auto-Encoder for Embedding in Attribute Networks",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/370",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Adversarial Graph Embedding for Ensemble Clustering",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/494",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "ProGAN: Network Embedding via Proximity Generative Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330866",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "Spectral Clustering with Graph Neural Networks for Graph Pooling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-06-30",
+      "year": 2019
+    },
+    {
+      "title": "Attributed Graph Clustering via Adaptive Graph Convolution",
+      "arxiv_id": "1906.01210",
+      "doi": "10.24963/ijcai.2019/601",
+      "publicationDate": "2019-06-04",
+      "year": 2019
+    },
+    {
+      "title": "Attributed Graph Clustering: A Deep Attentional Embedding Approach",
+      "arxiv_id": "1906.06532",
+      "doi": "10.24963/ijcai.2019/509",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "The Application of Unsupervised Clustering Methods to Alzheimer’s Disease",
+      "arxiv_id": null,
+      "doi": "10.3389/fncom.2019.00031",
+      "publicationDate": "2019-05-24",
+      "year": 2019
+    },
+    {
+      "title": "Evaluation Metrics for Unsupervised Learning Algorithms",
+      "arxiv_id": "1905.05667",
+      "doi": null,
+      "publicationDate": "2019-05-14",
+      "year": 2019
+    },
+    {
+      "title": "Self-Attention Graph Pooling",
+      "arxiv_id": "1904.08082",
+      "doi": null,
+      "publicationDate": "2019-04-17",
+      "year": 2019
+    },
+    {
+      "title": "Linkage Based Face Clustering via Graph Convolution Network",
+      "arxiv_id": "1903.11306",
+      "doi": "10.1109/CVPR.2019.00121",
+      "publicationDate": "2019-03-27",
+      "year": 2019
+    },
+    {
+      "title": "Accuracy Evaluation of Overlapping and Multi-Resolution Clustering Algorithms on Large Datasets",
+      "arxiv_id": "1902.01691",
+      "doi": "10.1109/BIGCOMP.2019.8679398",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "CommunityGAN: Community Detection with Generative Adversarial Nets",
+      "arxiv_id": "1901.06631",
+      "doi": "10.1145/3308558.3313564",
+      "publicationDate": "2019-01-20",
+      "year": 2019
+    },
+    {
+      "title": "Learning Graph Embedding With Adversarial Training Methods",
+      "arxiv_id": "1901.01250",
+      "doi": "10.1109/TCYB.2019.2932096",
+      "publicationDate": "2019-01-04",
+      "year": 2019
+    },
+    {
+      "title": "Gaussian Mixture Models",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-73003-5_196",
+      "publicationDate": "2018-10-18",
+      "year": 2018
+    },
+    {
+      "title": "Deep Graph Infomax",
+      "arxiv_id": "1809.10341",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Deep Metric Learning with Hierarchical Triplet Loss",
+      "arxiv_id": "1810.06951",
+      "doi": "10.1007/978-3-030-01231-1_17",
+      "publicationDate": "2018-09-08",
+      "year": 2018
+    },
+    {
+      "title": "Learning deep representations by mutual information estimation and maximization",
+      "arxiv_id": "1808.06670",
+      "doi": null,
+      "publicationDate": "2018-08-20",
+      "year": 2018
+    },
+    {
+      "title": "A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2018.2855437",
+      "publicationDate": "2018-07-17",
+      "year": 2018
+    },
+    {
+      "title": "Representation Learning with Contrastive Predictive Coding",
+      "arxiv_id": "1807.03748",
+      "doi": null,
+      "publicationDate": "2018-07-10",
+      "year": 2018
+    },
+    {
+      "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+      "arxiv_id": "1806.08804",
+      "doi": null,
+      "publicationDate": "2018-06-22",
+      "year": 2018
+    },
+    {
+      "title": "GEMSEC: Graph Embedding with Self Clustering",
+      "arxiv_id": "1802.03997",
+      "doi": "10.1145/3341161.3342890",
+      "publicationDate": "2018-02-12",
+      "year": 2018
+    },
+    {
+      "title": "Clustering with Deep Learning: Taxonomy and New Methods",
+      "arxiv_id": "1801.07648",
+      "doi": null,
+      "publicationDate": "2018-01-23",
+      "year": 2018
+    },
+    {
+      "title": "Graph Clustering with Dynamic Embedding",
+      "arxiv_id": "1712.08249",
+      "doi": null,
+      "publicationDate": "2017-12-21",
+      "year": 2017
+    },
+    {
+      "title": "MGAE: Marginalized Graph Autoencoder for Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.1145/3132847.3132967",
+      "publicationDate": "2017-11-06",
+      "year": 2017
+    },
+    {
+      "title": "Learning Community Embedding with Community Detection and Node Embedding on Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3132847.3132925",
+      "publicationDate": "2017-11-06",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Improved Deep Embedded Clustering with Local Structure Preservation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2017/243",
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "Inductive Representation Learning on Large Graphs",
+      "arxiv_id": "1706.02216",
+      "doi": null,
+      "publicationDate": "2017-06-07",
+      "year": 2017
+    },
+    {
+      "title": "Towards Robust Deep Neural Networks with BANG",
+      "arxiv_id": "1612.00138",
+      "doi": "10.1109/WACV.2018.00093",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "A Unified Framework for Community Detection and Network Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2018.2852958",
+      "publicationDate": "2016-11-21",
+      "year": 2016
+    },
+    {
+      "title": "Variational Graph Auto-Encoders",
+      "arxiv_id": "1611.07308",
+      "doi": null,
+      "publicationDate": "2016-11-21",
+      "year": 2016
+    },
+    {
+      "title": "Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering",
+      "arxiv_id": "1610.04794",
+      "doi": null,
+      "publicationDate": "2016-10-15",
+      "year": 2016
+    },
+    {
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "arxiv_id": "1609.02907",
+      "doi": null,
+      "publicationDate": "2016-09-09",
+      "year": 2016
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "Improving the Robustness of Deep Neural Networks via Stability Training",
+      "arxiv_id": "1604.04326",
+      "doi": "10.1109/CVPR.2016.485",
+      "publicationDate": "2016-04-15",
+      "year": 2016
+    },
+    {
+      "title": "Deep Neural Networks for Learning Graph Representations",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v30i1.10179",
+      "publicationDate": "2016-02-12",
+      "year": 2016
+    },
+    {
+      "title": "Nested Mini-Batch K-Means",
+      "arxiv_id": "1602.02934",
+      "doi": null,
+      "publicationDate": "2016-02-01",
+      "year": 2016
+    },
+    {
+      "title": "Unsupervised Deep Embedding for Clustering Analysis",
+      "arxiv_id": "1511.06335",
+      "doi": null,
+      "publicationDate": "2015-11-19",
+      "year": 2015
+    },
+    {
+      "title": "Heterogeneous Network Embedding via Deep Architectures",
+      "arxiv_id": null,
+      "doi": "10.1145/2783258.2783296",
+      "publicationDate": "2015-08-10",
+      "year": 2015
+    },
+    {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "arxiv_id": "1412.6980",
+      "doi": null,
+      "publicationDate": "2014-12-22",
+      "year": 2014
+    },
+    {
+      "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+      "arxiv_id": "1412.3555",
+      "doi": null,
+      "publicationDate": "2014-12-10",
+      "year": 2014
+    },
+    {
+      "title": "Efficient mini-batch training for stochastic optimization",
+      "arxiv_id": null,
+      "doi": "10.1145/2623330.2623612",
+      "publicationDate": "2014-08-24",
+      "year": 2014
+    },
+    {
+      "title": "Clustering by fast search and find of density peaks",
+      "arxiv_id": null,
+      "doi": "10.1126/science.1242072",
+      "publicationDate": "2014-06-27",
+      "year": 2014
+    },
+    {
+      "title": "Learning Deep Representations for Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v28i1.8916",
+      "publicationDate": "2014-06-21",
+      "year": 2014
+    },
+    {
+      "title": "Normalized Mutual Information to evaluate overlapping community finding algorithms",
+      "arxiv_id": "1110.2515",
+      "doi": null,
+      "publicationDate": "2011-10-11",
+      "year": 2011
+    },
+    {
+      "title": "Homophily and Contagion Are Generically Confounded in Observational Social Network Studies",
+      "arxiv_id": "1004.4704",
+      "doi": "10.1177/0049124111404820",
+      "publicationDate": "2010-04-27",
+      "year": 2010
+    },
+    {
+      "title": "Clustering Categorical Data Using Silhouette Coefficient as a Relocating Measure",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCIMA.2007.127",
+      "publicationDate": "2007-12-13",
+      "year": 2007
+    },
+    {
+      "title": "A tutorial on spectral clustering",
+      "arxiv_id": "0711.0189",
+      "doi": "10.1007/s11222-007-9033-z",
+      "publicationDate": "2007-11-01",
+      "year": 2007
+    },
+    {
+      "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+      "arxiv_id": null,
+      "doi": "10.1037/1089-2680.2.2.175",
+      "publicationDate": "1998-06-01",
+      "year": 1998
+    },
+    {
+      "title": "S3GC: Scalable Self-Supervised Graph Clustering",
+      "arxiv_id": null,
+      "doi": "10.52202/068431-0235",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Relational Symmetry based Knowledge Graph Contrastive Learning",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2211.10738",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "A Systematic Survey of Molecular Pre-trained Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2210.16484",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Deep Graph Clustering with Learnable Augmentation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2212.03559",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Bootstrapped Representation Learning on Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Random Walks on Graphs",
+      "arxiv_id": null,
+      "doi": "10.1007/BFB0077189",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Graph Convolution-Based Deep Clustering for Speech Separation",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2989833",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "MATCHING THEORY",
+      "arxiv_id": null,
+      "doi": "10.1016/s0304-0208(08)x7172-5",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "GENERATIVE ADVERSARIAL NETS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Deep Reinforcement Learning: A Brief Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Deep Learning",
+      "arxiv_id": null,
+      "doi": "10.1142/S1793351X16500045",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "“Review on determining of cluster in k-means clustering review on determining number of cluster in k-means clustering,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "“Sparse autoencoder,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Large-Scale Machine Learning with Stochastic Gradient Descent",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-7908-2604-3_16",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "A Comparison Between the Silhouette Index and the Davies-Bouldin Index in Labelling IDS Clusters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Details of the Adjusted Rand index and Clustering algorithms Supplement to the paper “ An empirical study on Principal Component Analysis for clustering gene expression data ” ( to appear in Bioinformatics )",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "Multilayer perceptron, fuzzy sets, classifiaction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1992
+    },
+    {
+      "title": "Algorithm as 136: A k-means clustering algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1979
+    },
+    {
+      "title": "Workshop on Unsupervised and Transfer Learning Autoencoders, Unsupervised Learning, and Deep Architectures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Large Language Model Guided Graph Clustering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "HisresearchinterestsincludemultimodallargemodelsandAIforsciences",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "ICLR ICML, NeurIPS, CVPR, KDD, ACL, AAAI",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Hisresearchinterestsincludeself-supervised learning and its applications in learning, foundation models, recommendation systems, code intelligence, and bioinformatics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "clustering analysis, and bioinformatics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "SURVEY OF DEEP GRAPH CLUSTERING: TAXONOMY, CHALLENGE, APPLICATION, AND OPEN RESOURCE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Revisitingmodularitymaximizationforgraphclustering:Acontrastivelearningperspective,”in",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Knowledgegraphcontrastivelearningbasedonrelation-symmetricalstructure,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

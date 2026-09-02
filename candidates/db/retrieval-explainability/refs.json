@@ -1,0 +1,1584 @@
+{
+  "candidate": {
+    "topic": "Explainability of Text Processing and Retrieval Methods",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3801957",
+      "title": "Explainability of Text Processing and Retrieval Methods: A Survey",
+      "published": "2026-05-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=220"
+  },
+  "extracted_at": "2026-09-02T02:31:40+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 221,
+    "arxiv_resolvable": 145,
+    "doi_only": 55,
+    "unresolved": 21
+  },
+  "gt_s2": {
+    "paperId": "012ebba5181a8cd02816a77d31c7ccbba7a09547",
+    "externalIds": {
+      "ArXiv": "2212.07126",
+      "DBLP": "journals/csur/SahaMM26",
+      "DOI": "10.1145/3801957",
+      "CorpusId": 280950436
+    },
+    "title": "Explainability of Text Processing and Retrieval Methods: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2022,
+    "referenceCount": 221,
+    "publicationDate": "2022-12-14"
+  },
+  "refs": [
+    {
+      "title": "Correctness is not Faithfulness in Retrieval Augmented Generation Attributions",
+      "arxiv_id": null,
+      "doi": "10.1145/3731120.3744592",
+      "publicationDate": "2025-07-18",
+      "year": 2025
+    },
+    {
+      "title": "Workshop on Explainability in Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3726302.3730361",
+      "publicationDate": "2025-07-13",
+      "year": 2025
+    },
+    {
+      "title": "Probing Ranking LLMs: A Mechanistic Analysis for Information Retrieval",
+      "arxiv_id": "2410.18527",
+      "doi": "10.1145/3731120.3744603",
+      "publicationDate": "2024-10-24",
+      "year": 2024
+    },
+    {
+      "title": "Special Issue on Conversational Information Seeking",
+      "arxiv_id": null,
+      "doi": "10.1145/3688392",
+      "publicationDate": "2024-10-08",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models",
+      "arxiv_id": "2410.03258",
+      "doi": "10.18653/v1/2024.findings-emnlp.863",
+      "publicationDate": "2024-10-04",
+      "year": 2024
+    },
+    {
+      "title": "Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation",
+      "arxiv_id": "2406.13663",
+      "doi": "10.18653/v1/2024.emnlp-main.347",
+      "publicationDate": "2024-06-19",
+      "year": 2024
+    },
+    {
+      "title": "Explainability for Transparent Conversational Information-Seeking",
+      "arxiv_id": "2405.03303",
+      "doi": "10.1145/3626772.3657768",
+      "publicationDate": "2024-05-06",
+      "year": 2024
+    },
+    {
+      "title": "RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank",
+      "arxiv_id": "2405.01848",
+      "doi": null,
+      "publicationDate": "2024-05-03",
+      "year": 2024
+    },
+    {
+      "title": "ir_explain: A Python Library of Explainable IR Methods",
+      "arxiv_id": "2404.18546",
+      "doi": "10.1145/3726302.3730343",
+      "publicationDate": "2024-04-29",
+      "year": 2024
+    },
+    {
+      "title": "Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval",
+      "arxiv_id": "2404.04163",
+      "doi": "10.48550/arXiv.2404.04163",
+      "publicationDate": "2024-04-05",
+      "year": 2024
+    },
+    {
+      "title": "RankingSHAP - Faithful Listwise Feature Attribution Explanations for Ranking Models ",
+      "arxiv_id": "2403.16085",
+      "doi": "10.1145/3726302.3729971",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Knowledge Conflicts for LLMs: A Survey",
+      "arxiv_id": "2403.08319",
+      "doi": "10.48550/arXiv.2403.08319",
+      "publicationDate": "2024-03-13",
+      "year": 2024
+    },
+    {
+      "title": "Evaluating the Explainability of Neural Rankers",
+      "arxiv_id": "2403.01981",
+      "doi": "10.1007/978-3-031-56066-8_28",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "Discerning and Resolving Knowledge Conflicts through Adaptive Decoding with Contextual Information-Entropy Constraint",
+      "arxiv_id": "2402.11893",
+      "doi": "10.48550/arXiv.2402.11893",
+      "publicationDate": "2024-02-19",
+      "year": 2024
+    },
+    {
+      "title": "Explainability of Text Processing and Retrieval Methods",
+      "arxiv_id": null,
+      "doi": "10.1145/3632754.3632944",
+      "publicationDate": "2023-12-15",
+      "year": 2023
+    },
+    {
+      "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2311.09476",
+      "doi": "10.48550/arXiv.2311.09476",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering",
+      "arxiv_id": "2307.16877",
+      "doi": "10.1162/tacl_a_00667",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Lost in the Middle: How Language Models Use Long Contexts",
+      "arxiv_id": "2307.03172",
+      "doi": "10.1162/tacl_a_00638",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+      "arxiv_id": "2305.14332",
+      "doi": "10.48550/arXiv.2305.14332",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Automatic Evaluation of Attribution by Large Language Models",
+      "arxiv_id": "2305.06311",
+      "doi": "10.48550/arXiv.2305.06311",
+      "publicationDate": "2023-05-10",
+      "year": 2023
+    },
+    {
+      "title": "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models",
+      "arxiv_id": "2304.14867",
+      "doi": "10.1145/3539618.3591777",
+      "publicationDate": "2023-04-28",
+      "year": 2023
+    },
+    {
+      "title": "Explain Like I am BM25: Interpreting a Dense Model's Ranked-List with a Sparse Approximation",
+      "arxiv_id": "2304.12631",
+      "doi": "10.1145/3539618.3591982",
+      "publicationDate": "2023-04-25",
+      "year": 2023
+    },
+    {
+      "title": "The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation",
+      "arxiv_id": "2302.06784",
+      "doi": "10.48550/arXiv.2302.06784",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "CFE2: Counterfactual Editing for Search Result Explanation",
+      "arxiv_id": "2301.10389",
+      "doi": "10.1145/3664190.3672508",
+      "publicationDate": "2023-01-25",
+      "year": 2023
+    },
+    {
+      "title": "Prediction-powered inference",
+      "arxiv_id": "2301.09633",
+      "doi": "10.1126/science.adi6000",
+      "publicationDate": "2023-01-23",
+      "year": 2023
+    },
+    {
+      "title": "XAIR: A Systematic Metareview of Explainable AI (XAI) Aligned to the Software Development Process",
+      "arxiv_id": null,
+      "doi": "10.3390/make5010006",
+      "publicationDate": "2023-01-11",
+      "year": 2023
+    },
+    {
+      "title": "Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models",
+      "arxiv_id": "2212.08037",
+      "doi": "10.48550/arXiv.2212.08037",
+      "publicationDate": "2022-12-15",
+      "year": 2022
+    },
+    {
+      "title": "Explainable Information Retrieval: A Survey",
+      "arxiv_id": "2211.02405",
+      "doi": "10.48550/arXiv.2211.02405",
+      "publicationDate": "2022-11-04",
+      "year": 2022
+    },
+    {
+      "title": "Explainable Natural Language Processing",
+      "arxiv_id": null,
+      "doi": "10.1162/coli_r_00460",
+      "publicationDate": "2022-08-26",
+      "year": 2022
+    },
+    {
+      "title": "On the Explainability of Natural Language Processing Deep Models",
+      "arxiv_id": "2210.06929",
+      "doi": "10.1145/3529755",
+      "publicationDate": "2022-07-19",
+      "year": 2022
+    },
+    {
+      "title": "Towards Explainable Search Results: A Listwise Explanation Generator",
+      "arxiv_id": null,
+      "doi": "10.1145/3477495.3532067",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "Alignment Rationale for Query-Document Relevance",
+      "arxiv_id": null,
+      "doi": "10.1145/3477495.3531883",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "ILMART: Interpretable Ranking with Constrained LambdaMART",
+      "arxiv_id": "2206.00473",
+      "doi": "10.1145/3477495.3531840",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Learning interpretable word embeddings via bidirectional alignment of dimensions with semantic concepts",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2022.102925",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "PRADA: Practical Black-box Adversarial Attacks against Neural Ranking Models",
+      "arxiv_id": "2204.01321",
+      "doi": "10.1145/3576923",
+      "publicationDate": "2022-04-04",
+      "year": 2022
+    },
+    {
+      "title": "Conversational Information Seeking",
+      "arxiv_id": "2201.08808",
+      "doi": "10.1561/1500000081",
+      "publicationDate": "2022-01-21",
+      "year": 2022
+    },
+    {
+      "title": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+      "arxiv_id": "2112.09118",
+      "doi": null,
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "Explaining Documents' Relevance to Search Queries",
+      "arxiv_id": "2111.01314",
+      "doi": null,
+      "publicationDate": "2021-11-02",
+      "year": 2021
+    },
+    {
+      "title": "Learning Multiple Intent Representations for Search Queries",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3482445",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "On the Prunability of Attention Heads in Multilingual BERT",
+      "arxiv_id": "2109.12683",
+      "doi": null,
+      "publicationDate": "2021-09-26",
+      "year": 2021
+    },
+    {
+      "title": "Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience",
+      "arxiv_id": "2108.13759",
+      "doi": "10.18653/v1/2021.emnlp-main.645",
+      "publicationDate": "2021-08-31",
+      "year": 2021
+    },
+    {
+      "title": "Are Neural Ranking Models Robust?",
+      "arxiv_id": "2108.05018",
+      "doi": "10.1145/3534928",
+      "publicationDate": "2021-08-11",
+      "year": 2021
+    },
+    {
+      "title": "Post-hoc Interpretability for Neural NLP: A Survey",
+      "arxiv_id": "2108.04840",
+      "doi": "10.1145/3546577",
+      "publicationDate": "2021-08-10",
+      "year": 2021
+    },
+    {
+      "title": "Extractive Explanations for Interpretable Text Ranking",
+      "arxiv_id": "2106.12460",
+      "doi": "10.1145/3576924",
+      "publicationDate": "2021-06-23",
+      "year": 2021
+    },
+    {
+      "title": "Exploring Counterfactual Explanations Through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis",
+      "arxiv_id": "2106.09992",
+      "doi": null,
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Towards Axiomatic Explanations for Neural Ranking Models",
+      "arxiv_id": "2106.08019",
+      "doi": "10.1145/3471158.3472256",
+      "publicationDate": "2021-06-15",
+      "year": 2021
+    },
+    {
+      "title": "Is Sparse Attention more Interpretable?",
+      "arxiv_id": "2106.01087",
+      "doi": "10.18653/v1/2021.acl-short.17",
+      "publicationDate": "2021-06-02",
+      "year": 2021
+    },
+    {
+      "title": "Explanation-Based Human Debugging of NLP Models: A Survey",
+      "arxiv_id": "2104.15135",
+      "doi": "10.1162/tacl_a_00440",
+      "publicationDate": "2021-04-30",
+      "year": 2021
+    },
+    {
+      "title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+      "arxiv_id": "2104.08663",
+      "doi": null,
+      "publicationDate": "2021-04-17",
+      "year": 2021
+    },
+    {
+      "title": "Interpretable Ranking with Generalized Additive Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3437963.3441796",
+      "publicationDate": "2021-03-08",
+      "year": 2021
+    },
+    {
+      "title": "Contrastive Explanations for Model Interpretability",
+      "arxiv_id": "2103.01378",
+      "doi": "10.18653/v1/2021.emnlp-main.120",
+      "publicationDate": "2021-03-02",
+      "year": 2021
+    },
+    {
+      "title": "Probing Classifiers: Promises, Shortcomings, and Advances",
+      "arxiv_id": "2102.12452",
+      "doi": "10.1162/coli_a_00422",
+      "publicationDate": "2021-02-24",
+      "year": 2021
+    },
+    {
+      "title": "Position Information in Transformers: An Overview",
+      "arxiv_id": "2102.11090",
+      "doi": "10.1162/coli_a_00445",
+      "publicationDate": "2021-02-22",
+      "year": 2021
+    },
+    {
+      "title": "Overview of the TREC 2020 Deep Learning Track",
+      "arxiv_id": "2102.07662",
+      "doi": null,
+      "publicationDate": "2021-02-15",
+      "year": 2021
+    },
+    {
+      "title": "The heads hypothesis: A unifying statistical approach towards understanding multi-headed attention in BERT",
+      "arxiv_id": "2101.09115",
+      "doi": "10.1609/aaai.v35i15.17605",
+      "publicationDate": "2021-01-22",
+      "year": 2021
+    },
+    {
+      "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+      "arxiv_id": "2101.02235",
+      "doi": "10.1162/tacl_a_00370",
+      "publicationDate": "2021-01-06",
+      "year": 2021
+    },
+    {
+      "title": "A White Box Analysis of ColBERT",
+      "arxiv_id": "2012.09650",
+      "doi": "10.1007/978-3-030-72240-1_23",
+      "publicationDate": "2020-12-17",
+      "year": 2020
+    },
+    {
+      "title": "ABNIRML: Analyzing the Behavior of Neural IR Models",
+      "arxiv_id": "2011.00696",
+      "doi": "10.1162/tacl_a_00457",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "Influence Patterns for Explaining Information Flow in BERT",
+      "arxiv_id": "2011.00740",
+      "doi": null,
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
+      "arxiv_id": "2010.06467",
+      "doi": "10.1145/3437963.3441667",
+      "publicationDate": "2020-10-13",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of the State of Explainable AI for Natural Language Processing",
+      "arxiv_id": "2010.00711",
+      "doi": "10.18653/v1/2020.aacl-main.46",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3397271.3401286",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "An Analysis of BERT in Document Ranking",
+      "arxiv_id": null,
+      "doi": "10.1145/3397271.3401325",
+      "publicationDate": "2020-07-25",
+      "year": 2020
+    },
+    {
+      "title": "Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval",
+      "arxiv_id": "2007.00808",
+      "doi": null,
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "MIMICS: A Large-Scale Data Collection for Search Clarification",
+      "arxiv_id": "2006.10174",
+      "doi": "10.1145/3340531.3412772",
+      "publicationDate": "2020-06-17",
+      "year": 2020
+    },
+    {
+      "title": "Aligning Faithful Interpretations with their Social Attribution",
+      "arxiv_id": "2006.01067",
+      "doi": "10.1162/tacl_a_00367",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "arxiv_id": "2005.11401",
+      "doi": null,
+      "publicationDate": "2020-05-22",
+      "year": 2020
+    },
+    {
+      "title": "Quantifying Attention Flow in Transformers",
+      "arxiv_id": "2005.00928",
+      "doi": "10.18653/v1/2020.acl-main.385",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Expansion via Prediction of Importance with Contextualization",
+      "arxiv_id": "2004.14245",
+      "doi": "10.1145/3397271.3401262",
+      "publicationDate": "2020-04-29",
+      "year": 2020
+    },
+    {
+      "title": "Towards Transparent and Explainable Attention Models",
+      "arxiv_id": "2004.14243",
+      "doi": "10.18653/v1/2020.acl-main.387",
+      "publicationDate": "2020-04-29",
+      "year": 2020
+    },
+    {
+      "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+      "arxiv_id": "2004.12832",
+      "doi": "10.1145/3397271.3401075",
+      "publicationDate": "2020-04-27",
+      "year": 2020
+    },
+    {
+      "title": "Self-Attention Attribution: Interpreting Information Interactions Inside Transformer",
+      "arxiv_id": "2004.11207",
+      "doi": "10.1609/aaai.v35i14.17533",
+      "publicationDate": "2020-04-23",
+      "year": 2020
+    },
+    {
+      "title": "Generating Clarifying Questions for Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380126",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+      "arxiv_id": "2004.04906",
+      "doi": "10.18653/v1/2020.emnlp-main.550",
+      "publicationDate": "2020-04-10",
+      "year": 2020
+    },
+    {
+      "title": "Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection",
+      "arxiv_id": "2004.02015",
+      "doi": "10.18653/v1/2020.acl-main.494",
+      "publicationDate": "2020-04-04",
+      "year": 2020
+    },
+    {
+      "title": "Diagnosing BERT with Retrieval Heuristics",
+      "arxiv_id": "2201.04458",
+      "doi": "10.1007/978-3-030-45439-5_40",
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "Overview of the TREC 2019 deep learning track",
+      "arxiv_id": "2003.07820",
+      "doi": null,
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "Explainable k-Means and k-Medians Clustering",
+      "arxiv_id": "2002.12538",
+      "doi": null,
+      "publicationDate": "2020-02-28",
+      "year": 2020
+    },
+    {
+      "title": "A Primer in BERTology: What We Know About How BERT Works",
+      "arxiv_id": "2002.12327",
+      "doi": "10.1162/tacl_a_00349",
+      "publicationDate": "2020-02-27",
+      "year": 2020
+    },
+    {
+      "title": "The POLAR Framework: Polar Opposites Enable Interpretability of Pre-Trained Word Embeddings",
+      "arxiv_id": "2001.09876",
+      "doi": "10.1145/3366423.3380227",
+      "publicationDate": "2020-01-27",
+      "year": 2020
+    },
+    {
+      "title": "Model agnostic interpretability of rankers via intent modelling",
+      "arxiv_id": null,
+      "doi": "10.1145/3351095.3375234",
+      "publicationDate": "2020-01-22",
+      "year": 2020
+    },
+    {
+      "title": "ERASER: A Benchmark to Evaluate Rationalized NLP Models",
+      "arxiv_id": "1911.03429",
+      "doi": "10.18653/v1/2020.acl-main.408",
+      "publicationDate": "2019-11-08",
+      "year": 2019
+    },
+    {
+      "title": "I-REX: A Lucene Plugin for EXplainable IR",
+      "arxiv_id": null,
+      "doi": "10.1145/3357384.3357859",
+      "publicationDate": "2019-11-03",
+      "year": 2019
+    },
+    {
+      "title": "Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D19-1352",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+      "arxiv_id": "1910.13461",
+      "doi": "10.18653/v1/2020.acl-main.703",
+      "publicationDate": "2019-10-29",
+      "year": 2019
+    },
+    {
+      "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+      "arxiv_id": "1910.10683",
+      "doi": null,
+      "publicationDate": "2019-10-23",
+      "year": 2019
+    },
+    {
+      "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+      "arxiv_id": "1910.01108",
+      "doi": null,
+      "publicationDate": "2019-10-02",
+      "year": 2019
+    },
+    {
+      "title": "The many Shapley values for model explanation",
+      "arxiv_id": "1908.08474",
+      "doi": null,
+      "publicationDate": "2019-08-22",
+      "year": 2019
+    },
+    {
+      "title": "Revealing the Dark Secrets of BERT",
+      "arxiv_id": "1908.08593",
+      "doi": "10.18653/v1/D19-1445",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Attention is not not Explanation",
+      "arxiv_id": "1908.04626",
+      "doi": "10.18653/v1/D19-1002",
+      "publicationDate": "2019-08-13",
+      "year": 2019
+    },
+    {
+      "title": "Natural Questions: A Benchmark for Question Answering Research",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00276",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models",
+      "arxiv_id": "1907.13528",
+      "doi": "10.1162/tacl_a_00298",
+      "publicationDate": "2019-07-31",
+      "year": 2019
+    },
+    {
+      "title": "What Does BERT Learn about the Structure of Language?",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P19-1356",
+      "publicationDate": "2019-07-28",
+      "year": 2019
+    },
+    {
+      "title": "LIRME: Locally Interpretable Ranking Model Explanation",
+      "arxiv_id": null,
+      "doi": "10.1145/3331184.3331377",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "Probing Neural Network Comprehension of Natural Language Arguments",
+      "arxiv_id": "1907.07355",
+      "doi": "10.18653/v1/P19-1459",
+      "publicationDate": "2019-07-17",
+      "year": 2019
+    },
+    {
+      "title": "A study on the Interpretability of Neural Retrieval Models using DeepSHAP",
+      "arxiv_id": "1907.06484",
+      "doi": "10.1145/3331184.3331312",
+      "publicationDate": "2019-07-15",
+      "year": 2019
+    },
+    {
+      "title": "What Does BERT Look at? An Analysis of BERT’s Attention",
+      "arxiv_id": "1906.04341",
+      "doi": "10.18653/v1/W19-4828",
+      "publicationDate": "2019-06-11",
+      "year": 2019
+    },
+    {
+      "title": "Open Sesame: Getting inside BERT’s Linguistic Knowledge",
+      "arxiv_id": "1906.01698",
+      "doi": "10.18653/v1/w19-4825",
+      "publicationDate": "2019-06-04",
+      "year": 2019
+    },
+    {
+      "title": "Is Attention Interpretable?",
+      "arxiv_id": "1906.03731",
+      "doi": "10.18653/v1/P19-1282",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "GENO - GENeric Optimization for Classical Machine Learning",
+      "arxiv_id": "1905.13587",
+      "doi": null,
+      "publicationDate": "2019-05-31",
+      "year": 2019
+    },
+    {
+      "title": "Outline Generation: Understanding the Inherent Content Structure of Documents",
+      "arxiv_id": "1905.10039",
+      "doi": "10.1145/3331184.3331208",
+      "publicationDate": "2019-05-24",
+      "year": 2019
+    },
+    {
+      "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",
+      "arxiv_id": "1905.09418",
+      "doi": "10.18653/v1/P19-1580",
+      "publicationDate": "2019-05-23",
+      "year": 2019
+    },
+    {
+      "title": "ANTIQUE: A Non-factoid Question Answering Benchmark",
+      "arxiv_id": "1905.08957",
+      "doi": "10.1007/978-3-030-45442-5_21",
+      "publicationDate": "2019-05-22",
+      "year": 2019
+    },
+    {
+      "title": "Deeper Text Understanding for IR with Contextual Neural Language Modeling",
+      "arxiv_id": "1905.09217",
+      "doi": "10.1145/3331184.3331303",
+      "publicationDate": "2019-05-22",
+      "year": 2019
+    },
+    {
+      "title": "BERT Rediscovers the Classical NLP Pipeline",
+      "arxiv_id": "1905.05950",
+      "doi": "10.18653/v1/P19-1452",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "What do you learn from context? Probing for sentence structure in contextualized word representations",
+      "arxiv_id": "1905.06316",
+      "doi": null,
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "BERTScore: Evaluating Text Generation with BERT",
+      "arxiv_id": "1904.09675",
+      "doi": null,
+      "publicationDate": "2019-04-21",
+      "year": 2019
+    },
+    {
+      "title": "Analytical Methods for Interpretable Ultradense Word Embeddings",
+      "arxiv_id": "1904.08654",
+      "doi": "10.18653/v1/D19-1111",
+      "publicationDate": "2019-04-18",
+      "year": 2019
+    },
+    {
+      "title": "Understanding the Behaviors of BERT in Ranking",
+      "arxiv_id": "1904.07531",
+      "doi": null,
+      "publicationDate": "2019-04-16",
+      "year": 2019
+    },
+    {
+      "title": "An Axiomatic Approach to Diagnosing Neural IR Models",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-15712-8_32",
+      "publicationDate": "2019-04-14",
+      "year": 2019
+    },
+    {
+      "title": "Attention is not Explanation",
+      "arxiv_id": "1902.10186",
+      "doi": "10.18653/v1/N19-1357",
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "Assessing BERT's Syntactic Abilities",
+      "arxiv_id": "1901.05287",
+      "doi": null,
+      "publicationDate": "2019-01-16",
+      "year": 2019
+    },
+    {
+      "title": "Passage Re-ranking with BERT",
+      "arxiv_id": "1901.04085",
+      "doi": null,
+      "publicationDate": "2019-01-13",
+      "year": 2019
+    },
+    {
+      "title": "Analysis Methods in Neural Language Processing: A Survey",
+      "arxiv_id": "1812.08951",
+      "doi": "10.1162/tacl_a_00254",
+      "publicationDate": "2018-12-21",
+      "year": 2018
+    },
+    {
+      "title": "RNNs Implicitly Implement Tensor Product Representations",
+      "arxiv_id": "1812.08718",
+      "doi": null,
+      "publicationDate": "2018-12-20",
+      "year": 2018
+    },
+    {
+      "title": "ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension",
+      "arxiv_id": "1810.12885",
+      "doi": null,
+      "publicationDate": "2018-10-30",
+      "year": 2018
+    },
+    {
+      "title": "On Controllable Sparse Alternatives to Softmax",
+      "arxiv_id": "1810.11975",
+      "doi": null,
+      "publicationDate": "2018-10-29",
+      "year": 2018
+    },
+    {
+      "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents",
+      "arxiv_id": "1811.01241",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+      "arxiv_id": "1809.09600",
+      "doi": "10.18653/v1/D18-1259",
+      "publicationDate": "2018-09-25",
+      "year": 2018
+    },
+    {
+      "title": "EXS: Explainable Search Using Local Model Agnostic Interpretability",
+      "arxiv_id": "1809.03857",
+      "doi": "10.1145/3289600.3290620",
+      "publicationDate": "2018-09-11",
+      "year": 2018
+    },
+    {
+      "title": "Understanding the Representational Power of Neural Retrieval Models Using NLP Tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/3234944.3234959",
+      "publicationDate": "2018-09-10",
+      "year": 2018
+    },
+    {
+      "title": "Deep Relevance Ranking Using Enhanced Document-Query Interactions",
+      "arxiv_id": "1809.01682",
+      "doi": "10.18653/v1/D18-1211",
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Imparting interpretability to word embeddings while preserving semantic structure",
+      "arxiv_id": "1807.07279",
+      "doi": "10.1017/S1351324920000315",
+      "publicationDate": "2018-07-19",
+      "year": 2018
+    },
+    {
+      "title": "Hierarchical interpretations for neural network predictions",
+      "arxiv_id": "1806.05337",
+      "doi": null,
+      "publicationDate": "2018-06-14",
+      "year": 2018
+    },
+    {
+      "title": "Comparing Automatic and Human Evaluation of Local Explanations for Text Classification",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/N18-1097",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/N18-1023",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Sparse and Constrained Attention for Neural Machine Translation",
+      "arxiv_id": "1805.08241",
+      "doi": "10.18653/v1/p18-2059",
+      "publicationDate": "2018-05-21",
+      "year": 2018
+    },
+    {
+      "title": "Deep RNNs Encode Soft Hierarchical Syntax",
+      "arxiv_id": "1805.04218",
+      "doi": "10.18653/v1/p18-2003",
+      "publicationDate": "2018-05-11",
+      "year": 2018
+    },
+    {
+      "title": "WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval",
+      "arxiv_id": "1805.03797",
+      "doi": "10.1145/3209978.3210118",
+      "publicationDate": "2018-05-10",
+      "year": 2018
+    },
+    {
+      "title": "What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties",
+      "arxiv_id": "1805.01070",
+      "doi": "10.18653/v1/P18-1198",
+      "publicationDate": "2018-05-03",
+      "year": 2018
+    },
+    {
+      "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+      "arxiv_id": "1804.07461",
+      "doi": "10.18653/v1/W18-5446",
+      "publicationDate": "2018-04-20",
+      "year": 2018
+    },
+    {
+      "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification",
+      "arxiv_id": "1803.05355",
+      "doi": "10.18653/v1/N18-1074",
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "SentEval: An Evaluation Toolkit for Universal Sentence Representations",
+      "arxiv_id": "1803.05449",
+      "doi": "10.63317/2gscircifffd",
+      "publicationDate": "2018-03-01",
+      "year": 2018
+    },
+    {
+      "title": "Deep Contextualized Word Representations",
+      "arxiv_id": "1802.05365",
+      "doi": "10.18653/v1/N18-1202",
+      "publicationDate": "2018-02-15",
+      "year": 2018
+    },
+    {
+      "title": "Consistent Individualized Feature Attribution for Tree Ensembles",
+      "arxiv_id": "1802.03888",
+      "doi": null,
+      "publicationDate": "2018-02-12",
+      "year": 2018
+    },
+    {
+      "title": "Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs",
+      "arxiv_id": "1801.05453",
+      "doi": null,
+      "publicationDate": "2018-01-16",
+      "year": 2018
+    },
+    {
+      "title": "LightGBM: A Highly Efficient Gradient Boosting Decision Tree",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-12-04",
+      "year": 2017
+    },
+    {
+      "title": "Learned in Translation: Contextualized Word Vectors",
+      "arxiv_id": "1708.00107",
+      "doi": null,
+      "publicationDate": "2017-08-01",
+      "year": 2017
+    },
+    {
+      "title": "A Deep Investigation of Deep IR Models",
+      "arxiv_id": "1707.07700",
+      "doi": null,
+      "publicationDate": "2017-07-24",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "A Unified Approach to Interpreting Model Predictions",
+      "arxiv_id": "1705.07874",
+      "doi": null,
+      "publicationDate": "2017-05-22",
+      "year": 2017
+    },
+    {
+      "title": "Axiomatic Attribution for Deep Networks",
+      "arxiv_id": "1703.01365",
+      "doi": null,
+      "publicationDate": "2017-03-04",
+      "year": 2017
+    },
+    {
+      "title": "Towards A Rigorous Science of Interpretable Machine Learning",
+      "arxiv_id": "1702.08608",
+      "doi": null,
+      "publicationDate": "2017-02-28",
+      "year": 2017
+    },
+    {
+      "title": "Understanding Neural Networks through Representation Erasure",
+      "arxiv_id": "1612.08220",
+      "doi": null,
+      "publicationDate": "2016-12-24",
+      "year": 2016
+    },
+    {
+      "title": "Automatic Rule Extraction from Long Short Term Memory Networks",
+      "arxiv_id": "1702.02540",
+      "doi": null,
+      "publicationDate": "2016-11-04",
+      "year": 2016
+    },
+    {
+      "title": "MS MARCO: A Human Generated MAchine Reading COmprehension Dataset",
+      "arxiv_id": "1611.09268",
+      "doi": null,
+      "publicationDate": "2016-11-04",
+      "year": 2016
+    },
+    {
+      "title": "Learning to Match using Local and Distributed Representations of Text for Web Search",
+      "arxiv_id": "1610.08136",
+      "doi": "10.1145/3038912.3052579",
+      "publicationDate": "2016-10-26",
+      "year": 2016
+    },
+    {
+      "title": "A Deep Relevance Matching Model for Ad-hoc Retrieval",
+      "arxiv_id": "1711.08611",
+      "doi": "10.1145/2983323.2983769",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "Axiomatic Result Re-Ranking",
+      "arxiv_id": null,
+      "doi": "10.1145/2983323.2983704",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model",
+      "arxiv_id": "1801.01641",
+      "doi": "10.1145/2983323.2983818",
+      "publicationDate": "2016-10-24",
+      "year": 2016
+    },
+    {
+      "title": "Understanding intermediate layers using linear classifier probes",
+      "arxiv_id": "1610.01644",
+      "doi": null,
+      "publicationDate": "2016-10-05",
+      "year": 2016
+    },
+    {
+      "title": "Post-Learning Optimization of Tree Ensembles for Efficient Ranking",
+      "arxiv_id": null,
+      "doi": "10.1145/2911451.2914763",
+      "publicationDate": "2016-07-07",
+      "year": 2016
+    },
+    {
+      "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+      "arxiv_id": "1606.05250",
+      "doi": "10.18653/v1/D16-1264",
+      "publicationDate": "2016-06-16",
+      "year": 2016
+    },
+    {
+      "title": "A Study of MatchPyramid Models on Ad-hoc Retrieval",
+      "arxiv_id": "1606.04648",
+      "doi": null,
+      "publicationDate": "2016-06-15",
+      "year": 2016
+    },
+    {
+      "title": "The mythos of model interpretability",
+      "arxiv_id": "1606.03490",
+      "doi": "10.1145/3233231",
+      "publicationDate": "2016-06-10",
+      "year": 2016
+    },
+    {
+      "title": "Query Expansion with Locally-Trained Word Embeddings",
+      "arxiv_id": "1605.07891",
+      "doi": "10.18653/v1/P16-1035",
+      "publicationDate": "2016-05-25",
+      "year": 2016
+    },
+    {
+      "title": "Improving Document Ranking with Dual Word Embeddings",
+      "arxiv_id": null,
+      "doi": "10.1145/2872518.2889361",
+      "publicationDate": "2016-04-11",
+      "year": 2016
+    },
+    {
+      "title": "Ultradense Word Embeddings by Orthogonal Transformation",
+      "arxiv_id": "1602.07572",
+      "doi": "10.18653/v1/N16-1091",
+      "publicationDate": "2016-02-24",
+      "year": 2016
+    },
+    {
+      "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
+      "arxiv_id": "1602.04938",
+      "doi": "10.1145/2939672.2939778",
+      "publicationDate": "2016-02-16",
+      "year": 2016
+    },
+    {
+      "title": "Text Matching as Image Recognition",
+      "arxiv_id": "1602.06359",
+      "doi": "10.1609/aaai.v30i1.10341",
+      "publicationDate": "2016-02-12",
+      "year": 2016
+    },
+    {
+      "title": "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification",
+      "arxiv_id": "1602.02068",
+      "doi": null,
+      "publicationDate": "2016-02-05",
+      "year": 2016
+    },
+    {
+      "title": "WikiQA: A Challenge Dataset for Open-Domain Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D15-1237",
+      "publicationDate": "2015-09-21",
+      "year": 2015
+    },
+    {
+      "title": "What’s in an Embedding? Analyzing Word Embeddings through Multilingual Evaluation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D15-1246",
+      "publicationDate": "2015-09-01",
+      "year": 2015
+    },
+    {
+      "title": "Distributional vectors encode referential attributes",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d15-1002",
+      "publicationDate": "2015-09-01",
+      "year": 2015
+    },
+    {
+      "title": "A large annotated corpus for learning natural language inference",
+      "arxiv_id": "1508.05326",
+      "doi": "10.18653/v1/D15-1075",
+      "publicationDate": "2015-08-21",
+      "year": 2015
+    },
+    {
+      "title": "From Word Embeddings To Document Distances",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-06",
+      "year": 2015
+    },
+    {
+      "title": "Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval",
+      "arxiv_id": "1502.06922",
+      "doi": "10.1109/TASLP.2016.2520371",
+      "publicationDate": "2015-02-01",
+      "year": 2015
+    },
+    {
+      "title": "Convolutional Neural Network Architectures for Matching Natural Language Sentences",
+      "arxiv_id": "1503.03244",
+      "doi": null,
+      "publicationDate": "2014-12-08",
+      "year": 2014
+    },
+    {
+      "title": "GloVe: Global Vectors for Word Representation",
+      "arxiv_id": null,
+      "doi": "10.3115/v1/D14-1162",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "arxiv_id": "1409.0473",
+      "doi": null,
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Generalized Additive Models",
+      "arxiv_id": null,
+      "doi": "10.1002/9781118445112.stat03141",
+      "publicationDate": "2014-04-22",
+      "year": 2014
+    },
+    {
+      "title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps",
+      "arxiv_id": "1312.6034",
+      "doi": null,
+      "publicationDate": "2013-12-20",
+      "year": 2013
+    },
+    {
+      "title": "Visualizing and Understanding Convolutional Networks",
+      "arxiv_id": "1311.2901",
+      "doi": "10.1007/978-3-319-10590-1_53",
+      "publicationDate": "2013-11-12",
+      "year": 2013
+    },
+    {
+      "title": "Distributed Representations of Words and Phrases and their Compositionality",
+      "arxiv_id": "1310.4546",
+      "doi": null,
+      "publicationDate": "2013-10-16",
+      "year": 2013
+    },
+    {
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/d13-1170",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "A Theoretical Analysis of Pseudo-Relevance Feedback Models",
+      "arxiv_id": null,
+      "doi": "10.1145/2499178.2499179",
+      "publicationDate": "2013-09-29",
+      "year": 2013
+    },
+    {
+      "title": "Accurate intelligible models with pairwise interactions",
+      "arxiv_id": null,
+      "doi": "10.1145/2487575.2487579",
+      "publicationDate": "2013-08-11",
+      "year": 2013
+    },
+    {
+      "title": "Introducing LETOR 4.0 Datasets",
+      "arxiv_id": "1306.2597",
+      "doi": null,
+      "publicationDate": "2013-06-09",
+      "year": 2013
+    },
+    {
+      "title": "Intelligible models for classification and regression",
+      "arxiv_id": null,
+      "doi": "10.1145/2339530.2339556",
+      "publicationDate": "2012-08-12",
+      "year": 2012
+    },
+    {
+      "title": "Learning Word Vectors for Sentiment Analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-06-19",
+      "year": 2011
+    },
+    {
+      "title": "Diagnostic Evaluation of Information Retrieval Models",
+      "arxiv_id": null,
+      "doi": "10.1145/1961209.1961210",
+      "publicationDate": "2011-04-01",
+      "year": 2011
+    },
+    {
+      "title": "A similarity measure for indefinite rankings",
+      "arxiv_id": null,
+      "doi": "10.1145/1852102.1852106",
+      "publicationDate": "2010-11-01",
+      "year": 2010
+    },
+    {
+      "title": "LETOR: A benchmark collection for research on learning to rank for information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s10791-009-9123-y",
+      "publicationDate": "2010-08-01",
+      "year": 2010
+    },
+    {
+      "title": "Yahoo! Learning to Rank Challenge Overview",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-06-25",
+      "year": 2010
+    },
+    {
+      "title": "Learning to Rank Using an Ensemble of Lambda-Gradient Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-06-25",
+      "year": 2010
+    },
+    {
+      "title": "Retrieval constraints and word frequency distributions a log-logistic model for IR",
+      "arxiv_id": null,
+      "doi": "10.1007/s10791-010-9143-7",
+      "publicationDate": "2009-11-02",
+      "year": 2009
+    },
+    {
+      "title": "Bridging Language Modeling and Divergence from Randomness Models: A Log-Logistic Model for IR",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-04417-5_6",
+      "publicationDate": "2009-09-03",
+      "year": 2009
+    },
+    {
+      "title": "Learning to Rank Answers on Large Online QA Collections",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2008-12-01",
+      "year": 2008
+    },
+    {
+      "title": "A new rank correlation coefficient for information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/1390334.1390435",
+      "publicationDate": "2008-07-20",
+      "year": 2008
+    },
+    {
+      "title": "An exploration of proximity measures in information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/1277741.1277794",
+      "publicationDate": "2007-07-23",
+      "year": 2007
+    },
+    {
+      "title": "Semantic term matching in axiomatic approaches to information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/1148170.1148193",
+      "publicationDate": "2006-08-06",
+      "year": 2006
+    },
+    {
+      "title": "The Importance of Length Normalization for XML Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s10791-005-0750-7",
+      "publicationDate": "2005-12-01",
+      "year": 2005
+    },
+    {
+      "title": "A formal study of information retrieval heuristics",
+      "arxiv_id": null,
+      "doi": "10.1145/1008992.1009004",
+      "publicationDate": "2004-07-25",
+      "year": 2004
+    },
+    {
+      "title": "TextRank: Bringing Order into Text",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-07-01",
+      "year": 2004
+    },
+    {
+      "title": "A study of smoothing methods for language models applied to information retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/984321.984322",
+      "publicationDate": "2004-04-01",
+      "year": 2004
+    },
+    {
+      "title": "Estimating regression models with unknown break‐points",
+      "arxiv_id": null,
+      "doi": "10.1002/sim.1545",
+      "publicationDate": "2003-10-15",
+      "year": 2003
+    },
+    {
+      "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+      "arxiv_id": "cs/0306050",
+      "doi": "10.3115/1119176.1119195",
+      "publicationDate": "2003-05-31",
+      "year": 2003
+    },
+    {
+      "title": "Relevance-Based Language Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3130348.3130376",
+      "publicationDate": "2001-09-01",
+      "year": 2001
+    },
+    {
+      "title": "Long Short-Term Memory",
+      "arxiv_id": null,
+      "doi": "10.1162/neco.1997.9.8.1735",
+      "publicationDate": "1997-11-01",
+      "year": 1997
+    },
+    {
+      "title": "The Penn Treebank: Annotating Predicate Argument Structure",
+      "arxiv_id": null,
+      "doi": "10.3115/1075812.1075835",
+      "publicationDate": "1994-03-08",
+      "year": 1994
+    },
+    {
+      "title": "17. A Value for n-Person Games",
+      "arxiv_id": null,
+      "doi": "10.1515/9781400881970-018",
+      "publicationDate": "1953-01-31",
+      "year": 1953
+    },
+    {
+      "title": "Listwise Explanations for Ranking Models Using Multiple Explainers",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-28244-7_41",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Explainable Search in Legal Text",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-99739-7_65",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "prediction is ‘entailment’. of the sentence is ‘positive’. Fig. 3. Reproducing figures from Hao et al. (",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "KeyBERT: Minimal keyword extraction with BERT",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "From doc2query to docTTTTTquery",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Improving Language Understanding by Generative Pre-Training",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Visualizing Data using t-SNE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2008
+    },
+    {
+      "title": "An Investigation of Dirichlet Prior Smoothing's Performance Advantage",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "Automatically Constructing a Corpus of Sentential Paraphrases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "The use of MMR, diversity-based reranking for reordering documents and producing summaries",
+      "arxiv_id": null,
+      "doi": "10.1145/290941.291025",
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "Term Weighting Revisited",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1996
+    },
+    {
+      "title": "How Relevance Emerges: A Mechanistic Analysis of LoRA Fine-Tuning in Reranking LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "UvA-DARE (Digital Academic Repository) Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Manuscript submitted to ACM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Conflictbank: a benchmark for evaluating knowledge conflicts in large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Conference acronym ’XX, June 03–05, 2018, Woodstock, NY",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

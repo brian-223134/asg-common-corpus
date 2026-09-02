@@ -1,0 +1,3012 @@
+{
+  "candidate": {
+    "topic": "Large Models for Time Series and Spatio-Temporal Data",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3821637",
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "published": "2026-07-28"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=296"
+  },
+  "extracted_at": "2026-09-02T02:31:26+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 425,
+    "arxiv_resolvable": 301,
+    "doi_only": 95,
+    "unresolved": 29
+  },
+  "gt_s2": {
+    "paperId": "5b038c1a93967072cc76689fd805e756f804cc42",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2310-10196",
+      "ArXiv": "2310.10196",
+      "DOI": "10.1145/3821637",
+      "CorpusId": 264146957
+    },
+    "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "referenceCount": 425,
+    "publicationDate": "2023-10-16"
+  },
+  "refs": [
+    {
+      "title": "Source-free foundation model-enabled transferable state of health estimation for lithium-ion batteries with intelligent adapter mapping",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2026.113498",
+      "publicationDate": "2026-03-01",
+      "year": 2026
+    },
+    {
+      "title": "GSF-LLM: Graph-Enhanced Spatio-Temporal Fusion-Based Large Language Model for Traffic Prediction",
+      "arxiv_id": null,
+      "doi": "10.3390/s25216698",
+      "publicationDate": "2025-11-01",
+      "year": 2025
+    },
+    {
+      "title": "Fusing Narrative Semantics for Financial Volatility Forecasting",
+      "arxiv_id": "2510.20699",
+      "doi": "10.1145/3768292.3771256",
+      "publicationDate": "2025-10-23",
+      "year": 2025
+    },
+    {
+      "title": "Chronos-2: From Univariate to Universal Forecasting",
+      "arxiv_id": "2510.15821",
+      "doi": "10.48550/arXiv.2510.15821",
+      "publicationDate": "2025-10-17",
+      "year": 2025
+    },
+    {
+      "title": "TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models",
+      "arxiv_id": "2509.24803",
+      "doi": "10.48550/arXiv.2509.24803",
+      "publicationDate": "2025-09-29",
+      "year": 2025
+    },
+    {
+      "title": "ST-LINK: Spatially-Aware Large Language Models for Spatio-Temporal Forecasting",
+      "arxiv_id": "2509.13753",
+      "doi": "10.1145/3746252.3761085",
+      "publicationDate": "2025-09-17",
+      "year": 2025
+    },
+    {
+      "title": "Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems",
+      "arxiv_id": "2508.02344",
+      "doi": "10.48550/arXiv.2508.02344",
+      "publicationDate": "2025-08-04",
+      "year": 2025
+    },
+    {
+      "title": "ST-LLM+: Graph Enhanced Spatio-Temporal Large Language Models for Traffic Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2025.3570705",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale",
+      "arxiv_id": "2507.12144",
+      "doi": "10.48550/arXiv.2507.12144",
+      "publicationDate": "2025-07-16",
+      "year": 2025
+    },
+    {
+      "title": "Pre-training Time Series Models with Stock Data Customization",
+      "arxiv_id": "2506.16746",
+      "doi": "10.1145/3711896.3737005",
+      "publicationDate": "2025-06-20",
+      "year": 2025
+    },
+    {
+      "title": "MIRA: Medical Time Series Foundation Model for Real-World Health Data",
+      "arxiv_id": "2506.07584",
+      "doi": "10.48550/arXiv.2506.07584",
+      "publicationDate": "2025-06-09",
+      "year": 2025
+    },
+    {
+      "title": "LLM-TFP: Integrating large language models with spatio-temporal features for urban traffic flow prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2025.113174",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Graph Foundation Models: A Comprehensive Survey",
+      "arxiv_id": "2505.15116",
+      "doi": "10.48550/arXiv.2505.15116",
+      "publicationDate": "2025-05-21",
+      "year": 2025
+    },
+    {
+      "title": "Large Language models for Time Series Analysis: Techniques, Applications, and Challenges",
+      "arxiv_id": "2506.11040",
+      "doi": "10.48550/arXiv.2506.11040",
+      "publicationDate": "2025-05-21",
+      "year": 2025
+    },
+    {
+      "title": "Domain Adaptation of VLM for Soccer Video Understanding",
+      "arxiv_id": "2505.13860",
+      "doi": "10.1109/CVPRW67362.2025.00608",
+      "publicationDate": "2025-05-19",
+      "year": 2025
+    },
+    {
+      "title": "Beyond Fixed Patches: Enhancing GPTs for Financial Prediction with Adaptive Segmentation and Learnable Wavelets",
+      "arxiv_id": "2505.02880",
+      "doi": null,
+      "publicationDate": "2025-05-05",
+      "year": 2025
+    },
+    {
+      "title": "Survey of Video Diffusion Models: Foundations, Implementations, and Applications",
+      "arxiv_id": "2504.16081",
+      "doi": "10.48550/arXiv.2504.16081",
+      "publicationDate": "2025-04-22",
+      "year": 2025
+    },
+    {
+      "title": "Foundation Models for Time Series: A Survey",
+      "arxiv_id": "2504.04011",
+      "doi": "10.48550/arXiv.2504.04011",
+      "publicationDate": "2025-04-05",
+      "year": 2025
+    },
+    {
+      "title": "BOLT: Boost Large Vision-Language Model Without Training for Long-Form Video Understanding",
+      "arxiv_id": "2503.21483",
+      "doi": "10.1109/CVPR52734.2025.00315",
+      "publicationDate": "2025-03-27",
+      "year": 2025
+    },
+    {
+      "title": "UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines",
+      "arxiv_id": "2503.20748",
+      "doi": "10.1109/CVPR52734.2025.02720",
+      "publicationDate": "2025-03-26",
+      "year": 2025
+    },
+    {
+      "title": "Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models",
+      "arxiv_id": "2503.11411",
+      "doi": "10.48550/arXiv.2503.11411",
+      "publicationDate": "2025-03-14",
+      "year": 2025
+    },
+    {
+      "title": "Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey",
+      "arxiv_id": "2503.13502",
+      "doi": "10.1145/3711896.3736552",
+      "publicationDate": "2025-03-12",
+      "year": 2025
+    },
+    {
+      "title": "Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement",
+      "arxiv_id": "2503.01875",
+      "doi": "10.48550/arXiv.2503.01875",
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization",
+      "arxiv_id": "2502.00828",
+      "doi": "10.48550/arXiv.2502.00828",
+      "publicationDate": "2025-02-02",
+      "year": 2025
+    },
+    {
+      "title": "Sundial: A Family of Highly Capable Time Series Foundation Models",
+      "arxiv_id": "2502.00816",
+      "doi": "10.48550/arXiv.2502.00816",
+      "publicationDate": "2025-02-02",
+      "year": 2025
+    },
+    {
+      "title": "Dynamic link prediction: Using language models and graph structures for temporal knowledge graph completion with emerging entities and relations",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.126648",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding",
+      "arxiv_id": "2501.13106",
+      "doi": "10.48550/arXiv.2501.13106",
+      "publicationDate": "2025-01-22",
+      "year": 2025
+    },
+    {
+      "title": "Foundation Models Defining a New Era in Vision: A Survey and Outlook",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2024.3506283",
+      "publicationDate": "2025-01-09",
+      "year": 2025
+    },
+    {
+      "title": "Harnessing Large Language Models for Temporal Knowledge Graph Forecasting with Multi-view Prompting",
+      "arxiv_id": null,
+      "doi": "10.1109/ICAIRC64177.2024.10900037",
+      "publicationDate": "2024-12-27",
+      "year": 2024
+    },
+    {
+      "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+      "arxiv_id": "2412.11376",
+      "doi": "10.48550/arXiv.2412.11376",
+      "publicationDate": "2024-12-16",
+      "year": 2024
+    },
+    {
+      "title": "Embracing Large Language Models in Traffic Flow Forecasting",
+      "arxiv_id": "2412.12201",
+      "doi": "10.48550/arXiv.2412.12201",
+      "publicationDate": "2024-12-15",
+      "year": 2024
+    },
+    {
+      "title": "ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning",
+      "arxiv_id": "2412.03104",
+      "doi": "10.14778/3742728.3742735",
+      "publicationDate": "2024-12-04",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Transfer Learning for Video-language Foundation Models",
+      "arxiv_id": "2411.11223",
+      "doi": "10.1109/CVPR52734.2025.02712",
+      "publicationDate": "2024-11-18",
+      "year": 2024
+    },
+    {
+      "title": "A survey on temporal knowledge graph embedding: Models and applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2024.112454",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Medical large language models are susceptible to targeted misinformation attacks",
+      "arxiv_id": null,
+      "doi": "10.1038/s41746-024-01282-7",
+      "publicationDate": "2024-10-23",
+      "year": 2024
+    },
+    {
+      "title": "TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis",
+      "arxiv_id": "2410.16032",
+      "doi": "10.48550/arXiv.2410.16032",
+      "publicationDate": "2024-10-21",
+      "year": 2024
+    },
+    {
+      "title": "Foundation models for cardiovascular disease detection via biosignals from digital stethoscopes",
+      "arxiv_id": null,
+      "doi": "10.1038/s44325-024-00027-5",
+      "publicationDate": "2024-10-11",
+      "year": 2024
+    },
+    {
+      "title": "Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts",
+      "arxiv_id": "2409.16040",
+      "doi": "10.48550/arXiv.2409.16040",
+      "publicationDate": "2024-09-24",
+      "year": 2024
+    },
+    {
+      "title": "Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding",
+      "arxiv_id": "2409.14485",
+      "doi": "10.1109/CVPR52734.2025.02436",
+      "publicationDate": "2024-09-22",
+      "year": 2024
+    },
+    {
+      "title": "RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming",
+      "arxiv_id": "2408.14505",
+      "doi": "10.24963/ijcai.2025/374",
+      "publicationDate": "2024-08-24",
+      "year": 2024
+    },
+    {
+      "title": "ECG-FM: An Open Electrocardiogram Foundation Model",
+      "arxiv_id": "2408.05178",
+      "doi": "10.48550/arXiv.2408.05178",
+      "publicationDate": "2024-08-09",
+      "year": 2024
+    },
+    {
+      "title": "Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis",
+      "arxiv_id": "2406.08627",
+      "doi": "10.52202/079017-2476",
+      "publicationDate": "2024-06-12",
+      "year": 2024
+    },
+    {
+      "title": "MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning",
+      "arxiv_id": "2406.06620",
+      "doi": "10.24963/ijcai.2025/880",
+      "publicationDate": "2024-06-07",
+      "year": 2024
+    },
+    {
+      "title": "TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment",
+      "arxiv_id": "2406.01638",
+      "doi": "10.1609/aaai.v39i18.34067",
+      "publicationDate": "2024-06-03",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning",
+      "arxiv_id": "2405.14170",
+      "doi": "10.48550/arXiv.2405.14170",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting",
+      "arxiv_id": "2405.14252",
+      "doi": "10.48550/arXiv.2405.14252",
+      "publicationDate": "2024-05-23",
+      "year": 2024
+    },
+    {
+      "title": "Networking Systems for Video Anomaly Detection: A Tutorial and Survey",
+      "arxiv_id": "2405.10347",
+      "doi": "10.1145/3729222",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "Foundation Models for Video Understanding: A Survey",
+      "arxiv_id": "2405.03770",
+      "doi": "10.48550/arXiv.2405.03770",
+      "publicationDate": "2024-05-06",
+      "year": 2024
+    },
+    {
+      "title": "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding",
+      "arxiv_id": "2404.05726",
+      "doi": "10.1109/CVPR52733.2024.01282",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "Towards explainable traffic flow prediction with large language models",
+      "arxiv_id": "2404.02937",
+      "doi": "10.1016/j.commtr.2024.100150",
+      "publicationDate": "2024-04-03",
+      "year": 2024
+    },
+    {
+      "title": "InternVideo2: Scaling Foundation Models for Multimodal Video Understanding",
+      "arxiv_id": "2403.15377",
+      "doi": "10.1007/978-3-031-73013-9_23",
+      "publicationDate": "2024-03-22",
+      "year": 2024
+    },
+    {
+      "title": "Foundation Models for Time Series Analysis: A Tutorial and Survey",
+      "arxiv_id": "2403.14735",
+      "doi": "10.1145/3637528.3671451",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Chronos: Learning the Language of Time Series",
+      "arxiv_id": "2403.07815",
+      "doi": "10.48550/arXiv.2403.07815",
+      "publicationDate": "2024-03-12",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Temporal Knowledge Graph: Representation Learning and Applications",
+      "arxiv_id": "2403.04782",
+      "doi": "10.48550/arXiv.2403.04782",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting",
+      "arxiv_id": "2402.14382",
+      "doi": "10.18653/v1/2024.findings-acl.955",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "MOMENT: A Family of Open Time-series Foundation Models",
+      "arxiv_id": "2402.03885",
+      "doi": "10.48550/arXiv.2402.03885",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Unified Training of Universal Time Series Forecasting Transformers",
+      "arxiv_id": "2402.02592",
+      "doi": "10.48550/arXiv.2402.02592",
+      "publicationDate": "2024-02-04",
+      "year": 2024
+    },
+    {
+      "title": "How Can Large Language Models Understand Spatial-Temporal Data?",
+      "arxiv_id": "2401.14192",
+      "doi": "10.48550/arXiv.2401.14192",
+      "publicationDate": "2024-01-25",
+      "year": 2024
+    },
+    {
+      "title": "Learning skillful medium-range global weather forecasting",
+      "arxiv_id": null,
+      "doi": "10.1126/science.adi2336",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "mPLUG-OwI2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration",
+      "arxiv_id": "2311.04257",
+      "doi": "10.1109/CVPR52733.2024.01239",
+      "publicationDate": "2023-11-07",
+      "year": 2023
+    },
+    {
+      "title": "Clairvoyance: A Pipeline Toolkit for Medical Time Series",
+      "arxiv_id": "2310.18688",
+      "doi": "10.48550/arXiv.2310.18688",
+      "publicationDate": "2023-10-28",
+      "year": 2023
+    },
+    {
+      "title": "UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting",
+      "arxiv_id": "2310.09751",
+      "doi": "10.1145/3589334.3645434",
+      "publicationDate": "2023-10-15",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models Are Zero-Shot Time Series Forecasters",
+      "arxiv_id": "2310.07820",
+      "doi": "10.48550/arXiv.2310.07820",
+      "publicationDate": "2023-10-11",
+      "year": 2023
+    },
+    {
+      "title": "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting",
+      "arxiv_id": "2310.04948",
+      "doi": "10.48550/arXiv.2310.04948",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Prompt-augmented Temporal Point Process for Streaming Event Sequence",
+      "arxiv_id": "2310.04993",
+      "doi": "10.48550/arXiv.2310.04993",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models",
+      "arxiv_id": "2310.01728",
+      "doi": "10.48550/arXiv.2310.01728",
+      "publicationDate": "2023-10-03",
+      "year": 2023
+    },
+    {
+      "title": "Medical Foundation Models are Susceptible to Targeted Misinformation Attacks",
+      "arxiv_id": "2309.17007",
+      "doi": "10.48550/arXiv.2309.17007",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment",
+      "arxiv_id": "2309.13378",
+      "doi": "10.48550/arXiv.2309.13378",
+      "publicationDate": "2023-09-23",
+      "year": 2023
+    },
+    {
+      "title": "WEASEL 2.0: a random dilated dictionary transform for fast, accurate and memory constrained time series classification",
+      "arxiv_id": null,
+      "doi": "10.1007/s10994-023-06395-w",
+      "publicationDate": "2023-09-19",
+      "year": 2023
+    },
+    {
+      "title": "NExT-GPT: Any-to-Any Multimodal LLM",
+      "arxiv_id": "2309.05519",
+      "doi": "10.48550/arXiv.2309.05519",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Automated diagnosis of autism with artificial intelligence: State of the art",
+      "arxiv_id": null,
+      "doi": "10.1515/revneuro-2023-0050",
+      "publicationDate": "2023-09-08",
+      "year": 2023
+    },
+    {
+      "title": "Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media",
+      "arxiv_id": "2309.03564",
+      "doi": "10.3390/bioengineering12080882",
+      "publicationDate": "2023-09-07",
+      "year": 2023
+    },
+    {
+      "title": "Where Would I Go Next? Large Language Models as Human Mobility Predictors",
+      "arxiv_id": "2308.15197",
+      "doi": "10.48550/arXiv.2308.15197",
+      "publicationDate": "2023-08-29",
+      "year": 2023
+    },
+    {
+      "title": "Sparks of Large Audio Models: A Survey and Outlook",
+      "arxiv_id": "2308.12792",
+      "doi": "10.48550/arXiv.2308.12792",
+      "publicationDate": "2023-08-24",
+      "year": 2023
+    },
+    {
+      "title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
+      "arxiv_id": "2308.09687",
+      "doi": "10.1609/aaai.v38i16.29720",
+      "publicationDate": "2023-08-18",
+      "year": 2023
+    },
+    {
+      "title": "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters",
+      "arxiv_id": "2308.08469",
+      "doi": "10.1145/3719207",
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series",
+      "arxiv_id": "2308.08241",
+      "doi": "10.48550/arXiv.2308.08241",
+      "publicationDate": "2023-08-16",
+      "year": 2023
+    },
+    {
+      "title": "WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine",
+      "arxiv_id": "2308.05361",
+      "doi": "10.48550/arXiv.2308.05361",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "Towards Generalist Foundation Model for Radiology",
+      "arxiv_id": "2308.02463",
+      "doi": "10.48550/arXiv.2308.02463",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Multiple stakeholders drive diverse interpretability requirements for machine learning in healthcare",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-023-00698-2",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding",
+      "arxiv_id": "2307.16449",
+      "doi": "10.1109/CVPR52733.2024.01725",
+      "publicationDate": "2023-07-31",
+      "year": 2023
+    },
+    {
+      "title": "Foundational Models Defining a New Era in Vision: A Survey and Outlook",
+      "arxiv_id": "2307.13721",
+      "doi": "10.48550/arXiv.2307.13721",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "FinGPT: Democratizing Internet-scale Data for Financial Large Language Models",
+      "arxiv_id": "2307.10485",
+      "doi": "10.48550/arXiv.2307.10485",
+      "publicationDate": "2023-07-19",
+      "year": 2023
+    },
+    {
+      "title": "Traffic-Domain Video Question Answering with Automatic Captioning",
+      "arxiv_id": "2307.09636",
+      "doi": "10.48550/arXiv.2307.09636",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "arxiv_id": "2307.09288",
+      "doi": null,
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Large language models in medicine",
+      "arxiv_id": null,
+      "doi": "10.1038/s41591-023-02448-8",
+      "publicationDate": "2023-07-17",
+      "year": 2023
+    },
+    {
+      "title": "EasyTPP: Towards Open Benchmarking Temporal Point Processes",
+      "arxiv_id": "2307.08097",
+      "doi": null,
+      "publicationDate": "2023-07-16",
+      "year": 2023
+    },
+    {
+      "title": "InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation",
+      "arxiv_id": "2307.06942",
+      "doi": "10.48550/arXiv.2307.06942",
+      "publicationDate": "2023-07-13",
+      "year": 2023
+    },
+    {
+      "title": "MemBridge: Video-Language Pre-Training With Memory-Augmented Inter-Modality Bridge",
+      "arxiv_id": null,
+      "doi": "10.1109/TIP.2023.3283916",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as General Pattern Machines",
+      "arxiv_id": "2307.04721",
+      "doi": "10.48550/arXiv.2307.04721",
+      "publicationDate": "2023-07-10",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection",
+      "arxiv_id": "2307.03759",
+      "doi": "10.1109/TPAMI.2024.3443141",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs",
+      "arxiv_id": "2307.03393",
+      "doi": "10.1145/3655103.3655110",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Accurate medium-range global weather forecasting with 3D neural networks",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-023-06185-3",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "Embodied Task Planning with Large Language Models",
+      "arxiv_id": "2307.01848",
+      "doi": "10.48550/arXiv.2307.01848",
+      "publicationDate": "2023-07-04",
+      "year": 2023
+    },
+    {
+      "title": "DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins",
+      "arxiv_id": null,
+      "doi": "10.1101/2023.06.29.543848",
+      "publicationDate": "2023-06-30",
+      "year": 2023
+    },
+    {
+      "title": "eForecaster: Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i13.26853",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "A survey on multimodal large language models",
+      "arxiv_id": "2306.13549",
+      "doi": "10.1093/nsr/nwae403",
+      "publicationDate": "2023-06-23",
+      "year": 2023
+    },
+    {
+      "title": "Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models",
+      "arxiv_id": "2306.12659",
+      "doi": "10.48550/arXiv.2306.12659",
+      "publicationDate": "2023-06-22",
+      "year": 2023
+    },
+    {
+      "title": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
+      "arxiv_id": "2306.11249",
+      "doi": "10.48550/arXiv.2306.11249",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "Temporal Data Meets LLM - Explainable Financial Time Series Forecasting",
+      "arxiv_id": "2306.11025",
+      "doi": "10.48550/arXiv.2306.11025",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects",
+      "arxiv_id": "2306.10125",
+      "doi": "10.1109/TPAMI.2024.3387317",
+      "publicationDate": "2023-06-16",
+      "year": 2023
+    },
+    {
+      "title": "Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models",
+      "arxiv_id": "2306.11732",
+      "doi": "10.1109/ICCVW60793.2023.00035",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting",
+      "arxiv_id": "2306.09364",
+      "doi": "10.1145/3580305.3599533",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting",
+      "arxiv_id": "2306.08259",
+      "doi": "10.48550/arXiv.2306.08259",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "Valley: Video Assistant with Large Language Model Enhanced Ability",
+      "arxiv_id": "2306.07207",
+      "doi": "10.1145/3796716",
+      "publicationDate": "2023-06-12",
+      "year": 2023
+    },
+    {
+      "title": "FinGPT: Open-Source Financial Large Language Models",
+      "arxiv_id": "2306.06031",
+      "doi": "10.48550/arXiv.2306.06031",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "Feature Programming for Multivariate Time Series Prediction",
+      "arxiv_id": "2306.06252",
+      "doi": "10.48550/arXiv.2306.06252",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+      "arxiv_id": "2306.05424",
+      "doi": "10.48550/arXiv.2306.05424",
+      "publicationDate": "2023-06-08",
+      "year": 2023
+    },
+    {
+      "title": "PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance",
+      "arxiv_id": "2306.05443",
+      "doi": "10.48550/arXiv.2306.05443",
+      "publicationDate": "2023-06-08",
+      "year": 2023
+    },
+    {
+      "title": "Health system-scale language models are all-purpose prediction engines",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-023-06160-y",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks",
+      "arxiv_id": "2306.04362",
+      "doi": "10.48550/arXiv.2306.04362",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+      "arxiv_id": "2306.02858",
+      "doi": "10.48550/arXiv.2306.02858",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "SADI: A Self-Adaptive Decomposed Interpretable Framework for Electric Load Forecasting Under Extreme Events",
+      "arxiv_id": "2306.08299",
+      "doi": "10.1109/ICASSP49357.2023.10096002",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset",
+      "arxiv_id": "2305.18500",
+      "doi": "10.48550/arXiv.2305.18500",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "ChatGPT Informed Graph Neural Network for Stock Movement Prediction",
+      "arxiv_id": "2306.03763",
+      "doi": "10.2139/ssrn.4464002",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning",
+      "arxiv_id": "2305.16646",
+      "doi": "10.48550/arXiv.2305.16646",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "TransWorldNG: Traffic Simulation via Foundation Model",
+      "arxiv_id": "2305.15743",
+      "doi": "10.1109/ITSC57777.2023.10422587",
+      "publicationDate": "2023-05-25",
+      "year": 2023
+    },
+    {
+      "title": "Building Transportation Foundation Model via Generative Graph Transformer",
+      "arxiv_id": "2305.14826",
+      "doi": "10.1109/ITSC57777.2023.10422572",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Drafting Event Schemas using Language Models",
+      "arxiv_id": "2305.14847",
+      "doi": "10.48550/arXiv.2305.14847",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models are Few-Shot Health Learners",
+      "arxiv_id": "2305.15525",
+      "doi": "10.48550/arXiv.2305.15525",
+      "publicationDate": "2023-05-24",
+      "year": 2023
+    },
+    {
+      "title": "VLAB: Enhancing Video Language Pretraining by Feature Adapting and Blending",
+      "arxiv_id": "2305.13167",
+      "doi": "10.1109/TMM.2024.3521729",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "VideoLLM: Modeling Video Sequence with Large Language Models",
+      "arxiv_id": "2305.13292",
+      "doi": "10.48550/arXiv.2305.13292",
+      "publicationDate": "2023-05-22",
+      "year": 2023
+    },
+    {
+      "title": "Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition",
+      "arxiv_id": "2305.12398",
+      "doi": "10.1109/TMM.2025.3543034",
+      "publicationDate": "2023-05-21",
+      "year": 2023
+    },
+    {
+      "title": "Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation",
+      "arxiv_id": "2305.10874",
+      "doi": "10.1007/s11263-025-02349-y",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Time-Series Pre-Trained Models",
+      "arxiv_id": "2305.10716",
+      "doi": "10.1109/TKDE.2024.3475809",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Paxion: Patching Action Knowledge in Video-Language Foundation Models",
+      "arxiv_id": "2305.10683",
+      "doi": "10.48550/arXiv.2305.10683",
+      "publicationDate": "2023-05-18",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs",
+      "arxiv_id": "2305.09858",
+      "doi": "10.48550/arXiv.2305.09858",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "PaLM 2 Technical Report",
+      "arxiv_id": "2305.10403",
+      "doi": null,
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+      "arxiv_id": "2305.10601",
+      "doi": "10.48550/arXiv.2305.10601",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning",
+      "arxiv_id": "2305.10613",
+      "doi": "10.48550/arXiv.2305.10613",
+      "publicationDate": "2023-05-17",
+      "year": 2023
+    },
+    {
+      "title": "Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion",
+      "arxiv_id": "2305.07912",
+      "doi": "10.48550/arXiv.2305.07912",
+      "publicationDate": "2023-05-13",
+      "year": 2023
+    },
+    {
+      "title": "VideoChat: chat-centric video understanding",
+      "arxiv_id": "2305.06355",
+      "doi": "10.1007/s11432-024-4321-9",
+      "publicationDate": "2023-05-10",
+      "year": 2023
+    },
+    {
+      "title": "MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition",
+      "arxiv_id": "2304.14857",
+      "doi": "10.1016/j.knosys.2023.110881",
+      "publicationDate": "2023-04-28",
+      "year": 2023
+    },
+    {
+      "title": "W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting",
+      "arxiv_id": "2304.08754",
+      "doi": "10.48550/arXiv.2304.08754",
+      "publicationDate": "2023-04-18",
+      "year": 2023
+    },
+    {
+      "title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
+      "arxiv_id": "2304.07619",
+      "doi": "10.2139/ssrn.4412788",
+      "publicationDate": "2023-04-15",
+      "year": 2023
+    },
+    {
+      "title": "On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence",
+      "arxiv_id": "2304.06798",
+      "doi": "10.48550/arXiv.2304.06798",
+      "publicationDate": "2023-04-13",
+      "year": 2023
+    },
+    {
+      "title": "The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
+      "arxiv_id": "2304.05351",
+      "doi": "10.48550/arXiv.2304.05351",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering",
+      "arxiv_id": "2304.03754",
+      "doi": "10.1109/CVPRW59228.2023.00523",
+      "publicationDate": "2023-04-07",
+      "year": 2023
+    },
+    {
+      "title": "Segment Anything",
+      "arxiv_id": "2304.02643",
+      "doi": "10.1109/ICCV51070.2023.00371",
+      "publicationDate": "2023-04-05",
+      "year": 2023
+    },
+    {
+      "title": "Foundation models for generalist medical artificial intelligence",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-023-05881-4",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "arxiv_id": "2303.18223",
+      "doi": "10.1007/s11704-026-60308-3",
+      "publicationDate": "2023-03-31",
+      "year": 2023
+    },
+    {
+      "title": "BloombergGPT: A Large Language Model for Finance",
+      "arxiv_id": "2303.17564",
+      "doi": null,
+      "publicationDate": "2023-03-30",
+      "year": 2023
+    },
+    {
+      "title": "MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks",
+      "arxiv_id": "2303.16839",
+      "doi": "10.48550/arXiv.2303.16839",
+      "publicationDate": "2023-03-29",
+      "year": 2023
+    },
+    {
+      "title": "Unmasked Teacher: Towards Training-Efficient Video Foundation Models",
+      "arxiv_id": "2303.16058",
+      "doi": "10.1109/ICCV51070.2023.01826",
+      "publicationDate": "2023-03-28",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey",
+      "arxiv_id": "2303.14483",
+      "doi": "10.1109/TKDE.2023.3333824",
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "Frozen Language Model Helps ECG Zero-Shot Learning",
+      "arxiv_id": "2303.12311",
+      "doi": "10.48550/arXiv.2303.12311",
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "Large AI Models in Health Informatics: Applications, Challenges, and the Future",
+      "arxiv_id": "2303.11568",
+      "doi": "10.1109/JBHI.2023.3316750",
+      "publicationDate": "2023-03-21",
+      "year": 2023
+    },
+    {
+      "title": "GPT-4 Technical Report",
+      "arxiv_id": "2303.08774",
+      "doi": null,
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation",
+      "arxiv_id": "2303.08320",
+      "doi": "10.1109/CVPR52729.2023.00984",
+      "publicationDate": "2023-03-15",
+      "year": 2023
+    },
+    {
+      "title": "Implicit Stacked Autoregressive Model for Video Prediction",
+      "arxiv_id": "2303.07849",
+      "doi": "10.48550/arXiv.2303.07849",
+      "publicationDate": "2023-03-14",
+      "year": 2023
+    },
+    {
+      "title": "AHPA: Adaptive Horizontal Pod Autoscaling Systems on Alibaba Cloud Container Service for Kubernetes",
+      "arxiv_id": "2303.03640",
+      "doi": "10.48550/arXiv.2303.03640",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning",
+      "arxiv_id": "2302.14115",
+      "doi": "10.1109/CVPR52729.2023.01032",
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "LLaMA: Open and Efficient Foundation Language Models",
+      "arxiv_id": "2302.13971",
+      "doi": null,
+      "publicationDate": "2023-02-27",
+      "year": 2023
+    },
+    {
+      "title": "One Fits All: Power General Time Series Analysis by Pretrained LM",
+      "arxiv_id": "2302.11939",
+      "doi": "10.52202/075280-1877",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "LightCTS: A Lightweight Framework for Correlated Time Series Forecasting",
+      "arxiv_id": "2302.11974",
+      "doi": "10.1145/3589270",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training",
+      "arxiv_id": "2302.09736",
+      "doi": "10.48550/arXiv.2302.09736",
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+      "arxiv_id": "2302.09419",
+      "doi": "10.48550/arXiv.2302.09419",
+      "publicationDate": "2023-02-18",
+      "year": 2023
+    },
+    {
+      "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+      "arxiv_id": "2302.01560",
+      "doi": "10.48550/arXiv.2302.01560",
+      "publicationDate": "2023-02-03",
+      "year": 2023
+    },
+    {
+      "title": "SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling",
+      "arxiv_id": "2302.00861",
+      "doi": "10.48550/arXiv.2302.00861",
+      "publicationDate": "2023-02-02",
+      "year": 2023
+    },
+    {
+      "title": "mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video",
+      "arxiv_id": "2302.00402",
+      "doi": "10.48550/arXiv.2302.00402",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models",
+      "arxiv_id": "2301.13629",
+      "doi": "10.1145/3589132.3625614",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+      "arxiv_id": "2301.12597",
+      "doi": "10.48550/arXiv.2301.12597",
+      "publicationDate": "2023-01-30",
+      "year": 2023
+    },
+    {
+      "title": "Large language models generate functional protein sequences across diverse families",
+      "arxiv_id": null,
+      "doi": "10.1038/s41587-022-01618-2",
+      "publicationDate": "2023-01-26",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-Temporal Graph Neural Networks: A Survey",
+      "arxiv_id": "2301.10569",
+      "doi": "10.48550/arXiv.2301.10569",
+      "publicationDate": "2023-01-25",
+      "year": 2023
+    },
+    {
+      "title": "ClimaX: A foundation model for weather and climate",
+      "arxiv_id": "2301.10343",
+      "doi": "10.48550/arXiv.2301.10343",
+      "publicationDate": "2023-01-24",
+      "year": 2023
+    },
+    {
+      "title": "WEASEL 2.0 - A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification",
+      "arxiv_id": "2301.10194",
+      "doi": "10.48550/arXiv.2301.10194",
+      "publicationDate": "2023-01-24",
+      "year": 2023
+    },
+    {
+      "title": "Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data",
+      "arxiv_id": "2301.09152",
+      "doi": "10.48550/arXiv.2301.09152",
+      "publicationDate": "2023-01-22",
+      "year": 2023
+    },
+    {
+      "title": "Temporal Perceiving Video-Language Pre-training",
+      "arxiv_id": "2301.07463",
+      "doi": "10.48550/arXiv.2301.07463",
+      "publicationDate": "2023-01-18",
+      "year": 2023
+    },
+    {
+      "title": "Prompting Large Language Model for Machine Translation: A Case Study",
+      "arxiv_id": "2301.07069",
+      "doi": "10.48550/arXiv.2301.07069",
+      "publicationDate": "2023-01-17",
+      "year": 2023
+    },
+    {
+      "title": "Test of Time: Instilling Video-Language Models with a Sense of Time",
+      "arxiv_id": "2301.02074",
+      "doi": "10.1109/CVPR52729.2023.00247",
+      "publicationDate": "2023-01-05",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on In-context Learning",
+      "arxiv_id": "2301.00234",
+      "doi": "10.18653/v1/2024.emnlp-main.64",
+      "publicationDate": "2022-12-31",
+      "year": 2022
+    },
+    {
+      "title": "HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training",
+      "arxiv_id": "2212.14546",
+      "doi": "10.1109/ICCV51070.2023.01413",
+      "publicationDate": "2022-12-30",
+      "year": 2022
+    },
+    {
+      "title": "An Optimal Approach for Heart Sound Classification Using Grid Search in Hyperparameter Optimization of Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.3390/bioengineering10010045",
+      "publicationDate": "2022-12-29",
+      "year": 2022
+    },
+    {
+      "title": "Large language models encode clinical knowledge",
+      "arxiv_id": "2212.13138",
+      "doi": "10.1038/s41586-023-06291-2",
+      "publicationDate": "2022-12-26",
+      "year": 2022
+    },
+    {
+      "title": "GraphCast: Learning skillful medium-range global weather forecasting",
+      "arxiv_id": "2212.12794",
+      "doi": "10.48550/arXiv.2212.12794",
+      "publicationDate": "2022-12-24",
+      "year": 2022
+    },
+    {
+      "title": "VindLU: A Recipe for Effective Video-and-Language Pretraining",
+      "arxiv_id": "2212.05051",
+      "doi": "10.1109/CVPR52729.2023.01034",
+      "publicationDate": "2022-12-09",
+      "year": 2022
+    },
+    {
+      "title": "Learning Video Representations from Large Language Models",
+      "arxiv_id": "2212.04501",
+      "doi": "10.1109/CVPR52729.2023.00637",
+      "publicationDate": "2022-12-08",
+      "year": 2022
+    },
+    {
+      "title": "InternVideo: General Video Foundation Models via Generative and Discriminative Learning",
+      "arxiv_id": "2212.03191",
+      "doi": "10.48550/arXiv.2212.03191",
+      "publicationDate": "2022-12-06",
+      "year": 2022
+    },
+    {
+      "title": "Symphony in the Latent Space: Provably Integrating High-dimensional Techniques with Non-linear Machine Learning Models",
+      "arxiv_id": "2212.00852",
+      "doi": "10.48550/arXiv.2212.00852",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Traffic Prediction using Artificial Intelligence: Review of Recent Advances and Emerging Opportunities",
+      "arxiv_id": "2305.19591",
+      "doi": "10.1016/j.trc.2022.103921",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "AirFormer: Predicting Nationwide Air Quality in China with Transformers",
+      "arxiv_id": "2211.15979",
+      "doi": "10.48550/arXiv.2211.15979",
+      "publicationDate": "2022-11-29",
+      "year": 2022
+    },
+    {
+      "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+      "arxiv_id": "2211.14730",
+      "doi": "10.48550/arXiv.2211.14730",
+      "publicationDate": "2022-11-27",
+      "year": 2022
+    },
+    {
+      "title": "DETRs with Collaborative Hybrid Assignments Training",
+      "arxiv_id": "2211.12860",
+      "doi": "10.1109/ICCV51070.2023.00621",
+      "publicationDate": "2022-11-22",
+      "year": 2022
+    },
+    {
+      "title": "SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training",
+      "arxiv_id": "2211.11446",
+      "doi": "10.1109/ICCV51070.2023.00233",
+      "publicationDate": "2022-11-21",
+      "year": 2022
+    },
+    {
+      "title": "AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders",
+      "arxiv_id": "2211.09120",
+      "doi": "10.1109/CVPR52729.2023.01394",
+      "publicationDate": "2022-11-16",
+      "year": 2022
+    },
+    {
+      "title": "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions",
+      "arxiv_id": "2211.05778",
+      "doi": "10.1109/CVPR52729.2023.01385",
+      "publicationDate": "2022-11-10",
+      "year": 2022
+    },
+    {
+      "title": "TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis",
+      "arxiv_id": "2210.09693",
+      "doi": "10.1145/3511808.3557470",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "Visual Classification via Description from Large Language Models",
+      "arxiv_id": "2210.07183",
+      "doi": "10.48550/arXiv.2210.07183",
+      "publicationDate": "2022-10-13",
+      "year": 2022
+    },
+    {
+      "title": "HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences",
+      "arxiv_id": "2210.01753",
+      "doi": "10.48550/arXiv.2210.01753",
+      "publicationDate": "2022-10-04",
+      "year": 2022
+    },
+    {
+      "title": "MTSMAE: Masked Autoencoders for Multivariate Time-Series Forecasting",
+      "arxiv_id": "2210.02199",
+      "doi": "10.1109/ICTAI56018.2022.00150",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "Make-A-Video: Text-to-Video Generation without Text-Video Data",
+      "arxiv_id": "2209.14792",
+      "doi": null,
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting",
+      "arxiv_id": "2210.08964",
+      "doi": "10.1109/TKDE.2023.3342137",
+      "publicationDate": "2022-09-20",
+      "year": 2022
+    },
+    {
+      "title": "LAVIS: A Library for Language-Vision Intelligence",
+      "arxiv_id": "2209.09019",
+      "doi": "10.48550/arXiv.2209.09019",
+      "publicationDate": "2022-09-15",
+      "year": 2022
+    },
+    {
+      "title": "OmniVL: One Foundation Model for Image-Language and Video-Language Tasks",
+      "arxiv_id": "2209.07526",
+      "doi": "10.48550/arXiv.2209.07526",
+      "publicationDate": "2022-09-15",
+      "year": 2022
+    },
+    {
+      "title": "Leveraging language foundation models for human mobility forecasting",
+      "arxiv_id": "2209.05479",
+      "doi": "10.1145/3557915.3561026",
+      "publicationDate": "2022-09-11",
+      "year": 2022
+    },
+    {
+      "title": "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling",
+      "arxiv_id": "2209.01540",
+      "doi": "10.1109/CVPR52729.2023.02193",
+      "publicationDate": "2022-09-04",
+      "year": 2022
+    },
+    {
+      "title": "Modelling the dynamic relationship between spread of infection and observed crowd movement patterns at large scale events",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-022-19081-z",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Listen2YourHeart: A Self-Supervised Approach for Detecting Murmur in Heart-Beat Sounds",
+      "arxiv_id": "2208.14845",
+      "doi": "10.22489/CinC.2022.298",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "Reducing Certified Regression to Certified Classification for General Poisoning Attacks",
+      "arxiv_id": "2208.13904",
+      "doi": "10.1109/SaTML54575.2023.00040",
+      "publicationDate": "2022-08-29",
+      "year": 2022
+    },
+    {
+      "title": "Affinity-Aware Resource Provisioning for Long-Running Applications in Shared Clusters",
+      "arxiv_id": "2208.12738",
+      "doi": "10.48550/arXiv.2208.12738",
+      "publicationDate": "2022-08-26",
+      "year": 2022
+    },
+    {
+      "title": "AA-forecast: anomaly-aware forecast for extreme events",
+      "arxiv_id": "2208.09933",
+      "doi": "10.1007/s10618-023-00919-7",
+      "publicationDate": "2022-08-21",
+      "year": 2022
+    },
+    {
+      "title": "Heart murmur detection from phonocardiogram recordings: The George B. Moody PhysioNet Challenge 2022",
+      "arxiv_id": null,
+      "doi": "10.1101/2022.08.11.22278688",
+      "publicationDate": "2022-08-16",
+      "year": 2022
+    },
+    {
+      "title": "Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539422",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Robust Time Series Analysis and Applications: An Industrial Perspective",
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3542612",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Predicting long-term stock movements with fused textual features of Chinese research reports",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2022.118312",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Clover: Towards A Unified Video-Language Alignment and Fusion Model",
+      "arxiv_id": "2207.07885",
+      "doi": "10.1109/CVPR52729.2023.01427",
+      "publicationDate": "2022-07-16",
+      "year": 2022
+    },
+    {
+      "title": "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting",
+      "arxiv_id": "2207.05833",
+      "doi": "10.48550/arXiv.2207.05833",
+      "publicationDate": "2022-07-12",
+      "year": 2022
+    },
+    {
+      "title": "Shifting machine learning for healthcare from development to deployment and from models to data",
+      "arxiv_id": null,
+      "doi": "10.1038/s41551-022-00898-y",
+      "publicationDate": "2022-07-04",
+      "year": 2022
+    },
+    {
+      "title": "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation",
+      "arxiv_id": "2206.10789",
+      "doi": "10.48550/arXiv.2206.10789",
+      "publicationDate": "2022-06-22",
+      "year": 2022
+    },
+    {
+      "title": "Self-Supervised Learning for Videos: A Survey",
+      "arxiv_id": "2207.00419",
+      "doi": "10.1145/3577925",
+      "publicationDate": "2022-06-18",
+      "year": 2022
+    },
+    {
+      "title": "Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting",
+      "arxiv_id": "2206.09113",
+      "doi": "10.1145/3534678.3539396",
+      "publicationDate": "2022-06-18",
+      "year": 2022
+    },
+    {
+      "title": "Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency",
+      "arxiv_id": "2206.08496",
+      "doi": "10.48550/arXiv.2206.08496",
+      "publicationDate": "2022-06-17",
+      "year": 2022
+    },
+    {
+      "title": "Zero-Shot Video Question Answering via Frozen Bidirectional Language Models",
+      "arxiv_id": "2206.08155",
+      "doi": "10.48550/arXiv.2206.08155",
+      "publicationDate": "2022-06-16",
+      "year": 2022
+    },
+    {
+      "title": "Emergent Abilities of Large Language Models",
+      "arxiv_id": "2206.07682",
+      "doi": "10.48550/arXiv.2206.07682",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling",
+      "arxiv_id": "2206.07160",
+      "doi": "10.1109/CVPR52729.2023.02214",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model",
+      "arxiv_id": "2206.06606",
+      "doi": "10.48550/arXiv.2206.06606",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Learning for Unsupervised Domain Adaptation of Time Series",
+      "arxiv_id": "2206.06243",
+      "doi": "10.48550/arXiv.2206.06243",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "Multimodal Learning With Transformers: A Survey",
+      "arxiv_id": "2206.06488",
+      "doi": "10.1109/TPAMI.2023.3275156",
+      "publicationDate": "2022-06-13",
+      "year": 2022
+    },
+    {
+      "title": "Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data",
+      "arxiv_id": "2206.02353",
+      "doi": "10.48550/arXiv.2206.02353",
+      "publicationDate": "2022-06-06",
+      "year": 2022
+    },
+    {
+      "title": "Are Transformers Effective for Time Series Forecasting?",
+      "arxiv_id": "2205.13504",
+      "doi": "10.48550/arXiv.2205.13504",
+      "publicationDate": "2022-05-26",
+      "year": 2022
+    },
+    {
+      "title": "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners",
+      "arxiv_id": "2205.10747",
+      "doi": "10.48550/arXiv.2205.10747",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "Understanding travel behavior adjustment under COVID-19",
+      "arxiv_id": null,
+      "doi": "10.1016/j.commtr.2022.100068",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction",
+      "arxiv_id": "2205.01094",
+      "doi": "10.48550/arXiv.2205.01094",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+      "arxiv_id": "2204.06125",
+      "doi": "10.48550/arXiv.2204.06125",
+      "publicationDate": "2022-04-13",
+      "year": 2022
+    },
+    {
+      "title": "Global and Regional Trends and Drivers of Fire Under Climate Change",
+      "arxiv_id": null,
+      "doi": "10.1029/2020rg000726",
+      "publicationDate": "2022-04-11",
+      "year": 2022
+    },
+    {
+      "title": "Tencent Text-Video Retrieval: Hierarchical Cross-Modal Interactions With Multi-Level Representations",
+      "arxiv_id": "2204.03382",
+      "doi": "10.1109/ACCESS.2022.3227973",
+      "publicationDate": "2022-04-07",
+      "year": 2022
+    },
+    {
+      "title": "PaLM: Scaling Language Modeling with Pathways",
+      "arxiv_id": "2204.02311",
+      "doi": null,
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language",
+      "arxiv_id": "2204.00598",
+      "doi": null,
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "All in One: Exploring Unified Video-Language Pre-Training",
+      "arxiv_id": "2203.07303",
+      "doi": "10.1109/CVPR52729.2023.00638",
+      "publicationDate": "2022-03-14",
+      "year": 2022
+    },
+    {
+      "title": "A transformer-based deep neural network for arrhythmia detection using continuous ECG signals",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compbiomed.2022.105325",
+      "publicationDate": "2022-02-24",
+      "year": 2022
+    },
+    {
+      "title": "Model Reprogramming: Resource-Efficient Cross-Domain Machine Learning",
+      "arxiv_id": "2202.10629",
+      "doi": "10.1609/aaai.v38i20.30267",
+      "publicationDate": "2022-02-22",
+      "year": 2022
+    },
+    {
+      "title": "FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators",
+      "arxiv_id": "2202.11214",
+      "doi": null,
+      "publicationDate": "2022-02-22",
+      "year": 2022
+    },
+    {
+      "title": "SAITS: Self-Attention-based Imputation for Time Series",
+      "arxiv_id": "2202.08516",
+      "doi": "10.1016/j.eswa.2023.119619",
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "Multivariate Time Series Forecasting With Dynamic Graph Neural ODEs",
+      "arxiv_id": "2202.08408",
+      "doi": "10.1109/TKDE.2022.3221989",
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "Transformers in Time Series: A Survey",
+      "arxiv_id": "2202.07125",
+      "doi": "10.24963/ijcai.2023/759",
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Image-Text Embedding Learning via Visual and Textual Semantic Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2022.3148470",
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "A large language model for electronic health records",
+      "arxiv_id": "2203.03540",
+      "doi": "10.1038/s41746-022-00742-2",
+      "publicationDate": "2022-02-02",
+      "year": 2022
+    },
+    {
+      "title": "Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes",
+      "arxiv_id": "2201.12569",
+      "doi": "10.1609/aaai.v37i8.26142",
+      "publicationDate": "2022-01-29",
+      "year": 2022
+    },
+    {
+      "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+      "arxiv_id": "2201.11903",
+      "doi": "10.52202/068431-1800",
+      "publicationDate": "2022-01-28",
+      "year": 2022
+    },
+    {
+      "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+      "arxiv_id": "2201.12086",
+      "doi": null,
+      "publicationDate": "2022-01-28",
+      "year": 2022
+    },
+    {
+      "title": "Video Transformers: A Survey",
+      "arxiv_id": "2201.05991",
+      "doi": "10.1109/TPAMI.2023.3243465",
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "Temporal Knowledge Graph Completion: A Survey",
+      "arxiv_id": "2201.08236",
+      "doi": "10.24963/ijcai.2023/734",
+      "publicationDate": "2022-01-16",
+      "year": 2022
+    },
+    {
+      "title": "Black-Box Tuning for Language-Model-as-a-Service",
+      "arxiv_id": "2201.03514",
+      "doi": null,
+      "publicationDate": "2022-01-10",
+      "year": 2022
+    },
+    {
+      "title": "Classification of Long Sequential Data using Circular Dilated Convolutional Neural Networks",
+      "arxiv_id": "2201.02143",
+      "doi": "10.1016/j.neucom.2022.10.054",
+      "publicationDate": "2022-01-06",
+      "year": 2022
+    },
+    {
+      "title": "Transformer Embeddings of Irregularly Spaced Events and Their Participants",
+      "arxiv_id": "2201.00044",
+      "doi": null,
+      "publicationDate": "2021-12-31",
+      "year": 2021
+    },
+    {
+      "title": "More layers! End-to-end regression and uncertainty on tabular data with deep learning",
+      "arxiv_id": "2112.03566",
+      "doi": null,
+      "publicationDate": "2021-12-07",
+      "year": 2021
+    },
+    {
+      "title": "Global predictions of primary soil salinization under changing climate in the 21st century",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-021-26907-3",
+      "publicationDate": "2021-11-18",
+      "year": 2021
+    },
+    {
+      "title": "Masked Autoencoders Are Scalable Vision Learners",
+      "arxiv_id": "2111.06377",
+      "doi": "10.1109/CVPR52688.2022.01553",
+      "publicationDate": "2021-11-11",
+      "year": 2021
+    },
+    {
+      "title": "ClaSP - Time Series Segmentation",
+      "arxiv_id": null,
+      "doi": "10.1145/3459637.3482240",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+      "arxiv_id": "2110.05208",
+      "doi": null,
+      "publicationDate": "2021-10-11",
+      "year": 2021
+    },
+    {
+      "title": "Darts: User-Friendly Modern Machine Learning for Time Series",
+      "arxiv_id": "2110.03224",
+      "doi": null,
+      "publicationDate": "2021-10-07",
+      "year": 2021
+    },
+    {
+      "title": "Exploiting dynamic spatio-temporal graph convolutional neural networks for citywide traffic flows prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neunet.2021.10.021",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "Random Dilated Shapelet Transform: A New Approach for Time Series Shapelets",
+      "arxiv_id": "2109.13514",
+      "doi": "10.1007/978-3-031-09037-0_53",
+      "publicationDate": "2021-09-28",
+      "year": 2021
+    },
+    {
+      "title": "VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding",
+      "arxiv_id": "2109.14084",
+      "doi": "10.18653/v1/2021.emnlp-main.544",
+      "publicationDate": "2021-09-28",
+      "year": 2021
+    },
+    {
+      "title": "Merlion: A Machine Learning Library for Time Series",
+      "arxiv_id": "2109.09265",
+      "doi": null,
+      "publicationDate": "2021-09-20",
+      "year": 2021
+    },
+    {
+      "title": "When do contrastive learning signals help spatio-temporal graph forecasting?",
+      "arxiv_id": "2108.11873",
+      "doi": "10.1145/3557915.3560939",
+      "publicationDate": "2021-08-26",
+      "year": 2021
+    },
+    {
+      "title": "TrafficBERT: Pre-trained model with large-scale data for long-range traffic flow forecasting",
+      "arxiv_id": null,
+      "doi": "10.1016/J.ESWA.2021.115738",
+      "publicationDate": "2021-08-22",
+      "year": 2021
+    },
+    {
+      "title": "Implementation of Algorithms for Right-Sizing Data Centers",
+      "arxiv_id": "2108.09489",
+      "doi": null,
+      "publicationDate": "2021-08-21",
+      "year": 2021
+    },
+    {
+      "title": "On the Opportunities and Risks of Foundation Models",
+      "arxiv_id": "2108.07258",
+      "doi": null,
+      "publicationDate": "2021-08-16",
+      "year": 2021
+    },
+    {
+      "title": "The CirCor DigiScope Dataset: From Murmur Detection to Murmur Classification",
+      "arxiv_id": "2108.00813",
+      "doi": "10.1109/JBHI.2021.3137048",
+      "publicationDate": "2021-08-02",
+      "year": 2021
+    },
+    {
+      "title": "A Graph Regularized Point Process Model For Event Propagation Sequence",
+      "arxiv_id": "2211.11758",
+      "doi": "10.1109/IJCNN52387.2021.9533830",
+      "publicationDate": "2021-07-18",
+      "year": 2021
+    },
+    {
+      "title": "Point Cloud Video Streaming: Challenges and Solutions",
+      "arxiv_id": null,
+      "doi": "10.36227/techrxiv.13138940",
+      "publicationDate": "2021-07-16",
+      "year": 2021
+    },
+    {
+      "title": "Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks",
+      "arxiv_id": "2107.07455",
+      "doi": null,
+      "publicationDate": "2021-07-15",
+      "year": 2021
+    },
+    {
+      "title": "Multimodal Few-Shot Learning with Frozen Language Models",
+      "arxiv_id": "2106.13884",
+      "doi": null,
+      "publicationDate": "2021-06-25",
+      "year": 2021
+    },
+    {
+      "title": "Video Swin Transformer",
+      "arxiv_id": "2106.13230",
+      "doi": "10.1109/CVPR52688.2022.00320",
+      "publicationDate": "2021-06-24",
+      "year": 2021
+    },
+    {
+      "title": "TS2Vec: Towards Universal Representation of Time Series",
+      "arxiv_id": "2106.10466",
+      "doi": "10.1609/aaai.v36i8.20881",
+      "publicationDate": "2021-06-19",
+      "year": 2021
+    },
+    {
+      "title": "SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction",
+      "arxiv_id": "2106.09305",
+      "doi": "10.52202/068431-0421",
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "arxiv_id": "2106.09685",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Voice2Series: Reprogramming Acoustic Models for Time Series Classification",
+      "arxiv_id": "2106.09296",
+      "doi": null,
+      "publicationDate": "2021-06-17",
+      "year": 2021
+    },
+    {
+      "title": "Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading",
+      "arxiv_id": "2105.12825",
+      "doi": "10.18653/v1/2021.findings-acl.186",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "Multiscale Vision Transformers",
+      "arxiv_id": "2104.11227",
+      "doi": "10.1109/ICCV48922.2021.00675",
+      "publicationDate": "2021-04-22",
+      "year": 2021
+    },
+    {
+      "title": "AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph✱",
+      "arxiv_id": null,
+      "doi": "10.1145/3442381.3449816",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval",
+      "arxiv_id": "2104.08860",
+      "doi": "10.1016/j.neucom.2022.07.028",
+      "publicationDate": "2021-04-18",
+      "year": 2021
+    },
+    {
+      "title": "Analysis of mobility data to build contact networks for COVID-19",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pone.0249726",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models",
+      "arxiv_id": "2104.07788",
+      "doi": "10.1145/3459637.3482014",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval",
+      "arxiv_id": "2104.00650",
+      "doi": "10.1109/ICCV48922.2021.00175",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events",
+      "arxiv_id": "2103.15538",
+      "doi": "10.1109/CVPR46437.2021.00975",
+      "publicationDate": "2021-03-29",
+      "year": 2021
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "arxiv_id": "2103.15691",
+      "doi": "10.1109/ICCV48922.2021.00676",
+      "publicationDate": "2021-03-29",
+      "year": 2021
+    },
+    {
+      "title": "Self-supervised representation learning from 12-lead ECG data",
+      "arxiv_id": "2103.12676",
+      "doi": "10.1016/j.compbiomed.2021.105114",
+      "publicationDate": "2021-03-23",
+      "year": 2021
+    },
+    {
+      "title": "Automated ECG classification using a non-local convolutional block attention module",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cmpb.2021.106006",
+      "publicationDate": "2021-02-27",
+      "year": 2021
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "arxiv_id": "2103.00020",
+      "doi": null,
+      "publicationDate": "2021-02-26",
+      "year": 2021
+    },
+    {
+      "title": "Video Transformer Network",
+      "arxiv_id": "2102.00719",
+      "doi": "10.1109/ICCVW54120.2021.00355",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs",
+      "arxiv_id": "2101.05151",
+      "doi": "10.18653/v1/2021.emnlp-main.658",
+      "publicationDate": "2021-01-13",
+      "year": 2021
+    },
+    {
+      "title": "Transformers in Vision: A Survey",
+      "arxiv_id": "2101.01169",
+      "doi": "10.1145/3505244",
+      "publicationDate": "2021-01-04",
+      "year": 2021
+    },
+    {
+      "title": "FlowDB a large scale precipitation, river, and flash flood dataset",
+      "arxiv_id": "2012.11154",
+      "doi": null,
+      "publicationDate": "2020-12-21",
+      "year": 2020
+    },
+    {
+      "title": "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting",
+      "arxiv_id": "2012.09641",
+      "doi": "10.1609/aaai.v35i5.16542",
+      "publicationDate": "2020-12-15",
+      "year": 2020
+    },
+    {
+      "title": "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting",
+      "arxiv_id": "2012.07436",
+      "doi": "10.1609/aaai.v35i12.17325",
+      "publicationDate": "2020-12-14",
+      "year": 2020
+    },
+    {
+      "title": "VLG-Net: Video-Language Graph Matching Network for Video Grounding",
+      "arxiv_id": "2011.10132",
+      "doi": "10.1109/ICCVW54120.2021.00361",
+      "publicationDate": "2020-11-19",
+      "year": 2020
+    },
+    {
+      "title": "FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance",
+      "arxiv_id": "2011.09607",
+      "doi": "10.2139/SSRN.3737859",
+      "publicationDate": "2020-11-19",
+      "year": 2020
+    },
+    {
+      "title": "Data‐Driven Medium‐Range Weather Prediction With a Resnet Pretrained on Climate Simulations: A New Model for WeatherBench",
+      "arxiv_id": null,
+      "doi": "10.1029/2020MS002405",
+      "publicationDate": "2020-11-18",
+      "year": 2020
+    },
+    {
+      "title": "Deep Attentive Learning for Stock Movement Prediction from Social Media Text and Company Correlations",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.emnlp-main.676",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.clinicalnlp-1.17",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Machine Learning Based Workload Prediction in Cloud Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCCN49398.2020.9209730",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "ESPRESSO",
+      "arxiv_id": "2008.03230",
+      "doi": "10.1145/3411832",
+      "publicationDate": "2020-07-24",
+      "year": 2020
+    },
+    {
+      "title": "Self-Attentive Hawkes Process",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-07-12",
+      "year": 2020
+    },
+    {
+      "title": "GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/184",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification",
+      "arxiv_id": "2006.16723",
+      "doi": null,
+      "publicationDate": "2020-06-30",
+      "year": 2020
+    },
+    {
+      "title": "Self-Supervised Learning: Generative or Contrastive",
+      "arxiv_id": "2006.08218",
+      "doi": "10.1109/TKDE.2021.3090866",
+      "publicationDate": "2020-06-15",
+      "year": 2020
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "arxiv_id": "2005.14165",
+      "doi": null,
+      "publicationDate": "2020-05-28",
+      "year": 2020
+    },
+    {
+      "title": "PTB-XL, a large publicly available electrocardiography dataset",
+      "arxiv_id": null,
+      "doi": "10.1038/s41597-020-0495-6",
+      "publicationDate": "2020-05-25",
+      "year": 2020
+    },
+    {
+      "title": "Spatio-Temporal Meta Learning for Urban Traffic Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2020.2995855",
+      "publicationDate": "2020-05-19",
+      "year": 2020
+    },
+    {
+      "title": "Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL",
+      "arxiv_id": "2004.13701",
+      "doi": "10.1109/JBHI.2020.3022989",
+      "publicationDate": "2020-04-28",
+      "year": 2020
+    },
+    {
+      "title": "An Analysis of Spatiotemporal Pattern for COIVD-19 in China based on Space-Time Cube.",
+      "arxiv_id": null,
+      "doi": "10.1002/jmv.25834",
+      "publicationDate": "2020-04-06",
+      "year": 2020
+    },
+    {
+      "title": "Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5438",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere",
+      "arxiv_id": "2003.11927",
+      "doi": "10.1029/2020MS002109",
+      "publicationDate": "2020-03-15",
+      "year": 2020
+    },
+    {
+      "title": "Applications of Artificial Intelligence and Machine learning in smart cities",
+      "arxiv_id": null,
+      "doi": "10.1016/j.comcom.2020.02.069",
+      "publicationDate": "2020-03-15",
+      "year": 2020
+    },
+    {
+      "title": "AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data",
+      "arxiv_id": "2003.06505",
+      "doi": null,
+      "publicationDate": "2020-03-13",
+      "year": 2020
+    },
+    {
+      "title": "Applications of deep learning in stock market prediction: recent progress",
+      "arxiv_id": "2003.01859",
+      "doi": "10.1016/j.eswa.2021.115537",
+      "publicationDate": "2020-02-29",
+      "year": 2020
+    },
+    {
+      "title": "Transformer Hawkes Process",
+      "arxiv_id": "2002.09291",
+      "doi": null,
+      "publicationDate": "2020-02-21",
+      "year": 2020
+    },
+    {
+      "title": "PM2.5-GNN: A Domain Knowledge Enhanced Graph Neural Network For PM2.5 Forecasting",
+      "arxiv_id": "2002.12898",
+      "doi": "10.1145/3397536.3422208",
+      "publicationDate": "2020-02-10",
+      "year": 2020
+    },
+    {
+      "title": "A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",
+      "arxiv_id": "2002.00388",
+      "doi": "10.1109/TNNLS.2021.3070843",
+      "publicationDate": "2020-02-02",
+      "year": 2020
+    },
+    {
+      "title": "WeatherBench: A Benchmark Data Set for Data‐Driven Weather Forecasting",
+      "arxiv_id": "2002.00469",
+      "doi": "10.1029/2020MS002203",
+      "publicationDate": "2020-02-02",
+      "year": 2020
+    },
+    {
+      "title": "Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019",
+      "arxiv_id": "1911.13288",
+      "doi": "10.1016/j.asoc.2020.106181",
+      "publicationDate": "2019-11-29",
+      "year": 2019
+    },
+    {
+      "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+      "arxiv_id": "1911.05722",
+      "doi": "10.1109/cvpr42600.2020.00975",
+      "publicationDate": "2019-11-13",
+      "year": 2019
+    },
+    {
+      "title": "Federated Learning for Healthcare Informatics",
+      "arxiv_id": null,
+      "doi": "10.1007/s41666-020-00082-4",
+      "publicationDate": "2019-11-13",
+      "year": 2019
+    },
+    {
+      "title": "Federated Learning for Healthcare Informatics",
+      "arxiv_id": "1911.06270",
+      "doi": null,
+      "publicationDate": "2019-11-13",
+      "year": 2019
+    },
+    {
+      "title": "GMAN: A Graph Multi-Attention Network for Traffic Prediction",
+      "arxiv_id": "1911.08415",
+      "doi": "10.1609/AAAI.V34I01.5477",
+      "publicationDate": "2019-11-11",
+      "year": 2019
+    },
+    {
+      "title": "Generalizing Question Answering System with Pre-trained Language Model Fine-tuning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/D19-5827",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+      "arxiv_id": "1910.13461",
+      "doi": "10.18653/v1/2020.acl-main.703",
+      "publicationDate": "2019-10-29",
+      "year": 2019
+    },
+    {
+      "title": "Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis",
+      "arxiv_id": "1909.10660",
+      "doi": null,
+      "publicationDate": "2019-09-24",
+      "year": 2019
+    },
+    {
+      "title": "Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions",
+      "arxiv_id": "1909.00590",
+      "doi": "10.1016/J.IJFORECAST.2020.06.008",
+      "publicationDate": "2019-09-02",
+      "year": 2019
+    },
+    {
+      "title": "Temporal Link Prediction: A Survey",
+      "arxiv_id": null,
+      "doi": "10.1007/s00354-019-00065-z",
+      "publicationDate": "2019-08-13",
+      "year": 2019
+    },
+    {
+      "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language",
+      "arxiv_id": "1908.03557",
+      "doi": null,
+      "publicationDate": "2019-08-09",
+      "year": 2019
+    },
+    {
+      "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+      "arxiv_id": "1908.02265",
+      "doi": null,
+      "publicationDate": "2019-08-06",
+      "year": 2019
+    },
+    {
+      "title": "Decoding the sentiment dynamics of online retailing customers: Time series analysis of social media",
+      "arxiv_id": null,
+      "doi": "10.1016/J.CHB.2019.02.004",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Video Question Answering with Spatio-Temporal Reasoning",
+      "arxiv_id": null,
+      "doi": "10.1007/s11263-019-01189-x",
+      "publicationDate": "2019-06-18",
+      "year": 2019
+    },
+    {
+      "title": "Scheduling Beyond CPUs for HPC",
+      "arxiv_id": "2012.05439",
+      "doi": "10.1145/3307681.3325401",
+      "publicationDate": "2019-06-17",
+      "year": 2019
+    },
+    {
+      "title": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets",
+      "arxiv_id": "1906.05474",
+      "doi": "10.18653/v1/W19-5006",
+      "publicationDate": "2019-06-13",
+      "year": 2019
+    },
+    {
+      "title": "Deep Learning for Spatio-Temporal Data Mining: A Survey",
+      "arxiv_id": "1906.04928",
+      "doi": "10.1109/tkde.2020.3025580",
+      "publicationDate": "2019-06-11",
+      "year": 2019
+    },
+    {
+      "title": "Skeleton-Based Action Recognition With Directed Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2019.00810",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting",
+      "arxiv_id": "1905.10437",
+      "doi": null,
+      "publicationDate": "2019-05-24",
+      "year": 2019
+    },
+    {
+      "title": "DyRep: Learning Representations over Dynamic Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission",
+      "arxiv_id": "1904.05342",
+      "doi": null,
+      "publicationDate": "2019-04-10",
+      "year": 2019
+    },
+    {
+      "title": "Parameter-Efficient Transfer Learning for NLP",
+      "arxiv_id": "1902.00751",
+      "doi": null,
+      "publicationDate": "2019-02-02",
+      "year": 2019
+    },
+    {
+      "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+      "arxiv_id": "1901.08746",
+      "doi": "10.1093/bioinformatics/btz682",
+      "publicationDate": "2019-01-25",
+      "year": 2019
+    },
+    {
+      "title": "Practical Text Classification With Large Pre-Trained Language Models",
+      "arxiv_id": "1812.01207",
+      "doi": null,
+      "publicationDate": "2018-12-04",
+      "year": 2018
+    },
+    {
+      "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+      "arxiv_id": "1811.10830",
+      "doi": "10.1109/CVPR.2019.00688",
+      "publicationDate": "2018-11-27",
+      "year": 2018
+    },
+    {
+      "title": "The UCR time series archive",
+      "arxiv_id": "1810.07758",
+      "doi": "10.1109/JAS.2019.1911747",
+      "publicationDate": "2018-10-17",
+      "year": 2018
+    },
+    {
+      "title": "Enhancing Stock Movement Prediction with Adversarial Training",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/810",
+      "publicationDate": "2018-10-13",
+      "year": 2018
+    },
+    {
+      "title": "A Comprehensive Survey of Deep Learning for Image Captioning",
+      "arxiv_id": "1810.04020",
+      "doi": "10.1145/3295748",
+      "publicationDate": "2018-10-06",
+      "year": 2018
+    },
+    {
+      "title": "The M4 Competition: Results, findings, conclusion and way forward",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IJFORECAST.2018.06.001",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Characterizing Co-located Datacenter Workloads: An Alibaba Case Study",
+      "arxiv_id": "1808.02919",
+      "doi": "10.1145/3265723.3265742",
+      "publicationDate": "2018-08-08",
+      "year": 2018
+    },
+    {
+      "title": "GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/476",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Stock Movement Prediction from Tweets and Historical Prices",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P18-1183",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+      "arxiv_id": "1803.01271",
+      "doi": null,
+      "publicationDate": "2018-03-04",
+      "year": 2018
+    },
+    {
+      "title": "Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction",
+      "arxiv_id": "1803.01254",
+      "doi": "10.1609/aaai.v33i01.33015668",
+      "publicationDate": "2018-03-03",
+      "year": 2018
+    },
+    {
+      "title": "Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?",
+      "arxiv_id": "1711.09577",
+      "doi": "10.1109/CVPR.2018.00685",
+      "publicationDate": "2017-11-27",
+      "year": 2017
+    },
+    {
+      "title": "Clinical Information Extraction Applications: A Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jbi.2017.11.011",
+      "publicationDate": "2017-11-21",
+      "year": 2017
+    },
+    {
+      "title": "Machine Learning for the Geosciences: Challenges and Opportunities",
+      "arxiv_id": "1711.04708",
+      "doi": "10.1109/TKDE.2018.2861006",
+      "publicationDate": "2017-11-13",
+      "year": 2017
+    },
+    {
+      "title": "Spatio-Temporal Data Mining",
+      "arxiv_id": "1711.04710",
+      "doi": "10.1145/3161602",
+      "publicationDate": "2017-11-13",
+      "year": 2017
+    },
+    {
+      "title": "Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition",
+      "arxiv_id": "1708.07632",
+      "doi": "10.1109/ICCVW.2017.373",
+      "publicationDate": "2017-08-25",
+      "year": 2017
+    },
+    {
+      "title": "Localizing Moments in Video with Natural Language",
+      "arxiv_id": "1708.01641",
+      "doi": "10.1109/ICCV.2017.618",
+      "publicationDate": "2017-08-04",
+      "year": 2017
+    },
+    {
+      "title": "Tick: a Python library for statistical learning, with a particular emphasis on time-dependent modelling",
+      "arxiv_id": "1707.03003",
+      "doi": null,
+      "publicationDate": "2017-07-10",
+      "year": 2017
+    },
+    {
+      "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-06",
+      "year": 2017
+    },
+    {
+      "title": "Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs",
+      "arxiv_id": "1705.05742",
+      "doi": null,
+      "publicationDate": "2017-05-16",
+      "year": 2017
+    },
+    {
+      "title": "Temporal Segment Networks for Action Recognition in Videos",
+      "arxiv_id": "1705.02953",
+      "doi": "10.1109/TPAMI.2018.2868668",
+      "publicationDate": "2017-05-08",
+      "year": 2017
+    },
+    {
+      "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",
+      "arxiv_id": "1704.04861",
+      "doi": null,
+      "publicationDate": "2017-04-17",
+      "year": 2017
+    },
+    {
+      "title": "A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction",
+      "arxiv_id": "1704.02971",
+      "doi": "10.24963/ijcai.2017/366",
+      "publicationDate": "2017-04-07",
+      "year": 2017
+    },
+    {
+      "title": "Multitask learning and benchmarking with clinical time series data",
+      "arxiv_id": "1703.07771",
+      "doi": "10.1038/s41597-019-0103-9",
+      "publicationDate": "2017-03-22",
+      "year": 2017
+    },
+    {
+      "title": "R-C3D: Region Convolutional 3D Network for Temporal Activity Detection",
+      "arxiv_id": "1703.07814",
+      "doi": "10.1109/ICCV.2017.617",
+      "publicationDate": "2017-03-22",
+      "year": 2017
+    },
+    {
+      "title": "DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing",
+      "arxiv_id": "1611.01942",
+      "doi": "10.1145/3038912.3052577",
+      "publicationDate": "2016-11-07",
+      "year": 2016
+    },
+    {
+      "title": "Visual question answering: Datasets, algorithms, and future challenges",
+      "arxiv_id": "1610.01465",
+      "doi": "10.1016/j.cviu.2017.06.005",
+      "publicationDate": "2016-10-05",
+      "year": 2016
+    },
+    {
+      "title": "Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction",
+      "arxiv_id": "1610.00081",
+      "doi": "10.1609/aaai.v31i1.10735",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "Temporal Convolutional Networks: A Unified Approach to Action Segmentation",
+      "arxiv_id": "1608.08242",
+      "doi": "10.1007/978-3-319-49409-8_7",
+      "publicationDate": "2016-08-29",
+      "year": 2016
+    },
+    {
+      "title": "MSR-VTT: A Large Video Description Dataset for Bridging Video and Language",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2016.571",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "MIMIC-III, a freely accessible critical care database",
+      "arxiv_id": null,
+      "doi": "10.1038/sdata.2016.35",
+      "publicationDate": "2016-05-01",
+      "year": 2016
+    },
+    {
+      "title": "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization",
+      "arxiv_id": null,
+      "doi": "10.5194/GMD-9-1937-2016",
+      "publicationDate": "2015-12-14",
+      "year": 2015
+    },
+    {
+      "title": "Deep Learning for Event-Driven Stock Prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-25",
+      "year": 2015
+    },
+    {
+      "title": "Learning Spatiotemporal Features with 3D Convolutional Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV.2015.510",
+      "publicationDate": "2014-12-02",
+      "year": 2014
+    },
+    {
+      "title": "Wikidata",
+      "arxiv_id": null,
+      "doi": "10.1145/2629489",
+      "publicationDate": "2014-09-23",
+      "year": 2014
+    },
+    {
+      "title": "Large-Scale Video Classification with Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2014.223",
+      "publicationDate": "2014-06-23",
+      "year": 2014
+    },
+    {
+      "title": "Microsoft COCO: Common Objects in Context",
+      "arxiv_id": "1405.0312",
+      "doi": "10.1007/978-3-319-10602-1_48",
+      "publicationDate": "2014-05-01",
+      "year": 2014
+    },
+    {
+      "title": "A survey on activity recognition and behavior understanding in video surveillance",
+      "arxiv_id": null,
+      "doi": "10.1007/s00371-012-0752-6",
+      "publicationDate": "2013-10-01",
+      "year": 2013
+    },
+    {
+      "title": "Evaluating temporal relations in clinical text: 2012 i2b2 Challenge",
+      "arxiv_id": null,
+      "doi": "10.1136/amiajnl-2013-001628",
+      "publicationDate": "2013-09-01",
+      "year": 2013
+    },
+    {
+      "title": "Deep Neural Network Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-06-08",
+      "year": 2012
+    },
+    {
+      "title": "Collecting Highly Parallel Data for Paraphrase Evaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-06-19",
+      "year": 2011
+    },
+    {
+      "title": "A Survey on Transfer Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2009.191",
+      "publicationDate": "2010-10-01",
+      "year": 2010
+    },
+    {
+      "title": "Migration motif: a spatial - temporal pattern mining approach for financial markets",
+      "arxiv_id": null,
+      "doi": "10.1145/1557019.1557142",
+      "publicationDate": "2009-06-28",
+      "year": 2009
+    },
+    {
+      "title": "YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia",
+      "arxiv_id": null,
+      "doi": "10.1145/1242572.1242667",
+      "publicationDate": "2007-05-08",
+      "year": 2007
+    },
+    {
+      "title": "Analysis of Financial Time Series: Tsay/Analysis of Financial Time Series",
+      "arxiv_id": null,
+      "doi": "10.1002/0471746193",
+      "publicationDate": "2005-08-19",
+      "year": 2005
+    },
+    {
+      "title": "Capturing sensor-generated time series with quality guarantees",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2003.1260811",
+      "publicationDate": "2003-03-05",
+      "year": 2003
+    },
+    {
+      "title": "A Neural Probabilistic Language Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2003-03-01",
+      "year": 2003
+    },
+    {
+      "title": "Video",
+      "arxiv_id": null,
+      "doi": "10.1002/lsm.1157",
+      "publicationDate": "1999-03-01",
+      "year": 1999
+    },
+    {
+      "title": "AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.231",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2025.acl-long.473",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A unified multi-subgraph pre-training framework for spatio-temporal graph",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2025.114428",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2308.08469",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2303.05707",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Crosslingual Generalization through Multitask Finetuning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.acl-long.891",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Hybrid Information Mixing Module for Stock Movement Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3258695",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-1480",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Merlion: End-to-End Machine Learning for Time Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2309.03564",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Falcon-40b: an open large language model with state-ofthe-art performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Fengwu: Pushing the skillful global medium-range weather forecast beyond 10 days lead",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Reprogramming Large Pretrained Language Models for Antibody Sequence Infilling",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2210.07144",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Prompt-Based Time Series Forecasting: A New Task and Dataset",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2210.08964",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Window Size Selection in Unsupervised Time Series Analytics: A Review and Benchmark",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-24378-3_6",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Temporal Knowledge Graph Forecasting with Neural ODE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Future global climate: scenario-based projections and near-term information",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "2018 N2c2 Shared Task on Adverse Drug Events and Medication Extraction in Electronic Health Records",
+      "arxiv_id": null,
+      "doi": "10.1093/jamia/ocz166",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Supplementary Material for - SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "“Entropy and shape aware time-series segmentation for processing heterogeneous sensor data,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Pre-Trained Bidirectional Temporal Representation for Crowd Flows Prediction in Regular Region",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2944990",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "A Survey on Context Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2016.2614508",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "tick: a Python Library for Statistical Learning, with an emphasis on Hawkes Processes and Time-Dependent Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Gdelt: Global data on events, location, and tone,1979–2012,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "“Individual household electric power consumption,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Recurrent neural network based language model",
+      "arxiv_id": null,
+      "doi": "10.21437/Interspeech.2010-343",
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Freeway Performance Measurement System: Mining Loop Detector Data",
+      "arxiv_id": null,
+      "doi": "10.3141/1748-12",
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "Evaluating efficacy.",
+      "arxiv_id": null,
+      "doi": "10.2214/ajr.134.6.1277",
+      "publicationDate": null,
+      "year": 1980
+    },
+    {
+      "title": "Why do we Sometimes get Nonsense-Correlations between Time-Series?--A Study in Sampling and the Nature of Time-Series",
+      "arxiv_id": null,
+      "doi": "10.2307/2341482",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. DELPHYNE: A Pre-Trained Model for General and Financial Time Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Alpaca: A strong, replicable instruction-following model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Enhancing Event Sequence Modeling with Contrastive Relational Inference",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026.OpenTSLM:Time-SeriesLanguageModelsforReasoningoverMultivariateMedicalText-andTime-SeriesData",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Unsupervised point cloud representation learning with deep neural networks: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Definition 3 (Temporal Knowledge Graphs)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Apollo: An exploration of video understanding in large multimodal models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Republic of Korea) (CIKM ’25)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

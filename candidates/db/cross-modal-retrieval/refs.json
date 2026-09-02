@@ -1,0 +1,567 @@
+{
+  "candidate": {
+    "topic": "Cross-Modal Retrieval",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3829354",
+      "title": "A Comprehensive Survey of Cross-Modal Retrieval: Breaking Through Modal Barriers",
+      "published": "2026-08-08"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=198"
+  },
+  "extracted_at": "2026-09-02T02:30:59+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 76,
+    "arxiv_resolvable": 14,
+    "doi_only": 60,
+    "unresolved": 2
+  },
+  "gt_s2": {
+    "paperId": "dbb996b58b846780d85b589b358abb7c7032896c",
+    "externalIds": {
+      "DOI": "10.1145/3829354",
+      "CorpusId": 290254715
+    },
+    "title": "A Comprehensive Survey of Cross-Modal Retrieval: Breaking Through Modal Barriers",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 76,
+    "publicationDate": "2026-07-17"
+  },
+  "refs": [
+    {
+      "title": "Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3785478",
+      "publicationDate": "2025-12-18",
+      "year": 2025
+    },
+    {
+      "title": "Deep neighbor-coherence hashing with discriminative sample mining for supervised cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.127365",
+      "publicationDate": "2025-06-01",
+      "year": 2025
+    },
+    {
+      "title": "Semantic decomposition and enhancement hashing for deep cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2024.111225",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Semantic Editing Increment Benefits Zero-Shot Composed Image Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3664647.3681649",
+      "publicationDate": "2024-10-28",
+      "year": 2024
+    },
+    {
+      "title": "LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3626772.3657740",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "Zero-shot discrete hashing with adaptive class correlation for cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2024.111820",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "LCNME: Label Correction Using Network Prediction Based on Memorization Effects for Cross-Modal Retrieval With Noisy Labels",
+      "arxiv_id": null,
+      "doi": "10.1109/TCSVT.2023.3286546",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Incomplete Cross-Modal Retrieval with Deep Correlation Transfer",
+      "arxiv_id": null,
+      "doi": "10.1145/3637442",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "Real20M: A Large-scale E-commerce Dataset for Cross-domain Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3581783.3612408",
+      "publicationDate": "2023-10-26",
+      "year": 2023
+    },
+    {
+      "title": "Similarity Graph-correlation Reconstruction Network for unsupervised cross-modal hashing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2023.121516",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions",
+      "arxiv_id": "2308.14263",
+      "doi": "10.1109/JPROC.2024.3525147",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "When CLIP meets cross-modal hashing retrieval: A new strong baseline",
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2023.101968",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Weakly-Supervised Enhanced Semantic-Aware Hashing for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2022.3172216",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "CCAH: A CLIP-Based Cycle Alignment Hashing Method for Unsupervised Vision-Text Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1155/2023/7992047",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "CLIP-based fusion-modal reconstructing hashing for large-scale unsupervised cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s13735-023-00268-7",
+      "publicationDate": "2023-02-22",
+      "year": 2023
+    },
+    {
+      "title": "MCRN: A Multi-source Cross-modal Retrieval Network for remote sensing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jag.2022.103071",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Cross-Modal Retrieval with Heterogeneous Graph Embedding",
+      "arxiv_id": null,
+      "doi": "10.1145/3503161.3548195",
+      "publicationDate": "2022-10-10",
+      "year": 2022
+    },
+    {
+      "title": "Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3503161.3547922",
+      "publicationDate": "2022-10-10",
+      "year": 2022
+    },
+    {
+      "title": "Discrete asymmetric zero-shot hashing with application to cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2022.09.037",
+      "publicationDate": "2022-09-01",
+      "year": 2022
+    },
+    {
+      "title": "Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning",
+      "arxiv_id": "2208.12526",
+      "doi": "10.1145/3503161.3548003",
+      "publicationDate": "2022-08-26",
+      "year": 2022
+    },
+    {
+      "title": "X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval",
+      "arxiv_id": "2207.07285",
+      "doi": "10.1145/3503161.3547910",
+      "publicationDate": "2022-07-15",
+      "year": 2022
+    },
+    {
+      "title": "Integrating Multi-Label Contrastive Learning With Dual Adversarial Graph Neural Networks for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2022.3188547",
+      "publicationDate": "2022-07-05",
+      "year": 2022
+    },
+    {
+      "title": "Open-environment machine learning",
+      "arxiv_id": "2206.00423",
+      "doi": "10.1093/nsr/nwac123",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Category supervised cross-modal hashing retrieval for chest X-ray and radiology reports",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2021.107673",
+      "publicationDate": "2022-03-01",
+      "year": 2022
+    },
+    {
+      "title": "MCCN: Multimodal Coordinated Clustering Network for Large-Scale Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3474085.3475670",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "Robust and discrete matrix factorization hashing for cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2021.108343",
+      "publicationDate": "2021-09-22",
+      "year": 2021
+    },
+    {
+      "title": "Know Yourself and Know Others: Efficient Common Representation Learning for Few-shot Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3460426.3463632",
+      "publicationDate": "2021-08-21",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Tri-Fusion Hashing Network for Imbalanced Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/tetci.2020.3007143",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/454",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "PAN: Prototype-based Adaptive Network for Robust Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3404835.3462867",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Deep medical cross-modal attention hashing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-021-00881-8",
+      "publicationDate": "2021-06-15",
+      "year": 2021
+    },
+    {
+      "title": "Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i3.16345",
+      "publicationDate": "2021-05-18",
+      "year": 2021
+    },
+    {
+      "title": "HCMSL: Hybrid Cross-modal Similarity Learning for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3412847",
+      "publicationDate": "2021-04-26",
+      "year": 2021
+    },
+    {
+      "title": "Unsupervised cross-modal similarity via Latent Structure Discrete Hashing Factorization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2021.106857",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval",
+      "arxiv_id": "2103.11920",
+      "doi": "10.1162/tacl_a_00473",
+      "publicationDate": "2021-03-22",
+      "year": 2021
+    },
+    {
+      "title": "Cross-modal Image Retrieval with Deep Mutual Information Maximization",
+      "arxiv_id": "2103.06032",
+      "doi": "10.1016/j.neucom.2022.01.078",
+      "publicationDate": "2021-03-10",
+      "year": 2021
+    },
+    {
+      "title": "WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning",
+      "arxiv_id": "2103.01913",
+      "doi": "10.1145/3404835.3463257",
+      "publicationDate": "2021-03-02",
+      "year": 2021
+    },
+    {
+      "title": "Multi-level Alignment Network for Domain Adaptive Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2021.01.114",
+      "publicationDate": "2021-02-17",
+      "year": 2021
+    },
+    {
+      "title": "DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ins.2020.08.009",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Few-Shot Image and Sentence Matching via Aligned Cross-Modal Memory",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2021.3052490",
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "Deep Graph-neighbor Coherence Preserving Network for Unsupervised Cross-modal Hashing",
+      "arxiv_id": "2012.13538",
+      "doi": "10.1609/aaai.v35i5.16592",
+      "publicationDate": "2020-12-25",
+      "year": 2020
+    },
+    {
+      "title": "Fast Unmediated Hashing for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/tcsvt.2020.3042972",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "Joint and individual matrix factorization hashing for large-scale cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patcog.2020.107479",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "Deep Multimodal Transfer Learning for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2020.3029181",
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Supervised Hierarchical Deep Hashing for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3394171.3413962",
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "Fine-Grained Visual Textual Alignment for Cross-Modal Retrieval Using Transformer Encoders",
+      "arxiv_id": "2008.05231",
+      "doi": "10.1145/3451390",
+      "publicationDate": "2020-08-12",
+      "year": 2020
+    },
+    {
+      "title": "Joint Pyramid Feature Representation Network for Vehicle Re-identification",
+      "arxiv_id": null,
+      "doi": "10.1007/s11036-020-01561-z",
+      "publicationDate": "2020-06-13",
+      "year": 2020
+    },
+    {
+      "title": "Visual Relations Augmented Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3372278.3390709",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval",
+      "arxiv_id": "2005.09801",
+      "doi": "10.1145/3397271.3401430",
+      "publicationDate": "2020-05-20",
+      "year": 2020
+    },
+    {
+      "title": "Improving Night-Time Pedestrian Retrieval With Distribution Alignment and Contextual Distance",
+      "arxiv_id": null,
+      "doi": "10.1109/TII.2019.2946030",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Multimodal adversarial network for cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2019.05.017",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "Deep Triplet Neural Networks with Cluster-CCA for Audio-Visual Cross-Modal Retrieval",
+      "arxiv_id": "1908.03737",
+      "doi": "10.1145/3387164",
+      "publicationDate": "2019-08-10",
+      "year": 2019
+    },
+    {
+      "title": "Scalable Deep Multimodal Learning for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3331184.3331213",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "Hybrid representation learning for cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1016/J.NEUCOM.2018.10.082",
+      "publicationDate": "2019-06-14",
+      "year": 2019
+    },
+    {
+      "title": "Improving What Cross-Modal Retrieval Models Learn through Object-Oriented Inter- and Intra-Modal Attention Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3323873.3325043",
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Cross-modal Collaborative Manifold Propagation for Image Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3323873.3325054",
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Deep Semantic Space with Intra-class Low-rank Constraint for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3323873.3325029",
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Adversary Guided Asymmetric Hashing for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3323873.3325045",
+      "publicationDate": "2019-06-05",
+      "year": 2019
+    },
+    {
+      "title": "Unsupervised cross-modal retrieval via Multi-modal graph regularized Smooth Matrix Factorization Hashing",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2019.02.004",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "CMIR-NET : A Deep Learning Based Model For Cross-Modal Retrieval In Remote Sensing",
+      "arxiv_id": "1904.04794",
+      "doi": "10.1016/j.patrec.2020.02.006",
+      "publicationDate": "2019-04-09",
+      "year": 2019
+    },
+    {
+      "title": "Self-Supervised Visual Representations for Cross-Modal Retrieval",
+      "arxiv_id": "1902.00378",
+      "doi": "10.1145/3323873.3325035",
+      "publicationDate": "2019-01-31",
+      "year": 2019
+    },
+    {
+      "title": "Semi-Supervised Cross-Modal Retrieval With Label Prediction",
+      "arxiv_id": "1812.01391",
+      "doi": "10.1109/TMM.2019.2954741",
+      "publicationDate": "2018-12-04",
+      "year": 2018
+    },
+    {
+      "title": "Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3240508.3240521",
+      "publicationDate": "2018-10-15",
+      "year": 2018
+    },
+    {
+      "title": "Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3206025.3206064",
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "Collaborative Subspace Graph Hashing for Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3206025.3206042",
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "Modal-adversarial Semantic Learning Network for Extendable Cross-modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/3206025.3206033",
+      "publicationDate": "2018-06-05",
+      "year": 2018
+    },
+    {
+      "title": "Deep adversarial metric learning for cross-modal retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/s11280-018-0541-x",
+      "publicationDate": "2018-04-04",
+      "year": 2018
+    },
+    {
+      "title": "Multimedia Big Data Analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/3150226",
+      "publicationDate": "2018-01-10",
+      "year": 2018
+    },
+    {
+      "title": "A new approach to cross-modal multimedia retrieval",
+      "arxiv_id": null,
+      "doi": "10.1145/1873951.1873987",
+      "publicationDate": "2010-10-25",
+      "year": 2010
+    },
+    {
+      "title": "A classification-driven similarity matching framework for retrieval of biomedical images",
+      "arxiv_id": null,
+      "doi": "10.1145/1743384.1743413",
+      "publicationDate": "2010-03-29",
+      "year": 2010
+    },
+    {
+      "title": "NUS-WIDE: a real-world web image database from National University of Singapore",
+      "arxiv_id": null,
+      "doi": "10.1145/1646396.1646452",
+      "publicationDate": "2009-07-08",
+      "year": 2009
+    },
+    {
+      "title": "The MIR flickr retrieval evaluation",
+      "arxiv_id": null,
+      "doi": "10.1145/1460096.1460104",
+      "publicationDate": "2008-10-30",
+      "year": 2008
+    },
+    {
+      "title": "Augmented Adversarial Training for Cross-Modal Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2020.2985540",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Learning with Noisy Correspondence for Cross-modal Matching",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Real-world Cross-modal Retrieval via Sequential Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2020.3002177",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "UCMH",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    }
+  ]
+}

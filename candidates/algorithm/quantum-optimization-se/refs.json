@@ -1,0 +1,1255 @@
+{
+  "candidate": {
+    "topic": "Quantum Optimization for Software Engineering",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3816147",
+      "title": "Quantum Optimization for Software Engineering: A Survey",
+      "published": "2026-05-21"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=TOSEM, Crossref refs-count=165"
+  },
+  "extracted_at": "2026-09-02T02:30:37+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 174,
+    "arxiv_resolvable": 35,
+    "doi_only": 125,
+    "unresolved": 14
+  },
+  "gt_s2": {
+    "paperId": "a846f676202192b77e925ea0c55809134c14857b",
+    "externalIds": {
+      "ArXiv": "2506.16878",
+      "DBLP": "journals/corr/abs-2506-16878",
+      "DOI": "10.1145/3816147",
+      "CorpusId": 279465239
+    },
+    "title": "Quantum Optimization for Software Engineering: A Survey",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "year": 2025,
+    "referenceCount": 174,
+    "publicationDate": "2025-06-20"
+  },
+  "refs": [
+    {
+      "title": "Simulation-based Safety Assessment of Vehicle Characteristics Variations in Autonomous Driving Systems",
+      "arxiv_id": null,
+      "doi": "10.1145/3743673",
+      "publicationDate": "2025-06-09",
+      "year": 2025
+    },
+    {
+      "title": "Preparation and Utilization of Mixed States for Testing Quantum Programs",
+      "arxiv_id": null,
+      "doi": "10.1145/3736757",
+      "publicationDate": "2025-05-23",
+      "year": 2025
+    },
+    {
+      "title": "A 2030 Roadmap for Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/3731559",
+      "publicationDate": "2025-04-25",
+      "year": 2025
+    },
+    {
+      "title": "Quantum software engineering and potential of quantum computing in software engineering research: a review",
+      "arxiv_id": "2502.08925",
+      "doi": "10.1007/s10515-025-00493-w",
+      "publicationDate": "2025-02-13",
+      "year": 2025
+    },
+    {
+      "title": "Left-Deep Join Order Selection with Higher-Order Unconstrained Binary Optimization on Quantum Computers",
+      "arxiv_id": "2502.00362",
+      "doi": "10.48550/arXiv.2502.00362",
+      "publicationDate": "2025-02-01",
+      "year": 2025
+    },
+    {
+      "title": "Energy-efficient task offloading and efficient resource allocation for edge computing: a quantum inspired particle swarm optimization approach",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04833-5",
+      "publicationDate": "2025-01-21",
+      "year": 2025
+    },
+    {
+      "title": "Optimizing the software test case through physics-informed particle-based method",
+      "arxiv_id": null,
+      "doi": "10.1007/s13198-024-02663-7",
+      "publicationDate": "2025-01-13",
+      "year": 2025
+    },
+    {
+      "title": "Quantum-inspired metaheuristic algorithms for Industry 4.0: A scientometric analysis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2024.109635",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "Quantum inspired genetic algorithm and optimization of queuing delay",
+      "arxiv_id": null,
+      "doi": "10.1109/TENCON61640.2024.10902749",
+      "publicationDate": "2024-12-01",
+      "year": 2024
+    },
+    {
+      "title": "Reformulating regression test suite optimization using quantum annealing - an empirical study",
+      "arxiv_id": "2411.15963",
+      "doi": "10.1007/s10009-024-00775-w",
+      "publicationDate": "2024-11-24",
+      "year": 2024
+    },
+    {
+      "title": "Quantum computing and quantum-inspired techniques for feature subset selection: a review",
+      "arxiv_id": null,
+      "doi": "10.1007/s10115-024-02282-5",
+      "publicationDate": "2024-11-17",
+      "year": 2024
+    },
+    {
+      "title": "Performance-Driven QUBO for Recommender Systems on Quantum Annealers",
+      "arxiv_id": "2410.15272",
+      "doi": "10.1145/3814611",
+      "publicationDate": "2024-10-20",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Testing and Analysis of Quantum Software",
+      "arxiv_id": "2410.00650",
+      "doi": "10.48550/arXiv.2410.00650",
+      "publicationDate": "2024-10-01",
+      "year": 2024
+    },
+    {
+      "title": "Quantum annealing applications, challenges and limitations for optimisation problems compared to classical solvers",
+      "arxiv_id": "2409.05542",
+      "doi": "10.1038/s41598-025-96220-2",
+      "publicationDate": "2024-09-09",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+      "arxiv_id": "2409.02977",
+      "doi": "10.48550/arXiv.2409.02977",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "Systematic Review on Requirements Engineering in Quantum Computing: Insights and Future Directions",
+      "arxiv_id": null,
+      "doi": "10.3390/electronics13152989",
+      "publicationDate": "2024-07-29",
+      "year": 2024
+    },
+    {
+      "title": "Research on Genetic Quantum Particle Swarm Optimization Fusion Algorithm in Virtual Machine Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1145/3691720.3691744",
+      "publicationDate": "2024-07-19",
+      "year": 2024
+    },
+    {
+      "title": "Quantum-based Automotive Threat Intelligence and Countermeasures",
+      "arxiv_id": null,
+      "doi": "10.1145/3661167.3661278",
+      "publicationDate": "2024-06-18",
+      "year": 2024
+    },
+    {
+      "title": "Constrained Quadratic Model for Optimizing Join Orders",
+      "arxiv_id": null,
+      "doi": "10.1145/3665225.3665447",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging Quantum Computing for Database Index Selection",
+      "arxiv_id": null,
+      "doi": "10.1145/3665225.3665445",
+      "publicationDate": "2024-06-09",
+      "year": 2024
+    },
+    {
+      "title": "Quantum software development: a survey",
+      "arxiv_id": null,
+      "doi": "10.26421/qic24.7-8-4",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Systematic Literature Review of Commercial Participation in Open Source Software",
+      "arxiv_id": "2405.16880",
+      "doi": "10.1145/3690632",
+      "publicationDate": "2024-05-27",
+      "year": 2024
+    },
+    {
+      "title": "Quantum-inspired multi-objective African vultures optimization algorithm with hierarchical structure for software requirement",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-024-04503-6",
+      "publicationDate": "2024-05-22",
+      "year": 2024
+    },
+    {
+      "title": "Testing and Debugging Quantum Programs: The Road to 2030",
+      "arxiv_id": "2405.09178",
+      "doi": "10.1145/3715106",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Automatic Repair of Quantum Programs via Unitary Operation",
+      "arxiv_id": null,
+      "doi": "10.1145/3664604",
+      "publicationDate": "2024-05-11",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Solution for Configuration Selection and Prioritization",
+      "arxiv_id": null,
+      "doi": "10.1145/3643667.3648221",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Software Engineering: Roadmap and Challenges Ahead",
+      "arxiv_id": "2404.06825",
+      "doi": "10.1145/3712002",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "QISS: Quantum-Enhanced Sustainable Security Incident Handling in the IoT",
+      "arxiv_id": null,
+      "doi": "10.3390/info15040181",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "Joint optimization of load balancing and resource allocation in cloud environment using optimal container management strategy",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.8035",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search",
+      "arxiv_id": null,
+      "doi": "10.1145/3644389",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "Scientometric analysis of quantum-inspired metaheuristic algorithms",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-023-10659-1",
+      "publicationDate": "2024-01-30",
+      "year": 2024
+    },
+    {
+      "title": "RRGcode: Deep hierarchical search-based code generation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2024.111982",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Quantum Approximate Optimization Algorithm for Test Case Optimization",
+      "arxiv_id": "2312.15547",
+      "doi": "10.1109/TSE.2024.3479421",
+      "publicationDate": "2023-12-24",
+      "year": 2023
+    },
+    {
+      "title": "Variational quantum multiobjective optimization",
+      "arxiv_id": "2312.14151",
+      "doi": "10.1103/PhysRevResearch.7.023141",
+      "publicationDate": "2023-12-21",
+      "year": 2023
+    },
+    {
+      "title": "Quantum based Fault-Tolerant Load Balancing in Cloud Computing with Quantum Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIMIA60377.2023.10426349",
+      "publicationDate": "2023-12-21",
+      "year": 2023
+    },
+    {
+      "title": "Challenges and opportunities in quantum optimization",
+      "arxiv_id": "2312.02279",
+      "doi": "10.1038/s42254-024-00770-9",
+      "publicationDate": "2023-12-04",
+      "year": 2023
+    },
+    {
+      "title": "An Opposition Learning-based Quantum Inspired Salp Swarm Optimization for The Multiobjective Controller Placement Problem",
+      "arxiv_id": null,
+      "doi": "10.1109/UPCON59197.2023.10434821",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "EpiTESTER: Testing Autonomous Vehicles With Epigenetic Algorithm and Attention Mechanism",
+      "arxiv_id": "2312.00207",
+      "doi": "10.1109/TSE.2024.3449429",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "Best practices for portfolio optimization by quantum computing, experimented on real quantum devices",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-023-45392-w",
+      "publicationDate": "2023-11-08",
+      "year": 2023
+    },
+    {
+      "title": "Quantum-Inspired Digital Annealing for Join Ordering",
+      "arxiv_id": null,
+      "doi": "10.14778/3632093.3632112",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Cloning and Beyond: A Quantum Solution to Duplicate Code",
+      "arxiv_id": null,
+      "doi": "10.1145/3622758.3622889",
+      "publicationDate": "2023-10-18",
+      "year": 2023
+    },
+    {
+      "title": "An Effective Approach to High Strength Covering Array Generation in Combinatorial Testing",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2023.3306461",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "How can a hybrid quantum-inspired gravitational search algorithm decrease energy consumption in IoT-based software-defined networks?",
+      "arxiv_id": null,
+      "doi": "10.1016/j.suscom.2023.100920",
+      "publicationDate": "2023-10-01",
+      "year": 2023
+    },
+    {
+      "title": "Quantum Combinatorial Optimization in the NISQ Era: A Systematic Mapping Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3620668",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "A tolerance-based memetic algorithm for constrained covering array generation",
+      "arxiv_id": null,
+      "doi": "10.1007/s12293-023-00392-1",
+      "publicationDate": "2023-08-29",
+      "year": 2023
+    },
+    {
+      "title": "Test Case Minimization with Quantum Annealers",
+      "arxiv_id": "2308.05505",
+      "doi": "10.1145/3680467",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "A Critical Scenario Search Method for Intelligent Vehicle Testing Based on the Social Cognitive Optimization Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/TITS.2023.3268324",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "A memetic algorithm for high-strength covering array generation",
+      "arxiv_id": null,
+      "doi": "10.1049/sfw2.12138",
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Quantum computing for finance",
+      "arxiv_id": "2307.11230",
+      "doi": "10.1038/s42254-023-00603-1",
+      "publicationDate": "2023-07-11",
+      "year": 2023
+    },
+    {
+      "title": "Constructing Optimal Bushy Join Trees by Solving QUBO Problems on Quantum Hardware and Simulators",
+      "arxiv_id": null,
+      "doi": "10.1145/3579142.3594298",
+      "publicationDate": "2023-06-18",
+      "year": 2023
+    },
+    {
+      "title": "A review on Quantum Approximate Optimization Algorithm and its variants",
+      "arxiv_id": "2306.09198",
+      "doi": "10.1016/j.physrep.2024.03.002",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Ready to Leap (by Co-Design)? Join Order Optimisation on Quantum Hardware",
+      "arxiv_id": null,
+      "doi": "10.1145/3588946",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "Minimizing incident response time in real-world scenarios using quantum computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s11219-023-09632-6",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "Quantum Inspired Task Optimization for IoT Edge Fog Computing Environment",
+      "arxiv_id": null,
+      "doi": "10.3390/math11010156",
+      "publicationDate": "2022-12-28",
+      "year": 2022
+    },
+    {
+      "title": "Evaluating Search-Based Software Microbenchmark Prioritization",
+      "arxiv_id": "2211.13525",
+      "doi": "10.1109/TSE.2024.3380836",
+      "publicationDate": "2022-11-24",
+      "year": 2022
+    },
+    {
+      "title": "An optimized clustering model for heterogeneous cross-project defect prediction using Quantum Crow search",
+      "arxiv_id": null,
+      "doi": "10.1109/ICoSEIT55604.2022.10030011",
+      "publicationDate": "2022-11-22",
+      "year": 2022
+    },
+    {
+      "title": "Quantum optimization for fast CAN bus intrusion detection",
+      "arxiv_id": null,
+      "doi": "10.1145/3549036.3562058",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Resource Optimization of SFC Embedding for IoT Networks Using Quantum Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/CAMAD55695.2022.9966892",
+      "publicationDate": "2022-11-02",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Objective Routing Optimization for 6G Communication Networks Using a Quantum Approximate Optimization Algorithm",
+      "arxiv_id": null,
+      "doi": "10.3390/s22197570",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "A quantum inspired hybrid SSA–GWO algorithm for SLA based task scheduling to improve QoS parameter in cloud computing",
+      "arxiv_id": null,
+      "doi": "10.1007/s10586-022-03740-x",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "Optimal sensor spacing in IoT network based on quantum computing technology",
+      "arxiv_id": null,
+      "doi": "10.1080/17445760.2022.2126975",
+      "publicationDate": "2022-09-27",
+      "year": 2022
+    },
+    {
+      "title": "Using Quantum computers to speed up dynamic testing of software",
+      "arxiv_id": "2209.04860",
+      "doi": "10.1145/3549036.3562061",
+      "publicationDate": "2022-09-11",
+      "year": 2022
+    },
+    {
+      "title": "Quantum computing for smart grid applications",
+      "arxiv_id": null,
+      "doi": "10.1049/gtd2.12602",
+      "publicationDate": "2022-09-07",
+      "year": 2022
+    },
+    {
+      "title": "Research on Security Anomaly Detection for Big Data Platforms Based on Quantum Optimization Clustering",
+      "arxiv_id": null,
+      "doi": "10.1155/2022/4805035",
+      "publicationDate": "2022-08-26",
+      "year": 2022
+    },
+    {
+      "title": "On the preferences of quality indicators for multi-objective search algorithms in search-based software engineering",
+      "arxiv_id": null,
+      "doi": "10.1007/s10664-022-10127-4",
+      "publicationDate": "2022-08-06",
+      "year": 2022
+    },
+    {
+      "title": "Test Case Prioritization, Selection, and Reduction Using Improved Quantum-Behaved Particle Swarm Optimization",
+      "arxiv_id": null,
+      "doi": "10.3390/s22124374",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Improved novel bat algorithm for test case prioritization and minimization",
+      "arxiv_id": null,
+      "doi": "10.1007/s00500-022-07121-9",
+      "publicationDate": "2022-05-06",
+      "year": 2022
+    },
+    {
+      "title": "Futuristic view of the Internet of Quantum Drones: Review, challenges and research agenda",
+      "arxiv_id": null,
+      "doi": "10.1016/j.vehcom.2022.100487",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "HPCP-QCWOA: High Performance Clustering Protocol based on Quantum Clone Whale Optimization Algorithm in Integrated Energy System",
+      "arxiv_id": null,
+      "doi": "10.1016/j.future.2022.05.001",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Software Engineering for Quantum Programming: How Far Are We?",
+      "arxiv_id": "2203.16969",
+      "doi": "10.48550/arXiv.2203.16969",
+      "publicationDate": "2022-03-31",
+      "year": 2022
+    },
+    {
+      "title": "A synergic quantum particle swarm optimisation for constrained combinatorial test generation",
+      "arxiv_id": null,
+      "doi": "10.1049/sfw2.12054",
+      "publicationDate": "2022-02-18",
+      "year": 2022
+    },
+    {
+      "title": "Many-Objective Quantum-Inspired Particle Swarm Optimization Algorithm for Placement of Virtual Machines in Smart Computing Cloud",
+      "arxiv_id": null,
+      "doi": "10.3390/e24010058",
+      "publicationDate": "2021-12-28",
+      "year": 2021
+    },
+    {
+      "title": "Quantum software testing: State of the art",
+      "arxiv_id": null,
+      "doi": "10.1002/smr.2419",
+      "publicationDate": "2021-12-24",
+      "year": 2021
+    },
+    {
+      "title": "Quantum annealing for industry applications: introduction and review",
+      "arxiv_id": "2112.07491",
+      "doi": "10.1088/1361-6633/ac8c54",
+      "publicationDate": "2021-12-14",
+      "year": 2021
+    },
+    {
+      "title": "A Dynamic Service Reconfiguration Method for Satellite-Terrestrial Integrated Networks",
+      "arxiv_id": null,
+      "doi": "10.3390/fi13100260",
+      "publicationDate": "2021-10-09",
+      "year": 2021
+    },
+    {
+      "title": "A new quantum particle swarm optimization algorithm for controller placement problem in software-defined networking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2021.107456",
+      "publicationDate": "2021-10-01",
+      "year": 2021
+    },
+    {
+      "title": "100,000-spin coherent Ising machine",
+      "arxiv_id": null,
+      "doi": "10.1126/sciadv.abh0952",
+      "publicationDate": "2021-09-29",
+      "year": 2021
+    },
+    {
+      "title": "Optimizing Transaction Schedules on Universal Quantum Computers via Code Generation for Grover’s Search Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1145/3472163.3472164",
+      "publicationDate": "2021-07-14",
+      "year": 2021
+    },
+    {
+      "title": "Evaluation of Software Architectures under Uncertainty",
+      "arxiv_id": null,
+      "doi": "10.1145/3464305",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Three novel quantum-inspired swarm optimization algorithms using different bounded potential fields",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-021-90847-7",
+      "publicationDate": "2021-06-02",
+      "year": 2021
+    },
+    {
+      "title": "Cross-project software defect prediction based on domain adaptation learning and optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2021.114637",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "A Novel Approach for Service Function Chain Embedding in Cloud Datacenter Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/LCOMM.2020.3043845",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "Failure prediction by regularized fuzzy learning with intelligent parameters selection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2020.106952",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "Quantum algorithm for solving the test suite minimization problem",
+      "arxiv_id": null,
+      "doi": "10.1080/23311916.2021.1882116",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Uncertainty-wise Requirements Prioritization with Search",
+      "arxiv_id": null,
+      "doi": "10.1145/3408301",
+      "publicationDate": "2020-12-31",
+      "year": 2020
+    },
+    {
+      "title": "Variational quantum algorithms",
+      "arxiv_id": "2012.09265",
+      "doi": "10.1038/s42254-021-00348-9",
+      "publicationDate": "2020-12-16",
+      "year": 2020
+    },
+    {
+      "title": "A review on genetic algorithm: past, present, and future",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-020-10139-6",
+      "publicationDate": "2020-10-31",
+      "year": 2020
+    },
+    {
+      "title": "Hybrid Optimization-Based GRU Neural Network for Software Reliability Prediction",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-15-7984-4_27",
+      "publicationDate": "2020-09-18",
+      "year": 2020
+    },
+    {
+      "title": "Quantum-inspired ant lion optimized hybrid k-means for cluster analysis and intrusion detection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2020.106167",
+      "publicationDate": "2020-09-01",
+      "year": 2020
+    },
+    {
+      "title": "Quantum­-Inspired Genetic Algorithm for Solving the Test Suite Minimization Problem",
+      "arxiv_id": null,
+      "doi": "10.37394/23205.2020.19.20",
+      "publicationDate": "2020-08-17",
+      "year": 2020
+    },
+    {
+      "title": "Quantum Software Engineering: Landscapes and Horizons",
+      "arxiv_id": "2007.07047",
+      "doi": null,
+      "publicationDate": "2020-07-14",
+      "year": 2020
+    },
+    {
+      "title": "Quantum Computing-Inspired Network Optimization for IoT Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2020.2979887",
+      "publicationDate": "2020-06-01",
+      "year": 2020
+    },
+    {
+      "title": "Quality Indicators in Search-based Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1145/3375636",
+      "publicationDate": "2020-03-04",
+      "year": 2020
+    },
+    {
+      "title": "Quantum Cryptography",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-04117-4_8",
+      "publicationDate": "2019-10-16",
+      "year": 2019
+    },
+    {
+      "title": "Quantum-based predictive fog scheduler for IoT applications",
+      "arxiv_id": null,
+      "doi": "10.1016/J.COMPIND.2019.06.002",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "An Enriched Chaotic Quantum Whale Optimization Algorithm Based Job scheduling in Cloud Computing Environment",
+      "arxiv_id": null,
+      "doi": "10.30534/ijatcse/2019/105842019",
+      "publicationDate": "2019-08-25",
+      "year": 2019
+    },
+    {
+      "title": "Quantum-Inspired Acromyrmex Evolutionary Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-019-48409-5",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "A Systematic Review of Interaction in Search-Based Software Engineering",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2018.2803055",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "A Quantum Ant Colony Multi-Objective Routing Algorithm in WSN and Its Application in a Manufacturing Environment",
+      "arxiv_id": null,
+      "doi": "10.3390/s19153334",
+      "publicationDate": "2019-07-29",
+      "year": 2019
+    },
+    {
+      "title": "Employing rule mining and multi-objective search for dynamic test case prioritization",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2019.03.064",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Uncertainty-wise test case generation and minimization for Cyber-Physical Systems",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JSS.2019.03.011",
+      "publicationDate": "2019-07-01",
+      "year": 2019
+    },
+    {
+      "title": "Quantum-Inspired Evolutionary Algorithms for Covering Arrays of Arbitrary Strength",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-34029-2_20",
+      "publicationDate": "2019-06-24",
+      "year": 2019
+    },
+    {
+      "title": "Statistical Assertions for Validating Patterns and Finding Bugs in Quantum Programs",
+      "arxiv_id": "1905.09721",
+      "doi": "10.1145/3307650.3322213",
+      "publicationDate": "2019-05-20",
+      "year": 2019
+    },
+    {
+      "title": "Quantum Annealing of Vehicle Routing Problem with Time, State and Capacity",
+      "arxiv_id": "1903.06322",
+      "doi": "10.1007/978-3-030-14082-3_13",
+      "publicationDate": "2019-03-15",
+      "year": 2019
+    },
+    {
+      "title": "Intelligent task allocation method based on improved QPSO in multi-agent system",
+      "arxiv_id": null,
+      "doi": "10.1007/s12652-019-01242-0",
+      "publicationDate": "2019-03-12",
+      "year": 2019
+    },
+    {
+      "title": "Genetic Algorithm- A Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1109/COMITCon.2019.8862255",
+      "publicationDate": "2019-02-01",
+      "year": 2019
+    },
+    {
+      "title": "Simulated Annealing: From Basics to Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-91086-4_1",
+      "publicationDate": "2018-09-21",
+      "year": 2018
+    },
+    {
+      "title": "Genetic Improvement of Software: A Comprehensive Survey",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2017.2693219",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Failure prediction by relevance vector regression with improved quantum-inspired gravitational search",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jnca.2017.11.013",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "Quantum Computing in the NISQ era and beyond",
+      "arxiv_id": "1801.00862",
+      "doi": "10.22331/q-2018-08-06-79",
+      "publicationDate": "2018-01-02",
+      "year": 2018
+    },
+    {
+      "title": "ARJA: Automated Repair of Java Programs via Multi-Objective Genetic Programming",
+      "arxiv_id": "1712.07804",
+      "doi": "10.1109/TSE.2018.2874648",
+      "publicationDate": "2017-12-21",
+      "year": 2017
+    },
+    {
+      "title": "Quantum optimization using variational algorithms on near-term quantum devices",
+      "arxiv_id": "1710.01022",
+      "doi": "10.1088/2058-9565/aab822",
+      "publicationDate": "2017-10-03",
+      "year": 2017
+    },
+    {
+      "title": "A Test Suite Reduction Method Based on Novel Quantum Ant Colony Algorithm",
+      "arxiv_id": null,
+      "doi": "10.1109/ICISCE.2017.176",
+      "publicationDate": "2017-07-01",
+      "year": 2017
+    },
+    {
+      "title": "Adiabatic Quantum Computing",
+      "arxiv_id": "1611.04471",
+      "doi": "10.1103/RevModPhys.90.015002",
+      "publicationDate": "2016-11-14",
+      "year": 2016
+    },
+    {
+      "title": "An Optimized Deployment Mechanism for Virtual Middleboxes in NFV- and SDN-Enabling Network",
+      "arxiv_id": null,
+      "doi": "10.3837/tiis.2016.08.003",
+      "publicationDate": "2016-08-30",
+      "year": 2016
+    },
+    {
+      "title": "Comparing the performance of quantum-inspired evolutionary algorithms for the solution of software requirements selection problem",
+      "arxiv_id": null,
+      "doi": "10.1016/J.INFSOF.2016.04.010",
+      "publicationDate": "2016-08-01",
+      "year": 2016
+    },
+    {
+      "title": "A virtual service placement approach based on improved quantum genetic algorithm",
+      "arxiv_id": null,
+      "doi": "10.1631/FITEE.1500494",
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "Parameter optimization of software reliability growth model with S-shaped testing-effort function using improved swarm intelligent optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2015.11.041",
+      "publicationDate": "2016-03-01",
+      "year": 2016
+    },
+    {
+      "title": "Multiple Query Optimization on the D-Wave 2X Adiabatic Quantum Computer",
+      "arxiv_id": "1510.06437",
+      "doi": "10.14778/2947618.2947621",
+      "publicationDate": "2015-10-21",
+      "year": 2015
+    },
+    {
+      "title": "Prediction approach of software fault-proneness based on hybrid artificial neural network and quantum particle swarm optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.asoc.2015.07.006",
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "Automated multi-objective control for self-adaptive software design",
+      "arxiv_id": null,
+      "doi": "10.1145/2786805.2786833",
+      "publicationDate": "2015-08-30",
+      "year": 2015
+    },
+    {
+      "title": "Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search",
+      "arxiv_id": null,
+      "doi": "10.1109/ICSE.2015.71",
+      "publicationDate": "2015-05-16",
+      "year": 2015
+    },
+    {
+      "title": "Cost-effective test suite minimization in product lines using search techniques",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jss.2014.08.024",
+      "publicationDate": "2015-05-01",
+      "year": 2015
+    },
+    {
+      "title": "An Evolutionary Many-Objective Optimization Algorithm Using Reference-Point Based Nondominated Sorting Approach, Part II: Handling Constraints and Extending to an Adaptive Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2013.2281534",
+      "publicationDate": "2014-08-01",
+      "year": 2014
+    },
+    {
+      "title": "High dimensional search-based software engineering: finding tradeoffs among 15 objectives for automating software refactoring using NSGA-III",
+      "arxiv_id": null,
+      "doi": "10.1145/2576768.2598366",
+      "publicationDate": "2014-07-12",
+      "year": 2014
+    },
+    {
+      "title": "Software Architecture Optimization Methods: A Systematic Literature Review",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2012.64",
+      "publicationDate": "2013-05-01",
+      "year": 2013
+    },
+    {
+      "title": "A variational eigenvalue solver on a photonic quantum processor",
+      "arxiv_id": "1304.3061",
+      "doi": "10.1038/ncomms5213",
+      "publicationDate": "2013-04-10",
+      "year": 2013
+    },
+    {
+      "title": "Search-based software engineering: Trends, techniques and applications",
+      "arxiv_id": null,
+      "doi": "10.1145/2379776.2379787",
+      "publicationDate": "2012-12-07",
+      "year": 2012
+    },
+    {
+      "title": "Solving the Large Scale Next Release Problem with a Backbone-Based Multilevel Algorithm",
+      "arxiv_id": "1704.04768",
+      "doi": "10.1109/TSE.2011.92",
+      "publicationDate": "2012-09-01",
+      "year": 2012
+    },
+    {
+      "title": "Quantum Computation and Quantum Information",
+      "arxiv_id": "1210.0736",
+      "doi": "10.1214/11-STS378",
+      "publicationDate": "2012-08-01",
+      "year": 2012
+    },
+    {
+      "title": "Quantum-inspired evolutionary algorithms: a survey and empirical study",
+      "arxiv_id": null,
+      "doi": "10.1007/s10732-010-9136-0",
+      "publicationDate": "2011-06-01",
+      "year": 2011
+    },
+    {
+      "title": "A Systematic Review of the Application and Empirical Investigation of Search-Based Test Case Generation",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2009.52",
+      "publicationDate": "2010-11-01",
+      "year": 2010
+    },
+    {
+      "title": "Multi-Objective Approaches to Optimal Testing Resource Allocation in Modular Software Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TR.2010.2057310",
+      "publicationDate": "2010-08-16",
+      "year": 2010
+    },
+    {
+      "title": "On Search Based Software Evolution",
+      "arxiv_id": null,
+      "doi": "10.1109/SSBSE.2009.12",
+      "publicationDate": "2009-05-13",
+      "year": 2009
+    },
+    {
+      "title": "Quantum-inspired Multiobjective Evolutionary Algorithm for Multiobjective 0/1 Knapsack Problems",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC.2006.1688633",
+      "publicationDate": "2006-09-11",
+      "year": 2006
+    },
+    {
+      "title": "Search-based software maintenance",
+      "arxiv_id": null,
+      "doi": "10.1109/CSMR.2006.49",
+      "publicationDate": "2006-03-22",
+      "year": 2006
+    },
+    {
+      "title": "A concept analysis inspired greedy algorithm for test suite minimization",
+      "arxiv_id": null,
+      "doi": "10.1145/1108792.1108802",
+      "publicationDate": "2005-09-05",
+      "year": 2005
+    },
+    {
+      "title": "Adiabatic quantum computation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-09-28",
+      "year": 2004
+    },
+    {
+      "title": "Augmenting simulated annealing to build interaction test suites",
+      "arxiv_id": null,
+      "doi": "10.1109/ISSRE.2003.1251061",
+      "publicationDate": "2003-11-17",
+      "year": 2003
+    },
+    {
+      "title": "Quality assurance under the open source development model",
+      "arxiv_id": null,
+      "doi": "10.1016/S0164-1212(02)00064-X",
+      "publicationDate": "2003-04-15",
+      "year": 2003
+    },
+    {
+      "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+      "arxiv_id": null,
+      "doi": "10.1109/4235.996017",
+      "publicationDate": "2002-04-01",
+      "year": 2002
+    },
+    {
+      "title": "Test Case Prioritization: A Family of Empirical Studies",
+      "arxiv_id": null,
+      "doi": "10.1109/32.988497",
+      "publicationDate": "2002-02-01",
+      "year": 2002
+    },
+    {
+      "title": "Quantum Computation by Adiabatic Evolution",
+      "arxiv_id": "quant-ph/0001106",
+      "doi": null,
+      "publicationDate": "2000-01-28",
+      "year": 2000
+    },
+    {
+      "title": "Simulating physics with computers",
+      "arxiv_id": null,
+      "doi": "10.1007/BF02650179",
+      "publicationDate": "1999-05-01",
+      "year": 1999
+    },
+    {
+      "title": "Comparison between Genetic Algorithms and Particle Swarm Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/BFb0040812",
+      "publicationDate": "1998-03-25",
+      "year": 1998
+    },
+    {
+      "title": "Genetic algorithms and their applications",
+      "arxiv_id": null,
+      "doi": "10.1109/79.543973",
+      "publicationDate": "1996-11-01",
+      "year": 1996
+    },
+    {
+      "title": "A fast quantum mechanical algorithm for database search",
+      "arxiv_id": "quant-ph/9605043",
+      "doi": "10.1145/237814.237866",
+      "publicationDate": "1996-05-29",
+      "year": 1996
+    },
+    {
+      "title": "Quantum Computations with Cold Trapped Ions.",
+      "arxiv_id": null,
+      "doi": "10.1103/PHYSREVLETT.74.4091",
+      "publicationDate": "1995-05-15",
+      "year": 1995
+    },
+    {
+      "title": "Quantum stochastic optimization",
+      "arxiv_id": null,
+      "doi": "10.1016/0304-4149(89)90040-9",
+      "publicationDate": "1989-12-01",
+      "year": 1989
+    },
+    {
+      "title": "Warm and Cold Start Quantum Annealing for Metaverse Resource Optimization",
+      "arxiv_id": null,
+      "doi": "10.1109/OJCOMS.2024.3359188",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Quantum as a Service Architecture for Security in a Smart City",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-43703-8_6",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Quantum Optimisation of General Join Trees",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multiple Query Optimization Using a Gate-Based Quantum Computer",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2023.3324253",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Quantum Optimization for IoT Security Detection",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-22356-3_18",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Quantum Approaches for WCET-Related Optimization Problems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-08760-8_18",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Quantum Software Testing: Current Trends and Emerging Proposals",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-05324-5_9",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-88106-1_4",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A Review of Quantum-Inspired Metaheuristics: Going From Classical Computers to Real Quantum Computers",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2019.2962155",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Automated Refactoring of OCL Constraints with Search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Classical and Quantum Computation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-25823-2_2",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "GenProg: A Generic Method for Automatic Software Repair",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2011.104",
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "The Quantum Story A History in 40 Moments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Overview of NSGA-II for Optimizing Machining Process Parameters",
+      "arxiv_id": null,
+      "doi": "10.1016/J.PROENG.2011.08.745",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Optimized Resource Allocation for Software Release Planning",
+      "arxiv_id": null,
+      "doi": "10.1109/TSE.2008.80",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "A Genetic Algorithm Fitness Function for Mutation Testing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "A numerical implementation of “quantum annealing”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1990
+    },
+    {
+      "title": "2024. Large language model for vulnerability detection and repair: Literature review and the road ahead",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "RQ8 1) Whether the proposed solution is quantum-inspired for each paper classified as classical or hybrid2)Algorithm extended/adopt and principles applied in each quantum-inspired solution",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. A Review on Search-Based Mutation Testing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Resource-EfficientQuantumOptimization via Higher-Order Encoding",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A novel approach of localization with single mobile anchor using quantum-based Salp swarm algorithm in wireless sensor networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Guide to the Software Engineering Body of Knowledge (SWEBOK Guide), Version 4.0",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Quantum-inspired optimization for task scheduling in software development projects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "candidate": {
+    "topic": "Vector Commitment Design and Applications",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3833384",
+      "title": "Vector Commitment Design, Analysis, and Applications: A Survey",
+      "published": "2026-08-05"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=82"
+  },
+  "extracted_at": "2026-09-02T02:30:46+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 72,
+    "arxiv_resolvable": 0,
+    "doi_only": 46,
+    "unresolved": 26
+  },
+  "gt_s2": {
+    "paperId": "30c4e9f5f50d3f79bda5b67299714b3ee0da9d27",
+    "externalIds": {
+      "DBLP": "journals/iacr/PathakRM25",
+      "DOI": "10.1145/3833384",
+      "CorpusId": 277858243
+    },
+    "title": "Vector Commitment Design, Analysis, and Applications: A Survey",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2026,
+    "referenceCount": 72,
+    "publicationDate": "2026-08-05"
+  },
+  "refs": [
+    {
+      "title": "Reckle Trees: Updatable Merkle Batch Proofs with Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3658644.3670354",
+      "publicationDate": "2024-12-02",
+      "year": 2024
+    },
+    {
+      "title": "A Succinct Range Proof for Polynomial-based Vector Commitment",
+      "arxiv_id": null,
+      "doi": "10.1145/3658644.3670324",
+      "publicationDate": "2024-12-02",
+      "year": 2024
+    },
+    {
+      "title": "Caulk: Lookup Arguments in Sublinear Time",
+      "arxiv_id": null,
+      "doi": "10.1145/3548606.3560646",
+      "publicationDate": "2022-11-07",
+      "year": 2022
+    },
+    {
+      "title": "Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-64834-3_1",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "Succinct Functional Commitment for a Large Class of Arithmetic Circuits",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-64840-4_23",
+      "publicationDate": "2020-12-07",
+      "year": 2020
+    },
+    {
+      "title": "Pointproofs: Aggregating Proofs for Multiple Vector Commitments",
+      "arxiv_id": null,
+      "doi": "10.1145/3372297.3417244",
+      "publicationDate": "2020-10-30",
+      "year": 2020
+    },
+    {
+      "title": "Subvector Commitments with Application to Succinct Arguments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-26948-7_19",
+      "publicationDate": "2019-08-18",
+      "year": 2019
+    },
+    {
+      "title": "Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-26948-7_20",
+      "publicationDate": "2019-08-18",
+      "year": 2019
+    },
+    {
+      "title": "Sharding Blockchain",
+      "arxiv_id": null,
+      "doi": "10.1109/Cybermatics_2018.2018.00277",
+      "publicationDate": "2018-07-01",
+      "year": 2018
+    },
+    {
+      "title": "Preserving transaction privacy in bitcoin",
+      "arxiv_id": null,
+      "doi": "10.1016/J.FUTURE.2017.08.026",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "Functional Commitment Schemes: From Polynomial Commitments to Pairing-Based Accumulators from Simple Assumptions",
+      "arxiv_id": null,
+      "doi": "10.4230/LIPIcs.ICALP.2016.30",
+      "publicationDate": "2016-07-12",
+      "year": 2016
+    },
+    {
+      "title": "On the Size of Pairing-Based Non-interactive Arguments",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-49896-5_11",
+      "publicationDate": "2016-05-08",
+      "year": 2016
+    },
+    {
+      "title": "Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-40041-4_5",
+      "publicationDate": "2013-08-18",
+      "year": 2013
+    },
+    {
+      "title": "Signatures of Correct Computation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-36594-2_13",
+      "publicationDate": "2013-03-03",
+      "year": 2013
+    },
+    {
+      "title": "Vector Commitments and Their Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-36362-7_5",
+      "publicationDate": "2013-02-26",
+      "year": 2013
+    },
+    {
+      "title": "Trapdoors for Lattices: Simpler, Tighter, Faster, Smaller",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-29011-4_41",
+      "publicationDate": "2012-04-15",
+      "year": 2012
+    },
+    {
+      "title": "Computational Verifiable Secret Sharing Revisited",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-25385-0_32",
+      "publicationDate": "2011-12-04",
+      "year": 2011
+    },
+    {
+      "title": "Constant-Size Commitments to Polynomials and Their Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-17373-8_11",
+      "publicationDate": "2010-12-05",
+      "year": 2010
+    },
+    {
+      "title": "Concise Mercurial Vector Commitments and Independent Zero-Knowledge Sets with Short Proofs",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-11799-2_30",
+      "publicationDate": "2010-02-09",
+      "year": 2010
+    },
+    {
+      "title": "Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-78524-8_1",
+      "publicationDate": "2008-03-19",
+      "year": 2008
+    },
+    {
+      "title": "Efficient Arguments without Short PCPs",
+      "arxiv_id": null,
+      "doi": "10.1109/CCC.2007.10",
+      "publicationDate": "2007-06-13",
+      "year": 2007
+    },
+    {
+      "title": "Zero-knowledge from secure multiparty computation",
+      "arxiv_id": null,
+      "doi": "10.1145/1250790.1250794",
+      "publicationDate": "2007-06-11",
+      "year": 2007
+    },
+    {
+      "title": "The PCP theorem by gap amplification",
+      "arxiv_id": null,
+      "doi": "10.1145/1236457.1236459",
+      "publicationDate": "2007-06-01",
+      "year": 2007
+    },
+    {
+      "title": "Mercurial Commitments with Applications to Zero-Knowledge Sets",
+      "arxiv_id": null,
+      "doi": "10.1007/s00145-012-9122-9",
+      "publicationDate": "2005-05-22",
+      "year": 2005
+    },
+    {
+      "title": "An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-44987-6_7",
+      "publicationDate": "2001-05-06",
+      "year": 2001
+    },
+    {
+      "title": "Generating hard instances of lattice problems (extended abstract)",
+      "arxiv_id": null,
+      "doi": "10.1145/237814.237838",
+      "publicationDate": "1996-07-01",
+      "year": 1996
+    },
+    {
+      "title": "Non-Interactive and Information-Theoretic Secure Verifiable Secret Sharing",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-46766-1_9",
+      "publicationDate": "1991-08-11",
+      "year": 1991
+    },
+    {
+      "title": "Bit commitment using pseudorandomness",
+      "arxiv_id": null,
+      "doi": "10.1007/BF00196774",
+      "publicationDate": "1989-08-20",
+      "year": 1989
+    },
+    {
+      "title": "Efficient Identification and Signatures for Smart Cards (Abstract)",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-46885-4_68",
+      "publicationDate": "1989-08-20",
+      "year": 1989
+    },
+    {
+      "title": "Minimum Disclosure Proofs of Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1016/0022-0000(88)90005-0",
+      "publicationDate": "1988-10-01",
+      "year": 1988
+    },
+    {
+      "title": "How to share a secret",
+      "arxiv_id": null,
+      "doi": "10.1145/359168.359176",
+      "publicationDate": "1979-11-01",
+      "year": 1979
+    },
+    {
+      "title": "Lattice-Based Succinct Mercurial Functional Commitment for Circuits: Definitions and Constructions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Structure-Preserving Compressing Primitives: Vector Commitments, Accumulators and Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-032-26734-4_13",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Vector Commitments with Proofs of Smallness: Short Range Proofs and More",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-57722-2_2",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Chainable Functional Commitments for Unbounded-Depth Circuits",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-48621-0_13",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Orbweaver: Succinct Linear Functional Commitments from Lattices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-38545-2_4",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Lattice-Based Functional Commitments: Fast Verification and Cryptanalysis",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-99-8733-7_7",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Efficient Secure Storage with Version Control and Key Rotation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-99-8736-8_6",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Vector Commitments over Rings and Compressed Σ-Protocols",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-22318-1_7",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Succinct Vector, Polynomial, and Functional Commitments from Lattices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-30620-4_13",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Witness Encryption for Succinct Functional Commitments and Applications",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-57722-2_5",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Inner Product Functional Commitments with Constant-Size Public Parameters and Openings",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-14791-3_28",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Powers-of-Tau to the People: Decentralizing Setup Ceremonies",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-54776-8_5",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "cq: Cached quotients for fast lookups",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "BalanceProofs: Maintainable Vector Commitments with Fast Aggregation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Proofs, Arguments, and Zero-Knowledge",
+      "arxiv_id": null,
+      "doi": "10.1561/3300000030",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Scaling Blockchains and the Case for Ethereum",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Vector and Functional Commitments from Lattices",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-90456-2_16",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A Compressed Σ-Protocol Theory for Lattices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "A graduate course in applied cryptography. Draft 0.5",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Aggregatable Subvector Commitments for Stateless Cryptocurrencies",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-57990-6_3",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Compressed Σ-Protocol Theory and Practical Application to Plug & Play Secure Algorithmics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Verkle Trees",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "rust-yinyan",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Scalablemulti-partycomputationforzk-SNARKparametersintherandombeaconmodel",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Zcash protocol specification. GitHub: San Francisco",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "∈ Z 𝑛 × 𝑚 𝑞 , the 𝑆𝐼𝑆 ( 𝑛,𝑚, 𝛽,𝑞 ) problem asks us to find a short 𝛽",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "One-way accumulators: A decentralized alternative to digital signatures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1993
+    },
+    {
+      "title": "How to Prove Yourself: Practical Solutions to Identification and Signature Problems",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-47721-7_12",
+      "publicationDate": null,
+      "year": 1986
+    },
+    {
+      "title": "2023. ConcreteSecurity forSuccinct Arguments from Vector Commitments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Sok: Zero-knowledge range proofs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Lagrange Labs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Lookuparguments:improvements,extensionsandapplications to zero-knowledge decision trees",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Caulk+: Table-independent lookup arguments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Jackpot:Non-interactiveaggregatablelotteries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. ImprovedAll-but-OneVectorCommitmentwithApplicationstoPost-Quantum Signatures",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Functional Commitments for All Functions, with Transparent Setup and from SIS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Filecoin",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Universal Vector Commitments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,2193 @@
+{
+  "candidate": {
+    "topic": "Diffusion Models for Time Series and Spatio-Temporal Data",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3783986",
+      "title": "A Survey on Diffusion Models for Time Series and Spatio-Temporal Data",
+      "published": "2026-02-04"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=256"
+  },
+  "extracted_at": "2026-09-02T02:31:15+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 308,
+    "arxiv_resolvable": 221,
+    "doi_only": 70,
+    "unresolved": 17
+  },
+  "gt_s2": {
+    "paperId": "ade46150fbb93b4e473f2fafbe39dfbb3346ee94",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2404-18886",
+      "ArXiv": "2404.18886",
+      "DOI": "10.1145/3783986",
+      "CorpusId": 269449656
+    },
+    "title": "A Survey on Diffusion Models for Time Series and Spatio-Temporal Data",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 308,
+    "publicationDate": "2024-04-29"
+  },
+  "refs": [
+    {
+      "title": "Exploring Accuracy Law for Deep Time Series Forecasters: An Empirical Study",
+      "arxiv_id": "2510.02729",
+      "doi": null,
+      "publicationDate": "2025-10-03",
+      "year": 2025
+    },
+    {
+      "title": "Rectified Flows for Fast Multiscale Fluid Flow Modeling",
+      "arxiv_id": "2506.03111",
+      "doi": "10.48550/arXiv.2506.03111",
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "Pre-training Feature Guided Diffusion Model for Speech Enhancement",
+      "arxiv_id": null,
+      "doi": "10.55041/ijsrem49324",
+      "publicationDate": "2025-06-02",
+      "year": 2025
+    },
+    {
+      "title": "Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios",
+      "arxiv_id": "2503.01737",
+      "doi": "10.48550/arXiv.2503.01737",
+      "publicationDate": "2025-03-03",
+      "year": 2025
+    },
+    {
+      "title": "An analytic theory of creativity in convolutional diffusion models",
+      "arxiv_id": "2412.20292",
+      "doi": "10.48550/arXiv.2412.20292",
+      "publicationDate": "2024-12-28",
+      "year": 2024
+    },
+    {
+      "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+      "arxiv_id": "2410.18072",
+      "doi": "10.48550/arXiv.2410.18072",
+      "publicationDate": "2024-10-23",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices",
+      "arxiv_id": "2410.11795",
+      "doi": "10.48550/arXiv.2410.11795",
+      "publicationDate": "2024-10-15",
+      "year": 2024
+    },
+    {
+      "title": "Denoising: a powerful building block for imaging, inverse problems and machine learning",
+      "arxiv_id": "2409.06219",
+      "doi": "10.1098/rsta.2024.0326",
+      "publicationDate": "2024-09-10",
+      "year": 2024
+    },
+    {
+      "title": "Pre-training Feature Guided Diffusion Model for Speech Enhancement",
+      "arxiv_id": "2406.07646",
+      "doi": "10.48550/arXiv.2406.07646",
+      "publicationDate": "2024-06-11",
+      "year": 2024
+    },
+    {
+      "title": "Online prediction of mechanical and electrical quality in ultrasonic metal welding using time series generation and deep learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engfailanal.2024.108162",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "Anomaly Detection for Telemetry Time Series Using a Denoising Diffusion Probabilistic Model",
+      "arxiv_id": null,
+      "doi": "10.1109/JSEN.2024.3383416",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Using a Diffusion Model for Pedestrian Trajectory Prediction in Semi-Open Autonomous Driving Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/JSEN.2024.3382406",
+      "publicationDate": "2024-05-15",
+      "year": 2024
+    },
+    {
+      "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-024-07487-w",
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis",
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2023.107696",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model",
+      "arxiv_id": "2404.15380",
+      "doi": "10.1145/3637528.3671866",
+      "publicationDate": "2024-04-23",
+      "year": 2024
+    },
+    {
+      "title": "Evaluating Diffusion Models for the Automation of Ultrasonic Nondestructive Evaluation Data Analysis",
+      "arxiv_id": null,
+      "doi": "10.3390/a17040167",
+      "publicationDate": "2024-04-21",
+      "year": 2024
+    },
+    {
+      "title": "Long-form music generation with latent diffusion",
+      "arxiv_id": "2404.10301",
+      "doi": "10.48550/arXiv.2404.10301",
+      "publicationDate": "2024-04-16",
+      "year": 2024
+    },
+    {
+      "title": "Unsupervised Anomaly Detection for Multivariate Time Series Using Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP48485.2024.10447083",
+      "publicationDate": "2024-04-14",
+      "year": 2024
+    },
+    {
+      "title": "Multi-Modality Conditional Diffusion Model for Time Series Forecasting of Live Sales Volume",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP48485.2024.10446307",
+      "publicationDate": "2024-04-14",
+      "year": 2024
+    },
+    {
+      "title": "RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion",
+      "arxiv_id": "2404.09140",
+      "doi": "10.1145/3636534.3649348",
+      "publicationDate": "2024-04-14",
+      "year": 2024
+    },
+    {
+      "title": "Data Limitations for Modeling Top-Down Effects on Drivers’ Attention",
+      "arxiv_id": "2404.08749",
+      "doi": "10.1109/IV55156.2024.10588528",
+      "publicationDate": "2024-04-12",
+      "year": 2024
+    },
+    {
+      "title": "Short-Term Wind Power Scenario Generation Based on Conditional Latent Diffusion Models",
+      "arxiv_id": null,
+      "doi": "10.1109/TSTE.2023.3327497",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Creating synthetic energy meter data using conditional diffusion and building metadata",
+      "arxiv_id": "2404.00525",
+      "doi": "10.1016/j.enbuild.2024.114216",
+      "publicationDate": "2024-03-31",
+      "year": 2024
+    },
+    {
+      "title": "Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models",
+      "arxiv_id": "2403.18486",
+      "doi": "10.3217/978-3-99161-014-4-077",
+      "publicationDate": "2024-03-27",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion Language-Shapelets for Semi-supervised Time-Series Classification",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i13.29317",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Latent Diffusion Transformer for Probabilistic Time Series Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i11.29085",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Diffstock: Probabilistic Relational Stock Market Predictions Using Diffusion Models",
+      "arxiv_id": "2403.14063",
+      "doi": "10.1109/ICASSP48485.2024.10446690",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Foundation Models for Time Series Analysis: A Tutorial and Survey",
+      "arxiv_id": "2403.14735",
+      "doi": "10.1145/3637528.3671451",
+      "publicationDate": "2024-03-21",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion-Based Environment-Aware Trajectory Prediction",
+      "arxiv_id": "2403.11643",
+      "doi": "10.48550/arXiv.2403.11643",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Intention-Aware Denoising Diffusion Model for Trajectory Prediction",
+      "arxiv_id": "2403.09190",
+      "doi": "10.1109/TITS.2025.3553125",
+      "publicationDate": "2024-03-14",
+      "year": 2024
+    },
+    {
+      "title": "Time Weaver: A Conditional Time Series Generation Model",
+      "arxiv_id": "2403.02682",
+      "doi": "10.48550/arXiv.2403.02682",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "Trajectory Consistency Distillation",
+      "arxiv_id": "2402.19159",
+      "doi": "10.48550/arXiv.2402.19159",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables",
+      "arxiv_id": "2402.19072",
+      "doi": "10.48550/arXiv.2402.19072",
+      "publicationDate": "2024-02-29",
+      "year": 2024
+    },
+    {
+      "title": "DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load",
+      "arxiv_id": "2402.13548",
+      "doi": "10.48550/arXiv.2402.13548",
+      "publicationDate": "2024-02-21",
+      "year": 2024
+    },
+    {
+      "title": "Diff-RNTraj: A Structure-Aware Diffusion Model for Road Network-Constrained Trajectory Generation",
+      "arxiv_id": "2402.07369",
+      "doi": "10.1109/TKDE.2024.3460051",
+      "publicationDate": "2024-02-12",
+      "year": 2024
+    },
+    {
+      "title": "Time Series Diffusion in the Frequency Domain",
+      "arxiv_id": "2402.05933",
+      "doi": "10.48550/arXiv.2402.05933",
+      "publicationDate": "2024-02-08",
+      "year": 2024
+    },
+    {
+      "title": "Deep Learning for Multivariate Time Series Imputation: A Survey",
+      "arxiv_id": "2402.04059",
+      "doi": "10.48550/arXiv.2402.04059",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Simulating human mobility with a trajectory generation framework based on diffusion model",
+      "arxiv_id": null,
+      "doi": "10.1080/13658816.2024.2312199",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation",
+      "arxiv_id": "2402.06656",
+      "doi": "10.48550/arXiv.2402.06656",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "Quantifying uncertainty: Air quality forecasting based on dynamic spatial-temporal denoising diffusion Probabilistic model.",
+      "arxiv_id": null,
+      "doi": "10.1016/j.envres.2024.118438",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion‐UDA: Diffusion‐based unsupervised domain adaptation for submersible fault diagnosis",
+      "arxiv_id": null,
+      "doi": "10.1049/ell2.13122",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "DiffuseRoll: multi-track multi-attribute music generation based on diffusion model",
+      "arxiv_id": null,
+      "doi": "10.1007/s00530-023-01220-9",
+      "publicationDate": "2024-01-17",
+      "year": 2024
+    },
+    {
+      "title": "SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting",
+      "arxiv_id": "2401.08119",
+      "doi": "10.1109/IJCNN64981.2025.11227295",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+      "arxiv_id": "2401.08740",
+      "doi": "10.48550/arXiv.2401.08740",
+      "publicationDate": "2024-01-16",
+      "year": 2024
+    },
+    {
+      "title": "TimeDDPM: Time Series Augmentation Strategy for Industrial Soft Sensing",
+      "arxiv_id": null,
+      "doi": "10.1109/JSEN.2023.3339245",
+      "publicationDate": "2024-01-15",
+      "year": 2024
+    },
+    {
+      "title": "BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis",
+      "arxiv_id": "2401.10282",
+      "doi": "10.3390/bioengineering11040299",
+      "publicationDate": "2024-01-12",
+      "year": 2024
+    },
+    {
+      "title": "DiffDA: a diffusion model for weather-scale data assimilation",
+      "arxiv_id": "2401.05932",
+      "doi": "10.48550/arXiv.2401.05932",
+      "publicationDate": "2024-01-11",
+      "year": 2024
+    },
+    {
+      "title": "Plug-in Diffusion Model for Sequential Recommendation",
+      "arxiv_id": "2401.02913",
+      "doi": "10.48550/arXiv.2401.02913",
+      "publicationDate": "2024-01-05",
+      "year": 2024
+    },
+    {
+      "title": "DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2024.111387",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation",
+      "arxiv_id": "2312.07981",
+      "doi": "10.1016/j.ymssp.2024.111481",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "D3A-TS: denoising-driven data augmentation in time series",
+      "arxiv_id": "2312.05550",
+      "doi": "10.1007/s41060-025-00990-x",
+      "publicationDate": "2023-12-09",
+      "year": 2023
+    },
+    {
+      "title": "DiffusionSat: A Generative Foundation Model for Satellite Imagery",
+      "arxiv_id": "2312.03606",
+      "doi": "10.48550/arXiv.2312.03606",
+      "publicationDate": "2023-12-06",
+      "year": 2023
+    },
+    {
+      "title": "Imputing time-series microbiome abundance profiles with diffusion model",
+      "arxiv_id": null,
+      "doi": "10.1109/BIBM58861.2023.10385703",
+      "publicationDate": "2023-12-05",
+      "year": 2023
+    },
+    {
+      "title": "Data-driven and knowledge-guided denoising diffusion model for flood forecasting",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2023.122908",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data",
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2023.102207",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Multi-scale conditional diffusion model for deposited droplet volume measurement in inkjet printing manufacturing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmsy.2023.10.004",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion-Based Time Series Data Imputation for Cloud Failure Prediction at Microsoft 365",
+      "arxiv_id": null,
+      "doi": "10.1145/3611643.3613866",
+      "publicationDate": "2023-11-30",
+      "year": 2023
+    },
+    {
+      "title": "A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.1109/iSPEC58282.2023.10403004",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "Brain-Driven Representation Learning Based on Diffusion Model",
+      "arxiv_id": "2311.07925",
+      "doi": "10.1109/BCI60775.2024.10480511",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Adversarial Purification for Data-Driven Power System Event Classifiers With Diffusion Models",
+      "arxiv_id": "2311.07110",
+      "doi": "10.1109/TPWRS.2025.3558876",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models",
+      "arxiv_id": "2311.05417",
+      "doi": "10.48550/arXiv.2311.05417",
+      "publicationDate": "2023-11-09",
+      "year": 2023
+    },
+    {
+      "title": "TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models",
+      "arxiv_id": "2311.03303",
+      "doi": "10.48550/arXiv.2311.03303",
+      "publicationDate": "2023-11-06",
+      "year": 2023
+    },
+    {
+      "title": "Time Series Anomaly Detection using Diffusion-based Models",
+      "arxiv_id": "2311.01452",
+      "doi": "10.1109/ICDMW60847.2023.00080",
+      "publicationDate": "2023-11-02",
+      "year": 2023
+    },
+    {
+      "title": "Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model",
+      "arxiv_id": "2311.00496",
+      "doi": "10.1109/TITS.2024.3482106",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion",
+      "arxiv_id": "2310.20453",
+      "doi": "10.48550/arXiv.2310.20453",
+      "publicationDate": "2023-10-31",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion models in bioinformatics and computational biology",
+      "arxiv_id": null,
+      "doi": "10.1038/s44222-023-00114-9",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning",
+      "arxiv_id": "2310.17360",
+      "doi": "10.1145/3678717.3691235",
+      "publicationDate": "2023-10-26",
+      "year": 2023
+    },
+    {
+      "title": "Improving Diffusion Models for ECG Imputation with an Augmented Template Prior",
+      "arxiv_id": "2310.15742",
+      "doi": "10.48550/arXiv.2310.15742",
+      "publicationDate": "2023-10-24",
+      "year": 2023
+    },
+    {
+      "title": "Density-Aware Temporal Attentive Step-wise Diffusion Model For Medical Time Series Imputation",
+      "arxiv_id": null,
+      "doi": "10.1145/3583780.3614840",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions",
+      "arxiv_id": "2310.14040",
+      "doi": "10.48550/arXiv.2310.14040",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.1145/3583780.3614842",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "A Graph-Based Scene Encoder for Vehicle Trajectory Prediction Using the Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.1109/CSIS-IAC60628.2023.10363970",
+      "publicationDate": "2023-10-20",
+      "year": 2023
+    },
+    {
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "arxiv_id": "2310.10196",
+      "doi": "10.1145/3821637",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection",
+      "arxiv_id": "2310.08800",
+      "doi": "10.48550/arXiv.2310.08800",
+      "publicationDate": "2023-10-13",
+      "year": 2023
+    },
+    {
+      "title": "Unsupervised Diffusion Model for Sensor-based Human Activity Recognition",
+      "arxiv_id": null,
+      "doi": "10.1145/3594739.3610797",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference",
+      "arxiv_id": "2310.04378",
+      "doi": null,
+      "publicationDate": "2023-10-06",
+      "year": 2023
+    },
+    {
+      "title": "Generalization in diffusion models arises from geometry-adaptive harmonic representation",
+      "arxiv_id": "2310.02557",
+      "doi": "10.48550/arXiv.2310.02557",
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "NetDiffus: Network Traffic Generation by Diffusion Models through Time-Series Imaging",
+      "arxiv_id": "2310.04429",
+      "doi": "10.48550/arXiv.2310.04429",
+      "publicationDate": "2023-09-23",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Augmentation for Sequential Recommendation",
+      "arxiv_id": "2309.12858",
+      "doi": "10.1145/3583780.3615134",
+      "publicationDate": "2023-09-22",
+      "year": 2023
+    },
+    {
+      "title": "NExT-GPT: Any-to-Any Multimodal LLM",
+      "arxiv_id": "2309.05519",
+      "doi": "10.48550/arXiv.2309.05519",
+      "publicationDate": "2023-09-11",
+      "year": 2023
+    },
+    {
+      "title": "Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation",
+      "arxiv_id": "2309.01988",
+      "doi": "10.48550/arXiv.2309.01988",
+      "publicationDate": "2023-09-05",
+      "year": 2023
+    },
+    {
+      "title": "FinDiff: Diffusion Models for Financial Tabular Data Generation",
+      "arxiv_id": "2309.01472",
+      "doi": "10.1145/3604237.3626876",
+      "publicationDate": "2023-09-04",
+      "year": 2023
+    },
+    {
+      "title": "DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model",
+      "arxiv_id": "2308.09857",
+      "doi": "10.1109/TSG.2024.3360874",
+      "publicationDate": "2023-08-18",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction",
+      "arxiv_id": "2309.00073",
+      "doi": "10.1145/3583780.3614844",
+      "publicationDate": "2023-08-18",
+      "year": 2023
+    },
+    {
+      "title": "Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion",
+      "arxiv_id": "2308.07676",
+      "doi": "10.1109/ASE56229.2023.00082",
+      "publicationDate": "2023-08-15",
+      "year": 2023
+    },
+    {
+      "title": "Discrete Conditional Diffusion for Reranking in Recommendation",
+      "arxiv_id": "2308.06982",
+      "doi": "10.1145/3589335.3648313",
+      "publicationDate": "2023-08-14",
+      "year": 2023
+    },
+    {
+      "title": "Precipitation nowcasting with generative diffusion models",
+      "arxiv_id": "2308.06733",
+      "doi": "10.1007/s10489-024-06048-y",
+      "publicationDate": "2023-08-13",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Model in Causal Inference with Unmeasured Confounders",
+      "arxiv_id": "2308.03669",
+      "doi": "10.1109/SSCI52147.2023.10372009",
+      "publicationDate": "2023-08-07",
+      "year": 2023
+    },
+    {
+      "title": "An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series",
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599257",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599391",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG",
+      "arxiv_id": "2307.14389",
+      "doi": "10.48550/arXiv.2307.14389",
+      "publicationDate": "2023-07-26",
+      "year": 2023
+    },
+    {
+      "title": "TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers",
+      "arxiv_id": "2307.12667",
+      "doi": "10.48550/arXiv.2307.12667",
+      "publicationDate": "2023-07-24",
+      "year": 2023
+    },
+    {
+      "title": "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting",
+      "arxiv_id": "2307.11494",
+      "doi": "10.48550/arXiv.2307.11494",
+      "publicationDate": "2023-07-21",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection",
+      "arxiv_id": "2307.03759",
+      "doi": "10.1109/TPAMI.2024.3443141",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Origin-Destination Travel Time Oracle for Map-based Services",
+      "arxiv_id": "2307.03048",
+      "doi": "10.1145/3617337",
+      "publicationDate": "2023-07-06",
+      "year": 2023
+    },
+    {
+      "title": "On the Constrained Time-Series Generation Problem",
+      "arxiv_id": "2307.01717",
+      "doi": "10.48550/arXiv.2307.01717",
+      "publicationDate": "2023-07-04",
+      "year": 2023
+    },
+    {
+      "title": "ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection",
+      "arxiv_id": "2307.00754",
+      "doi": "10.48550/arXiv.2307.00754",
+      "publicationDate": "2023-07-03",
+      "year": 2023
+    },
+    {
+      "title": "MissDiff: Training Diffusion Models on Tabular Data with Missing Values",
+      "arxiv_id": "2307.00467",
+      "doi": "10.48550/arXiv.2307.00467",
+      "publicationDate": "2023-07-02",
+      "year": 2023
+    },
+    {
+      "title": "CRA-DIFFUSE: Improved Cross-Domain Speech Enhancement Based on Diffusion Model with T-F Domain Pre-Denoising",
+      "arxiv_id": null,
+      "doi": "10.1109/ICME55011.2023.00294",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Intent-Satisfaction Modeling: From Music to Video Streaming",
+      "arxiv_id": null,
+      "doi": "10.1145/3606375",
+      "publicationDate": "2023-06-29",
+      "year": 2023
+    },
+    {
+      "title": "Restart Sampling for Improving Generative Processes",
+      "arxiv_id": "2306.14878",
+      "doi": "10.48550/arXiv.2306.14878",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "Revisiting Denoising Diffusion Probabilistic Models for Speech Enhancement: Condition Collapse, Efficiency and Refinement",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i11.26597",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models",
+      "arxiv_id": "2306.14066",
+      "doi": "10.48550/arXiv.2306.14066",
+      "publicationDate": "2023-06-24",
+      "year": 2023
+    },
+    {
+      "title": "Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale",
+      "arxiv_id": "2306.15687",
+      "doi": "10.48550/arXiv.2306.15687",
+      "publicationDate": "2023-06-23",
+      "year": 2023
+    },
+    {
+      "title": "RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation",
+      "arxiv_id": "2306.08947",
+      "doi": "10.48550/arXiv.2306.08947",
+      "publicationDate": "2023-06-15",
+      "year": 2023
+    },
+    {
+      "title": "Data Augmentation for Seizure Prediction With Generative Diffusion Model",
+      "arxiv_id": "2306.08256",
+      "doi": "10.1109/TCDS.2024.3489357",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting",
+      "arxiv_id": "2306.08259",
+      "doi": "10.48550/arXiv.2306.08259",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model",
+      "arxiv_id": "2306.06138",
+      "doi": "10.48550/arXiv.2306.06138",
+      "publicationDate": "2023-06-09",
+      "year": 2023
+    },
+    {
+      "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction",
+      "arxiv_id": "2306.05043",
+      "doi": "10.48550/arXiv.2306.05043",
+      "publicationDate": "2023-06-08",
+      "year": 2023
+    },
+    {
+      "title": "On the Design Fundamentals of Diffusion Models: A Survey",
+      "arxiv_id": "2306.04542",
+      "doi": "10.48550/arXiv.2306.04542",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting",
+      "arxiv_id": "2306.03110",
+      "doi": "10.48448/zn7f-fc64",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "Unsupervised [18F]Flortaucipir cutoffs for tau positivity and staging in Alzheimer’s disease",
+      "arxiv_id": null,
+      "doi": "10.1007/s00259-023-06280-7",
+      "publicationDate": "2023-06-05",
+      "year": 2023
+    },
+    {
+      "title": "DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting",
+      "arxiv_id": "2306.01984",
+      "doi": "10.48550/arXiv.2306.01984",
+      "publicationDate": "2023-06-03",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Self-Guidance for Controllable Image Generation",
+      "arxiv_id": "2306.00986",
+      "doi": "10.48550/arXiv.2306.00986",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2306.01001",
+      "publicationDate": "2023-05-31",
+      "year": 2023
+    },
+    {
+      "title": "Unsupervised Statistical Feature-Guided Diffusion Model for Sensor-based Human Activity Recognition",
+      "arxiv_id": "2306.05285",
+      "doi": "10.48550/arXiv.2306.05285",
+      "publicationDate": "2023-05-30",
+      "year": 2023
+    },
+    {
+      "title": "On Diffusion Modeling for Anomaly Detection",
+      "arxiv_id": "2305.18593",
+      "doi": "10.48550/arXiv.2305.18593",
+      "publicationDate": "2023-05-29",
+      "year": 2023
+    },
+    {
+      "title": "A Dataset of Scalp EEG Recordings of Alzheimer's Disease, Frontotemporal Dementia and Healthy Subjects from Routine EEG",
+      "arxiv_id": null,
+      "doi": "10.3390/data8060095",
+      "publicationDate": "2023-05-27",
+      "year": 2023
+    },
+    {
+      "title": "DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models",
+      "arxiv_id": "2305.16943",
+      "doi": null,
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-temporal Diffusion Point Processes",
+      "arxiv_id": "2305.12403",
+      "doi": "10.1145/3580305.3599511",
+      "publicationDate": "2023-05-21",
+      "year": 2023
+    },
+    {
+      "title": "Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatiotemporal Forecasting",
+      "arxiv_id": "2305.09703",
+      "doi": "10.1109/TNNLS.2024.3415149",
+      "publicationDate": "2023-05-16",
+      "year": 2023
+    },
+    {
+      "title": "Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics",
+      "arxiv_id": "2305.04200",
+      "doi": "10.48550/arXiv.2305.04200",
+      "publicationDate": "2023-05-07",
+      "year": 2023
+    },
+    {
+      "title": "Iterative α -(de)Blending: a Minimalist Deterministic Diffusion Model",
+      "arxiv_id": "2305.03486",
+      "doi": "10.1145/3588432.3591540",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification",
+      "arxiv_id": "2304.12891",
+      "doi": "10.48550/arXiv.2304.12891",
+      "publicationDate": "2023-04-25",
+      "year": 2023
+    },
+    {
+      "title": "Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models",
+      "arxiv_id": "2304.12076",
+      "doi": "10.1109/TSG.2024.3366212",
+      "publicationDate": "2023-04-24",
+      "year": 2023
+    },
+    {
+      "title": "DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model",
+      "arxiv_id": "2304.11582",
+      "doi": "10.52202/075280-2843",
+      "publicationDate": "2023-04-23",
+      "year": 2023
+    },
+    {
+      "title": "DiffESM: Conditional Emulation of Earth System Models with Diffusion Models",
+      "arxiv_id": "2304.11699",
+      "doi": "10.48550/arXiv.2304.11699",
+      "publicationDate": "2023-04-23",
+      "year": 2023
+    },
+    {
+      "title": "Conditional Denoising Diffusion for Sequential Recommendation",
+      "arxiv_id": "2304.11433",
+      "doi": "10.48550/arXiv.2304.11433",
+      "publicationDate": "2023-04-22",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Recommender Model",
+      "arxiv_id": "2304.04971",
+      "doi": "10.1145/3539618.3591663",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "Sequential Recommendation with Diffusion Models",
+      "arxiv_id": "2304.04541",
+      "doi": "10.48550/arXiv.2304.04541",
+      "publicationDate": "2023-04-10",
+      "year": 2023
+    },
+    {
+      "title": "GenPhys: From Physical Processes to Generative Models",
+      "arxiv_id": "2304.02637",
+      "doi": "10.48550/arXiv.2304.02637",
+      "publicationDate": "2023-04-05",
+      "year": 2023
+    },
+    {
+      "title": "DiffuRec: A Diffusion Model for Sequential Recommendation",
+      "arxiv_id": "2304.00686",
+      "doi": "10.1145/3631116",
+      "publicationDate": "2023-04-03",
+      "year": 2023
+    },
+    {
+      "title": "Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey",
+      "arxiv_id": "2303.14483",
+      "doi": "10.1109/TKDE.2023.3333824",
+      "publicationDate": "2023-03-25",
+      "year": 2023
+    },
+    {
+      "title": "Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models",
+      "arxiv_id": "2303.12281",
+      "doi": "10.48550/arXiv.2303.12281",
+      "publicationDate": "2023-03-22",
+      "year": 2023
+    },
+    {
+      "title": "DiffuseRoll: Multi-track multi-category music generation based on diffusion model",
+      "arxiv_id": "2303.07794",
+      "doi": "10.48550/arXiv.2303.07794",
+      "publicationDate": "2023-03-14",
+      "year": 2023
+    },
+    {
+      "title": "EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models",
+      "arxiv_id": "2303.05656",
+      "doi": "10.48550/arXiv.2303.05656",
+      "publicationDate": "2023-03-10",
+      "year": 2023
+    },
+    {
+      "title": "TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation",
+      "arxiv_id": "2303.04248",
+      "doi": "10.48550/arXiv.2303.04248",
+      "publicationDate": "2023-03-07",
+      "year": 2023
+    },
+    {
+      "title": "EEG Synthetic Data Generation Using Probabilistic Diffusion Models",
+      "arxiv_id": "2303.06068",
+      "doi": "10.48550/arXiv.2303.06068",
+      "publicationDate": "2023-03-06",
+      "year": 2023
+    },
+    {
+      "title": "Consistency Models",
+      "arxiv_id": "2303.01469",
+      "doi": "10.1007/978-1-4842-1329-2_9",
+      "publicationDate": "2023-03-02",
+      "year": 2023
+    },
+    {
+      "title": "Synthesizing Mixed-type Electronic Health Records using Diffusion Models",
+      "arxiv_id": "2302.14679",
+      "doi": "10.48550/arXiv.2302.14679",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement",
+      "arxiv_id": "2302.14748",
+      "doi": "10.48550/arXiv.2302.14748",
+      "publicationDate": "2023-02-28",
+      "year": 2023
+    },
+    {
+      "title": "PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation",
+      "arxiv_id": "2302.09746",
+      "doi": "10.1109/ICDE55515.2023.00150",
+      "publicationDate": "2023-02-20",
+      "year": 2023
+    },
+    {
+      "title": "Universal Guidance for Diffusion Models",
+      "arxiv_id": "2302.07121",
+      "doi": "10.1109/CVPRW59228.2023.00091",
+      "publicationDate": "2023-02-14",
+      "year": 2023
+    },
+    {
+      "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+      "arxiv_id": "2302.05543",
+      "doi": "10.1109/ICCV51070.2023.00355",
+      "publicationDate": "2023-02-10",
+      "year": 2023
+    },
+    {
+      "title": "UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models",
+      "arxiv_id": "2302.04867",
+      "doi": "10.48550/arXiv.2302.04867",
+      "publicationDate": "2023-02-09",
+      "year": 2023
+    },
+    {
+      "title": "PFGM++: Unlocking the Potential of Physics-Inspired Generative Models",
+      "arxiv_id": "2302.04265",
+      "doi": "10.48550/arXiv.2302.04265",
+      "publicationDate": "2023-02-08",
+      "year": 2023
+    },
+    {
+      "title": "MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model",
+      "arxiv_id": "2302.04355",
+      "doi": "10.48550/arXiv.2302.04355",
+      "publicationDate": "2023-02-08",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion Models for High-Resolution Solar Forecasts",
+      "arxiv_id": "2302.00170",
+      "doi": "10.48550/arXiv.2302.00170",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models",
+      "arxiv_id": "2301.13629",
+      "doi": "10.1145/3589132.3625614",
+      "publicationDate": "2023-01-31",
+      "year": 2023
+    },
+    {
+      "title": "Regular Time-series Generation using SGM",
+      "arxiv_id": "2301.08518",
+      "doi": "10.48550/arXiv.2301.08518",
+      "publicationDate": "2023-01-20",
+      "year": 2023
+    },
+    {
+      "title": "PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction",
+      "arxiv_id": "2301.07945",
+      "doi": "10.48550/arXiv.2301.07945",
+      "publicationDate": "2023-01-19",
+      "year": 2023
+    },
+    {
+      "title": "Diffusion-based Conditional ECG Generation with Structured State Space Models",
+      "arxiv_id": "2301.08227",
+      "doi": "10.48550/arXiv.2301.08227",
+      "publicationDate": "2023-01-19",
+      "year": 2023
+    },
+    {
+      "title": "A Transformer-based Diffusion Probabilistic Model for Heart Rate and Blood Pressure Forecasting in Intensive Care Unit",
+      "arxiv_id": "2301.06625",
+      "doi": "10.1016/j.cmpb.2024.108060",
+      "publicationDate": "2023-01-16",
+      "year": 2023
+    },
+    {
+      "title": "Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement",
+      "arxiv_id": "2301.03028",
+      "doi": "10.48550/arXiv.2301.03028",
+      "publicationDate": "2023-01-08",
+      "year": 2023
+    },
+    {
+      "title": "StoRM: A Diffusion-Based Stochastic Regeneration Model for Speech Enhancement and Dereverberation",
+      "arxiv_id": "2212.11851",
+      "doi": "10.1109/TASLP.2023.3294692",
+      "publicationDate": "2022-12-22",
+      "year": 2022
+    },
+    {
+      "title": "Scalable Diffusion Models with Transformers",
+      "arxiv_id": "2212.09748",
+      "doi": "10.1109/ICCV51070.2023.00387",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Latent Diffusion for Language Generation",
+      "arxiv_id": "2212.09462",
+      "doi": "10.48550/arXiv.2212.09462",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting",
+      "arxiv_id": "2212.02977",
+      "doi": "10.1109/PowerTech55446.2023.10202713",
+      "publicationDate": "2022-12-06",
+      "year": 2022
+    },
+    {
+      "title": "PhysDiff: Physics-Guided Human Motion Diffusion Model",
+      "arxiv_id": "2212.02500",
+      "doi": "10.1109/ICCV51070.2023.01467",
+      "publicationDate": "2022-12-05",
+      "year": 2022
+    },
+    {
+      "title": "3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models",
+      "arxiv_id": "2212.00842",
+      "doi": "10.48550/arXiv.2212.00842",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Why Are Conditional Generative Models Better Than Unconditional Ones?",
+      "arxiv_id": "2212.00362",
+      "doi": "10.48550/arXiv.2212.00362",
+      "publicationDate": "2022-12-01",
+      "year": 2022
+    },
+    {
+      "title": "Dimensionality-Varying Diffusion Process",
+      "arxiv_id": "2211.16032",
+      "doi": "10.1109/CVPR52729.2023.01375",
+      "publicationDate": "2022-11-29",
+      "year": 2022
+    },
+    {
+      "title": "DiffusionDet: Diffusion Model for Object Detection",
+      "arxiv_id": "2211.09788",
+      "doi": "10.1109/ICCV51070.2023.01816",
+      "publicationDate": "2022-11-17",
+      "year": 2022
+    },
+    {
+      "title": "DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models",
+      "arxiv_id": "2211.01095",
+      "doi": "10.1007/s11633-025-1562-4",
+      "publicationDate": "2022-11-02",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion models for missing value imputation in tabular data",
+      "arxiv_id": "2210.17128",
+      "doi": "10.48550/arXiv.2210.17128",
+      "publicationDate": "2022-10-31",
+      "year": 2022
+    },
+    {
+      "title": "Structure-based drug design with equivariant diffusion models",
+      "arxiv_id": "2210.13695",
+      "doi": "10.1038/s43588-024-00737-x",
+      "publicationDate": "2022-10-24",
+      "year": 2022
+    },
+    {
+      "title": "DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models",
+      "arxiv_id": "2210.08933",
+      "doi": "10.48550/arXiv.2210.08933",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "LION: Latent Point Diffusion Models for 3D Shape Generation",
+      "arxiv_id": "2210.06978",
+      "doi": "10.48550/arXiv.2210.06978",
+      "publicationDate": "2022-10-12",
+      "year": 2022
+    },
+    {
+      "title": "On Distillation of Guided Diffusion Models",
+      "arxiv_id": "2210.03142",
+      "doi": "10.1109/CVPR52729.2023.01374",
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Building Normalizing Flows with Stochastic Interpolants",
+      "arxiv_id": "2209.15571",
+      "doi": "10.48550/arXiv.2209.15571",
+      "publicationDate": "2022-09-30",
+      "year": 2022
+    },
+    {
+      "title": "Poisson Flow Generative Models",
+      "arxiv_id": "2209.11178",
+      "doi": "10.48550/arXiv.2209.11178",
+      "publicationDate": "2022-09-22",
+      "year": 2022
+    },
+    {
+      "title": "Blurring Diffusion Models",
+      "arxiv_id": "2209.05557",
+      "doi": "10.48550/arXiv.2209.05557",
+      "publicationDate": "2022-09-12",
+      "year": 2022
+    },
+    {
+      "title": "Soft Diffusion: Score Matching for General Corruptions",
+      "arxiv_id": "2209.05442",
+      "doi": "10.48550/arXiv.2209.05442",
+      "publicationDate": "2022-09-12",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Models in Vision: A Survey",
+      "arxiv_id": "2209.04747",
+      "doi": "10.1109/TPAMI.2023.3261988",
+      "publicationDate": "2022-09-10",
+      "year": 2022
+    },
+    {
+      "title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+      "arxiv_id": "2209.03003",
+      "doi": "10.48550/arXiv.2209.03003",
+      "publicationDate": "2022-09-07",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications",
+      "arxiv_id": "2209.00796",
+      "doi": "10.1145/3626235",
+      "publicationDate": "2022-09-02",
+      "year": 2022
+    },
+    {
+      "title": "MotionDiffuse: Text-Driven Human Motion Generation With Diffusion Model",
+      "arxiv_id": "2208.15001",
+      "doi": "10.1109/TPAMI.2024.3355414",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise",
+      "arxiv_id": "2208.09392",
+      "doi": "10.48550/arXiv.2208.09392",
+      "publicationDate": "2022-08-19",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models",
+      "arxiv_id": "2208.09399",
+      "doi": "10.48550/arXiv.2208.09399",
+      "publicationDate": "2022-08-19",
+      "year": 2022
+    },
+    {
+      "title": "Speech Enhancement and Dereverberation With Diffusion-Based Generative Models",
+      "arxiv_id": "2208.05830",
+      "doi": "10.1109/TASLP.2023.3285241",
+      "publicationDate": "2022-08-11",
+      "year": 2022
+    },
+    {
+      "title": "DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal",
+      "arxiv_id": "2208.00542",
+      "doi": "10.1109/JBHI.2023.3237712",
+      "publicationDate": "2022-07-31",
+      "year": 2022
+    },
+    {
+      "title": "Classifier-Free Diffusion Guidance",
+      "arxiv_id": "2207.12598",
+      "doi": "10.48550/arXiv.2207.12598",
+      "publicationDate": "2022-07-26",
+      "year": 2022
+    },
+    {
+      "title": "Deep diffusion models for seismic processing",
+      "arxiv_id": "2207.10451",
+      "doi": "10.1016/j.cageo.2023.105377",
+      "publicationDate": "2022-07-21",
+      "year": 2022
+    },
+    {
+      "title": "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
+      "arxiv_id": "2207.09983",
+      "doi": "10.1109/TASLP.2023.3268730",
+      "publicationDate": "2022-07-20",
+      "year": 2022
+    },
+    {
+      "title": "Generative Modelling With Inverse Heat Dissipation",
+      "arxiv_id": "2206.13397",
+      "doi": "10.48550/arXiv.2206.13397",
+      "publicationDate": "2022-06-21",
+      "year": 2022
+    },
+    {
+      "title": "CARD: Classification and Regression Diffusion Models",
+      "arxiv_id": "2206.07275",
+      "doi": "10.48550/arXiv.2206.07275",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "gDDIM: Generalized denoising diffusion implicit models",
+      "arxiv_id": "2206.05564",
+      "doi": "10.48550/arXiv.2206.05564",
+      "publicationDate": "2022-06-11",
+      "year": 2022
+    },
+    {
+      "title": "Universal Speech Enhancement with Score-based Diffusion",
+      "arxiv_id": "2206.03065",
+      "doi": "10.48550/arXiv.2206.03065",
+      "publicationDate": "2022-06-07",
+      "year": 2022
+    },
+    {
+      "title": "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps",
+      "arxiv_id": "2206.00927",
+      "doi": "10.48550/arXiv.2206.00927",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion-LM Improves Controllable Text Generation",
+      "arxiv_id": "2205.14217",
+      "doi": "10.48550/arXiv.2205.14217",
+      "publicationDate": "2022-05-27",
+      "year": 2022
+    },
+    {
+      "title": "Accelerating Diffusion Models via Early Stop of the Diffusion Process",
+      "arxiv_id": "2205.12524",
+      "doi": "10.48550/arXiv.2205.12524",
+      "publicationDate": "2022-05-25",
+      "year": 2022
+    },
+    {
+      "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+      "arxiv_id": "2205.11487",
+      "doi": "10.48550/arXiv.2205.11487",
+      "publicationDate": "2022-05-23",
+      "year": 2022
+    },
+    {
+      "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+      "arxiv_id": "2204.13902",
+      "doi": "10.48550/arXiv.2204.13902",
+      "publicationDate": "2022-04-29",
+      "year": 2022
+    },
+    {
+      "title": "FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis",
+      "arxiv_id": "2204.09934",
+      "doi": "10.48550/arXiv.2204.09934",
+      "publicationDate": "2022-04-21",
+      "year": 2022
+    },
+    {
+      "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+      "arxiv_id": "2204.06125",
+      "doi": "10.48550/arXiv.2204.06125",
+      "publicationDate": "2022-04-13",
+      "year": 2022
+    },
+    {
+      "title": "Video Diffusion Models",
+      "arxiv_id": "2204.03458",
+      "doi": "10.48550/arXiv.2204.03458",
+      "publicationDate": "2022-04-07",
+      "year": 2022
+    },
+    {
+      "title": "Towards End-to-End Unsupervised Speech Recognition",
+      "arxiv_id": "2204.02492",
+      "doi": "10.1109/SLT54892.2023.10023187",
+      "publicationDate": "2022-04-05",
+      "year": 2022
+    },
+    {
+      "title": "Speech Enhancement with Score-Based Generative Models in the Complex STFT Domain",
+      "arxiv_id": "2203.17004",
+      "doi": "10.48550/arXiv.2203.17004",
+      "publicationDate": "2022-03-31",
+      "year": 2022
+    },
+    {
+      "title": "AUC Maximization in the Era of Big Data and AI: A Survey",
+      "arxiv_id": "2203.15046",
+      "doi": "10.1145/3554729",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Probabilistic Modeling for Video Generation",
+      "arxiv_id": "2203.09481",
+      "doi": "10.3390/e25101469",
+      "publicationDate": "2022-03-16",
+      "year": 2022
+    },
+    {
+      "title": "Dual Diffusion Implicit Bridges for Image-to-Image Translation",
+      "arxiv_id": "2203.08382",
+      "doi": "10.48550/arXiv.2203.08382",
+      "publicationDate": "2022-03-16",
+      "year": 2022
+    },
+    {
+      "title": "Diffusion Models for Medical Anomaly Detection",
+      "arxiv_id": "2203.04306",
+      "doi": "10.48550/arXiv.2203.04306",
+      "publicationDate": "2022-03-08",
+      "year": 2022
+    },
+    {
+      "title": "GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation",
+      "arxiv_id": "2203.02923",
+      "doi": "10.48550/arXiv.2203.02923",
+      "publicationDate": "2022-03-06",
+      "year": 2022
+    },
+    {
+      "title": "Pseudo Numerical Methods for Diffusion Models on Manifolds",
+      "arxiv_id": "2202.09778",
+      "doi": null,
+      "publicationDate": "2022-02-20",
+      "year": 2022
+    },
+    {
+      "title": "It's Raw! Audio Generation with State-Space Models",
+      "arxiv_id": "2202.09729",
+      "doi": null,
+      "publicationDate": "2022-02-20",
+      "year": 2022
+    },
+    {
+      "title": "Truncated Diffusion Probabilistic Models",
+      "arxiv_id": "2202.09671",
+      "doi": null,
+      "publicationDate": "2022-02-19",
+      "year": 2022
+    },
+    {
+      "title": "Conditional Diffusion Probabilistic Model for Speech Enhancement",
+      "arxiv_id": "2202.05256",
+      "doi": "10.1109/ICASSP43922.2022.9746901",
+      "publicationDate": "2022-02-10",
+      "year": 2022
+    },
+    {
+      "title": "Time Series Anomaly Detection by Cumulative Radon Features",
+      "arxiv_id": "2202.04067",
+      "doi": null,
+      "publicationDate": "2022-02-08",
+      "year": 2022
+    },
+    {
+      "title": "Denoising Diffusion Restoration Models",
+      "arxiv_id": "2201.11793",
+      "doi": "10.52202/068431-1714",
+      "publicationDate": "2022-01-27",
+      "year": 2022
+    },
+    {
+      "title": "RePaint: Inpainting using Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2201.09865",
+      "doi": "10.1109/CVPR52688.2022.01117",
+      "publicationDate": "2022-01-24",
+      "year": 2022
+    },
+    {
+      "title": "DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents",
+      "arxiv_id": "2201.00308",
+      "doi": null,
+      "publicationDate": "2022-01-02",
+      "year": 2022
+    },
+    {
+      "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+      "arxiv_id": "2112.10752",
+      "doi": "10.1109/CVPR52688.2022.01042",
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+      "arxiv_id": "2112.10741",
+      "doi": null,
+      "publicationDate": "2021-12-20",
+      "year": 2021
+    },
+    {
+      "title": "Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction",
+      "arxiv_id": "2112.05146",
+      "doi": "10.1109/CVPR52688.2022.01209",
+      "publicationDate": "2021-12-09",
+      "year": 2021
+    },
+    {
+      "title": "Label-Efficient Semantic Segmentation with Diffusion Models",
+      "arxiv_id": "2112.03126",
+      "doi": null,
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "Diffusion Models for Implicit Image Segmentation Ensembles",
+      "arxiv_id": "2112.03145",
+      "doi": null,
+      "publicationDate": "2021-12-06",
+      "year": 2021
+    },
+    {
+      "title": "Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation",
+      "arxiv_id": "2112.01799",
+      "doi": "10.1109/CVPR52688.2022.01121",
+      "publicationDate": "2021-12-03",
+      "year": 2021
+    },
+    {
+      "title": "SegDiff: Image Segmentation with Diffusion Probabilistic Models",
+      "arxiv_id": "2112.00390",
+      "doi": null,
+      "publicationDate": "2021-12-01",
+      "year": 2021
+    },
+    {
+      "title": "Vector Quantized Diffusion Model for Text-to-Image Synthesis",
+      "arxiv_id": "2111.14822",
+      "doi": "10.1109/CVPR52688.2022.01043",
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "Swin Transformer V2: Scaling Up Capacity and Resolution",
+      "arxiv_id": "2111.09883",
+      "doi": "10.1109/CVPR52688.2022.01170",
+      "publicationDate": "2021-11-18",
+      "year": 2021
+    },
+    {
+      "title": "Palette: Image-to-Image Diffusion Models",
+      "arxiv_id": "2111.05826",
+      "doi": "10.1145/3528233.3530757",
+      "publicationDate": "2021-11-10",
+      "year": 2021
+    },
+    {
+      "title": "Anomaly Detection in Multi-Agent Trajectories for Automated Driving",
+      "arxiv_id": "2110.07922",
+      "doi": null,
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2108.02938",
+      "doi": "10.1109/iccv48922.2021.01410",
+      "publicationDate": "2021-08-06",
+      "year": 2021
+    },
+    {
+      "title": "Modeling Trajectories with Neural Ordinary Differential Equations",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/207",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+      "arxiv_id": "2107.03006",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+      "arxiv_id": "2107.03502",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Variational Diffusion Models",
+      "arxiv_id": "2107.00630",
+      "doi": null,
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models",
+      "arxiv_id": "2106.10121",
+      "doi": null,
+      "publicationDate": "2021-06-18",
+      "year": 2021
+    },
+    {
+      "title": "Score-based Generative Modeling in Latent Space",
+      "arxiv_id": "2106.05931",
+      "doi": null,
+      "publicationDate": "2021-06-10",
+      "year": 2021
+    },
+    {
+      "title": "Learning to Efficiently Sample from Diffusion Probabilistic Models",
+      "arxiv_id": "2106.03802",
+      "doi": null,
+      "publicationDate": "2021-06-07",
+      "year": 2021
+    },
+    {
+      "title": "A Variational Perspective on Diffusion-Based Generative Models and Score Matching",
+      "arxiv_id": "2106.02808",
+      "doi": null,
+      "publicationDate": "2021-06-05",
+      "year": 2021
+    },
+    {
+      "title": "On Fast Sampling of Diffusion Probabilistic Models",
+      "arxiv_id": "2106.00132",
+      "doi": null,
+      "publicationDate": "2021-05-31",
+      "year": 2021
+    },
+    {
+      "title": "Gotta Go Fast When Generating Data with Score-Based Models",
+      "arxiv_id": "2105.14080",
+      "doi": null,
+      "publicationDate": "2021-05-28",
+      "year": 2021
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis",
+      "arxiv_id": "2105.05233",
+      "doi": null,
+      "publicationDate": "2021-05-11",
+      "year": 2021
+    },
+    {
+      "title": "Fine-Grained Urban Flow Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3442381.3449792",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Image Super-Resolution via Iterative Refinement",
+      "arxiv_id": "2104.07636",
+      "doi": "10.1109/TPAMI.2022.3204461",
+      "publicationDate": "2021-04-15",
+      "year": 2021
+    },
+    {
+      "title": "Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition",
+      "arxiv_id": null,
+      "doi": "10.1109/TCDS.2021.3071170",
+      "publicationDate": "2021-04-05",
+      "year": 2021
+    },
+    {
+      "title": "Improved Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2102.09672",
+      "doi": null,
+      "publicationDate": "2021-02-18",
+      "year": 2021
+    },
+    {
+      "title": "Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions",
+      "arxiv_id": "2102.05379",
+      "doi": null,
+      "publicationDate": "2021-02-10",
+      "year": 2021
+    },
+    {
+      "title": "On Generative Spoken Language Modeling from Raw Audio",
+      "arxiv_id": "2102.01192",
+      "doi": "10.1162/tacl_a_00430",
+      "publicationDate": "2021-02-01",
+      "year": 2021
+    },
+    {
+      "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting",
+      "arxiv_id": "2101.12072",
+      "doi": null,
+      "publicationDate": "2021-01-28",
+      "year": 2021
+    },
+    {
+      "title": "Maximum Likelihood Training of Score-Based Diffusion Models",
+      "arxiv_id": "2101.09258",
+      "doi": null,
+      "publicationDate": "2021-01-22",
+      "year": 2021
+    },
+    {
+      "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+      "arxiv_id": "2011.13456",
+      "doi": null,
+      "publicationDate": "2020-11-26",
+      "year": 2020
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Implicit Models",
+      "arxiv_id": "2010.02502",
+      "doi": null,
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+      "arxiv_id": "2009.09761",
+      "doi": null,
+      "publicationDate": "2020-09-21",
+      "year": 2020
+    },
+    {
+      "title": "WaveGrad: Estimating Gradients for Waveform Generation",
+      "arxiv_id": "2009.00713",
+      "doi": null,
+      "publicationDate": "2020-09-02",
+      "year": 2020
+    },
+    {
+      "title": "Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser",
+      "arxiv_id": "2007.13640",
+      "doi": null,
+      "publicationDate": "2020-07-27",
+      "year": 2020
+    },
+    {
+      "title": "Denoising Diffusion Probabilistic Models",
+      "arxiv_id": "2006.11239",
+      "doi": null,
+      "publicationDate": "2020-06-19",
+      "year": 2020
+    },
+    {
+      "title": "The ERA5 global reanalysis",
+      "arxiv_id": null,
+      "doi": "10.1002/qj.3803",
+      "publicationDate": "2020-06-15",
+      "year": 2020
+    },
+    {
+      "title": "Decision-Making with Auto-Encoding Variational Bayes",
+      "arxiv_id": "2002.07217",
+      "doi": null,
+      "publicationDate": "2020-02-17",
+      "year": 2020
+    },
+    {
+      "title": "IPSL-CM5A2 – an Earth system model designed for multi-millennial climate simulations",
+      "arxiv_id": null,
+      "doi": "10.5194/gmd-2019-332",
+      "publicationDate": "2019-12-09",
+      "year": 2019
+    },
+    {
+      "title": "Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V33I01.3301922",
+      "publicationDate": "2019-07-17",
+      "year": 2019
+    },
+    {
+      "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+      "arxiv_id": "1907.05600",
+      "doi": null,
+      "publicationDate": "2019-07-12",
+      "year": 2019
+    },
+    {
+      "title": "ACN-Data: Analysis and Applications of an Open EV Charging Dataset",
+      "arxiv_id": null,
+      "doi": "10.1145/3307772.3328313",
+      "publicationDate": "2019-06-15",
+      "year": 2019
+    },
+    {
+      "title": "Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks",
+      "arxiv_id": "1903.07789",
+      "doi": "10.1109/TKDE.2020.3008774",
+      "publicationDate": "2019-03-19",
+      "year": 2019
+    },
+    {
+      "title": "The National Sleep Research Resource: towards a sleep data commons",
+      "arxiv_id": null,
+      "doi": "10.1093/jamia/ocy064",
+      "publicationDate": "2018-05-31",
+      "year": 2018
+    },
+    {
+      "title": "Adversarial Audio Synthesis",
+      "arxiv_id": "1802.04208",
+      "doi": null,
+      "publicationDate": "2018-02-12",
+      "year": 2018
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Multitask learning and benchmarking with clinical time series data",
+      "arxiv_id": "1703.07771",
+      "doi": "10.1038/s41597-019-0103-9",
+      "publicationDate": "2017-03-22",
+      "year": 2017
+    },
+    {
+      "title": "Probabilistic energy forecasting: Global Energy Forecasting Competition 2014 and beyond",
+      "arxiv_id": null,
+      "doi": "10.1016/J.IJFORECAST.2016.02.001",
+      "publicationDate": "2016-07-01",
+      "year": 2016
+    },
+    {
+      "title": "The MovieLens Datasets: History and Context",
+      "arxiv_id": null,
+      "doi": "10.1145/2827872",
+      "publicationDate": "2016-01-07",
+      "year": 2016
+    },
+    {
+      "title": "The truncated Euler-Maruyama method for stochastic differential equations",
+      "arxiv_id": null,
+      "doi": "10.1016/j.cam.2015.06.002",
+      "publicationDate": "2015-12-15",
+      "year": 2015
+    },
+    {
+      "title": "Variational Inference with Normalizing Flows",
+      "arxiv_id": "1505.05770",
+      "doi": null,
+      "publicationDate": "2015-05-21",
+      "year": 2015
+    },
+    {
+      "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+      "arxiv_id": "1505.04597",
+      "doi": "10.1007/978-3-319-24574-4_28",
+      "publicationDate": "2015-05-18",
+      "year": 2015
+    },
+    {
+      "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+      "arxiv_id": "1503.03585",
+      "doi": null,
+      "publicationDate": "2015-03-11",
+      "year": 2015
+    },
+    {
+      "title": "Mean field forward-backward stochastic differential equations",
+      "arxiv_id": "1211.4186",
+      "doi": "10.1214/ECP.V18-2446",
+      "publicationDate": "2012-11-18",
+      "year": 2012
+    },
+    {
+      "title": "A Connection Between Score Matching and Denoising Autoencoders",
+      "arxiv_id": null,
+      "doi": "10.1162/NECO_a_00142",
+      "publicationDate": "2011-07-01",
+      "year": 2011
+    },
+    {
+      "title": "Matching",
+      "arxiv_id": null,
+      "doi": "10.1136/bmj.b4581",
+      "publicationDate": "2009-11-11",
+      "year": 2009
+    },
+    {
+      "title": "The impact of the MIT-BIH Arrhythmia Database",
+      "arxiv_id": null,
+      "doi": "10.1109/51.932724",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Waveform recognition with 10,000 ECGs",
+      "arxiv_id": null,
+      "doi": "10.1109/CIC.2000.898524",
+      "publicationDate": "2000-09-24",
+      "year": 2000
+    },
+    {
+      "title": "Analysis of a sleep-dependent neuronal feedback loop: the slow-wave microcontinuity of the EEG",
+      "arxiv_id": null,
+      "doi": "10.1109/10.867928",
+      "publicationDate": "2000-09-01",
+      "year": 2000
+    },
+    {
+      "title": "A database for evaluation of algorithms for measurement of QT and other waveform intervals in the ECG",
+      "arxiv_id": null,
+      "doi": "10.1109/CIC.1997.648140",
+      "publicationDate": "1997-09-07",
+      "year": 1997
+    },
+    {
+      "title": "Equilibrium free-energy differences from nonequilibrium measurements: A master-equation approach",
+      "arxiv_id": "cond-mat/9707325",
+      "doi": "10.1103/PhysRevE.56.5018",
+      "publicationDate": "1997-07-30",
+      "year": 1997
+    },
+    {
+      "title": "The MIT-BIH Arrhythmia Database on CD-ROM and software for use with it",
+      "arxiv_id": null,
+      "doi": "10.1109/CIC.1990.144205",
+      "publicationDate": "1990-09-23",
+      "year": 1990
+    },
+    {
+      "title": "Reverse-time diffusion equation models",
+      "arxiv_id": null,
+      "doi": "10.1016/0304-4149(82)90051-5",
+      "publicationDate": "1982-05-01",
+      "year": 1982
+    },
+    {
+      "title": "Denoising diffusion implicit model for bearing fault diagnosis under different working loads",
+      "arxiv_id": null,
+      "doi": "10.1051/itmconf/20246301025",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/TIM.2024.3375973",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Risk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.02081",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "TDSTF: Transformer-based Diffusion probabilistic model for Sparse Time series Forecasting",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2301.06625",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "DOSE: Diffusion Dropout with Adaptive Prior for Speech Enhancement",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-1750",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2312.04346",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Generative AI Enables the Detection of Autism Using EEG Signals",
+      "arxiv_id": null,
+      "doi": "10.1007/978-981-99-8565-4_35",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Applying Generative Models and Transfer Learning to Physiological Data Classification",
+      "arxiv_id": null,
+      "doi": "10.3233/FAIA230656",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection",
+      "arxiv_id": null,
+      "doi": "10.52202/075280-0473",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2305.16943",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Graph-Aware Diffusion Modeling for Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2311.08744",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Modeling Temporal Data as Continuous Functions with Process Diffusion",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2211.02590",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Quasi-Conservative Score-based Generative Models",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2209.12753",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+      "arxiv_id": "2103.14030",
+      "doi": "10.1109/ICCV48922.2021.00986",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "PFST-LSTM: A SpatioTemporal LSTM Model With Pseudoflow Prediction for Precipitation Nowcasting",
+      "arxiv_id": null,
+      "doi": "10.1109/JSTARS.2020.3040648",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Minirocket:Averyfast(almost)deterministictransformfortimeseriesclassification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "International Conference on Medical Imaging with Deep Learning, MIDL 2019, 8-10 July 2019, London, United Kingdom",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "GENERATIVE ADVERSARIAL NETS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "“The lj speech dataset,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Low carbon london project: Data from the dynamic time-of-use electricity pricing trial, 2013,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Synthetic Sleep EEG Signal Generation using Latent Diffusion Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "WiREDiff: a Wind Resolution-Enhancing Diffusion Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Manuscript submitted to",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. TSI-bench: Benchmarking time series imputation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 29 October 2024; revised 21 October 2025; accepted 23 November 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Deep learning for trajectory data management and mining: A survey and beyond,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "“Position paper: What can large language models tell us about time series analysis,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. I 2 SB: Image-to-image Schrödinger bridge",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. MEDiC: Mitigating EEG data scarcity via class-conditioned diffusion model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Conditional Diffusion Models as Self-supervised Learning Backbone for Irregular Time Series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

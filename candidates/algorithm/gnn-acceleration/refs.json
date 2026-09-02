@@ -1,0 +1,1353 @@
+{
+  "candidate": {
+    "topic": "Graph Neural Network Acceleration: Algorithms, Systems, Hardware",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3805796",
+      "title": "A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware",
+      "published": "2026-04-25"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=188"
+  },
+  "extracted_at": "2026-09-02T02:30:04+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 188,
+    "arxiv_resolvable": 124,
+    "doi_only": 49,
+    "unresolved": 15
+  },
+  "gt_s2": {
+    "paperId": "894d61c709ec6f61899703458d90b09c663d7b11",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2306-14052",
+      "ArXiv": "2306.14052",
+      "DOI": "10.1145/3805796",
+      "CorpusId": 259251914
+    },
+    "title": "A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware",
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "referenceCount": 188,
+    "publicationDate": "2023-06-24"
+  },
+  "refs": [
+    {
+      "title": "PyGim : An Efficient Graph Neural Network Library for Real Processing-In-Memory Architectures",
+      "arxiv_id": "2402.16731",
+      "doi": "10.1145/3700434",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "FARe: Fault-Aware GNN Training on ReRAM-Based PIM Accelerators",
+      "arxiv_id": "2401.10522",
+      "doi": "10.48550/arXiv.2401.10522",
+      "publicationDate": "2024-01-19",
+      "year": 2024
+    },
+    {
+      "title": "MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training",
+      "arxiv_id": "2312.08656",
+      "doi": "10.1145/3620665.3640426",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3600006.3613168",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "DSP: Efficient GNN Training with Multiple GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3572848.3577528",
+      "publicationDate": "2023-02-25",
+      "year": 2023
+    },
+    {
+      "title": "Distributed Graph Neural Network Training: A Survey",
+      "arxiv_id": "2211.00216",
+      "doi": "10.1145/3648358",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Linkless Link Prediction via Relational Distillation",
+      "arxiv_id": "2210.05801",
+      "doi": "10.48550/arXiv.2210.05801",
+      "publicationDate": "2022-10-11",
+      "year": 2022
+    },
+    {
+      "title": "CoDG-ReRAM: An Algorithm-Hardware Co-design to Accelerate Semi-Structured GNNs on ReRAM",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCD56317.2022.00049",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning",
+      "arxiv_id": "2207.04606",
+      "doi": "10.1145/3582016.3582047",
+      "publicationDate": "2022-07-11",
+      "year": 2022
+    },
+    {
+      "title": "TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU",
+      "arxiv_id": null,
+      "doi": "10.1145/3502181.3531467",
+      "publicationDate": "2022-06-27",
+      "year": 2022
+    },
+    {
+      "title": "Condensing Graphs via One-Step Gradient Matching",
+      "arxiv_id": "2206.07746",
+      "doi": "10.1145/3534678.3539429",
+      "publicationDate": "2022-06-15",
+      "year": 2022
+    },
+    {
+      "title": "GraphFM: Improving Large-Scale GNN Training via Feature Momentum",
+      "arxiv_id": "2206.07161",
+      "doi": "10.48550/arXiv.2206.07161",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.14778/3538598.3538614",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/CICC53496.2022.9772832",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "TGL: A General Framework for Temporal GNN Training onBillion-Scale Graphs",
+      "arxiv_id": "2203.14883",
+      "doi": "10.14778/3529337.3529342",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "GNNLab: a factored system for sample-based GNN training over GPUs",
+      "arxiv_id": null,
+      "doi": "10.1145/3492321.3519557",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment",
+      "arxiv_id": "2203.14987",
+      "doi": "10.48550/arXiv.2203.14987",
+      "publicationDate": "2022-03-28",
+      "year": 2022
+    },
+    {
+      "title": "BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling",
+      "arxiv_id": "2203.10983",
+      "doi": "10.48550/arXiv.2203.10983",
+      "publicationDate": "2022-03-21",
+      "year": 2022
+    },
+    {
+      "title": "PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication",
+      "arxiv_id": "2203.10428",
+      "doi": "10.48550/arXiv.2203.10428",
+      "publicationDate": "2022-03-20",
+      "year": 2022
+    },
+    {
+      "title": "Automated Accelerator Optimization Aided by Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3489517.3530409",
+      "publicationDate": "2022-02-11",
+      "year": 2022
+    },
+    {
+      "title": "MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks",
+      "arxiv_id": "2202.02365",
+      "doi": "10.1145/3552326.3567501",
+      "publicationDate": "2022-02-04",
+      "year": 2022
+    },
+    {
+      "title": "Decoupling the Depth and Scope of Graph Neural Networks",
+      "arxiv_id": "2201.07858",
+      "doi": null,
+      "publicationDate": "2022-01-19",
+      "year": 2022
+    },
+    {
+      "title": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs",
+      "arxiv_id": "2112.15345",
+      "doi": "10.1145/3534678.3539177",
+      "publicationDate": "2021-12-31",
+      "year": 2021
+    },
+    {
+      "title": "GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design",
+      "arxiv_id": "2112.11594",
+      "doi": "10.1109/HPCA53966.2022.00041",
+      "publicationDate": "2021-12-22",
+      "year": 2021
+    },
+    {
+      "title": "BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing",
+      "arxiv_id": "2112.08541",
+      "doi": null,
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "Deep Molecular Representation Learning via Fusing Physical and Chemical Information",
+      "arxiv_id": "2112.04624",
+      "doi": null,
+      "publicationDate": "2021-11-28",
+      "year": 2021
+    },
+    {
+      "title": "Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks",
+      "arxiv_id": "2111.08202",
+      "doi": null,
+      "publicationDate": "2021-11-16",
+      "year": 2021
+    },
+    {
+      "title": "Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs",
+      "arxiv_id": "2111.06483",
+      "doi": null,
+      "publicationDate": "2021-11-11",
+      "year": 2021
+    },
+    {
+      "title": "Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods",
+      "arxiv_id": "2111.04840",
+      "doi": null,
+      "publicationDate": "2021-11-08",
+      "year": 2021
+    },
+    {
+      "title": "GNNear: Accelerating Full-Batch Training of Graph Neural Networks with near-Memory Processing",
+      "arxiv_id": "2111.00680",
+      "doi": "10.1145/3559009.3569670",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation",
+      "arxiv_id": "2110.15114",
+      "doi": "10.1145/3459637.3482291",
+      "publicationDate": "2021-10-26",
+      "year": 2021
+    },
+    {
+      "title": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective",
+      "arxiv_id": "2110.09524",
+      "doi": null,
+      "publicationDate": "2021-10-18",
+      "year": 2021
+    },
+    {
+      "title": "Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation",
+      "arxiv_id": "2110.08727",
+      "doi": null,
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization",
+      "arxiv_id": "2203.03606",
+      "doi": "10.1145/3466752.3480113",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining",
+      "arxiv_id": "2110.08450",
+      "doi": null,
+      "publicationDate": "2021-10-16",
+      "year": 2021
+    },
+    {
+      "title": "Graph Condensation for Graph Neural Networks",
+      "arxiv_id": "2110.07580",
+      "doi": null,
+      "publicationDate": "2021-10-14",
+      "year": 2021
+    },
+    {
+      "title": "Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication",
+      "arxiv_id": "2109.11081",
+      "doi": "10.1145/3490422.3502357",
+      "publicationDate": "2021-09-22",
+      "year": 2021
+    },
+    {
+      "title": "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency",
+      "arxiv_id": "2109.08983",
+      "doi": "10.1109/ICCAD51958.2021.9643549",
+      "publicationDate": "2021-09-18",
+      "year": 2021
+    },
+    {
+      "title": "ETA Prediction with Graph Neural Networks in Google Maps",
+      "arxiv_id": "2108.11482",
+      "doi": "10.1145/3459637.3481916",
+      "publicationDate": "2021-08-25",
+      "year": 2021
+    },
+    {
+      "title": "HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467429",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Coupled Graph ODE for Learning Interacting System Dynamics",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467385",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/455",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "A White Paper on Neural Network Quantization",
+      "arxiv_id": "2106.08295",
+      "doi": null,
+      "publicationDate": "2021-06-15",
+      "year": 2021
+    },
+    {
+      "title": "Training Graph Neural Networks with 1000 Layers",
+      "arxiv_id": "2106.07476",
+      "doi": null,
+      "publicationDate": "2021-06-14",
+      "year": 2021
+    },
+    {
+      "title": "Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs",
+      "arxiv_id": "2106.06150",
+      "doi": "10.1145/3447548.3467437",
+      "publicationDate": "2021-06-11",
+      "year": 2021
+    },
+    {
+      "title": "GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings",
+      "arxiv_id": "2106.05609",
+      "doi": null,
+      "publicationDate": "2021-06-10",
+      "year": 2021
+    },
+    {
+      "title": "Scaling Up Graph Neural Networks Via Graph Coarsening",
+      "arxiv_id": "2106.05150",
+      "doi": "10.1145/3447548.3467256",
+      "publicationDate": "2021-06-09",
+      "year": 2021
+    },
+    {
+      "title": "DyDiff-VAE: A Dynamic Variational Framework for Information Diffusion Prediction",
+      "arxiv_id": "2106.03251",
+      "doi": "10.1145/3404835.3462934",
+      "publicationDate": "2021-06-06",
+      "year": 2021
+    },
+    {
+      "title": "A graph placement methodology for fast chip design",
+      "arxiv_id": null,
+      "doi": "10.1038/s41586-021-03544-w",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA52012.2021.00013",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "NAAS: Neural Accelerator Architecture Search",
+      "arxiv_id": "2105.13258",
+      "doi": "10.1109/dac18074.2021.9586250",
+      "publicationDate": "2021-05-27",
+      "year": 2021
+    },
+    {
+      "title": "Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads",
+      "arxiv_id": "2105.11118",
+      "doi": null,
+      "publicationDate": "2021-05-24",
+      "year": 2021
+    },
+    {
+      "title": "Graph-Free Knowledge Distillation for Graph Neural Networks",
+      "arxiv_id": "2105.07519",
+      "doi": "10.24963/ijcai.2021/320",
+      "publicationDate": "2021-05-16",
+      "year": 2021
+    },
+    {
+      "title": "Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training",
+      "arxiv_id": null,
+      "doi": "10.1109/TCAD.2021.3079142",
+      "publicationDate": "2021-05-11",
+      "year": 2021
+    },
+    {
+      "title": "Accelerating Large Scale Real-Time GNN Inference using Channel Pruning",
+      "arxiv_id": "2105.04528",
+      "doi": "10.14778/3461535.3461547",
+      "publicationDate": "2021-05-10",
+      "year": 2021
+    },
+    {
+      "title": "Scalable Graph Neural Network Training",
+      "arxiv_id": "2105.02315",
+      "doi": "10.1145/3469379.3469387",
+      "publicationDate": "2021-05-05",
+      "year": 2021
+    },
+    {
+      "title": "Seastar: vertex-centric programming for graph neural networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3447786.3456247",
+      "publicationDate": "2021-04-21",
+      "year": 2021
+    },
+    {
+      "title": "BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices",
+      "arxiv_id": "2104.06214",
+      "doi": "10.1109/dac18074.2021.9586181",
+      "publicationDate": "2021-04-13",
+      "year": 2021
+    },
+    {
+      "title": "OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs",
+      "arxiv_id": "2103.09430",
+      "doi": null,
+      "publicationDate": "2021-03-17",
+      "year": 2021
+    },
+    {
+      "title": "Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey",
+      "arxiv_id": "2103.05872",
+      "doi": "10.1109/JAS.2021.1004311",
+      "publicationDate": "2021-03-10",
+      "year": 2021
+    },
+    {
+      "title": "Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework",
+      "arxiv_id": "2103.02885",
+      "doi": "10.1145/3442381.3450068",
+      "publicationDate": "2021-03-04",
+      "year": 2021
+    },
+    {
+      "title": "Early-Bird GCNs: Graph-Network Co-optimization towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets",
+      "arxiv_id": "2103.00794",
+      "doi": "10.1609/aaai.v36i8.20873",
+      "publicationDate": "2021-03-01",
+      "year": 2021
+    },
+    {
+      "title": "BoostGCN: A Framework for Optimizing GCN Inference on FPGA",
+      "arxiv_id": null,
+      "doi": "10.1109/FCCM51124.2021.00012",
+      "publicationDate": "2021-02-17",
+      "year": 2021
+    },
+    {
+      "title": "AutoSA: A Polyhedral Compiler for High-Performance Systolic Arrays on FPGA",
+      "arxiv_id": null,
+      "doi": "10.1145/3431920.3439292",
+      "publicationDate": "2021-02-17",
+      "year": 2021
+    },
+    {
+      "title": "A Unified Lottery Ticket Hypothesis for Graph Neural Networks",
+      "arxiv_id": "2102.06790",
+      "doi": null,
+      "publicationDate": "2021-02-12",
+      "year": 2021
+    },
+    {
+      "title": "Graph Coarsening with Neural Networks",
+      "arxiv_id": "2102.01350",
+      "doi": null,
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Graph Neural Network for Traffic Forecasting: A Survey",
+      "arxiv_id": "2101.11174",
+      "doi": "10.1016/j.eswa.2022.117921",
+      "publicationDate": "2021-01-27",
+      "year": 2021
+    },
+    {
+      "title": "Learning Massive Graph Embeddings on a Single Machine",
+      "arxiv_id": "2101.08358",
+      "doi": null,
+      "publicationDate": "2021-01-21",
+      "year": 2021
+    },
+    {
+      "title": "Binary Graph Neural Networks",
+      "arxiv_id": "2012.15823",
+      "doi": "10.1109/CVPR46437.2021.00937",
+      "publicationDate": "2020-12-31",
+      "year": 2020
+    },
+    {
+      "title": "Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations",
+      "arxiv_id": "2011.03880",
+      "doi": null,
+      "publicationDate": "2020-11-08",
+      "year": 2020
+    },
+    {
+      "title": "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks",
+      "arxiv_id": "2011.06391",
+      "doi": "10.1109/IPDPS49936.2021.00034",
+      "publicationDate": "2020-11-07",
+      "year": 2020
+    },
+    {
+      "title": "Graph Neural Networks in Recommender Systems: A Survey",
+      "arxiv_id": "2011.02260",
+      "doi": "10.1145/3535101",
+      "publicationDate": "2020-11-04",
+      "year": 2020
+    },
+    {
+      "title": "On Self-Distilling Graph Neural Network",
+      "arxiv_id": "2011.02255",
+      "doi": "10.24963/ijcai.2021/314",
+      "publicationDate": "2020-11-04",
+      "year": 2020
+    },
+    {
+      "title": "fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU",
+      "arxiv_id": null,
+      "doi": "10.1145/3400302.3415610",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "DeepBurning-GL: an Automated Framework for Generating Graph Neural Network Accelerators",
+      "arxiv_id": null,
+      "doi": "10.1145/3400302.3415645",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "PaGraph: Scaling GNN training on large graphs via computation-aware caching",
+      "arxiv_id": null,
+      "doi": "10.1145/3419111.3421281",
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs",
+      "arxiv_id": "2010.05337",
+      "doi": "10.1109/IA351965.2020.00011",
+      "publicationDate": "2020-10-11",
+      "year": 2020
+    },
+    {
+      "title": "Directional Graph Networks",
+      "arxiv_id": "2010.02863",
+      "doi": null,
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "Accurate, Efficient and Scalable Training of Graph Neural Networks",
+      "arxiv_id": "2010.03166",
+      "doi": "10.1016/j.jpdc.2020.08.011",
+      "publicationDate": "2020-10-05",
+      "year": 2020
+    },
+    {
+      "title": "MatRaptor: A Sparse-Sparse Matrix Multiplication Accelerator Based on Row-Wise Product",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO50266.2020.00068",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "Newton: A DRAM-maker’s Accelerator-in-Memory (AiM) Architecture for Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO50266.2020.00040",
+      "publicationDate": "2020-10-01",
+      "year": 2020
+    },
+    {
+      "title": "Computing Graph Neural Networks: A Survey from Algorithms to Accelerators",
+      "arxiv_id": "2010.00130",
+      "doi": "10.1145/3477141",
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "AutoDSE: Enabling Software Programmers to Design Efficient FPGA Accelerators",
+      "arxiv_id": "2009.14381",
+      "doi": "10.1145/3494534",
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models",
+      "arxiv_id": null,
+      "doi": "10.1186/s13321-020-00479-8",
+      "publicationDate": "2020-09-21",
+      "year": 2020
+    },
+    {
+      "title": "Learned Low Precision Graph Neural Networks",
+      "arxiv_id": "2009.09232",
+      "doi": null,
+      "publicationDate": "2020-09-19",
+      "year": 2020
+    },
+    {
+      "title": "FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems",
+      "arxiv_id": "2008.11359",
+      "doi": "10.1109/SC41405.2020.00075",
+      "publicationDate": "2020-08-26",
+      "year": 2020
+    },
+    {
+      "title": "Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters",
+      "arxiv_id": "2008.08692",
+      "doi": "10.1145/3340531.3411903",
+      "publicationDate": "2020-08-19",
+      "year": 2020
+    },
+    {
+      "title": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks",
+      "arxiv_id": "2008.05000",
+      "doi": null,
+      "publicationDate": "2020-08-11",
+      "year": 2020
+    },
+    {
+      "title": "Robust Graph Representation Learning via Neural Sparsification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-07-12",
+      "year": 2020
+    },
+    {
+      "title": "SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization",
+      "arxiv_id": "2007.05100",
+      "doi": "10.1109/ICTAI50040.2020.00198",
+      "publicationDate": "2020-07-09",
+      "year": 2020
+    },
+    {
+      "title": "CompactETA: A Fast Inference System for Travel Time Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403386",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Redundancy-Free Computation for Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403142",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "TinyGNN: Learning Efficient Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403236",
+      "publicationDate": "2020-07-06",
+      "year": 2020
+    },
+    {
+      "title": "Simple and Deep Graph Convolutional Networks",
+      "arxiv_id": "2007.02133",
+      "doi": null,
+      "publicationDate": "2020-07-04",
+      "year": 2020
+    },
+    {
+      "title": "Hardware Acceleration of Large Scale GCN Inference",
+      "arxiv_id": null,
+      "doi": "10.1109/ASAP49362.2020.00019",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Network Representation Learning",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2020/677",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks",
+      "arxiv_id": "2006.13866",
+      "doi": "10.1145/3394486.3403192",
+      "publicationDate": "2020-06-24",
+      "year": 2020
+    },
+    {
+      "title": "GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs",
+      "arxiv_id": "2006.06608",
+      "doi": null,
+      "publicationDate": "2020-06-11",
+      "year": 2020
+    },
+    {
+      "title": "Bandit Samplers for Training Graph Neural Networks",
+      "arxiv_id": "2006.05806",
+      "doi": null,
+      "publicationDate": "2020-06-10",
+      "year": 2020
+    },
+    {
+      "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
+      "arxiv_id": "2006.05205",
+      "doi": null,
+      "publicationDate": "2020-06-09",
+      "year": 2020
+    },
+    {
+      "title": "Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks",
+      "arxiv_id": "2005.11650",
+      "doi": "10.1145/3394486.3403118",
+      "publicationDate": "2020-05-24",
+      "year": 2020
+    },
+    {
+      "title": "Reducing Communication in Graph Neural Network Training",
+      "arxiv_id": "2005.03300",
+      "doi": "10.1109/SC41405.2020.00074",
+      "publicationDate": "2020-05-07",
+      "year": 2020
+    },
+    {
+      "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+      "arxiv_id": "2005.00687",
+      "doi": null,
+      "publicationDate": "2020-05-02",
+      "year": 2020
+    },
+    {
+      "title": "PCGCN: Partition-Centric Processing for Accelerating Graph Convolutional Network",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS47924.2020.00100",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Weakly Supervised Attention for Hashtag Recommendation using Graph Data",
+      "arxiv_id": null,
+      "doi": "10.1145/3366423.3380182",
+      "publicationDate": "2020-04-19",
+      "year": 2020
+    },
+    {
+      "title": "SGCN: A Graph Sparsifier Based on Graph Convolutional Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-47426-3_22",
+      "publicationDate": "2020-04-17",
+      "year": 2020
+    },
+    {
+      "title": "Principal Neighbourhood Aggregation for Graph Nets",
+      "arxiv_id": "2004.05718",
+      "doi": null,
+      "publicationDate": "2020-04-12",
+      "year": 2020
+    },
+    {
+      "title": "Distilling Knowledge From Graph Convolutional Networks",
+      "arxiv_id": "2003.10477",
+      "doi": "10.1109/CVPR42600.2020.00710",
+      "publicationDate": "2020-03-23",
+      "year": 2020
+    },
+    {
+      "title": "Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-03-15",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Graph Transformer",
+      "arxiv_id": "2003.01332",
+      "doi": "10.1145/3366423.3380027",
+      "publicationDate": "2020-03-03",
+      "year": 2020
+    },
+    {
+      "title": "End-to-End Optimization of Deep Learning Applications",
+      "arxiv_id": null,
+      "doi": "10.1145/3373087.3375321",
+      "publicationDate": "2020-02-23",
+      "year": 2020
+    },
+    {
+      "title": "Learning to Simulate Complex Physics with Graph Networks",
+      "arxiv_id": "2002.09405",
+      "doi": null,
+      "publicationDate": "2020-02-21",
+      "year": 2020
+    },
+    {
+      "title": "Ripple Walk Training: A Subgraph-based Training Framework for Large and Deep Graph Neural Network",
+      "arxiv_id": "2002.07206",
+      "doi": "10.1109/IJCNN52387.2021.9533429",
+      "publicationDate": "2020-02-17",
+      "year": 2020
+    },
+    {
+      "title": "HyGCN: A GCN Accelerator with Hybrid Architecture",
+      "arxiv_id": "2001.02514",
+      "doi": "10.1109/HPCA47549.2020.00012",
+      "publicationDate": "2020-01-07",
+      "year": 2020
+    },
+    {
+      "title": "GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms",
+      "arxiv_id": "2001.02498",
+      "doi": "10.1145/3373087.3375312",
+      "publicationDate": "2019-12-31",
+      "year": 2019
+    },
+    {
+      "title": "Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks",
+      "arxiv_id": "1911.07323",
+      "doi": null,
+      "publicationDate": "2019-11-17",
+      "year": 2019
+    },
+    {
+      "title": "Self-Training With Noisy Student Improves ImageNet Classification",
+      "arxiv_id": "1911.04252",
+      "doi": "10.1109/cvpr42600.2020.01070",
+      "publicationDate": "2019-11-11",
+      "year": 2019
+    },
+    {
+      "title": "GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding",
+      "arxiv_id": "1910.02370",
+      "doi": null,
+      "publicationDate": "2019-10-06",
+      "year": 2019
+    },
+    {
+      "title": "Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-09-03",
+      "year": 2019
+    },
+    {
+      "title": "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks",
+      "arxiv_id": "1909.00155",
+      "doi": "10.1109/tc.2020.3014632",
+      "publicationDate": "2019-08-31",
+      "year": 2019
+    },
+    {
+      "title": "AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing",
+      "arxiv_id": null,
+      "doi": "10.1109/MICRO50266.2020.00079",
+      "publicationDate": "2019-08-23",
+      "year": 2019
+    },
+    {
+      "title": "Heterogeneous Graph Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3292500.3330961",
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "GraphSAINT: Graph Sampling Based Inductive Learning Method",
+      "arxiv_id": "1907.04931",
+      "doi": null,
+      "publicationDate": "2019-07-10",
+      "year": 2019
+    },
+    {
+      "title": "NeuGraph: Parallel Deep Neural Network Computation on Large Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2019-07-02",
+      "year": 2019
+    },
+    {
+      "title": "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks",
+      "arxiv_id": "1905.07953",
+      "doi": "10.1145/3292500.3330925",
+      "publicationDate": "2019-05-20",
+      "year": 2019
+    },
+    {
+      "title": "STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems",
+      "arxiv_id": "1905.13129",
+      "doi": "10.24963/ijcai.2019/592",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Fast Graph Representation Learning with PyTorch Geometric",
+      "arxiv_id": "1903.02428",
+      "doi": null,
+      "publicationDate": "2019-03-06",
+      "year": 2019
+    },
+    {
+      "title": "A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening",
+      "arxiv_id": "1902.09702",
+      "doi": null,
+      "publicationDate": "2019-02-26",
+      "year": 2019
+    },
+    {
+      "title": "AliGraph: A Comprehensive Graph Neural Network Platform",
+      "arxiv_id": "1902.08730",
+      "doi": "10.14778/3352063.3352127",
+      "publicationDate": "2019-02-23",
+      "year": 2019
+    },
+    {
+      "title": "Learned Step Size Quantization",
+      "arxiv_id": "1902.08153",
+      "doi": null,
+      "publicationDate": "2019-02-21",
+      "year": 2019
+    },
+    {
+      "title": "DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs",
+      "arxiv_id": null,
+      "doi": "10.1145/3240765.3240801",
+      "publicationDate": "2018-11-05",
+      "year": 2018
+    },
+    {
+      "title": "How Powerful are Graph Neural Networks?",
+      "arxiv_id": "1810.00826",
+      "doi": null,
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Adaptive Sampling Towards Fast Graph Representation Learning",
+      "arxiv_id": "1809.05343",
+      "doi": null,
+      "publicationDate": "2018-09-01",
+      "year": 2018
+    },
+    {
+      "title": "Graph Reduction with Spectral and Cut Guarantees",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2018-08-31",
+      "year": 2018
+    },
+    {
+      "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+      "arxiv_id": "1806.08804",
+      "doi": null,
+      "publicationDate": "2018-06-22",
+      "year": 2018
+    },
+    {
+      "title": "Quantizing deep convolutional networks for efficient inference: A whitepaper",
+      "arxiv_id": "1806.08342",
+      "doi": null,
+      "publicationDate": "2018-06-21",
+      "year": 2018
+    },
+    {
+      "title": "Graph Convolutional Neural Networks for Web-Scale Recommender Systems",
+      "arxiv_id": "1806.01973",
+      "doi": "10.1145/3219819.3219890",
+      "publicationDate": "2018-06-06",
+      "year": 2018
+    },
+    {
+      "title": "Meta-Gradient Reinforcement Learning",
+      "arxiv_id": "1805.09801",
+      "doi": null,
+      "publicationDate": "2018-05-24",
+      "year": 2018
+    },
+    {
+      "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+      "arxiv_id": "1803.03635",
+      "doi": null,
+      "publicationDate": "2018-03-09",
+      "year": 2018
+    },
+    {
+      "title": "Spectrally approximating large graphs with smaller graphs",
+      "arxiv_id": "1802.07510",
+      "doi": null,
+      "publicationDate": "2018-02-21",
+      "year": 2018
+    },
+    {
+      "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling",
+      "arxiv_id": "1801.10247",
+      "doi": null,
+      "publicationDate": "2018-01-30",
+      "year": 2018
+    },
+    {
+      "title": "Dynamic Graph CNN for Learning on Point Clouds",
+      "arxiv_id": "1801.07829",
+      "doi": "10.1145/3326362",
+      "publicationDate": "2018-01-24",
+      "year": 2018
+    },
+    {
+      "title": "Recent Advances in Recurrent Neural Networks",
+      "arxiv_id": "1801.01078",
+      "doi": null,
+      "publicationDate": "2017-12-29",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Stochastic Training of Graph Convolutional Networks with Variance Reduction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-10-29",
+      "year": 2017
+    },
+    {
+      "title": "GraphR: Accelerating Graph Processing Using ReRAM",
+      "arxiv_id": "1708.06248",
+      "doi": "10.1109/HPCA.2018.00052",
+      "publicationDate": "2017-08-21",
+      "year": 2017
+    },
+    {
+      "title": "Predicting multicellular function through multi-layer tissue networks",
+      "arxiv_id": "1707.04638",
+      "doi": "10.1093/bioinformatics/btx252",
+      "publicationDate": "2017-07-12",
+      "year": 2017
+    },
+    {
+      "title": "Inductive Representation Learning on Large Graphs",
+      "arxiv_id": "1706.02216",
+      "doi": null,
+      "publicationDate": "2017-06-07",
+      "year": 2017
+    },
+    {
+      "title": "Neural Message Passing for Quantum Chemistry",
+      "arxiv_id": "1704.01212",
+      "doi": null,
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "Modeling Relational Data with Graph Convolutional Networks",
+      "arxiv_id": "1703.06103",
+      "doi": "10.1007/978-3-319-93417-4_38",
+      "publicationDate": "2017-03-17",
+      "year": 2017
+    },
+    {
+      "title": "Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling",
+      "arxiv_id": "1703.04826",
+      "doi": "10.18653/v1/D17-1159",
+      "publicationDate": "2017-03-14",
+      "year": 2017
+    },
+    {
+      "title": "Language Modeling with Gated Convolutional Networks",
+      "arxiv_id": "1612.08083",
+      "doi": null,
+      "publicationDate": "2016-12-23",
+      "year": 2016
+    },
+    {
+      "title": "Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations",
+      "arxiv_id": "1609.07061",
+      "doi": null,
+      "publicationDate": "2016-09-22",
+      "year": 2016
+    },
+    {
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "arxiv_id": "1609.02907",
+      "doi": null,
+      "publicationDate": "2016-09-09",
+      "year": 2016
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3007787.3001177",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",
+      "arxiv_id": "1510.00149",
+      "doi": null,
+      "publicationDate": "2015-10-01",
+      "year": 2015
+    },
+    {
+      "title": "One Trillion Edges: Graph Processing at Facebook-Scale",
+      "arxiv_id": null,
+      "doi": "10.14778/2824032.2824077",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "Learning both Weights and Connections for Efficient Neural Network",
+      "arxiv_id": "1506.02626",
+      "doi": null,
+      "publicationDate": "2015-06-08",
+      "year": 2015
+    },
+    {
+      "title": "Distilling the Knowledge in a Neural Network",
+      "arxiv_id": "1503.02531",
+      "doi": null,
+      "publicationDate": "2015-03-09",
+      "year": 2015
+    },
+    {
+      "title": "Deep Learning with Limited Numerical Precision",
+      "arxiv_id": "1502.02551",
+      "doi": null,
+      "publicationDate": "2015-02-09",
+      "year": 2015
+    },
+    {
+      "title": "GloVe: Global Vectors for Word Representation",
+      "arxiv_id": null,
+      "doi": "10.3115/v1/D14-1162",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "DeepWalk: online learning of social representations",
+      "arxiv_id": "1403.6652",
+      "doi": "10.1145/2623330.2623732",
+      "publicationDate": "2014-03-26",
+      "year": 2014
+    },
+    {
+      "title": "Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation",
+      "arxiv_id": "1308.3432",
+      "doi": null,
+      "publicationDate": "2013-08-15",
+      "year": 2013
+    },
+    {
+      "title": "Extracting the multiscale backbone of complex weighted networks",
+      "arxiv_id": "0904.2389",
+      "doi": "10.1073/pnas.0808904106",
+      "publicationDate": "2009-04-15",
+      "year": 2009
+    },
+    {
+      "title": "IAM Graph Database Repository for Graph Based Pattern Recognition and Machine Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-89689-0_33",
+      "publicationDate": "2008-12-04",
+      "year": 2008
+    },
+    {
+      "title": "Collective Classification in Network Data",
+      "arxiv_id": null,
+      "doi": "10.1201/b17320-16",
+      "publicationDate": "2008-09-06",
+      "year": 2008
+    },
+    {
+      "title": "Graph sparsification by effective resistances",
+      "arxiv_id": "0803.0929",
+      "doi": "10.1145/1374376.1374456",
+      "publicationDate": "2008-03-06",
+      "year": 2008
+    },
+    {
+      "title": "A tutorial on spectral clustering",
+      "arxiv_id": "0711.0189",
+      "doi": "10.1007/s11222-007-9033-z",
+      "publicationDate": "2007-11-01",
+      "year": 2007
+    },
+    {
+      "title": "Measurement and analysis of online social networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1298306.1298311",
+      "publicationDate": "2007-10-24",
+      "year": 2007
+    },
+    {
+      "title": "Model compression",
+      "arxiv_id": null,
+      "doi": "10.1145/1150402.1150464",
+      "publicationDate": "2006-08-20",
+      "year": 2006
+    },
+    {
+      "title": "Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric, Diagonally Dominant Linear Systems",
+      "arxiv_id": "cs/0607105",
+      "doi": "10.1137/090771430",
+      "publicationDate": "2006-07-24",
+      "year": 2006
+    },
+    {
+      "title": "Iterative methods for sparse linear systems",
+      "arxiv_id": null,
+      "doi": "10.1137/1.9780898718003",
+      "publicationDate": "2003-05-01",
+      "year": 2003
+    },
+    {
+      "title": "A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs",
+      "arxiv_id": null,
+      "doi": "10.1137/S1064827595287997",
+      "publicationDate": "1998-12-11",
+      "year": 1998
+    },
+    {
+      "title": "Pruning algorithms-a survey",
+      "arxiv_id": null,
+      "doi": "10.1109/72.248452",
+      "publicationDate": "1993-09-01",
+      "year": 1993
+    },
+    {
+      "title": "An efficient heuristic procedure for partitioning graphs",
+      "arxiv_id": null,
+      "doi": "10.1002/J.1538-7305.1970.TB01770.X",
+      "publicationDate": "1970-02-01",
+      "year": 1970
+    },
+    {
+      "title": "Weak models can be good teachers: A case study on link prediction with MLPs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2301.06284",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2204.13103",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "P3: Distributed Deep Graph Learning at Scale",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Agl: a scalable system for industrial-purpose graph machine learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "An Introduction to Information Retrieval",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-39314-3_1",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Approximating s – t Minimum Cuts in ~ O(n 2 ) Time",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "2024. PruneGNN: Algorithm-architecture pruning framework for graph neural network acceleration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A Survey on GNN",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

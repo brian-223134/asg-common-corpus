@@ -1,0 +1,1227 @@
+{
+  "candidate": {
+    "topic": "Large Language Models for Algorithm Design",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3787585",
+      "title": "A Systematic Survey on Large Language Models for Algorithm Design",
+      "published": "2026-02-10"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=196"
+  },
+  "extracted_at": "2026-09-02T02:30:14+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 170,
+    "arxiv_resolvable": 118,
+    "doi_only": 28,
+    "unresolved": 24
+  },
+  "gt_s2": {
+    "paperId": "a7aa31f71f4927a815149fb44a410e8fc7238e62",
+    "externalIds": {
+      "DBLP": "journals/csur/LiuYGYLZTMLWYZ26",
+      "ArXiv": "2410.14716",
+      "DOI": "10.1145/3787585",
+      "CorpusId": 273501987
+    },
+    "title": "A Systematic Survey on Large Language Models for Algorithm Design",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 168,
+    "publicationDate": "2024-10-11"
+  },
+  "refs": [
+    {
+      "title": "LLM-Assisted Automatic Memetic Algorithm for Lot-Streaming Hybrid Job Shop Scheduling With Variable Sublots",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2025.3556186",
+      "publicationDate": "2026-08-01",
+      "year": 2026
+    },
+    {
+      "title": "EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics",
+      "arxiv_id": "2510.02686",
+      "doi": "10.48550/arXiv.2510.02686",
+      "publicationDate": "2025-10-03",
+      "year": 2025
+    },
+    {
+      "title": "AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms",
+      "arxiv_id": "2509.23189",
+      "doi": "10.48550/arXiv.2509.23189",
+      "publicationDate": "2025-09-27",
+      "year": 2025
+    },
+    {
+      "title": "A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving",
+      "arxiv_id": "2509.08269",
+      "doi": "10.48550/arXiv.2509.08269",
+      "publicationDate": "2025-09-10",
+      "year": 2025
+    },
+    {
+      "title": "LLM-enhanced Score Function Evolution for Causal Structure Learning",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2025/1010",
+      "publicationDate": "2025-09-01",
+      "year": 2025
+    },
+    {
+      "title": "HiFo-Prompt: Prompting with Hindsight and Foresight for LLM-based Automatic Heuristic Design",
+      "arxiv_id": "2508.13333",
+      "doi": "10.48550/arXiv.2508.13333",
+      "publicationDate": "2025-08-18",
+      "year": 2025
+    },
+    {
+      "title": "EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models",
+      "arxiv_id": "2508.11850",
+      "doi": "10.48550/arXiv.2508.11850",
+      "publicationDate": "2025-08-16",
+      "year": 2025
+    },
+    {
+      "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
+      "arxiv_id": "2508.03082",
+      "doi": "10.48550/arXiv.2508.03082",
+      "publicationDate": "2025-08-05",
+      "year": 2025
+    },
+    {
+      "title": "LEAR: LLM-Driven Evolution of Agent-Based Rules",
+      "arxiv_id": null,
+      "doi": "10.1145/3712255.3734368",
+      "publicationDate": "2025-07-14",
+      "year": 2025
+    },
+    {
+      "title": "Fine-tuning Large Language Model for Automated Algorithm Design",
+      "arxiv_id": "2507.10614",
+      "doi": "10.48550/arXiv.2507.10614",
+      "publicationDate": "2025-07-13",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Models for Combinatorial Optimization: A Systematic Review",
+      "arxiv_id": "2507.03637",
+      "doi": "10.1145/3801961",
+      "publicationDate": "2025-07-04",
+      "year": 2025
+    },
+    {
+      "title": "On the Convergence of Large Language Model Optimizer for Black-Box Network Management",
+      "arxiv_id": "2507.02689",
+      "doi": "10.1109/TCOMM.2025.3592598",
+      "publicationDate": "2025-07-03",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Model-Driven Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization",
+      "arxiv_id": "2507.02892",
+      "doi": "10.48550/arXiv.2507.02892",
+      "publicationDate": "2025-06-20",
+      "year": 2025
+    },
+    {
+      "title": "AlphaEvolve: A coding agent for scientific and algorithmic discovery",
+      "arxiv_id": "2506.13131",
+      "doi": "10.48550/arXiv.2506.13131",
+      "publicationDate": "2025-06-16",
+      "year": 2025
+    },
+    {
+      "title": "HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization",
+      "arxiv_id": "2506.07972",
+      "doi": "10.48550/arXiv.2506.07972",
+      "publicationDate": "2025-06-09",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Driven Neighborhood Search for Efficient Heuristic Design",
+      "arxiv_id": null,
+      "doi": "10.1109/CEC65147.2025.11043025",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "ACEvo: Adversarial Co-Evolution of Problem Distributions and Solvers for Combinatorial Optimization",
+      "arxiv_id": "2506.02594",
+      "doi": null,
+      "publicationDate": "2025-06-03",
+      "year": 2025
+    },
+    {
+      "title": "LLM-Driven Instance-Specific Heuristic Generation and Selection",
+      "arxiv_id": "2506.00490",
+      "doi": "10.48550/arXiv.2506.00490",
+      "publicationDate": "2025-05-31",
+      "year": 2025
+    },
+    {
+      "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+      "arxiv_id": "2505.22954",
+      "doi": "10.48550/arXiv.2505.22954",
+      "publicationDate": "2025-05-29",
+      "year": 2025
+    },
+    {
+      "title": "STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization",
+      "arxiv_id": "2506.11057",
+      "doi": "10.48550/arXiv.2506.11057",
+      "publicationDate": "2025-05-22",
+      "year": 2025
+    },
+    {
+      "title": "CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design",
+      "arxiv_id": "2505.12285",
+      "doi": "10.48550/arXiv.2505.12285",
+      "publicationDate": "2025-05-18",
+      "year": 2025
+    },
+    {
+      "title": "Surgery scheduling based on large language models",
+      "arxiv_id": null,
+      "doi": "10.1016/j.artmed.2025.103151",
+      "publicationDate": "2025-05-01",
+      "year": 2025
+    },
+    {
+      "title": "From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review",
+      "arxiv_id": "2504.19678",
+      "doi": "10.1109/ACCESS.2026.3698694",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search",
+      "arxiv_id": "2504.19636",
+      "doi": "10.48550/arXiv.2504.19636",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "BLADE: Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics",
+      "arxiv_id": "2504.20183",
+      "doi": "10.1145/3712255.3734347",
+      "publicationDate": "2025-04-28",
+      "year": 2025
+    },
+    {
+      "title": "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models",
+      "arxiv_id": "2504.17801",
+      "doi": "10.1109/TCAD.2026.3652945",
+      "publicationDate": "2025-04-18",
+      "year": 2025
+    },
+    {
+      "title": "Large Language Models as Particle Swarm Optimizers",
+      "arxiv_id": "2504.09247",
+      "doi": "10.1109/CEC65147.2025.11043021",
+      "publicationDate": "2025-04-12",
+      "year": 2025
+    },
+    {
+      "title": "Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning",
+      "arxiv_id": "2504.05108",
+      "doi": "10.48550/arXiv.2504.05108",
+      "publicationDate": "2025-04-07",
+      "year": 2025
+    },
+    {
+      "title": "CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization",
+      "arxiv_id": "2504.04310",
+      "doi": "10.48550/arXiv.2504.04310",
+      "publicationDate": "2025-04-06",
+      "year": 2025
+    },
+    {
+      "title": "Large language models open new way of AI-assisted molecule design for chemists",
+      "arxiv_id": null,
+      "doi": "10.1186/s13321-025-00984-8",
+      "publicationDate": "2025-03-24",
+      "year": 2025
+    },
+    {
+      "title": "Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms",
+      "arxiv_id": "2503.16668",
+      "doi": "10.48550/arXiv.2503.16668",
+      "publicationDate": "2025-03-20",
+      "year": 2025
+    },
+    {
+      "title": "Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems",
+      "arxiv_id": "2503.03350",
+      "doi": "10.48550/arXiv.2503.03350",
+      "publicationDate": "2025-03-05",
+      "year": 2025
+    },
+    {
+      "title": "Complex LLM Planning via Automated Heuristics Discovery",
+      "arxiv_id": "2502.19295",
+      "doi": "10.48550/arXiv.2502.19295",
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code Generation",
+      "arxiv_id": "2502.14328",
+      "doi": "10.1109/ICSE-NIER66352.2025.00007",
+      "publicationDate": "2025-02-20",
+      "year": 2025
+    },
+    {
+      "title": "An Interpretable Automated Mechanism Design Framework with Large Language Models",
+      "arxiv_id": "2502.12203",
+      "doi": "10.48550/arXiv.2502.12203",
+      "publicationDate": "2025-02-16",
+      "year": 2025
+    },
+    {
+      "title": "CoCoEvo: Co-Evolution of Programs and Test Cases to Enhance Code Generation",
+      "arxiv_id": "2502.10802",
+      "doi": "10.1109/TEVC.2025.3593272",
+      "publicationDate": "2025-02-15",
+      "year": 2025
+    },
+    {
+      "title": "Beyond the Hype: Benchmarking LLM-Evolved Heuristics for Bin Packing",
+      "arxiv_id": "2501.11411",
+      "doi": "10.48550/arXiv.2501.11411",
+      "publicationDate": "2025-01-20",
+      "year": 2025
+    },
+    {
+      "title": "Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design",
+      "arxiv_id": "2501.08603",
+      "doi": "10.48550/arXiv.2501.08603",
+      "publicationDate": "2025-01-15",
+      "year": 2025
+    },
+    {
+      "title": "AutoTurb: Using large language models for automatic algebraic turbulence model discovery",
+      "arxiv_id": null,
+      "doi": "10.1063/5.0247759",
+      "publicationDate": "2025-01-01",
+      "year": 2025
+    },
+    {
+      "title": "HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs",
+      "arxiv_id": "2412.14995",
+      "doi": "10.1609/aaai.v39i25.34898",
+      "publicationDate": "2024-12-19",
+      "year": 2024
+    },
+    {
+      "title": "Integrating genetic algorithms and language models for enhanced enzyme design",
+      "arxiv_id": null,
+      "doi": "10.1093/bib/bbae675",
+      "publicationDate": "2024-11-22",
+      "year": 2024
+    },
+    {
+      "title": "Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons",
+      "arxiv_id": "2411.10697",
+      "doi": "10.1109/TEVC.2025.3609058",
+      "publicationDate": "2024-11-16",
+      "year": 2024
+    },
+    {
+      "title": "In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics",
+      "arxiv_id": "2410.16309",
+      "doi": "10.1145/3731567",
+      "publicationDate": "2024-10-07",
+      "year": 2024
+    },
+    {
+      "title": "Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning",
+      "arxiv_id": "2410.04223",
+      "doi": "10.48550/arXiv.2410.04223",
+      "publicationDate": "2024-10-05",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages",
+      "arxiv_id": "2410.03981",
+      "doi": "10.1145/3770084",
+      "publicationDate": "2024-10-04",
+      "year": 2024
+    },
+    {
+      "title": "Exploring LLM-Driven Explanations for Quantum Algorithms",
+      "arxiv_id": "2409.19028",
+      "doi": "10.1145/3674805.3690753",
+      "publicationDate": "2024-09-26",
+      "year": 2024
+    },
+    {
+      "title": "Multi-objective Evolution of Heuristic Using Large Language Model",
+      "arxiv_id": "2409.16867",
+      "doi": "10.48550/arXiv.2409.16867",
+      "publicationDate": "2024-09-25",
+      "year": 2024
+    },
+    {
+      "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers",
+      "arxiv_id": "2409.04109",
+      "doi": null,
+      "publicationDate": "2024-09-06",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models as Molecular Design Engines",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.4c01396",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "TS-EoH: An Edge Server Task Scheduling Algorithm Based on Evolution of Heuristic",
+      "arxiv_id": "2409.09063",
+      "doi": "10.1109/ISPA63168.2024.00094",
+      "publicationDate": "2024-09-04",
+      "year": 2024
+    },
+    {
+      "title": "Large language models for automatic equation discovery of nonlinear dynamics",
+      "arxiv_id": null,
+      "doi": "10.1063/5.0224297",
+      "publicationDate": "2024-09-01",
+      "year": 2024
+    },
+    {
+      "title": "HoneyComb: A Flexible LLM-Based Agent System for Materials Science",
+      "arxiv_id": "2409.00135",
+      "doi": "10.48550/arXiv.2409.00135",
+      "publicationDate": "2024-08-29",
+      "year": 2024
+    },
+    {
+      "title": "Enriching building function classification using Large Language Model embeddings of OpenStreetMap Tags",
+      "arxiv_id": null,
+      "doi": "10.1007/s12145-024-01463-8",
+      "publicationDate": "2024-08-27",
+      "year": 2024
+    },
+    {
+      "title": "TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering",
+      "arxiv_id": "2408.15299",
+      "doi": "10.1109/BIBM62325.2024.10822695",
+      "publicationDate": "2024-08-27",
+      "year": 2024
+    },
+    {
+      "title": "Bridging Large Language Models and Optimization: A Unified Framework for Text-attributed Combinatorial Optimization",
+      "arxiv_id": "2408.12214",
+      "doi": null,
+      "publicationDate": "2024-08-22",
+      "year": 2024
+    },
+    {
+      "title": "Using ChatGPT for Method Development and Green Chemistry Education in Upper-Level Laboratory Courses",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jchemed.4c00193",
+      "publicationDate": "2024-07-23",
+      "year": 2024
+    },
+    {
+      "title": "An investigation on the use of Large Language Models for hyperparameter tuning in Evolutionary Algorithms",
+      "arxiv_id": "2408.02451",
+      "doi": "10.1145/3638530.3664163",
+      "publicationDate": "2024-07-14",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study",
+      "arxiv_id": "2406.10675",
+      "doi": "10.48550/arXiv.2406.10675",
+      "publicationDate": "2024-06-15",
+      "year": 2024
+    },
+    {
+      "title": "FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch",
+      "arxiv_id": "2406.04824",
+      "doi": "10.48550/arXiv.2406.04824",
+      "publicationDate": "2024-06-07",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Large Language Models for Code Generation",
+      "arxiv_id": "2406.00515",
+      "doi": "10.1145/3747588",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics",
+      "arxiv_id": "2405.20132",
+      "doi": "10.1109/TEVC.2024.3497793",
+      "publicationDate": "2024-05-30",
+      "year": 2024
+    },
+    {
+      "title": "ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling",
+      "arxiv_id": "2405.17743",
+      "doi": "10.1287/opre.2024.1233",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "Metaheuristics and Large Language Models Join Forces: Toward an Integrated Optimization Approach",
+      "arxiv_id": "2405.18272",
+      "doi": "10.1109/ACCESS.2024.3524176",
+      "publicationDate": "2024-05-28",
+      "year": 2024
+    },
+    {
+      "title": "The Importance of Directional Feedback for LLM-based Optimizers",
+      "arxiv_id": "2405.16434",
+      "doi": "10.48550/arXiv.2405.16434",
+      "publicationDate": "2024-05-26",
+      "year": 2024
+    },
+    {
+      "title": "When Large Language Model Meets Optimization",
+      "arxiv_id": "2405.10098",
+      "doi": "10.48550/arXiv.2405.10098",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery",
+      "arxiv_id": "2405.09783",
+      "doi": "10.48550/arXiv.2405.09783",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "LLM4ED: Large Language Models for Automatic Equation Discovery",
+      "arxiv_id": "2405.07761",
+      "doi": "10.48550/arXiv.2405.07761",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective",
+      "arxiv_id": "2405.07212",
+      "doi": "10.1109/IJCNN60899.2024.10649965",
+      "publicationDate": "2024-05-12",
+      "year": 2024
+    },
+    {
+      "title": "ATG: Benchmarking Automated Theorem Generation for Generative Language Models",
+      "arxiv_id": "2405.06677",
+      "doi": "10.48550/arXiv.2405.06677",
+      "publicationDate": "2024-05-05",
+      "year": 2024
+    },
+    {
+      "title": "De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s10822-024-00559-z",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "Data-Driven Portfolio Management for Motion Pictures Industry: A New Data-Driven Optimization Methodology Using a Large Language Model as the Expert",
+      "arxiv_id": "2404.07434",
+      "doi": "10.2139/ssrn.4790637",
+      "publicationDate": "2024-04-11",
+      "year": 2024
+    },
+    {
+      "title": "Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization",
+      "arxiv_id": "2404.02183",
+      "doi": "10.48550/arXiv.2404.02183",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "Learn to optimize—a brief overview",
+      "arxiv_id": null,
+      "doi": "10.1093/nsr/nwae132",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward",
+      "arxiv_id": "2404.01258",
+      "doi": "10.48550/arXiv.2404.01258",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "LLM Guided Evolution - The Automation of Models Advancing Models",
+      "arxiv_id": "2403.11446",
+      "doi": "10.1145/3638529.3654178",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Quantum many-body physics calculations with large language models",
+      "arxiv_id": "2403.03154",
+      "doi": "10.1038/s42005-025-01956-y",
+      "publicationDate": "2024-03-05",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Model-Based Evolutionary Optimizer: Reasoning with elitism",
+      "arxiv_id": "2403.02054",
+      "doi": "10.48550/arXiv.2403.02054",
+      "publicationDate": "2024-03-04",
+      "year": 2024
+    },
+    {
+      "title": "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation",
+      "arxiv_id": "2403.01131",
+      "doi": "10.1109/TEVC.2026.3656374",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "LM4OPT: Unveiling the potential of Large Language Models in formulating mathematical optimization problems",
+      "arxiv_id": "2403.01342",
+      "doi": "10.1080/03155986.2024.2388452",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models As Evolution Strategies",
+      "arxiv_id": "2402.18381",
+      "doi": "10.1145/3638530.3654238",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Unleashing the Potential of Large Language Models as Prompt Optimizers: An Analogical Analysis with Gradient-based Model Optimizers",
+      "arxiv_id": "2402.17564",
+      "doi": "10.48550/arXiv.2402.17564",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "ProLLaMA: A Protein Large Language Model for Multitask Protein Language Processing",
+      "arxiv_id": "2402.16445",
+      "doi": "10.1109/TAI.2025.3564914",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "From Large Language Models and Optimization to Decision Optimization CoPilot: A Research Manifesto",
+      "arxiv_id": "2402.16269",
+      "doi": "10.48550/arXiv.2402.16269",
+      "publicationDate": "2024-02-26",
+      "year": 2024
+    },
+    {
+      "title": "How Can LLM Guide RL? A Value-Based Approach",
+      "arxiv_id": "2402.16181",
+      "doi": "10.48550/arXiv.2402.16181",
+      "publicationDate": "2024-02-25",
+      "year": 2024
+    },
+    {
+      "title": "AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System",
+      "arxiv_id": "2402.15538",
+      "doi": "10.48550/arXiv.2402.15538",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "Mixture of Experts for Network Optimization: A Large Language Model-enabled Approach",
+      "arxiv_id": "2402.09756",
+      "doi": "10.48550/arXiv.2402.09756",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models for the Automated Analysis of Optimization Algorithms",
+      "arxiv_id": "2402.08472",
+      "doi": "10.48550/arXiv.2402.08472",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?",
+      "arxiv_id": "2402.05015",
+      "doi": "10.48550/arXiv.2402.05015",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models to Enhance Bayesian Optimization",
+      "arxiv_id": "2402.03921",
+      "doi": "10.48550/arXiv.2402.03921",
+      "publicationDate": "2024-02-06",
+      "year": 2024
+    },
+    {
+      "title": "Are Large Language Models Good Prompt Optimizers?",
+      "arxiv_id": "2402.02101",
+      "doi": "10.48550/arXiv.2402.02101",
+      "publicationDate": "2024-02-03",
+      "year": 2024
+    },
+    {
+      "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution",
+      "arxiv_id": "2402.01145",
+      "doi": "10.48550/arXiv.2402.01145",
+      "publicationDate": "2024-02-02",
+      "year": 2024
+    },
+    {
+      "title": "ReSLLM: Large Language Models are Strong Resource Selectors for Federated Search",
+      "arxiv_id": "2401.17645",
+      "doi": "10.1145/3701716.3715595",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models for Mathematical Reasoning: Progresses and Challenges",
+      "arxiv_id": "2402.00157",
+      "doi": "10.48550/arXiv.2402.00157",
+      "publicationDate": "2024-01-31",
+      "year": 2024
+    },
+    {
+      "title": "L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks",
+      "arxiv_id": "2401.15335",
+      "doi": "10.1145/3638530.3664121",
+      "publicationDate": "2024-01-27",
+      "year": 2024
+    },
+    {
+      "title": "Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap",
+      "arxiv_id": "2401.10034",
+      "doi": "10.1109/TEVC.2024.3506731",
+      "publicationDate": "2024-01-18",
+      "year": 2024
+    },
+    {
+      "title": "Evolving code with a large language model",
+      "arxiv_id": "2401.07102",
+      "doi": "10.1007/s10710-024-09494-2",
+      "publicationDate": "2024-01-13",
+      "year": 2024
+    },
+    {
+      "title": "Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process",
+      "arxiv_id": "2401.03244",
+      "doi": "10.48550/arXiv.2401.03244",
+      "publicationDate": "2024-01-06",
+      "year": 2024
+    },
+    {
+      "title": "On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)",
+      "arxiv_id": "2401.02500",
+      "doi": "10.1609/icaps.v34i1.31503",
+      "publicationDate": "2024-01-04",
+      "year": 2024
+    },
+    {
+      "title": "Large language models for biomolecular analysis: From methods to applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.trac.2024.117540",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "DrugAssist: a large language model for molecule optimization",
+      "arxiv_id": "2401.10334",
+      "doi": "10.1093/bib/bbae693",
+      "publicationDate": "2023-12-28",
+      "year": 2023
+    },
+    {
+      "title": "Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft",
+      "arxiv_id": "2312.09238",
+      "doi": "10.1109/CVPR52733.2024.01554",
+      "publicationDate": "2023-12-14",
+      "year": 2023
+    },
+    {
+      "title": "Using Large Language Models for Hyperparameter Optimization",
+      "arxiv_id": "2312.04528",
+      "doi": "10.48550/arXiv.2312.04528",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation",
+      "arxiv_id": "2311.13184",
+      "doi": "10.24963/ijcai.2024/579",
+      "publicationDate": "2023-11-22",
+      "year": 2023
+    },
+    {
+      "title": "StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving",
+      "arxiv_id": "2311.08803",
+      "doi": "10.48550/arXiv.2311.08803",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge",
+      "arxiv_id": "2311.08166",
+      "doi": "10.48550/arXiv.2311.08166",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "Can Large Language Models Design Accurate Label Functions?",
+      "arxiv_id": "2311.00739",
+      "doi": "10.48550/arXiv.2311.00739",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as Evolutionary Optimizers",
+      "arxiv_id": "2310.19046",
+      "doi": "10.1109/CEC60901.2024.10611913",
+      "publicationDate": "2023-10-29",
+      "year": 2023
+    },
+    {
+      "title": "PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization",
+      "arxiv_id": "2310.16427",
+      "doi": "10.48550/arXiv.2310.16427",
+      "publicationDate": "2023-10-25",
+      "year": 2023
+    },
+    {
+      "title": "LLM Performance Predictors are good initializers for Architecture Search",
+      "arxiv_id": "2310.16712",
+      "doi": "10.48550/arXiv.2310.16712",
+      "publicationDate": "2023-10-25",
+      "year": 2023
+    },
+    {
+      "title": "Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning",
+      "arxiv_id": "2310.10103",
+      "doi": "10.48550/arXiv.2310.10103",
+      "publicationDate": "2023-10-16",
+      "year": 2023
+    },
+    {
+      "title": "Label-free Node Classification on Graphs with Large Language Models (LLMS)",
+      "arxiv_id": "2310.04668",
+      "doi": "10.48550/arXiv.2310.04668",
+      "publicationDate": "2023-10-07",
+      "year": 2023
+    },
+    {
+      "title": "Physics of Language Models: Part 3.1, Knowledge Storage and Extraction",
+      "arxiv_id": "2309.14316",
+      "doi": "10.48550/arXiv.2309.14316",
+      "publicationDate": "2023-09-25",
+      "year": 2023
+    },
+    {
+      "title": "Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs",
+      "arxiv_id": "2309.03118",
+      "doi": "10.48550/arXiv.2309.03118",
+      "publicationDate": "2023-09-06",
+      "year": 2023
+    },
+    {
+      "title": "A survey on large language model based autonomous agents",
+      "arxiv_id": "2308.11432",
+      "doi": "10.1007/s11704-024-40231-1",
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "Leveraging Large Language Models for the Generation of Novel Metaheuristic Optimization Algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/3583133.3596401",
+      "publicationDate": "2023-07-15",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models",
+      "arxiv_id": "2307.05782",
+      "doi": "10.1007/978-981-96-6259-3",
+      "publicationDate": "2023-07-11",
+      "year": 2023
+    },
+    {
+      "title": "MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems",
+      "arxiv_id": "2306.17525",
+      "doi": "10.1016/j.jmps.2023.105454",
+      "publicationDate": "2023-06-30",
+      "year": 2023
+    },
+    {
+      "title": "LLMatic: Neural Architecture Search Via Large Language Models And Quality Diversity Optimization",
+      "arxiv_id": "2306.01102",
+      "doi": "10.1145/3638529.3654017",
+      "publicationDate": "2023-06-01",
+      "year": 2023
+    },
+    {
+      "title": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search",
+      "arxiv_id": "2305.03495",
+      "doi": "10.48550/arXiv.2305.03495",
+      "publicationDate": "2023-05-04",
+      "year": 2023
+    },
+    {
+      "title": "NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions",
+      "arxiv_id": "2303.08233",
+      "doi": "10.48550/arXiv.2303.08233",
+      "publicationDate": "2023-03-14",
+      "year": 2023
+    },
+    {
+      "title": "Automated Design of Metaheuristic Algorithms: A Survey",
+      "arxiv_id": "2303.06532",
+      "doi": null,
+      "publicationDate": "2023-03-12",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models Are Human-Level Prompt Engineers",
+      "arxiv_id": "2211.01910",
+      "doi": "10.48550/arXiv.2211.01910",
+      "publicationDate": "2022-11-03",
+      "year": 2022
+    },
+    {
+      "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+      "arxiv_id": "2210.09261",
+      "doi": "10.48550/arXiv.2210.09261",
+      "publicationDate": "2022-10-17",
+      "year": 2022
+    },
+    {
+      "title": "PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change",
+      "arxiv_id": "2206.10498",
+      "doi": "10.52202/075280-1693",
+      "publicationDate": "2022-06-21",
+      "year": 2022
+    },
+    {
+      "title": "LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks",
+      "arxiv_id": "2206.06565",
+      "doi": "10.48550/arXiv.2206.06565",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Exploring evolution-aware & -free protein language models as protein function predictors",
+      "arxiv_id": "2206.06583",
+      "doi": "10.52202/068431-2817",
+      "publicationDate": "2022-06-14",
+      "year": 2022
+    },
+    {
+      "title": "Instruction Induction: From Few Examples to Natural Language Task Descriptions",
+      "arxiv_id": "2205.10782",
+      "doi": "10.48550/arXiv.2205.10782",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "IOHexperimenter: Benchmarking Platform for Iterative Optimization Heuristics",
+      "arxiv_id": "2111.04077",
+      "doi": "10.1162/evco_a_00342",
+      "publicationDate": "2021-11-07",
+      "year": 2021
+    },
+    {
+      "title": "Training Verifiers to Solve Math Word Problems",
+      "arxiv_id": "2110.14168",
+      "doi": null,
+      "publicationDate": "2021-10-27",
+      "year": 2021
+    },
+    {
+      "title": "HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO",
+      "arxiv_id": "2109.06716",
+      "doi": null,
+      "publicationDate": "2021-09-14",
+      "year": 2021
+    },
+    {
+      "title": "Data-Driven Evolutionary Optimization: An Overview and Case Studies",
+      "arxiv_id": null,
+      "doi": "10.1109/TEVC.2018.2869001",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon",
+      "arxiv_id": "1811.06128",
+      "doi": "10.1016/j.ejor.2020.07.063",
+      "publicationDate": "2018-11-15",
+      "year": 2018
+    },
+    {
+      "title": "Difficulty Adjustable and Scalable Constrained Multiobjective Test Problem Toolkit",
+      "arxiv_id": "1612.07603",
+      "doi": "10.1162/evco_a_00259",
+      "publicationDate": "2016-12-21",
+      "year": 2016
+    },
+    {
+      "title": "Bayesian optimization for materials design",
+      "arxiv_id": "1506.01349",
+      "doi": "10.1007/978-3-319-23871-5_3",
+      "publicationDate": "2015-06-03",
+      "year": 2015
+    },
+    {
+      "title": "Handbook of Metaheuristics",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4419-1665-5",
+      "publicationDate": "2010-09-30",
+      "year": 2010
+    },
+    {
+      "title": "Black-box optimization benchmarking of NEWUOA compared to BIPOP-CMA-ES: on the BBOB noiseless testbed",
+      "arxiv_id": null,
+      "doi": "10.1145/1830761.1830768",
+      "publicationDate": "2010-07-07",
+      "year": 2010
+    },
+    {
+      "title": "The traveling salesman problem: An overview of exact and approximate algorithms",
+      "arxiv_id": null,
+      "doi": "10.1016/0377-2217(92)90138-Y",
+      "publicationDate": "1992-06-10",
+      "year": 1992
+    },
+    {
+      "title": "Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2505.20881",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Partition to Evolve: Niching-enhanced Evolution with LLMs for Automated Algorithm Discovery",
+      "arxiv_id": null,
+      "doi": "10.52202/085713-5177",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Received 20 February 2007; revised 12 March 2009; accepted 5 June 2009 , Vol. 1, No. 1, Article",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "LLM2FEA: Discover Novel Designs with Generative Evolutionary Multitasking",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2406.14917",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Two Optimizers Are Better Than One: LLM Catalyst for Enhancing Gradient-Based Optimization",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2405.19732",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2309.08532",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Evolutionary Reward Design and Optimization with Multimodal Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.alvr-1.18",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Ideas are Dimes a Dozen: Large Language Models for Idea Generation in Innovation",
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4526071",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+      "arxiv_id": "2101.00190",
+      "doi": "10.18653/v1/2021.acl-long.353",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Algorithm design",
+      "arxiv_id": null,
+      "doi": "10.1017/cbo9781139940023.004",
+      "publicationDate": null,
+      "year": 2001
+    },
+    {
+      "title": "2024. EvoPrompting: Language models for code-level neural architecture search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Evolution of Heuristics: Towards efficient automatic algorithm design using large language model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. The CLRS algorithmic reasoning benchmark",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. How multimodal integration boost the performance of LLM for optimization: Case study on capacitated vehicle routing problems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Toward automated algorithm design: A survey and practical guide to meta-black-box-optimization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "scientiĄc and algorithmic",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Eureka: Human-Level Reward Design",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. tnGPS: Discovering unknown tensor network structure search algorithms via large language models (LLMs)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A survey of optimization modeling meets llms: Progress and future directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Capturing formulation design of battery electrolytes with chemical large language model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Introduction to algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. AutoSGNN: Automatic propagation mechanism discovery for spectral graph neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Bayesian optimization of catalysts with in-context learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Deep insights into automated optimization with large language models and evolutionary algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A review on code generation with llms: Application and evaluation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Discovering Interpretable Programmatic Policies via Multimodal LLM-assisted Evolutionary Search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024.GenerativeAI-basedpromptevolutionengineeringdesignoptimizationwithvision-languagemodel",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Received 1 November 2024; revised 4 November 2025; accepted 26 December 2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Ontology matching with large language models and prioritized depth-Ąrst search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Ontology matching with large language models and prioritized depth-first search",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

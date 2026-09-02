@@ -1,0 +1,1262 @@
+{
+  "candidate": {
+    "topic": "Trustworthy Retrieval-Augmented Generation",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3837074",
+      "title": "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey",
+      "published": "2026-08-06"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=198"
+  },
+  "extracted_at": "2026-09-02T02:31:46+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 175,
+    "arxiv_resolvable": 122,
+    "doi_only": 30,
+    "unresolved": 23
+  },
+  "gt_s2": {
+    "paperId": "0c42f77546551ae8b103057771a3b1b25cdd35bd",
+    "externalIds": {
+      "ArXiv": "2502.06872",
+      "DBLP": "journals/corr/abs-2502-06872",
+      "DOI": "10.1145/3837074",
+      "CorpusId": 276258659
+    },
+    "title": "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 175,
+    "publicationDate": "2025-02-08"
+  },
+  "refs": [
+    {
+      "title": "A Survey on LLM-based Conversational User Simulation",
+      "arxiv_id": "2604.24977",
+      "doi": "10.18653/v1/2026.eacl-long.200",
+      "publicationDate": "2026-04-27",
+      "year": 2026
+    },
+    {
+      "title": "Sparse Personalized Text Generation with Multi-Trajectory Reasoning",
+      "arxiv_id": "2604.24996",
+      "doi": "10.48550/arXiv.2604.24996",
+      "publicationDate": "2026-04-27",
+      "year": 2026
+    },
+    {
+      "title": "A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces",
+      "arxiv_id": "2602.03442",
+      "doi": "10.48550/arXiv.2602.03442",
+      "publicationDate": "2026-02-03",
+      "year": 2026
+    },
+    {
+      "title": "Reasoning-Based Personalized Generation for Users with Sparse Data",
+      "arxiv_id": "2602.21219",
+      "doi": "10.48550/arXiv.2602.21219",
+      "publicationDate": "2026-01-31",
+      "year": 2026
+    },
+    {
+      "title": "Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks",
+      "arxiv_id": "2512.03100",
+      "doi": "10.48550/arXiv.2512.03100",
+      "publicationDate": "2025-12-01",
+      "year": 2025
+    },
+    {
+      "title": "Engineering the RAG Stack: A Comprehensive Review of the Architecture and Trust Frameworks for Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2601.05264",
+      "doi": "10.48550/arXiv.2601.05264",
+      "publicationDate": "2025-11-07",
+      "year": 2025
+    },
+    {
+      "title": "Uncertainty Quantification for Retrieval-Augmented Reasoning",
+      "arxiv_id": "2510.11483",
+      "doi": "10.1145/3805712.3809717",
+      "publicationDate": "2025-10-13",
+      "year": 2025
+    },
+    {
+      "title": "Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks",
+      "arxiv_id": "2509.22486",
+      "doi": "10.48550/arXiv.2509.22486",
+      "publicationDate": "2025-09-26",
+      "year": 2025
+    },
+    {
+      "title": "A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions",
+      "arxiv_id": "2507.18910",
+      "doi": "10.48550/arXiv.2507.18910",
+      "publicationDate": "2025-07-25",
+      "year": 2025
+    },
+    {
+      "title": "DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning",
+      "arxiv_id": "2507.13396",
+      "doi": "10.48550/arXiv.2507.13396",
+      "publicationDate": "2025-07-16",
+      "year": 2025
+    },
+    {
+      "title": "RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation",
+      "arxiv_id": "2507.08862",
+      "doi": "10.48550/arXiv.2507.08862",
+      "publicationDate": "2025-07-09",
+      "year": 2025
+    },
+    {
+      "title": "COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees",
+      "arxiv_id": "2506.20178",
+      "doi": "10.48550/arXiv.2506.20178",
+      "publicationDate": "2025-06-25",
+      "year": 2025
+    },
+    {
+      "title": "AR-RAG: Autoregressive Retrieval Augmentation for Image Generation",
+      "arxiv_id": "2506.06962",
+      "doi": "10.48550/arXiv.2506.06962",
+      "publicationDate": "2025-06-08",
+      "year": 2025
+    },
+    {
+      "title": "Hybrid Multi-Agent GraphRAG for E-Government: Towards a Trustworthy AI Assistant",
+      "arxiv_id": null,
+      "doi": "10.3390/app15116315",
+      "publicationDate": "2025-06-04",
+      "year": 2025
+    },
+    {
+      "title": "One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2505.11548",
+      "doi": "10.48550/arXiv.2505.11548",
+      "publicationDate": "2025-05-15",
+      "year": 2025
+    },
+    {
+      "title": "RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models",
+      "arxiv_id": "2504.18041",
+      "doi": "10.48550/arXiv.2504.18041",
+      "publicationDate": "2025-04-25",
+      "year": 2025
+    },
+    {
+      "title": "IPBench: Benchmarking the Knowledge of Large Language Models in Intellectual Property",
+      "arxiv_id": "2504.15524",
+      "doi": "10.48550/arXiv.2504.15524",
+      "publicationDate": "2025-04-22",
+      "year": 2025
+    },
+    {
+      "title": "A Multimodal Framework Embedding Retrieval-Augmented Generation with MLLMs for Eurobarometer Data",
+      "arxiv_id": null,
+      "doi": "10.3390/ai6030050",
+      "publicationDate": "2025-03-03",
+      "year": 2025
+    },
+    {
+      "title": "Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning",
+      "arxiv_id": "2502.10440",
+      "doi": null,
+      "publicationDate": "2025-02-10",
+      "year": 2025
+    },
+    {
+      "title": "Feedback-Guided Extraction of Knowledge Base from Retrieval-Augmented LLM Applications",
+      "arxiv_id": "2411.14110",
+      "doi": null,
+      "publicationDate": "2024-11-21",
+      "year": 2024
+    },
+    {
+      "title": "Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors",
+      "arxiv_id": "2411.01705",
+      "doi": "10.48550/arXiv.2411.01705",
+      "publicationDate": "2024-11-03",
+      "year": 2024
+    },
+    {
+      "title": "Large Language Models Still Exhibit Bias in Long Text",
+      "arxiv_id": "2410.17519",
+      "doi": "10.48550/arXiv.2410.17519",
+      "publicationDate": "2024-10-23",
+      "year": 2024
+    },
+    {
+      "title": "Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective",
+      "arxiv_id": "2410.08985",
+      "doi": "10.48550/arXiv.2410.08985",
+      "publicationDate": "2024-10-11",
+      "year": 2024
+    },
+    {
+      "title": "No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users",
+      "arxiv_id": "2410.07589",
+      "doi": "10.48550/arXiv.2410.07589",
+      "publicationDate": "2024-10-10",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing classroom teaching with LLMs and RAG",
+      "arxiv_id": "2411.04341",
+      "doi": "10.1145/3686852.3687083",
+      "publicationDate": "2024-10-10",
+      "year": 2024
+    },
+    {
+      "title": "Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2409.19804",
+      "doi": "10.48550/arXiv.2409.19804",
+      "publicationDate": "2024-09-29",
+      "year": 2024
+    },
+    {
+      "title": "Trustworthiness in Retrieval-Augmented Generation Systems: A Survey",
+      "arxiv_id": "2409.10102",
+      "doi": "10.48550/arXiv.2409.10102",
+      "publicationDate": "2024-09-16",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing E-Government Services through State-of-the-Art, Modular, and Reproducible Architecture over Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.3390/app14188259",
+      "publicationDate": "2024-09-13",
+      "year": 2024
+    },
+    {
+      "title": "Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking",
+      "arxiv_id": "2409.08045",
+      "doi": "10.48550/arXiv.2409.08045",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain",
+      "arxiv_id": "2408.10343",
+      "doi": "10.48550/arXiv.2408.10343",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "From Feature Importance to Natural Language Explanations Using LLMs with RAG",
+      "arxiv_id": "2407.20990",
+      "doi": "10.48550/arXiv.2407.20990",
+      "publicationDate": "2024-07-30",
+      "year": 2024
+    },
+    {
+      "title": "Faculty Perspectives on the Potential of RAG in Computer Science Higher Education",
+      "arxiv_id": "2408.01462",
+      "doi": "10.1145/3686852.3686864",
+      "publicationDate": "2024-07-28",
+      "year": 2024
+    },
+    {
+      "title": "RAG-Ex: A Generic Framework for Explaining Retrieval Augmented Generation",
+      "arxiv_id": null,
+      "doi": "10.1145/3626772.3657660",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "FACTS About Building Retrieval Augmented Generation-based Chatbots",
+      "arxiv_id": "2407.07858",
+      "doi": "10.48550/arXiv.2407.07858",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "Waterfall: Framework for Robust and Scalable Text Watermarking",
+      "arxiv_id": "2407.04411",
+      "doi": "10.48550/arXiv.2407.04411",
+      "publicationDate": "2024-07-05",
+      "year": 2024
+    },
+    {
+      "title": "Poisoned LangChain: Jailbreak LLMs by LangChain",
+      "arxiv_id": "2406.18122",
+      "doi": "10.48550/arXiv.2406.18122",
+      "publicationDate": "2024-06-26",
+      "year": 2024
+    },
+    {
+      "title": "CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG",
+      "arxiv_id": "2406.11497",
+      "doi": "10.48550/arXiv.2406.11497",
+      "publicationDate": "2024-06-17",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training",
+      "arxiv_id": "2405.20978",
+      "doi": "10.48550/arXiv.2405.20978",
+      "publicationDate": "2024-05-31",
+      "year": 2024
+    },
+    {
+      "title": "MarkLLM: An Open-Source Toolkit for LLM Watermarking",
+      "arxiv_id": "2405.10051",
+      "doi": "10.48550/arXiv.2405.10051",
+      "publicationDate": "2024-05-16",
+      "year": 2024
+    },
+    {
+      "title": "RAGE Against the Machine: Retrieval-Augmented LLM Explanations",
+      "arxiv_id": "2405.13000",
+      "doi": "10.1109/ICDE60146.2024.00430",
+      "publicationDate": "2024-05-11",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models",
+      "arxiv_id": "2405.06211",
+      "doi": "10.1145/3637528.3671470",
+      "publicationDate": "2024-05-10",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law",
+      "arxiv_id": "2405.01769",
+      "doi": "10.48550/arXiv.2405.01769",
+      "publicationDate": "2024-05-02",
+      "year": 2024
+    },
+    {
+      "title": "RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models",
+      "arxiv_id": "2405.00449",
+      "doi": "10.48550/arXiv.2405.00449",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code",
+      "arxiv_id": "2404.15639",
+      "doi": "10.48550/arXiv.2404.15639",
+      "publicationDate": "2024-04-24",
+      "year": 2024
+    },
+    {
+      "title": "SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs",
+      "arxiv_id": "2404.13081",
+      "doi": "10.48550/arXiv.2404.13081",
+      "publicationDate": "2024-04-17",
+      "year": 2024
+    },
+    {
+      "title": "Explainable Generative AI (GenXAI): a survey, conceptualization, and research agenda",
+      "arxiv_id": "2404.09554",
+      "doi": "10.1007/s10462-024-10916-x",
+      "publicationDate": "2024-04-15",
+      "year": 2024
+    },
+    {
+      "title": "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+      "arxiv_id": "2404.07103",
+      "doi": "10.48550/arXiv.2404.07103",
+      "publicationDate": "2024-04-10",
+      "year": 2024
+    },
+    {
+      "title": "CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering",
+      "arxiv_id": "2404.04302",
+      "doi": "10.48550/arXiv.2404.04302",
+      "publicationDate": "2024-04-04",
+      "year": 2024
+    },
+    {
+      "title": "Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers",
+      "arxiv_id": "2404.03192",
+      "doi": "10.48550/arXiv.2404.03192",
+      "publicationDate": "2024-04-04",
+      "year": 2024
+    },
+    {
+      "title": "FairRAG: Fair Human Generation via Fair Retrieval Augmentation",
+      "arxiv_id": "2403.19964",
+      "doi": "10.1109/CVPR52733.2024.01140",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "Towards a Robust Retrieval-Based Summarization System",
+      "arxiv_id": "2403.19889",
+      "doi": "10.48550/arXiv.2403.19889",
+      "publicationDate": "2024-03-29",
+      "year": 2024
+    },
+    {
+      "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+      "arxiv_id": "2404.01318",
+      "doi": "10.48550/arXiv.2404.01318",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models",
+      "arxiv_id": "2403.19548",
+      "doi": "10.48550/arXiv.2403.19548",
+      "publicationDate": "2024-03-28",
+      "year": 2024
+    },
+    {
+      "title": "An Entropy-based Text Watermarking Detection Method",
+      "arxiv_id": "2403.13485",
+      "doi": "10.48550/arXiv.2403.13485",
+      "publicationDate": "2024-03-20",
+      "year": 2024
+    },
+    {
+      "title": "RAGged Edges: The Double-Edged Sword of Retrieval-Augmented Chatbots",
+      "arxiv_id": "2403.01193",
+      "doi": "10.48550/arXiv.2403.01193",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access",
+      "arxiv_id": "2403.01216",
+      "doi": "10.48550/arXiv.2403.01216",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems",
+      "arxiv_id": "2402.17840",
+      "doi": "10.48550/arXiv.2402.17840",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)",
+      "arxiv_id": "2402.16893",
+      "doi": "10.48550/arXiv.2402.16893",
+      "publicationDate": "2024-02-23",
+      "year": 2024
+    },
+    {
+      "title": "Benchmarking Retrieval-Augmented Generation for Medicine",
+      "arxiv_id": "2402.13178",
+      "doi": "10.48550/arXiv.2402.13178",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "Towards Safer Large Language Models through Machine Unlearning",
+      "arxiv_id": "2402.10058",
+      "doi": "10.48550/arXiv.2402.10058",
+      "publicationDate": "2024-02-15",
+      "year": 2024
+    },
+    {
+      "title": "Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning",
+      "arxiv_id": "2402.08416",
+      "doi": "10.48550/arXiv.2402.08416",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "The Power of Noise: Redefining Retrieval for RAG Systems",
+      "arxiv_id": "2401.14887",
+      "doi": "10.1145/3626772.3657834",
+      "publicationDate": "2024-01-26",
+      "year": 2024
+    },
+    {
+      "title": "A Survey of Text Watermarking in the Era of Large Language Models",
+      "arxiv_id": "2312.07913",
+      "doi": "10.1145/3691626",
+      "publicationDate": "2023-12-13",
+      "year": 2023
+    },
+    {
+      "title": "On the Learnability of Watermarks for Language Models",
+      "arxiv_id": "2312.04469",
+      "doi": "10.48550/arXiv.2312.04469",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+      "arxiv_id": "2312.06674",
+      "doi": "10.48550/arXiv.2312.06674",
+      "publicationDate": "2023-12-07",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models in Law: A Survey",
+      "arxiv_id": "2312.03718",
+      "doi": "10.48550/arXiv.2312.03718",
+      "publicationDate": "2023-11-26",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Confidence Estimation and Calibration in Large Language Models",
+      "arxiv_id": "2311.08298",
+      "doi": "10.18653/v1/2024.naacl-long.366",
+      "publicationDate": "2023-11-14",
+      "year": 2023
+    },
+    {
+      "title": "WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models",
+      "arxiv_id": "2311.07138",
+      "doi": "10.48550/arXiv.2311.07138",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4",
+      "arxiv_id": "2311.07361",
+      "doi": "10.48550/arXiv.2311.07361",
+      "publicationDate": "2023-11-13",
+      "year": 2023
+    },
+    {
+      "title": "Poisoning Retrieval Corpora by Injecting Adversarial Passages",
+      "arxiv_id": "2310.19156",
+      "doi": "10.48550/arXiv.2310.19156",
+      "publicationDate": "2023-10-29",
+      "year": 2023
+    },
+    {
+      "title": "Publicly Detectable Watermarking for Language Models",
+      "arxiv_id": "2310.18491",
+      "doi": "10.48550/arXiv.2310.18491",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models",
+      "arxiv_id": "2310.12362",
+      "doi": "10.48550/arXiv.2310.12362",
+      "publicationDate": "2023-10-18",
+      "year": 2023
+    },
+    {
+      "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+      "arxiv_id": "2310.11511",
+      "doi": null,
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration",
+      "arxiv_id": "2310.09241",
+      "doi": "10.48550/arXiv.2310.09241",
+      "publicationDate": "2023-10-13",
+      "year": 2023
+    },
+    {
+      "title": "Embarrassingly Simple Text Watermarks",
+      "arxiv_id": "2310.08920",
+      "doi": "10.48550/arXiv.2310.08920",
+      "publicationDate": "2023-10-13",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics",
+      "arxiv_id": "2310.05694",
+      "doi": "10.48550/arXiv.2310.05694",
+      "publicationDate": "2023-10-09",
+      "year": 2023
+    },
+    {
+      "title": "Making Retrieval-Augmented Language Models Robust to Irrelevant Context",
+      "arxiv_id": "2310.01558",
+      "doi": "10.48550/arXiv.2310.01558",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "Application of uncertainty quantification to artificial intelligence in healthcare: A review of last decade (2013-2023)",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compbiomed.2023.107441",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models",
+      "arxiv_id": "2308.14401",
+      "doi": "10.1145/3611643.3616297",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models for Software Engineering: A Systematic Literature Review",
+      "arxiv_id": "2308.10620",
+      "doi": "10.1145/3695988",
+      "publicationDate": "2023-08-21",
+      "year": 2023
+    },
+    {
+      "title": "Exploring Evaluation Methods for Interpretable Machine Learning: A Survey",
+      "arxiv_id": null,
+      "doi": "10.3390/info14080469",
+      "publicationDate": "2023-08-21",
+      "year": 2023
+    },
+    {
+      "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment",
+      "arxiv_id": "2308.05374",
+      "doi": "10.48550/arXiv.2308.05374",
+      "publicationDate": "2023-08-10",
+      "year": 2023
+    },
+    {
+      "title": "Advancing Beyond Identification: Multi-bit Watermark for Large Language Models",
+      "arxiv_id": "2308.00221",
+      "doi": "10.18653/v1/2024.naacl-long.224",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction",
+      "arxiv_id": "2307.04642",
+      "doi": "10.18653/v1/2024.naacl-long.210",
+      "publicationDate": "2023-07-07",
+      "year": 2023
+    },
+    {
+      "title": "Jailbroken: How Does LLM Safety Training Fail?",
+      "arxiv_id": "2307.02483",
+      "doi": "10.48550/arXiv.2307.02483",
+      "publicationDate": "2023-07-05",
+      "year": 2023
+    },
+    {
+      "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+      "arxiv_id": "2306.11698",
+      "doi": "10.48550/arXiv.2306.11698",
+      "publicationDate": "2023-06-20",
+      "year": 2023
+    },
+    {
+      "title": "TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models",
+      "arxiv_id": "2306.06815",
+      "doi": "10.52202/075280-2866",
+      "publicationDate": "2023-06-12",
+      "year": 2023
+    },
+    {
+      "title": "On the Reliability of Watermarks for Large Language Models",
+      "arxiv_id": "2306.04634",
+      "doi": "10.48550/arXiv.2306.04634",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Conformal Prediction with Large Language Models for Multi-Choice Question Answering",
+      "arxiv_id": "2305.18404",
+      "doi": "10.48550/arXiv.2305.18404",
+      "publicationDate": "2023-05-28",
+      "year": 2023
+    },
+    {
+      "title": "Mitigating Test-Time Bias for Fair Image Retrieval",
+      "arxiv_id": "2305.19329",
+      "doi": "10.48550/arXiv.2305.19329",
+      "publicationDate": "2023-05-23",
+      "year": 2023
+    },
+    {
+      "title": "Robust Multi-bit Natural Language Watermarking through Invariant Features",
+      "arxiv_id": "2305.01904",
+      "doi": "10.18653/v1/2023.acl-long.117",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "LaMP: When Large Language Models Meet Personalization",
+      "arxiv_id": "2304.11406",
+      "doi": "10.48550/arXiv.2304.11406",
+      "publicationDate": "2023-04-22",
+      "year": 2023
+    },
+    {
+      "title": "GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation",
+      "arxiv_id": "2304.03879",
+      "doi": "10.48550/arXiv.2304.03879",
+      "publicationDate": "2023-04-08",
+      "year": 2023
+    },
+    {
+      "title": "Reflexion: language agents with verbal reinforcement learning",
+      "arxiv_id": "2303.11366",
+      "doi": "10.52202/075280-0377",
+      "publicationDate": "2023-03-20",
+      "year": 2023
+    },
+    {
+      "title": "Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+      "arxiv_id": "2302.12173",
+      "doi": "10.1145/3605764.3623985",
+      "publicationDate": "2023-02-23",
+      "year": 2023
+    },
+    {
+      "title": "Large language models encode clinical knowledge",
+      "arxiv_id": "2212.13138",
+      "doi": "10.1038/s41586-023-06291-2",
+      "publicationDate": "2022-12-26",
+      "year": 2022
+    },
+    {
+      "title": "Dense Text Retrieval Based on Pretrained Language Models: A Survey",
+      "arxiv_id": "2211.14876",
+      "doi": "10.1145/3637870",
+      "publicationDate": "2022-11-27",
+      "year": 2022
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "arxiv_id": "2210.03629",
+      "doi": null,
+      "publicationDate": "2022-10-06",
+      "year": 2022
+    },
+    {
+      "title": "Plex: Towards Reliability using Pretrained Large Model Extensions",
+      "arxiv_id": "2207.07411",
+      "doi": "10.48550/arXiv.2207.07411",
+      "publicationDate": "2022-07-15",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on Legal Judgment Prediction: Datasets, Metrics, Models and Challenges",
+      "arxiv_id": "2204.04859",
+      "doi": "10.1109/ACCESS.2023.3317083",
+      "publicationDate": "2022-04-11",
+      "year": 2022
+    },
+    {
+      "title": "Adversarial attacks and adversarial robustness in computational pathology",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-022-33266-0",
+      "publicationDate": "2022-03-18",
+      "year": 2022
+    },
+    {
+      "title": "From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI",
+      "arxiv_id": "2201.08164",
+      "doi": "10.1145/3583558",
+      "publicationDate": "2022-01-20",
+      "year": 2022
+    },
+    {
+      "title": "Tracing Text Provenance via Context-Aware Lexical Substitution",
+      "arxiv_id": "2112.07873",
+      "doi": "10.1609/aaai.v36i10.21415",
+      "publicationDate": "2021-12-15",
+      "year": 2021
+    },
+    {
+      "title": "CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning",
+      "arxiv_id": "2110.12925",
+      "doi": "10.1145/3485447.3512225",
+      "publicationDate": "2021-10-25",
+      "year": 2021
+    },
+    {
+      "title": "BBQ: A hand-built bias benchmark for question answering",
+      "arxiv_id": "2110.08193",
+      "doi": "10.18653/v1/2022.findings-acl.165",
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control",
+      "arxiv_id": "2110.01052",
+      "doi": "10.1214/24-aoas1998",
+      "publicationDate": "2021-10-03",
+      "year": 2021
+    },
+    {
+      "title": "Extracting per Query Valid Explanations for Blackbox Learning-to-Rank Models",
+      "arxiv_id": null,
+      "doi": "10.1145/3471158.3472241",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "Evaluating Large Language Models Trained on Code",
+      "arxiv_id": "2107.03374",
+      "doi": null,
+      "publicationDate": "2021-07-07",
+      "year": 2021
+    },
+    {
+      "title": "Towards Axiomatic Explanations for Neural Ranking Models",
+      "arxiv_id": "2106.08019",
+      "doi": "10.1145/3471158.3472256",
+      "publicationDate": "2021-06-15",
+      "year": 2021
+    },
+    {
+      "title": "“Nice Try, Kiddo”: Investigating Ad Hominems in Dialogue Responses",
+      "arxiv_id": null,
+      "doi": "10.18653/V1/2021.NAACL-MAIN.60",
+      "publicationDate": "2021-06-01",
+      "year": 2021
+    },
+    {
+      "title": "Societal Biases in Retrieved Contents: Measurement Framework and Adversarial Mitigation of BERT Rankers",
+      "arxiv_id": "2104.13640",
+      "doi": "10.1145/3404835.3462949",
+      "publicationDate": "2021-04-28",
+      "year": 2021
+    },
+    {
+      "title": "Explain and Predict, and then Predict Again",
+      "arxiv_id": "2101.04109",
+      "doi": "10.1145/3437963.3441758",
+      "publicationDate": "2021-01-11",
+      "year": 2021
+    },
+    {
+      "title": "A White Box Analysis of ColBERT",
+      "arxiv_id": "2012.09650",
+      "doi": "10.1007/978-3-030-72240-1_23",
+      "publicationDate": "2020-12-17",
+      "year": 2020
+    },
+    {
+      "title": "ABNIRML: Analyzing the Behavior of Neural IR Models",
+      "arxiv_id": "2011.00696",
+      "doi": "10.1162/tacl_a_00457",
+      "publicationDate": "2020-11-02",
+      "year": 2020
+    },
+    {
+      "title": "Open-sourced Dataset Protection via Backdoor Watermarking",
+      "arxiv_id": "2010.05821",
+      "doi": null,
+      "publicationDate": "2020-10-12",
+      "year": 2020
+    },
+    {
+      "title": "PolicyQA: A Reading Comprehension Dataset for Privacy Policies",
+      "arxiv_id": "2010.02557",
+      "doi": "10.18653/v1/2020.findings-emnlp.66",
+      "publicationDate": "2020-10-06",
+      "year": 2020
+    },
+    {
+      "title": "Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding",
+      "arxiv_id": "2009.03015",
+      "doi": "10.1109/SP40001.2021.00083",
+      "publicationDate": "2020-09-07",
+      "year": 2020
+    },
+    {
+      "title": "Large image datasets: A pyrrhic win for computer vision?",
+      "arxiv_id": "2006.16923",
+      "doi": "10.1109/WACV48630.2021.00158",
+      "publicationDate": "2020-06-24",
+      "year": 2020
+    },
+    {
+      "title": "Do Neural Ranking Models Intensify Gender Bias?",
+      "arxiv_id": "2005.00372",
+      "doi": "10.1145/3397271.3401280",
+      "publicationDate": "2020-05-01",
+      "year": 2020
+    },
+    {
+      "title": "Overview of the TREC 2019 deep learning track",
+      "arxiv_id": "2003.07820",
+      "doi": null,
+      "publicationDate": "2020-03-17",
+      "year": 2020
+    },
+    {
+      "title": "Tutorial on Explainable Recommendation and Search",
+      "arxiv_id": null,
+      "doi": "10.1145/3341981.3353768",
+      "publicationDate": "2019-09-23",
+      "year": 2019
+    },
+    {
+      "title": "Bridging the Gap Between Consumers' Medication Questions and Trusted Answers",
+      "arxiv_id": null,
+      "doi": "10.3233/SHTI190176",
+      "publicationDate": "2019-08-21",
+      "year": 2019
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "arxiv_id": "1908.10084",
+      "doi": "10.18653/v1/D19-1410",
+      "publicationDate": "2019-08-14",
+      "year": 2019
+    },
+    {
+      "title": "Natural Questions: A Benchmark for Question Answering Research",
+      "arxiv_id": null,
+      "doi": "10.1162/tacl_a_00276",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "LIRME: Locally Interpretable Ranking Model Explanation",
+      "arxiv_id": null,
+      "doi": "10.1145/3331184.3331377",
+      "publicationDate": "2019-07-18",
+      "year": 2019
+    },
+    {
+      "title": "A Robust Digital Watermarking Algorithm for Text Document Copyright Protection based on Feature Coding",
+      "arxiv_id": null,
+      "doi": "10.1109/IWCMC.2019.8766644",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "WWW’19 Tutorial on Explainable Recommendation and Search",
+      "arxiv_id": null,
+      "doi": "10.1145/3308560.3320094",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Amazon Web Services",
+      "arxiv_id": null,
+      "doi": "10.1007/978-1-4842-3084-8_3",
+      "publicationDate": "2019-04-30",
+      "year": 2019
+    },
+    {
+      "title": "Understanding the Behaviors of BERT in Ranking",
+      "arxiv_id": "1904.07531",
+      "doi": null,
+      "publicationDate": "2019-04-16",
+      "year": 2019
+    },
+    {
+      "title": "Regularizing Black-box Models for Improved Interpretability",
+      "arxiv_id": "1902.06787",
+      "doi": null,
+      "publicationDate": "2019-02-18",
+      "year": 2019
+    },
+    {
+      "title": "Understanding the Representational Power of Neural Retrieval Models Using NLP Tasks",
+      "arxiv_id": null,
+      "doi": "10.1145/3234944.3234959",
+      "publicationDate": "2018-09-10",
+      "year": 2018
+    },
+    {
+      "title": "Explainable Recommendation: A Survey and New Perspectives",
+      "arxiv_id": "1804.11192",
+      "doi": "10.1561/1500000066",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "The Web as a Knowledge-Base for Answering Complex Questions",
+      "arxiv_id": "1803.06643",
+      "doi": "10.18653/v1/N18-1059",
+      "publicationDate": "2018-03-18",
+      "year": 2018
+    },
+    {
+      "title": "A comparative study of fairness-enhancing interventions in machine learning",
+      "arxiv_id": "1802.04422",
+      "doi": "10.1145/3287560.3287589",
+      "publicationDate": "2018-02-13",
+      "year": 2018
+    },
+    {
+      "title": "Accountability of AI Under the Law: The Role of Explanation",
+      "arxiv_id": null,
+      "doi": "10.2139/SSRN.3064761",
+      "publicationDate": "2017-11-03",
+      "year": 2017
+    },
+    {
+      "title": "MS MARCO: A Human Generated MAchine Reading COmprehension Dataset",
+      "arxiv_id": "1611.09268",
+      "doi": null,
+      "publicationDate": "2016-11-04",
+      "year": 2016
+    },
+    {
+      "title": "Equality of Opportunity in Supervised Learning",
+      "arxiv_id": "1610.02413",
+      "doi": null,
+      "publicationDate": "2016-10-07",
+      "year": 2016
+    },
+    {
+      "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-2033",
+      "publicationDate": "2016-08-07",
+      "year": 2016
+    },
+    {
+      "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+      "arxiv_id": "1606.05250",
+      "doi": "10.18653/v1/D16-1264",
+      "publicationDate": "2016-06-16",
+      "year": 2016
+    },
+    {
+      "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
+      "arxiv_id": "1602.04938",
+      "doi": "10.1145/2939672.2939778",
+      "publicationDate": "2016-02-16",
+      "year": 2016
+    },
+    {
+      "title": "A tutorial on conformal prediction",
+      "arxiv_id": "0706.3188",
+      "doi": "10.5555/1390681.1390693",
+      "publicationDate": "2007-06-21",
+      "year": 2007
+    },
+    {
+      "title": "Words are not enough: sentence level natural language watermarking",
+      "arxiv_id": null,
+      "doi": "10.1145/1178766.1178777",
+      "publicationDate": "2006-10-28",
+      "year": 2006
+    },
+    {
+      "title": "The hiding virtues of ambiguity: quantifiably resilient watermarking of natural language text through synonym substitutions",
+      "arxiv_id": null,
+      "doi": "10.1145/1161366.1161397",
+      "publicationDate": "2006-09-26",
+      "year": 2006
+    },
+    {
+      "title": "The Enron Corpus: A New Dataset for Email Classification Research",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-30115-8_22",
+      "publicationDate": "2004-09-20",
+      "year": 2004
+    },
+    {
+      "title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2004-07-25",
+      "year": 2004
+    },
+    {
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+      "arxiv_id": null,
+      "doi": "10.3115/1073083.1073135",
+      "publicationDate": "2002-07-06",
+      "year": 2002
+    },
+    {
+      "title": "Natural Language Watermarking: Design, Analysis, and a Proof-of-Concept Implementation",
+      "arxiv_id": null,
+      "doi": "10.1007/3-540-45496-9_14",
+      "publicationDate": "2001-04-25",
+      "year": 2001
+    },
+    {
+      "title": "Electronic marking and identification techniques to discourage document copying",
+      "arxiv_id": null,
+      "doi": "10.1109/INFCOM.1994.337544",
+      "publicationDate": "1994-06-12",
+      "year": 1994
+    },
+    {
+      "title": "Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2402.13532",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2024.naacl-long.226",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2307.07697",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Towards Explainable Search in Legal Text",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-99739-7_65",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": ". Trustworthy AI: Managing the Risks of Artiﬁcial Intelligence",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "EMR Precharting Eﬃciency in Internal Medicine: A Scoping Review",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Copyright for web content using invisible text watermarking",
+      "arxiv_id": null,
+      "doi": "10.1016/j.chb.2013.07.040",
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "WordNet: An Electronic Lexical Database",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1998
+    },
+    {
+      "title": "2024. Reasoning on Graphs: Faithful and Inter-pretable Large Language Model Reasoning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Arti ﬁ cial intelligence in health care",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Bad characters: Imperceptible nlp attacks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Battling Botpoop using GenAI for Higher Education: A Study of a Retrieval Augmented Generation Chatbots",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Qwen3 Technical Report.",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Towards Trustworthy Retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Learning to Watermark LLM-generated Text via Reinforcement Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Perplexity AI: Search-Augmented Answer Engine",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. A large language model-based clinical decision support system for syncope recognition in the emergency department: A framework for clinical workﬂow integration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Benchmarking LLMs via Uncertainty Quantiﬁcation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Explainable information retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Exaranker: Explanation-augmented neural ranker",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. A Survey on Uncertainty Quantiﬁcation Methods for Deep Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conﬂicts for Large Language Models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Test-time backdoor attacks on multimodal large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Veriﬁcation and Validation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Can LLMs Express Their Uncertainty? An Empirical Evaluation of Conﬁdence Elicitation in LLMs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Hufu: A Modality-Agnositc Watermarking System for Pre-Trained Transformers via Permutation Equivariance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Conformal Language Modeling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

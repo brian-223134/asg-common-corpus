@@ -1,0 +1,1549 @@
+{
+  "candidate": {
+    "topic": "Bundle Recommendation",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3802820",
+      "title": "A Survey on Bundle Recommendation: Methods, Applications, and Challenges",
+      "published": "2026-05-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=207"
+  },
+  "extracted_at": "2026-09-02T02:30:53+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 216,
+    "arxiv_resolvable": 72,
+    "doi_only": 122,
+    "unresolved": 22
+  },
+  "gt_s2": {
+    "paperId": "3132a192db71f7c3723a8d91aa83ac4923a2c463",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2411-00341",
+      "ArXiv": "2411.00341",
+      "DOI": "10.1145/3802820",
+      "CorpusId": 273798290
+    },
+    "title": "A Survey on Bundle Recommendation: Methods, Applications, and Challenges",
+    "venue": "ACM Computing Surveys",
+    "year": 2024,
+    "referenceCount": 216,
+    "publicationDate": "2024-11-01"
+  },
+  "refs": [
+    {
+      "title": "Routing Distilled Knowledge via Mixture of LoRA Experts for Large Language Model based Bundle Generation",
+      "arxiv_id": "2508.17250",
+      "doi": "10.48550/arXiv.2508.17250",
+      "publicationDate": "2025-08-24",
+      "year": 2025
+    },
+    {
+      "title": "RaMen: Multi-Strategy Multi-Modal Learning for Bundle Construction",
+      "arxiv_id": "2507.14361",
+      "doi": "10.48550/arXiv.2507.14361",
+      "publicationDate": "2025-07-18",
+      "year": 2025
+    },
+    {
+      "title": "Does Knowledge Distillation Matter for Large Language Model-Based Bundle Generation?",
+      "arxiv_id": "2504.17220",
+      "doi": "10.1145/3808223",
+      "publicationDate": "2025-04-24",
+      "year": 2025
+    },
+    {
+      "title": "OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment",
+      "arxiv_id": "2502.18965",
+      "doi": "10.48550/arXiv.2502.18965",
+      "publicationDate": "2025-02-26",
+      "year": 2025
+    },
+    {
+      "title": "Enhancing Product Bundling with Large Language Models",
+      "arxiv_id": null,
+      "doi": "10.1109/ICICIP64458.2025.10898122",
+      "publicationDate": "2025-02-06",
+      "year": 2025
+    },
+    {
+      "title": "Multi-view denoising contrastive learning for bundle recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/s10489-024-05825-z",
+      "publicationDate": "2024-09-12",
+      "year": 2024
+    },
+    {
+      "title": "A Survey on Recommender Systems Using Graph Neural Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3694784",
+      "publicationDate": "2024-09-06",
+      "year": 2024
+    },
+    {
+      "title": "Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning",
+      "arxiv_id": "2408.08906",
+      "doi": "10.1007/978-3-031-70371-3_19",
+      "publicationDate": "2024-08-13",
+      "year": 2024
+    },
+    {
+      "title": "DHCL-BR: Dual Hypergraph Contrastive Learning for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1093/comjnl/bxae056",
+      "publicationDate": "2024-08-10",
+      "year": 2024
+    },
+    {
+      "title": "Fine-tuning Multimodal Large Language Models for Product Bundling",
+      "arxiv_id": "2407.11712",
+      "doi": "10.1145/3690624.3709255",
+      "publicationDate": "2024-07-16",
+      "year": 2024
+    },
+    {
+      "title": "DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3626772.3657699",
+      "publicationDate": "2024-07-10",
+      "year": 2024
+    },
+    {
+      "title": "Language Representations Can be What Recommenders Need: Findings and Potentials",
+      "arxiv_id": "2407.05441",
+      "doi": null,
+      "publicationDate": "2024-07-07",
+      "year": 2024
+    },
+    {
+      "title": "Towards Hierarchical Intent Disentanglement for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2023.3329175",
+      "publicationDate": "2024-07-01",
+      "year": 2024
+    },
+    {
+      "title": "Non-autoregressive Personalized Bundle Generation",
+      "arxiv_id": "2406.06925",
+      "doi": "10.1016/j.ipm.2024.103814",
+      "publicationDate": "2024-06-11",
+      "year": 2024
+    },
+    {
+      "title": "Multi-view Attentive Variational Learning for Group Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00381",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Encoder-Decoder Based Route Generation Model for Flexible Travel Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2024.3376231",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "MealRec+: A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness",
+      "arxiv_id": "2404.05386",
+      "doi": "10.1145/3626772.3657857",
+      "publicationDate": "2024-04-08",
+      "year": 2024
+    },
+    {
+      "title": "CIRP: Cross-Item Relational Pre-training for Multimodal Product Bundling",
+      "arxiv_id": "2404.01735",
+      "doi": "10.1145/3664647.3681349",
+      "publicationDate": "2024-04-02",
+      "year": 2024
+    },
+    {
+      "title": "Medicine Package Recommendation via Dual-Level Interaction Aware Heterogeneous Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/JBHI.2024.3361552",
+      "publicationDate": "2024-04-01",
+      "year": 2024
+    },
+    {
+      "title": "Revisiting Bundle Recommendation for Intent-aware Product Bundling",
+      "arxiv_id": null,
+      "doi": "10.1145/3652865",
+      "publicationDate": "2024-03-15",
+      "year": 2024
+    },
+    {
+      "title": "Balanced Quality Score: Measuring Popularity Debiasing in Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3650043",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations",
+      "arxiv_id": "2402.17152",
+      "doi": "10.48550/arXiv.2402.17152",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "Diffusion Models for Generative Outfit Recommendation",
+      "arxiv_id": "2402.17279",
+      "doi": "10.1145/3626772.3657719",
+      "publicationDate": "2024-02-27",
+      "year": 2024
+    },
+    {
+      "title": "Boosting Healthiness Exposure in Category-Constrained Meal Recommendation Using Nutritional Standards",
+      "arxiv_id": null,
+      "doi": "10.1145/3643859",
+      "publicationDate": "2024-02-05",
+      "year": 2024
+    },
+    {
+      "title": "Hierarchical Alignment With Polar Contrastive Learning for Next-Basket Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2023.3282914",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Adaptive In-Context Learning with Large Language Models for Bundle Generation",
+      "arxiv_id": "2312.16262",
+      "doi": "10.1145/3626772.3657808",
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation",
+      "arxiv_id": "2312.11018",
+      "doi": "10.48550/arXiv.2312.11018",
+      "publicationDate": "2023-12-18",
+      "year": 2023
+    },
+    {
+      "title": "Auto Graph Filtering for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM58522.2023.00039",
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Item-level Bundle Representation for Bundle Recommendation",
+      "arxiv_id": "2311.16892",
+      "doi": "10.1145/3637067",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation",
+      "arxiv_id": "2311.16751",
+      "doi": "10.1145/3640810",
+      "publicationDate": "2023-11-28",
+      "year": 2023
+    },
+    {
+      "title": "User-Meal Interaction Learning for Meal Recommendation: A Reproducibility Study",
+      "arxiv_id": null,
+      "doi": "10.1145/3624918.3625342",
+      "publicationDate": "2023-11-26",
+      "year": 2023
+    },
+    {
+      "title": "Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation",
+      "arxiv_id": "2311.09049",
+      "doi": "10.1109/ICDE60146.2024.00118",
+      "publicationDate": "2023-11-15",
+      "year": 2023
+    },
+    {
+      "title": "CoLLM: Integrating Collaborative Embeddings Into Large Language Models for Recommendation",
+      "arxiv_id": "2310.19488",
+      "doi": "10.1109/TKDE.2025.3540912",
+      "publicationDate": "2023-10-30",
+      "year": 2023
+    },
+    {
+      "title": "Leveraging Multimodal Features and Item-level User Feedback for Bundle Construction",
+      "arxiv_id": "2310.18770",
+      "doi": "10.1145/3616855.3635854",
+      "publicationDate": "2023-10-28",
+      "year": 2023
+    },
+    {
+      "title": "Text2Bundle: Towards Personalized Query-based Bundle Generation",
+      "arxiv_id": "2310.18004",
+      "doi": "10.1145/3706125",
+      "publicationDate": "2023-10-27",
+      "year": 2023
+    },
+    {
+      "title": "Cold-start Bundle Recommendation via Popularity-based Coalescence and Curriculum Heating",
+      "arxiv_id": "2310.03813",
+      "doi": "10.1145/3589334.3645377",
+      "publicationDate": "2023-10-05",
+      "year": 2023
+    },
+    {
+      "title": "Contrastive sequential interaction network learning on co-evolving Riemannian spaces",
+      "arxiv_id": "2401.01243",
+      "doi": "10.1007/s13042-023-01974-8",
+      "publicationDate": "2023-09-29",
+      "year": 2023
+    },
+    {
+      "title": "Leveraging Large Language Models for Sequential Recommendation",
+      "arxiv_id": "2309.09261",
+      "doi": "10.1145/3604915.3610639",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Generative Next-Basket Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3604915.3608823",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "Personalized fashion outfit generation with user coordination preference learning",
+      "arxiv_id": null,
+      "doi": "10.1016/j.ipm.2023.103434",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "Large Language Models as Zero-Shot Conversational Recommenders",
+      "arxiv_id": "2308.10053",
+      "doi": "10.1145/3583780.3614949",
+      "publicationDate": "2023-08-19",
+      "year": 2023
+    },
+    {
+      "title": "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2023/268",
+      "publicationDate": "2023-08-01",
+      "year": 2023
+    },
+    {
+      "title": "Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation",
+      "arxiv_id": "2307.13468",
+      "doi": "10.48550/arXiv.2307.13468",
+      "publicationDate": "2023-07-25",
+      "year": 2023
+    },
+    {
+      "title": "Distillation-Enhanced Graph Masked Autoencoders for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591666",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Multi-view Multi-aspect Neural Networks for Next-basket Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591738",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Next Basket Recommendation with Intent-aware Hypergraph Adversarial Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591742",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Strategy-aware Bundle Recommender System",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591771",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "A heterogeneous graph neural network model for list recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2023.110822",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "DySR: A Dynamic Graph Neural Network Based Service Bundle Recommendation Model for Mashup Creation",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2023.3234293",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Cross-level Relational Graph Contrastive Learning for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS60048.2023.00028",
+      "publicationDate": "2023-07-01",
+      "year": 2023
+    },
+    {
+      "title": "Tree-Like Interaction Learning for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP49357.2023.10096246",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Aspect Interest Neighbor-Augmented Network for Next-Basket Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP49357.2023.10095063",
+      "publicationDate": "2023-06-04",
+      "year": 2023
+    },
+    {
+      "title": "Recommender Systems with Generative Retrieval",
+      "arxiv_id": "2305.05065",
+      "doi": "10.48550/arXiv.2305.05065",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "Quotation Recommendation for Multi-party Online Conversations Based on Semantic and Topic Fusion",
+      "arxiv_id": null,
+      "doi": "10.1145/3594633",
+      "publicationDate": "2023-05-05",
+      "year": 2023
+    },
+    {
+      "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems",
+      "arxiv_id": "2305.02182",
+      "doi": "10.1145/3604915.3610646",
+      "publicationDate": "2023-05-03",
+      "year": 2023
+    },
+    {
+      "title": "Bundle Recommendation and Generation With Graph Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3114586",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "A Multi-Task Graph Neural Network with Variational Graph Auto-Encoders for Session-Based Travel Packages Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3577032",
+      "publicationDate": "2023-02-01",
+      "year": 2023
+    },
+    {
+      "title": "Deep reinforcement learning in recommender systems: A survey and new perspectives",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2023.110335",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces",
+      "arxiv_id": "2211.17068",
+      "doi": "10.48550/arXiv.2211.17068",
+      "publicationDate": "2022-11-30",
+      "year": 2022
+    },
+    {
+      "title": "Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation",
+      "arxiv_id": "2211.06687",
+      "doi": "10.1109/ICASSP49357.2023.10095969",
+      "publicationDate": "2022-11-12",
+      "year": 2022
+    },
+    {
+      "title": "CSBR: A Compositional Semantics-Based Service Bundle Recommendation Approach for Mashup Development",
+      "arxiv_id": null,
+      "doi": "10.1109/TSC.2021.3085491",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Data-Augmented Counterfactual Learning for Bundle Recommendation",
+      "arxiv_id": "2210.10555",
+      "doi": "10.48550/arXiv.2210.10555",
+      "publicationDate": "2022-10-19",
+      "year": 2022
+    },
+    {
+      "title": "BRUCE: Bundle Recommendation Using Contextualized item Embeddings",
+      "arxiv_id": null,
+      "doi": "10.1145/3523227.3546754",
+      "publicationDate": "2022-09-18",
+      "year": 2022
+    },
+    {
+      "title": "Unifying multi-associations through hypergraph for bundle recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2022.109755",
+      "publicationDate": "2022-08-01",
+      "year": 2022
+    },
+    {
+      "title": "Bundle MCR: Towards Conversational Bundle Recommendation",
+      "arxiv_id": "2207.12628",
+      "doi": "10.1145/3523227.3546755",
+      "publicationDate": "2022-07-26",
+      "year": 2022
+    },
+    {
+      "title": "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling",
+      "arxiv_id": null,
+      "doi": "10.1145/3477495.3531904",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "A Survey on the Fairness of Recommender Systems",
+      "arxiv_id": "2206.03761",
+      "doi": "10.1145/3547333",
+      "publicationDate": "2022-06-08",
+      "year": 2022
+    },
+    {
+      "title": "CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation",
+      "arxiv_id": "2206.00242",
+      "doi": "10.1145/3534678.3539229",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding",
+      "arxiv_id": "2205.14970",
+      "doi": "10.1145/3477495.3531909",
+      "publicationDate": "2022-05-30",
+      "year": 2022
+    },
+    {
+      "title": "Fairness in recommender systems: research landscape and future directions",
+      "arxiv_id": "2205.11127",
+      "doi": "10.1007/s11257-023-09364-z",
+      "publicationDate": "2022-05-23",
+      "year": 2022
+    },
+    {
+      "title": "SuGeR: A Subgraph-based Graph Convolutional Network Method for Bundle Recommendation",
+      "arxiv_id": "2205.11231",
+      "doi": "10.1145/3511808.3557707",
+      "publicationDate": "2022-05-05",
+      "year": 2022
+    },
+    {
+      "title": "Improving Bundles Recommendation Coverage in Sparse Product Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3487553.3524715",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "Revisiting Negative Sampling vs. Non-sampling in Implicit Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3522672",
+      "publicationDate": "2022-03-24",
+      "year": 2022
+    },
+    {
+      "title": "Multi-view Intent Disentangle Graph Networks for Bundle Recommendation",
+      "arxiv_id": "2202.11425",
+      "doi": "10.1609/aaai.v36i4.20359",
+      "publicationDate": "2022-02-23",
+      "year": 2022
+    },
+    {
+      "title": "Interaction-aware Drug Package Recommendation via Policy Gradient",
+      "arxiv_id": null,
+      "doi": "10.1145/3511020",
+      "publicationDate": "2022-02-14",
+      "year": 2022
+    },
+    {
+      "title": "Social dual-effect driven group modeling for neural group recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2022.01.093",
+      "publicationDate": "2022-01-01",
+      "year": 2022
+    },
+    {
+      "title": "Contrastive Trajectory Learning for Tour Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3462331",
+      "publicationDate": "2021-11-29",
+      "year": 2021
+    },
+    {
+      "title": "BERT-based Aggregative Group Representation for Group Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/BESC53957.2021.9635100",
+      "publicationDate": "2021-10-29",
+      "year": 2021
+    },
+    {
+      "title": "Build Your Own Bundle - A Neural Combinatorial Optimization Method",
+      "arxiv_id": null,
+      "doi": "10.1145/3474085.3475440",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",
+      "arxiv_id": "2109.12843",
+      "doi": "10.1145/3568022",
+      "publicationDate": "2021-09-27",
+      "year": 2021
+    },
+    {
+      "title": "Self-supervised Representation Learning for Trip Recommendation",
+      "arxiv_id": "2109.00968",
+      "doi": "10.1016/j.knosys.2022.108791",
+      "publicationDate": "2021-09-02",
+      "year": 2021
+    },
+    {
+      "title": "Intention-oriented Hierarchical Bundle Recommendation with Preference Transfer",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS53863.2021.00026",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Relational Graph Neural Network with Neighbor Interactions for Bundle Recommendation Service",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS53863.2021.00033",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "Dual-Target Cross-Domain Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/scc53864.2021.00031",
+      "publicationDate": "2021-09-01",
+      "year": 2021
+    },
+    {
+      "title": "DySR: A Dynamic Representation Learning and Aligning based Model for Service Bundle Recommendation",
+      "arxiv_id": "2108.03360",
+      "doi": null,
+      "publicationDate": "2021-08-07",
+      "year": 2021
+    },
+    {
+      "title": "Cross-Platform Item Recommendation for Online Social E-Commerce",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3098702",
+      "publicationDate": "2021-07-21",
+      "year": 2021
+    },
+    {
+      "title": "Package Recommendation with Intra- and Inter-Package Attention Networks",
+      "arxiv_id": null,
+      "doi": "10.1145/3404835.3462841",
+      "publicationDate": "2021-07-11",
+      "year": 2021
+    },
+    {
+      "title": "A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps",
+      "arxiv_id": "2106.03819",
+      "doi": "10.1145/3447548.3467110",
+      "publicationDate": "2021-06-07",
+      "year": 2021
+    },
+    {
+      "title": "Where are we in embedding spaces?",
+      "arxiv_id": "2105.08908",
+      "doi": "10.1145/3447548.3467421",
+      "publicationDate": "2021-05-19",
+      "year": 2021
+    },
+    {
+      "title": "A Survey on Accuracy-Oriented Neural Recommendation: From Collaborative Filtering to Information-Rich Recommendation",
+      "arxiv_id": "2104.13030",
+      "doi": "10.1109/TKDE.2022.3145690",
+      "publicationDate": "2021-04-27",
+      "year": 2021
+    },
+    {
+      "title": "Bidirectional Distillation for Top-K Recommender System",
+      "arxiv_id": "2106.02870",
+      "doi": "10.1145/3442381.3449878",
+      "publicationDate": "2021-04-19",
+      "year": 2021
+    },
+    {
+      "title": "Adversarial Human Trajectory Learning for Trip Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2021.3058102",
+      "publicationDate": "2021-02-23",
+      "year": 2021
+    },
+    {
+      "title": "Neural Attentive Travel package Recommendation via exploiting long-term and short-term behaviors",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2020.106511",
+      "publicationDate": "2021-01-09",
+      "year": 2021
+    },
+    {
+      "title": "Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network",
+      "arxiv_id": null,
+      "doi": "10.1145/3423322",
+      "publicationDate": "2020-11-10",
+      "year": 2020
+    },
+    {
+      "title": "Personalized Bundle Recommendation in Online Games",
+      "arxiv_id": "2104.05307",
+      "doi": "10.1145/3340531.3412734",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "DE-RRD: A Knowledge Distillation Framework for Recommender System",
+      "arxiv_id": "2012.04357",
+      "doi": "10.1145/3340531.3412005",
+      "publicationDate": "2020-10-19",
+      "year": 2020
+    },
+    {
+      "title": "A Survey of Researches on Personalized Bundle Recommendation Techniques",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-62460-6_26",
+      "publicationDate": "2020-10-08",
+      "year": 2020
+    },
+    {
+      "title": "BOXREC",
+      "arxiv_id": "2402.16660",
+      "doi": "10.1145/3408890",
+      "publicationDate": "2020-09-25",
+      "year": 2020
+    },
+    {
+      "title": "Hierarchical Fashion Graph Network for Personalized Outfit Recommendation",
+      "arxiv_id": "2005.12566",
+      "doi": "10.1145/3397271.3401080",
+      "publicationDate": "2020-05-26",
+      "year": 2020
+    },
+    {
+      "title": "Bundle Recommendation with Graph Convolutional Networks",
+      "arxiv_id": "2005.03475",
+      "doi": "10.1145/3397271.3401198",
+      "publicationDate": "2020-05-07",
+      "year": 2020
+    },
+    {
+      "title": "Enhancing Personalized Trip Recommendation with Attractive Routes",
+      "arxiv_id": null,
+      "doi": "10.1609/AAAI.V34I01.5407",
+      "publicationDate": "2020-04-03",
+      "year": 2020
+    },
+    {
+      "title": "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation",
+      "arxiv_id": "2002.02126",
+      "doi": "10.1145/3397271.3401063",
+      "publicationDate": "2020-02-06",
+      "year": 2020
+    },
+    {
+      "title": "Gated and attentive neural collaborative filtering for user generated list recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/J.KNOSYS.2019.07.010",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "BasConv: Aggregating Heterogeneous Interactions for Basket Recommendation with Graph Convolutional Neural Network",
+      "arxiv_id": "2001.09900",
+      "doi": "10.1137/1.9781611976236.8",
+      "publicationDate": "2020-01-01",
+      "year": 2020
+    },
+    {
+      "title": "Consistency-Aware Recommendation for User-Generated Item List Continuation",
+      "arxiv_id": "1912.13031",
+      "doi": "10.1145/3336191.3371776",
+      "publicationDate": "2019-12-30",
+      "year": 2019
+    },
+    {
+      "title": "A Hierarchical Self-Attentive Model for Recommending User-Generated Item Lists",
+      "arxiv_id": "1912.13023",
+      "doi": "10.1145/3357384.3358030",
+      "publicationDate": "2019-11-03",
+      "year": 2019
+    },
+    {
+      "title": "Collaborative Distillation for Top-N Recommendation",
+      "arxiv_id": "1911.05276",
+      "doi": "10.1109/ICDM.2019.00047",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "Hyperbolic Graph Convolutional Neural Networks",
+      "arxiv_id": "1910.12933",
+      "doi": null,
+      "publicationDate": "2019-10-28",
+      "year": 2019
+    },
+    {
+      "title": "Matching User with Item Set: Collaborative Bundle Recommendation with Deep Attention Network",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2019/290",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Learning Binary Code for Personalized Fashion Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2019.01081",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Neural Graph Collaborative Filtering",
+      "arxiv_id": "1905.08108",
+      "doi": "10.1145/3331184.3331267",
+      "publicationDate": "2019-05-20",
+      "year": 2019
+    },
+    {
+      "title": "Food Recommendation: Framework, Existing Solutions, and Challenges",
+      "arxiv_id": "1905.06269",
+      "doi": "10.1109/TMM.2019.2958761",
+      "publicationDate": "2019-05-15",
+      "year": 2019
+    },
+    {
+      "title": "Integrating Route Attractiveness Attributes into Tourist Trip Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1145/3308560.3317052",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Context-aware Variational Trajectory Encoding and Human Mobility Inference",
+      "arxiv_id": null,
+      "doi": "10.1145/3308558.3313608",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Recommender Systems for Online Video Game Platforms: the Case of STEAM",
+      "arxiv_id": null,
+      "doi": "10.1145/3308560.3316457",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion",
+      "arxiv_id": "1905.01866",
+      "doi": "10.1145/3292500.3330652",
+      "publicationDate": "2019-05-06",
+      "year": 2019
+    },
+    {
+      "title": "Music Playlist Recommendation with Long Short-Term Memory",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-18579-4_25",
+      "publicationDate": "2019-04-22",
+      "year": 2019
+    },
+    {
+      "title": "Personalized Bundle List Recommendation",
+      "arxiv_id": "1904.01933",
+      "doi": "10.1145/3308558.3313568",
+      "publicationDate": "2019-04-03",
+      "year": 2019
+    },
+    {
+      "title": "A Joint Context-Aware Embedding for Trip Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2019.00034",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty",
+      "arxiv_id": null,
+      "doi": "10.1145/3269206.3271786",
+      "publicationDate": "2018-10-17",
+      "year": 2018
+    },
+    {
+      "title": "Bruce",
+      "arxiv_id": null,
+      "doi": "10.4324/9780429482915-10",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "Customized Bundle Recommendation by Association Rules of Product Categories for Online Supermarkets",
+      "arxiv_id": null,
+      "doi": "10.1109/DSC.2018.00076",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Representation Tradeoffs for Hyperbolic Embeddings",
+      "arxiv_id": "1804.03329",
+      "doi": null,
+      "publicationDate": "2018-04-10",
+      "year": 2018
+    },
+    {
+      "title": "Explainable Recommendation: A Survey and New Perspectives",
+      "arxiv_id": "1804.11192",
+      "doi": "10.1561/1500000066",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "Photo2Trip: Exploiting Visual Contents in Geo-Tagged Photos for Personalized Tour Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2019.2943854",
+      "publicationDate": "2017-10-19",
+      "year": 2017
+    },
+    {
+      "title": "Recommending Diverse and Personalized Travel Packages",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-64471-4_26",
+      "publicationDate": "2017-08-28",
+      "year": 2017
+    },
+    {
+      "title": "Embedding-based News Recommendation for Millions of Users",
+      "arxiv_id": null,
+      "doi": "10.1145/3097983.3098108",
+      "publicationDate": "2017-08-13",
+      "year": 2017
+    },
+    {
+      "title": "Generating and Personalizing Bundle Recommendations on Steam",
+      "arxiv_id": null,
+      "doi": "10.1145/3077136.3080724",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "Embedding Factorization Models for Jointly Recommending Items and User Generated Lists",
+      "arxiv_id": null,
+      "doi": "10.1145/3077136.3080779",
+      "publicationDate": "2017-08-07",
+      "year": 2017
+    },
+    {
+      "title": "Learning Fashion Compatibility with Bidirectional LSTMs",
+      "arxiv_id": "1707.05691",
+      "doi": "10.1145/3123266.3123394",
+      "publicationDate": "2017-07-18",
+      "year": 2017
+    },
+    {
+      "title": "Deep Interest Network for Click-Through Rate Prediction",
+      "arxiv_id": "1706.06978",
+      "doi": "10.1145/3219819.3219823",
+      "publicationDate": "2017-06-21",
+      "year": 2017
+    },
+    {
+      "title": "ProductRec: Product Bundle Recommendation Based on User's Sequential Patterns in Social Networking Service Environment",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS.2017.127",
+      "publicationDate": "2017-06-01",
+      "year": 2017
+    },
+    {
+      "title": "Personalized trip recommendation for tourists based on user interests, points of interest visit durations and visit recency",
+      "arxiv_id": null,
+      "doi": "10.1007/s10115-017-1056-y",
+      "publicationDate": "2017-05-05",
+      "year": 2017
+    },
+    {
+      "title": "Neural Collaborative Filtering",
+      "arxiv_id": "1708.05031",
+      "doi": "10.1145/3038912.3052569",
+      "publicationDate": "2017-04-03",
+      "year": 2017
+    },
+    {
+      "title": "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction",
+      "arxiv_id": "1703.04247",
+      "doi": "10.24963/ijcai.2017/239",
+      "publicationDate": "2017-03-13",
+      "year": 2017
+    },
+    {
+      "title": "Modeling Buying Motives for Personalized Product Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3022185",
+      "publicationDate": "2017-03-06",
+      "year": 2017
+    },
+    {
+      "title": "Knowledge-based recommendation: a review of ontology-based recommender systems for e-learning",
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-017-9539-5",
+      "publicationDate": "2017-01-13",
+      "year": 2017
+    },
+    {
+      "title": "SocoTraveler: Travel-package recommendations leveraging social influence of different relationship types",
+      "arxiv_id": null,
+      "doi": "10.1016/j.im.2016.04.003",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "Recommender Systems for Product Bundling",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2016.08.013",
+      "publicationDate": "2016-11-01",
+      "year": 2016
+    },
+    {
+      "title": "Service Package Recommendation for Mashup Development Based on a Multi-level Relational Network",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-46295-0_46",
+      "publicationDate": "2016-10-10",
+      "year": 2016
+    },
+    {
+      "title": "A Package Recommendation Framework for Trip Planning Activities",
+      "arxiv_id": null,
+      "doi": "10.1145/2959100.2959183",
+      "publicationDate": "2016-09-07",
+      "year": 2016
+    },
+    {
+      "title": "Deep Neural Networks for YouTube Recommendations",
+      "arxiv_id": null,
+      "doi": "10.1145/2959100.2959190",
+      "publicationDate": "2016-09-07",
+      "year": 2016
+    },
+    {
+      "title": "Learning Points and Routes to Recommend Trajectories",
+      "arxiv_id": "1608.07051",
+      "doi": "10.1145/2983323.2983672",
+      "publicationDate": "2016-08-25",
+      "year": 2016
+    },
+    {
+      "title": "Mining Fashion Outfit Composition Using an End-to-End Deep Learning Approach on Set Data",
+      "arxiv_id": "1608.03016",
+      "doi": "10.1109/TMM.2017.2690144",
+      "publicationDate": "2016-08-10",
+      "year": 2016
+    },
+    {
+      "title": "Personalised News and Blog Recommendations based on User Location, Facebook and Twitter User Profiling",
+      "arxiv_id": null,
+      "doi": "10.1145/2911451.2911464",
+      "publicationDate": "2016-07-07",
+      "year": 2016
+    },
+    {
+      "title": "Wide & Deep Learning for Recommender Systems",
+      "arxiv_id": "1606.07792",
+      "doi": "10.1145/2988450.2988454",
+      "publicationDate": "2016-06-24",
+      "year": 2016
+    },
+    {
+      "title": "Service Package Recommendation for Mashup Creation via Mashup Textual Description Mining",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS.2016.65",
+      "publicationDate": "2016-06-01",
+      "year": 2016
+    },
+    {
+      "title": "MIMIC-III, a freely accessible critical care database",
+      "arxiv_id": null,
+      "doi": "10.1038/sdata.2016.35",
+      "publicationDate": "2016-05-01",
+      "year": 2016
+    },
+    {
+      "title": "Personalized Travel Package With Multi-Point-of-Interest Recommendation Based on Crowdsourced User Footprints",
+      "arxiv_id": null,
+      "doi": "10.1109/THMS.2015.2446953",
+      "publicationDate": "2016-02-01",
+      "year": 2016
+    },
+    {
+      "title": "The Netflix Recommender System",
+      "arxiv_id": null,
+      "doi": "10.1145/2843948",
+      "publicationDate": "2015-12-28",
+      "year": 2015
+    },
+    {
+      "title": "Collaborative Fashion Recommendation: A Functional Tensor Factorization Approach",
+      "arxiv_id": null,
+      "doi": "10.1145/2733373.2806239",
+      "publicationDate": "2015-10-13",
+      "year": 2015
+    },
+    {
+      "title": "Towards Automatic Meal Plan Recommendations for Balanced Nutrition",
+      "arxiv_id": null,
+      "doi": "10.1145/2792838.2799665",
+      "publicationDate": "2015-09-16",
+      "year": 2015
+    },
+    {
+      "title": "Personalized Tour Recommendation Based on User Interests and Points of Interest Visit Durations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-25",
+      "year": 2015
+    },
+    {
+      "title": "A Package Generation and Recommendation Framework Based on Travelogues",
+      "arxiv_id": null,
+      "doi": "10.1109/COMPSAC.2015.28",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Inferring Networks of Substitutable and Complementary Products",
+      "arxiv_id": "1506.08839",
+      "doi": "10.1145/2783258.2783381",
+      "publicationDate": "2015-06-29",
+      "year": 2015
+    },
+    {
+      "title": "Image-Based Recommendations on Styles and Substitutes",
+      "arxiv_id": "1506.04757",
+      "doi": "10.1145/2766462.2767755",
+      "publicationDate": "2015-06-15",
+      "year": 2015
+    },
+    {
+      "title": "Content-Based Collaborative Filtering for News Topic Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v29i1.9183",
+      "publicationDate": "2015-01-25",
+      "year": 2015
+    },
+    {
+      "title": "Recommending user generated item lists",
+      "arxiv_id": null,
+      "doi": "10.1145/2645710.2645750",
+      "publicationDate": "2014-10-06",
+      "year": 2014
+    },
+    {
+      "title": "Generating Top-k Packages via Preference Elicitation",
+      "arxiv_id": null,
+      "doi": "10.14778/2733085.2733099",
+      "publicationDate": "2014-10-01",
+      "year": 2014
+    },
+    {
+      "title": "Trip Recommendation with Multiple User Constraints by Integrating Point-of-Interests and Travel Packages",
+      "arxiv_id": null,
+      "doi": "10.1109/MDM.2014.10",
+      "publicationDate": "2014-07-14",
+      "year": 2014
+    },
+    {
+      "title": "Bundle recommendation in ecommerce",
+      "arxiv_id": null,
+      "doi": "10.1145/2600428.2609603",
+      "publicationDate": "2014-07-03",
+      "year": 2014
+    },
+    {
+      "title": "Deep content-based music recommendation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-12-05",
+      "year": 2013
+    },
+    {
+      "title": "A Versatile Graph-Based Approach to Package Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICTAI.2013.130",
+      "publicationDate": "2013-11-04",
+      "year": 2013
+    },
+    {
+      "title": "Collaborative filtering recommender systems",
+      "arxiv_id": null,
+      "doi": "10.19026/RJASET.5.4644",
+      "publicationDate": "2013-04-30",
+      "year": 2013
+    },
+    {
+      "title": "MAKM: A MAFIA-Based k-Means Algorithm for Short Text in Social Networks",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-37450-0_15",
+      "publicationDate": "2013-04-22",
+      "year": 2013
+    },
+    {
+      "title": "Hi, magic closet, tell me what to wear!",
+      "arxiv_id": null,
+      "doi": "10.1145/2393347.2393433",
+      "publicationDate": "2012-10-29",
+      "year": 2012
+    },
+    {
+      "title": "Personalized Travel Package Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDM.2011.118",
+      "publicationDate": "2011-12-11",
+      "year": 2011
+    },
+    {
+      "title": "Breaking out of the box of recommendations: from items to packages",
+      "arxiv_id": null,
+      "doi": "10.1145/1864708.1864739",
+      "publicationDate": "2010-09-26",
+      "year": 2010
+    },
+    {
+      "title": "Social media recommendation based on people and tags",
+      "arxiv_id": null,
+      "doi": "10.1145/1835449.1835484",
+      "publicationDate": "2010-07-19",
+      "year": 2010
+    },
+    {
+      "title": "Factorizing personalized Markov chains for next-basket recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/1772690.1772773",
+      "publicationDate": "2010-04-26",
+      "year": 2010
+    },
+    {
+      "title": "Personalized news recommendation based on click behavior",
+      "arxiv_id": null,
+      "doi": "10.1145/1719970.1719976",
+      "publicationDate": "2010-02-07",
+      "year": 2010
+    },
+    {
+      "title": "Using twitter to recommend real-time topical news",
+      "arxiv_id": null,
+      "doi": "10.1145/1639714.1639794",
+      "publicationDate": "2009-10-23",
+      "year": 2009
+    },
+    {
+      "title": "Matrix Factorization Techniques for Recommender Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/MC.2009.263",
+      "publicationDate": "2009-08-01",
+      "year": 2009
+    },
+    {
+      "title": "BPR: Bayesian Personalized Ranking from Implicit Feedback",
+      "arxiv_id": "1205.2618",
+      "doi": null,
+      "publicationDate": "2009-06-18",
+      "year": 2009
+    },
+    {
+      "title": "Google news personalization: scalable online collaborative filtering",
+      "arxiv_id": null,
+      "doi": "10.1145/1242572.1242610",
+      "publicationDate": "2007-05-08",
+      "year": 2007
+    },
+    {
+      "title": "Design of a shopbot and recommender system for bundle purchases",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dss.2006.05.005",
+      "publicationDate": "2006-12-01",
+      "year": 2006
+    },
+    {
+      "title": "Collaborative Filtering Based Recommendation System for Product Bundling",
+      "arxiv_id": null,
+      "doi": "10.1109/ICMSE.2006.313887",
+      "publicationDate": "2006-10-01",
+      "year": 2006
+    },
+    {
+      "title": "Item-based collaborative filtering recommendation algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/371920.372071",
+      "publicationDate": "2001-05-01",
+      "year": 2001
+    },
+    {
+      "title": "Empirical Analysis of Predictive Algorithms for Collaborative Filtering",
+      "arxiv_id": "1301.7363",
+      "doi": null,
+      "publicationDate": "1998-07-24",
+      "year": 1998
+    },
+    {
+      "title": "The geometry of graphs and some of its algorithmic applications",
+      "arxiv_id": null,
+      "doi": "10.1109/SFCS.1994.365733",
+      "publicationDate": "1994-11-20",
+      "year": 1994
+    },
+    {
+      "title": "Languagerepresentationscanbewhatrecommendersneed:Findingsandpotentials. In The ThirteenthInternationalConferenceonLearningRepresentations,ICLR2025,Singapore,April24-28,2025 ,2025",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Received 24 October 2024; revised 7 October 2025; accepted 24 February 2026",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "Harnessing Large Language Models for Multimodal Product Bundling",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2407.11712",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Hyperbolic Mutual Learning for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-30672-3_28",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Aggregately Diversified Bundle Recommendation via Popularity Debiasing and Configuration-Aware Reranking",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-33380-4_27",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "C3BR: Category-Aware Cross-View Contrastive Learning Framework for Bundle Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-35415-1_14",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Query2Trip: Dual-Debiased Learning for Neural Trip Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-031-30672-3_6",
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "bundle",
+      "arxiv_id": null,
+      "doi": "10.5040/9781501365287.318",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Socially-driven multi-interaction attentive group representation learning for group recommendation",
+      "arxiv_id": null,
+      "doi": "10.1016/j.patrec.2021.02.007",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "List Recommendation via Co-attentive User Preference Fine-Tuning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-92310-5_64",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "API-PROGRAM: An API Package Recommendation Model Based on the Graph Representation Learning Method",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-91431-8_63",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "MULTIPLE: Multi-level User Preference Learning for List Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-91560-5_16",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "GRAM-SMOT: Top-N Personalized Bundle Recommendation via Graph Attention Mechanism and Submodular Optimization",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-67664-3_18",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "API-Prefer: An API Package Recommender System Based on Composition Feature Learning",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-65310-1_36",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ACMSIGIRConferenceonResearchandDevelopmentinInformationRetrieval (SIGIR’24)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "ExplainableRecommendation:ASurveyandNewPerspectives. FoundationsandTrends®inInformationRetrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "DIETOS: A Recommender System for Health Profiling and Diet Management in Chronic Diseases",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "InternationalACMSIGIRConferenceonResearchandDevelopmentinInformationRetrieval,SIGIR2024,WashingtonDC,USA,July14-18,2024 ,SIGIR’24,pages914–923.ACM,2024. 33]",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "TheNetflixRecommenderSystem:Algorithms,BusinessValue,andInnovation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "AProbabilisticModelforDiversifyingRecommendationLists",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Hypergraph Models of Playlist Dialects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Medicinepackagerecommendationviadual-levelinteractionawareheterogeneousgraph. IEEEJournalof BiomedicalandHealthInformatics ,2024. 169] BrianMcFeeandGertRGLanckriet. Hypergraphmodelsofplaylistdialects",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Content-based Recommender Systems: State of the Art and Trends",
+      "arxiv_id": null,
+      "doi": "10.1007/978-0-387-85820-3_3",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "Content-Based Recommendation Systems",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-72079-9_10",
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Item-based top-N recommendation algorithms",
+      "arxiv_id": null,
+      "doi": "10.1145/963770.963776",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Amazon.com Recommendations: Item-to-Item Collaborative Filtering",
+      "arxiv_id": null,
+      "doi": "10.1109/MIC.2003.1167344",
+      "publicationDate": null,
+      "year": 2003
+    },
+    {
+      "title": "Learningdistinctrelationshipinpackagerecommendationwithgraphattentionnetworks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. MultiCBR: Multi-view contrastive learning for bundle recommendation. ACM Transactions on Information Systems 42, 4 (2024), 100:1–100:23",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Disentangled contrastive bundle recommendation with conditional diffusion (AAAI’25/ IAAI’25/EAAI’25)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "InternationalConference,DASFAA2023,Tianjin,China,April17-20,2023,Proceedings,PartII ,volume13944of LectureNotesinComputerScience ,pages80–96.Springer,2023. 138]",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Llara:Largelanguage-recommendationassistant",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. LessisMore:AStreamlinedGraph-BasedFashionOutfitRecommendationwithoutMultimodal Dependency",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2025. Divide-and-conquer: Cold-start bundle recommendation via mixture of diffusion experts",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. Blip:BootstrappingLanguage-imagePre-trainingforUnifiedVision-languageUnderstandingandGeneration",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. MealRec:AMealRecommendationDataset",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A Survey on Bundle Recommendation: Methods, Applications, and Challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

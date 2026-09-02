@@ -1,0 +1,8 @@
+topic: Bundle Recommendation
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1145/3802820
+  title: 'A Survey on Bundle Recommendation: Methods, Applications, and Challenges'
+  published: '2026-05-01'
+notes: 8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=207

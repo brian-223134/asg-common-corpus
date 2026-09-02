@@ -1,0 +1,2165 @@
+{
+  "candidate": {
+    "topic": "Graph Transformers: Architectures and Theories",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3834764",
+      "title": "A Survey of Graph Transformers: Architectures, Theories and Applications",
+      "published": "2026-08-22"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=210"
+  },
+  "extracted_at": "2026-09-02T02:30:07+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 304,
+    "arxiv_resolvable": 175,
+    "doi_only": 101,
+    "unresolved": 28
+  },
+  "gt_s2": {
+    "paperId": "6bfe4a32dbf4c58af83745e2fcf68217217a03ea",
+    "externalIds": {
+      "ArXiv": "2502.16533",
+      "DBLP": "journals/corr/abs-2502-16533",
+      "DOI": "10.1145/3834764",
+      "CorpusId": 276574573
+    },
+    "title": "A Survey of Graph Transformers: Architectures, Theories and Applications",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "referenceCount": 304,
+    "publicationDate": "2025-02-23"
+  },
+  "refs": [
+    {
+      "title": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
+      "arxiv_id": "2604.09130",
+      "doi": "10.48550/arXiv.2604.09130",
+      "publicationDate": "2026-04-10",
+      "year": 2026
+    },
+    {
+      "title": "NAGphormer+: A Tokenized Graph Transformer With Neighborhood Augmentation for Node Classification in Large Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/TBDATA.2024.3524081",
+      "publicationDate": "2025-08-01",
+      "year": 2025
+    },
+    {
+      "title": "Relational Graph Transformer",
+      "arxiv_id": "2505.10960",
+      "doi": "10.48550/arXiv.2505.10960",
+      "publicationDate": "2025-05-16",
+      "year": 2025
+    },
+    {
+      "title": "HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2025.3533610",
+      "publicationDate": "2025-04-01",
+      "year": 2025
+    },
+    {
+      "title": "Rankformer: A Graph Transformer for Recommendation based on Ranking Objective",
+      "arxiv_id": "2503.16927",
+      "doi": "10.1145/3696410.3714547",
+      "publicationDate": "2025-03-21",
+      "year": 2025
+    },
+    {
+      "title": "MolSpectra: Pre-training 3D Molecular Representation with Multi-modal Energy Spectra",
+      "arxiv_id": "2502.16284",
+      "doi": "10.48550/arXiv.2502.16284",
+      "publicationDate": "2025-02-22",
+      "year": 2025
+    },
+    {
+      "title": "Diffusion Models for Molecules: A Survey of Methods and Tasks",
+      "arxiv_id": "2502.09511",
+      "doi": "10.48550/arXiv.2502.09511",
+      "publicationDate": "2025-02-13",
+      "year": 2025
+    },
+    {
+      "title": "Biologically Plausible Brain Graph Transformer",
+      "arxiv_id": "2502.08958",
+      "doi": "10.48550/arXiv.2502.08958",
+      "publicationDate": "2025-02-13",
+      "year": 2025
+    },
+    {
+      "title": "Long-range Brain Graph Transformer",
+      "arxiv_id": "2501.01100",
+      "doi": "10.48550/arXiv.2501.01100",
+      "publicationDate": "2025-01-02",
+      "year": 2025
+    },
+    {
+      "title": "Benchmarking Positional Encodings for GNNs and Graph Transformers",
+      "arxiv_id": "2411.12732",
+      "doi": "10.1145/3770854.3785701",
+      "publicationDate": "2024-11-19",
+      "year": 2024
+    },
+    {
+      "title": "GraphXForm: Graph transformer for computer-aided molecular design with application to extraction",
+      "arxiv_id": "2411.01667",
+      "doi": "10.1039/D4DD00339J",
+      "publicationDate": "2024-11-03",
+      "year": 2024
+    },
+    {
+      "title": "Pin-Tuning: Parameter-Efficient In-Context Tuning for Few-Shot Molecular Property Prediction",
+      "arxiv_id": "2411.01158",
+      "doi": "10.48550/arXiv.2411.01158",
+      "publicationDate": "2024-11-02",
+      "year": 2024
+    },
+    {
+      "title": "Bi-Level Graph Structure Learning for Next POI Recommendation",
+      "arxiv_id": "2411.01169",
+      "doi": "10.1109/TKDE.2024.3397683",
+      "publicationDate": "2024-11-01",
+      "year": 2024
+    },
+    {
+      "title": "Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models",
+      "arxiv_id": "2410.12771",
+      "doi": "10.48550/arXiv.2410.12771",
+      "publicationDate": "2024-10-16",
+      "year": 2024
+    },
+    {
+      "title": "Data-driven quantum chemical property prediction leveraging 3D conformations with Uni-Mol+",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-024-51321-w",
+      "publicationDate": "2024-08-19",
+      "year": 2024
+    },
+    {
+      "title": "Stability Oracle: a structure-based graph-transformer framework for identifying stabilizing mutations",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-024-49780-2",
+      "publicationDate": "2024-07-23",
+      "year": 2024
+    },
+    {
+      "title": "Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation",
+      "arxiv_id": null,
+      "doi": "10.1109/TNNLS.2024.3416328",
+      "publicationDate": "2024-07-08",
+      "year": 2024
+    },
+    {
+      "title": "Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers",
+      "arxiv_id": "2406.19258",
+      "doi": "10.48550/arXiv.2406.19258",
+      "publicationDate": "2024-06-27",
+      "year": 2024
+    },
+    {
+      "title": "Aligning Transformers with Weisfeiler-Leman",
+      "arxiv_id": "2406.03148",
+      "doi": "10.48550/arXiv.2406.03148",
+      "publicationDate": "2024-06-05",
+      "year": 2024
+    },
+    {
+      "title": "What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding",
+      "arxiv_id": "2406.01977",
+      "doi": "10.48550/arXiv.2406.01977",
+      "publicationDate": "2024-06-04",
+      "year": 2024
+    },
+    {
+      "title": "Distinguished In Uniform: Self Attention Vs. Virtual Nodes",
+      "arxiv_id": "2405.11951",
+      "doi": "10.48550/arXiv.2405.11951",
+      "publicationDate": "2024-05-20",
+      "year": 2024
+    },
+    {
+      "title": "Lgt: long-range graph transformer for early rumor detection",
+      "arxiv_id": null,
+      "doi": "10.1007/s13278-024-01263-4",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+      "arxiv_id": "2405.04967",
+      "doi": null,
+      "publicationDate": "2024-05-08",
+      "year": 2024
+    },
+    {
+      "title": "Masked Graph Transformer for Large-Scale Recommendation",
+      "arxiv_id": "2405.04028",
+      "doi": "10.1145/3626772.3657971",
+      "publicationDate": "2024-05-07",
+      "year": 2024
+    },
+    {
+      "title": "A novel approach for rumor detection in social platforms: Memory-augmented transformer with graph convolutional networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2024.111625",
+      "publicationDate": "2024-05-01",
+      "year": 2024
+    },
+    {
+      "title": "SaProt: Protein Language Modeling with Structure-aware Vocabulary",
+      "arxiv_id": null,
+      "doi": "10.1101/2023.10.01.560349",
+      "publicationDate": "2024-04-19",
+      "year": 2024
+    },
+    {
+      "title": "Annotation-guided Protein Design with Multi-Level Domain Alignment",
+      "arxiv_id": "2404.16866",
+      "doi": "10.1145/3690624.3709199",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "SIGformer: Sign-aware Graph Transformer for Recommendation",
+      "arxiv_id": "2404.11982",
+      "doi": "10.1145/3626772.3657747",
+      "publicationDate": "2024-04-18",
+      "year": 2024
+    },
+    {
+      "title": "All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction",
+      "arxiv_id": "2403.17740",
+      "doi": "10.1109/ICDE65448.2025.00119",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification",
+      "arxiv_id": "2403.18134",
+      "doi": "10.48550/arXiv.2403.18134",
+      "publicationDate": "2024-03-26",
+      "year": 2024
+    },
+    {
+      "title": "Breast Cancer Classification From Digital Pathology Images via Connectivity-Aware Graph Transformer",
+      "arxiv_id": null,
+      "doi": "10.1109/TMI.2024.3381239",
+      "publicationDate": "2024-03-25",
+      "year": 2024
+    },
+    {
+      "title": "Bilingual language model for protein sequence and structure",
+      "arxiv_id": null,
+      "doi": "10.1093/nargab/lqae150",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i1.27781",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections",
+      "arxiv_id": "2403.16030",
+      "doi": "10.48550/arXiv.2403.16030",
+      "publicationDate": "2024-03-24",
+      "year": 2024
+    },
+    {
+      "title": "Complete and Efficient Graph Transformers for Crystal Material Property Prediction",
+      "arxiv_id": "2403.11857",
+      "doi": "10.48550/arXiv.2403.11857",
+      "publicationDate": "2024-03-18",
+      "year": 2024
+    },
+    {
+      "title": "Polynormer: Polynomial-Expressive Graph Transformer in Linear Time",
+      "arxiv_id": "2403.01232",
+      "doi": "10.48550/arXiv.2403.01232",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "A survey of geometric graph neural networks: data structures, models and applications",
+      "arxiv_id": "2403.00485",
+      "doi": "10.1007/s11704-025-41426-w",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "GraphormerDTI: A graph transformer-based approach for drug-target interaction prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compbiomed.2024.108339",
+      "publicationDate": "2024-03-01",
+      "year": 2024
+    },
+    {
+      "title": "Efficient Generation of Protein Pockets with PocketGen",
+      "arxiv_id": null,
+      "doi": "10.1038/s42256-024-00920-9",
+      "publicationDate": "2024-02-28",
+      "year": 2024
+    },
+    {
+      "title": "Comparing Graph Transformers via Positional Encodings",
+      "arxiv_id": "2402.14202",
+      "doi": "10.48550/arXiv.2402.14202",
+      "publicationDate": "2024-02-22",
+      "year": 2024
+    },
+    {
+      "title": "Graph Mamba: Towards Learning on Graphs with State Space Models",
+      "arxiv_id": "2402.08678",
+      "doi": "10.1145/3637528.3672044",
+      "publicationDate": "2024-02-13",
+      "year": 2024
+    },
+    {
+      "title": "Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers",
+      "arxiv_id": "2402.04538",
+      "doi": "10.48550/arXiv.2402.04538",
+      "publicationDate": "2024-02-07",
+      "year": 2024
+    },
+    {
+      "title": "A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer",
+      "arxiv_id": "2402.02464",
+      "doi": "10.48550/arXiv.2402.02464",
+      "publicationDate": "2024-02-04",
+      "year": 2024
+    },
+    {
+      "title": "Position: Graph Foundation Models Are Already Here",
+      "arxiv_id": "2402.02216",
+      "doi": null,
+      "publicationDate": "2024-02-03",
+      "year": 2024
+    },
+    {
+      "title": "Graph Diffusion Transformers for Multi-Conditional Molecular Generation",
+      "arxiv_id": "2401.13858",
+      "doi": "10.52202/079017-0260",
+      "publicationDate": "2024-01-24",
+      "year": 2024
+    },
+    {
+      "title": "Portable graph-based rumour detection against multi-modal heterophily",
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2023.111310",
+      "publicationDate": "2024-01-01",
+      "year": 2024
+    },
+    {
+      "title": "Flexible protein–protein docking with a multitrack iterative transformer",
+      "arxiv_id": null,
+      "doi": "10.1002/pro.4862",
+      "publicationDate": "2023-12-26",
+      "year": 2023
+    },
+    {
+      "title": "DPA-2: a large atomic model as a multi-task learner",
+      "arxiv_id": "2312.15492",
+      "doi": "10.1038/s41524-024-01493-2",
+      "publicationDate": "2023-12-24",
+      "year": 2023
+    },
+    {
+      "title": "Transformer and Snowball Graph Convolution Learning for Brain Functional Network Analysis",
+      "arxiv_id": null,
+      "doi": "10.1109/BIBM58861.2023.10385857",
+      "publicationDate": "2023-12-05",
+      "year": 2023
+    },
+    {
+      "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+      "arxiv_id": "2312.00752",
+      "doi": null,
+      "publicationDate": "2023-12-01",
+      "year": 2023
+    },
+    {
+      "title": "ProRefiner: an entropy-based refining strategy for inverse protein folding with global graph attention",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-023-43166-6",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neunet.2023.11.018",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "Sliced Denoising: A Physics-Informed Molecular Pre-Training Method",
+      "arxiv_id": "2311.02124",
+      "doi": "10.48550/arXiv.2311.02124",
+      "publicationDate": "2023-11-03",
+      "year": 2023
+    },
+    {
+      "title": "GTAMP-DTA: Graph transformer combined with attention mechanism for drug-target binding affinity prediction",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compbiolchem.2023.107982",
+      "publicationDate": "2023-11-01",
+      "year": 2023
+    },
+    {
+      "title": "Geometric Graph Learning for Protein Mutation Effect Prediction",
+      "arxiv_id": null,
+      "doi": "10.1145/3583780.3614893",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce",
+      "arxiv_id": null,
+      "doi": "10.1145/3583780.3614918",
+      "publicationDate": "2023-10-21",
+      "year": 2023
+    },
+    {
+      "title": "MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter",
+      "arxiv_id": "2310.12798",
+      "doi": "10.48550/arXiv.2310.12798",
+      "publicationDate": "2023-10-19",
+      "year": 2023
+    },
+    {
+      "title": "Signgt: signed attention-based graph transformer for graph representation learning",
+      "arxiv_id": "2310.11025",
+      "doi": "10.1007/s10115-026-02842-x",
+      "publicationDate": "2023-10-17",
+      "year": 2023
+    },
+    {
+      "title": "GSLB: The Graph Structure Learning Benchmark",
+      "arxiv_id": "2310.05174",
+      "doi": "10.48550/arXiv.2310.05174",
+      "publicationDate": "2023-10-08",
+      "year": 2023
+    },
+    {
+      "title": "On the Stability of Expressive Positional Encodings for Graphs",
+      "arxiv_id": "2310.02579",
+      "doi": null,
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "Full-Atom Protein Pocket Design via Iterative Refinement",
+      "arxiv_id": "2310.02553",
+      "doi": "10.52202/075280-0736",
+      "publicationDate": "2023-10-04",
+      "year": 2023
+    },
+    {
+      "title": "MG-Trans: Multi-Scale Graph Transformer With Information Bottleneck for Whole Slide Image Classification",
+      "arxiv_id": null,
+      "doi": "10.1109/TMI.2023.3313252",
+      "publicationDate": "2023-09-08",
+      "year": 2023
+    },
+    {
+      "title": "TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems",
+      "arxiv_id": "2308.14355",
+      "doi": "10.1145/3626772.3657721",
+      "publicationDate": "2023-08-28",
+      "year": 2023
+    },
+    {
+      "title": "SEGNO: Generalizing Equivariant Graph Neural Networks with Physical Inductive Biases",
+      "arxiv_id": "2308.13212",
+      "doi": null,
+      "publicationDate": "2023-08-25",
+      "year": 2023
+    },
+    {
+      "title": "Enhancing Graph Transformers with Hierarchical Distance Structural Encoding",
+      "arxiv_id": "2308.11129",
+      "doi": null,
+      "publicationDate": "2023-08-22",
+      "year": 2023
+    },
+    {
+      "title": "Dual-view Molecular Pre-training",
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599317",
+      "publicationDate": "2023-08-04",
+      "year": 2023
+    },
+    {
+      "title": "Fractional Denoising for 3D Molecular Pre-training",
+      "arxiv_id": "2307.10683",
+      "doi": "10.48550/arXiv.2307.10683",
+      "publicationDate": "2023-07-20",
+      "year": 2023
+    },
+    {
+      "title": "Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media",
+      "arxiv_id": "2307.09312",
+      "doi": "10.48550/arXiv.2307.09312",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "LightGT: A Light Graph Transformer for Multimedia Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3539618.3591716",
+      "publicationDate": "2023-07-18",
+      "year": 2023
+    },
+    {
+      "title": "Multimodal Molecular Pretraining via Modality Blending",
+      "arxiv_id": "2307.06235",
+      "doi": null,
+      "publicationDate": "2023-07-12",
+      "year": 2023
+    },
+    {
+      "title": "Hierarchical graph transformer with contrastive learning for protein function prediction",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btad410",
+      "publicationDate": "2023-06-27",
+      "year": 2023
+    },
+    {
+      "title": "Trafformer: Unify Time and Space in Traffic Prediction",
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i7.25980",
+      "publicationDate": "2023-06-26",
+      "year": 2023
+    },
+    {
+      "title": "EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations",
+      "arxiv_id": "2306.12059",
+      "doi": "10.48550/arXiv.2306.12059",
+      "publicationDate": "2023-06-21",
+      "year": 2023
+    },
+    {
+      "title": "Simplifying and Empowering Transformers for Large-Graph Representations",
+      "arxiv_id": "2306.10759",
+      "doi": "10.48550/arXiv.2306.10759",
+      "publicationDate": "2023-06-19",
+      "year": 2023
+    },
+    {
+      "title": "NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification",
+      "arxiv_id": "2306.08385",
+      "doi": "10.48550/arXiv.2306.08385",
+      "publicationDate": "2023-06-14",
+      "year": 2023
+    },
+    {
+      "title": "Gct-TTE: graph convolutional transformer for travel time estimation",
+      "arxiv_id": "2306.04324",
+      "doi": "10.1186/s40537-023-00841-1",
+      "publicationDate": "2023-06-07",
+      "year": 2023
+    },
+    {
+      "title": "Graph Inductive Biases in Transformers without Message Passing",
+      "arxiv_id": "2305.17589",
+      "doi": "10.48550/arXiv.2305.17589",
+      "publicationDate": "2023-05-27",
+      "year": 2023
+    },
+    {
+      "title": "Multimodal Graph Transformer for Multimodal Question Answering",
+      "arxiv_id": "2305.00581",
+      "doi": "10.48550/arXiv.2305.00581",
+      "publicationDate": "2023-04-30",
+      "year": 2023
+    },
+    {
+      "title": "MUDiff: Unified Diffusion for Complete Molecule Generation",
+      "arxiv_id": "2304.14621",
+      "doi": "10.48550/arXiv.2304.14621",
+      "publicationDate": "2023-04-28",
+      "year": 2023
+    },
+    {
+      "title": "A gated graph transformer for protein complex structure quality assessment and its performance in CASP15",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btad203",
+      "publicationDate": "2023-04-27",
+      "year": 2023
+    },
+    {
+      "title": "Transformer-Based Hierarchical Clustering for Brain Network Analysis",
+      "arxiv_id": "2305.04142",
+      "doi": "10.1109/ISBI53787.2023.10230606",
+      "publicationDate": "2023-04-18",
+      "year": 2023
+    },
+    {
+      "title": "Graph-BERT and language model-based framework for protein–protein interaction identification",
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-023-31612-w",
+      "publicationDate": "2023-04-06",
+      "year": 2023
+    },
+    {
+      "title": "SGFormer: Semantic Graph Transformer for Point Cloud-Based 3D Scene Graph Generation",
+      "arxiv_id": "2303.11048",
+      "doi": "10.1609/aaai.v38i5.28197",
+      "publicationDate": "2023-03-20",
+      "year": 2023
+    },
+    {
+      "title": "Exphormer: Sparse Transformers for Graphs",
+      "arxiv_id": "2303.06147",
+      "doi": "10.48550/arXiv.2303.06147",
+      "publicationDate": "2023-03-10",
+      "year": 2023
+    },
+    {
+      "title": "Single-Cell Multimodal Prediction via Transformers",
+      "arxiv_id": "2303.00233",
+      "doi": "10.1145/3583780.3615061",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images",
+      "arxiv_id": "2303.00865",
+      "doi": "10.1109/CVPR52729.2023.01111",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks",
+      "arxiv_id": "2302.11050",
+      "doi": "10.48550/arXiv.2302.11050",
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis",
+      "arxiv_id": "2302.10574",
+      "doi": "10.48550/arXiv.2302.10574",
+      "publicationDate": "2023-02-21",
+      "year": 2023
+    },
+    {
+      "title": "Attending to Graph Transformers",
+      "arxiv_id": "2302.04181",
+      "doi": "10.48550/arXiv.2302.04181",
+      "publicationDate": "2023-02-08",
+      "year": 2023
+    },
+    {
+      "title": "Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation",
+      "arxiv_id": "2302.03038",
+      "doi": "10.48550/arXiv.2302.03038",
+      "publicationDate": "2023-02-06",
+      "year": 2023
+    },
+    {
+      "title": "Structure-informed Language Models Are Protein Designers",
+      "arxiv_id": "2302.01649",
+      "doi": "10.1101/2023.02.03.526917",
+      "publicationDate": "2023-02-03",
+      "year": 2023
+    },
+    {
+      "title": "On the Connection Between MPNN and Graph Transformer",
+      "arxiv_id": "2301.11956",
+      "doi": "10.48550/arXiv.2301.11956",
+      "publicationDate": "2023-01-27",
+      "year": 2023
+    },
+    {
+      "title": "Rethinking the Expressive Power of GNNs via Graph Biconnectivity",
+      "arxiv_id": "2301.09505",
+      "doi": "10.48550/arXiv.2301.09505",
+      "publicationDate": "2023-01-23",
+      "year": 2023
+    },
+    {
+      "title": "Combining protein sequences and structures with transformers and equivariant graph neural networks to predict protein function",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btad208",
+      "publicationDate": "2023-01-20",
+      "year": 2023
+    },
+    {
+      "title": "DGTR: Dynamic graph transformer for rumor detection",
+      "arxiv_id": null,
+      "doi": "10.3389/frma.2022.1055348",
+      "publicationDate": "2023-01-11",
+      "year": 2023
+    },
+    {
+      "title": "Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation",
+      "arxiv_id": "2301.00427",
+      "doi": "10.48550/arXiv.2301.00427",
+      "publicationDate": "2023-01-01",
+      "year": 2023
+    },
+    {
+      "title": "A Generalization of ViT/MLP-Mixer to Graphs",
+      "arxiv_id": "2212.13350",
+      "doi": "10.48550/arXiv.2212.13350",
+      "publicationDate": "2022-12-27",
+      "year": 2022
+    },
+    {
+      "title": "Evolutionary-scale prediction of atomic level protein structure with a language model",
+      "arxiv_id": null,
+      "doi": "10.1126/science.ade2574",
+      "publicationDate": "2022-12-21",
+      "year": 2022
+    },
+    {
+      "title": "A Retrieve-and-Read Framework for Knowledge Graph Link Prediction",
+      "arxiv_id": "2212.09724",
+      "doi": "10.1145/3583780.3614769",
+      "publicationDate": "2022-12-19",
+      "year": 2022
+    },
+    {
+      "title": "BatmanNet: bi-branch masked graph transformer autoencoder for molecular representation",
+      "arxiv_id": "2211.13979",
+      "doi": "10.1093/bib/bbad400",
+      "publicationDate": "2022-11-25",
+      "year": 2022
+    },
+    {
+      "title": "Graph Transformer Geometric Learning of Brain Networks Using Multimodal MR Images for Brain Age Estimation",
+      "arxiv_id": null,
+      "doi": "10.1109/TMI.2022.3222093",
+      "publicationDate": "2022-11-14",
+      "year": 2022
+    },
+    {
+      "title": "Inductive Graph Transformer for Delivery Time Estimation",
+      "arxiv_id": "2211.02863",
+      "doi": "10.1145/3539597.3570409",
+      "publicationDate": "2022-11-05",
+      "year": 2022
+    },
+    {
+      "title": "Brain Network Transformer",
+      "arxiv_id": "2210.06681",
+      "doi": "10.48550/arXiv.2210.06681",
+      "publicationDate": "2022-10-13",
+      "year": 2022
+    },
+    {
+      "title": "Hierarchical Graph Transformer with Adaptive Node Sampling",
+      "arxiv_id": "2210.03930",
+      "doi": "10.48550/arXiv.2210.03930",
+      "publicationDate": "2022-10-08",
+      "year": 2022
+    },
+    {
+      "title": "One Transformer Can Understand Both 2D & 3D Molecular Data",
+      "arxiv_id": "2210.01765",
+      "doi": "10.48550/arXiv.2210.01765",
+      "publicationDate": "2022-10-04",
+      "year": 2022
+    },
+    {
+      "title": "DiGress: Discrete Denoising diffusion for graph generation",
+      "arxiv_id": "2209.14734",
+      "doi": "10.48550/arXiv.2209.14734",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "Accurate global machine learning force fields for molecules with hundreds of atoms",
+      "arxiv_id": "2209.14865",
+      "doi": "10.1126/sciadv.adf0873",
+      "publicationDate": "2022-09-29",
+      "year": 2022
+    },
+    {
+      "title": "Periodic Graph Transformers for Crystal Material Property Prediction",
+      "arxiv_id": "2209.11807",
+      "doi": "10.48550/arXiv.2209.11807",
+      "publicationDate": "2022-09-23",
+      "year": 2022
+    },
+    {
+      "title": "Learning inverse folding from millions of predicted structures",
+      "arxiv_id": null,
+      "doi": "10.1101/2022.04.10.487779",
+      "publicationDate": "2022-09-06",
+      "year": 2022
+    },
+    {
+      "title": "CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction",
+      "arxiv_id": null,
+      "doi": "10.1109/BIBM55620.2022.9995324",
+      "publicationDate": "2022-08-29",
+      "year": 2022
+    },
+    {
+      "title": "Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries",
+      "arxiv_id": "2208.07638",
+      "doi": "10.1145/3534678.3539472",
+      "publicationDate": "2022-08-14",
+      "year": 2022
+    },
+    {
+      "title": "Boosting Protein-Ligand Binding Pose Prediction and Virtual Screening Based on Residue-Atom Distance Likelihood Potential and Graph Transformer.",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jmedchem.2c00991",
+      "publicationDate": "2022-08-02",
+      "year": 2022
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "arxiv_id": "2207.02505",
+      "doi": "10.48550/arXiv.2207.02505",
+      "publicationDate": "2022-07-06",
+      "year": 2022
+    },
+    {
+      "title": "Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs",
+      "arxiv_id": "2206.11990",
+      "doi": "10.48550/arXiv.2206.11990",
+      "publicationDate": "2022-06-23",
+      "year": 2022
+    },
+    {
+      "title": "Long Range Graph Benchmark",
+      "arxiv_id": "2206.08164",
+      "doi": "10.48550/arXiv.2206.08164",
+      "publicationDate": "2022-06-16",
+      "year": 2022
+    },
+    {
+      "title": "NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs",
+      "arxiv_id": "2206.04910",
+      "doi": null,
+      "publicationDate": "2022-06-10",
+      "year": 2022
+    },
+    {
+      "title": "PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding",
+      "arxiv_id": "2206.02096",
+      "doi": "10.48550/arXiv.2206.02096",
+      "publicationDate": "2022-06-05",
+      "year": 2022
+    },
+    {
+      "title": "KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction",
+      "arxiv_id": "2206.03364",
+      "doi": "10.1145/3534678.3539426",
+      "publicationDate": "2022-06-02",
+      "year": 2022
+    },
+    {
+      "title": "Multi-Modal Dynamic Graph Transformer for Visual Grounding",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR52688.2022.01509",
+      "publicationDate": "2022-06-01",
+      "year": 2022
+    },
+    {
+      "title": "Pre-training via Denoising for Molecular Property Prediction",
+      "arxiv_id": "2206.00133",
+      "doi": "10.48550/arXiv.2206.00133",
+      "publicationDate": "2022-05-31",
+      "year": 2022
+    },
+    {
+      "title": "Recipe for a General, Powerful, Scalable Graph Transformer",
+      "arxiv_id": "2205.12454",
+      "doi": "10.48550/arXiv.2205.12454",
+      "publicationDate": "2022-05-25",
+      "year": 2022
+    },
+    {
+      "title": "Relphormer: Relational Graph Transformer for Knowledge Graph Representation",
+      "arxiv_id": "2205.10852",
+      "doi": "10.1016/j.neucom.2023.127044",
+      "publicationDate": "2022-05-22",
+      "year": 2022
+    },
+    {
+      "title": "Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks",
+      "arxiv_id": "2205.10282",
+      "doi": "10.1145/3580305.3599376",
+      "publicationDate": "2022-05-20",
+      "year": 2022
+    },
+    {
+      "title": "A Graph-Transformer for Whole Slide Image Classification",
+      "arxiv_id": "2205.09671",
+      "doi": "10.1109/TMI.2022.3176598",
+      "publicationDate": "2022-05-19",
+      "year": 2022
+    },
+    {
+      "title": "Translation between Molecules and Natural Language",
+      "arxiv_id": "2204.11817",
+      "doi": "10.48550/arXiv.2204.11817",
+      "publicationDate": "2022-04-25",
+      "year": 2022
+    },
+    {
+      "title": "Sign and Basis Invariant Networks for Spectral Graph Representation Learning",
+      "arxiv_id": "2202.13013",
+      "doi": null,
+      "publicationDate": "2022-02-25",
+      "year": 2022
+    },
+    {
+      "title": "Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation",
+      "arxiv_id": "2202.11742",
+      "doi": "10.1109/CVPR52688.2022.01604",
+      "publicationDate": "2022-02-23",
+      "year": 2022
+    },
+    {
+      "title": "Message passing all the way up",
+      "arxiv_id": "2202.11097",
+      "doi": null,
+      "publicationDate": "2022-02-22",
+      "year": 2022
+    },
+    {
+      "title": "Transformer for Graphs: An Overview from Architecture Perspective",
+      "arxiv_id": "2202.08455",
+      "doi": null,
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "Revisiting Over-smoothing in BERT from the Perspective of Graph",
+      "arxiv_id": "2202.08625",
+      "doi": null,
+      "publicationDate": "2022-02-17",
+      "year": 2022
+    },
+    {
+      "title": "Transformers in Time Series: A Survey",
+      "arxiv_id": "2202.07125",
+      "doi": "10.24963/ijcai.2023/759",
+      "publicationDate": "2022-02-15",
+      "year": 2022
+    },
+    {
+      "title": "Structure-Aware Transformer for Graph Representation Learning",
+      "arxiv_id": "2202.03036",
+      "doi": null,
+      "publicationDate": "2022-02-07",
+      "year": 2022
+    },
+    {
+      "title": "Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer",
+      "arxiv_id": "2201.13311",
+      "doi": "10.1145/3477495.3532031",
+      "publicationDate": "2022-01-25",
+      "year": 2022
+    },
+    {
+      "title": "AlphaFold2-aware protein-DNA binding site prediction using graph transformer",
+      "arxiv_id": null,
+      "doi": "10.1093/bib/bbab564",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Weisfeiler and Leman go Machine Learning: The Story so far",
+      "arxiv_id": "2112.09992",
+      "doi": null,
+      "publicationDate": "2021-12-18",
+      "year": 2021
+    },
+    {
+      "title": "Graph Structure Learning with Variational Information Bottleneck",
+      "arxiv_id": "2112.08903",
+      "doi": "10.1609/aaai.v36i4.20335",
+      "publicationDate": "2021-12-16",
+      "year": 2021
+    },
+    {
+      "title": "SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction",
+      "arxiv_id": "2112.02459",
+      "doi": "10.1109/TNNLS.2023.3250485",
+      "publicationDate": "2021-12-05",
+      "year": 2021
+    },
+    {
+      "title": "A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose",
+      "arxiv_id": "2111.12696",
+      "doi": "10.1145/3503161.3547844",
+      "publicationDate": "2021-11-24",
+      "year": 2021
+    },
+    {
+      "title": "FLIP: Benchmark tasks in fitness landscape inference for proteins",
+      "arxiv_id": null,
+      "doi": "10.1101/2021.11.09.467890",
+      "publicationDate": "2021-11-11",
+      "year": 2021
+    },
+    {
+      "title": "Pre-training Graph Transformer with Multimodal Side Information for Recommendation",
+      "arxiv_id": null,
+      "doi": "10.1145/3474085.3475709",
+      "publicationDate": "2021-10-17",
+      "year": 2021
+    },
+    {
+      "title": "Graph Neural Networks with Learnable Structural and Positional Representations",
+      "arxiv_id": "2110.07875",
+      "doi": null,
+      "publicationDate": "2021-10-15",
+      "year": 2021
+    },
+    {
+      "title": "Improved Drug-target Interaction Prediction with Intermolecular Graph Transformer",
+      "arxiv_id": "2110.07347",
+      "doi": "10.1093/bib/bbac162",
+      "publicationDate": "2021-10-14",
+      "year": 2021
+    },
+    {
+      "title": "Relative molecule self-attention transformer",
+      "arxiv_id": "2110.05841",
+      "doi": "10.1186/s13321-023-00789-7",
+      "publicationDate": "2021-10-12",
+      "year": 2021
+    },
+    {
+      "title": "Hybrid Graph Embedding Techniques in Estimated Time of Arrival Task",
+      "arxiv_id": "2110.04228",
+      "doi": "10.1007/978-3-030-93413-2_48",
+      "publicationDate": "2021-10-08",
+      "year": 2021
+    },
+    {
+      "title": "Geometric Transformers for Protein Interface Contact Prediction",
+      "arxiv_id": "2110.02423",
+      "doi": null,
+      "publicationDate": "2021-10-06",
+      "year": 2021
+    },
+    {
+      "title": "Molecule3D: A Benchmark for Predicting 3D Geometries from Molecular Graphs",
+      "arxiv_id": "2110.01717",
+      "doi": null,
+      "publicationDate": "2021-09-30",
+      "year": 2021
+    },
+    {
+      "title": "Predictive models of response to neoadjuvant chemotherapy in muscle-invasive bladder cancer using nuclear morphology and tissue architecture",
+      "arxiv_id": null,
+      "doi": "10.1016/j.xcrm.2021.100382",
+      "publicationDate": "2021-08-27",
+      "year": 2021
+    },
+    {
+      "title": "Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection",
+      "arxiv_id": null,
+      "doi": "10.1145/3447548.3467168",
+      "publicationDate": "2021-08-14",
+      "year": 2021
+    },
+    {
+      "title": "Global Self-Attention as a Replacement for Graph Convolution",
+      "arxiv_id": "2108.03348",
+      "doi": "10.1145/3534678.3539296",
+      "publicationDate": "2021-08-07",
+      "year": 2021
+    },
+    {
+      "title": "PoseGTAC: Graph Transformer Encoder-Decoder with Atrous Convolution for 3D Human Pose Estimation",
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2021/188",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "Property-Aware Relation Networks for Few-Shot Molecular Property Prediction",
+      "arxiv_id": "2107.07994",
+      "doi": "10.1109/TPAMI.2024.3368090",
+      "publicationDate": "2021-07-16",
+      "year": 2021
+    },
+    {
+      "title": "From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers",
+      "arxiv_id": "2107.07999",
+      "doi": null,
+      "publicationDate": "2021-07-16",
+      "year": 2021
+    },
+    {
+      "title": "GraphiT: Encoding Graph Structure in Transformers",
+      "arxiv_id": "2106.05667",
+      "doi": null,
+      "publicationDate": "2021-06-10",
+      "year": 2021
+    },
+    {
+      "title": "Rethinking Graph Transformers with Spectral Attention",
+      "arxiv_id": "2106.03893",
+      "doi": null,
+      "publicationDate": "2021-06-07",
+      "year": 2021
+    },
+    {
+      "title": "Atomistic Line Graph Neural Network for improved materials property predictions",
+      "arxiv_id": "2106.01829",
+      "doi": "10.1038/s41524-021-00650-1",
+      "publicationDate": "2021-06-03",
+      "year": 2021
+    },
+    {
+      "title": "Structure-based protein function prediction using graph convolutional networks",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-021-23303-9",
+      "publicationDate": "2021-05-26",
+      "year": 2021
+    },
+    {
+      "title": "GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph",
+      "arxiv_id": "2105.02605",
+      "doi": null,
+      "publicationDate": "2021-05-06",
+      "year": 2021
+    },
+    {
+      "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+      "arxiv_id": "2104.09864",
+      "doi": "10.1016/j.neucom.2023.127063",
+      "publicationDate": "2021-04-20",
+      "year": 2021
+    },
+    {
+      "title": "Mesh Graphormer",
+      "arxiv_id": "2104.00272",
+      "doi": "10.1109/ICCV48922.2021.01270",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "SOON: Scenario Oriented Object Navigation with Graph-based Exploration",
+      "arxiv_id": "2103.17138",
+      "doi": "10.1109/CVPR46437.2021.01250",
+      "publicationDate": "2021-03-31",
+      "year": 2021
+    },
+    {
+      "title": "OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs",
+      "arxiv_id": "2103.09430",
+      "doi": null,
+      "publicationDate": "2021-03-17",
+      "year": 2021
+    },
+    {
+      "title": "E(n) Equivariant Graph Neural Networks",
+      "arxiv_id": "2102.09844",
+      "doi": null,
+      "publicationDate": "2021-02-19",
+      "year": 2021
+    },
+    {
+      "title": "A Generalization of Transformer Networks to Graphs",
+      "arxiv_id": "2012.09699",
+      "doi": null,
+      "publicationDate": "2020-12-17",
+      "year": 2020
+    },
+    {
+      "title": "Text Graph Transformer for Document Classification",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.emnlp-main.668",
+      "publicationDate": "2020-11-01",
+      "year": 2020
+    },
+    {
+      "title": "ZINC20 – A Free Ultra Large-Scale Chemical Database for Ligand Discovery",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.0c00675",
+      "publicationDate": "2020-10-29",
+      "year": 2020
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "arxiv_id": "2010.11929",
+      "doi": null,
+      "publicationDate": "2020-10-22",
+      "year": 2020
+    },
+    {
+      "title": "Rethinking Attention with Performers",
+      "arxiv_id": "2009.14794",
+      "doi": null,
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "Learning from Protein Structure with Geometric Vector Perceptrons",
+      "arxiv_id": "2009.01411",
+      "doi": null,
+      "publicationDate": "2020-09-03",
+      "year": 2020
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "arxiv_id": "2007.14062",
+      "doi": null,
+      "publicationDate": "2020-07-28",
+      "year": 2020
+    },
+    {
+      "title": "Simple and Deep Graph Convolutional Networks",
+      "arxiv_id": "2007.02133",
+      "doi": null,
+      "publicationDate": "2020-07-04",
+      "year": 2020
+    },
+    {
+      "title": "The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design",
+      "arxiv_id": "2007.01831",
+      "doi": "10.1038/s41524-020-00440-1",
+      "publicationDate": "2020-07-03",
+      "year": 2020
+    },
+    {
+      "title": "Heterogeneous Graph Transformer for Graph-to-Sequence Learning",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2020.acl-main.640",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks",
+      "arxiv_id": "2006.10503",
+      "doi": null,
+      "publicationDate": "2020-06-18",
+      "year": 2020
+    },
+    {
+      "title": "Self-Supervised Graph Transformer on Large-Scale Molecular Data",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2020-06-18",
+      "year": 2020
+    },
+    {
+      "title": "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction",
+      "arxiv_id": "2005.08514",
+      "doi": "10.1007/978-3-030-58610-2_30",
+      "publicationDate": "2020-05-18",
+      "year": 2020
+    },
+    {
+      "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+      "arxiv_id": "2005.00687",
+      "doi": null,
+      "publicationDate": "2020-05-02",
+      "year": 2020
+    },
+    {
+      "title": "Benchmarking materials property prediction methods: the Matbench test set and Automatminer reference algorithm",
+      "arxiv_id": "2005.00707",
+      "doi": "10.1038/s41524-020-00406-3",
+      "publicationDate": "2020-05-02",
+      "year": 2020
+    },
+    {
+      "title": "Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions",
+      "arxiv_id": "2004.03967",
+      "doi": "10.1109/cvpr42600.2020.00402",
+      "publicationDate": "2020-04-08",
+      "year": 2020
+    },
+    {
+      "title": "Molecule Attention Transformer",
+      "arxiv_id": "2002.08264",
+      "doi": null,
+      "publicationDate": "2020-02-19",
+      "year": 2020
+    },
+    {
+      "title": "Interpretable Rumor Detection in Microblogs by Attending to User Interactions",
+      "arxiv_id": "2001.10667",
+      "doi": "10.1609/AAAI.V34I05.6405",
+      "publicationDate": "2020-01-29",
+      "year": 2020
+    },
+    {
+      "title": "Graph-Bert: Only Attention is Needed for Learning Graph Representations",
+      "arxiv_id": "2001.05140",
+      "doi": null,
+      "publicationDate": "2020-01-15",
+      "year": 2020
+    },
+    {
+      "title": "Graph Transformer for Graph-to-Sequence Learning",
+      "arxiv_id": "1911.07470",
+      "doi": "10.1609/AAAI.V34I05.6243",
+      "publicationDate": "2019-11-18",
+      "year": 2019
+    },
+    {
+      "title": "GMAN: A Graph Multi-Attention Network for Traffic Prediction",
+      "arxiv_id": "1911.08415",
+      "doi": "10.1609/AAAI.V34I01.5477",
+      "publicationDate": "2019-11-11",
+      "year": 2019
+    },
+    {
+      "title": "Multi-scale Attributed Node Embedding",
+      "arxiv_id": "1909.13021",
+      "doi": "10.1093/comnet/cnab014",
+      "publicationDate": "2019-09-25",
+      "year": 2019
+    },
+    {
+      "title": "FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape From Single RGB Images",
+      "arxiv_id": "1909.04349",
+      "doi": "10.1109/ICCV.2019.00090",
+      "publicationDate": "2019-09-10",
+      "year": 2019
+    },
+    {
+      "title": "Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View",
+      "arxiv_id": "1909.03211",
+      "doi": "10.1609/AAAI.V34I04.5747",
+      "publicationDate": "2019-09-07",
+      "year": 2019
+    },
+    {
+      "title": "Modeling Graph Structure in Transformer for Better AMR-to-Text Generation",
+      "arxiv_id": "1909.00136",
+      "doi": "10.18653/v1/D19-1548",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification",
+      "arxiv_id": "1907.10903",
+      "doi": null,
+      "publicationDate": "2019-07-25",
+      "year": 2019
+    },
+    {
+      "title": "Evaluating Protein Transfer Learning with TAPE",
+      "arxiv_id": "1906.08230",
+      "doi": "10.1101/676825",
+      "publicationDate": "2019-06-19",
+      "year": 2019
+    },
+    {
+      "title": "FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/N19-1028",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Self-referencing embedded strings (SELFIES): A 100% robust molecular string representation",
+      "arxiv_id": null,
+      "doi": "10.1088/2632-2153/aba947",
+      "publicationDate": "2019-05-31",
+      "year": 2019
+    },
+    {
+      "title": "Fine-Grained Spoiler Detection from Large-Scale Review Corpora",
+      "arxiv_id": "1905.13416",
+      "doi": "10.18653/v1/P19-1248",
+      "publicationDate": "2019-05-31",
+      "year": 2019
+    },
+    {
+      "title": "POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion",
+      "arxiv_id": "1905.01866",
+      "doi": "10.1145/3292500.3330652",
+      "publicationDate": "2019-05-06",
+      "year": 2019
+    },
+    {
+      "title": "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments",
+      "arxiv_id": "1904.10151",
+      "doi": "10.1109/cvpr42600.2020.01000",
+      "publicationDate": "2019-04-23",
+      "year": 2019
+    },
+    {
+      "title": "Reduced default mode network functional connectivity in patients with recurrent major depressive disorder",
+      "arxiv_id": null,
+      "doi": "10.1073/pnas.1900390116",
+      "publicationDate": "2019-04-12",
+      "year": 2019
+    },
+    {
+      "title": "Text Generation from Knowledge Graphs with Graph Transformers",
+      "arxiv_id": "1904.02342",
+      "doi": "10.18653/v1/N19-1238",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+      "arxiv_id": "1811.12823",
+      "doi": "10.3389/fphar.2020.565644",
+      "publicationDate": "2018-11-29",
+      "year": 2018
+    },
+    {
+      "title": "Comparative Assessment of Scoring Functions: The CASF-2016 Update",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.8b00545",
+      "publicationDate": "2018-11-27",
+      "year": 2018
+    },
+    {
+      "title": "GuacaMol: Benchmarking Models for De Novo Molecular Design",
+      "arxiv_id": "1811.09621",
+      "doi": "10.1021/acs.jcim.8b00839",
+      "publicationDate": "2018-11-22",
+      "year": 2018
+    },
+    {
+      "title": "TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents",
+      "arxiv_id": "1811.02146",
+      "doi": "10.1609/aaai.v33i01.33016120",
+      "publicationDate": "2018-11-06",
+      "year": 2018
+    },
+    {
+      "title": "The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV.2019.00246",
+      "publicationDate": "2018-10-14",
+      "year": 2018
+    },
+    {
+      "title": "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks",
+      "arxiv_id": "1810.02244",
+      "doi": "10.1609/aaai.v33i01.33014602",
+      "publicationDate": "2018-10-04",
+      "year": 2018
+    },
+    {
+      "title": "How Powerful are Graph Neural Networks?",
+      "arxiv_id": "1810.00826",
+      "doi": null,
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Invariant and Equivariant Graph Networks",
+      "arxiv_id": "1812.09902",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+      "arxiv_id": "1810.05997",
+      "doi": null,
+      "publicationDate": "2018-09-27",
+      "year": 2018
+    },
+    {
+      "title": "Recovering Accurate 3D Human Pose in the Wild Using IMUs and a Moving Camera",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-030-01249-6_37",
+      "publicationDate": "2018-09-08",
+      "year": 2018
+    },
+    {
+      "title": "End-to-End Learning on 3D Protein Structure for Interface Prediction",
+      "arxiv_id": "1807.01297",
+      "doi": null,
+      "publicationDate": "2018-07-03",
+      "year": 2018
+    },
+    {
+      "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+      "arxiv_id": "1806.03536",
+      "doi": null,
+      "publicationDate": "2018-06-09",
+      "year": 2018
+    },
+    {
+      "title": "Detect Rumor and Stance Jointly by Neural Multi-task Learning",
+      "arxiv_id": null,
+      "doi": "10.1145/3184558.3188729",
+      "publicationDate": "2018-04-23",
+      "year": 2018
+    },
+    {
+      "title": "The Adolescent Brain Cognitive Development (ABCD) study: Imaging acquisition across 21 sites",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dcn.2018.03.001",
+      "publicationDate": "2018-03-14",
+      "year": 2018
+    },
+    {
+      "title": "Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments",
+      "arxiv_id": "1711.07280",
+      "doi": "10.1109/CVPR.2018.00387",
+      "publicationDate": "2017-11-20",
+      "year": 2017
+    },
+    {
+      "title": "DeepLoc: prediction of protein subcellular localization using deep learning",
+      "arxiv_id": null,
+      "doi": "10.1093/bioinformatics/btx431",
+      "publicationDate": "2017-11-01",
+      "year": 2017
+    },
+    {
+      "title": "Graph Attention Networks",
+      "arxiv_id": "1710.10903",
+      "doi": "10.17863/CAM.48429",
+      "publicationDate": "2017-10-30",
+      "year": 2017
+    },
+    {
+      "title": "Social Attention: Modeling Attention in Human Crowds",
+      "arxiv_id": "1710.04689",
+      "doi": "10.1109/ICRA.2018.8460504",
+      "publicationDate": "2017-10-12",
+      "year": 2017
+    },
+    {
+      "title": "The WebNLG Challenge: Generating Text from RDF Data",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/W17-3518",
+      "publicationDate": "2017-09-01",
+      "year": 2017
+    },
+    {
+      "title": "DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning",
+      "arxiv_id": "1707.06690",
+      "doi": "10.18653/v1/D17-1060",
+      "publicationDate": "2017-07-20",
+      "year": 2017
+    },
+    {
+      "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-06",
+      "year": 2017
+    },
+    {
+      "title": "Convolutional 2D Knowledge Graph Embeddings",
+      "arxiv_id": "1707.01476",
+      "doi": "10.1609/aaai.v32i1.11573",
+      "publicationDate": "2017-07-05",
+      "year": 2017
+    },
+    {
+      "title": "Attention is All you Need",
+      "arxiv_id": "1706.03762",
+      "doi": null,
+      "publicationDate": "2017-06-12",
+      "year": 2017
+    },
+    {
+      "title": "Convolutional Sequence to Sequence Learning",
+      "arxiv_id": "1705.03122",
+      "doi": null,
+      "publicationDate": "2017-05-08",
+      "year": 2017
+    },
+    {
+      "title": "Neural Message Passing for Quantum Chemistry",
+      "arxiv_id": "1704.01212",
+      "doi": null,
+      "publicationDate": "2017-04-04",
+      "year": 2017
+    },
+    {
+      "title": "MoleculeNet: a benchmark for molecular machine learning",
+      "arxiv_id": "1703.00564",
+      "doi": "10.1039/c7sc02664a",
+      "publicationDate": "2017-03-02",
+      "year": 2017
+    },
+    {
+      "title": "Machine learning of accurate energy-conserving molecular force fields",
+      "arxiv_id": "1611.04678",
+      "doi": "10.1126/sciadv.1603015",
+      "publicationDate": "2016-11-15",
+      "year": 2016
+    },
+    {
+      "title": "Computational Modeling of β-Secretase 1 (BACE-1) Inhibitors Using Ligand Based Approaches",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.6b00290",
+      "publicationDate": "2016-10-10",
+      "year": 2016
+    },
+    {
+      "title": "A data-driven approach to predicting successes and failures of clinical trials",
+      "arxiv_id": null,
+      "doi": "10.1016/j.chembiol.2016.07.023",
+      "publicationDate": "2016-09-15",
+      "year": 2016
+    },
+    {
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "arxiv_id": "1609.02907",
+      "doi": null,
+      "publicationDate": "2016-09-09",
+      "year": 2016
+    },
+    {
+      "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/P16-2033",
+      "publicationDate": "2016-08-07",
+      "year": 2016
+    },
+    {
+      "title": "Modeling Context in Referring Expressions",
+      "arxiv_id": "1608.00272",
+      "doi": "10.1007/978-3-319-46475-6_5",
+      "publicationDate": "2016-07-31",
+      "year": 2016
+    },
+    {
+      "title": "Layer Normalization",
+      "arxiv_id": "1607.06450",
+      "doi": null,
+      "publicationDate": "2016-07-21",
+      "year": 2016
+    },
+    {
+      "title": "ToxCast Chemical Landscape: Paving the Road to 21st Century Toxicology.",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.chemrestox.6b00135",
+      "publicationDate": "2016-07-20",
+      "year": 2016
+    },
+    {
+      "title": "node2vec: Scalable Feature Learning for Networks",
+      "arxiv_id": "1607.00653",
+      "doi": "10.1145/2939672.2939754",
+      "publicationDate": "2016-07-03",
+      "year": 2016
+    },
+    {
+      "title": "Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering",
+      "arxiv_id": "1602.01585",
+      "doi": "10.1145/2872427.2883037",
+      "publicationDate": "2016-02-04",
+      "year": 2016
+    },
+    {
+      "title": "Generation and Comprehension of Unambiguous Object Descriptions",
+      "arxiv_id": "1511.02283",
+      "doi": "10.1109/CVPR.2016.9",
+      "publicationDate": "2015-11-07",
+      "year": 2015
+    },
+    {
+      "title": "The SIDER database of drugs and side effects",
+      "arxiv_id": null,
+      "doi": "10.1093/nar/gkv1075",
+      "publicationDate": "2015-10-19",
+      "year": 2015
+    },
+    {
+      "title": "ZINC 15 – Ligand Discovery for Everyone",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.5b00559",
+      "publicationDate": "2015-10-19",
+      "year": 2015
+    },
+    {
+      "title": "Observed versus latent features for knowledge base and text inference",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/W15-4007",
+      "publicationDate": "2015-07-30",
+      "year": 2015
+    },
+    {
+      "title": "Updates to the integrated protein-protein interaction benchmarks: Docking benchmark version 5 and affinity benchmark version 2",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jmb.2015.07.016",
+      "publicationDate": "2015-07-29",
+      "year": 2015
+    },
+    {
+      "title": "The CPTAC Data Portal: A Resource for Cancer Proteomics Research.",
+      "arxiv_id": null,
+      "doi": "10.1021/pr501254j",
+      "publicationDate": "2015-05-04",
+      "year": 2015
+    },
+    {
+      "title": "Electronic spectra from TDDFT and machine learning in chemical space.",
+      "arxiv_id": "1504.01966",
+      "doi": "10.1063/1.4928757",
+      "publicationDate": "2015-04-08",
+      "year": 2015
+    },
+    {
+      "title": "UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age",
+      "arxiv_id": null,
+      "doi": "10.1371/journal.pmed.1001779",
+      "publicationDate": "2015-03-01",
+      "year": 2015
+    },
+    {
+      "title": "The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge",
+      "arxiv_id": null,
+      "doi": "10.5114/wo.2014.47136",
+      "publicationDate": "2015-01-20",
+      "year": 2015
+    },
+    {
+      "title": "Quantum chemistry structures and properties of 134 kilo molecules",
+      "arxiv_id": null,
+      "doi": "10.1038/sdata.2014.22",
+      "publicationDate": "2014-08-05",
+      "year": 2014
+    },
+    {
+      "title": "Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing in Natural Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/TPAMI.2013.248",
+      "publicationDate": "2014-07-01",
+      "year": 2014
+    },
+    {
+      "title": "FreeSolv: A database of experimental and calculated hydration free energies, with input files",
+      "arxiv_id": null,
+      "doi": "10.1007/s10822-014-9747-x",
+      "publicationDate": "2014-06-14",
+      "year": 2014
+    },
+    {
+      "title": "Making Sense of Large-Scale Kinase Inhibitor Bioactivity Data Sets: A Comparative and Integrative Analysis",
+      "arxiv_id": null,
+      "doi": "10.1021/ci400709d",
+      "publicationDate": "2014-02-21",
+      "year": 2014
+    },
+    {
+      "title": "Vision meets robotics: The KITTI dataset",
+      "arxiv_id": null,
+      "doi": "10.1177/0278364913491297",
+      "publicationDate": "2013-09-01",
+      "year": 2013
+    },
+    {
+      "title": "Abstract Meaning Representation for Sembanking",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-08-01",
+      "year": 2013
+    },
+    {
+      "title": "From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews",
+      "arxiv_id": "1303.4402",
+      "doi": "10.1145/2488388.2488466",
+      "publicationDate": "2013-03-18",
+      "year": 2013
+    },
+    {
+      "title": "eTrust: understanding trust evolution in an online world",
+      "arxiv_id": null,
+      "doi": "10.1145/2339530.2339574",
+      "publicationDate": "2012-08-12",
+      "year": 2012
+    },
+    {
+      "title": "A Bayesian Approach to in Silico Blood-Brain Barrier Penetration Modeling",
+      "arxiv_id": null,
+      "doi": "10.1021/ci300124c",
+      "publicationDate": "2012-06-06",
+      "year": 2012
+    },
+    {
+      "title": "Comprehensive analysis of kinase inhibitor selectivity",
+      "arxiv_id": null,
+      "doi": "10.1038/nbt.1990",
+      "publicationDate": "2011-11-01",
+      "year": 2011
+    },
+    {
+      "title": "ChEMBL: a large-scale bioactivity database for drug discovery",
+      "arxiv_id": null,
+      "doi": "10.1093/nar/gkr777",
+      "publicationDate": "2011-09-23",
+      "year": 2011
+    },
+    {
+      "title": "You'll never walk alone: Modeling social behavior for multi-target tracking",
+      "arxiv_id": null,
+      "doi": "10.1109/ICCV.2009.5459260",
+      "publicationDate": "2009-09-01",
+      "year": 2009
+    },
+    {
+      "title": "Social influence analysis in large-scale networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1557019.1557108",
+      "publicationDate": "2009-06-28",
+      "year": 2009
+    },
+    {
+      "title": "970 million druglike small molecules for virtual screening in the chemical universe database GDB-13.",
+      "arxiv_id": null,
+      "doi": "10.1021/ja902302h",
+      "publicationDate": "2009-06-08",
+      "year": 2009
+    },
+    {
+      "title": "Collective Classification in Network Data",
+      "arxiv_id": null,
+      "doi": "10.1201/b17320-16",
+      "publicationDate": "2008-09-06",
+      "year": 2008
+    },
+    {
+      "title": "The Alzheimer's disease neuroimaging initiative (ADNI): MRI methods",
+      "arxiv_id": null,
+      "doi": "10.1002/jmri.21049",
+      "publicationDate": "2008-04-01",
+      "year": 2008
+    },
+    {
+      "title": "DBpedia: A Nucleus for a Web of Open Data",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-540-76298-0_52",
+      "publicationDate": "2007-11-11",
+      "year": 2007
+    },
+    {
+      "title": "Crowds by Example",
+      "arxiv_id": null,
+      "doi": "10.1111/j.1467-8659.2007.01089.x",
+      "publicationDate": "2007-09-01",
+      "year": 2007
+    },
+    {
+      "title": "Dimensionality Reduction by Learning an Invariant Mapping",
+      "arxiv_id": null,
+      "doi": "10.1109/CVPR.2006.100",
+      "publicationDate": "2006-06-17",
+      "year": 2006
+    },
+    {
+      "title": "Binding MOAD (Mother Of All Databases)",
+      "arxiv_id": null,
+      "doi": "10.1002/prot.20512",
+      "publicationDate": "2005-08-15",
+      "year": 2005
+    },
+    {
+      "title": "The PDBbind database: collection of binding affinities for protein-ligand complexes with known three-dimensional structures.",
+      "arxiv_id": null,
+      "doi": "10.1021/JM030580L",
+      "publicationDate": "2004-05-04",
+      "year": 2004
+    },
+    {
+      "title": "ESOL: Estimating Aqueous Solubility Directly from Molecular Structure",
+      "arxiv_id": null,
+      "doi": "10.1021/ci034243x",
+      "publicationDate": "2004-03-13",
+      "year": 2004
+    },
+    {
+      "title": "CATH--a hierarchic classification of protein domain structures.",
+      "arxiv_id": null,
+      "doi": "10.1016/S0969-2126(97)00260-8",
+      "publicationDate": "1997-08-15",
+      "year": 1997
+    },
+    {
+      "title": "SMILES. 2. Algorithm for generation of unique SMILES notation",
+      "arxiv_id": null,
+      "doi": "10.1021/ci00062a008",
+      "publicationDate": "1989-05-01",
+      "year": 1989
+    },
+    {
+      "title": "Local density functional theory of atoms and molecules.",
+      "arxiv_id": null,
+      "doi": "10.1073/PNAS.76.6.2522",
+      "publicationDate": "1979-06-01",
+      "year": 1979
+    },
+    {
+      "title": "Atomas: Hierarchical Adaptive Alignment on Molecule-Text for Unified Molecule Understanding and Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Primphormer: Efficient Graph Transformers with Primal Representations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "DUALFormer: Dual Graph Transformer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives",
+      "arxiv_id": null,
+      "doi": "10.52202/085713-1760",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Graph Transformers on EHRs: Better Representation Improves Downstream Performance",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "GTMGC: Using Graph Transformer to Predict Molecule's Ground-State Conformation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "EBMDock: Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Functional Protein Design with Local Domain Alignment",
+      "arxiv_id": null,
+      "doi": "10.48550/arXiv.2404.16866",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "CrysGraphFormer: An Equivariant Graph Transformer for Prediction of Lattice Thermal Conductivity with Interpretability",
+      "arxiv_id": null,
+      "doi": "10.1039/d4ta04495a",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Exploring Molecular Pretraining Model at Scale",
+      "arxiv_id": null,
+      "doi": "10.52202/079017-1489",
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Uni-Mol: A Universal 3D Molecular Representation Learning Framework",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "TorchMD-NET: Equivariant Transformers for Neural Network based Molecular Potentials",
+      "arxiv_id": "2202.02541",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Multi-Relational Graph Transformer for Automatic Short Answer Grading",
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2022.naacl-main.146",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Do Transformers Really Perform Badly for Graph Representation?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Three-Dimensional Convolutional Neural Networks and a Cross-Docked Data Set for Structure-Based Drug Design",
+      "arxiv_id": null,
+      "doi": "10.1021/acs.jcim.0c00411.s001",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "arxiv_id": "1810.04805",
+      "doi": "10.18653/v1/N19-1423",
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "“Pheme dataset for rumour detection and veracity classification,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Molecular dynamics trajectory for benchmarking MDAnalysis",
+      "arxiv_id": null,
+      "doi": "10.6084/M9.FIGSHARE.5108170.V1",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Unlicensed Taxis Detection Service Based on Large-Scale Vehicles Mobility Data",
+      "arxiv_id": null,
+      "doi": "10.1109/ICWS.2017.106",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "“Tox21 challenge,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "The Neuro Bureau Preprocessing Initiative: open sharing of preprocessed neuroimaging data and derivatives",
+      "arxiv_id": null,
+      "doi": "10.3389/CONF.FNINF.2013.09.00041",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "“Rdkit: A software suite for cheminformatics, computational chemistry, and predictive modeling,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "“The materials project: a materials genome approach to accelerating materials innovation. apl mater 1: 011002,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "“Us highway 101 dataset,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "The Unified Medical Language System (UMLS): integrating biomedical terminology",
+      "arxiv_id": null,
+      "doi": "10.1093/nar/gkh061",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "“Less is more: on the over-globalizing problem in graph transformers,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "HubGT: Fast Graph Transformer with Decoupled Hierarchy Labeling",
+      "arxiv_id": null,
+      "doi": "10.52202/085713-0754",
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "“Dpa-2: Towards a universal large atomic model for molecular and material simulation,”",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Knowledge Graph Enhanced Multimodal Transformer for Image-Text Retrieval",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Histopathology whole slide image analysis with heterogeneous graph representation learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. FACET: A Fragment-Aware Conformer Ensemble Transformer",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. Si-GT: Fast Interconnect Signal Integrity Analysis for Integrated Circuit Design via Graph Transformers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2026. TetraGT: Tetrahedral Geometry-Driven Explicit Token Interactions with Graph Transformer for Molecular Representation Learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. PropagationStructure-AwareGraphTransformer for Robust and Interpretable Fake News Detection",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "is with Gaoling School of Artificial Intelligence, Renmin University of China",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "is with Institute of Automation, Chinese Academy of Sciences",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

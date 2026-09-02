@@ -1,0 +1,1400 @@
+{
+  "candidate": {
+    "topic": "GPU Acceleration in Acoustics and Audio Signal Processing",
+    "domain": "systems",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3830900",
+      "title": "Survey of GPU Acceleration in Acoustics and Audio Signal Processing",
+      "published": "2026-08-07"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=221"
+  },
+  "extracted_at": "2026-09-02T02:31:59+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 195,
+    "arxiv_resolvable": 7,
+    "doi_only": 119,
+    "unresolved": 69
+  },
+  "gt_s2": {
+    "paperId": "c02b5178ff603e6e7119708cf9f7eabe8dc6c132",
+    "externalIds": {
+      "DOI": "10.1145/3830900",
+      "CorpusId": 290166162
+    },
+    "title": "Survey of GPU Acceleration in Acoustics and Audio Signal Processing",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 195,
+    "publicationDate": "2026-07-13"
+  },
+  "refs": [
+    {
+      "title": "Massively parallel nodal discontinous Galerkin finite element method simulator for room acoustics",
+      "arxiv_id": null,
+      "doi": "10.1177/10943420231208948",
+      "publicationDate": "2023-11-16",
+      "year": 2023
+    },
+    {
+      "title": "Audiodec: An Open-Source Streaming High-Fidelity Neural Audio Codec",
+      "arxiv_id": "2305.16608",
+      "doi": "10.1109/ICASSP49357.2023.10096509",
+      "publicationDate": "2023-05-26",
+      "year": 2023
+    },
+    {
+      "title": "KomaMRI.jl: An open‐source framework for general MRI simulations with GPU acceleration",
+      "arxiv_id": "2301.02702",
+      "doi": "10.1002/mrm.29635",
+      "publicationDate": "2023-01-06",
+      "year": 2023
+    },
+    {
+      "title": "TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU",
+      "arxiv_id": "2212.14191",
+      "doi": "10.1109/HPCA56546.2023.10071017",
+      "publicationDate": "2022-12-29",
+      "year": 2022
+    },
+    {
+      "title": "The Hyper Drumhead: A Musical Instrument For The Audio/Visual Manipulation Of Sound Waves",
+      "arxiv_id": null,
+      "doi": "10.1145/3532833.3538686",
+      "publicationDate": "2022-07-27",
+      "year": 2022
+    },
+    {
+      "title": "Real-time Auralization based on a Convolutional Neural Network Trained by Low-Frequency Wave-Based Calculations",
+      "arxiv_id": null,
+      "doi": "10.61782/fa.2023.0646",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Room Impulse Response Reconstuction using Physics-Constrained Neural Networks",
+      "arxiv_id": null,
+      "doi": "10.61782/fa.2023.0804",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "A sensitivity analysis on the effect of hyperparameters in deep neural operators applied to sound propagation",
+      "arxiv_id": null,
+      "doi": "10.61782/fa.2023.0930",
+      "publicationDate": "2022-01-17",
+      "year": 2022
+    },
+    {
+      "title": "Survival of the synthesis—GPU accelerating evolutionary sound matching",
+      "arxiv_id": null,
+      "doi": "10.1002/cpe.6824",
+      "publicationDate": "2022-01-04",
+      "year": 2022
+    },
+    {
+      "title": "Audio representations for deep learning in sound synthesis: A review",
+      "arxiv_id": "2201.02490",
+      "doi": "10.1109/AICCSA53542.2021.9686838",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "Comsol",
+      "arxiv_id": null,
+      "doi": "10.1109/mmm.2021.3111354",
+      "publicationDate": "2021-11-01",
+      "year": 2021
+    },
+    {
+      "title": "A Survey of Sound Source Localization with Deep Learning Methods",
+      "arxiv_id": "2109.03465",
+      "doi": "10.1121/10.0011809",
+      "publicationDate": "2021-09-08",
+      "year": 2021
+    },
+    {
+      "title": "Comparison of parallel implementation strategies for the image source method for real-time virtual acoustics",
+      "arxiv_id": null,
+      "doi": "10.1016/J.APACOUST.2021.108000",
+      "publicationDate": "2021-07-01",
+      "year": 2021
+    },
+    {
+      "title": "Deep ANC: A Deep Learning Approach to Active Noise Control",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neunet.2021.03.037",
+      "publicationDate": "2021-04-01",
+      "year": 2021
+    },
+    {
+      "title": "On the performance of a GPU-based SoC in a distributed spatial audio system",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-020-03577-4",
+      "publicationDate": "2021-01-04",
+      "year": 2021
+    },
+    {
+      "title": "Parallel computation of time-varying convolution",
+      "arxiv_id": null,
+      "doi": "10.1080/09298215.2020.1810280",
+      "publicationDate": "2020-08-26",
+      "year": 2020
+    },
+    {
+      "title": "Matlab®",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-662-58667-9_22",
+      "publicationDate": "2020-05-05",
+      "year": 2020
+    },
+    {
+      "title": "Corporation",
+      "arxiv_id": null,
+      "doi": "10.2307/j.ctt1hfr0s3.28",
+      "publicationDate": "2020-02-07",
+      "year": 2020
+    },
+    {
+      "title": "GPU-accelerated rectangular decomposition for sound propagation modeling in 2D",
+      "arxiv_id": null,
+      "doi": "10.1109/SCCC49216.2019.8966434",
+      "publicationDate": "2019-11-01",
+      "year": 2019
+    },
+    {
+      "title": "CPU-GPU architecture for active noise control",
+      "arxiv_id": null,
+      "doi": "10.1016/J.APACOUST.2019.04.002",
+      "publicationDate": "2019-10-01",
+      "year": 2019
+    },
+    {
+      "title": "G-SpAR: GPU-Based Voxel Graph Pathfinding for Spatial Audio Rendering in Games and VR",
+      "arxiv_id": null,
+      "doi": "10.1109/CIG.2019.8847959",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Research on Low Delay Audio Convolution Algorithm Combining Mobile and Cloud",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCC/SmartCity/DSS.2019.00294",
+      "publicationDate": "2019-08-01",
+      "year": 2019
+    },
+    {
+      "title": "Converting Series Biquad Filters Into Delayed Parallel Form: Application to Graphic Equalizers",
+      "arxiv_id": null,
+      "doi": "10.1109/TSP.2019.2919419",
+      "publicationDate": "2019-07-15",
+      "year": 2019
+    },
+    {
+      "title": "Large-Scale Physical Modeling Synthesis, Parallel Computing, and Musical Experimentation: The NESS Project in Practice",
+      "arxiv_id": null,
+      "doi": "10.1162/comj_a_00517",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "Physical Modeling, Algorithms, and Sound Synthesis: The NESS Project",
+      "arxiv_id": null,
+      "doi": "10.1162/comj_a_00516",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "OpenCL vs: Accelerated Finite-Difference Digital Synthesis",
+      "arxiv_id": null,
+      "doi": "10.1145/3318170.3318172",
+      "publicationDate": "2019-05-13",
+      "year": 2019
+    },
+    {
+      "title": "Introduction to the Special Issue on Room Acoustic Modeling and Auralization.",
+      "arxiv_id": null,
+      "doi": "10.1121/1.5099017",
+      "publicationDate": "2019-04-01",
+      "year": 2019
+    },
+    {
+      "title": "Practical Considerations for Acoustic Source Localization in the IoT Era: Platforms, Energy Efficiency, and Performance",
+      "arxiv_id": null,
+      "doi": "10.1109/JIOT.2019.2895742",
+      "publicationDate": "2019-01-28",
+      "year": 2019
+    },
+    {
+      "title": "FLAC Decoding Using GPU Acceleration",
+      "arxiv_id": null,
+      "doi": "10.1109/BDCloud.2018.00035",
+      "publicationDate": "2018-12-01",
+      "year": 2018
+    },
+    {
+      "title": "A Low-Spec Extendable GPU-Based Audio Library",
+      "arxiv_id": null,
+      "doi": "10.1109/IVCNZ.2018.8634764",
+      "publicationDate": "2018-11-01",
+      "year": 2018
+    },
+    {
+      "title": "gpuRIR: A python library for room impulse response simulation with GPU acceleration",
+      "arxiv_id": "1810.11359",
+      "doi": "10.1007/s11042-020-09905-3",
+      "publicationDate": "2018-10-26",
+      "year": 2018
+    },
+    {
+      "title": "Extended Playing Techniques on an Augmented Virtual Percussion Instrument",
+      "arxiv_id": null,
+      "doi": "10.1162/comj_a_00457",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "Accelerating the SRP-PHAT algorithm on multi- and many-core platforms using OpenCL",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-018-2422-6",
+      "publicationDate": "2018-05-24",
+      "year": 2018
+    },
+    {
+      "title": "Transport path precomputation for real-time room reverb",
+      "arxiv_id": null,
+      "doi": "10.1145/3190834.3190840",
+      "publicationDate": "2018-05-15",
+      "year": 2018
+    },
+    {
+      "title": "Application of computational GPU OpenCL kernels for near-realtime audio processing",
+      "arxiv_id": null,
+      "doi": "10.1145/3204919.3204943",
+      "publicationDate": "2018-05-14",
+      "year": 2018
+    },
+    {
+      "title": "Zero delay convolution for real-time signal processing based on iOS platform",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIEA.2018.8397952",
+      "publicationDate": "2018-05-01",
+      "year": 2018
+    },
+    {
+      "title": "Converting Infinite Impulse Response Filters to Parallel Form [Tips & Tricks]",
+      "arxiv_id": null,
+      "doi": "10.1109/MSP.2018.2805358",
+      "publicationDate": "2018-04-26",
+      "year": 2018
+    },
+    {
+      "title": "Moving-Target Position Estimation Using GPU-Based Particle Filter for IoT Sensing Applications",
+      "arxiv_id": null,
+      "doi": "10.3390/APP7111152",
+      "publicationDate": "2017-11-09",
+      "year": 2017
+    },
+    {
+      "title": "Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms",
+      "arxiv_id": "1710.04196",
+      "doi": "10.1109/ICASSP.2018.8461310",
+      "publicationDate": "2017-10-11",
+      "year": 2017
+    },
+    {
+      "title": "Zero-Delay large signal convolution using multiple processor architectures",
+      "arxiv_id": null,
+      "doi": "10.1109/WASPAA.2017.8170051",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "Performance portability for room acoustics simulations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-09-05",
+      "year": 2017
+    },
+    {
+      "title": "A Parallel Approach to HRTF Approximation and Interpolation Based on a Parametric Filter Model",
+      "arxiv_id": null,
+      "doi": "10.1109/LSP.2017.2741724",
+      "publicationDate": "2017-08-18",
+      "year": 2017
+    },
+    {
+      "title": "Python Software Foundation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-05-29",
+      "year": 2017
+    },
+    {
+      "title": "GPU-Based Dynamic Wave Field Synthesis Using Fractional Delay Filters and Room Compensation",
+      "arxiv_id": null,
+      "doi": "10.1109/TASLP.2016.2631338",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "Implementation of the Beamformer Algorithm for the NVIDIA Jetson",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-49956-7_16",
+      "publicationDate": "2016-12-14",
+      "year": 2016
+    },
+    {
+      "title": "Accelerating the formant synthesis of haegeum sounds using a general-purpose graphics processing unit",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-014-2297-3",
+      "publicationDate": "2016-12-01",
+      "year": 2016
+    },
+    {
+      "title": "Caffeine: Towards uniformed representation and acceleration for deep convolutional neural networks",
+      "arxiv_id": null,
+      "doi": "10.1145/2966986.2967011",
+      "publicationDate": "2016-11-07",
+      "year": 2016
+    },
+    {
+      "title": "Efficient Numerical Acoustic Simulation on Graphics Processors Using Adaptive Rectangular Decomposition",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-10-19",
+      "year": 2016
+    },
+    {
+      "title": "GPU-based image method for room impulse response calculation",
+      "arxiv_id": null,
+      "doi": "10.1007/s11042-015-2943-4",
+      "publicationDate": "2016-05-01",
+      "year": 2016
+    },
+    {
+      "title": "Implementation Analysis of Binaural Audio Crosstalk Cancellation on Heterogeneous Parallel Computing platforms using Mixed Non-Uniform Partitioned Convolution",
+      "arxiv_id": null,
+      "doi": "10.17485/IJST/2015/V8I33/80399",
+      "publicationDate": "2015-12-01",
+      "year": 2015
+    },
+    {
+      "title": "Large Stencil Operations for GPU-based 3-D Acoustics Simulations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-11-30",
+      "year": 2015
+    },
+    {
+      "title": "GPU-based implementation of reverb effect",
+      "arxiv_id": null,
+      "doi": "10.1109/TELFOR.2015.7377631",
+      "publicationDate": "2015-11-01",
+      "year": 2015
+    },
+    {
+      "title": "Overview of geometrical room acoustic modeling techniques.",
+      "arxiv_id": null,
+      "doi": "10.1121/1.4926438",
+      "publicationDate": "2015-08-10",
+      "year": 2015
+    },
+    {
+      "title": "The frequency partitioned block modified filtered-x NLMS with orthogonal correction factors for multichannel Active Noise Control",
+      "arxiv_id": null,
+      "doi": "10.1016/j.dsp.2015.05.003",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "On the performance of multi-GPU-based expert systems for acoustic localization involving massive microphone arrays",
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2015.02.056",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "Evaluation of the 3-D finite difference implementation of the acoustic diffusion equation model on massively parallel architectures",
+      "arxiv_id": null,
+      "doi": "10.1016/j.compeleceng.2015.07.001",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "A GPU Implementation of an Explicit Compact FDTD Algorithm with a Digital Impedance Filter for Room Acoustics Applications",
+      "arxiv_id": null,
+      "doi": "10.1109/TASLP.2015.2434212",
+      "publicationDate": "2015-08-01",
+      "year": 2015
+    },
+    {
+      "title": "Aerophones in flatland",
+      "arxiv_id": null,
+      "doi": "10.1145/2767001",
+      "publicationDate": "2015-07-27",
+      "year": 2015
+    },
+    {
+      "title": "Interactive rate acoustical occlusion/diffraction modeling for 2D virtual environments & games",
+      "arxiv_id": null,
+      "doi": "10.1109/IISA.2015.7388078",
+      "publicationDate": "2015-07-06",
+      "year": 2015
+    },
+    {
+      "title": "Sound Synthesis Using Physical Modeling on Heterogeneous Computing Platforms",
+      "arxiv_id": null,
+      "doi": "10.12693/APHYSPOLA.128.A-22",
+      "publicationDate": "2015-07-01",
+      "year": 2015
+    },
+    {
+      "title": "Partitioned convolution algorithms for real-time auralization",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-05-10",
+      "year": 2015
+    },
+    {
+      "title": "WAVE: Interactive Wave-based Sound Propagation for Virtual Environments",
+      "arxiv_id": null,
+      "doi": "10.1109/TVCG.2015.2391858",
+      "publicationDate": "2015-04-18",
+      "year": 2015
+    },
+    {
+      "title": "GPU Based Sound Simulation and Visualization",
+      "arxiv_id": null,
+      "doi": "10.1109/ITNG.2015.116",
+      "publicationDate": "2015-04-13",
+      "year": 2015
+    },
+    {
+      "title": "Explicit Higher-Order FDTD Schemes for 3D Room Acoustic Simulation",
+      "arxiv_id": null,
+      "doi": "10.1109/TASLP.2014.2341913",
+      "publicationDate": "2014-12-01",
+      "year": 2014
+    },
+    {
+      "title": "Dynamic range reduction of audio signals using multiple allpass filters on a GPU accelerator",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.43816",
+      "publicationDate": "2014-11-13",
+      "year": 2014
+    },
+    {
+      "title": "GPU Implementation of Multichannel Adaptive Algorithms for Local Active Noise Control",
+      "arxiv_id": null,
+      "doi": "10.1109/TASLP.2014.2344852",
+      "publicationDate": "2014-11-01",
+      "year": 2014
+    },
+    {
+      "title": "CUDA Accelerated Audio Digital Signal Processing for Real-Time Algorithms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-10-08",
+      "year": 2014
+    },
+    {
+      "title": "PERFORMANCE IMPROVEMENT OF MULTICHANNEL AUDIO BY GRAPHICS PROCESSING UNITS",
+      "arxiv_id": null,
+      "doi": "10.4995/THESIS/10251/40651",
+      "publicationDate": "2014-10-06",
+      "year": 2014
+    },
+    {
+      "title": "Modular Physical Modeling Synthesis Environments on GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Streaming Spectral Processing with Consumer-Level Graphics Processing Units",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2014-09-01",
+      "year": 2014
+    },
+    {
+      "title": "Multi-channel IIR filtering of audio signals using a GPU",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP.2014.6854895",
+      "publicationDate": "2014-05-04",
+      "year": 2014
+    },
+    {
+      "title": "Fast and efficient real-time GPU based implementation of wave field synthesis",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP.2014.6855068",
+      "publicationDate": "2014-05-04",
+      "year": 2014
+    },
+    {
+      "title": "GPU based implementation of multichannel adaptive room equalization",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP.2014.6855065",
+      "publicationDate": "2014-05-04",
+      "year": 2014
+    },
+    {
+      "title": "Wave-based sound propagation for VR applications",
+      "arxiv_id": null,
+      "doi": "10.1109/SIVE.2014.7006289",
+      "publicationDate": "2014-03-29",
+      "year": 2014
+    },
+    {
+      "title": "Efficient modal sound synthesis on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/SIVE.2014.7006284",
+      "publicationDate": "2014-03-29",
+      "year": 2014
+    },
+    {
+      "title": "GPU-based acoustical occlusion modeling for virtual environments and games",
+      "arxiv_id": null,
+      "doi": "10.1109/IGIC.2013.6659164",
+      "publicationDate": "2013-11-11",
+      "year": 2013
+    },
+    {
+      "title": "Physical Modeling of Timpani Drums in 3D on GPGPUs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-10-28",
+      "year": 2013
+    },
+    {
+      "title": "GPU-Based WFS Systems with Mobile Virtual Sound Sources and Room Compensation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-09-02",
+      "year": 2013
+    },
+    {
+      "title": "GPU Implementation of a Frequency-Domain Modified Filtered-X LMS Algorithm for Multichannel Local Active Noise Control",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-09-02",
+      "year": 2013
+    },
+    {
+      "title": "GPU-based approaches for real-time sound source localization using the SRP-PHAT algorithm",
+      "arxiv_id": null,
+      "doi": "10.1177/1094342012452166",
+      "publicationDate": "2013-08-01",
+      "year": 2013
+    },
+    {
+      "title": "Large Scale Physical Modeling Sound Synthesis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2013-08-01",
+      "year": 2013
+    },
+    {
+      "title": "Spatial sound rendering for dynamic virtual environments",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDSP.2013.6622815",
+      "publicationDate": "2013-07-01",
+      "year": 2013
+    },
+    {
+      "title": "Large-scale virtual acoustics simulation at audio rates using three dimensional finite difference time domain and multiple graphics processing units",
+      "arxiv_id": null,
+      "doi": "10.1121/1.4806738",
+      "publicationDate": "2013-05-14",
+      "year": 2013
+    },
+    {
+      "title": "Some comments about graphic processing unit architectures applied to finite-difference time-domain room acoustics simulation: Present and future trends",
+      "arxiv_id": null,
+      "doi": "10.1121/1.4806744",
+      "publicationDate": "2013-05-06",
+      "year": 2013
+    },
+    {
+      "title": "i-Sound: Interactive gpu-based sound auralization in dynamic scenes",
+      "arxiv_id": null,
+      "doi": "10.1121/1.4806743",
+      "publicationDate": "2013-05-06",
+      "year": 2013
+    },
+    {
+      "title": "Parallelization of the finite-difference time-domain method for room acoustics modelling based on CUDA",
+      "arxiv_id": null,
+      "doi": "10.1016/j.mcm.2011.11.075",
+      "publicationDate": "2013-04-01",
+      "year": 2013
+    },
+    {
+      "title": "Realtime GPU Audio",
+      "arxiv_id": null,
+      "doi": "10.1145/2466486.2484010",
+      "publicationDate": "2013-04-01",
+      "year": 2013
+    },
+    {
+      "title": "Multichannel massive audio processing for a generalized crosstalk cancellation and equalization application using GPUs",
+      "arxiv_id": null,
+      "doi": "10.3233/ICA-130422",
+      "publicationDate": "2013-04-01",
+      "year": 2013
+    },
+    {
+      "title": "Guided Multiview Ray Tracing for Fast Auralization",
+      "arxiv_id": null,
+      "doi": "10.1109/TVCG.2012.27",
+      "publicationDate": "2012-11-01",
+      "year": 2012
+    },
+    {
+      "title": "The Generalized Frequency-Domain Adaptive Filtering Algorithm Implemented on a GPU for Large-Scale Multichannel Acoustic Echo Cancellation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-09-25",
+      "year": 2012
+    },
+    {
+      "title": "TIMPANI DRUM SYNTHESIS IN 3D ON GPGPUS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-09-01",
+      "year": 2012
+    },
+    {
+      "title": "BINAURAL SIMULATIONS USING AUDIO RATE FDTD SCHEMES AND CUDA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-09-01",
+      "year": 2012
+    },
+    {
+      "title": "A real-time 3D sound localization system with miniature microphone array for virtual reality",
+      "arxiv_id": null,
+      "doi": "10.1109/ICIEA.2012.6361029",
+      "publicationDate": "2012-07-18",
+      "year": 2012
+    },
+    {
+      "title": "High performance finite impulse response filter on graphics processors",
+      "arxiv_id": null,
+      "doi": "10.1109/ICICIP.2012.6391489",
+      "publicationDate": "2012-07-15",
+      "year": 2012
+    },
+    {
+      "title": "Fifty Years of Artificial Reverberation",
+      "arxiv_id": null,
+      "doi": "10.1109/TASL.2012.2189567",
+      "publicationDate": "2012-07-01",
+      "year": 2012
+    },
+    {
+      "title": "Simulation of Sound Wave Propagation With Damping for Realistic Sound rendering for Games and Interactive Aplications",
+      "arxiv_id": null,
+      "doi": "10.5176/2251-1679_CGAT07",
+      "publicationDate": "2012-05-07",
+      "year": 2012
+    },
+    {
+      "title": "Audio convolution by the mean of GPU: CUDA and OpenCL implementations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-04-23",
+      "year": 2012
+    },
+    {
+      "title": "Real-time implementation and performance optimization of 3D sound localization on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1109/DATE.2012.6176610",
+      "publicationDate": "2012-03-12",
+      "year": 2012
+    },
+    {
+      "title": "An efficient GPU-based time domain solver for the acoustic wave equation",
+      "arxiv_id": null,
+      "doi": "10.1016/J.APACOUST.2011.05.012",
+      "publicationDate": "2012-02-01",
+      "year": 2012
+    },
+    {
+      "title": "An Architecture Using a Finite Difference Method to Calculate Realistic Sound Equalization in Games",
+      "arxiv_id": null,
+      "doi": "10.1109/SBGAMES.2011.36",
+      "publicationDate": "2011-11-07",
+      "year": 2011
+    },
+    {
+      "title": "GPU-based acoustical occlusion modeling with acoustical texture maps",
+      "arxiv_id": null,
+      "doi": "10.1145/2095667.2095675",
+      "publicationDate": "2011-09-07",
+      "year": 2011
+    },
+    {
+      "title": "Parallel implementations of beamforming design and filtering for microphone array applications",
+      "arxiv_id": null,
+      "doi": "10.5281/ZENODO.42595",
+      "publicationDate": "2011-08-29",
+      "year": 2011
+    },
+    {
+      "title": "A real-time crosstalk canceller on a notebook GPU",
+      "arxiv_id": null,
+      "doi": "10.1109/ICME.2011.6012072",
+      "publicationDate": "2011-07-11",
+      "year": 2011
+    },
+    {
+      "title": "A simple multiband approach for solving frequency dependent problems in numerical time domain methods",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-06-26",
+      "year": 2011
+    },
+    {
+      "title": "Computing room acoustics with CUDA - 3D FDTD schemes with boundary losses and viscosity",
+      "arxiv_id": null,
+      "doi": "10.1109/ICASSP.2011.5946404",
+      "publicationDate": "2011-05-22",
+      "year": 2011
+    },
+    {
+      "title": "Virtual Room Acoustics: A Comparison of Techniques for Computing 3D-FDTD Schemes Using CUDA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-05-13",
+      "year": 2011
+    },
+    {
+      "title": "Real-time massive convolution for audio applications on GPU",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-011-0610-8",
+      "publicationDate": "2011-04-19",
+      "year": 2011
+    },
+    {
+      "title": "Multi-Core Platforms for Beamforming and Wave Field Synthesis",
+      "arxiv_id": null,
+      "doi": "10.1109/TMM.2010.2098397",
+      "publicationDate": "2011-04-01",
+      "year": 2011
+    },
+    {
+      "title": "Efficient acoustic radiance transfer method with time-dependent reflections",
+      "arxiv_id": null,
+      "doi": "10.1121/1.3587652",
+      "publicationDate": "2011-04-01",
+      "year": 2011
+    },
+    {
+      "title": "Audio Signal Processing Using Graphics Processing Units",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-03-09",
+      "year": 2011
+    },
+    {
+      "title": "GPU-Based Acoustical Diffraction Modeling for Complex Virtual Reality and Gaming Environments",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2011-02-02",
+      "year": 2011
+    },
+    {
+      "title": "Sound Wave Propagation Applied in Games",
+      "arxiv_id": null,
+      "doi": "10.1109/SBGAMES.2010.29",
+      "publicationDate": "2010-11-08",
+      "year": 2010
+    },
+    {
+      "title": "GPU-based real-time acoustical occlusion modeling",
+      "arxiv_id": null,
+      "doi": "10.1007/s10055-010-0166-6",
+      "publicationDate": "2010-09-01",
+      "year": 2010
+    },
+    {
+      "title": "Diffuse Reverberation Model for Efficient Image-Source Simulation of Room Impulse Responses",
+      "arxiv_id": null,
+      "doi": "10.1109/TASL.2009.2035038",
+      "publicationDate": "2010-08-01",
+      "year": 2010
+    },
+    {
+      "title": "Exploring scalability of FIR filter realizations on Graphics Processing Units",
+      "arxiv_id": null,
+      "doi": "10.1109/EIT.2010.5612114",
+      "publicationDate": "2010-05-20",
+      "year": 2010
+    },
+    {
+      "title": "Finite Difference Room Acoustic Modelling on a General Purpose Graphics Processing Unit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-05-01",
+      "year": 2010
+    },
+    {
+      "title": "Real-Time Additive Synthesis with One Million Sinusoids Using a GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2010-05-01",
+      "year": 2010
+    },
+    {
+      "title": "The GPU Computing Era",
+      "arxiv_id": null,
+      "doi": "10.1109/MM.2010.41",
+      "publicationDate": "2010-03-01",
+      "year": 2010
+    },
+    {
+      "title": "GPU-Based One-Dimensional Convolution for Real-Time Spatial Sound Generation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2009-12-27",
+      "year": 2009
+    },
+    {
+      "title": "Numerical Sound Synthesis",
+      "arxiv_id": null,
+      "doi": "10.1002/9780470749012",
+      "publicationDate": "2009-10-23",
+      "year": 2009
+    },
+    {
+      "title": "Wave field synthesis for 3D audio: architectural prospectives",
+      "arxiv_id": null,
+      "doi": "10.1145/1531743.1531764",
+      "publicationDate": "2009-05-18",
+      "year": 2009
+    },
+    {
+      "title": "Real-time GPU-based convolution: a follow-up",
+      "arxiv_id": null,
+      "doi": "10.1145/1639601.1639617",
+      "publicationDate": "2009-05-12",
+      "year": 2009
+    },
+    {
+      "title": "Realistic real-time sound re-synthesis and processing for interactive virtual worlds",
+      "arxiv_id": null,
+      "doi": "10.1007/s00371-009-0341-5",
+      "publicationDate": "2009-04-25",
+      "year": 2009
+    },
+    {
+      "title": "Spatial sound for video games and virtual environments utilizing real-time GPU-based convolution",
+      "arxiv_id": null,
+      "doi": "10.1145/1496984.1497012",
+      "publicationDate": "2008-11-03",
+      "year": 2008
+    },
+    {
+      "title": "GPU-based audio via the VGA port",
+      "arxiv_id": null,
+      "doi": "10.1145/1400885.1400941",
+      "publicationDate": "2008-08-11",
+      "year": 2008
+    },
+    {
+      "title": "GPU Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/jproc.2008.917757",
+      "publicationDate": "2008-05-01",
+      "year": 2008
+    },
+    {
+      "title": "Real Time Capture of Audio Images and their Use with Video",
+      "arxiv_id": null,
+      "doi": "10.1109/ASPAA.2007.4393037",
+      "publicationDate": "2007-12-04",
+      "year": 2007
+    },
+    {
+      "title": "The Effects of Latency on Live Sound Monitoring",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2007-10-01",
+      "year": 2007
+    },
+    {
+      "title": "Instant Sound Scattering",
+      "arxiv_id": null,
+      "doi": "10.2312/EGWR/EGSR07/111-120",
+      "publicationDate": "2007-06-25",
+      "year": 2007
+    },
+    {
+      "title": "Physically-Based Sound Synthesis on GPUs",
+      "arxiv_id": null,
+      "doi": "10.1007/11558651_32",
+      "publicationDate": "2005-09-19",
+      "year": 2005
+    },
+    {
+      "title": "Performance of Cascade and Parallel IIR Filters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1996-03-01",
+      "year": 1996
+    },
+    {
+      "title": "Efficient Convolution without Input/Output Delay",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "1995-03-01",
+      "year": 1995
+    },
+    {
+      "title": ". Intel Xe-HPG Architecture Whitepaper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2026
+    },
+    {
+      "title": "2022. Virtual Acoustics",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "2023. Hearing Aids Market Size & Share Analysis (2024 - 2029)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": ". Efficient finite-difference room acoustics simulation incorporating extended-reacting elements",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "HyperModels - A Framework for GPU Accelerated Physical Modelling Sound Synthesis",
+      "arxiv_id": null,
+      "doi": "10.21428/92fbeb44.98a4210a",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "A Review of the State of the Art and Future Challenges of Deep Learning-Based Beamforming",
+      "arxiv_id": null,
+      "doi": "10.1109/access.2022.3195299",
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "A GPU-Oriented Application Programming Interface for Digital Audio Workstations",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2021.3131659",
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "An Efficient Implementation of Parallel Parametric HRTF Models for Binaural Sound Synthesis in Mobile Multimedia",
+      "arxiv_id": null,
+      "doi": "10.1109/ACCESS.2020.2979489",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Blockwise Weighted Least Square Active Noise Control for CPU-GPU Architecture",
+      "arxiv_id": null,
+      "doi": "10.1109/TASLP.2020.2971828",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Al-terity: Non-Rigid Musical Instrument with Artificial Intelligence Applied to Real-Time Audio Synthesis",
+      "arxiv_id": null,
+      "doi": "10.5281/zenodo.4813402",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "There and Back Again: The Practicality of GPU Accelerated Digital Audio",
+      "arxiv_id": null,
+      "doi": "10.5281/zenodo.4813320",
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "GPGPU PATTERNS FOR SERIAL AND PARALLEL AUDIO EFFECTS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "GPU-ACCELERATED MODAL PROCESSORS AND DIGITAL WAVEGUIDES",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Real-time modal synthesis of crash cymbals with nonlinear approximations, using a GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "On the Use of a GPU-Accelerated Mobile Device Processor for Sound Source Localization",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2017.05.037",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "INTRODUCING DEEP MACHINE LEARNING FOR PARAMETER ESTIMATION IN PHYSICAL MODELLING",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Shader-based physical modelling for the design of massive digital musical instruments",
+      "arxiv_id": null,
+      "doi": "10.5281/zenodo.1176203",
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Wayverb",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Computer Architecture: A Quantitative Approach (6 ed.)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": "Beamforming Filtering with Real-Time Constraints on Mobile Embedded Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Scalable Acceleration of Real-time Audio Processing Using Hardware-Partitioned GPU Compute Units",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Analysis of CPU and GPU implementations of convolution reverb effect",
+      "arxiv_id": null,
+      "doi": "10.5937/telfor1602121m",
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "REAL-TIME FORCE-BASED SOUND SYNTHESIS USING GPU PARALLEL COMPUTING",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2016
+    },
+    {
+      "title": "Real-time Sound Source Localization on an Embedded GPU Using a Spherical Microphone Array",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2015.05.226",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Evaluating the Potential of Low Power Systems for Headphone-based Spatial Audio Applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2015.05.224",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "GPU-based real-time beamforming for large arrays of optical wireless acoustic sensors",
+      "arxiv_id": null,
+      "doi": "10.1250/AST.36.489",
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "USING FINITE-DIFFERENCE TIME-DOMAIN METHODS WITH PERFORMANCE OPTIMISATION",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Rendering Environmental Voice Reverberation for Large-scale Distributed Virtual Worlds",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Discrete-Time Signal Processing (third ed.)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Physical Modeling Synthesis on Heterogeneous Platforms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": "Real-Time Sound Source Localization on Graphics Processing Units",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2013.05.438",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Audio convolution on GPUs: a follow-up",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "ROOM ACOUSTICS MODELLING USING GPU-ACCELERATED FINITE DIFFERENCE AND FINITE VOLUME METHODS ON A FACE-CENTERED CUBIC GRID",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Interactive gpu-based acoustic walkthrough in dynamic scenes",
+      "arxiv_id": null,
+      "doi": "10.1121/1.4799773",
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "Real-time adaptive algorithms using a Graphics Processing Units",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Headphone-based Spatial Sound with a GPU Accelerator",
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2012.04.013",
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Measuring the Performance of Realtime DSP using Pure Data and GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Multichannel Active Noise Control System using a GPU Accelerator",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2012
+    },
+    {
+      "title": "Implementing a Finite Difference-Based Real-time Sound Synthesizer using GPUs",
+      "arxiv_id": null,
+      "doi": "10.5281/zenodo.1178173",
+      "publicationDate": null,
+      "year": 2011
+    },
+    {
+      "title": "HIGH-PERFORMANCE REAL-TIME FIR-FILTERING USING FAST CONVOLUTION ON GRAPHICS HARDWARE",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "REAL-TIME 3D FINITE-DIFFERENCE TIME-DOMAIN SIMULATION OF LOW- AND MID-FREQUENCY ROOM ACOUSTICS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "EFFICIENT FINITE DIFFERENCE-BASED SOUND SYNTHESIS USING GPUS",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "A GPU Implementation of the SRP-PHAT Sound Source Localization Algorithm",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "FDTD/K-DWM simulation of 3D room acoustics on general purpose graphics hardware using compute unified device architecture (CUDA)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "GPU-based spectral model synthesis for real-time sound rendering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2010
+    },
+    {
+      "title": "Real-Time Acoustical Diffraction and First-Order Specular Reflection Modeling Using the GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Frequency domain acoustic radiance transfer for real-time auralization",
+      "arxiv_id": null,
+      "doi": "10.3813/AAA.918132",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "Efficient and Accurate Sound Propagation Using Adaptive Rectangular Decomposition",
+      "arxiv_id": null,
+      "doi": "10.1109/tvcg.2009.28",
+      "publicationDate": null,
+      "year": 2009
+    },
+    {
+      "title": "RAY ACOUSTICS USING COMPUTER GRAPHICS TECHNOLOGY",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2007
+    },
+    {
+      "title": "Waveguide-based Room Acoustics through Graphics Hardware",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Room Impulse Response Generator . Technical Report",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2006
+    },
+    {
+      "title": "Audio and the Graphics Processing Unit",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "An Implementation of a FIR Filter on a GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2005
+    },
+    {
+      "title": "Efficient 3D Audio Processing with the GPU",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Computation of Room Acoustics using Programmable Video Hardware",
+      "arxiv_id": null,
+      "doi": "10.1007/1-4020-4179-9_84",
+      "publicationDate": null,
+      "year": 2004
+    },
+    {
+      "title": "Viewpoints on the History of Digital Synthesis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1991
+    },
+    {
+      "title": "2023. ROCm Programming Manual",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "NVIDIA",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Hopper",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Generating Impulse Responses using Autoencoders",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. Data parallel C++",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Real-Time Digital Audio Signal Convolution in Heterogeneous Computing Systems",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2023. The OpenCL Specification",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

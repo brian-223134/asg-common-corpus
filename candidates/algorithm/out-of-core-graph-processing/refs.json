@@ -1,0 +1,1078 @@
+{
+  "candidate": {
+    "topic": "Large-Scale Out-of-Core Graph Processing",
+    "domain": "algorithm",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1145/3838595",
+      "title": "A Survey of Large-Scale Out-of-Core Graph Processing",
+      "published": "2026-08-10"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=151"
+  },
+  "extracted_at": "2026-09-02T02:30:33+00:00",
+  "source": "semanticscholar-graph-api",
+  "summary": {
+    "refs": 149,
+    "arxiv_resolvable": 32,
+    "doi_only": 86,
+    "unresolved": 31
+  },
+  "gt_s2": {
+    "paperId": "d5d04b02dd23887f2719ee06a1dfb19b941e2bca",
+    "externalIds": {
+      "DOI": "10.1145/3838595",
+      "CorpusId": 290981153
+    },
+    "title": "A Survey of Large-Scale Out-of-Core Graph Processing",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "referenceCount": 149,
+    "publicationDate": "2026-08-10"
+  },
+  "refs": [
+    {
+      "title": "Moment: Co-optimizing Physical Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training",
+      "arxiv_id": null,
+      "doi": "10.1145/3712285.3759788",
+      "publicationDate": "2025-11-15",
+      "year": 2025
+    },
+    {
+      "title": "Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing",
+      "arxiv_id": null,
+      "doi": "10.1145/3712285.3759851",
+      "publicationDate": "2025-11-15",
+      "year": 2025
+    },
+    {
+      "title": "Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework",
+      "arxiv_id": "2507.10070",
+      "doi": "10.48550/arXiv.2507.10070",
+      "publicationDate": "2025-07-14",
+      "year": 2025
+    },
+    {
+      "title": "SGgraph: A Scalable GPU-Based Edge-Centric Graph Processing Framework",
+      "arxiv_id": null,
+      "doi": "10.1007/s10766-025-00792-5",
+      "publicationDate": "2025-03-24",
+      "year": 2025
+    },
+    {
+      "title": "Piccolo: Large-Scale Graph Processing with Fine-Grained in-Memory Scatter-Gather",
+      "arxiv_id": "2503.05116",
+      "doi": "10.1109/HPCA61900.2025.00055",
+      "publicationDate": "2025-03-01",
+      "year": 2025
+    },
+    {
+      "title": "FTGraph: A Flexible Tree-Based Graph Store on Persistent Memory for Large-Scale Dynamic Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/CLUSTER59578.2024.00011",
+      "publicationDate": "2024-09-24",
+      "year": 2024
+    },
+    {
+      "title": "Reordering and Compression for Hypergraph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2024.3377915",
+      "publicationDate": "2024-06-01",
+      "year": 2024
+    },
+    {
+      "title": "CAVE: Concurrency-Aware Graph Processing on SSDs",
+      "arxiv_id": null,
+      "doi": "10.1145/3654928",
+      "publicationDate": "2024-05-29",
+      "year": 2024
+    },
+    {
+      "title": "Enhancing Data Systems Performance by Exploiting SSD Concurrency & Asymmetry",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE60146.2024.00454",
+      "publicationDate": "2024-05-13",
+      "year": 2024
+    },
+    {
+      "title": "Grafu: Unleashing the Full Potential of Future Value Computation for Out-of-core Synchronous Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1145/3620665.3640409",
+      "publicationDate": "2024-04-27",
+      "year": 2024
+    },
+    {
+      "title": "Contigra: Graph Mining with Containment Constraints",
+      "arxiv_id": null,
+      "doi": "10.1145/3627703.3629589",
+      "publicationDate": "2024-04-22",
+      "year": 2024
+    },
+    {
+      "title": "FlashGNN: An In-SSD Accelerator for GNN Training",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA57654.2024.00035",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "BeaconGNN: Large-Scale GNN Acceleration with Out-of-Order Streaming In-Storage Computing",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA57654.2024.00033",
+      "publicationDate": "2024-03-02",
+      "year": 2024
+    },
+    {
+      "title": "INFINEL: An efficient GPU-based processing method for unpredictable large output graph queries",
+      "arxiv_id": null,
+      "doi": "10.1145/3627535.3638490",
+      "publicationDate": "2024-02-20",
+      "year": 2024
+    },
+    {
+      "title": "CGgraph: An Ultra-fast Graph Processing System on Modern Commodity CPU-GPU Co-processor",
+      "arxiv_id": null,
+      "doi": "10.14778/3648160.3648179",
+      "publicationDate": "2024-02-01",
+      "year": 2024
+    },
+    {
+      "title": "A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation",
+      "arxiv_id": "2402.03358",
+      "doi": "10.48550/arXiv.2402.03358",
+      "publicationDate": "2024-01-29",
+      "year": 2024
+    },
+    {
+      "title": "Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment",
+      "arxiv_id": "2401.02116",
+      "doi": "10.1145/3639269",
+      "publicationDate": "2024-01-04",
+      "year": 2024
+    },
+    {
+      "title": "High-performance Effective Scientific Error-bounded Lossy Compression with Auto-tuned Multi-component Interpolation",
+      "arxiv_id": "2311.12133",
+      "doi": "10.1145/3639259",
+      "publicationDate": "2023-11-20",
+      "year": 2023
+    },
+    {
+      "title": "DGAP: Efficient Dynamic Graph Analysis on Persistent Memory",
+      "arxiv_id": "2403.02665",
+      "doi": "10.1145/3581784.3607106",
+      "publicationDate": "2023-11-11",
+      "year": 2023
+    },
+    {
+      "title": "Falcon: Fast OLTP Engine for Persistent Cache and Non-Volatile Memory",
+      "arxiv_id": null,
+      "doi": "10.1145/3600006.3613141",
+      "publicationDate": "2023-10-23",
+      "year": 2023
+    },
+    {
+      "title": "Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale Graphs with In-memory Performance",
+      "arxiv_id": "2310.00837",
+      "doi": "10.48550/arXiv.2310.00837",
+      "publicationDate": "2023-10-02",
+      "year": 2023
+    },
+    {
+      "title": "A Comprehensive Review of Community Detection in Graphs",
+      "arxiv_id": "2309.11798",
+      "doi": "10.48550/arXiv.2309.11798",
+      "publicationDate": "2023-09-21",
+      "year": 2023
+    },
+    {
+      "title": "A Survey of Graph Pre-processing Methods: From Algorithmic to Hardware Perspectives",
+      "arxiv_id": "2309.07581",
+      "doi": "10.48550/arXiv.2309.07581",
+      "publicationDate": "2023-09-14",
+      "year": 2023
+    },
+    {
+      "title": "A survey of graph neural network based recommendation in social networks",
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2023.126441",
+      "publicationDate": "2023-09-01",
+      "year": 2023
+    },
+    {
+      "title": "A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware",
+      "arxiv_id": "2306.14052",
+      "doi": "10.1145/3805796",
+      "publicationDate": "2023-06-24",
+      "year": 2023
+    },
+    {
+      "title": "Accelerating Graph Mining Systems with Subgraph Morphing",
+      "arxiv_id": null,
+      "doi": "10.1145/3552326.3567489",
+      "publicationDate": "2023-05-08",
+      "year": 2023
+    },
+    {
+      "title": "A Fine-grained Asynchronous Bulk Synchronous parallelism model for PGAS applications",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jocs.2023.102014",
+      "publicationDate": "2023-04-01",
+      "year": 2023
+    },
+    {
+      "title": "An Unequal Caching Strategy for Shared-Memory Graph Analytics",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2022.3218885",
+      "publicationDate": "2023-03-01",
+      "year": 2023
+    },
+    {
+      "title": "Hierarchical graph learning for protein–protein interaction",
+      "arxiv_id": null,
+      "doi": "10.1038/s41467-023-36736-1",
+      "publicationDate": "2023-02-25",
+      "year": 2023
+    },
+    {
+      "title": "The World of Graph Databases from An Industry Perspective",
+      "arxiv_id": "2211.13170",
+      "doi": "10.1145/3582302.3582320",
+      "publicationDate": "2022-11-23",
+      "year": 2022
+    },
+    {
+      "title": "Distributed Graph Neural Network Training: A Survey",
+      "arxiv_id": "2211.00216",
+      "doi": "10.1145/3648358",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "Blaze: Fast Graph Processing on Fast SSDs",
+      "arxiv_id": null,
+      "doi": "10.1109/SC41404.2022.00049",
+      "publicationDate": "2022-11-01",
+      "year": 2022
+    },
+    {
+      "title": "LOSC: A locality-optimized subgraph construction scheme for out-of-core graph processing",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2022.10.005",
+      "publicationDate": "2022-10-01",
+      "year": 2022
+    },
+    {
+      "title": "HyTGraph: GPU-Accelerated Graph Processing with Hybrid Transfer Management",
+      "arxiv_id": "2208.14935",
+      "doi": "10.1109/ICDE55515.2023.00049",
+      "publicationDate": "2022-08-31",
+      "year": 2022
+    },
+    {
+      "title": "GraphSD: A State and Dependency aware Out-of-Core Graph Processing System",
+      "arxiv_id": null,
+      "doi": "10.1145/3545008.3545039",
+      "publicationDate": "2022-08-29",
+      "year": 2022
+    },
+    {
+      "title": "A Structure-Aware Storage Optimization for Out-of-Core Concurrent Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/tc.2021.3098976",
+      "publicationDate": "2022-07-01",
+      "year": 2022
+    },
+    {
+      "title": "Sampling Enclosing Subgraphs for Link Prediction",
+      "arxiv_id": "2206.12004",
+      "doi": "10.1145/3511808.3557688",
+      "publicationDate": "2022-06-23",
+      "year": 2022
+    },
+    {
+      "title": "SmartSAGE: training large-scale graph neural networks using in-storage processing architectures",
+      "arxiv_id": "2205.04711",
+      "doi": "10.1145/3470496.3527391",
+      "publicationDate": "2022-05-10",
+      "year": 2022
+    },
+    {
+      "title": "Workload Balancing via Graph Reordering on Multicore Systems",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2021.3105323",
+      "publicationDate": "2022-05-01",
+      "year": 2022
+    },
+    {
+      "title": "Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00022",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA53966.2022.00023",
+      "publicationDate": "2022-04-01",
+      "year": 2022
+    },
+    {
+      "title": "An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs",
+      "arxiv_id": "2203.16123",
+      "doi": "10.14778/3529337.3529346",
+      "publicationDate": "2022-03-30",
+      "year": 2022
+    },
+    {
+      "title": "Graph Neural Networks in IoT: A Survey",
+      "arxiv_id": "2203.15935",
+      "doi": "10.1145/3565973",
+      "publicationDate": "2022-03-29",
+      "year": 2022
+    },
+    {
+      "title": "A Data Layout With Good Data Locality for Single-Machine Based Graph Engines",
+      "arxiv_id": null,
+      "doi": "10.1109/tc.2021.3107725",
+      "publicationDate": "2021-08-01",
+      "year": 2021
+    },
+    {
+      "title": "ScaleG: A Distributed Disk-Based System for Vertex-Centric Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2021.3101057",
+      "publicationDate": "2021-07-30",
+      "year": 2021
+    },
+    {
+      "title": "GraphCP: An I/O-Efficient Concurrent Graph Processing Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/IWQOS52092.2021.9521293",
+      "publicationDate": "2021-06-25",
+      "year": 2021
+    },
+    {
+      "title": "MultiLogVC: Efficient Out-of-Core Graph Processing Framework for Flash Storage",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS49936.2021.00033",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Competition-Based Adaptive Caching for Out-of-core Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGrid51090.2021.00013",
+      "publicationDate": "2021-05-01",
+      "year": 2021
+    },
+    {
+      "title": "Graph Coarsening with Neural Networks",
+      "arxiv_id": "2102.01350",
+      "doi": null,
+      "publicationDate": "2021-02-02",
+      "year": 2021
+    },
+    {
+      "title": "Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks",
+      "arxiv_id": "2102.00554",
+      "doi": null,
+      "publicationDate": "2021-01-31",
+      "year": 2021
+    },
+    {
+      "title": "DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing",
+      "arxiv_id": "2101.06911",
+      "doi": "10.1145/3437801.3441622",
+      "publicationDate": "2021-01-18",
+      "year": 2021
+    },
+    {
+      "title": "CIC-PIM: Trading spare computing power for memory space in graph processing",
+      "arxiv_id": null,
+      "doi": "10.1016/J.JPDC.2020.09.008",
+      "publicationDate": "2021-01-01",
+      "year": 2021
+    },
+    {
+      "title": "Computing Graph Neural Networks: A Survey from Algorithms to Accelerators",
+      "arxiv_id": "2010.00130",
+      "doi": "10.1145/3477141",
+      "publicationDate": "2020-09-30",
+      "year": 2020
+    },
+    {
+      "title": "A Hybrid Update Strategy for I/O-Efficient Out-of-Core Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2020.2973143",
+      "publicationDate": "2020-08-01",
+      "year": 2020
+    },
+    {
+      "title": "Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights",
+      "arxiv_id": "2007.00864",
+      "doi": "10.1109/JPROC.2021.3098483",
+      "publicationDate": "2020-07-02",
+      "year": 2020
+    },
+    {
+      "title": "SmartSSD: FPGA Accelerated Near-Storage Data Analytics on SSD",
+      "arxiv_id": null,
+      "doi": "10.1109/lca.2020.3009347",
+      "publicationDate": "2020-07-01",
+      "year": 2020
+    },
+    {
+      "title": "Subway: minimizing data transfer during out-of-GPU-memory graph processing",
+      "arxiv_id": null,
+      "doi": "10.1145/3342195.3387537",
+      "publicationDate": "2020-04-15",
+      "year": 2020
+    },
+    {
+      "title": "Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs",
+      "arxiv_id": null,
+      "doi": "10.14778/3397230.3397251",
+      "publicationDate": "2019-10-27",
+      "year": 2019
+    },
+    {
+      "title": "Survey of external memory large-scale graph processing on a multi-core system",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-019-03023-0",
+      "publicationDate": "2019-10-26",
+      "year": 2019
+    },
+    {
+      "title": "Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries",
+      "arxiv_id": "1910.09017",
+      "doi": "10.1145/3604932",
+      "publicationDate": "2019-10-20",
+      "year": 2019
+    },
+    {
+      "title": "Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics",
+      "arxiv_id": null,
+      "doi": "10.1109/PACT.2019.00010",
+      "publicationDate": "2019-09-01",
+      "year": 2019
+    },
+    {
+      "title": "GraphSSD: Graph Semantics Aware SSD",
+      "arxiv_id": null,
+      "doi": "10.1145/3307650.3322275",
+      "publicationDate": "2019-06-01",
+      "year": 2019
+    },
+    {
+      "title": "HyperX: A Scalable Hypergraph Framework",
+      "arxiv_id": null,
+      "doi": "10.1109/TKDE.2018.2848257",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Using High-Bandwidth Networks Efficiently for Fast Graph Computation",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2018.2875084",
+      "publicationDate": "2019-05-01",
+      "year": 2019
+    },
+    {
+      "title": "Single machine graph analytics on massive datasets using Intel optane DC persistent memory",
+      "arxiv_id": "1904.07162",
+      "doi": "10.14778/3389133.3389145",
+      "publicationDate": "2019-04-15",
+      "year": 2019
+    },
+    {
+      "title": "Redio: Accelerating Disk-Based Graph Processing by Reducing Disk I/Os",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2018.2875458",
+      "publicationDate": "2019-03-01",
+      "year": 2019
+    },
+    {
+      "title": "PowerLyra: Differentiated Graph Computation and Partitioning on Skewed Graphs",
+      "arxiv_id": null,
+      "doi": "10.1145/3298989",
+      "publicationDate": "2019-01-23",
+      "year": 2019
+    },
+    {
+      "title": "GraphMP: I/O-Efficient Big Graph Analytics on a Single Commodity Machine",
+      "arxiv_id": "1810.04334",
+      "doi": "10.1109/TBDATA.2019.2908384",
+      "publicationDate": "2018-10-09",
+      "year": 2018
+    },
+    {
+      "title": "Cache-Friendly Data Layout for Massive Graph",
+      "arxiv_id": null,
+      "doi": "10.1109/NAS.2018.8515737",
+      "publicationDate": "2018-10-01",
+      "year": 2018
+    },
+    {
+      "title": "Efficient processing of recommendation algorithms on a single-machine-based graph engine",
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-018-2477-4",
+      "publicationDate": "2018-07-10",
+      "year": 2018
+    },
+    {
+      "title": "Scalable Graph Processing Frameworks",
+      "arxiv_id": null,
+      "doi": "10.1145/3199523",
+      "publicationDate": "2018-06-12",
+      "year": 2018
+    },
+    {
+      "title": "GraFBoost: Using Accelerated Flash Storage for External Graph Analytics",
+      "arxiv_id": null,
+      "doi": "10.1109/ISCA.2018.00042",
+      "publicationDate": "2018-06-01",
+      "year": 2018
+    },
+    {
+      "title": "TurboGraph++: A Scalable and Fast Graph Analytics System",
+      "arxiv_id": null,
+      "doi": "10.1145/3183713.3196915",
+      "publicationDate": "2018-05-27",
+      "year": 2018
+    },
+    {
+      "title": "GraphIt: a high-performance graph DSL",
+      "arxiv_id": "1805.00923",
+      "doi": "10.1145/3276491",
+      "publicationDate": "2018-05-02",
+      "year": 2018
+    },
+    {
+      "title": "GraphZ: Improving the Performance of Large-Scale Graph Analytics on Small-Scale Machines",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2018.00152",
+      "publicationDate": "2018-04-16",
+      "year": 2018
+    },
+    {
+      "title": "Efficient Disk-Based Directed Graph Processing: A Strongly Connected Component Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2017.2776115",
+      "publicationDate": "2018-04-01",
+      "year": 2018
+    },
+    {
+      "title": "Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System",
+      "arxiv_id": null,
+      "doi": "10.1145/3173162.3173208",
+      "publicationDate": "2018-03-19",
+      "year": 2018
+    },
+    {
+      "title": "GraphP: Reducing Communication for PIM-Based Graph Processing with Efficient Data Partition",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2018.00053",
+      "publicationDate": "2018-02-01",
+      "year": 2018
+    },
+    {
+      "title": "Accelerating breadth-first graph search on a single server by dynamic edge trimming",
+      "arxiv_id": null,
+      "doi": "10.1016/j.jpdc.2017.09.007",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "GSC: Greedy shard caching algorithm for improved I/O efficiency in GraphChi",
+      "arxiv_id": null,
+      "doi": "10.1109/ICNP.2017.8117588",
+      "publicationDate": "2017-10-01",
+      "year": 2017
+    },
+    {
+      "title": "Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-12",
+      "year": 2017
+    },
+    {
+      "title": "Garaph: Efficient GPU-accelerated Graph Processing on a Single Machine with Balanced Replication",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-07-12",
+      "year": 2017
+    },
+    {
+      "title": "Mermaid: Integrating Vertex-Centric with Edge-Centric for Real-World Graph Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/CCGRID.2017.63",
+      "publicationDate": "2017-05-14",
+      "year": 2017
+    },
+    {
+      "title": "HotGraph: Efficient Asynchronous Processing for Real-World Graphs",
+      "arxiv_id": null,
+      "doi": "10.1109/TC.2016.2624289",
+      "publicationDate": "2017-05-01",
+      "year": 2017
+    },
+    {
+      "title": "Mosaic: Processing a Trillion-Edge Graph on a Single Machine",
+      "arxiv_id": null,
+      "doi": "10.1145/3064176.3064191",
+      "publicationDate": "2017-04-23",
+      "year": 2017
+    },
+    {
+      "title": "Graphene: Fine-Grained IO Management for Graph Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2017-02-27",
+      "year": 2017
+    },
+    {
+      "title": "KAML: A Flexible, High-Performance Key-Value SSD",
+      "arxiv_id": null,
+      "doi": "10.1109/HPCA.2017.15",
+      "publicationDate": "2017-02-01",
+      "year": 2017
+    },
+    {
+      "title": "G-Store: High-Performance Graph Store for Trillion-Edge Processing",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2016.70",
+      "publicationDate": "2016-11-13",
+      "year": 2016
+    },
+    {
+      "title": "Gemini: A Computation-Centric Distributed Graph Processing System",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-11-02",
+      "year": 2016
+    },
+    {
+      "title": "AsyncStripe: I/O efficient asynchronous graph computing on a single server",
+      "arxiv_id": null,
+      "doi": "10.1145/2968456.2968473",
+      "publicationDate": "2016-10-01",
+      "year": 2016
+    },
+    {
+      "title": "GraphHP: A Hybrid Platform for Iterative Graph Processing",
+      "arxiv_id": "1706.07221",
+      "doi": "10.3969/j.issn.1000-5641.2016.05.013",
+      "publicationDate": "2016-09-25",
+      "year": 2016
+    },
+    {
+      "title": "Load the Edges You Need: A Generic I/O Optimization for Disk-based Graph Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2016-06-22",
+      "year": 2016
+    },
+    {
+      "title": "Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing",
+      "arxiv_id": null,
+      "doi": "10.1145/2882903.2882938",
+      "publicationDate": "2016-06-14",
+      "year": 2016
+    },
+    {
+      "title": "DD-Graph: A Highly Cost-Effective Distributed Disk-based Graph-Processing Framework",
+      "arxiv_id": null,
+      "doi": "10.1145/2907294.2907299",
+      "publicationDate": "2016-05-31",
+      "year": 2016
+    },
+    {
+      "title": "FastBFS: Fast Breadth-First Graph Search on a Single Server",
+      "arxiv_id": null,
+      "doi": "10.1109/IPDPS.2016.71",
+      "publicationDate": "2016-05-23",
+      "year": 2016
+    },
+    {
+      "title": "NXgraph: An efficient graph processing system on a single machine",
+      "arxiv_id": "1510.06916",
+      "doi": "10.1109/ICDE.2016.7498258",
+      "publicationDate": "2015-10-23",
+      "year": 2015
+    },
+    {
+      "title": "Chaos: scale-out graph processing from secondary storage",
+      "arxiv_id": null,
+      "doi": "10.1145/2815400.2815408",
+      "publicationDate": "2015-10-04",
+      "year": 2015
+    },
+    {
+      "title": "Thinking Like a Vertex",
+      "arxiv_id": "1507.04405",
+      "doi": "10.1145/2818185",
+      "publicationDate": "2015-07-16",
+      "year": 2015
+    },
+    {
+      "title": "GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2015-07-08",
+      "year": 2015
+    },
+    {
+      "title": "A scalable processing-in-memory accelerator for parallel graph processing",
+      "arxiv_id": null,
+      "doi": "10.1145/2749469.2750386",
+      "publicationDate": "2015-06-13",
+      "year": 2015
+    },
+    {
+      "title": "Giraph Unchained: Barrierless Asynchronous Parallel Execution in Pregel-like Graph Processing Systems",
+      "arxiv_id": null,
+      "doi": "10.14778/2777598.2777604",
+      "publicationDate": "2015-05-01",
+      "year": 2015
+    },
+    {
+      "title": "VENUS: Vertex-centric streamlined graph computation on a single PC",
+      "arxiv_id": null,
+      "doi": "10.1109/ICDE.2015.7113362",
+      "publicationDate": "2015-04-13",
+      "year": 2015
+    },
+    {
+      "title": "NUMA-aware graph-structured analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/2688500.2688507",
+      "publicationDate": "2015-01-24",
+      "year": 2015
+    },
+    {
+      "title": "Gunrock: a high-performance graph processing library on the GPU",
+      "arxiv_id": "1501.05387",
+      "doi": "10.1145/2851141.2851145",
+      "publicationDate": "2015-01-21",
+      "year": 2015
+    },
+    {
+      "title": "Fast Iterative Graph Computation: A Path Centric Approach",
+      "arxiv_id": null,
+      "doi": "10.1109/SC.2014.38",
+      "publicationDate": "2014-11-16",
+      "year": 2014
+    },
+    {
+      "title": "ASPIRE",
+      "arxiv_id": null,
+      "doi": "10.1145/2714064.2660227",
+      "publicationDate": "2014-10-15",
+      "year": 2014
+    },
+    {
+      "title": "GraphX: Graph Processing in a Distributed Dataflow Framework",
+      "arxiv_id": null,
+      "doi": "10.5555/2685048.2685096",
+      "publicationDate": "2014-10-06",
+      "year": 2014
+    },
+    {
+      "title": "KLA: A new algorithmic paradigm for parallel graph computations",
+      "arxiv_id": null,
+      "doi": "10.1145/2628071.2628091",
+      "publicationDate": "2014-08-24",
+      "year": 2014
+    },
+    {
+      "title": "FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs",
+      "arxiv_id": "1408.0500",
+      "doi": null,
+      "publicationDate": "2014-08-03",
+      "year": 2014
+    },
+    {
+      "title": "BiShard Parallel Processor: A Disk-Based Processing Engine for Billion-Scale Graphs",
+      "arxiv_id": null,
+      "doi": "10.14257/IJMUE.2014.9.2.20",
+      "publicationDate": "2014-02-28",
+      "year": 2014
+    },
+    {
+      "title": "X-Stream: edge-centric graph processing using streaming partitions",
+      "arxiv_id": null,
+      "doi": "10.1145/2517349.2522740",
+      "publicationDate": "2013-11-03",
+      "year": 2013
+    },
+    {
+      "title": "A lightweight infrastructure for graph analytics",
+      "arxiv_id": null,
+      "doi": "10.1145/2517349.2522739",
+      "publicationDate": "2013-11-03",
+      "year": 2013
+    },
+    {
+      "title": "TurboGraph: a fast parallel graph engine handling billion-scale graphs in a single PC",
+      "arxiv_id": null,
+      "doi": "10.1145/2487575.2487581",
+      "publicationDate": "2013-08-11",
+      "year": 2013
+    },
+    {
+      "title": "TripleBit: a Fast and Compact System for Large Scale RDF Data",
+      "arxiv_id": null,
+      "doi": "10.14778/2536349.2536352",
+      "publicationDate": "2013-05-01",
+      "year": 2013
+    },
+    {
+      "title": "Ligra: a lightweight graph processing framework for shared memory",
+      "arxiv_id": null,
+      "doi": "10.1145/2442516.2442530",
+      "publicationDate": "2013-02-23",
+      "year": 2013
+    },
+    {
+      "title": "GraphChi: Large-Scale Graph Computation on Just a PC",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-10-08",
+      "year": 2012
+    },
+    {
+      "title": "PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": "2012-10-08",
+      "year": 2012
+    },
+    {
+      "title": "Distributed GraphLab: A Framework for Machine Learning in the Cloud",
+      "arxiv_id": "1204.6078",
+      "doi": "10.14778/2212351.2212354",
+      "publicationDate": "2012-04-01",
+      "year": 2012
+    },
+    {
+      "title": "Exploring GPGPU workloads: Characterization methodology, analysis and microarchitecture evaluation implications",
+      "arxiv_id": null,
+      "doi": "10.1109/IISWC.2010.5649549",
+      "publicationDate": "2010-12-02",
+      "year": 2010
+    },
+    {
+      "title": "Pregel: a system for large-scale graph processing",
+      "arxiv_id": null,
+      "doi": "10.1145/1807167.1807184",
+      "publicationDate": "2010-06-06",
+      "year": 2010
+    },
+    {
+      "title": "Wonderland",
+      "arxiv_id": null,
+      "doi": "10.1016/s1470-2045(08)70227-4",
+      "publicationDate": "2010-05-06",
+      "year": 2010
+    },
+    {
+      "title": "k2-Trees for Compact Web Graph Representation",
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-03784-9_3",
+      "publicationDate": "2009-08-21",
+      "year": 2009
+    },
+    {
+      "title": "On compressing social networks",
+      "arxiv_id": null,
+      "doi": "10.1145/1557019.1557049",
+      "publicationDate": "2009-06-28",
+      "year": 2009
+    },
+    {
+      "title": "Applications of Space-Filling-Curves to Cartesian Methods for CFD",
+      "arxiv_id": null,
+      "doi": "10.2514/6.2004-1232",
+      "publicationDate": "2004-01-05",
+      "year": 2004
+    },
+    {
+      "title": "A bridging model for parallel computation",
+      "arxiv_id": null,
+      "doi": "10.1145/79173.79181",
+      "publicationDate": "1990-08-01",
+      "year": 1990
+    },
+    {
+      "title": "Oasis: An Out-of-core Approximate Graph System via All-Distances Sketches",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Efficient Large Graph Processing with Chunk-Based Graph Representation Model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Seraph: Towards Scalable and Efficient Fully-external Graph Computation via On-demand Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Open-Channel SSD (What is it Good For)",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Large-Scale Graph Processing on Emerging Storage Devices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Pre-Select Static Caching and Neighborhood Ordering for BFS-like Algorithms on Disk-based Graph Engines",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "LUMOS: Dependency-Driven Disk-based Graph Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "GraphD: Distributed Vertex-Centric Graph Processing Beyond the Memory Limit",
+      "arxiv_id": null,
+      "doi": "10.1109/TPDS.2017.2743708",
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Københavns Universitet Graph Processing on GPUs : A Survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Graph summarization methods and applications: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "KaHIP v3. 00śKarlsruhe High Quality PartitioningśUser Guide",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2013
+    },
+    {
+      "title": "METIS: A software package for partitioning unstructured graphs, partitioning meshes, and computing ill-reducing orderings of sparse matrices",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 1997
+    },
+    {
+      "title": "2022. Practicably boosting the processing performance of BFS-like algorithms on semi-external graph system via I/O-eicient graph ordering",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "This Paper Is Included in the Proceedings of the 12th Usenix Symposium on Operating Systems Design and Implementation (osdi '16). Exploring the Hidden Dimension in Graph Processing Exploring the Hidden Dimension in Graph Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "This paper is included in the Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation. TriCache: A User-Transparent Block Cache Enabling High-Performance Out-of-Core Processing with In-Memory Programs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Celeritas: Out-of-Core Based Unsupervised Graph Neural Network via Cross-Layer Computing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. CHROME: Concurrency-aware holistic cache management framework with online reinforcement learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. LOTUS: Locality optimizing triangle counting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Disaggregated Memory with SmartNIC Oloading: a Case Study on Graph Processing",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. PreVision: An Out-of-Core Matrix Computation System with Optimal Bufer Replacement",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2022. NDANN: eicient SSD-based approximate nearest neighbor search through navigation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "2024. Dynamic optimization of storage systems using reinforcement learning techniques",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": null
+    }
+  ]
+}

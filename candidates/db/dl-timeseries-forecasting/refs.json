@@ -1,0 +1,1443 @@
+{
+  "candidate": {
+    "topic": "Deep Learning for Time Series Forecasting",
+    "domain": "db",
+    "gt": {
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2026.3671378",
+      "title": "A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis and Future Directions",
+      "published": "2026-05-01"
+    },
+    "notes": "8차 광역 모집 (2026-09-02). venue=TKDE, Crossref refs-count=201"
+  },
+  "extracted_at": "2026-09-02T02:31:19+00:00",
+  "source": "crossref-deposited",
+  "summary": {
+    "refs": 201,
+    "arxiv_resolvable": 2,
+    "doi_only": 100,
+    "unresolved": 99
+  },
+  "gt_s2": {
+    "paperId": "6c3ac8601725eee127fb85e1677ef895e22b8118",
+    "externalIds": {
+      "DBLP": "journals/tkde/GuoZSZ26",
+      "DOI": "10.1109/TKDE.2026.3671378",
+      "CorpusId": 286390495
+    },
+    "title": "A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis and Future Directions",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "year": 2026,
+    "referenceCount": 173,
+    "publicationDate": "2026-05-01"
+  },
+  "refs": [
+    {
+      "title": "ClimODE: Climate and weather forecasting with physics-informed neural ODEs",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i1.31997",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tbdata.2024.3378061",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2024.126361",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2025.110980",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.engappai.2024.108375",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.127907",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.127287",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2025.128192",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i6.16618",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.eswa.2024.124658",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/bigdata62323.2024.10826009",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1098/rsta.1927.0007",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1098/rspa.1931.0069",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.neucom.2007.07.018",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1080/01621459.1970.10481180",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/bf00994018",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1006/inco.1995.1136",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1207/s15516709cog1402_1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2017/366",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnn.2008.2005605",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.24963/ijcai.2018/505",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3115/v1/d14-1181",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": "1706.03762",
+      "doi": "10.48550/arxiv.1706.03762",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1037/h0042519",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.ijforecast.2022.03.001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i6.25854",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1201/9781003612742-2",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i9.26317",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "itransformer: Inverted transformers are effective for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3719207",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i18.34082",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3533382",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.inffus.2023.101819",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/info14110598",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey of deep learning and foundation models for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/math12101504",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A comprehensive survey of deep learning for multivariate time series forecasting: A channel strategy perspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s13042-025-02560-w",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s10462-025-11223-9",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Deep time series models: A comprehensive survey and benchmark",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-319-70338-1",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Survey and taxonomy: The role of data-centric ai in transformer-based time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3742784",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/075280-3349",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3580305.3599533",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Timemixer: Decomposable multiscale mixing for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i11.29155",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i18.34156",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "TimesNet: Temporal 2D-variation modeling for general time series analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3453724",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3701716.3715214",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "TVNet: A novel time series analysis method based on dynamic convolution and 3D-variation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "ModernTCN: A modern pure convolution structure for general time series analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Micn: Multi-scale local and global context modeling for long-term series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "SCINet: Time series modeling and forecasting with sample convolution and interaction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Cross-LKTCN: Modern convolution utilizing cross-variable dependency for multivariate time series forecasting dependency for multivariate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "A multi-horizon quantile recurrent forecaster",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2017
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.ijforecast.2019.07.001",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Modeling irregular time series with continuous recurrent units",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2025.3647705",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671969",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.ijforecast.2019.03.017",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/ai5030071",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i11.33303",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Spectral temporal graph neural network for multivariate time-series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Multivariate time-series forecasting with temporal polynomial graph neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "FourierGNN: Rethinking multivariate time series forecasting from a pure graph perspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3394486.3403118",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Biased temporal convolution graph network for time series forecasting with missing values",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2023.3268199",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Graph-based time series clustering for end-to-end hierarchical forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i10.28991",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Timefilter: Patch-specific spatial-temporal graph filtration for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "A time series is worth 64 words: Long-term forecasting with transformers",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/068431-0718",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3627673.3679757",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i17.33951",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Pathformer: Multi-scale transformers with adaptive pathways for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v35i12.17325",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "AutoFormer: Decomposition transformers with auto-correlation for long-term series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Adversarial sparse transformer for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icassp49357.2023.10096881",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "PyraFormer: Low-complexity pyramidal attention for long-range time series modeling and forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/075280-2042",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671928",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Peri-midformer: Periodic pyramid transformer for time series analysis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3534678.3539234",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Etsformer: Exponential smoothing transformers for time-series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": "Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.ijforecast.2021.03.012",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/jiot.2023.3341099",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tpami.2023.3293516",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Card: Channel aligned robust blend transformer for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Basisformer: Attention-based time series forecasting with learnable and interpretable basis",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icde65448.2025.00100",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i1.32057",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Simpletm: A simple baseline for multivariate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Lag-Llama: Towards foundation models for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Frozen language model helps ECG zero-shot learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i21.34371",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Tempo: Prompt-based generative pre-trained transformer for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "$ s^{2}$s2ip-LLM: Semantic space informed prompt learning with LLM for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Test: Text prototype aligned embedding to activate LLM’s ability for time series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/s11227-025-07491-5",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v39i18.34067",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "One fits all: Power general time series analysis by pretrained LM",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3589334.3645434",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Time-FFM: Towards LM-empowered federated foundation model for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Logo-LLM: Local and global modeling with large language models for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3209978.3210006",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v34i04.5766",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2019.2954510",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1038/s41598-025-94239-z",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.apenergy.2021.117061",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icdm65498.2025.00081",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Periodicity decoupling framework for long-term series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Bridging short-and long-term dependencies: A CNN-transformer hybrid for financial time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.scitotenv.2019.01.333",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tits.2019.2935152",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adaptive graph convolutional recurrent network for traffic forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": "Spatial-temporal transformer networks for traffic flow forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2020
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3233/faia200231",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Navigating spatio-temporal heterogeneity: A graph transformer approach for traffic forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Stgformer: Efficient spatiotemporal graph transformer for traffic forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.procs.2019.01.256",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Time-series generative adversarial networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.3390/engproc2021005040",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "T-CGAN: Conditional generative adversarial network for data augmentation in noisy time series with irregular sampling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "GT-GAN: General purpose time series synthesis with generative adversarial networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1016/j.knosys.2023.111079",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnnls.2024.3384842",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/ijcnn60899.2024.10650587",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "K ${}^{2}$2 VAE: A Koopman-Kalman enhanced variational autoencoder for probabilistic time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2023.3319672",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/icdmw58026.2022.00141",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Multivariate probabilistic time series forecasting via conditioned normalizing flows",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Non-autoregressive conditional diffusion models for time series prediction",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "CSDI: Conditional score-based diffusion models for probabilistic time series imputation",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2021
+    },
+    {
+      "title": "Retrieval-augmented diffusion models for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v38i11.29085",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Transformer-modulated diffusion models for probabilistic multivariate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Predict, refine, synthesize: Self-guiding diffusion models for probabilistic time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "MG-TSD: Multi-granularity time series diffusion models with guided learning process",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Multi-resolution diffusion models for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-3848",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Dynamical Diffusion: Learning temporal dynamics with diffusion models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Non-stationary diffusion for probabilistic time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2023.3342137",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.2139/ssrn.4489831",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.18653/v1/2023.emnlp-industry.69",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": "Multi-patch prediction: Adapting lLMs for time series representation learning",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Autotimes: Autoregressive time series forecasters via large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Large language models are zero-shot time series forecasters",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Learning augmentation policies from a model zoo for time series forecasting",
+      "arxiv_id": "2409.06282",
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Wave-mask/mix: Exploring wavelet-based augmentations for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Beyond data scarcity: A frequency-driven framework for zero-shot forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Adaptive sampling for probabilistic forecasting under distribution shift",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tnnls.2019.2944933",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Extended deep adaptive input normalization for preprocessing time series data for neural networks",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671926",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Timeinf: Time series data contribution via influence functions",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Human in the loop adaptive optimization for improved time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Towards reliable time series forecasting under future uncertainty: Ambiguity and novelty rejection mechanisms",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Introducing spectral attention for long-range dependency in time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "How much can time-related features enhance time series forecasting?",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-4152",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Segment, shuffle, and stitch: A simple layer for improving time-series representations",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Reversible instance normalization for accurate time-series forecasting against distribution shift",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3627673.3679822",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Frednormer: Frequency domain normalization for non-stationary time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.52202/079017-0985",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Adaptive normalization for non-stationary time series forecasting: A temporal slice perspective",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2023
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1609/aaai.v37i6.25914",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Ram: Replace attention with mlp for efficient multivariate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Spat: Sensitivity-based multihead-attention pruning on time series forecasting models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Unitnorm: Rethinking normalization for transformers in time series",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Shape and time distortion loss for training deep time series forecasting models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2019
+    },
+    {
+      "title": "Loss shaping constraints for long-term time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1109/tkde.2025.3609415",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Patch-wise structural loss for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "OLMA: One loss for more accurate time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1201/9781003612742-3",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "Robust time series forecasting with non-heavy-tailed gaussian loss-weighted sampler",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Not all data are good labels: On the self-supervised labeling for time series forecasting",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2025
+    },
+    {
+      "title": "Robusttsf: Towards theory and design of robust time series forecasting with anomalies",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2018
+    },
+    {
+      "title": "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2014
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1007/978-3-642-24797-2_4",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "xlstm: Extended long short-term memory",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": null,
+      "arxiv_id": null,
+      "doi": "10.1145/3637528.3671451",
+      "publicationDate": null,
+      "year": null
+    },
+    {
+      "title": "A survey of time series foundation models: Generalizing time series representation with large language model",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Large language models for time series: A survey",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Electricityloaddiagrams20112014",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2015
+    },
+    {
+      "title": "Time-LLM: Time series forecasting by reprogramming large language models",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2024
+    },
+    {
+      "title": "Generative time series forecasting with diffusion, denoise, and disentanglement",
+      "arxiv_id": null,
+      "doi": null,
+      "publicationDate": null,
+      "year": 2022
+    }
+  ]
+}

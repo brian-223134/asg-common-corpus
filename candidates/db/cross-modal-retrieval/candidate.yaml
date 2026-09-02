@@ -1,0 +1,9 @@
+topic: Cross-Modal Retrieval
+domain: db
+gt:
+  arxiv_id: null
+  doi: 10.1145/3829354
+  title: 'A Comprehensive Survey of Cross-Modal Retrieval: Breaking Through Modal
+    Barriers'
+  published: '2026-08-08'
+notes: 8차 광역 모집 (2026-09-02). venue=CSUR, Crossref refs-count=198
