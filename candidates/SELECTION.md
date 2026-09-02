@@ -130,6 +130,8 @@ agent 간 변별력이 압축**되므로 결과표에 ceiling을 반드시 병�
 
 ## 5. 후속 절차와 미결
 
+### ✅ view · export 완료 (2026-09-02 03:29)
+
 ```bash
 PY=/data2/chanjoong/miniforge3/envs/asg-corpus/bin/python
 $PY -m common_corpus.cli create-view --name bench-2512 \
@@ -137,6 +139,25 @@ $PY -m common_corpus.cli create-view --name bench-2512 \
 $PY -m common_corpus.cli export-agent-db --view bench-2512 --format autosurvey
 $PY -m common_corpus.cli export-agent-db --view bench-2512 --format surveyforge
 ```
+
+| 단계 | 결과 |
+|---|---|
+| base corpus | 947,716편 (sha `6bb204d1…`, upstream `cd87dd0…`) |
+| cutoff 통과 (strict month-end) | 947,464 (−252) |
+| GT 쌍둥이 제외 | **947,451** (−13) |
+| view 산출 | `data/views/bench-2512/{paper_ids.parquet, view_manifest.json}` |
+| export | `bench-2512.autosurvey.json` 1.21GB · `bench-2512.surveyforge.json` 1.23GB (각 947,451 레코드, 14초) |
+
+**누수 검증**: 제외 대상 15개 중 13개(preprint 쌍둥이, 2022-11~2025-05)가 corpus에 존재했고
+view·export 양쪽에서 전부 제거됐다. GT 본체 arXiv 2편(2601.03181 · 2603.27918)은 post-cutoff라
+애초에 corpus에 없다. export 샘플 20만건의 date 최댓값 2025-12-30으로 cutoff도 확인.
+
+**export 스키마**: autosurvey `{id, title, url, date, abs, cat}` · surveyforge는 `citation_count` 추가.
+`cat`은 arXiv 카테고리가 아니라 **OpenAlex subfield명**이다(D1) — 'cs.CV' 형식을 기대하는 코드는
+어댑터에서 대응해야 한다(integration-guide §2). `id`는 버전 접미사 없는 base id.
+
+**manifest 체인**: export manifest(`content_sha256`·`file_sha256`) → view `files_sha256` →
+`base_corpus_sha256` → upstream revision. 실험 기록에 view 이름만 남기면 전 단계 복원 가능.
 
 - [ ] `scripts/audit_candidates.py:144` coverage 분모에서 post-cutoff ref 제외 (설계 문서 §0-3과 구현 불일치).
       실측 영향: `security/embodied-ai-safety` 36%→57%(elig 64) △→○ · `harmful-finetuning` 68%→75% ·

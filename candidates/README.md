@@ -168,4 +168,5 @@ D1(no_cs_topic 유실) 도메인별: ai 10.5% · algorithm 9.0% · db 6.3% · ne
       나머지는 ±1.5%p 이내. `se/terminal-agents`는 20%→53%이나 게이트①(post-cutoff 44%) 탈락 유지.
 - [ ] S2 색인 후 재추출: llm-agents-se · lm-compression · llm-watermarking · TKDE/VLDBJ 계열 4편
 - [x] 최종 25편 확정 → `SELECTION.md` · `gt_exclude.txt`(15 id) — D9 (2026-09-02)
-- [ ] `create-view --name bench-2512 --exclude-file candidates/gt_exclude.txt` → export → agent 실험
+- [x] `create-view --name bench-2512` (947,451편) + `export-agent-db` 2종 — 2026-09-02, 상세는 SELECTION.md §5
+- [ ] agent별 임베딩 빌드 → 4 agent 생성 실험 (docs/autosurvey-usage.md)
