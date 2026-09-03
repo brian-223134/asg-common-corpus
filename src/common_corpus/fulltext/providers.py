@@ -50,7 +50,9 @@ class ArxivFullTextProvider:
         req = urllib.request.Request(url, headers=UA)
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
-                return r.read(), dict(r.headers)
+                # HTTP 헤더는 대소문자를 구분하지 않는다. dict(r.headers)로 옮기면
+                # 서버가 보낸 케이스 그대로 굳어 조회가 조용히 빗나가므로 소문자로 정규화한다.
+                return r.read(), {k.lower(): v for k, v in r.headers.items()}
         finally:
             # 실패해도 마지막 요청 시각을 갱신한다. 예외 경로에서 갱신을 빠뜨리면
             # 다음 요청이 딜레이 없이 즉시 나가 429 폭주로 이어진다.
@@ -91,7 +93,11 @@ class ArxivFullTextProvider:
             # export.arxiv.org API를 아예 거치지 않는다.
             payload, headers = self._get(f"https://arxiv.org/e-print/{arxiv_id}")
             m = re.search(rf"{re.escape(arxiv_id)}(v\d+)",
-                          headers.get("Content-Disposition", "") or "")
-            v = m.group(1) if m else self.latest_version(arxiv_id)
+                          headers.get("content-disposition", "") or "")
+            if m:
+                v = m.group(1)
+            else:
+                log.warning("%s: content-disposition에 버전이 없어 API로 조회한다", arxiv_id)
+                v = self.latest_version(arxiv_id)
         log.info("fetched %s%s (%d bytes)", arxiv_id, v, len(payload))
         return RawFullText(source=self.name, source_id=arxiv_id, version=v, payload=payload)
