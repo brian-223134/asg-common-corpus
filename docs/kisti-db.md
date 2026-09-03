@@ -47,7 +47,7 @@ KISTI 측이 구축해 전달한 **Science Data Lake 파생 스토어 패키지*
 
 - [ ] 원본 측 계정의 `authorized_keys`에서 전송용 키 제거 요청: `sed -i '/kisti-transfer/d' ~/.ssh/authorized_keys`
 - [ ] 같은 파일에 앞서 잘못 등록된 이 머신의 GitHub 키 2줄도 제거 요청
-- [ ] 이 머신의 `~/.ssh/id_kisti{,.pub}` 삭제 (원본 측 등록 해제 후)
+- [x] 이 머신의 `~/.ssh/id_kisti{,.pub}` 삭제 (2026-09-03 완료 — 개인키가 없으므로 원본 측에 남은 공개키는 무해)
 
 ---
 
@@ -220,6 +220,6 @@ broader-CS(19.6M편) 채택을 막던 "full-text agent의 비-arXiv 논문 처�
 ## 8. 남은 일
 
 - [x] `VERIFY.sh` 완료 — 276/277 OK, README만 원본 측 드리프트 (§1.1)
-- [ ] 원본 측 `authorized_keys` 정리 요청 및 로컬 `id_kisti` 폐기 (§1.3)
+- [ ] 원본 측 `authorized_keys` 정리 요청 (§1.3; 로컬 `id_kisti`는 폐기 완료)
 - [ ] `asg-corpus`에 `tantivy==0.26.0` 설치 후 `search_fulltext.py` 스모크 (색인 v7 오픈 확인)
 - [ ] 우리 corpus ↔ `paper_meta.meta.openalex_id` 매핑률 · `has_full_text` 커버리지 실측 (§7.1)
