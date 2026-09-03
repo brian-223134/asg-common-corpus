@@ -35,7 +35,7 @@ KISTI 측이 구축해 전달한 **Science Data Lake 파생 스토어 패키지*
 | 파일 | 결과 | 해석 |
 |---|---|---|
 | `README.md` | **FAILED** | **전송 오류 아님.** 패키지 생성 측에서 `SHA256SUMS`·`MANIFEST.txt`를 만든 뒤(00:53) README를 다시 썼다(02:41; MANIFEST에는 13,207 bytes, 실제 9,425 bytes). 원본과 로컬의 README sha256이 `a3bb5754…`로 **동일**함을 확인 |
-| 나머지 276개 | **검증 진행 중** — 07:09 현재 107개 OK, 실패 0 (README 제외). 완료 시 이 표 갱신 | |
+| 나머지 276개 | **OK** (2026-09-03 07:36 완료, 07:05 시작 → 31분) | 데이터·코드 전 파일이 원본 sha256과 일치. `VERIFY.sh`의 `RESULT: FAILED`는 README 1건 때문이며 데이터 무결성과 무관 |
 
 ### 1.2 겪은 함정 (다음 전송 때 재발 방지)
 
@@ -219,7 +219,7 @@ broader-CS(19.6M편) 채택을 막던 "full-text agent의 비-arXiv 논문 처�
 
 ## 8. 남은 일
 
-- [ ] `VERIFY.sh` 완료 결과 확정 (§1.1 갱신)
+- [x] `VERIFY.sh` 완료 — 276/277 OK, README만 원본 측 드리프트 (§1.1)
 - [ ] 원본 측 `authorized_keys` 정리 요청 및 로컬 `id_kisti` 폐기 (§1.3)
 - [ ] `asg-corpus`에 `tantivy==0.26.0` 설치 후 `search_fulltext.py` 스모크 (색인 v7 오픈 확인)
 - [ ] 우리 corpus ↔ `paper_meta.meta.openalex_id` 매핑률 · `has_full_text` 커버리지 실측 (§7.1)
