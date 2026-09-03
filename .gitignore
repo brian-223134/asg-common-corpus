@@ -229,5 +229,7 @@ logs/
 # agent 운용 절차서 *-usage.md는 다른 사람이 써야 하므로 추적한다.
 docs/*
 !docs/*-usage.md
+# KISTI 전달본(Science Data Lake 파생 스토어) 인벤토리·환경·접근 방법은 공유 대상이라 추적한다.
+!docs/kisti-db.md
 
 common-corpus-v1-development-spec.md
