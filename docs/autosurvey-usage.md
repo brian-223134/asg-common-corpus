@@ -32,13 +32,25 @@ cp ../asg-common-corpus/data/exports/bench-2512.autosurvey.json \
 cp ../asg-common-corpus/data/exports/bench-2512.autosurvey.json.manifest.json \
    database_commoncorpus-bench-2512/
 
-# conda autosurvey env + 유휴 GPU 확인(nvidia-smi) 후 — 908K 기준 약 30분
+# conda autosurvey env + 유휴 GPU 확인(nvidia-smi) 후 — 947K 기준 약 1시간 20분
 conda run -n autosurvey python scripts/build_index.py \
     --db-path ./database_commoncorpus-bench-2512 --device cuda
 ```
 
 `build_index.py`가 `database.py`가 읽는 이름 그대로 생성한다:
 `faiss_paper_title_embeddings.bin`, `faiss_paper_abs_embeddings.bin`, `arxivid_to_index_abs.json`.
+
+**소요 시간 실측** (2026-09-03, bench-2512 947,451편 · nomic-embed-text-v1 · cuda):
+
+| 단계 | 시간 |
+|---|---|
+| title 임베딩 (3,701 batch) | **7분 01초** (8.78 it/s) |
+| abstract 임베딩 (3,701 batch) | **1시간 10분 28초** (1.14 s/it) |
+| 합계 (모델 로딩·FAISS write 포함) | **약 1시간 18분** |
+
+abstract 단계가 title의 **10배**다 — 같은 편수라도 토큰 길이가 지배한다. 전체 시간의 90%가
+abstract 단계이므로 진행률을 볼 때 title이 빨리 끝난다고 곧 끝나는 것이 아니다.
+(2026-08-31 908K 빌드도 72분으로 같은 규모였다. 이전 문서의 "약 30분"은 오기였다.)
 
 검증: `conda run -n autosurvey python scripts/check_db.py --db-path ./database_commoncorpus-bench-2512 --verify-embeddings 20`
 
@@ -68,7 +80,15 @@ run 기록에 `database_commoncorpus-bench-2512/*.manifest.json`의 sha를 남�
 
 ## 4. 문제 발생 시
 
-- 임베딩 OOM → `--batch-size 128`
+- 임베딩 OOM → ⚠ **`--batch-size`로는 해결되지 않는다.** `build_index.py`의 `get_embeddings()`가
+  텍스트 리스트만 파이썬 쪽에서 잘라 넘기고 `model.encode()`에 `batch_size=`를 전달하지 않아,
+  실제 GPU 배치는 `SentenceTransformer.encode`의 기본값 **32**로 고정된다 (sentence-transformers 2.7.0).
+  `--batch-size 256 → 128`은 GPU 메모리 사용량을 바꾸지 못한다. 실효 처방:
+  - `nvidia-smi`로 유휴 GPU 확보 후 `CUDA_VISIBLE_DEVICES`로 지정 (1차 처방)
+  - 그래도 안 되면 `--device cpu` (느리지만 완주)
+  - 근본 수정은 AutoSurvey 쪽 `get_embeddings()`가 `model.encode(batch, batch_size=batch_size)`로
+    batch_size를 전달하도록 고치는 것 — **미적용** (고치면 기본 256이 그대로 GPU에 걸려 오히려
+    메모리가 늘어나므로, 기본값 하향과 함께 바꿔야 한다)
 - `cs_paper_info` KeyError → export 파일이 옛 버전(`_default`) — asg-common-corpus에서 재export (커밋 `8339ee7` 이후)
 - 검색 결과에 GT survey가 보임 → view의 `--exclude-file` 목록 확인 후 재export
 
