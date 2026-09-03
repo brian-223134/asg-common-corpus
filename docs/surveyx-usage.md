@@ -107,8 +107,11 @@ DataCleaner까지 이미 수행하므로(`preprocessor.py:74`) `02_clean_data.py
 - **`md_text` 부재 가드 — 이미 구현됨**: 원 코드 두 곳의 무조건 `md_text` 참조
   (`SurveyX/REPRODUCTION.md` §3.1)는 C0 가드 2건으로 처리 완료다
   (`DataCleaner.quick_check()`의 md_text 필수조건 제거, `complete_abstract()` skip 가드).
-  **추가 조치 불필요.** FullTextResolver는 실패도 기록하므로 명시적으로 지우기 전까지
-  재시도하지 않는다.
+  **추가 조치 불필요.** FullTextResolver는 **영구 오류만** `failure.json`으로 동결한다
+  (파싱 실패, 본문 500자 미만 등) — 이 경우에만 `SurveyX/scripts/fetch_fulltext_batch.py
+  --retry-failed`가 필요하다. 429·타임아웃 같은 일시적 오류는 동결하지 않으므로
+  (`resolver.py:72-77`의 `is_transient` 분기) **재실행이 곧 재시도**다. 잠깐의 429로
+  논문이 영구히 pool 밖으로 빠져 pool 구성이 실행 시점에 좌우되는 것을 막는 장치다.
 - **authors 없음**: v1 corpus에는 저자가 없다. BibTeX 생성은 `make_bibtex()`가
   `ARXIV_SNAPSHOT_DUCKDB`(저자)와 venue lookup(출판처)에서 보강한다. Edge 산출물 실측으로
   저자 88%(175/199)·venue 32%(64/199) 표기 — 생성된 BibTeX의 author 필드를 스모크로 확인할 것.
