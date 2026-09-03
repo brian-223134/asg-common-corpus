@@ -17,7 +17,7 @@ import duckdb
 
 from common_corpus.config import PROJECT_ROOT
 from common_corpus.fulltext.parser import PARSER_VERSION, parse_eprint
-from common_corpus.fulltext.providers import ArxivFullTextProvider
+from common_corpus.fulltext.providers import ArxivFullTextProvider, is_transient
 
 log = logging.getLogger("fulltext.resolver")
 
@@ -69,6 +69,12 @@ class FullTextResolver:
             if len(text) < 500:
                 raise ValueError(f"parsed text too short ({len(text)} chars)")
         except Exception as e:
+            # 재시도로도 살아나지 않은 일시적 오류(429·타임아웃 등)는 동결하지 않는다.
+            # 동결하면 arXiv가 잠깐 막았다는 이유만으로 그 논문이 이후 모든 실행에서
+            # 영구히 pool 밖으로 빠져 pool 구성이 실행 시점에 좌우된다.
+            if is_transient(e):
+                log.error("fulltext 일시적 실패 %s (동결 안 함, 다음 실행에서 재시도): %s", arxiv_id, e)
+                raise
             fail_p.write_text(json.dumps({
                 "source_id": arxiv_id, "error": f"{type(e).__name__}: {e}",
                 "parser_version": PARSER_VERSION,
